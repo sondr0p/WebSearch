@@ -9,6 +9,7 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -63,16 +64,14 @@ import org.springframework.web.bind.annotation.RestController;
 @CrossOrigin("*")
 public class App {
 	
-	
 	@GetMapping("/articles")
     public List<Page> searchArticles (
             @RequestParam(required=false, defaultValue="usa") String query) throws Exception{
 		List<Page> matches = new ArrayList<>();
-		
 		// Check if no query
         if (query.isEmpty())
         	return matches;
-		
+        
         Path f = Paths.get("indexFolder");
     	StandardAnalyzer analyzer = new StandardAnalyzer();
     	IndexWriterConfig config = new IndexWriterConfig(analyzer);
@@ -82,57 +81,52 @@ public class App {
     	String indexLocation = System.getProperty("user.dir") + "/indexFolder";
     	File index = new File(indexLocation);
     	File[] files = index.listFiles();
-    	for (File file : files) {
-    		if (!file.delete()) { 
-    			System.out.println("Failed to delete "+file);
-    		}
+    	if(files.length == 0) {
+    		// GATHER ALL THE FILES FROM DOWNLOAD FOLDER AND INDEX THEM
+        	IndexWriter indexWriter = new IndexWriter(directory, config);
+        	
+        	// Get all the .txt files from folder and put them into array
+        	String downloadLocation = System.getProperty("user.dir") + "/downloadFiles";
+        	File folder = new File(downloadLocation);
+        	String[] listOfFiles = folder.list();
+        	Arrays.sort(listOfFiles, Comparator.comparingInt(String::length)); // This is so it goes by length of file name, not alphabetical
+        	if(listOfFiles == null) {
+        		System.out.println("Couldn't find the download folder");
+        	}
+        	
+        	// Get all links from HTML.txt and add them to list
+        	String linkLocation = System.getProperty("user.dir") + "/HTML.txt";
+        	List<String> listOfLinks = Files.readAllLines(Paths.get(linkLocation), Charset.forName("windows-1252"));
+        	
+        	
+        	System.out.println("Getting download files and links...");
+        	for (int i = 0; i < listOfFiles.length; i++) {
+        		String fileName = listOfFiles[i];
+        		float progress = (float)i / listOfFiles.length * 100;
+        		System.out.printf("Progress: %.2f%%\r", progress);
+        		// Used to check if txt file number == line number in HTML.txt
+        		String fileNumber= listOfFiles[i].replaceAll("[^0-9]", "");
+        		while(i != Integer.parseInt(fileNumber)) {
+        			i += 1;
+        		}
+        		
+        		String data = new String(Files.readAllBytes(Paths.get("downloadFiles/" + fileName)));
+        	    org.jsoup.nodes.Document d = Jsoup.parse(data);
+        	    String link = listOfLinks.get(i);
+        	    String body = "";
+        	    if(d.body() != null) {
+        	    	body = d.body().text();
+        	    }
+        	    Page test = new Page(d.title(), body, link);
+        	    Document doc = new Document();
+                doc.add(new org.apache.lucene.document.TextField("title", test.title, Field.Store.YES));
+                doc.add(new org.apache.lucene.document.TextField("content", test.content, Field.Store.YES));
+                doc.add(new org.apache.lucene.document.TextField("link", test.link, Field.Store.YES));
+                indexWriter.addDocument(doc);
+        	}
+            indexWriter.close();
+            System.out.println("Done!");
     	}
-    	
-    	
-        // GATHER ALL THE FILES FROM DOWNLOAD FOLDER AND INDEX THEM
-    	IndexWriter indexWriter = new IndexWriter(directory, config);
-    	
-    	// Get all the .txt files from folder and put them into array
-    	String downloadLocation = System.getProperty("user.dir") + "/downloadFiles";
-    	File folder = new File(downloadLocation);
-    	String[] listOfFiles = folder.list();
-    	Arrays.sort(listOfFiles, Comparator.comparingInt(String::length)); // This is so it goes by length of file name, not alphabetical
-    	if(listOfFiles == null) {
-    		System.out.println("Couldn't find the download folder");
-    	}
-    	
-    	// Get all links from HTML.txt and add them to list
-    	String linkLocation = System.getProperty("user.dir") + "/HTML.txt";
-    	List<String> listOfLinks = Files.readAllLines(Paths.get(linkLocation));
-    	
-    	
-    	System.out.println("Getting download files and links...");
-    	for (int i = 0; i < listOfFiles.length; i++) {
-    		String fileName = listOfFiles[i];
-    		
-    		// Used to check if txt file number == line number in HTML.txt
-    		String fileNumber= listOfFiles[i].replaceAll("[^0-9]", "");
-    		while(i != Integer.parseInt(fileNumber)) {
-    			i += 1;
-    		}
-    		
-    		String data = new String(Files.readAllBytes(Paths.get("downloadFiles/" + fileName)));
-    	    org.jsoup.nodes.Document d = Jsoup.parse(data);
-    	    String link = listOfLinks.get(i);
-    	    String body = "";
-    	    if(d.body() != null) {
-    	    	body = d.body().text();
-    	    }
-    	    Page test = new Page(d.title(), body, link);
-    	    Document doc = new Document();
-            doc.add(new org.apache.lucene.document.TextField("title", test.title, Field.Store.YES));
-            doc.add(new org.apache.lucene.document.TextField("content", test.content, Field.Store.YES));
-            doc.add(new org.apache.lucene.document.TextField("link", test.link, Field.Store.YES));
-            indexWriter.addDocument(doc);
-    	}
-        indexWriter.close();
-        System.out.println("Done!");
-    	
         
         // SCORE THE INDEXED FILES
         System.out.println("Scoring pages...");
