@@ -41,7 +41,7 @@
 		}
 	
 	</style> 
-  <script type="application/json" class="joomla-script-options new">{"csrf.token":"3d7a0055fb854d6f55bc1e5559036925","system.paths":{"root":"","base":""},"system.keepalive":{"interval":300000,"uri":"\/component\/ajax\/?format=json"}}</script> 
+  <script type="application/json" class="joomla-script-options new">{"csrf.token":"73a5459e186e6cbcc0794154e8d3ad5e","system.paths":{"root":"","base":""},"system.keepalive":{"interval":300000,"uri":"\/component\/ajax\/?format=json"}}</script> 
   <script src="/media/jui/js/jquery.min.js?2651ce3e7e7a83dbda58587663e47859" type="text/javascript"></script> 
   <script src="/media/jui/js/jquery-noconflict.js?2651ce3e7e7a83dbda58587663e47859" type="text/javascript"></script> 
   <script src="/media/com_hikashop/js/hikashop.js?v=403" type="text/javascript"></script> 
@@ -179,7 +179,7 @@ Browser.Engine.presto = false;
           <input type="hidden" name="option" value="com_users"> 
           <input type="hidden" name="task" value="user.login"> 
           <input type="hidden" name="return" value="aHR0cHM6Ly93d3cuZmRscC5nb3YvaW5kZXgucGhw"> 
-          <input type="hidden" name="3d7a0055fb854d6f55bc1e5559036925" value="1"> 
+          <input type="hidden" name="73a5459e186e6cbcc0794154e8d3ad5e" value="1"> 
          </div> 
          <div class="posttext"> 
           <p>Lost your library password or having technical difficulties?<br> Contact <a href="http://www.gpo.gov/askgpo/">askGPO </a>for help.</p> 

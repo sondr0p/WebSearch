@@ -1,0 +1,363 @@
+<!doctype html>
+<html class="no-js tn-html" lang="en">
+ <head> 
+  <title>About Bill Lee</title> 
+  <meta charset="utf-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="keywords"> 
+  <meta name="description"> 
+  <meta name="url" content="https://www.tn.gov/governor/about-bill-lee.html"> 
+  <meta name="lastModified" content="21 Feb 2019 12:59:32 CST"> 
+  <meta name="pageType"> 
+  <meta name="pageDepartment" content="governor"> 
+  <meta name="pageDivision"> 
+  <meta name="newsDateTimeString"> 
+  <meta name="eventDateTimeString"> 
+  <meta name="searchType"> 
+  <meta name="pagePath" content="/content/tn/governor/about-bill-lee"> 
+  <meta name="category"> 
+  <meta property="og:title" content="About Bill Lee"> 
+  <meta property="og:description"> 
+  <meta property="og:url" content="https://www.tn.gov/governor/about-bill-lee.html"> 
+  <meta property="og:image"> 
+  <meta name="twitter:card" content="summary"> 
+  <meta name="twitter:title" content="About Bill Lee"> 
+  <meta name="twitter:description"> 
+  <meta name="twitter:url" content="https://www.tn.gov/governor/about-bill-lee.html"> 
+  <meta name="twitter:image"> 
+  <link rel="shortcut icon" href="/etc/clientlibs/tncore/main/img/favicon.ico"> 
+  <link rel="canonical" href="https://www.tn.gov/governor/about-bill-lee.html"> 
+  <link rel="stylesheet" href="/etc/clientlibs/tncore/main.min.7b7f24489495d82cdd3b7a88107b9f76.css" type="text/css"> 
+  <link rel="stylesheet" href="/etc/clientlibs/tn-sites/tngov.min.de4d4402ec2138999b5540dbe08724b4.css" type="text/css"> 
+  <script src="//assets.adobedtm.com/046dcefde06052c1522b33b00453f0592c8031e1/satelliteLib-0eaceea9a3f6b60d158884d8c7daf5435071c1e5.js"></script> 
+ </head> 
+ <body class="tngov" data-selectors="[]" data-template="narrow"> 
+  <div class="sr-only sr-only-focusable"> 
+   <p><a href="#main">Skip to Main Content</a></p> 
+  </div> 
+  <noindex> 
+   <div> 
+   </div> 
+   <div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+      <div class="tn_header tn-header">
+       <header id="header"> 
+        <div class="row center-block top-nav"> 
+         <a class="logo" href="https://www.tn.gov/" data-logo="state-government" style="background-image: url('/etc/clientlibs/tncore/main/img/logos/tn-logo.png')"> 
+          <div>
+           Home
+          </div> </a> 
+         <a class="search-all icon-home-1" href="https://www.tn.gov/">Go to TN.gov</a> 
+        </div> 
+        <div class="row center-block agency"> 
+         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 columns title"> 
+          <a href="/content/tn/governor.html"> <img src="/content/dam/headers/governor.png" alt="  State of Tennessee" id="entity-name" data-pin-nopin="true"> </a> 
+         </div> 
+         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 columns text-right"> 
+          <div class="tn-headersearch">
+           <div class="search"> 
+            <form method="get" action="/governor/search-results.html"> 
+             <input type="text" class="search-box" name="q" placeholder="Search Governor Bill Lee" aria-label="Search Governor Bill Lee"> 
+             <input type="submit" value="Search" class="search-button"> 
+             <i class="icon-search"></i> 
+            </form> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="backdrop" style="background-image:url(/content/dam/headers/test.jpg)"></div> 
+       </header> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="tn-topnav">
+    <nav id="nav"> 
+     <div class="row center-block"> 
+      <div class="col-lg-12"> 
+       <div class="logo-small tn-logo"> 
+        <a href="/content/tn.html"><span class="sr-only">Go to TN.gov</span></a> 
+       </div> 
+       <div class="mobile-show icon-menu mobile-menu">
+        Section
+       </div> 
+       <ul class="inline-list nav-items"> 
+        <li> <a href="/governor.html" class="icon-home"><span class="sr-only">Go to Governor</span></a> </li> 
+        <li> <a href="/governor/news.html">News</a> </li> 
+        <li class="dropdown"> <a href="/governor/about-bill-lee.html">About Bill Lee<i class="icon-down-dir"></i></a> 
+         <ul> 
+          <li><a href="/governor/about-bill-lee/official-portraits.html">Download Official Portraits</a></li> 
+          <li><a href="/governor/about-bill-lee/redirect-governor-lee-biography.html">Governor Lee's Biography</a></li> 
+          <li><a href="/governor/about-bill-lee/first-lady-maria-lee.html">First Lady Maria Lee</a></li> 
+          <li><a href="/governor/about-bill-lee/governor-s-excellence-in-service-awards.html">Governor’s Excellence in Service Awards</a></li> 
+          <li><a href="/governor/about-bill-lee/state-of-the-state-2019-address.html">State of the State Address 2019</a></li> 
+         </ul> </li> 
+        <li> <a href="/governor/cabinet.html">Cabinet</a> </li> 
+        <li> <a href="/governor/first-lady-lee.html">First Lady Lee</a> </li> 
+        <li class="dropdown"> <a href="/governor/contact-us.html">Contact Us<i class="icon-down-dir"></i></a> 
+         <ul> 
+          <li><a href="/governor/contact-us/capitol-flag-request.html">Capitol Flag Request</a></li> 
+          <li><a href="/governor/contact-us/request-for-certificate-of-recognition.html">Request for Certificate of Recognition</a></li> 
+          <li><a href="/governor/contact-us/fellowship-program.html">Fellowship Program</a></li> 
+          <li><a href="/governor/contact-us/internship-program.html">Internship Program</a></li> 
+          <li><a href="/governor/contact-us/letter-request.html">Letter Request</a></li> 
+          <li><a href="/governor/contact-us/proclamation-request.html">Proclamation Request</a></li> 
+          <li><a href="/governor/contact-us/scheduling-request.html">Scheduling Request</a></li> 
+          <li><a href="/governor/contact-us/public-records-policy.html">Public Records Policy</a></li> 
+          <li><a href="/governor/contact-us/mentors.html">Volunteer Mentorship Initiative</a></li> 
+         </ul> </li> 
+        <li> <a href="/governor/billreview.html">Bill Review</a> </li> 
+        <li> <a href="/governor/events.html">Events</a> </li> 
+       </ul> 
+       <div class="right primary-print"> 
+        <a href="javascript:window.print();" class="icon-print"><span class="sr-only">Print This Page</span></a> 
+       </div> 
+       <div class="right secondary-print"> 
+        <a href="javascript:window.print();" class="icon-print"><span class="sr-only">Print This Page</span></a> 
+       </div> 
+       <div class="right secondary-search"> 
+        <a class="icon-search"><span class="sr-only">Go to Search</span></a> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="config hidden" data-config="{&quot;closeMenuText&quot;:&quot;Close Menu&quot;,&quot;menuText&quot;:&quot;Section&quot;}"></div> 
+    </nav> 
+   </div> 
+   <div class="tn-alerts"> 
+   </div> 
+  </noindex> 
+  <div id="main" tabindex="-1"> 
+   <div class="row"> 
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1 content"> 
+     <article> 
+      <div class="tn-pagetitle show" aria-hidden="false"> 
+       <h1>Bill Lee, 50th Governor of Tennessee</h1> 
+      </div> 
+      <div> 
+       <div class="tn-textandimage textimage parbase"> 
+        <div class="textimage-right" style="float: right;"> 
+         <div id="cq-image-jsp-/content/tn/governor/about-bill-lee/jcr:content/content/tn_textandimage/image">
+          <a href="/content/dam/tn/governorsoffice-documents/governorlee-images/lee_portrait.jpg"><img src="/content/tn/governor/about-bill-lee/jcr%3acontent/content/tn_textandimage/image.img.jpg/1550775572222.jpg" alt="Governor Bill Haslam" title="Governor Bill Lee" class="cq-dd-image"></a>
+         </div> 
+         <script type="text/javascript">
+    (function() {
+        var imageDiv = document.getElementById("cq\u002Dimage\u002Djsp\u002D\/content\/tn\/governor\/about\u002Dbill\u002Dlee\/jcr:content\/content\/tn_textandimage\/image");
+        var imageEvars = '{ imageLink: "/content/dam/tn/governorsoffice-documents/governorlee-images/lee_portrait.jpg", imageAsset: "/content/dam/tn/governorsoffice-documents/governorlee-images/GovLee_Update.jpg", imageTitle: "Governor Bill Lee" }';
+        var tagNodes = imageDiv.getElementsByTagName('A');
+        for (var i = 0; i < tagNodes.length; i++) {
+            var link = tagNodes.item(i); 
+            link.setAttribute('onclick', 'CQ_Analytics.record({event: "imageClick", values: ' + imageEvars + ', collect: false, options: { obj: this }, componentPath: "tncore\/components\/content\/tn\u002Dimage"})');
+        }
+        
+    })();
+</script> 
+        </div> 
+        <div class="textimage-text"> 
+         <p>As a seventh-generation Tennessean, Bill’s roots run deep in this state. He was raised in Franklin where he still resides today with his wife Maria on his family’s farm. He’s the proud father of four adult children (Jessica, twin sons Jacob and Caleb, and Sarah Kate) and five grandchildren.</p> 
+         <p>After attending Williamson County Schools, Bill went to Auburn University, where he studied Mechanical Engineering. When he graduated, he returned home to Franklin to join the family business his grandfather started in 1944. Through hard work, Bill learned what it takes to lead a company, doing what is necessary to help build a business and create jobs. He held several roles at Lee Company before becoming President of the company in 1992.</p> 
+         <p>Under Bill’s leadership, the company grew into a comprehensive facilities solutions and home services company. It now employs more than 1,200 individuals and it has won numerous awards for work culture and business accomplishments. Bill was named a “Most Admired CEO” in 2015 by the Nashville Business Journal.</p> 
+         <p>Bill has said throughout his campaign that he woke up every morning focused on how to make life better for his employees, and now he’s excited to get to work to wake up every morning trying to improve the lives of 6.5 million Tennesseans.</p> 
+         <p>As Governor, Bill is focused on several priorities including good jobs, great schools, and safe neighborhoods so we can keep Tennessee moving in the right direction. Tennessee is one of the best places in the country to live and work, and he is going to work hard every day to try to make life even better.</p> 
+         <p>Bill and Maria are people of strong faith. They are active in Grace Chapel Church and in numerous faith-based ministries, which have taken them all over the world to serve people in need, including to Africa, Central America, and the Middle East.</p> 
+        </div> 
+        <div class="clear"></div>
+       </div> 
+      </div> 
+     </article> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="tn-backtotop">
+   <a href="#header" class="page-top icon-up"></a> 
+  </div> 
+  <noindex> 
+   <div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+     </div> 
+    </div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+      <div class="tn_socialmediafooter tn-socialmediafooter">
+       <div class="tn-socialmediabarfooter"> 
+        <div class="social"> 
+         <div class="row"> 
+          <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 columns"> 
+           <ul class="inline-list"> 
+            <li><h2>Social Media</h2></li> 
+            <li><a href="https://www.facebook.com/govbilllee" class="icon-facebook" target="_blank"><span>facebook</span></a></li> 
+            <li><a href="https://twitter.com/govbilllee" class="icon-twitter" target="_blank"><span>twitter</span></a></li> 
+            <li><a href="https://www.instagram.com/govbilllee/" class="icon-instagram" target="_blank"><span>instagram</span></a></li> 
+            <li><a href="https://www.flickr.com/photos/govbilllee/" class="icon-flickr" target="_blank"><span>flickr</span></a></li> 
+           </ul> 
+          </div> 
+         </div> 
+        </div> 
+       </div>
+      </div> 
+      <div class="tn_secondaryfooter tn-secondaryfooter">
+       <footer id="agency-footer"> 
+        <div class="row"> 
+         <div class="col-md-15 col-sm-15 columns"> 
+          <h2 class="border-darkblue">About</h2> 
+          <ul class="block-list"> 
+           <li><a href="/governor/about-bill-lee.html">About Bill Lee</a></li> 
+           <li><a href="/governor/about-bill-lee/official-portraits.html">Download Official Portraits</a></li> 
+           <li><a href="/firstlady.html">First Lady Maria Lee</a></li> 
+          </ul> 
+         </div> 
+         <div class="col-md-15 col-sm-15 columns"> 
+          <h2 class="border-darkblue">Resources</h2> 
+          <ul class="block-list"> 
+          </ul> 
+         </div> 
+         <div class="col-md-15 col-sm-15 columns"> 
+          <h2 class="border-darkblue"><a href="/governor/contact-us.html">Contact Us</a></h2> 
+          <ul class="block-list"> 
+           <li><a href="/governor/contact-us/capitol-flag-request.html">Capitol Flag Request</a></li> 
+           <li><a href="/governor/contact-us/request-for-certificate-of-recognition.html">Request for Certificate of Recognition</a></li> 
+           <li><a href="/governor/contact-us/fellowship-program.html">Fellowship Program</a></li> 
+           <li><a href="/governor/contact-us/internship-program.html">Internship Program</a></li> 
+           <li><a href="/governor/contact-us/letter-request.html">Letter Request</a></li> 
+           <li><a href="/governor/contact-us/proclamation-request.html">Proclamation Request</a></li> 
+           <li><a href="/governor/contact-us/scheduling-request.html">Scheduling Request</a></li> 
+          </ul> 
+         </div> 
+         <div class="col-md-15 col-sm-15 columns last"> 
+          <div class="contact"> 
+           <strong>Governor's Office<br></strong> Bill Lee, Governor
+           <br> 
+           <br> 
+           <address> State Capitol, 1st Floor<br> 600 Dr. Martin L. King, Jr. Blvd.<br> Nashville, TN 37243<br> (615) 741-2001<br> </address> 
+          </div> 
+          <div> 
+           <img src="/etc/clientlibs/tncore/main/img/tn-seal.png" alt="Tennessee State Seal"> 
+          </div> 
+         </div> 
+        </div> 
+       </footer> 
+      </div> 
+     </div> 
+    </div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+      <div class="tn_footer tn-footer parbase"> 
+       <footer id="footer"> 
+        <div id="footer-top"> 
+         <div class="row"> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns"> 
+           <ul class="inline-list"> 
+            <li> <a href="/about-tn/flag-status.html" class="icon-flag" data-resource-path="/_jcr_content/footer/tn_footer"> </a> </li> 
+            <li id="footer-livechat" class="offline"> <a href="#" class="icon-chat" onclick="openFooterChat()" target="_blank"> Live Chat </a> 
+             <div class="livechat"> 
+              <script type="text/javascript">
+                                function openFooterChat() {
+                                    window.open ("https://help.tn.gov/sn_customerservice_tn_chat_selector.do", "popup", "width=900, height=600"); 
+                                 };
+                            </script> 
+             </div> </li> 
+           </ul> 
+          </div> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns text-right"> 
+           <ul class="inline-list"> 
+            <li> <a href="/help.html" class="icon-help-circled">Help</a> </li> 
+            <li id="footer-share"><a href="#" class="icon-export">Share</a> 
+             <div class="drop right"> 
+              <div class="box"> 
+               <span class="st_sharethis_large" displaytext="ShareThis"></span> 
+               <span class="st_facebook_large" displaytext="Facebook"></span> 
+               <span class="st_twitter_large" displaytext="Tweet"></span> 
+               <span class="st_googleplus_large" displaytext="Google +"></span> 
+               <span class="st_linkedin_large" displaytext="LinkedIn"></span> 
+               <script type="text/javascript">
+                                    var switchTo5x = true;
+                                </script> 
+               <script type="text/javascript" src="//ws.sharethis.com/button/buttons.js"></script> 
+               <script type="text/javascript">
+                                    if (typeof stLight !== 'undefined') {
+                                        stLight.options({
+                                            publisher : "5dc356bf-5442-455c-b483-ab8ca7d8cd15",
+                                            doNotHash : false,
+                                            doNotCopy : false,
+                                            hashAddressBar : false
+                                        });
+                                    }
+                                </script> 
+              </div> 
+             </div></li> 
+            <li id="footer-translate"><a href="#" class="icon-book">Translate</a> 
+             <div class="drop right"> 
+              <div class="box"> 
+               <div id="google_translate_element"></div> 
+              </div> 
+             </div></li> 
+            <li id="footer-fontsize"><a href="#" class="icon-font">Font Size</a> 
+             <div class="drop right"> 
+              <div class="box"> 
+               <ul class="inline-list"> 
+                <li><a class="button" data-font-size="small">a-</a></li> 
+                <li><a class="button active" data-font-size="normal">Normal</a></li> 
+                <li><a class="button" data-font-size="large">A+</a></li> 
+               </ul> 
+              </div> 
+             </div></li> 
+           </ul> 
+          </div> 
+         </div> 
+         <a class="starball"> <img src="/etc/clientlibs/tncore/main/img/footer-starball.png" alt="Tristar" width="100%"> </a> 
+        </div> 
+        <div id="footer-bottom"> 
+         <div class="row"> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns"> 
+           <ul class="inline-list"> 
+            <li> <a href="/state-services.html" class="first">TN.gov Services</a> <a href="/directory.html">TN.gov Directory</a> <a href="/transparenttn.html">Transparent TN</a> <a href="/web-policies/privacy-statement.html">Web Policies</a> </li> 
+           </ul> 
+          </div> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns text-right"> 
+           <ul class="inline-list"> 
+            <li> <a href="/about-tn/state-symbols.html">About Tennessee</a> <a href="/humanrights/file-a-discrimination-complaint/title-vi1/title-vi-disclaimer.html">Title VI</a> <a href="/web-policies/accessibility.html">Accessibility</a> <a href="/help.html">Help &amp; Contact</a> <a href="/survey.html">Survey</a> </li> 
+           </ul> 
+          </div> 
+         </div> 
+        </div> 
+       </footer> 
+       <div id="modal-footer"></div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <script type="text/javascript" src="/etc/clientlibs/tncore/main.min.73d9ee3d42191396dd2a3447bf54bab7.js"></script> 
+   <script type="text/javascript">_satellite.pageBottom();</script> 
+  </noindex> 
+  <div id="overlay"></div> 
+  <!-- Begin Dynamic Modal for Videos --> 
+  <div class="tn-videoModal modal fade" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="videoModal" aria-hidden="true"> 
+   <div class="modal-dialog"> 
+    <div class="modal-content"> 
+     <div class="modal-body"> 
+      <a href="#" data-dismiss="modal" class="close-video icon-cancel text-button">Close</a> 
+      <div class="videoWrapper"> 
+       <iframe src=""></iframe> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- End Dynamic Modal for Videos --> 
+  <!-- DTM Analytics Datalayer --> 
+  <script>
+            var digitalData = { pageInfo: {} };
+            digitalData.pageInfo.pageName = "governor:about-bill-lee";
+        </script>   
+ </body>
+</html>

@@ -41,7 +41,7 @@
 		}
 	
 	</style> 
-  <script type="application/json" class="joomla-script-options new">{"csrf.token":"3d7a0055fb854d6f55bc1e5559036925","system.paths":{"root":"","base":""},"system.keepalive":{"interval":300000,"uri":"\/component\/ajax\/?format=json"}}</script> 
+  <script type="application/json" class="joomla-script-options new">{"csrf.token":"0477ba20b5884167e3c5368ee028dd67","system.paths":{"root":"","base":""},"system.keepalive":{"interval":300000,"uri":"\/component\/ajax\/?format=json"}}</script> 
   <script src="/media/jui/js/jquery.min.js?2651ce3e7e7a83dbda58587663e47859" type="text/javascript"></script> 
   <script src="/media/jui/js/jquery-noconflict.js?2651ce3e7e7a83dbda58587663e47859" type="text/javascript"></script> 
   <script src="/media/com_hikashop/js/hikashop.js?v=403" type="text/javascript"></script> 
@@ -179,7 +179,7 @@ Browser.Engine.presto = false;
           <input type="hidden" name="option" value="com_users"> 
           <input type="hidden" name="task" value="user.login"> 
           <input type="hidden" name="return" value="aHR0cHM6Ly93d3cuZmRscC5nb3YvaW5kZXgucGhw"> 
-          <input type="hidden" name="3d7a0055fb854d6f55bc1e5559036925" value="1"> 
+          <input type="hidden" name="0477ba20b5884167e3c5368ee028dd67" value="1"> 
          </div> 
          <div class="posttext"> 
           <p>Lost your library password or having technical difficulties?<br> Contact <a href="http://www.gpo.gov/askgpo/">askGPO </a>for help.</p> 
@@ -1008,7 +1008,10 @@ Browser.Engine.presto = false;
       </div> 
      </div>
     </div>
-   </div>  
+   </div>
+   <script type="text/javascript">/*joomlatools job scheduler*/
+!function(){function e(e,t,n,o){try{o=new(this.XMLHttpRequest||ActiveXObject)("MSXML2.XMLHTTP.3.0"),o.open("POST",e,1),o.setRequestHeader("X-Requested-With","XMLHttpRequest"),o.setRequestHeader("Content-type","application/x-www-form-urlencoded"),o.onreadystatechange=function(){o.readyState>3&&t&&t(o.responseText,o)},o.send(n)}catch(c){}}function t(n){e(n,function(e,o){try{if(200==o.status){var c=JSON.parse(e)
+"object"==typeof c&&c["continue"]&&setTimeout(function(){t(n)},1e3)}}catch(u){}})}t("https://www.fdlp.gov/index.php?option=com_joomlatools&controller=scheduler")}()</script>  
   </div>
  </body>
 </html>

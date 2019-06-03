@@ -1,0 +1,167 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+ <head> 
+  <base href="https://www.fdlp.gov/about-fdlp/3955-historic-publications/about-fdlp/3955-historic-publications"> 
+  <meta http-equiv="content-type" content="text/html; charset=utf-8"> 
+  <meta name="keywords" content="FDLP, Federal Depository Library Program"> 
+  <meta name="author" content="Jamie Philpotts"> 
+  <meta name="robots" content="noindex, nofollow"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta name="description" content="Federal Depository Library Program"> 
+  <title>Historic Publications</title> 
+  <link href="/templates/fdlp/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"> 
+  <link href="/media/com_hikashop/css/hikashop.css?v=403" rel="stylesheet" type="text/css"> 
+  <link href="/media/com_hikashop/css/frontend_custom1.css?t=1555002915" rel="stylesheet" type="text/css"> 
+  <link href="/media/com_hikashop/css/font-awesome.css?v=5.2.0" rel="stylesheet" type="text/css"> 
+  <link href="/cache/widgetkit/widgetkit-ba38d738.css" rel="stylesheet" type="text/css"> 
+  <style type="text/css">
+		.dj-hideitem, li.item-2831 { display: none !important; }
+
+	</style> 
+  <script src="/media/jui/js/jquery.min.js?2651ce3e7e7a83dbda58587663e47859" type="text/javascript"></script> 
+  <script src="/media/jui/js/jquery-noconflict.js?2651ce3e7e7a83dbda58587663e47859" type="text/javascript"></script> 
+  <script src="/media/com_hikashop/js/hikashop.js?v=403" type="text/javascript"></script> 
+  <script src="/media/jui/js/jquery-migrate.min.js?2651ce3e7e7a83dbda58587663e47859" type="text/javascript"></script> 
+  <script src="/cache/widgetkit/widgetkit-836c59ce.js" type="text/javascript"></script> 
+  <script src="/plugins/system/maximenuckmobile/assets/maximenuckmobile.js" type="text/javascript"></script> 
+  <script type="text/javascript">
+var CKTEXT_PLG_MAXIMENUCK_MENU = 'Menu';
+	</script> 
+  <link href="/component/obrss/news-and-events" rel="alternate" type="application/rss+xml" title="News &amp; Events (rss2.0)"> 
+  <link href="/component/obrss/news-events-test" rel="alternate" type="application/atom+xml" title="News &amp; Events (ATOM 0.3)"> 
+  <link rel="stylesheet" href="/templates/fdlp/css/template.css" type="text/css"> 
+  <!--[if lt IE 9]>
+	<script src="/media/jui/js/html5.js"></script>
+<![endif]--> 
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-58540512-1', 'www.fdlp.gov');
+  ga('send', 'pageview');
+
+</script> 
+  <!-- Universal Google Analytics Plugin by PB Web Development --> 
+ </head> 
+ <body class="contentpane modal">
+  <div class="dj-offcanvas-wrapper">
+   <div class="dj-offcanvas-pusher">
+    <div class="dj-offcanvas-pusher-in"> 
+     <div id="system-message-container"> 
+     </div> 
+     <article class="item-page"> 
+      <h1> Historic Publications </h1> 
+      <ul class="actions"> 
+       <li> <a href="#" onclick="window.print();return false;"> <img src="/media/system/images/printButton.png" alt="Print"> </a> </li> 
+      </ul> 
+      <dl class="article-info"> 
+       <dt class="article-info-term">
+        Details
+       </dt> 
+       <dd class="modified">
+         Last Updated: May 28 2019 
+       </dd> 
+       <dd class="published">
+         Published: February 08 2019 
+       </dd> 
+      </dl> 
+      <p>GPO's Catalog of U.S. Government Publications and govinfo.gov offer free public access to a wide variety of interesting Government documents. Check out these interesting historic finds.</p> 
+      <h2><i>Spring 2019</i></h2> 
+      <div class="row-fluid"> 
+       <ul class="thumbnails"> 
+        <li class="span4"> 
+         <div class="thumbnail">
+          <a href="https://purl.fdlp.gov/GPO/gpo83741" title="Link to report from the National Park Service" target="_blank" rel="noopener"><img alt="1 wallpaper" src="/images/Historic-publications/Spring-2019/1-wallpaper.png" height="297" width="225" style="display: block; margin-left: auto; margin-right: auto;"></a> 
+          <div class="caption"> 
+           <p>Considering renovating a historic property? This <a href="https://purl.fdlp.gov/GPO/gpo83741" target="_blank" rel="noopener">report from the National Park Service</a> offers an extensive history of wallpaper styles and technologies, and guidance for restoration projects.</p> 
+          </div> 
+         </div> </li> 
+        <li class="span4"> 
+         <div class="thumbnail">
+          <a href="https://purl.fdlp.gov/GPO/gpo120962" title="Link to picture book" target="_blank" rel="noopener"><img alt="2 mallards" src="/images/Historic-publications/Spring-2019/2-mallards.png" height="276" width="325" style="display: block; margin-left: auto; margin-right: auto;"></a> 
+          <div class="caption"> 
+           <p>Government publications are fun for all ages! Enjoy this <a href="https://purl.fdlp.gov/GPO/gpo120962" target="_blank" rel="noopener">picture book</a> and learn about the mating patterns of mallard ducks.</p> 
+          </div> 
+         </div> </li> 
+        <li class="span4"> 
+         <div class="thumbnail">
+          <a href="https://purl.fdlp.gov/GPO/gpo92804" title="Link to Final Report on the WPA Program, 1935-43" target="_blank" rel="noopener"><img alt="3 finalreportWPA" src="/images/Historic-publications/Spring-2019/3-finalreportWPA.png" height="321" width="225" style="display: block; margin-left: auto; margin-right: auto;"></a> 
+          <div class="caption"> 
+           <p>The Works Progress Administration provided employment for 8,500,000 individuals over the course of the program’s eight years in operation. The <a href="https://purl.fdlp.gov/GPO/gpo92804" target="_blank" rel="noopener">Final Report on the WPA Program, 1935-43</a> chronicles projects undertaken, employment by state and project, and program expenditures.</p> 
+          </div> 
+         </div> </li> 
+       </ul> 
+      </div> 
+      <div class="row-fluid"> 
+       <ul class="thumbnails"> 
+        <li class="span4"> 
+         <div class="thumbnail">
+          <a href="https://purl.fdlp.gov/GPO/gpo120344" title="Link to the Hearing on Expanded Consumer Protection" target="_blank" rel="noopener"><img alt="4 hearing" src="/images/Historic-publications/Spring-2019/4-hearing.png" height="359" width="225" style="display: block; margin-left: auto; margin-right: auto;"></a> 
+          <div class="caption"> 
+           <p>In 1961 the U.S. Government passed H.R. 5442, mandating the inclusion of a maker’s mark on gold and silver articles. This <a href="https://purl.fdlp.gov/GPO/gpo120344" target="_blank" rel="noopener">hearing</a> describes the need for expanded consumer protection, beyond the scope of the National Stamping Act. &nbsp;</p> 
+          </div> 
+         </div> </li> 
+        <li class="span4"> 
+         <div class="thumbnail">
+          <a href="https://purl.fdlp.gov/GPO/gpo93763" target="_blank" rel="noopener" title="Link to coloring book from the U.S. Fish and Wildlife Service"><img alt="5 coloringbook" src="/images/Historic-publications/Spring-2019/5-coloringbook.png" height="291" width="225" style="display: block; margin-left: auto; margin-right: auto;"></a> 
+          <div class="caption"> 
+           <p>Looking for a fun staff development activity? Learn about wildlife and relieve stress with this <a href="https://purl.fdlp.gov/GPO/gpo93763" target="_blank" rel="noopener">coloring book from the U.S. Fish and Wildlife Service</a>.</p> 
+          </div> 
+         </div> </li> 
+       </ul> 
+      </div> 
+      <h2><em>Winter 2019</em></h2> 
+      <div class="row-fluid"> 
+       <ul class="thumbnails"> 
+        <li class="span4"> 
+         <div class="thumbnail">
+          <a href="https://purl.fdlp.gov/GPO/gpo114105" title="Link to the USGS investigated in 1905" target="_blank" rel="noopener"><img alt="1 usgs report" src="/images/Historic-publications/Winter-2019/1-usgs-report.jpg" height="375" width="225" style="display: block; margin-left: auto; margin-right: auto;"></a> 
+          <div class="caption"> 
+           <p>Did wood-pulp mills in New York contribute to pollution in Lake Champlain? The <a href="https://purl.fdlp.gov/GPO/gpo114105" title="Link to USGS investigated in 1905" target="_blank" rel="noopener">USGS investigated in 1905</a>.</p> 
+          </div> 
+         </div> </li> 
+        <li class="span4"> 
+         <div class="thumbnail">
+          <a href="https://purl.fdlp.gov/GPO/gpo110868" title="Link to January 1912 report from the National Monetary Commission" target="_blank" rel="noopener"><img alt="2 national monetary commission" src="/images/Historic-publications/Winter-2019/2-national-monetary-commission.jpg" height="375" width="225" style="display: block; margin-left: auto; margin-right: auto;"></a> 
+          <div class="caption"> 
+           <p>Want to know more about banking conditions in the U.S. and other countries before World War I? Check out this <a href="https://purl.fdlp.gov/GPO/gpo110868" title="Link to January 1912 report from the National Monetary Commission" target="_blank" rel="noopener">January 1912 report from the National Monetary Commission</a>.</p> 
+          </div> 
+         </div> </li> 
+        <li class="span4"> 
+         <div class="thumbnail">
+          <a href="https://www.govinfo.gov/content/pkg/CHRG-89hhrg68874/pdf/CHRG-89hhrg68874.pdf" title="Link to 89th Congress hearing" target="_blank" rel="noopener"><img alt="3 german painting hearing" src="/images/Historic-publications/Winter-2019/3-german-painting-hearing.jpg" height="345" width="225" style="display: block; margin-left: auto; margin-right: auto;"></a> 
+          <div class="caption"> 
+           <p>Learn how three paintings, including a Rembrandt, were stolen from Germany in 1922 and ended up in Ohio. The Committee on Interstate and Foreign Commerce discussed the potential return of the paintings to West Germany during this <a href="https://www.govinfo.gov/content/pkg/CHRG-89hhrg68874/pdf/CHRG-89hhrg68874.pdf" title="Link to 89th Congress hearing" target="_blank" rel="noopener">89th Congress hearing</a>.</p> 
+          </div> 
+         </div> </li> 
+       </ul> 
+      </div> 
+      <div class="row-fluid"> 
+       <ul class="thumbnails"> 
+        <li class="span4"> 
+         <div class="thumbnail">
+          <a href="https://www.govinfo.gov/content/pkg/CHRG-90shrg91805/pdf/CHRG-90shrg91805.pdf" title="Link to the Hearing before the Committee on Foreign Relations" target="_blank" rel="noopener"><img alt="4 vietnam hearing" src="/images/Historic-publications/Winter-2019/4-vietnam-hearing.jpg" height="345" width="225" style="display: block; margin-left: auto; margin-right: auto;"></a> 
+          <div class="caption"> 
+           <p>Check out the <a href="https://www.govinfo.gov/content/pkg/CHRG-90shrg91805/pdf/CHRG-90shrg91805.pdf" title="Link to Hearing before the Committee on Foreign Relations" target="_blank" rel="noopener">Hearing before the Committee on Foreign Relations</a> during the 90th Congress to learn more about the military realities in Vietnam.</p> 
+          </div> 
+         </div> </li> 
+        <li class="span4"> 
+         <div class="thumbnail">
+          <a href="https://www.govinfo.gov/content/pkg/CHRG-96shrg48280O/pdf/CHRG-96shrg48280O.pdf" title="Link to briefing on compliance to the SALT I treaty" target="_blank" rel="noopener"><img alt="5 salt 1 hearing" src="/images/Historic-publications/Winter-2019/5-salt-1-hearing.jpg" height="345" width="225" style="display: block; margin-left: auto; margin-right: auto;"></a> 
+          <div class="caption"> 
+           <p>Read a <a href="https://www.govinfo.gov/content/pkg/CHRG-96shrg48280O/pdf/CHRG-96shrg48280O.pdf" title="Link to briefing on compliance to the SALT I treaty" target="_blank" rel="noopener">briefing on compliance to the SALT I treaty</a> before the Committee on Foreign Relations in the 96th Congress.</p> 
+          </div> 
+         </div> </li> 
+       </ul> 
+      </div> 
+     </article> 
+    </div>
+   </div>
+  </div>
+  <script type="text/javascript">/*joomlatools job scheduler*/
+!function(){function e(e,t,n,o){try{o=new(this.XMLHttpRequest||ActiveXObject)("MSXML2.XMLHTTP.3.0"),o.open("POST",e,1),o.setRequestHeader("X-Requested-With","XMLHttpRequest"),o.setRequestHeader("Content-type","application/x-www-form-urlencoded"),o.onreadystatechange=function(){o.readyState>3&&t&&t(o.responseText,o)},o.send(n)}catch(c){}}function t(n){e(n,function(e,o){try{if(200==o.status){var c=JSON.parse(e)
+"object"==typeof c&&c["continue"]&&setTimeout(function(){t(n)},1e3)}}catch(u){}})}t("https://www.fdlp.gov/index.php?option=com_joomlatools&controller=scheduler")}()</script>  
+ </body>
+</html>
