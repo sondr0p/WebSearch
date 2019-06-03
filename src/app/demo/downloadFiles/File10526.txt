@@ -1,0 +1,250 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+	License Verification | Mississippi Board of Nursing
+</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"> 
+  <link rel="stylesheet" type="text/css" href="https://static.licensure.msbn.ms.gov/content/themes/base/jquery-ui.min.css"> 
+  <link rel="stylesheet" type="text/css" href="https://static.licensure.msbn.ms.gov/content/bootstrap.min.css"> 
+  <link rel="stylesheet" type="text/css" href="https://static.licensure.msbn.ms.gov/content/bootstrap-theme.min.css"> 
+  <link rel="stylesheet" type="text/css" href="https://static.licensure.msbn.ms.gov/content/font-awesome.min.css"> 
+  <link rel="stylesheet" type="text/css" href="https://static.licensure.msbn.ms.gov/content/font-awesome-animation.min.css"> 
+  <script type="text/javascript" src="https://static.licensure.msbn.ms.gov/scripts/jquery-1.12.4.min.js"></script> 
+  <script type="text/javascript" src="https://static.licensure.msbn.ms.gov/scripts/jquery-ui-1.12.1.min.js"></script> 
+  <script type="text/javascript" src="https://static.licensure.msbn.ms.gov/scripts/cmssettings.js"></script> 
+  <script type="text/javascript" src="https://static.licensure.msbn.ms.gov/scripts/bootstrap.min.js"></script> 
+  <script type="text/javascript" src="https://static.licensure.msbn.ms.gov/common/application-validator/validator.js"></script> 
+  <script type="text/javascript" src="https://static.licensure.msbn.ms.gov/common/application-validator/alert-override.js"></script> 
+  <style type="text/css">
+            #AppHeader { background: url(https://static.licensure.msbn.ms.gov/common/images/msbn_seal_top_50.jpg) no-repeat, url(https://static.licensure.msbn.ms.gov/common/images/msbn_bg.jpg); height: 135px; width: 100%; border-bottom: 5px solid #396A92; }
+            #AppHeader img, #AppHeader h2 { margin: 25px 0 0 0; color: #396A92; }
+            #AppHeader h2 { margin-top: 45px; }
+            .table tbody tr td { border: none; }
+            .spacer { height: 20px; }
+            .ButtonGroup { text-align: center; }
+            .ButtonGroup .btn { width: 200px; }
+            .has-error { color: #a94442; }
+            .has-error .form-control, .has-error input, .has-error select, .has-error textarea { background-color:#f2dede !important; border-color: #a94442 !important; }
+            .BlockHeader { margin-top: 0; border-bottom: 1px solid #aaa; }
+        </style> 
+ </head> 
+ <body> 
+  <form method="post" action="./search.aspx" id="Form1"> 
+   <div class="aspNetHidden"> 
+    <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTc4MDUxMDY3OQ8WAh4TVmFsaWRhdGVSZXF1ZXN0TW9kZQIBFgJmD2QWAgIDD2QWAgIBD2QWBAIDDxAPFgYeDURhdGFUZXh0RmllbGQFBVZhbHVlHg5EYXRhVmFsdWVGaWVsZAUDS2V5HgtfIURhdGFCb3VuZGdkEBUJC1NlbGVjdCBUeXBlEFJlZ2lzdGVyZWQgTnVyc2UXTGljZW5zZSBQcmFjdGljYWwgTnVyc2USTnVyc2UgUHJhY3RpdGlvbmVyF0NlcnRpZmllZCBOdXJzZSBNaWR3aWZlJkNlcnRpZmllZCBSZWdpc3RlcmVkIE51cnNlIEFuZXN0aGV0aXN0DlJOIFRlbXAgUGVybWl0D0xQTiBUZW1wIFBlcm1pdARDQ0hUFQkAA1JOUANMUE4DTlBSA0NOTQNSTkEDUk5UA0xQVANDSFQUKwMJZ2dnZ2dnZ2dnZGQCBg8QDxYGHwEFBVZhbHVlHwIFA0tleR8DZ2QQFQkLU2VsZWN0IFR5cGUQUmVnaXN0ZXJlZCBOdXJzZRdMaWNlbnNlIFByYWN0aWNhbCBOdXJzZRJOdXJzZSBQcmFjdGl0aW9uZXIXQ2VydGlmaWVkIE51cnNlIE1pZHdpZmUmQ2VydGlmaWVkIFJlZ2lzdGVyZWQgTnVyc2UgQW5lc3RoZXRpc3QOUk4gVGVtcCBQZXJtaXQPTFBOIFRlbXAgUGVybWl0BENDSFQVCQADUk5QA0xQTgNOUFIDQ05NA1JOQQNSTlQDTFBUA0NIVBQrAwlnZ2dnZ2dnZ2dkZGRbtHQxMx6VEEUXaXK3hI94/wpXQ8owRir9tAuwKxVwiQ=="> 
+   </div> 
+   <div class="aspNetHidden"> 
+    <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="D4865EB9"> 
+    <input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdABgeh1gw4pd4kwBIKiBFX0yGdQFszOB0J/cpq94znG4PgsYW7wPVGBR8h5yXIlIL/3gz5GnNHDE1wQUvv2Uf3ziW4/dZfkiQfz3uxP3vPqoktXCUXnJOPFby0svzqiBbaOkq33mw86t2DVbQ3TEw2bFHRHyC86FF6eOo+TzqF53jpF5i7oqgjOjIzxYMHx/1kTp3eP2iDEFwmZk1QcczcV3y0mIJHcWgGLY9voT4auWhnHWqwQwhKYAeJdDIGNgFPv7z+mxaM2M8ViOHnSAZdOTWvJH946+1FnPQ5rszlKEk0Ba0P/4eBFo8rtpP3P2Ox4v7b0ZemlW+Fi+HRVyFpt3vjwNLwRRpIDo+GBljOY7TdiGJsfZXDJus4x6auh8oYokIFvm+04HYxgjLMqR585QFtQ4xClA7U9dAivup8tUkg9GApN85tpnd1fgnOuqqc6Ju2AWs7rvUUtO2Nb2Zvv3djpTDR9QfDFWtwoMoN+xY1N/bMs439bl+t7dgrjl2Bh5eHIXI9cL9eutL3wkTHSnGS0bPEv+MDkOrNZCC6OZZ9w=="> 
+   </div> 
+   <div id="AppHeader"> 
+    <div class="container"> 
+     <a id="LogoLink"> <img src="https://static.licensure.msbn.ms.gov/common/images/MSBN_logo_trans_50.png"> </a> 
+     <h2 class="pull-right">License Verification</h2> 
+    </div> 
+   </div> 
+   <div class="container" style="margin-bottom: 50px;"> 
+    <div class="spacer"></div> 
+    <div class="jumbotron"> 
+     <h2>Welcome to License Verification!</h2> 
+     <p> The Mississippi Board of Nursing's online license verification system is considered the primary source for verification of Mississippi nursing licenses. Click the button below to learn more! </p> 
+     <input type="button" class="btn btn-primary" value="Learn More" onclick="ShowInfo();"> 
+    </div> 
+    <div class="row"> 
+     <div class="col-md-8 col-md-offset-2"> 
+      <div class="row"> 
+       <div class="col-md-6"> 
+        <div class="panel panel-default" id="LeftSide"> 
+         <div class="panel-heading text-center">
+          <strong>Criteria 1</strong>
+         </div> 
+         <div class="panel-body"> 
+          <div class="form-group"> 
+           <label>License Number</label> 
+           <input name="ctl00$Content$txtLicenseNumber" type="text" maxlength="10" id="txtLicenseNumber" class="form-control"> 
+          </div> 
+          <div class="form-group text-center" style="margin-top: -10px; margin-bottom: 5px;"> 
+           <span class="label label-default">- AND -</span> 
+          </div> 
+          <div class="form-group"> 
+           <label>Last Name</label> 
+           <input name="ctl00$Content$txtLastName1" type="text" maxlength="30" id="txtLastName1" class="form-control"> 
+          </div> 
+          <div class="form-group text-center" style="margin-top: -10px; margin-bottom: 5px;"> 
+           <span class="label label-default">- AND -</span> 
+          </div> 
+          <div class="form-group"> 
+           <label>License Type</label> 
+           <select name="ctl00$Content$ddLicType1" id="ddLicType1" class="form-control"> <option value="">Select Type</option> <option value="RNP">Registered Nurse</option> <option value="LPN">License Practical Nurse</option> <option value="NPR">Nurse Practitioner</option> <option value="CNM">Certified Nurse Midwife</option> <option value="RNA">Certified Registered Nurse Anesthetist</option> <option value="RNT">RN Temp Permit</option> <option value="LPT">LPN Temp Permit</option> <option value="CHT">CCHT</option> </select> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="col-md-6"> 
+        <div class="panel panel-default" id="RightSide"> 
+         <div class="panel-heading text-center">
+          <strong>Criteria 2</strong>
+         </div> 
+         <div class="panel-body"> 
+          <div class="form-group"> 
+           <label>Last 6 of SSN</label> 
+           <input name="ctl00$Content$txtSSN" type="text" maxlength="7" id="txtSSN" class="form-control"> 
+          </div> 
+          <div class="form-group text-center" style="margin-top: -10px; margin-bottom: 5px;"> 
+           <span class="label label-default">- AND -</span> 
+          </div> 
+          <div class="form-group"> 
+           <label>Last Name</label> 
+           <input name="ctl00$Content$txtLastName2" type="text" maxlength="30" id="txtLastName2" class="form-control"> 
+          </div> 
+          <div class="form-group text-center" style="margin-top: -10px; margin-bottom: 5px;"> 
+           <span class="label label-default">- AND -</span> 
+          </div> 
+          <div class="form-group"> 
+           <label>License Type</label> 
+           <select name="ctl00$Content$ddLicType2" id="ddLicType2" class="form-control"> <option value="">Select Type</option> <option value="RNP">Registered Nurse</option> <option value="LPN">License Practical Nurse</option> <option value="NPR">Nurse Practitioner</option> <option value="CNM">Certified Nurse Midwife</option> <option value="RNA">Certified Registered Nurse Anesthetist</option> <option value="RNT">RN Temp Permit</option> <option value="LPT">LPN Temp Permit</option> <option value="CHT">CCHT</option> </select> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="ButtonGroup"> 
+     <input type="button" value="Exit System" class="btn btn-default" onclick="SendHome();"> 
+     <input type="submit" name="ctl00$Content$btnEnter" value="Search" id="btnEnter" class="btn btn-success"> 
+    </div> 
+    <div id="LearnMore" class="modal fade" data-backdrop="static"> 
+     <div class="modal-dialog"> 
+      <div class="modal-content"> 
+       <div class="modal-header"> 
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button> 
+        <h4 class="modal-title">Additional Information</h4> 
+       </div> 
+       <div class="modal-body"> 
+        <p> The Mississippi Board of Nursing provides this search engine to allow searches of nursing licensure information by a combination of social security number along with license number or last name. The licensure information is computer generated and subject to change as licensure status changes. This website is a primary source verification, as required by JCAHO, of licensure status for all nursing licenses issued in the state of Mississippi. </p> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="MultiResults" class="modal fade" data-backdrop="static"> 
+     <div class="modal-dialog"> 
+      <div class="modal-content"> 
+       <div class="modal-header"> 
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button> 
+        <h4 class="modal-title">Multiple Results</h4> 
+       </div> 
+       <div class="modal-body"> 
+        <p> Multiple results were found meeting the criteria you submitted. Please choose the record you wish to view below. </p> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <script type="text/javascript">
+				document.f1rst = new CMSSettings();
+				document.f1rst.StaticPath = "https://static.licensure.msbn.ms.gov";
+            	document.f1rst.IsDebug = false;
+
+                $(function () {
+                	$("[title],[data-toggle='tooltip']").tooltip();
+                });
+            </script> 
+   <script type="text/javascript">
+        $(function () {
+            
+
+            //++ If user types in left side, disable right side
+            $("#LeftSide input, #LeftSide select").on("keyup change", function () {
+                DisableRight();
+            });
+
+            //++ If user types in right side, disable left side
+            $("#RightSide input, #RightSide select").on("keyup change", function () {
+                DisableLeft();
+            });
+        });
+
+        function DisableLeft() {
+            var textFound = false;
+            $("#RightSide input, #RightSide select").each(function () {
+                if ($(this).val().length > 0) {
+                    textFound = true;
+                }
+            });
+
+            if (textFound) {
+                //++ Mark required
+                $("#RightSide input, #RightSide select").each(function () {
+                    Required($(this).attr("id"));
+                });
+                //++ Disable left side
+                $("#LeftSide input, #LeftSide select").attr("disabled", true);
+            } else {
+                //++ Mark not required
+                $("#RightSide input, #RightSide select").each(function () {
+                    NotRequired($(this).attr("id"));
+                });
+                //++ Enable left side
+                $("#LeftSide input, #LeftSide select").removeAttr("disabled");
+            }
+        }
+
+        function DisableRight() {
+            var textFound = false;
+            $("#LeftSide input, #LeftSide select").each(function () {
+                if ($(this).val().length > 0) {
+                    textFound = true;
+                }
+            });
+
+            if (textFound) {
+                //++ Mark required
+                $("#LeftSide input, #LeftSide select").each(function () {
+                    Required($(this).attr("id"));
+                });
+                //++ Disable right side
+                $("#RightSide input, #RightSide select").attr("disabled", true);
+            } else {
+                //++ Mark not required
+                $("#LeftSide input, #LeftSide select").each(function () {
+                    NotRequired($(this).attr("id"));
+                });
+                //++ Enable right side
+                $("#RightSide input, #RightSide select").removeAttr("disabled");
+            }
+        }
+
+        function ShowInfo() {
+            $('#LearnMore').modal("show");
+        }
+
+        function SendHome() {
+            document.location = "http://www.msbn.ms.gov/";
+        }
+
+        function SetIndex(idx) {
+            $.ajax({
+                type: "POST",
+                url: "/Verification/search.aspx/SetIndex",
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                data: JSON.stringify({ "idx": idx }),
+                success: function () {
+                    document.location = "/Verification/result.aspx";
+                }
+            });
+        }
+    </script> 
+   <script language="javascript"><!--
+
+					var txt = '';
+					if (txt.length > 0){
+						alert(txt);
+					}
+//--></script> 
+  </form>   
+ </body>
+</html>

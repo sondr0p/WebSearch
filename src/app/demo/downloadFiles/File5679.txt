@@ -1,0 +1,757 @@
+<!doctype html>
+<html lang="en" dir="ltr" prefix="fb: //www.facebook.com/2008/fbml">
+ <head> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <!-- Google Tag Manager --> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-WLMC86');</script> 
+  <!-- End Google Tag Manager --> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <link rel="shortcut icon" href="https://www.archives.gov/files/apple-icon.png" type="image/png"> 
+  <meta name="generator" content="Drupal 7 (http://drupal.org)"> 
+  <link rel="canonical" href="https://www.archives.gov/locations/bing.com/maps/default.aspx"> 
+  <meta property="og:site_name" content="National Archives"> 
+  <meta property="og:type" content="article"> 
+  <meta property="og:url" content="https://www.archives.gov/locations/bing.com/maps/default.aspx"> 
+  <meta property="og:title" content="Visit Us"> 
+  <meta name="twitter:card" content="summary"> 
+  <meta name="twitter:url" content="https://www.archives.gov/locations/bing.com/maps/default.aspx"> 
+  <meta name="twitter:title" content="Visit Us"> 
+  <title>Visit Us | National Archives</title> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_9Q-k-fv_k3FHvcs9CSZ2iD5CTqFxrfaej2FCw2mYIoA.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_BTbypzlNYVbptuza8qzKwXCnB4TjuEzUY43Cz2FsXVA.css" media="all"> 
+  <style>.section-theme #title-bar{background:#981B1E url("https://www.archives.gov/files/global-images/section-headers/locations.png") no-repeat center right;}.section-theme #mega-footer > h2{background:#981B1E}.section-theme #title-bar .breadcrumb{background-color:#cd2427;}.section-theme th{background-color:#981B1E !important;}
+</style> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_NkrvYXS3XFN6HNXLylk-Jr8h6vd7bMQSZUSOsRKtvhE.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_adYIwY5AiFQ05gx1uTxNpkKu9JMeTmi7MedA-D3wWww.css" media="all"> 
+  <!-- HTML5 element support for IE6-8 --> 
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]--> 
+  <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic|Merriweather"> 
+  <script src="https://www.archives.gov/files/js/js_0RyHJ63yYLuaWsodCPCgSD8dcTIA0dqcDf8-7c2XdBw.js"></script> 
+  <script src="https://www.archives.gov/files/js/js_0pQJ_xts95IaRyXneDD9tPnYjBy63RQPzNHeLe2LDCg.js"></script> 
+  <script src="https://www.archives.gov/files/js/js_4DGuaDZ5Ckd4u9axaS2f90X-RYp7QlC5RWbsjSLu2-8.js"></script> 
+  <script src="https://www.archives.gov/files/js/js_KyGDO1Fxjv5b9iLtei_bvtKprP3C83MXZ8wgYXbj8bA.js"></script> 
+  <script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"nara","theme_token":"MLKTsLFeXK3lVN2Je4HHAeYTreusAofjMaLpQJfxSZ8","js":{"\/sites\/all\/modules\/custom\/nwsync\/js\/bingmap.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/custom\/archives_ui\/scripts\/helptext.js":1,"sites\/all\/modules\/custom\/argentina\/js\/script.js":1,"sites\/all\/modules\/custom\/nara_catalog\/js\/script.js":1,"sites\/all\/modules\/contrib\/user_alert\/js\/user-alert.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/custom\/nara_custom\/js\/nara_custom.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/affix.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/alert.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/button.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/carousel.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/collapse.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/dropdown.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/modal.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/tooltip.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/popover.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/scrollspy.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/tab.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/transition.js":1,"sites\/all\/themes\/nara\/scripts\/jPanelMenu.js":1,"sites\/all\/themes\/nara\/scripts\/jRespond.js":1,"sites\/all\/themes\/nara\/scripts\/matchHeight.min.js":1,"sites\/all\/themes\/nara\/scripts\/jquery.fancybox.pack.js":1,"sites\/all\/themes\/nara\/scripts\/toc.js":1,"sites\/all\/themes\/nara\/scripts\/scripts.js":1,"sites\/all\/themes\/nara\/scripts\/jquery.scrollTo.js":1,"sites\/all\/themes\/nara\/scripts\/mediagallery.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/custom\/archives_ui\/css\/font-awesome.min.css":1,"sites\/all\/modules\/custom\/archives_ui\/css\/helptext.css":1,"sites\/all\/modules\/custom\/archives_ui\/css\/ckeditor_custom.css":1,"sites\/all\/modules\/custom\/argentina\/css\/argentina_style.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/custom\/liaisons\/css\/liaisons_style.css":1,"sites\/all\/modules\/custom\/nara_catalog\/css\/nara-api-style.css":1,"sites\/all\/modules\/archive_features\/nara_timeline\/css\/custom.css":1,"sites\/all\/modules\/archive_features\/nara_timeline\/css\/timeline.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/user_alert\/css\/user-alert.css":1,"sites\/all\/modules\/custom\/varnish_purge\/css\/varnishpurge.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"0":1,"sites\/all\/modules\/custom\/nara_custom\/css\/nara_custom.css":1,"sites\/all\/themes\/nara\/css\/jquery.fancybox.css":1,"sites\/all\/themes\/nara\/css\/jquery.fancybox-thumbs.css":1,"sites\/all\/themes\/nara\/css\/do_not_edit.css":1,"sites\/all\/themes\/nara\/css\/bootstrap.min.css":1,"sites\/all\/themes\/nara\/css\/styles.css":1,"sites\/all\/themes\/nara\/css\/vertical-tabs.css":1,"sites\/all\/themes\/nara\/css\/overrides.css":1,"sites\/all\/themes\/nara\/css\/mediagallery.css":1}},"archives_ui":{"trustedDomains":["twitter\\.com","youtube\\.com","youtu\\.be","recordsofrights\\.org","presidentialtimeline\\.org","nationalarchivesstore\\.org","bush41\\.org","nara\\.learn\\.com","bush41\\.org","bushlibrary\\.tamu\\.edu","fdrlibrary\\.marist\\.edu","georgewbushlibrary\\.smu\\.edu","lbjlibrary\\.org","trumanlibrary\\.org","fdrlibrary\\.org","archivesfoundation\\.org","jfklibrary\\.org","Myarchivesstore\\.org","docsteach\\.org","digitalvaults\\.org","jfk50\\.org","reagan\\.utexas\\.edu","clinton\\.presidentiallibraries\\.us","fdrlibrary\\.org","us11\\.campaign-archive.?\\.com","lbjlibrary\\.net","github\\.io","github\\.com","eventbrite\\.com","facebook\\.com","pinterest\\.com","tumblr\\.com","google\\.com","historypin\\.org","giphy\\.com","instagram\\.com","flickr\\.com","foursquare\\.com","addthis\\.com","apple\\.com","georgebushfoundation\\.org","clintonpresidentialcenter\\.org","geraldrfordfoundation\\.org","reaganfoundation\\.org","rooseveltinstitute\\.org","socialarchive\\.iath\\.virginia.edu","s3\\.amazonaws\\.com","surveymonkey\\.com","storify\\.com","constantcontact\\.com","snaccooperative\\.org"]},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"user_alert":{"url_prefix":"","current_path":"locations\/bing.com\/maps\/default.aspx"},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script> 
+  <style type="text/css">
+div.form-item-body-und-0-format {
+	display:none;
+}
+div.form-item-field-col-b-und-0-format {
+	display:none;
+}
+div.filter-guidelines {
+	display:none;
+}
+div.filter-help {
+	display:none;
+}
+</style> 
+  <style type="text/css">
+ul.nav-tabs {
+display:none;
+}
+#block-workbench-block {
+display:none;
+}
+</style> 
+ </head> 
+ <body class="html not-front not-logged-in no-sidebars page-locations page-locations-bingcom page-locations-bingcom-maps page-locations-bingcom-maps-defaultaspx "> 
+  <!-- Google Tag Manager (noscript) --> 
+  <noscript>
+   <iframe alt="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-WLMC86" height="0" width="0" style="display:none;visibility:hidden" title="Google Tag Manager"></iframe>
+  </noscript> 
+  <!-- End Google Tag Manager (noscript) --> 
+  <div id="background-gradient"> 
+   <div class="wrapper section-theme "> 
+    <a class="back-to-top" href="#page-header" style="display: none;">Top</a> 
+    <div id="skip-link"> 
+     <a href="#main-col" class="element-invisible element-focusable">Skip to main content</a> 
+    </div> 
+    <!-- page.tpl.php --> 
+    <header role="banner" id="page-header"> 
+     <div class="region region-header"> 
+      <section id="block-block-53" class="block block-block clearfix"> 
+       <div class="col-sm-6" id="logo-wrapper"> 
+        <div id="logo">
+         <a href="/">The U.S. National Archives Home</a>
+        </div> 
+        <button id="nav-toggle" class="navbar-toggle" type="button"></button> 
+       </div> 
+       <div class="col-sm-6" id="search-wrapper"> 
+        <div id="top-links"> 
+         <a class="noBorder" href="/social-media/blogs.html">Blogs</a> · 
+         <script type="text/javascript">// <![CDATA[
+        var addthis_pub = "usarchives";
+        var addthis_offset_left = -40;
+        var addthis_brand = "Archives.gov";
+        // ]]></script> 
+         <a class="addthisLink" onclick="return addthis_sendto();" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]');" onmouseout="addthis_close();" onfocus="return addthis_open(this, '', '[URL]', '[TITLE]');" onblur="addthis_close();" href="https://www.addthis.com/bookmark.php?v=250">Bookmark/Share</a> · 
+         <script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js"></script> 
+         <a href="/contact">Contact Us</a> 
+        </div> 
+        <div class="input-group" id="site-search"> 
+         <form action="https://search.archives.gov/search" method="get" name="search"> 
+          <input class="form-control" id="qt" accesskey="s" type="text" name="query" placeholder="Search Archives.gov" title="Search Archives.gov"> 
+          <span class="input-group-btn"> <button class="btn btn-default" id="go" type="submit" name="submit">Search</button> </span> 
+          <input type="hidden" value="" name="utf8"> 
+          <input id="affiliate" type="hidden" value="national-archives" name="affiliate"> 
+         </form> 
+        </div> 
+       </div> 
+      </section> 
+     </div> 
+    </header> 
+    <!-- /#page-header --> 
+    <nav id="main-nav" class="clearfix "> 
+     <h2 class="element-invisible">Main menu</h2>
+     <ul id="main-menu-links" class="links clearfix make-eq">
+      <li class="menu-859 first research"><a href="/research" title="Explore our nation's history through our documents, photographs, and records." id="research">Research Our Records</a></li> 
+      <li class="menu-860 veterans"><a href="/veterans" title="Request military records and learn about other services for yourself or a family member." id="veterans" class="veterans">Veterans' Service Records</a></li> 
+      <li class="menu-861 teachers"><a href="/education" title="Engage students with lesson plans and other classroom materials." id="teachers" class="teachers">Educator Resources</a></li> 
+      <li class="menu-862 active-trail locations"><a href="/locations" title="Plan a trip to a facility near you or learn about our national network of locations and services." id="locations" class="locations active-trail active">Visit Us</a></li> 
+      <li class="menu-367 last shop"><a href="/founding-docs" title="Order books, gift items, photographic prints, and document reproductions online." id="shop" class="shop">America's Founding Documents</a></li> 
+     </ul> 
+    </nav>
+    <!-- /main-nav --> 
+    <div class="page-body-wrapper"> 
+     <section id="page-body"> 
+      <header id="title-bar"> 
+       <p>Visit Us</p> 
+       <div class="breadcrumb"> 
+        <a href="/">Home</a> &gt; 
+        <a href="/locations">Our Locations</a> &gt; 
+        <a href="/locations/bing.com">Bing.com</a> &gt; 
+        <a href="/locations/bing.com/maps">Maps</a> &gt; Visit Us 
+       </div>
+       <!-- /breadcrumbs --> 
+      </header> 
+      <div class="row"> 
+       <a id="main-content" name="main-content"></a> 
+       <section id="main-col" class="col-sm-12"> 
+        <p id="print-logo"> <img src="/sites/all/themes/nara/images/nara-print-logo.jpg" alt="National Archives Logo"> </p> 
+        <div class="region region-content"> 
+         <section id="block-system-main" class="block block-system clearfix"> 
+          <div class="row"> 
+           <div class="col-sm-12"> 
+            <div class="panel panel-default box box-lg clearfix" id="locator-map"> 
+             <div class="panel-heading"> 
+              <h2>Accessibility, Hours, Directions &amp; Details: Select from our Nationwide Network of Facilities</h2> 
+             </div> 
+             <div class="panel-body"> 
+              <div class="row"> 
+               <div class="col-sm-12"> 
+                <ul id="filters" class="clearfix"> 
+                 <li><strong>Show me:</strong></li> 
+                 <li class="active"><a href="#" data-filter="all">All Locations</a></li> 
+                 <li><a href="#research-facilities" data-filter="research" id="research-filter"><span class="glyphicon glyphicon-search"></span> Research Facilities</a></li> 
+                 <li><a href="#frc" data-filter="records" id="frc-filter"><span class="glyphicon glyphicon-folder-open"></span> Federal Records Centers</a></li> 
+                 <li><a href="#presidential-libraries" data-filter="library" id="presidential-libraries-filter"><span class="glyphicon glyphicon-book"></span> Presidential Libraries</a></li> 
+                </ul> 
+               </div> 
+              </div> 
+              <div class="row"> 
+               <div class="col-sm-12"> 
+                <section id="facility-index"> 
+                 <div id="facil-1" class="facility  research facility-row"> 
+                  <div data-facil_index="1"></div> 
+                  <h3><span class="glyphicon glyphicon-search"></span> National Archives in Washington, DC</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/research-facility-pin.png" data-index="1"></div> 
+                  <address data-latlong="38.892319,-77.022893">700 Pennsylvania Avenue, NW, Washington, DC 20408</address> 
+                  <p><strong>Available services:</strong> Archival Research Room, Microfilm Research Room, "National Archives Experience" - The Rotunda, The Public Vaults, The William McGowan Theater, The Lawrence F. O'Brien Gallery <a href="http://www.archives.gov/museum/visit">Visit the National Archives Museum</a></p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.700+Pennsylvania+Avenue%2C+NW%2C+Washington%2C+DC+20408">Get Directions</a> · <a href="/dc">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-2" class="facility  records facility-row"> 
+                  <div data-facil_index="2"></div> 
+                  <h3><span class="glyphicon glyphicon-folder-open"></span> Atlanta Federal Records Center</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/records-center-pin.png" data-index="2"></div> 
+                  <address data-latlong="33.626041,-84.288545">4712 Southpark Blvd, Ellenwood, GA 30294</address> 
+                  <p><strong>Available services:</strong> Records Center, Records Management</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.4712+Southpark+Blvd%2C+Ellenwood%2C+GA+30294">Get Directions</a> · <a href="/frc/atlanta/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-3" class="facility  research facility-row"> 
+                  <div data-facil_index="3"></div> 
+                  <h3><span class="glyphicon glyphicon-search"></span> National Archives at Atlanta, GA</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/research-facility-pin.png" data-index="3"></div> 
+                  <address data-latlong="33.597791,-84.337280">5780 Jonesboro Road, Morrow, GA 30260</address> 
+                  <p><strong>Available services:</strong> Archival Research Room, Microfilm Research Room</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.5780+Jonesboro+Road%2C+Morrow%2C+GA+30260">Get Directions</a> · <a href="/atlanta/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-4" class="facility  records facility-row"> 
+                  <div data-facil_index="4"></div> 
+                  <h3><span class="glyphicon glyphicon-folder-open"></span> Boston Federal Records Center</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/records-center-pin.png" data-index="4"></div> 
+                  <address data-latlong="42.397532,-71.211922">Frederick C. Murphy Federal Center, Waltham, MA 02452-6399</address> 
+                  <p><strong>Available services:</strong> Records Center, Records Management</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.Frederick+C.+Murphy+Federal+Center%2C+Waltham%2C+MA+02452-6399">Get Directions</a> · <a href="https://www.archives.gov/frc/boston/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-5" class="facility  research facility-row"> 
+                  <div data-facil_index="5"></div> 
+                  <h3><span class="glyphicon glyphicon-search"></span> National Archives at Boston, MA</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/research-facility-pin.png" data-index="5"></div> 
+                  <address data-latlong="42.397532,-71.211922">Frederick C. Murphy Federal Center, Waltham, MA 02452-6399</address> 
+                  <p><strong>Available services:</strong> Reference Room, Research Room</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.Frederick+C.+Murphy+Federal+Center%2C+Waltham%2C+MA+02452-6399">Get Directions</a> · <a href="/boston/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-6" class="facility  records facility-row"> 
+                  <div data-facil_index="6"></div> 
+                  <h3><span class="glyphicon glyphicon-folder-open"></span> Chicago Federal Records Center</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/records-center-pin.png" data-index="6"></div> 
+                  <address data-latlong="41.759162,-87.722274">7358 South Pulaski Road, Chicago, IL 60629-5898</address> 
+                  <p><strong>Available services:</strong> Records Center, Records Management</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.7358+South+Pulaski+Road%2C+Chicago%2C+IL+60629-5898">Get Directions</a> · <a href="https://www.archives.gov/frc/chicago/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-7" class="facility  research facility-row"> 
+                  <div data-facil_index="7"></div> 
+                  <h3><span class="glyphicon glyphicon-search"></span> National Archives at Chicago, IL</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/research-facility-pin.png" data-index="7"></div> 
+                  <address data-latlong="41.759162,-87.722274">7358 South Pulaski Road, Chicago, IL 60629-5898</address> 
+                  <p><strong>Available services:</strong> Archival Research Room, Microfilm Research Room</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.7358+South+Pulaski+Road%2C+Chicago%2C+IL+60629-5898">Get Directions</a> · <a href="https://www.archives.gov/chicago/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-8" class="facility  research facility-row"> 
+                  <div data-facil_index="8"></div> 
+                  <h3><span class="glyphicon glyphicon-search"></span> National Archives at College Park, MD</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/research-facility-pin.png" data-index="8"></div> 
+                  <address data-latlong="39.000976,-76.959348">8601 Adelphi Road, College Park, MD 20740-6001</address> 
+                  <p><strong>Available services:</strong> Archival Research Room, Microfilm Research Room</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.8601+Adelphi+Road%2C+College+Park%2C+MD+20740-6001">Get Directions</a> · <a href="https://www.archives.gov/college-park/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-9" class="facility  records facility-row"> 
+                  <div data-facil_index="9"></div> 
+                  <h3><span class="glyphicon glyphicon-folder-open"></span> Dayton Federal Records Center</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/records-center-pin.png" data-index="9"></div> 
+                  <address data-latlong="39.710057,-84.256082">3150 Springboro Road, Moraine, OH 45439</address> 
+                  <p><strong>Available services:</strong> Records Center, Records Management</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.3150+Springboro+Road%2C+Moraine%2C+OH+45439">Get Directions</a> · <a href="/frc/dayton/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-10" class="facility  records facility-row"> 
+                  <div data-facil_index="10"></div> 
+                  <h3><span class="glyphicon glyphicon-folder-open"></span> Denver Federal Records Center</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/records-center-pin.png" data-index="10"></div> 
+                  <address data-latlong="40.005315,-104.990759">17101 Huron Street, Broomfield, CO 80023-8909</address> 
+                  <p><strong>Available services:</strong> Records Center, Records Management</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.17101+Huron+Street%2C+Broomfield%2C+CO+80023-8909">Get Directions</a> · <a href="https://www.archives.gov/frc/denver/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-11" class="facility  research facility-row"> 
+                  <div data-facil_index="11"></div> 
+                  <h3><span class="glyphicon glyphicon-search"></span> National Archives at Denver, CO</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/research-facility-pin.png" data-index="11"></div> 
+                  <address data-latlong="40.005315,-104.990759">17101 Huron Street, Broomfield, CO 80023-8909</address> 
+                  <p><strong>Available services:</strong> Archival Research Room, Microfilm Research Room</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.17101+Huron+Street%2C+Broomfield%2C+CO+80023-8909">Get Directions</a> · <a href="https://www.archives.gov/denver/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-12" class="facility  records facility-row"> 
+                  <div data-facil_index="12"></div> 
+                  <h3><span class="glyphicon glyphicon-folder-open"></span> Fort Worth Federal Records Center</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/records-center-pin.png" data-index="12"></div> 
+                  <address data-latlong="32.635214,-97.306675">1400 John Burgess Drive, Fort Worth, TX 76140</address> 
+                  <p><strong>Available services:</strong> Records Center, Records Management</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.1400+John+Burgess+Drive%2C+Fort+Worth%2C+TX+76140">Get Directions</a> · <a href="/frc/fort-worth/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-13" class="facility  research facility-row"> 
+                  <div data-facil_index="13"></div> 
+                  <h3><span class="glyphicon glyphicon-search"></span> National Archives at Fort Worth, TX</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/research-facility-pin.png" data-index="13"></div> 
+                  <address data-latlong="32.635214,-97.306675">1400 John Burgess Drive, Fort Worth, TX 76140</address> 
+                  <p><strong>Available services:</strong> Archival Research Room, Microfilm Research Room</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.1400+John+Burgess+Drive%2C+Fort+Worth%2C+TX+76140">Get Directions</a> · <a href="/fort-worth/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-14" class="facility  records facility-row"> 
+                  <div data-facil_index="14"></div> 
+                  <h3><span class="glyphicon glyphicon-folder-open"></span> Kansas City Federal Records Center</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/records-center-pin.png" data-index="14"></div> 
+                  <address data-latlong="39.156363,-94.483899">8600 NE Underground Drive, Pillar 300-G, Kansas City, MO 64161</address> 
+                  <p><strong>Available services:</strong> Records Center, Records Management</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.8600+NE+Underground+Drive%2C+Pillar+300-G%2C+Kansas+City%2C+MO+64161">Get Directions</a> · <a href="https://www.archives.gov/frc/kansas-city/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-15" class="facility  research facility-row"> 
+                  <div data-facil_index="15"></div> 
+                  <h3><span class="glyphicon glyphicon-search"></span> National Archives at Kansas City, MO</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/research-facility-pin.png" data-index="15"></div> 
+                  <address data-latlong="39.084130,-94.589788">400 West Pershing Road, Kansas City, MO 64108</address> 
+                  <p><strong>Available services:</strong> Archival Research Room, Microfilm Research Room</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.400+West+Pershing+Road%2C+Kansas+City%2C+MO+64108">Get Directions</a> · <a href="https://www.archives.gov/kansas-city/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-16" class="facility  records facility-row"> 
+                  <div data-facil_index="16"></div> 
+                  <h3><span class="glyphicon glyphicon-folder-open"></span> Kingsridge Federal Records Center</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/records-center-pin.png" data-index="16"></div> 
+                  <address data-latlong="39.710057,-84.256082">8801 Kingsridge Drive, Miamisburg, OH 45458</address> 
+                  <p><strong>Available services:</strong> Records Center</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.8801+Kingsridge+Drive%2C+Miamisburg%2C+OH+45458">Get Directions</a> · <a href="/frc/kingsridge/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-17" class="facility  records facility-row"> 
+                  <div data-facil_index="17"></div> 
+                  <h3><span class="glyphicon glyphicon-folder-open"></span> Lee's Summit Federal Records Center</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/records-center-pin.png" data-index="17"></div> 
+                  <address data-latlong="39.007702,-94.38202">200 Space Center Drive, Lee’s Summit, MO 64064-1182</address> 
+                  <p><strong>Available services:</strong> Records Center, Research Room</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.200+Space+Center+Drive%2C+Lee%E2%80%99s+Summit%2C+MO+64064-1182">Get Directions</a> · <a href="/frc/lees-summit/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-18" class="facility  records facility-row"> 
+                  <div data-facil_index="18"></div> 
+                  <h3><span class="glyphicon glyphicon-folder-open"></span> Lenexa Federal Records Center</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/records-center-pin.png" data-index="18"></div> 
+                  <address data-latlong="38.9518,-94.789782">17501 W. 98th, Lenexa, KS 66219</address> 
+                  <p><strong>Available services:</strong> Records Center, Research Room</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.17501+W.+98th%2C+Lenexa%2C+KS+66219">Get Directions</a> · <a href="/frc/lenexa/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-19" class="facility  research facility-row"> 
+                  <div data-facil_index="19"></div> 
+                  <h3><span class="glyphicon glyphicon-search"></span> National Archives at New York City, NY</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/research-facility-pin.png" data-index="19"></div> 
+                  <address data-latlong="40.703929,-74.013744">Alexander Hamilton US Customs House, New York, NY 10004-1415</address> 
+                  <p><strong>Available services:</strong> Archival Research Room, Microfilm Research Room</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.Alexander+Hamilton+US+Customs+House%2C+New+York%2C+NY+10004-1415">Get Directions</a> · <a href="https://www.archives.gov/nyc/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-20" class="facility  records facility-row"> 
+                  <div data-facil_index="20"></div> 
+                  <h3><span class="glyphicon glyphicon-folder-open"></span> Philadelphia Federal Records Center</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/records-center-pin.png" data-index="20"></div> 
+                  <address data-latlong="40.114673,-74.968456">14700 Townsend Road, Philadelphia, PA 19154-1096</address> 
+                  <p><strong>Available services:</strong> Records Center, Records Management</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.14700+Townsend+Road%2C+Philadelphia%2C+PA+19154-1096">Get Directions</a> · <a href="https://www.archives.gov/frc/philadelphia/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-21" class="facility  research facility-row"> 
+                  <div data-facil_index="21"></div> 
+                  <h3><span class="glyphicon glyphicon-search"></span> National Archives at Philadelphia, PA</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/research-facility-pin.png" data-index="21"></div> 
+                  <address data-latlong="40.114673,-74.968456">14700 Townsend Road, Philadelphia, PA 19154-1096</address> 
+                  <p><strong>Available services:</strong> Archival Research Room, Microfilm Research Room</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.14700+Townsend+Road%2C+Philadelphia%2C+PA+19154-1096">Get Directions</a> · <a href="https://www.archives.gov/philadelphia/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-22" class="facility  records facility-row"> 
+                  <div data-facil_index="22"></div> 
+                  <h3><span class="glyphicon glyphicon-folder-open"></span> Pittsfield Federal Records Center</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/records-center-pin.png" data-index="22"></div> 
+                  <address data-latlong="42.415400,-73.267100">10 Conte Drive, Pittsfield, MA 01201-8230</address> 
+                  <p><strong>Available services:</strong> Records Center, Records Management</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.10+Conte+Drive%2C+Pittsfield%2C+MA+01201-8230">Get Directions</a> · <a href="/frc/pittsfield/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-23" class="facility  records facility-row"> 
+                  <div data-facil_index="23"></div> 
+                  <h3><span class="glyphicon glyphicon-folder-open"></span> Riverside Federal Records Center</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/records-center-pin.png" data-index="23"></div> 
+                  <address data-latlong="33.835243,-117.258227">23123 Cajalco Road, Perris, CA 92570-7298</address> 
+                  <p><strong>Available services:</strong> Records Center, Records Management</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.23123+Cajalco+Road%2C+Perris%2C+CA+92570-7298">Get Directions</a> · <a href="https://www.archives.gov/frc/riverside/ ">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-24" class="facility  research facility-row"> 
+                  <div data-facil_index="24"></div> 
+                  <h3><span class="glyphicon glyphicon-search"></span> National Archives at Riverside, CA</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/research-facility-pin.png" data-index="24"></div> 
+                  <address data-latlong="33.835243,-117.258227">23123 Cajalco Road, Perris, CA 92570</address> 
+                  <p><strong>Available services:</strong> Archival Research Room, Microfilm Research Room</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.23123+Cajalco+Road%2C+Perris%2C+CA+92570">Get Directions</a> · <a href="/riverside/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-25" class="facility  records facility-row"> 
+                  <div data-facil_index="25"></div> 
+                  <h3><span class="glyphicon glyphicon-folder-open"></span> San Bruno Federal Records Center</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/records-center-pin.png" data-index="25"></div> 
+                  <address data-latlong="37.632860,-122.424389">Leo J. Ryan Building, 1000 Commodore Drive, San Bruno, CA 94066-2350</address> 
+                  <p><strong>Available services:</strong> Records Center, Records Management</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.Leo+J.+Ryan+Building%2C+1000+Commodore+Drive%2C+San+Bruno%2C+CA+94066-2350">Get Directions</a> · <a href="https://www.archives.gov/frc/san-francisco/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-26" class="facility  research facility-row"> 
+                  <div data-facil_index="26"></div> 
+                  <h3><span class="glyphicon glyphicon-search"></span> National Archives at San Francisco, CA</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/research-facility-pin.png" data-index="26"></div> 
+                  <address data-latlong="37.632860,-122.424389">Leo J. Ryan Building, 1000 Commodore Drive, San Bruno, CA 94066-2350</address> 
+                  <p><strong>Available services:</strong> Archival Research Room, Microfilm Research Room</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.Leo+J.+Ryan+Building%2C+1000+Commodore+Drive%2C+San+Bruno%2C+CA+94066-2350">Get Directions</a> · <a href="https://www.archives.gov/san-francisco/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-27" class="facility  records facility-row"> 
+                  <div data-facil_index="27"></div> 
+                  <h3><span class="glyphicon glyphicon-folder-open"></span> Seattle Federal Records Center</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/records-center-pin.png" data-index="27"></div> 
+                  <address data-latlong="47.673112,-122.268057">6125 Sand Point Way, NE, Seattle, WA 98115-7999</address> 
+                  <p><strong>Available services:</strong> Records Center, Records Management</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.6125+Sand+Point+Way%2C+NE%2C+Seattle%2C+WA+98115-7999">Get Directions</a> · <a href="https://www.archives.gov/frc/seattle/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-28" class="facility  research facility-row"> 
+                  <div data-facil_index="28"></div> 
+                  <h3><span class="glyphicon glyphicon-search"></span> National Archives at Seattle, WA</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/research-facility-pin.png" data-index="28"></div> 
+                  <address data-latlong="47.673112,-122.268057">6125 Sand Point Way, NE, Seattle, WA 98115-7999</address> 
+                  <p><strong>Available services:</strong> Archival Research Room, Microfilm Research Room</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.6125+Sand+Point+Way%2C+NE%2C+Seattle%2C+WA+98115-7999">Get Directions</a> · <a href="https://www.archives.gov/seattle/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-29" class="facility  research facility-row"> 
+                  <div data-facil_index="29"></div> 
+                  <h3><span class="glyphicon glyphicon-search"></span> National Archives at St. Louis, MO</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/research-facility-pin.png" data-index="29"></div> 
+                  <address data-latlong="38.773620,-90.230642">1 Archives Drive, St. Louis, MO 63138</address> 
+                  <p><strong>Available services:</strong> Archival Research Room, Microfilm Research Room</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.1+Archives+Drive%2C+St.+Louis%2C+MO+63138">Get Directions</a> · <a href="https://www.archives.gov/st-louis/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-30" class="facility  research records facility-row"> 
+                  <div data-facil_index="30"></div> 
+                  <h3><span class="glyphicon glyphicon-search"></span><span class="glyphicon glyphicon-folder-open"></span> National Personnel Records Center (Military)</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/research-facility-pin.png" data-index="30"></div> 
+                  <address data-latlong="38.773620,-90.230642">1 Archives Drive, Spanish Lake, MO 63138</address> 
+                  <p><strong>Available services:</strong> Records Center, Research Room, National Personnel Records Center</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.1+Archives+Drive%2C+Spanish+Lake%2C+MO+63138">Get Directions</a> · <a href="/personnel-records-center">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-31" class="facility  research records facility-row"> 
+                  <div data-facil_index="31"></div> 
+                  <h3><span class="glyphicon glyphicon-search"></span><span class="glyphicon glyphicon-folder-open"></span> National Personnel Records Center (Civilian)</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/research-facility-pin.png" data-index="31"></div> 
+                  <address data-latlong="38.302660,-90.304215">1411 Boulder Boulevard , Valmeyer, IL 62295</address> 
+                  <p><strong>Available services:</strong> Records Center, National Personnel Records Center</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.1411+Boulder+Boulevard+%2C+Valmeyer%2C+IL+62295">Get Directions</a> · <a href="https://www.archives.gov/personnel-records-center/civilian-non-archival">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-32" class="facility  records facility-row"> 
+                  <div data-facil_index="32"></div> 
+                  <h3><span class="glyphicon glyphicon-folder-open"></span> Washington National Records Center</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/records-center-pin.png" data-index="32"></div> 
+                  <address data-latlong="38.854669,-76.939063">4205 Suitland Road, Suitland, MD 20746-8001</address> 
+                  <p><strong>Available services:</strong> Archival Research Room, Records Center</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.4205+Suitland+Road%2C+Suitland%2C+MD+20746-8001">Get Directions</a> · <a href="https://www.archives.gov/suitland">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-33" class="facility  facility-row"> 
+                  <div data-facil_index="33"></div> 
+                  <h3> The Federal Register</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/records-center-pin.png" data-index="33"></div> 
+                  <address data-latlong="38.900502,-77.009735">7 G Street, NW, Suite A-734, Washington, DC 20401</address> 
+                  <p><strong>Available services:</strong> Review Public Inspection Documents</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.7+G+Street%2C+NW%2C+Suite+A-734%2C+Washington%2C+DC+20401">Get Directions</a> · <a href="/federal-register/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-34" class="facility  library facility-row"> 
+                  <div data-facil_index="34"></div> 
+                  <h3><span class="glyphicon glyphicon-book"></span> Herbert Hoover Presidential Library and Museum</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/presidential-library-pin.png" data-index="34"></div> 
+                  <address data-latlong="41.669100,-91.348179">210 Parkside Drive, West Branch, IA 52358</address> 
+                  <p><strong>Available services:</strong> Presidential Library and Museum</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.210+Parkside+Drive%2C+West+Branch%2C+IA+52358">Get Directions</a> · <a href="http://www.hoover.archives.gov/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-35" class="facility  library facility-row"> 
+                  <div data-facil_index="35"></div> 
+                  <h3><span class="glyphicon glyphicon-book"></span> Franklin D. Roosevelt Presidential Library and Museum</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/presidential-library-pin.png" data-index="35"></div> 
+                  <address data-latlong="41.768688,-73.933976">4079 Albany Post Road, Hyde Park, NY 12538-1999</address> 
+                  <p><strong>Available services:</strong> Presidential Library and Museum</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.4079+Albany+Post+Road%2C+Hyde+Park%2C+NY+12538-1999">Get Directions</a> · <a href="http://www.fdrlibrary.marist.edu/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-36" class="facility  library facility-row"> 
+                  <div data-facil_index="36"></div> 
+                  <h3><span class="glyphicon glyphicon-book"></span> Harry S. Truman Presidential Library and Museum</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/presidential-library-pin.png" data-index="36"></div> 
+                  <address data-latlong="39.103408,-94.421254">500 W. U.S. Hwy 24, Independence, MO 64050-1798</address> 
+                  <p><strong>Available services:</strong> Presidential Library and Museum</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.500+W.+U.S.+Hwy+24%2C+Independence%2C+MO+64050-1798">Get Directions</a> · <a href="http://www.trumanlibrary.org/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-37" class="facility  library facility-row"> 
+                  <div data-facil_index="37"></div> 
+                  <h3><span class="glyphicon glyphicon-book"></span> Dwight D. Eisenhower Presidential Library and Museum</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/presidential-library-pin.png" data-index="37"></div> 
+                  <address data-latlong="38.911484,-97.210823">200 SE. Fourth Street, Abilene, KS 67410-2900</address> 
+                  <p><strong>Available services:</strong> Presidential Library and Museum</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.200+SE.+Fourth+Street%2C+Abilene%2C+KS+67410-2900">Get Directions</a> · <a href="http://www.eisenhower.archives.gov/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-38" class="facility  library facility-row"> 
+                  <div data-facil_index="38"></div> 
+                  <h3><span class="glyphicon glyphicon-book"></span> John F. Kennedy Presidential Library and Museum</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/presidential-library-pin.png" data-index="38"></div> 
+                  <address data-latlong="42.316220,-71.035401">Columbia Point, Boston, MA 02125-3398</address> 
+                  <p><strong>Available services:</strong> Presidential Library and Museum</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.Columbia+Point%2C+Boston%2C+MA+02125-3398">Get Directions</a> · <a href="http://www.jfklibrary.org/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-39" class="facility  library facility-row"> 
+                  <div data-facil_index="39"></div> 
+                  <h3><span class="glyphicon glyphicon-book"></span> Lyndon Baines Johnson Presidential Library and Museum</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/presidential-library-pin.png" data-index="39"></div> 
+                  <address data-latlong="30.285805,-97.729197">2313 Red River Street, Austin, TX 78705-5702 </address> 
+                  <p><strong>Available services:</strong> Presidential Library and Museum</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.2313+Red+River+Street%2C+Austin%2C+TX+78705-5702+">Get Directions</a> · <a href="http://www.lbjlibrary.org/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-40" class="facility  library facility-row"> 
+                  <div data-facil_index="40"></div> 
+                  <h3><span class="glyphicon glyphicon-book"></span> Richard Nixon Presidential Library and Museum</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/presidential-library-pin.png" data-index="40"></div> 
+                  <address data-latlong="33.889455,-117.819035">18001 Yorba Linda Boulevard, Yorba Linda, CA 92886-3903</address> 
+                  <p><strong>Available services:</strong> Presidential Library and Museum</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.18001+Yorba+Linda+Boulevard%2C+Yorba+Linda%2C+CA+92886-3903">Get Directions</a> · <a href="http://www.nixonlibrary.gov/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-41" class="facility  library facility-row"> 
+                  <div data-facil_index="41"></div> 
+                  <h3><span class="glyphicon glyphicon-book"></span> Gerald R. Ford Presidential Library</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/presidential-library-pin.png" data-index="41"></div> 
+                  <address data-latlong="42.288586,-83.712259">1000 Beal Avenue, Ann Arbor, MI 48109-2114</address> 
+                  <p><strong>Available services:</strong> Presidential Library and Museum</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.1000+Beal+Avenue%2C+Ann+Arbor%2C+MI+48109-2114">Get Directions</a> · <a href="http://www.fordlibrarymuseum.gov/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-42" class="facility  library facility-row"> 
+                  <div data-facil_index="42"></div> 
+                  <h3><span class="glyphicon glyphicon-book"></span> Gerald R. Ford Presidential Museum</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/presidential-library-pin.png" data-index="42"></div> 
+                  <address data-latlong="42.968438,-85.677448">303 Pearl Street, Grand Rapids, MI 49504-5353 </address> 
+                  <p><strong>Available services:</strong> Presidential Library and Museum</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.303+Pearl+Street%2C+Grand+Rapids%2C+MI+49504-5353+">Get Directions</a> · <a href="http://www.fordlibrarymuseum.gov/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-43" class="facility  library facility-row"> 
+                  <div data-facil_index="43"></div> 
+                  <h3><span class="glyphicon glyphicon-book"></span> Jimmy Carter Presidential Library and Museum</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/presidential-library-pin.png" data-index="43"></div> 
+                  <address data-latlong="33.766457,-84.356240">441 Freedom Parkway, Atlanta, GA 30307-1498</address> 
+                  <p><strong>Available services:</strong> Presidential Library and Museum</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.441+Freedom+Parkway%2C+Atlanta%2C+GA+30307-1498">Get Directions</a> · <a href="http://www.jimmycarterlibrary.gov/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-44" class="facility  library facility-row"> 
+                  <div data-facil_index="44"></div> 
+                  <h3><span class="glyphicon glyphicon-book"></span> Ronald Reagan Presidential Library and Museum</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/presidential-library-pin.png" data-index="44"></div> 
+                  <address data-latlong="34.259867,-118.819808">40 Presidential Drive, Simi Valley, CA 93065-0699</address> 
+                  <p><strong>Available services:</strong> Presidential Library and Museum</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.40+Presidential+Drive%2C+Simi+Valley%2C+CA+93065-0699">Get Directions</a> · <a href="http://www.reaganlibrary.gov/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-45" class="facility  library facility-row"> 
+                  <div data-facil_index="45"></div> 
+                  <h3><span class="glyphicon glyphicon-book"></span> George Bush Presidential Library and Museum</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/presidential-library-pin.png" data-index="45"></div> 
+                  <address data-latlong="30.596294,-96.353066">1000 George Bush Drive West, College Station, TX 77845</address> 
+                  <p><strong>Available services:</strong> Presidential Library and Museum</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.1000+George+Bush+Drive+West%2C+College+Station%2C+TX+77845">Get Directions</a> · <a href="https://bush41library.tamu.edu">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-46" class="facility  library facility-row"> 
+                  <div data-facil_index="46"></div> 
+                  <h3><span class="glyphicon glyphicon-book"></span> William J. Clinton Presidential Library and Museum</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/presidential-library-pin.png" data-index="46"></div> 
+                  <address data-latlong="34.745495,-92.259087">1200 President Clinton Avenue, Little Rock, AR 72201</address> 
+                  <p><strong>Available services:</strong> Presidential Library and Museum</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.1200+President+Clinton+Avenue%2C+Little+Rock%2C+AR+72201">Get Directions</a> · <a href="https://www.clintonlibrary.gov/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-47" class="facility  library facility-row"> 
+                  <div data-facil_index="47"></div> 
+                  <h3><span class="glyphicon glyphicon-book"></span> George W. Bush Presidential Library and Museum</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/presidential-library-pin.png" data-index="47"></div> 
+                  <address data-latlong="33.046233,-96.777822">2943 SMU Blvd., Dallas, TX 75205</address> 
+                  <p><strong>Available services:</strong> Presidential Library and Museum</p> 
+                  <p><a target="_blank" class="directions" href="//bing.com/maps/default.aspx?rtp=adr.2943+SMU+Blvd.%2C+Dallas%2C+TX+75205">Get Directions</a> · <a href="http://www.georgewbushlibrary.smu.edu/">Visit Website</a></p> 
+                 </div> 
+                 <div id="facil-48" class="facility  library facility-row"> 
+                  <div data-facil_index="48"></div> 
+                  <h3><span class="glyphicon glyphicon-book"></span> Barack Obama Presidential Library</h3> 
+                  <div class="pin" data-image="/sites/all/modules/custom/nwsync/images/presidential-library-pin.png" data-index="48"></div> 
+                  <address data-latlong="42.0473833,-88.1431664">2500 W. Golf Road, Hoffman Estates, IL 60169</address> 
+                  <p><strong>Available services:</strong> Presidential Library</p> 
+                  <p><b>Not Open to the Public</b> · <a href="https://www.obamalibrary.gov/">Visit Website</a></p> 
+                 </div> 
+                </section> 
+               </div> 
+               <div class="" style="z-index:-99999;position:absolute;width:1%;"> 
+                <div class="flexible-container border-thick" id="facility-map"></div> 
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+           <div class="nwidget nlayout ncolumns row make-eq" data-columns="4x1_4"> 
+            <div class="col-sm-3"> 
+             <div class="nwidget ncontainer nmedium_box" data-additional-classes="" data-alt-tag="pad of paper" data-description="Learn everything you need to know in order to get the most out of your in-person research at the Archives.
+" data-image="/files/global-images/portal/medium/pad-of-paper.png" data-link="/global-pages/accessibility" data-title="Accessibility" data-version="1"> 
+              <div class="box box-md clearfix">
+               <a href="/global-pages/accessibility"> 
+                <div class="box-image" style="padding-right:5px;">
+                 <img alt="Accessibility Icon" class="nwidget nimage width100" data-additional-classes="" data-alignment="" data-frame="" data-image_width="100" src="/files/global-images/portal/medium/small_accessibility.png" style="float: left;">
+                </div> 
+                <div class="box-content"> 
+                 <h2>Accessibility&nbsp;</h2> 
+                 <p>All National Archives museums, research facilities, Presidential Libraries, and websites are accessible. Review the available&nbsp;services.</p> 
+                </div> </a>
+              </div> 
+             </div> 
+            </div> 
+            <div class="col-sm-3"> 
+             <div class="nwidget ncontainer nmedium_box" data-additional-classes="" data-alt-tag="Question mark" data-description="Not sure if you need to plan a trip? Discover who uses the Archives and what you can expect to find. 
+" data-image="/files/global-images/portal/medium/question-globe.jpg" data-link="/locations/why-visit" data-title="Why Visit the National Archives?" data-version="1"> 
+              <div class="box box-md clearfix ">
+               <a href="/locations/why-visit"> 
+                <div class="box-image">
+                 <img alt="Question mark" src="/files/global-images/portal/medium/question-globe.jpg">
+                </div> 
+                <div class="box-content"> 
+                 <h2>Why Visit the National Archives?</h2> 
+                 <p>Not sure if you need to plan a trip? Discover who uses the Archives and what you can expect to find.</p> 
+                </div> </a>
+              </div> 
+             </div> 
+            </div> 
+            <div class="col-sm-3"> 
+             <div class="nwidget ncontainer nmedium_box" data-additional-classes="" data-alt-tag="pad of paper" data-description="Learn everything you need to know in order to get the most out of your in-person research at the Archives.
+" data-image="/files/global-images/portal/medium/pad-of-paper.png" data-link="/research/start/plan-visit" data-title="Plan Your Research Visit" data-version="1"> 
+              <div class="box box-md clearfix ">
+               <a href="/research/start/plan-visit"> 
+                <div class="box-image">
+                 <img alt="pad of paper" src="/files/global-images/portal/medium/pad-of-paper.png">
+                </div> 
+                <div class="box-content"> 
+                 <h2>Plan Your Research Visit</h2> 
+                 <p>Learn everything you need to know in order to get the most out of your in-person research at the Archives.</p> 
+                </div> </a>
+              </div> 
+             </div> 
+            </div> 
+            <div class="col-sm-3"> 
+             <div class="box boxed clearfix "> 
+              <h2><a name="status"></a>Operating Status</h2> 
+              <p class="thumb spaceAbove"><i class="fa fa-info-circle fa-4x"></i></p> 
+              <p class="spaceBelow">Check the <a href="/social-media/facebook">Facebook pages</a> and <a href="/social-media/twitter">Twitter</a> or call 301-837-0700 in the DC area. Nationwide Federal government operating status updates are available on the <a href="http://www.opm.gov/Operating_Status_Schedules/">OPM website</a>.</p> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </section> 
+        </div> 
+        <div class="row last-update-wrapper col-sm-12"> 
+         <p id="last-update"> <a href="/contact">Contact us with questions or comments</a>. </p> 
+        </div> 
+       </section>
+       <!-- /main-col --> 
+      </div>
+      <!-- /row --> 
+     </section>
+     <!-- /page-body --> 
+    </div> 
+    <!-- page-body-wrapper--> 
+    <footer id="page-footer"> 
+     <section id="mega-footer" class="clearfix panel-group"> 
+      <h2 class="footer-title"> Locations</h2> 
+      <div class="mega-col panel panel-default"> 
+       <div class="panel-heading"> 
+        <h2><a data-target="#dc">Washington, DC</a></h2> 
+       </div> 
+       <div id="dc" class="panel-collapse"> 
+        <ul>
+         <li><a href="/museum/">The National Archives Museum</a></li> 
+         <li><a href="/dc-metro/">Other DC-Area Locations</a></li> 
+        </ul>
+       </div> 
+      </div> 
+      <div class="mega-col panel panel-default"> 
+       <div class="panel-heading"> 
+        <h2><a data-target="#regional">Regional Archives</a></h2> 
+       </div> 
+       <div id="regional" class="panel-collapse"> 
+        <ul>
+         <li><a href="/atlanta/">Atlanta</a></li> 
+         <li><a href="/boston/">Boston</a></li> 
+         <li><a href="/chicago/">Chicago</a></li> 
+         <li><a href="/denver/">Denver</a></li> 
+         <li><a href="/fort-worth/">Fort Worth</a></li> 
+         <li><a href="/kansas-city/">Kansas City</a></li> 
+         <li><a href="/nyc/">New York City</a></li> 
+         <li><a href="/philadelphia/">Philadelphia</a></li> 
+         <li><a href="/riverside/">Riverside</a></li> 
+         <li><a href="/san-francisco/">San Francisco</a></li> 
+         <li><a href="/seattle/">Seattle</a></li> 
+         <li><a href="/st-louis/">St. Louis</a></li> 
+        </ul>
+       </div> 
+      </div> 
+      <div class="mega-col panel panel-default"> 
+       <div class="panel-heading"> 
+        <h2><a data-target="#libraries">Presidential Libraries</a></h2> 
+       </div> 
+       <div id="libraries" class="panel-collapse"> 
+        <ul>
+         <li><a href="http://www.hoover.archives.gov/">Herbert Hoover Library</a></li> 
+         <li><a href="http://www.fdrlibrary.marist.edu/">Franklin D. Roosevelt Library</a></li> 
+         <li><a href="http://www.trumanlibrary.org/">Harry S. Truman Library</a></li> 
+         <li><a href="http://www.eisenhower.archives.gov/">Dwight D. Eisenhower Library</a></li> 
+         <li><a href="http://www.jfklibrary.org/">John F. Kennedy Library</a></li> 
+         <li><a href="http://www.lbjlibrary.org/">Lyndon B. Johnson Library</a></li> 
+         <li><a href="http://www.nixonlibrary.gov/index.php">Richard Nixon Library</a></li> 
+         <li><a href="http://www.fordlibrarymuseum.gov/">Gerald R. Ford Library</a></li> 
+         <li><a href="http://www.jimmycarterlibrary.gov/">Jimmy Carter Library</a></li> 
+         <li><a href="https://reaganlibrary.gov/">Ronald Reagan Library</a></li> 
+         <li><a href="https://bush41library.tamu.edu/">George H. W. Bush Library</a></li> 
+         <li><a href="http://www.clintonlibrary.gov/">William J. Clinton Library</a></li> 
+         <li><a href="http://www.georgewbushlibrary.smu.edu">George W. Bush Library</a></li> 
+        </ul>
+       </div> 
+      </div> 
+      <div class="mega-col panel panel-default"> 
+       <div class="panel-heading"> 
+        <h2><a data-target="#frc">Records Management</a></h2> 
+       </div> 
+       <div class="panel-collapse"> 
+        <ul>
+         <li><a href="/frc/locations">Federal Records Center Locations</a></li> 
+        </ul>
+       </div> 
+      </div> 
+      <div class="mega-col panel panel-default"> 
+       <div class="panel-heading"> 
+        <h2><a data-target="#i-want-to">I Want To...</a></h2> 
+       </div> 
+       <div id="i-want-to" class="panel-collapse"> 
+        <ul>
+         <li><a href="/research/start/">Learn About Visiting the Archives</a></li> 
+         <li><a href="/research/start/plan-visit">Plan My Research Visit</a></li> 
+         <li> <a href="/locations/building-access-security-requirements">Review Security Requirements</a></li> 
+        </ul>
+       </div> 
+      </div> 
+     </section> 
+     <section id="sub-footer"> 
+      <div class="region region-footer-bottom"> 
+       <section id="block-block-54" class="block block-block clearfix"> 
+        <h2> <a href="https://www.archives.gov/social-media/">Connect With Us</a></h2> 
+        <ul class="clearfix" id="social-media"> 
+         <li class="facebook" data-original-title="Facebook" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/facebook">Facebook</a></li> 
+         <li class="twitter" data-original-title="Twitter" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/twitter">Twitter</a></li> 
+         <li class="instagram" data-original-title="Instagram" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/instagram">Instagram</a></li> 
+         <li class="tumblr" data-original-title="Tumblr" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/tumblr">Tumblr</a></li> 
+         <li class="youtube" data-original-title="YouTube" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/youtube">YouTube</a></li> 
+         <li class="blogs" data-original-title="Blogs" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/blogs">Blogs</a></li> 
+         <li class="flickr" data-original-title="Flickr" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/flickr">Flickr</a></li> 
+        </ul> 
+        <p> </p> 
+        <p id="footer-links"> <a href="/contact/">Contact Us</a> · <a href="/global-pages/accessibility.html">Accessibility</a> · <a href="/global-pages/privacy.html">Privacy Policy</a> · <a href="/foia/">Freedom of Information Act</a> · <a href="/eeo/policy/complaint-activity.html">No FEAR Act</a> · <a href="http://www.usa.gov/">USA.gov</a></p> 
+        <p id="footer-phone">The U.S. National Archives and Records Administration<br> <a href="tel:1-866-272-6272">1-86-NARA-NARA or 1-866-272-6272</a></p> 
+       </section> 
+      </div> 
+     </section> 
+    </footer>
+    <!-- /page-footer --> 
+    <script src="/sites/all/themes/nara/scripts/jquery.fancybox.pack.js" type="text/javascript"></script> 
+    <script src="/sites/all/themes/nara/scripts/helpers/jquery.fancybox-media.js" type="text/javascript"></script> 
+    <script src="/sites/all/themes/nara/scripts/helpers/jquery.fancybox-thumbs.js" type="text/javascript"></script> 
+    <script defer src="/sites/all/modules/custom/nwsync/js/bingmap.js"></script> 
+    <script src="https://www.archives.gov/files/js/js_MRdvkC2u4oGsp5wVxBG1pGV5NrCPW3mssHxIn6G9tGE.js"></script> 
+   </div> 
+   <a class="back-to-top" href="#page-header" style="display: inline;">Top</a> 
+   <script>
+(function ($) {
+  // Original JavaScript code.
+$('.toc').toc({
+'selectors': 'h2:not(.element-invisible):not(.toc-block h2),h3',
+'container': '#main-col'
+});
+})(jQuery);
+
+//fix extra timeline object issue
+(function(){            
+  if(typeof Drupal.settings['timelineJS'] !== 'undefined'){      
+    timelinejs_arry = Drupal.settings['timelineJS'];
+    tmptimeline=[];
+    for (i = 0; i < timelinejs_arry.length-1; i++) {       
+      if(typeof timelinejs_arry[i]['processed'] !== 'undefined'){                        
+        tmptimeline.push(timelinejs_arry[i]);  
+      } 
+    }
+    Drupal.settings['timelineJS'] = tmptimeline;
+  }
+}());
+</script> 
+  </div> 
+  <!-- end -->   
+ </body>
+</html>

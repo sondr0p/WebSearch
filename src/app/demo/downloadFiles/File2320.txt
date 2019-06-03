@@ -1,0 +1,756 @@
+<!doctype html>
+<html lang="en" ng-app="mapp">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <!-- State Of Michigan - Thu May 23 19:27:02 2019 --> 
+  <!-- e-Michigan Portal - Process #6, Server www --> 
+  <link rel="canonical" href="https://www.michigan.gov/som/0,4669,7-192-29929---A,00.html"> 
+  <title>SOM - Online Services</title> 
+  <meta name="DESCRIPTION" content="State of Michigan - Online Services"> 
+  <meta name="KEYWORDS" content="Online Services, State of MIchigan"> 
+  <base target="_top"> 
+  <!-- global scripts BOOTSTRAP --> 
+  <!-- bow-scripts include --> 
+  <!-- CSS --> 
+  <link type="text/css" rel="stylesheet" href="/css/fullcalendar.css"> 
+  <link type="text/css" rel="stylesheet" href="/font-som-icons/css/somicons.min.css?20170525100940"> 
+  <link type="text/css" rel="stylesheet" href="/font-awesome/css/font-awesome.min.css"> 
+  <link type="text/css" rel="stylesheet" href="/css/jquery.bxslider.css"> 
+  <!-- javascript --> 
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script> 
+  <script src="/bootstrap/js/bootstrap.min.js"></script> 
+  <script src="/js/fullcalendar.js" type="text/javascript"></script> 
+  <script src="/js/jquery.bxslider.js"></script> 
+  <script src="/js/jquery.rwdImageMaps.js"></script> 
+  <script src="/js/jquery.validate.js"></script> 
+  <script src="/js/additional-methods.js"></script> 
+  <script src="/js/responsiveComponents.js"></script> 
+  <script src="/js/jquery.matchHeight-min.js"></script> 
+  <!--[if (lt IE 9)]>
+<script>
+document.createElement('header');
+document.createElement('nav');
+document.createElement('section');
+document.createElement('article');
+document.createElement('aside');
+document.createElement('footer');
+document.createElement('time');
+</script>
+<script src="/js/respond.js"></script>
+<link href="/css/migov_ie8_OLD.css" rel="stylesheet" media="all" />
+<![endif]--> 
+  <script type="text/javascript" src="/js/bow-general.js?v=1526047680"></script> 
+  <link href="/css/body-theme-som.css?v=1551121888" type="text/css" rel="stylesheet"> 
+  <!-- Agency Header do not include the globalcss file -->
+  <!--/ Agency Header-->
+  <script src="/js/underscorejslib.js?v=1493914450"></script> 
+  <script src="/js/angular_1_6.js?v=1493914427"></script> 
+  <script src="/js/angular_1_6_sanitize.js?v=1493914426"></script> 
+  <script src="/js/angular_1_6_animate.js?v=1493914426"></script> 
+  <script src="/js/angular_1_6_aria.js?v=1493914426"></script> 
+  <script src="/js/angular_1_6_touch.js?v=1493914427"></script> 
+  <script src="/js/angucomplete-alt.js?v=1545075608"></script> 
+  <script src="/js/bootstrapUIangular.js?v=1493914448"></script> 
+  <script type="text/javascript">
+window.navPath = '/agency/leftFullNav/0,,192,00.html';
+window.loadedData = [];
+$('body').addClass('matching-heights-processing');
+var mapp = angular.module('mapp',['ngSanitize','ngAnimate','ui.bootstrap','ngAria','angucomplete-alt','ngTouch']);
+mapp.run(['$location', function($location) {
+			var pathCurrent = $location.path();
+			var searchCurrent = $location.search();
+			$('body').on('click','a[href^="#"]',function(e){
+				e.preventDefault();
+			    var hrefDest = $(this).attr('href');
+				//asses if ID or Anchor
+				hrefDest_clean = hrefDest.replace('#','');
+				var anchorCount = $('a[name="'+hrefDest_clean+'"]').length;
+				var idCount = $(''+hrefDest).length;
+				var destObj;
+				if(anchorCount > 0)
+			    {
+					destObj = $('a[name="'+hrefDest_clean+'"]').filter(':first');
+			    }
+				else if(idCount > 0)
+			    {
+					destObj = $(''+hrefDest);
+			    }
+				var offsetVal = $(destObj).offset().top - 150;
+				// change the path
+				$location.path('/'+hrefDest_clean);
+				//Moving focus and page:
+				$('a[href^="#"]').removeAttr('tabindex');
+				$('html,body').animate({scrollTop:offsetVal}, 500);
+				$(destObj).attr('tabindex',-1).focus();
+			});
+		}]);
+</script> 
+  <script src="/js/angular_custom_factories.js?v=1502904335"></script> 
+  <script src="/js/angular_custom_filters.js?v=1506702035"></script> 
+  <script src="/js/SearchComponentAngular.js?v=1545075601"></script> 
+  <script src="/js/angularSelectList.js?v=1544218134"></script> 
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js"></script> 
+  <script src="/js/gtm.js?v=1501512057"></script> 
+ </head> 
+ <body class="agy-som has-offcanvas-menu off-canvas-center  bow-theme-1 horz-menu body-theme-som matching-heights-processing"> 
+  <div role="navigation" aria-label="skip nav"> 
+   <noscript> 
+    <div class="alert bg bg-accent-1 text-center"> 
+     <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> Browsers that can not handle javascript will not be able to access some features of this site. 
+     <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> 
+    </div> 
+    <style type="text/css">
+body.matching-heights-processing:before,body.matching-heights-processing:after {
+content:'';
+height:0px;
+width:0px;
+}
+</style> 
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WTW7M9" height="0" width="0" style="display:none;visibility:hidden"></iframe> 
+   </noscript> 
+   <div id="noAdBlock" style="display:none;" class="alert bg bg-accent-1 text-center"> 
+    <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> Some functions of this site are disabled for browsers blocking jQuery. 
+    <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> 
+   </div> 
+   <div id="_TopOfPage"></div> 
+   <script>
+			function doAnalyticsGo(sndx) {
+				var dest = sndx.options[sndx.selectedIndex].value;
+				if (dest == 0) {
+					alert('Please make a selection.');
+					return false;
+				} else {
+					document.location.href=dest;
+					return false;
+				}
+			}
+		</script>
+   <a href="#main" data-target-id="main" class="sr-only sr-only-focusable jump-to-id">Skip to main content</a> 
+  </div> 
+  <!--START DIV CONTAINER--> 
+  <div id="main-mobile-canvas-container" class=""> 
+   <div id="temp-toggler-mobile-menu" class="text-center toggle-mobile-menu-controls"> 
+    <a href="#mobile-canvas-menu-container" data-toggle-class="show-mobile-nav" class="toggle-mobile-menu outer-link text-center toggle-mobile-menu-controls"> <span class="fa fa-3x fa-bars mobile-menu-closed-icon toggle-mobile-menu-controls"></span><span class="fa fa-3x fa-times mobile-menu-showing-icon toggle-mobile-menu-controls"></span>MENU </a> 
+   </div> 
+   <div class="offcanvas-left toggle-mobile-menu-controls" id="mobile-canvas-menu-container"> 
+    <div class="mobile-canvas-nav-header"> 
+     <div class="mobile-canvas-menu-logo-block"> 
+      <div id="mobileLogoBlock"> 
+       <a href="/som"> <img class="img-responsive" src="/images/som/final_logo_migov_white_526452_7.png" alt="State of Michigan "> </a> 
+      </div> 
+      <div id="mobileSiteTitle"> 
+       <a href="/som"> 
+        <div class="page-site-header">
+         <div class="bannerLgTxt"></div>
+        </div> </a> 
+      </div> 
+     </div> 
+     <div class="inner-mobile-menu-toggle"> 
+      <a href="#mobile-canvas-menu-container" data-toggle-class="show-mobile-nav" class="toggle-mobile-menu outer-link btn btn-accent-black"><span class="fa fa-2x fa-bars mobile-menu-closed-icon"></span><span class="fa fa-2x fa-times mobile-menu-showing-icon"></span></a> 
+     </div> 
+    </div> 
+    <div class="site-extra-text bg bg-primary-1">
+     State of Michigan 
+    </div> 
+    <div class="mobile-search-block bg bg-primary-1 padding-bottom-10"> 
+     <div class="searchComponentDiv" id="searchComponentDiv_9910101010101" ng-controller="searchComponentController" ng-init="init(9910101010101)"> 
+      <div ng-if="loadedData"> 
+       <form ng-submit="submitFormLocal()" class="submit-override"> 
+        <div class="clearfix"> 
+         <div class="" angucomplete-alt id="searchInput_9910101010101" placeholder="" pause="10" selected-object="optionChanged" local-data="people" local-search="localSearch" title-field="name" description-field="twitter" minlength="1" input-class="form-control form-control" input-changed="inputChanged" match-class="highlight"> 
+         </div> 
+        </div> 
+       </form> 
+      </div> 
+     </div> 
+     <script>		
+				window.loadedData[9910101010101] = [];
+				window.loadedData[9910101010101]["GSA_COLLECTION"] = "som";
+				
+				window.loadedData[9910101010101]["gsaAgencyText"] = "State~of~Michigan";
+				window.loadedData[9910101010101]["subcategories"] = [];			
+			</script> 
+    </div> 
+    <div id="containerMainMobileLinks"></div> 
+    <div class="branding-bar-links-block"> 
+     <nav class="mobile-branding-links" aria-label="mobile global menu"> 
+      <ul id="m_bannerLinks">
+       <li><a href="/departments" title="State Departments">State Departments</a></li>
+       <li><a href="/services" title="Online Services">Online Services</a></li>
+       <li><a href="/socialmedia" title="Social Media">Social Media</a></li>
+       <li><a href="/somhelp" title="Help Center">Help Center</a></li>
+      </ul> 
+     </nav> 
+    </div> 
+   </div> 
+   <script type="text/javascript">
+	window.agencySitePathCSS = 'som';
+	//window.agencySitePathCSS = window.location.pathname;
+	window.agencyText = 'State~of~Michigan';
+	//window.agencyText = document.getElementsByTagName("title")[0].innerHTML;
+	window.siteClient = window.agencySitePathCSS;
+	// Task 44300 - WEX
+	 
+	window.default_collection = 'som';
+	 window.gsasearch = true;
+	window.usagovCollection = 'mi-'+window.agencySitePathCSS;
+
+	$('document').ready(function(){
+		$('.site-search-form').submit(function(e){
+			e.preventDefault();
+			siteSearchForm($(this));
+		});
+		$('#noAdBlock').hide();
+	});
+	</script> 
+  </div> 
+  <div id="container" class="container-fluid"> 
+   <div id="topMenuSearchContainer bg bg-accent-black" class="search-extended"> 
+    <div class="searchComponentDiv padding-top-20 padding-bottom-20" id="searchComponentDiv_10101010101" ng-controller="searchComponentController" ng-init="init(10101010101)"> 
+     <div ng-if="loadedData"> 
+      <form ng-submit="submitFormLocal()" class="submit-override"> 
+       <div class="container"> 
+        <div class="col-xs-11" angucomplete-alt id="searchInput_10101010101" placeholder="" pause="10" selected-object="optionChanged" local-data="people" local-search="localSearch" title-field="name" description-field="twitter" minlength="1" input-class="form-control form-control" input-changed="inputChanged" match-class="highlight"> 
+        </div> 
+        <div class="col-xs-1 bg bg-accent-black"> 
+         <a href="#" onclick="$('body').removeClass('show-search-form');$('#top-right-search-bar').focus();" title="Close Search Panel" class="fa-2x"> <span class="fa fa-remove"></span> <span class="sr-only">Close Search Box</span> </a> 
+        </div> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+    <script>		
+		window.loadedData[10101010101] = [];
+		window.loadedData[10101010101]["GSA_COLLECTION"] = "som";
+		window.loadedData[10101010101]["gsaAgencyText"] = "State~of~Michigan";
+		window.loadedData[10101010101]["subcategories"] = [];
+	</script> 
+   </div> 
+   <!-- agencyHeaderNavPath agencyCreateHeaderNavP3 --> 
+   <!--div id="bannerArea" role='banner'-->
+   <!-- HEADER 1.1 Live -->
+   <div id="bannerArea" role="banner">
+    <div id="superTop">
+     <!-- SOM banner text --> 
+     <ul id="bannerLinks">
+      <li><a href="/departments" title="State Departments">State Departments</a></li>
+      <li><a href="/services" title="Online Services">Online Services</a></li>
+      <li><a href="/socialmedia" title="Social Media">Social Media</a></li>
+      <li><a href="/somhelp" title="Help Center">Help Center</a></li>
+      <li id="top-right-search-bar" style="display:none;"> <a href="#topMenuSearchContainer" aria-haspopup="true" title="Search Mi.gov" class="top-header-search-link" data-search-field-id=""> <span>Search</span> </a> </li>
+     </ul>
+    </div>
+    <div id="siteBanner">
+     <!-- SOM banner text --> 
+     <div id="headerRow"> 
+      <div class="header-site-title-text"> 
+       <a class="AGENCY_HEADER_L" accesskey="1" href="/som/"><img class="AGENCY_HEADER_L" src="/images/som/mobileSOM_346956_7_398113_7.png" alt="SOM - State of Michigan "></a> 
+      </div> 
+      <div class="header-nav-block">
+       <nav class="main-navigation" role="navigation" aria-label="main navigation">
+        <ul id="nav" class="nav-main"> 
+         <!-- State Of Michigan - Wed May 29 17:25:54 2019 --> 
+         <!-- e-Michigan Portal - Process #1 --> 
+         <!-- Begin Global Nav section -->
+         <!-- End Global Nav section --> 
+         <!-- Begin Responsive Navigation --> 
+         <li id="29943" class="id-29943 "> <a class="lvl1" title="BUSINESS" href="/som/0,4669,7-192-29943---,00.html">BUSINESS</a> </li> 
+         <li id="29939" class="id-29939 "> <a class="lvl1" title="EDUCATION" href="/som/0,4669,7-192-29939---,00.html">EDUCATION</a> </li> 
+         <li id="29942" class="id-29942 "> <a class="lvl1" title="HEALTH" href="/som/0,4669,7-192-29942---,00.html">HEALTH</a> </li> 
+         <li id="29701" class="id-29701 "> <a class="lvl1" title="GOVERNMENT" href="/som/0,4669,7-192-29701---,00.html">GOVERNMENT</a> </li> 
+         <li id="29941" class="id-29941 "> <a class="lvl1" title="SAFETY" href="/som/0,4669,7-192-29941---,00.html">SAFETY</a> </li> 
+        </ul> 
+        <ul id="desktopMobileButton" style="display:none;"> 
+         <li><a aria-haspopup="true" href="#mobile-canvas-menu-container" data-toggle-class="show-mobile-nav" class="toggle-mobile-menu outer-link text-center toggle-mobile-menu-controls"> <span class="fa fa-bars mobile-menu-closed-icon toggle-mobile-menu-controls"></span><span class="fa fa-times mobile-menu-showing-icon toggle-mobile-menu-controls"></span> 
+           <div class="clearfix">
+            MENU
+           </div> </a></li> 
+        </ul> 
+       </nav> 
+      </div> 
+      <!-- End Flyout Navigation -->
+      <!-- Left Links -->
+      <!-- End Left Links -->
+     </div>
+    </div>
+    <div class="siteBannerTxt">
+     State of Michigan 
+    </div> 
+    <div id="horzMenuSubLinksBlock_container" class="container">
+     <div id="horzMenuSubLinksRow">
+      <div id="horzMenuSubLinksBlockBreadCrumb"></div>
+     </div>
+     <div id="horzMenuSubLinksBlock"></div>
+    </div>
+   </div> 
+   <div id="topNavSearch"> 
+    <!-- SEARCH -->
+    <form id="searchform" onsubmit="location.href='https://search.michigan.gov/AppBuilder/search?ctx=SOM&amp;q=' + document.getElementById('query').value;return false;"> 
+     <input accesskey="s" type="TEXT" autocomplete="off" id="query" name="q" placeholder="Search" title="Search"> 
+     <input id="go" type="submit" value="search" name="button" onClick="location.href='https://search.michigan.gov/AppBuilder/search?ctx=SOM&amp;q=' + document.getElementById('query').value;return false;"> 
+    </form>
+    <!-- /SEARCH -->
+   </div>
+   <!-- LEFTNAV agencyCreateLeftNavRD --> 
+   <!-- bodyWrapper --> 
+   <div id="bodyWrapper"> 
+    <!-- contentWrapper --> 
+    <div id="contentWrapper"> 
+     <!-- main -->
+     <div id="main" class="TW page" role="main"> 
+      <div id="breadcrumbContainer">
+       <div id="breadcrumb" role="navigation" aria-label="breadcrumbs">
+        <span style="display: none" id="breadcrumblabel">You are here</span>
+        <ol class="breadcrumb" aria-labelledby="breadcrumblabel">
+         <li><a href="/som/">SOM</a></li>
+        </ol>
+       </div>
+      </div> 
+      <div class="page-header sr-only">
+       <h1>Online Services</h1>
+      </div> 
+      <!-- Body Begin --> 
+      <!-- Begin Directory List --> 
+      <div id="dirListContainer">
+       <h3>State Directory List</h3> 
+       <div> 
+        <ul id="dirList"> 
+         <li class="type "><a href="/micontractconnect/0,4541,7-225-48756---,00.html ">Administrative Board</a> 
+          <ul class="info ">
+           <li class="details"><a href="/micontractconnect/0,4541,7-225-48756-21005--,00.html" title="Contact information for Administrative Board">Contact Information for Administrative Board</a></li> 
+          </ul></li>
+         <li class="type D"><a href="/mda">Agriculture and Rural Development</a> 
+          <ul class="info D">
+           <li class="details">The mission of the Michigan Department of Agriculture &amp; Rural Development is, "Assure the food safety, agricultural, environmental, and economic interests of the people of the State of Michigan are met through service, partnership and collaboration." </li>
+           <li class="details"><a href="/mda/1,4610,7-125-2762---C,00.html" title="Contact information for Agriculture and Rural Development">Contact Information for Agriculture and Rural Development</a></li> 
+          </ul></li>
+         <li class="type "><a href="/archivesofmi">Archives of Michigan</a> 
+          <ul class="info ">
+           <li class="details"><a href="/mhc/0,4726,7-282-61083-288685--,00.html" title="Contact information for Archives of Michigan">Contact Information for Archives of Michigan</a></li> 
+          </ul></li>
+         <li class="type "><a href="http://www.michiganbusiness.org/community/council-arts-cultural-affairs/" target="_blank">Arts and Cultural Affairs</a> 
+          <ul class="info ">
+           <li class="details"><a href="http://www.michiganbusiness.org/community/council-arts-cultural-affairs/#council-and-staff" title="Contact information for Arts and Cultural Affairs">Contact Information for Arts and Cultural Affairs</a></li> 
+          </ul></li>
+         <li class="type "><a href="/asbestos">Asbestos Program</a> 
+          <ul class="info ">
+           <li class="details"><a href="/lara/0,4601,7-154-61256_11407_15333_15369-41708--,00.html" title="Contact information for Asbestos Program">Contact Information for Asbestos Program</a></li> 
+          </ul></li>
+         <li class="type "><a href="/ag">Attorney General</a> 
+          <ul class="info ">
+           <li class="details">The attorney general is the lawyer for the State of Michigan. When public legal matters arise, he renders opinions on matters of law, and provides legal counsel for the legislature and for each officer, department, board, and commission of state government. He provides legal representation in court actions and assists in the conduct of official hearings held by state agencies. </li>
+           <li class="details"><a href="/ag/0,4534,7-164--51368--,00.html" title="Contact information for Attorney General">Contact Information for Attorney General</a></li> 
+          </ul></li>
+         <li class="type "><a href="http://audgen.michigan.gov/" target="_blank">Auditor General</a> 
+          <ul class="info ">
+           <li class="details"><a href="http://audgen.michigan.gov/ " title="Contact information for Auditor General">Contact Information for Auditor General</a></li> 
+          </ul></li>
+         <li class="type "><a href=" /sos/0,4670,7-127-49534---,00.html">Automotive Business Licensing and Regulation, Division of</a> 
+          <ul class="info ">
+           <li class="details"><a href="/sos/1,4670,7-127-15049-25634--,00.html" title="Contact information for Automotive Business Licensing and Regulation, Division of">Contact Information for Automotive Business Licensing and Regulation, Division of</a></li> 
+          </ul></li>
+         <li class="type "><a href="/census">Census &amp; Statistical Data for Michigan </a> 
+          <ul class="info ">
+           <li class="details"><a href="/census" title="Contact information for Census &amp; Statistical Data for Michigan ">Contact Information for Census &amp; Statistical Data for Michigan </a></li> 
+          </ul></li>
+         <li class="type "><a href="/cepi">Center for Educational Performance &amp; Information</a> 
+          <ul class="info ">
+           <li class="details"><a href="/cepi/0,4546,7-113-71442---,00.html" title="Contact information for Center for Educational Performance &amp; Information">Contact Information for Center for Educational Performance &amp; Information</a></li> 
+          </ul></li>
+         <li class="type "><a href="/cgi">Center for Geographic Information </a> 
+          <ul class="info ">
+           <li class="details"><a href="/cgi/1,4548,7-158-14654-30745--,00.html" title="Contact information for Center for Geographic Information ">Contact Information for Center for Geographic Information </a></li> 
+          </ul></li>
+         <li class="type "><a href="/cg">Charitable Gaming</a> 
+          <ul class="info ">
+           <li class="details"><a href="/cg/0,4547,7-111-1101---C,00.html" title="Contact information for Charitable Gaming">Contact Information for Charitable Gaming</a></li> 
+          </ul></li>
+         <li class="type "><a href="/oco">Children's Ombudsman</a> 
+          <ul class="info ">
+           <li class="details"><a href="/oco/1,4647,7-133-5357---C,00.html" title="Contact information for Children" s ombudsman'>Contact Information for Children's Ombudsman</a></li> 
+          </ul></li>
+         <li class="type "><a href="/cwd">Chronic Wasting Disease Task Force</a> </li>
+         <li class="type D"><a href="/mdcr">Civil Rights</a> 
+          <ul class="info D">
+           <li class="details">The Department of Civil Rights, in implementing the mission of the commission, secures the full enjoyment of civil rights guaranteed by law and the constitution through the elimination of discrimination. This is accomplished through the investigation and resolution of complaints of discrimination; outreach and education programs designed to promote voluntary compliance with civil rights laws; mediation; referral; crisis intervention; anti-hate crime programming; and the dissemination of information which explains citizen rights and responsibilities provided in a legal framework. </li>
+           <li class="details"><a href="/mdcr/1,4613,7-138-7135-17286--,00.html" title="Contact information for Civil Rights">Contact Information for Civil Rights</a></li> 
+          </ul></li>
+         <li class="type "><a href="/mdcs">Civil Service</a> 
+          <ul class="info ">
+           <li class="details"><a href="/mdcs/0,4614,7-147--16079--,00.html" title="Contact information for Civil Service">Contact Information for Civil Service</a></li> 
+          </ul></li>
+         <li class="type D"><a href="/mdch">Community Health</a> 
+          <ul class="info D">
+           <li class="details">MDCH is one of the largest of the executive branch departments. MDCH is responsible for health policy and management of the state's health, mental health, and substance use care systems. This is a look at the services we provide. </li>
+           <li class="details"><a href="/mdhhs/0,5885,7-339--352302--,00.html" title="Contact information for Community Health">Contact Information for Community Health</a></li> 
+          </ul></li>
+         <li class="type "><a href="/mcsc">Community Service Commission</a> 
+          <ul class="info ">
+           <li class="details"><a href="/mcsc/0,4608,7-137-6113_8066-28890--,00.html" title="Contact information for Community Service Commission">Contact Information for Community Service Commission</a></li> 
+          </ul></li>
+         <li class="type D"><a href="/corrections">Corrections</a> 
+          <ul class="info D">
+           <li class="details">The Department of Corrections administers Michigan's adult prison, probation, and parole systems. The department has jurisdiction over all adults convicted of felonies who are sentenced to prison. Convicted felons who are not sentenced to prison terms are either sentenced to a county jail term or are supervised in the community through a system called probation. Probation services for felons are provided by the department for the various felony courts in Michigan's counties. </li>
+           <li class="details"><a href="http://www.michigan.gov/contactmdoc" title="Contact information for Corrections">Contact Information for Corrections</a></li> 
+          </ul></li>
+         <li class="type "><a href="/datingviolence">Dating Violence</a> 
+          <ul class="info ">
+           <li class="details"><a href="/datingviolence" title="Contact information for Dating Violence">Contact Information for Dating Violence</a></li> 
+          </ul></li>
+         <li class="type "><a href="/disabilityresources">Disability Resources</a> </li>
+         <li class="type "><a href="/driverresponsibility ">Driver Responsibility</a> 
+          <ul class="info ">
+           <li class="details"><a href="/driverresponsibility/0,4573,7-213-32168---,00.html" title="Contact information for Driver Responsibility">Contact Information for Driver Responsibility</a></li> 
+          </ul></li>
+         <li class="type "><a href="/mdch/0,4612,7-132-2941_4871---,00.html">Drug Control Policy</a> 
+          <ul class="info ">
+           <li class="details"><a href="/mdch/0,4612,7-132-2941_4871_43660---,00.html" title="Contact information for Drug Control Policy">Contact Information for Drug Control Policy</a></li> 
+          </ul></li>
+         <li class="type "><a href="/micontractconnect">DTMB-Procurement</a> 
+          <ul class="info ">
+           <li class="details"><a href="/micontractconnect/0,4541,7-225-40707---,00.html" title="Contact information for DTMB-Procurement">Contact Information for DTMB-Procurement</a></li> 
+          </ul></li>
+         <li class="type "><a href="/elicense">E-License</a> </li>
+         <li class="type "><a href="http://www.michiganbusiness.org/" target="_blank">Economic Development Corp.</a> 
+          <ul class="info ">
+           <li class="details"><a href="http://www.michiganbusiness.org/contact-medc/" title="Contact information for Economic Development Corp.">Contact Information for Economic Development Corp.</a></li> 
+          </ul></li>
+         <li class="type D"><a href="/mde">Education</a> 
+          <ul class="info D">
+           <li class="details">The Department of Education, under the direction of the Superintendent of Public Instruction, carries out the policies of the State Board of Education. The Department implements federal and state legislative mandates in education. </li>
+           <li class="details"><a href="/mde/0,4615,7-140-83834---,00.html" title="Contact information for Education">Contact Information for Education</a></li> 
+          </ul></li>
+         <li class="type "><a href="/sos/1,4670,7-127-1633---,00.html ">Elections, Bureau of</a> 
+          <ul class="info ">
+           <li class="details"><a href="/sos/0,4670,7-127-13162-25634--,00.html" title="Contact information for Elections, Bureau of">Contact Information for Elections, Bureau of</a></li> 
+          </ul></li>
+         <li class="type "><a href="/emergingdiseases">Emerging Disease</a> </li>
+         <li class="type "><a href="/heatingassistance">Energy Assistance Programs</a> 
+          <ul class="info ">
+           <li class="details"><a href="/dhs/0,4562,7-124-5453_5531-15420--,00.html" title="Contact information for Energy Assistance Programs">Contact Information for Energy Assistance Programs</a></li> 
+          </ul></li>
+         <li class="type D"><a href="/egle">Environment, Great Lakes, and Energy</a> 
+          <ul class="info D">
+           <li class="details">The department is dedicated to protecting human health and to preserving a healthy environment. The department will exemplify good environmental stewardship and affirm that a healthy environment is critical to our social, cultural, and economic well-being. The department will protect human health and the environment while fostering a healthy economy by effective and efficient administration of agency programs, and by providing for use of innovative strategies. This is being accomplished in a manner that is rebuilding the integrity of the department as an environmental protection agency that carries out this mission in a professional, just, and productive manner. </li>
+           <li class="details"><a href="/egle/0,9429,7-135-3306_3329---,00.html" title="Contact information for Environment, Great Lakes, and Energy">Contact Information for Environment, Great Lakes, and Energy</a></li> 
+          </ul></li>
+         <li class="type X"><a href="http://www.michigan.gov/forensic_artists">Forensic Artist Program</a> </li>
+         <li class="type "><a href="/fyit">Foster Youth in Transition</a> 
+          <ul class="info ">
+           <li class="details"><a href="/fyit" title="Contact information for Foster Youth in Transition">Contact Information for Foster Youth in Transition</a></li> 
+          </ul></li>
+         <li class="type "><a href="/mgcb">Gaming Control Board</a> 
+          <ul class="info ">
+           <li class="details"><a href="/mgcb/0,4620,7-120-55435---,00.html" title="Contact information for Gaming Control Board">Contact Information for Gaming Control Board</a></li> 
+          </ul></li>
+         <li class="type "><a href="/gasprices">Gasoline Corner</a> </li>
+         <li class="type "><a href="/deq/1,4561,7-135-3313_3677---,00.html">Great Lakes</a> 
+          <ul class="info ">
+           <li class="details"><a href="/deq/0,4561,7-135-3306_3329---,00.html" title="Contact information for Great Lakes">Contact Information for Great Lakes</a></li> 
+          </ul></li>
+         <li class="type D"><a href="/mdhhs">Health and Human Services</a> 
+          <ul class="info D">
+           <li class="details">The Michigan Department of Health and Human Services strives to promote better health outcomes, reduce health risks, and support stable and safe families while encouraging self-sufficiency. </li>
+           <li class="details"><a href="/mdhhs/0,5885,7-339--352302--,00.html" title="Contact information for Health and Human Services">Contact Information for Health and Human Services</a></li> 
+          </ul></li>
+         <li class="type "><a href="http://www.house.mi.gov/" target="_blank">House of Representatives</a> 
+          <ul class="info ">
+           <li class="details"><a href="http://www.house.mi.gov/" title="Contact information for House of Representatives">Contact Information for House of Representatives</a></li> 
+          </ul></li>
+         <li class="type D"><a href="/difs">Insurance and Financial Services</a> 
+          <ul class="info D">
+           <li class="details">The Department of Insurance and Financial Services (DIFS) is responsible for regulating Michigan's financial industries, including banks, credit unions, insurance, mortgage companies, and other consumer finance lenders. </li>
+           <li class="details"><a href="/difs/0,5269,7-303-64120_64122-40266--,00.html" title="Contact information for Insurance and Financial Services">Contact Information for Insurance and Financial Services</a></li> 
+          </ul></li>
+         <li class="type "><a href="http://www.michigan.gov/landbank">Land Bank Fast Track Authority</a> </li>
+         <li class="type "><a href="http://council.legislature.mi.gov/CouncilAdministrator/Index" target="_blank">Legislative Council</a> 
+          <ul class="info ">
+           <li class="details"><a href="http://council.legislature.mi.gov/CouncilAdministrator/ContactForm" title="Contact information for Legislative Council">Contact Information for Legislative Council</a></li> 
+          </ul></li>
+         <li class="type "><a href="http://www.legislature.mi.gov/" target="_blank">Legislature</a> </li>
+         <li class="type "><a href="/libraryofmichigan">Library of Michigan</a> </li>
+         <li class="type D"><a href="/lara">Licensing and Regulatory Affairs</a> 
+          <ul class="info D">
+           <li class="details">The Department of Licensing and Regulatory Affairs (LARA) supports business growth and job creation while safeguarding Michigan's citizens through a simple, fair, efficient and transparent regulatory structure. </li>
+           <li class="details"><a href="/lara/0,4601,7-154-76106-42245--,00.html" title="Contact information for Licensing and Regulatory Affairs">Contact Information for Licensing and Regulatory Affairs</a></li> 
+          </ul></li>
+         <li class="type "><a href="/calley">Lieutenant Governor Calley</a> 
+          <ul class="info ">
+           <li class="details"><a href="/calley" title="Contact information for Lieutenant Governor Calley">Contact Information for Lieutenant Governor Calley</a></li> 
+          </ul></li>
+         <li class="type "><a href="/lcc">Liquor Control Commission</a> 
+          <ul class="info ">
+           <li class="details"><a href="/lara/0,4601,7-154-35299_10570-255724--,00.html " title="Contact information for Liquor Control Commission">Contact Information for Liquor Control Commission</a></li> 
+          </ul></li>
+         <li class="type "><a href="/ltc">Long Term Care</a> 
+          <ul class="info ">
+           <li class="details"><a href="/ltc" title="Contact information for Long Term Care">Contact Information for Long Term Care</a></li> 
+          </ul></li>
+         <li class="type "><a href="/lottery">Lottery</a> 
+          <ul class="info ">
+           <li class="details"><a href="/lottery" title="Contact information for Lottery">Contact Information for Lottery</a></li> 
+          </ul></li>
+         <li class="type "><a href="http://www.mackinacparks.com/" target="_blank">Mackinac State Historic Parks</a> </li>
+         <li class="type "><a href="http://www.michigan.gov/mostwanted">MDOC's Most Wanted</a> </li>
+         <li class="type "><a href="/mentormichigan">Mentor Michigan</a> 
+          <ul class="info ">
+           <li class="details"><a href="/mentormichigan" title="Contact information for Mentor Michigan">Contact Information for Mentor Michigan</a></li> 
+          </ul></li>
+         <li class="type "><a href="https://mdotjboss.state.mi.us/MiDrive/map" target="_blank">Metro Detroit Traffic</a> </li>
+         <li class="type "><a href="http://courts.mi.gov/Pages/default.aspx" target="_blank">MI Courts</a> 
+          <ul class="info ">
+           <li class="details"><a href="http://courts.mi.gov/Pages/default.aspx" title="Contact information for MI Courts">Contact Information for MI Courts</a></li> 
+          </ul></li>
+         <li class="type "><a href="https://mdotjboss.state.mi.us/MiDrive/map" target="_blank">Mi Drive</a> 
+          <ul class="info ">
+           <li class="details"><a href="http://www.michigan.gov/mdot/0,4616,7-151-9615_47588_57015-164803--,00.html" title="Contact information for Mi Drive">Contact Information for Mi Drive</a></li> 
+          </ul></li>
+         <li class="type "><a href="/healthcareworkforcecenter">MI Healthcare Workforce Center</a> </li>
+         <li class="type "><a href="/minewswire">MI Newswire</a> </li>
+         <li class="type "><a href="/miseniors">Mi Seniors</a> </li>
+         <li class="type "><a href="/ctf">Michigan Children's Trust Fund</a> 
+          <ul class="info ">
+           <li class="details"><a href="/ctf/0,4554,7-196-27139-140153--,00.html" title="Contact information for Michigan Children" s trust fund'>Contact Information for Michigan Children's Trust Fund</a></li> 
+          </ul></li>
+         <li class="type "><a href="/mcoles">Michigan Commission on Law Enforcement Standards </a> 
+          <ul class="info ">
+           <li class="details"><a href="/mcoles/0,4607,7-229-69789-147671--,00.html" title="Contact information for Michigan Commission on Law Enforcement Standards ">Contact Information for Michigan Commission on Law Enforcement Standards </a></li> 
+          </ul></li>
+         <li class="type "><a href="/setwithmet">Michigan Education Trust</a> 
+          <ul class="info ">
+           <li class="details"><a href="/setwithmet/0,4666,7-374-87547_87681---,00.html" title="Contact information for Michigan Education Trust">Contact Information for Michigan Education Trust</a></li> 
+          </ul></li>
+         <li class="type "><a href="/merc">Michigan Employment Relations Commission</a> 
+          <ul class="info ">
+           <li class="details"><a href="/lara/0,4601,7-154-61256_17485-42424--,00.html " title="Contact information for Michigan Employment Relations Commission">Contact Information for Michigan Employment Relations Commission</a></li> 
+          </ul></li>
+         <li class="type "><a href="http://www.michigan.gov/estore" target="_blank">Michigan eStore</a> </li>
+         <li class="type "><a href=" http://www.michiganfilmoffice.org">Michigan Film Office</a> </li>
+         <li class="type "><a href="/mfpc">Michigan Food Policy Council</a> 
+          <ul class="info ">
+           <li class="details"><a href="/mfpc/0,4610,7-228-41494---C,00.html" title="Contact information for Michigan Food Policy Council">Contact Information for Michigan Food Policy Council</a></li> 
+          </ul></li>
+         <li class="type "><a href="/museum">Michigan Historical Museum</a> </li>
+         <li class="type "><a href="/kids">Michigan Kids! Web site</a> </li>
+         <li class="type "><a href="http://www.mlui.org" target="_blank">Michigan Land Use Institute</a> </li>
+         <li class="type "><a href="/miosha">Michigan Occupational Safety and Health Administration</a> 
+          <ul class="info ">
+           <li class="details"><a href="/lara/0,4601,7-154-61256_11407-37876--,00.html " title="Contact information for Michigan Occupational Safety and Health Administration">Contact Information for Michigan Occupational Safety and Health Administration</a></li> 
+          </ul></li>
+         <li class="type "><a href="/michiganprepares">Michigan Prepares</a> </li>
+         <li class="type "><a href="/msi">Michigan State Industries</a> 
+          <ul class="info ">
+           <li class="details"><a href="/msi/0,4642,7-174-24000---C,00.html" title="Contact information for Michigan State Industries">Contact Information for Michigan State Industries</a></li> 
+          </ul></li>
+         <li class="type "><a href="/surgeongeneral">Michigan Steps Up</a> </li>
+         <li class="type "><a href="/formergovernors/">Michigan's Former Governors</a> </li>
+         <li class="type "><a href="/mideal">MiDEAL</a> </li>
+         <li class="type D"><a href="/dmva/">Military and Veterans Affairs</a> 
+          <ul class="info D">
+           <li class="details">The Department of Military and Veterans Affairs, also known as the state military establishment, has 3 primary missions: to execute the duties laid down by various statutes and the governor, administration of state-supported veterans programming, and military preparedness to assist both state and federal authorities. </li>
+           <li class="details"><a href="/dmva/0,4569,7-126--106980--,00.html" title="Contact information for Military and Veterans Affairs">Contact Information for Military and Veterans Affairs</a></li> 
+          </ul></li>
+         <li class="type D"><a href="/dnr">Natural Resources</a> 
+          <ul class="info D">
+           <li class="details">The Michigan Department of Natural Resources is committed to the conservation, protection, management, use and enjoyment of the state's natural and cultural resources for current and future generations. </li>
+          </ul></li>
+         <li class="type "><a href="/ona">Office for New Americans</a> </li>
+         <li class="type "><a href="/opt/">Office of Performance and Transformation</a> </li>
+         <li class="type "><a href="/mpsc">Public Service Commission</a> 
+          <ul class="info ">
+           <li class="details"><a href="/mpsc/0,4639,7-159-16400_33353---,00.html " title="Contact information for Public Service Commission">Contact Information for Public Service Commission</a></li> 
+          </ul></li>
+         <li class="type "><a href="http://www.michigan.org/" target="_blank">Pure Michigan Travel</a> 
+          <ul class="info ">
+           <li class="details"><a href="http://www.michigan.org/contact-us" title="Contact information for Pure Michigan Travel">Contact Information for Pure Michigan Travel</a></li> 
+          </ul></li>
+         <li class="type "><a href="/recordsmanagement">Records Management</a> </li>
+         <li class="type "><a href="/recordsmanagement">Records Management Services</a> </li>
+         <li class="type "><a href="/ors/">Retirement Services</a> 
+          <ul class="info ">
+           <li class="details"><a href="/ors/0,4649,7-144-48037-201578--,00.html" title="Contact information for Retirement Services">Contact Information for Retirement Services</a></li> 
+          </ul></li>
+         <li class="type "><a href="/safedelivery">Safe Delivery of Newborns</a> 
+          <ul class="info ">
+           <li class="details"><a href="/dhs/0,4562,7-124-5453_7124_7200---,00.html" title="Contact information for Safe Delivery of Newborns">Contact Information for Safe Delivery of Newborns</a></li> 
+          </ul></li>
+         <li class="type "><a href="/safeschools">Safe Schools</a> </li>
+         <li class="type "><a href="/safesleep">Safe Sleep</a> 
+          <ul class="info ">
+           <li class="details"><a href="/dhs/0,4562,7-124-5453_7124_57836---,00.html" title="Contact information for Safe Sleep">Contact Information for Safe Sleep</a></li> 
+          </ul></li>
+         <li class="type "><a href="http://senate.michigan.gov/" target="_blank">Senate</a> 
+          <ul class="info ">
+           <li class="details"><a href="http://senate.michigan.gov/" title="Contact information for Senate">Contact Information for Senate</a></li> 
+          </ul></li>
+         <li class="type O"><a href="/osa">Services to the Aging, Office of </a> 
+          <ul class="info O">
+           <li class="details">OSA offers an easy way to search for supports and services through our search page. You can also call 517-373-8230 for more information. </li>
+           <li class="details"><a href="/osa/1,4635,7-234-64085---,00.html" title="Contact information for Services to the Aging, Office of ">Contact Information for Services to the Aging, Office of </a></li> 
+          </ul></li>
+         <li class="type D"><a href="/sos/">State</a> 
+          <ul class="info D">
+           <li class="details">The Department of State is the oldest department of Michigan state government and is administered by the secretary of state. Elected to a 4-year term, the secretary of state is a member of the executive branch of government and has constitutional as well as statutory duties. </li>
+           <li class="details"><a href="/sos/0,4670,7-127--25634--,00.html" title="Contact information for State">Contact Information for State</a></li> 
+          </ul></li>
+         <li class="type "><a href="http://www.sado.org/" target="_blank">State Appellate Defender's Office</a> 
+          <ul class="info ">
+           <li class="details"><a href="http://www.sado.org/Home/Contact" title="Contact information for State Appellate Defender" s office'>Contact Information for State Appellate Defender's Office</a></li> 
+          </ul></li>
+         <li class="type "><a href="/budget">State Budget</a> 
+          <ul class="info ">
+           <li class="details"><a href="/budget/0,9357,7-379-88599---,00.html" title="Contact information for State Budget">Contact Information for State Budget</a></li> 
+          </ul></li>
+         <li class="type "><a href="/ose/0,4656,7-143-6097_6274---,00.html">State Employee Health Management</a> </li>
+         <li class="type "><a href="/ose/0,4656,7-143-6097_29351---,00.html">State Employee Service Program</a> </li>
+         <li class="type "><a href="/ose/">State Employer</a> 
+          <ul class="info ">
+           <li class="details"><a href="/ose/1,4656,7-143-11340-12438--,00.html" title="Contact information for State Employer">Contact Information for State Employer</a></li> 
+          </ul></li>
+         <li class="type "><a href="/shpo">State Historic Preservation Office</a> </li>
+         <li class="type "><a href="/mshda">State Housing Development Authority</a> 
+          <ul class="info ">
+           <li class="details"><a href="/mshda/0,4641,7-141-7559_85623---,00.html" title="Contact information for State Housing Development Authority">Contact Information for State Housing Development Authority</a></li> 
+          </ul></li>
+         <li class="type "><a href="/statelicensesearch/">State License Search</a> </li>
+         <li class="type S"><a href="/">State of Michigan</a> 
+          <ul class="info S">
+           <li class="details">State of Michigan </li>
+          </ul></li>
+         <li class="type D"><a href="/msp">State Police</a> 
+          <ul class="info D">
+           <li class="details">The purpose of the department is to provide 24-hour statewide quality police service for the safety and protection of the people and their property in the state of Michigan. Its primary responsibilities are to reduce the opportunities for crime, to reduce traffic accidents through diligent and fair enforcement of the laws of this state, and to act as a first responder to any citizen's needs that can be addressed through the resources of the criminal justice system. </li>
+           <li class="details"><a href="/msp/0,4643,7-123--330194--,00.html" title="Contact information for State Police">Contact Information for State Police</a></li> 
+          </ul></li>
+         <li class="type "><a href="/micontractconnect">State Procurement</a> 
+          <ul class="info ">
+           <li class="details"><a href="/micontractconnect/0,4541,7-225-40707---,00.html" title="Contact information for State Procurement">Contact Information for State Procurement</a></li> 
+          </ul></li>
+         <li class="type "><a href="/mistudentaid">Student Financial Aid</a> 
+          <ul class="info ">
+           <li class="details"><a href="/mistudentaid/0,4636,7-372-86868---,00.html" title="Contact information for Student Financial Aid">Contact Information for Student Financial Aid</a></li> 
+          </ul></li>
+         <li class="type D"><a href="/ted">Talent and Economic Development</a> 
+          <ul class="info D">
+           <li class="details">Joining job creation and economic development efforts under one umbrella, the Department of Talent and Economic Development consists of the Michigan Economic Development Corporation, the Michigan State Housing Development Authority, the Michigan Strategic Fund and the newly created Talent Investment Agency (TIA). TED allows the state to leverage its ability to build talent with in-demand skills while helping state businesses grow and thrive. </li>
+           <li class="details"><a href="/ted/0,5863,7-336--348563--,00.html" title="Contact information for Talent and Economic Development">Contact Information for Talent and Economic Development</a></li> 
+          </ul></li>
+         <li class="type A"><a href="/tia">Talent Investment Agency</a> 
+          <ul class="info A">
+           <li class="details"><a href="/tia/0,5865,7-337-87125---,00.html" title="Contact information for Talent Investment Agency">Contact Information for Talent Investment Agency</a></li> 
+          </ul></li>
+         <li class="type "><a href="/taxtrib">Tax Tribunal</a> 
+          <ul class="info ">
+           <li class="details"><a href="/taxtrib/0,4677,7-187--132624--,00.html" title="Contact information for Tax Tribunal">Contact Information for Tax Tribunal</a></li> 
+          </ul></li>
+         <li class="type "><a href="/taxes">Taxes</a> 
+          <ul class="info ">
+           <li class="details"><a href="/taxes/0,4676,7-238--8483--,00.html" title="Contact information for Taxes">Contact Information for Taxes</a></li> 
+          </ul></li>
+         <li class="type D"><a href="/dtmb">Technology, Management &amp; Budget</a> 
+          <ul class="info D">
+           <li class="details">The Department of Technology, Management and Budget promotes a unified approach to information technology management and provides centralized administration of services including auditing, budgeting, employee resources, financial services, fleet management, mail, printing, property management, purchasing, records management, and retirement services for departments and agencies in the executive branch of state government. </li>
+           <li class="details"><a href="/dtmb" title="Contact information for Technology, Management &amp; Budget">Contact Information for Technology, Management &amp; Budget</a></li> 
+          </ul></li>
+         <li class="type "><a href="/mdhhs/0,5885,7-339-71550_2955_2973---,00.html">Tobacco</a> </li>
+         <li class="type D"><a href="/mdot/">Transportation</a> 
+          <ul class="info D">
+           <li class="details">The primary functions of the Department of Transportation are the construction, improvement, and maintenance of the state highway system -the 9,620 miles of interstate, U.S.- and M-numbered highways, and the administration of other state transportation programs. Responsibilities include the development and implementation of comprehensive transportation plans for the entire state, including aeronautics and bus and rail transit, providing professional and technical assistance, and the administration of state and federal funds allocated for these programs. The director of the department is appointed by the governor, with the advice and consent of the senate. </li>
+           <li class="details"><a href="/mdot/0,4616,7-151-68368---,00.html" title="Contact information for Transportation">Contact Information for Transportation</a></li> 
+          </ul></li>
+         <li class="type D"><a href="/treasury">Treasury</a> 
+          <ul class="info D">
+           <li class="details">Treasury exists to provide quality financial, tax, and administrative services. The state treasurer acts as principal advisor to the governor on tax and fiscal policy issues. The state treasurer is the chairperson of the Michigan Debt Advisory Board, the Michigan Education Trust, the Michigan Higher Education Assistance Authority, the Michigan Higher Education Student Loan Authority, the Michigan Merit Award Board, the Michigan Municipal Bond Authority, and the Michigan School District Accountability Board. </li>
+           <li class="details"><a href="/treasury/0,4679,7-121--8483--,00.html" title="Contact information for Treasury">Contact Information for Treasury</a></li> 
+          </ul></li>
+         <li class="type "><a href="/uia">Unemployment Insurance Agency</a> 
+          <ul class="info ">
+           <li class="details"><a href="/uia/0,4680,7-118-6006-11782--,00.html " title="Contact information for Unemployment Insurance Agency">Contact Information for Unemployment Insurance Agency</a></li> 
+          </ul></li>
+         <li class="type "><a href="/westnile">West Nile Virus</a> </li>
+         <li class="type "><a href="/mwc">Women's Commission </a> 
+          <ul class="info ">
+           <li class="details"><a href="/mwc/0,5828,7-334-70423---,00.html" title="Contact information for Women" s commission '>Contact Information for Women's Commission </a></li> 
+          </ul></li>
+         <li class="type "><a href="/wca">Workers' Compensation Agency</a> 
+          <ul class="info ">
+           <li class="details"><a href="/wca/0,4682,7-191--79003--,00.html" title="Contact information for Workers" compensation agency'>Contact Information for Workers' Compensation Agency</a></li> 
+          </ul></li>
+         <li class="type A"><a href="/wda">Workforce Development Agency</a> 
+          <ul class="info A">
+           <li class="details"><a href="/wda/0,5303,7-304--298859--,00.html" title="Contact information for Workforce Development Agency">Contact Information for Workforce Development Agency</a></li> 
+          </ul></li>
+        </ul>
+       </div> 
+      </div>
+      <!-- End Directory List -->
+      <!-- Body End -->
+     </div>
+     <!-- /main --> 
+    </div>
+    <!-- /contentWrapper --> 
+   </div>
+   <!-- /bodyWrapper --> 
+   <!-- BOTTOMNAV --> 
+   <!-- BEGIN FOOTER RD --> 
+   <div id="footerArea" role="contentinfo" style="clear: both"> 
+    <!-- begin expanded footer -->
+    <div id="expandedFooter">
+     <div id="cat_72339" class="footer_1">
+      <h2>Michigan.gov logo</h2>
+      <ul>
+       <li><a href="/som"><img src="/images/som/somFooterLogoBOW2015_491229_7.png" alt="Michigan.gov"></a></li>
+      </ul>
+     </div>
+     <div id="agencylinks" class="footer_1">
+      <ul>
+       <li><a href="/som/0,4669,7-192-39925---,00.html">Foreign Languages</a></li>
+       <li><a href="/disabilityresources">Disability Resources</a></li>
+      </ul>
+     </div>
+     <div id="policylinks" class="footer_1">
+      <ul>
+       <li><a href="/">Michigan.gov Home</a></li>
+       <li><a href="/adaform">ADA</a></li>
+       <li><a href="/minewswire">Michigan News</a></li>
+       <li><a href="/som/0,4669,7-192--281460--,00.html">Policies</a></li>
+      </ul>
+     </div>
+    </div>
+    <br>
+    <span class="copyright"><br>Copyright 2019 State of Michigan</span>
+    <!-- end expanded footer -->
+    <script type="text/javascript">
+if (typeof jQuery == 'undefined') {
+    document.querySelector('body').classList.remove('matching-heights-processing');
+	document.getElementById("noAdBlock").style.display = "block";
+}
+</script> 
+   </div> 
+   <!--END DIV CONTAINER--> 
+  </div> 
+  <!-- Mega Menu Block --> 
+  <div id="megaMenuBlock"> 
+   <div id="megaMenuSubLinksBlock_container"> 
+    <div class="container"> 
+     <div class="col-xs-3"> 
+      <div id="megaMenuLogoBlock"> 
+       <a href="/som"> <img src="/images/som/final_logo_migov_white_526452_7.png" class="img-responsive logo" alt="State of Michigan "></a> 
+      </div> 
+     </div> 
+     <div class="col-xs-9"> 
+      <div id="megaMenuSubLinksBlockBreadCrumb"></div> 
+      <div id="megaMenuSubLinksBlock"></div> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="megaMenuSearchBlock"></div> 
+  </div> 
+  <style type="text/css">
+
+</style> 
+  <!-- stmiws102.prdcloud.fms.ibmcloud.com rjp NT -->  
+ </body>
+</html>

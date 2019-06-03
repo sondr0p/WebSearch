@@ -1,0 +1,854 @@
+<!doctype html>
+<html lang="en" dir="ltr" xmlns="http://www.w3.org/1999/xhtml" prefix="fb: http://www.facebook.com/2008/fbml og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema# schema: http://schema.org/">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <link rel="shortcut icon" href="https://georgia.gov/profiles/georgiagov/themes/gagov/favicon.ico" type="image/vnd.microsoft.icon"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"> 
+  <title>2019 Legislative Summary | Georgia.gov</title> 
+  <link type="text/css" rel="stylesheet" href="https://georgia.gov/sites/georgia/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://georgia.gov/sites/georgia/files/css/css_1kF33EODTO5gDyEbdpAfYzMKbjG3ottD1s5np0BNI8U.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://georgia.gov/sites/georgia/files/css/css_1H855u3ooEi6TkbrivuVq_H9eyk41Lqbyko7FIA04x8.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://georgia.gov/sites/georgia/files/css/css_QK6idjqjKWCsIOFI25GdtpKI2emBuK-81o-0ozt5QNU.css" media="screen"> 
+  <link type="text/css" rel="stylesheet" href="https://georgia.gov/sites/georgia/files/css/css_lz-CeVtBXmlXt2L61uDVl1OXGfT0JpEfO1K-Sez44aQ.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://georgia.gov/sites/georgia/files/css/css_54i8oj2yswd5OjuvOKyBSZdhILZCJp5SYzE7SoUdE3c.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://georgia.gov/sites/georgia/files/css/css_Dm2GCtJVOXVkFiLKT8lNShm7WxnaFpaN4wtO7LBevvQ.css" media="print"> 
+  <link type="text/css" rel="stylesheet" href="https://georgia.gov/sites/georgia/files/css/css_K2v84rBgc7aUlSve92RIIXqr5ab8grctm7WjmTkUOzg.css" media="all"> 
+  <!--[if (lt IE 9)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="https://georgia.gov/sites/georgia/files/css/css_0FK1Ss1z78qzR9rYwssQNuuDtIN7nIvJmMrovT_AcTs.css" media="all" />
+<![endif]--> 
+  <!--[if gte IE 9]><!--> 
+  <link type="text/css" rel="stylesheet" href="https://georgia.gov/sites/georgia/files/css/css_fz433ZnemH_Ioh0q4Gqm8KJAHfkhsx-t1_iAOnt0CYg.css" media="all"> 
+  <!--<![endif]--> 
+  <!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="https://georgia.gov/sites/georgia/files/css/css_cNtZtG8zeV8lREX0ZCHdc6RUKTqj9sZfRAwP7y7U_Ko.css" media="all" />
+<![endif]--> 
+  <!--[if IE 8]>
+<link type="text/css" rel="stylesheet" href="https://georgia.gov/sites/georgia/files/css/css_iIt4hThjK3pSvf8aj-98wWdVlI6kknqb_-jJOEbsLow.css" media="all" />
+<![endif]--> 
+  <script type="text/javascript" src="https://georgia.gov/sites/georgia/files/js/js_0RyHJ63yYLuaWsodCPCgSD8dcTIA0dqcDf8-7c2XdBw.js"></script> 
+  <script type="text/javascript" src="https://georgia.gov/sites/georgia/files/js/js_ZtXynrSRO_YPrifoJsbSb45ZMxvo02aiXOu_aEGg3js.js"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+document.createElement( "picture" );
+//--><!]]>
+</script> 
+  <script type="text/javascript" src="https://georgia.gov/sites/georgia/files/js/js_C6fDI3GykZUs5TCLFDFibvaCvGJZPsdcRCB9Ks7zFtI.js"></script> 
+  <script type="text/javascript" src="https://georgia.gov/sites/georgia/files/js/js_h2Sbl4zinP17gEClelsIFEwvbu_691f__EzDI6aPQ44.js"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/sites/all/libraries/ckeditor/'
+//--><!]]>
+</script> 
+  <script type="text/javascript" defer src="//script.crazyegg.com/pages/scripts/0011/6570.js"></script> 
+  <script type="text/javascript" src="https://georgia.gov/sites/georgia/files/js/js_gPqjYq7fqdMzw8-29XWQIVoDSWTmZCGy9OqaHppNxuQ.js"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-334998-23", {"cookieDomain":"auto"});ga("require", "displayfeatures");ga("set", "anonymizeIp", true);ga("send", "pageview");ga('create', 'UA-24934301-1', 'auto', 'rollup'); ga('rollup.send', 'pageview');
+//--><!]]>
+</script> 
+  <script type="text/javascript" src="//use.typekit.com/tpf0qwe.js"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{Typekit.load();}catch(e){}
+//--><!]]>
+</script> 
+  <script type="text/javascript" src="https://georgia.gov/sites/georgia/files/js/js_Y1EyAOu78dGOtfLLoVWNPCJFIwwRYqvlvR6SaAnXXXY.js"></script> 
+  <script type="text/javascript" src="https://georgia.gov/sites/georgia/files/js/js_PGxoSqxZMlpb2pd2_57UQZpkhw9TK7F6N0AvcRjdfnw.js"></script> 
+  <script type="text/javascript" src="https://georgia.gov/sites/georgia/files/js/js_diWL3aQY3h6RRBatVIE0RJfaXsBie-hoJ861ArHzvB0.js"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"gagov","theme_token":"5qDLONIiKUkYSh6w1p5lScimlfiMB-oegY8wRVDRRsc","js":{"sites\/all\/modules\/contrib\/picture\/picturefill2\/picturefill.min.js":1,"sites\/all\/modules\/contrib\/picture\/picture.min.js":1,"profiles\/gta\/modules\/features\/gta_defaults\/theme\/Universal-Federated-Analytics.js":1,"sites\/all\/modules\/contrib\/addthis\/addthis.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/jquery.domnodeappear\/jquery.domnodeappear.js":1,"modules\/contextual\/contextual.js":1,"0":1,"profiles\/gta\/modules\/custom\/gta_views_alter\/js\/custom.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/openpublic\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/openpublic\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/openpublic\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/gta\/modules\/features\/gta_defaults\/theme\/gta_menu.js":1,"profiles\/gta\/modules\/features\/gta_custom_boxes\/theme\/gta_search.js":1,"1":1,"\/\/script.crazyegg.com\/pages\/scripts\/0011\/6570.js":1,"profiles\/openpublic\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"2":1,"\/\/use.typekit.com\/tpf0qwe.js":1,"3":1,"profiles\/georgiagov\/modules\/custom\/quick_search\/js\/quick_search.js":1,"profiles\/openpublic\/modules\/contrib\/field_group\/field_group.js":1,"sites\/all\/modules\/contrib\/google_translator\/theme\/google_translator.js":1,"profiles\/georgiagov\/themes\/gagov\/js\/gagov.js":1,"profiles\/openpublic\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/contextual\/contextual.css":1,"profiles\/gta\/modules\/custom\/acquia_purge_extras\/assets\/css\/acquia_purge_extras.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"profiles\/openpublic\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/openpublic\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/openpublic\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/flexslider\/assets\/css\/flexslider_img.css":1,"profiles\/gta\/modules\/features\/gta_tiles\/css\/no-focal-point.css":1,"profiles\/gta\/modules\/custom\/gta_views_alter\/css\/style.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"modules\/search\/search.css":1,"sites\/all\/modules\/contrib\/siteimprove\/css\/siteimprove.css":1,"modules\/user\/user.css":1,"profiles\/openpublic\/modules\/contrib\/views\/css\/views.css":1,"profiles\/openpublic\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/openpublic\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/special_menu_items\/special_menu_items.css":1,"profiles\/georgiagov\/modules\/custom\/quick_search\/css\/quick_search.css":1,"sites\/all\/modules\/contrib\/flippy\/flippy.css":1,"sites\/all\/modules\/contrib\/google_translator\/theme\/google_translator.css":1,"sites\/georgia\/files\/css\/follow.css":1,"profiles\/gta\/modules\/features\/gta_paragraphs_bundles\/gta_paragraphs_bundles.css":1,"profiles\/georgiagov\/themes\/gagov\/css\/gagov-print.css":1,"profiles\/openpublic\/themes\/omega\/alpha\/css\/alpha-reset.css":1,"profiles\/openpublic\/themes\/omega\/alpha\/css\/alpha-mobile.css":1,"profiles\/openpublic\/themes\/omega\/alpha\/css\/alpha-alpha.css":1,"profiles\/openpublic\/themes\/omega\/omega\/css\/omega-text.css":1,"profiles\/openpublic\/themes\/omega\/omega\/css\/omega-branding.css":1,"profiles\/openpublic\/themes\/omega\/omega\/css\/omega-menu.css":1,"profiles\/gta\/modules\/features\/gta_defaults\/theme\/gta_menu.css":1,"profiles\/georgiagov\/themes\/gagov\/css\/global.css":1,"ie::normal::profiles\/georgiagov\/themes\/gagov\/css\/gagov-alpha-default.css":1,"ie::normal::profiles\/georgiagov\/themes\/gagov\/css\/gagov-alpha-default-normal.css":1,"ie::normal::profiles\/openpublic\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1,"ie::normal::profiles\/openpublic\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-16.css":1,"narrow::profiles\/georgiagov\/themes\/gagov\/css\/gagov-alpha-default.css":1,"narrow::profiles\/georgiagov\/themes\/gagov\/css\/gagov-alpha-default-narrow.css":1,"profiles\/openpublic\/themes\/omega\/alpha\/css\/grid\/alpha_default\/narrow\/alpha-default-narrow-12.css":1,"profiles\/openpublic\/themes\/omega\/alpha\/css\/grid\/alpha_default\/narrow\/alpha-default-narrow-16.css":1,"normal::profiles\/georgiagov\/themes\/gagov\/css\/gagov-alpha-default.css":1,"normal::profiles\/georgiagov\/themes\/gagov\/css\/gagov-alpha-default-normal.css":1,"profiles\/openpublic\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1,"profiles\/openpublic\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-16.css":1,"profiles\/georgiagov\/themes\/gagov\/css\/core-ie7.css":1,"profiles\/georgiagov\/themes\/gagov\/css\/core-ie8.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"gta_analytics_site":{"name":"georgia.gov"},"better_exposed_filters":{"views":{"similar_blogs":{"displays":{"block":{"filters":[]}}},"blog_topic_nav":{"displays":{"block":{"filters":[]}}},"most_viewed":{"displays":{"block_1":{"filters":[]}}}}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"quick_search":{"path":"\/quick_search\/autocomplete","minlength":3},"urlIsAjaxTrusted":{"\/blog\/2019-04-15\/2019-legislative-summary\/about-georgia":true},"field_group":{"div":"full"},"addthis":{"async":false,"domready":true,"widget_url":"\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"ra-50d08bbe5186054b","services_compact":"more","services_exclude":"","data_track_clickback":true,"ui_508_compliant":true,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en","data_ga_property":"UA-334998-23","data_ga_social":false},"addthis_share":{"passthrough":{"twitter":{"via":"GeorgiaGov","text":"Check this out: "}}}},"google_translator":{"disclaimer":"\u003Cdl\u003E\u003Cdt\u003EAutomatic translation disclaimer\u003C\/dt\u003E\n\u003Cdd\u003E\nThe State of Georgia provides automatic translation for georgia.gov into seven languages, courtesy of Google Translate. Please remember, though, that the English language version is considered the most accurate. In the event of a disagreement or discrepancy between the translation and the original English version of this web site or any notice or disclaimer, the original version will prevail.\n\u003C\/dd\u003E\n\u003C\/dl\u003E","jquery_selector":"google-translator-switch","acept_text":"Accept","donnot_acept_text":"Do Not Accept","gt_script":"\u003Cspan id=\u0027google_translator_element\u0027 class=\u0027google_translator\u0027\u003E\u003C\/span\u003E\u003Cscript\u003Efunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({\n    pageLanguage: \u0027en\u0027,\n    includedLanguages: \u0027zh-CN,ht,ko,pt,ru,es,vi\u0027,layout: google.translate.TranslateElement.InlineLayout.SIMPLE }, \u0027google_translator_element\u0027);}\u003C\/script\u003E\n    \u003Cscript src=\u0027\/\/translate.google.com\/translate_a\/element.js?cb=googleTranslateElementInit\u0027\u003E\u003C\/script\u003E"},"omega":{"layouts":{"primary":"normal","order":["narrow","normal"],"queries":{"narrow":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"all and (min-width: 980px)"}}}});
+//--><!]]>
+</script> 
+  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]--> 
+ </head> 
+ <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-5981 page-node-about-georgia node-type-blog-entry context-node"> 
+  <div id="skip-link"> 
+   <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a> 
+  </div> 
+  <div class="region region-page-top" id="region-page-top"> 
+   <div class="region-inner region-page-top-inner"> 
+   </div> 
+  </div> 
+  <div class="page clearfix" id="page"> 
+   <div id="outer-wrapper" class="clearfix"> 
+    <header id="section-header" class="section section-header"> 
+     <div id="header-bg" class="clearfix"> 
+      <div id="zone-branding-wrapper" class="zone-wrapper zone-branding-wrapper clearfix"> 
+       <div id="zone-branding" class="zone zone-branding clearfix container-12"> 
+        <div class="grid-12 region region-branding" id="region-branding"> 
+         <div class="region-inner region-branding-inner"> 
+          <div class="branding-data clearfix"> 
+           <div class="logo-img"> 
+            <a href="/" rel="home" title="Georgia.gov"><img src="https://georgia.gov/profiles/georgiagov/themes/gagov/logo.png" alt="GeorgiaGov" id="logo"></a> 
+           </div> 
+           <hgroup class="site-name-slogan"> 
+            <h2 class="site-name"><a href="/" title="Home">Georgia.gov</a></h2> 
+           </hgroup> 
+          </div> 
+          <div class="block block-gta-custom-boxes block-gta-search-box block-gta-custom-boxes-gta-search-box odd block-without-title" id="block-gta-custom-boxes-gta-search-box"> 
+           <div class="block-inner shadows clearfix"> 
+            <div class="block-inner-inner clearfix"> 
+             <div class="content clearfix"> 
+              <form action="/blog/2019-04-15/2019-legislative-summary/about-georgia" method="post" id="gta-custom-boxes-gta-search-box" accept-charset="UTF-8">
+               <div>
+                <div class="form-item form-type-textfield form-item-search"> 
+                 <label class="element-invisible" for="edit-search">Search this site <span class="form-required" title="This field is required.">(required)</span></label> 
+                 <input title="Enter the terms you wish to search for." placeholder="Search for topics, agencies, cities" data-quick_search_callback="gta_custom_boxes_qs_callback" class="use-quicksearch form-text required" type="text" id="edit-search" name="search" value="" size="60" maxlength="256"> 
+                </div> 
+                <input type="submit" id="edit-submit" name="op" value="Submit" class="form-submit">
+                <input type="hidden" name="form_build_id" value="form-Km-EPG6aKvnpagunBrnL5VMaWvUOma-SsC_I-xl5x8U"> 
+                <input type="hidden" name="form_id" value="gta_custom_boxes_gta_search_box"> 
+               </div>
+              </form> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div>
+      <div id="zone-menu-wrapper" class="zone-wrapper zone-menu-wrapper clearfix"> 
+       <div id="zone-menu" class="zone zone-menu clearfix container-12"> 
+        <div class="grid-12 region region-menu" id="region-menu"> 
+         <div class="region-inner region-menu-inner"> 
+          <div class="block block-menu-block block-gta-navigation-main block-menu-block-gta-navigation-main odd block-without-title" id="block-menu-block-gta-navigation-main"> 
+           <div class="block-inner shadows clearfix"> 
+            <div class="block-inner-inner clearfix"> 
+             <div class="content clearfix"> 
+              <div class="menu-block-wrapper menu-block-gta_navigation-main menu-name-main-menu parent-mlid-0 menu-level-1"> 
+               <ul class="menu">
+                <li class="first expanded menu-mlid-7416"><a href="/about-georgia">About Georgia</a>
+                 <ul class="menu">
+                  <li class="first leaf menu-mlid-20251"><a href="/georgia-history">Georgia History</a></li> 
+                  <li class="leaf menu-mlid-20241"><a href="/georgia-facts">Georgia Facts</a></li> 
+                  <li class="leaf menu-mlid-20246"><a href="/georgia-symbols">Georgia Symbols</a></li> 
+                  <li class="leaf menu-mlid-7426"><a href="/georgia-government">Georgia Government</a></li> 
+                  <li class="leaf menu-mlid-7431"><a href="/resources">Resources</a></li> 
+                  <li class="leaf menu-mlid-8076"><a href="/municipality-list" title="">Cities and Counties</a></li> 
+                  <li class="last leaf menu-mlid-8081"><a href="http://georgia.gov/blogs?topic=1021&amp;topic=1021" title="">Georgia History Blog Posts</a></li> 
+                 </ul></li> 
+                <li class="leaf menu-mlid-780"><a href="/agency-list" title="">Agencies</a></li> 
+                <li class="leaf active-trail menu-mlid-3436"><a href="/blogs" title="" class="active-trail">Blog</a></li> 
+                <li class="leaf menu-mlid-3431"><a href="/municipality-list" title="">Cities &amp; Counties</a></li> 
+                <li class="leaf menu-mlid-782"><a href="/elected-officials">Elected Officials</a></li> 
+                <li class="last leaf menu-mlid-783"><a href="/popular-topics" title="">Popular Topics</a></li> 
+               </ul>
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </header> 
+    <section id="section-content" class="section section-content"> 
+     <div class="outer-content-shadow"> 
+      <div class="outer-content-wrapper"> 
+       <div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix"> 
+        <div id="zone-content" class="zone zone-content clearfix container-16"> 
+         <div class="grid-10 region region-content" id="region-content"> 
+          <div class="region-inner region-content-inner"> 
+           <a id="main-content" tabindex="-1"></a> 
+           <h2 class="element-invisible">You are here</h2>
+           <div class="breadcrumb">
+            <a href="/">Home</a> » 
+            <a href="/blogs">Blog</a> » 2019 Legislative Summary
+           </div> 
+           <h1 class="title" id="page-title">2019 Legislative Summary<span class="icon"></span></h1> 
+           <div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main"> 
+            <div class="block-inner shadows clearfix"> 
+             <div class="block-inner-inner clearfix"> 
+              <div class="content clearfix"> 
+               <div id="node-5981" class="node node-blog-entry node-promoted node-published node-not-sticky odd clearfix clearfix" about="/blog/2019-04-15/2019-legislative-summary" typeof="sioc:Item foaf:Document"> 
+                <span property="dc:title" content="2019 Legislative Summary" class="rdf-meta element-hidden"></span> 
+                <div class="content"> 
+                 <span class="print-link"></span>
+                 <div class="field field-name-field-release-date field-type-datetime field-label-hidden"> 
+                  <div class="field-items"> 
+                   <div class="field-item even">
+                    <span class="date-display-single">April 15, 2019</span>
+                   </div> 
+                  </div> 
+                 </div> 
+                 <div class="field field-name-field-thumbnail-image field-type-image field-label-hidden"> 
+                  <div class="field-items"> 
+                   <div class="field-item even">
+                    <img typeof="foaf:Image" src="https://georgia.gov/sites/georgia/files/styles/blog_thumbnail/public/blog/thumbnail/kemp_signing.jpg?itok=Zj5X-SI7" alt="Governor Brian P. Kemp signs a bill into law." title="Governor Brian P. Kemp signs a bill into law.">
+                   </div> 
+                  </div> 
+                 </div> 
+                 <div class="field field-name-body field-type-text-with-summary field-label-hidden clearfix"> 
+                  <div class="field-items"> 
+                   <div class="field-item even" property="content:encoded">
+                    <p dir="ltr">The 2019 legislative session is over. What did the General Assembly do?&nbsp;&nbsp;</p> 
+                    <h2 dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c">2019 Legislative Timeline</span></h2> 
+                    <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c">By law, the General Assembly meets for only 40 days each year. The last day of the 2019 session was April 2. </span></p> 
+                    <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c">Any bill that did not pass both the Senate and the House of Representatives will not become law, at least not this year. (However, since 2019 is year one of a two-year legislative cycle, bills may resurface for consideration in 2020.) </span></p> 
+                    <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c">Those bills that did pass now go to Governor Brian P. Kemp, who may sign them into law or veto. </span></p> 
+                    <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c">As the Governor makes these decisions, they are </span><a href="https://gov.georgia.gov/legislation/2019">announced on his website</a>.</p> 
+                    <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c">This year, Governor Kemp signed a few individual bills during the session, then got a lot of work done April 2, </span><a href="https://gov.georgia.gov/press-releases/2019-04-03/sine-die-governor-kemp-signed-21-house-bills">signing 21 bills</a> on the last legislative day.</p> 
+                    <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c">He now has until May 12 to consider all other bills passed this year. </span></p> 
+                    <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c">If he takes no action, passed bills will become law. (New laws take effect July 1, unless noted otherwise.) </span></p> 
+                    <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c">In the case of a veto, the General Assembly may reconsider the bill in 2020. If two-thirds of the House and Senate vote in favor, the governor’s veto is overturned and the bill will become law.</span></p> 
+                    <h2 dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c">Passed and Signed Bills</span></h2> 
+                    <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c">Here is the full summary of bills set to become law:</span></p> 
+                    <ul style="list-style-type:disc;">
+                     <li dir="ltr"> <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c"><a href="http://www.legis.ga.gov/legislation/en-US/Display/20192020/SB/25">Act 1</a></span>: The <a href="https://gov.georgia.gov/press-releases/2019-02-18/gov-kemp-signs-school-bus-safety-law">first bill signed by newly elected Governor Brian P. Kemp</a> amends existing law to require drivers to stop for a stopped school bus, unless “separated by a grass median, unpaved area, or physical barrier.”</p> </li> 
+                     <li dir="ltr"> <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c"><a href="http://www.legis.ga.gov/legislation/en-US/Display/20192020/HB/29">Act 2</a></span>: This act puts forth a referendum on the incorporation of the city of Skidaway Island in Chatham County.</p> </li> 
+                     <li dir="ltr"> <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c"><a href="http://www.legis.ga.gov/legislation/en-US/Display/20192020/HB/30">Act 3</a></span>: This act makes adjustments to the current fiscal year (July 1, 2018 through June 30, 2019) budget.</p> </li> 
+                     <li dir="ltr"> <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c"><a href="http://www.legis.ga.gov/Legislation/en-US/display/20192020/SB/106">Act 4</a></span>: The “Patients First Act” authorizes the Department of Community Health and the Governor to request waivers, from the federal government, regarding the implementation of the Medicaid and Medicare programs in Georgia.</p> </li> 
+                     <li dir="ltr"> <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c"><a href="http://www.legis.ga.gov/Legislation/en-US/display/20192020/HB/21">Act 5</a></span>: This act adds a judge to the Gwinnett Judicial Circuit.</p> </li> 
+                     <li dir="ltr"> <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c"><a href="http://www.legis.ga.gov/Legislation/en-US/display/20192020/HB/50">Act 6</a></span>: This act abolishes the office of elected county surveyor of Lincoln County.</p> </li> 
+                     <li dir="ltr"> <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c"><a href="http://www.legis.ga.gov/Legislation/en-US/display/20192020/HB/51">Act 7</a></span>: This act changes the number of members serving on the Quitman County Water and Sewerage Authority.</p> </li> 
+                     <li dir="ltr"> <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c"><a href="http://www.legis.ga.gov/Legislation/en-US/display/20192020/HB/52">Act 8</a></span>: This act provides that the judge of the Probate Court of Clay County shall also serve as the magistrate of the Magistrate Court of Clay County on or after January 1, 2021 (or upon vacancy of the office of the magistrate, whichever occurs first).</p> </li> 
+                     <li dir="ltr"> <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c"><a href="http://www.legis.ga.gov/Legislation/en-US/display/20192020/HB/54">Act 9</a></span>: This act authorizes the City of Fitzgerald to levy an excise tax.</p> </li> 
+                     <li dir="ltr"> <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c"><a href="http://www.legis.ga.gov/Legislation/en-US/display/20192020/HB/284">Act 10</a></span>: This act provides that future elections for the office of chief judge of the Magistrate Court of Cobb County shall be nonpartisan elections.</p> </li> 
+                     <li dir="ltr"> <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c"><a href="http://www.legis.ga.gov/Legislation/en-US/display/20192020/HB/285">Act 11</a></span>: This act provides that future elections for the office of probate judge of Cobb County shall be nonpartisan elections.</p> </li> 
+                     <li dir="ltr"> <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c"><a href="http://www.legis.ga.gov/Legislation/en-US/display/20192020/HB/304">Act 12</a></span>: This act revises the number, manner of selection, and compensation of the judges of the Magistrate Court of Putnam County.</p> </li> 
+                     <li dir="ltr"> <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c"><a href="http://www.legis.ga.gov/Legislation/en-US/display/20192020/HB/306">Act 13</a></span>: This act pertains to the Screven County Industrial Development Authority, revising the projects that the authority may undertake, providing the authority with the power to issue notes, and clarifying other powers of the authority.</p> </li> 
+                     <li dir="ltr"> <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c"><a href="http://www.legis.ga.gov/Legislation/en-US/display/20192020/HB/559">Act 14</a></span>: This act creates the Bryan County Public Facilities Authority.</p> </li> 
+                     <li dir="ltr"> <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c"><a href="http://www.legis.ga.gov/Legislation/en-US/display/20192020/HB/574">Act 15</a></span>: This act provides a new charter for the City of Dawson.</p> </li> 
+                     <li dir="ltr"> <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c"><a href="http://www.legis.ga.gov/Legislation/en-US/display/20192020/HB/590">Act 16</a></span>: This act provides a new charter for the City of Tybee Island.</p> </li> 
+                     <li dir="ltr"> <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c"><a href="http://www.legis.ga.gov/Legislation/en-US/display/20192020/HB/597">Act 17</a></span>: This act provides a new charter for the City of Sparks.</p> </li> 
+                     <li dir="ltr"> <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c"><a href="http://www.legis.ga.gov/Legislation/en-US/display/20192020/HB/601">Act 18</a></span>: This act provides a new charter for the City of Statham.</p> </li> 
+                     <li dir="ltr"> <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c"><a href="http://www.legis.ga.gov/Legislation/en-US/display/20192020/HB/602">Act 19</a></span>: This act creates the Rome Building Authority.</p> </li> 
+                     <li dir="ltr"> <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c"><a href="http://www.legis.ga.gov/Legislation/en-US/display/20192020/HB/603">Act 20</a></span>: This act adjusts the compensation of the members of the County Board of Education of Floyd County.</p> </li> 
+                     <li dir="ltr"> <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c"><a href="http://www.legis.ga.gov/Legislation/en-US/display/20192020/HB/607">Act 21</a></span>: This act provides for an accountability court supplement for judges of the State Court of Chatham County.</p> </li> 
+                     <li dir="ltr"> <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c"><a href="http://www.legis.ga.gov/Legislation/en-US/display/20192020/HB/622">Act 22</a></span>: This act changes the determination of a quorum for meetings of the board of the Sinclair Water Authority.</p> </li> 
+                     <li dir="ltr"> <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c"><a href="http://www.legis.ga.gov/Legislation/en-US/display/20192020/HB/632">Act 23</a></span>: This act revises the education districts of the Pickens County Board of Education.</p> </li> 
+                     <li dir="ltr"> <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c"><a href="http://www.legis.ga.gov/Legislation/en-US/display/20192020/HB/316">Act 24</a></span>: This act sets the standard for future voting machines in Georgia to require an auditable paper trail, extends the time before a registered voter may be considered inactive, and relaxes how the “exact match” voter registration rule is enforced.</p> </li> 
+                     <li dir="ltr"> <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c"><a href="http://www.legis.ga.gov/Legislation/en-US/display/20192020/HB/217">Act 25</a></span>: This act amends Georgia law to decriminalize needle exchange programs.</p> </li> 
+                    </ul>
+                    <h2 dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c">Let Your Voice Be Heard</span></h2> 
+                    <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c">The session may be over, but there is still another year left in the term of the 155th Georgia General Assembly. </span></p> 
+                    <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c">When they get home, let your elected officials — the </span><a href="https://georgia.gov/blog/2017-05-02/who-represents-you-part-1-state-legislators">Senator and Representative for the area you live</a> — know how you feel about the job they’re doing.</p> 
+                    <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c">If you have feedback on legislation, passed or pending, let them know. </span></p> 
+                    <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c">To find any bill, go to </span><a href="http://www.legis.ga.gov">legis.ga.gov</a> and use the search box at the top left of the page. There is also <a href="http://www.legis.ga.gov/Legislation/en-US/Search.aspx">an advanced search option</a> that allows you to find bills by keyword or sponsor.</p> 
+                    <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c">Each page includes links to all votes taken on that bill, so you can find out how your elected officials are representing you.</span></p> 
+                    <p dir="ltr"><span id="docs-internal-guid-2f82abc5-7fff-6f71-876c-e90f53b5ce3c">You can also </span><a href="https://georgia.gov/agencies/governors-office">contact the Office of the Governor</a> to share your opinions. Governor Kemp has a presence on <a href="https://twitter.com/GovKemp">Twitter</a> and <a href="https://www.facebook.com/GovKemp">Facebook</a>.</p> 
+                   </div> 
+                  </div> 
+                 </div>
+                 <div id="node-blog-entry-full-group-author-data" class="clearfix group-author-data field-group-div">
+                  <div id="node-blog-entry-full-group-author-headshot" class="group-author-headshot field-group-div">
+                   <div class="author-image">
+                    <img typeof="foaf:Image" src="https://georgia.gov/sites/georgia/files/styles/profile_thumbnail/public/profile/jon_suggs.jpg?itok=GRnqe6ds" alt="Jon Suggs" title="Jon Suggs">
+                   </div> 
+                   <div class="field field-name-field-author field-type-node-reference field-label-hidden"> 
+                    <div class="field-items"> 
+                     <div class="field-item even">
+                      <a href="/profiles/jon-suggs">Jon Suggs</a>
+                     </div> 
+                    </div> 
+                   </div> 
+                  </div>
+                  <div id="node-blog-entry-full-group-author-biotext" class="group-author-biotext field-group-div">
+                   <h3><span>About the Author</span></h3>
+                   <p>Jon Suggs is the Content Strategist for Digital Services Georgia. He writes on a variety of topics for Georgia.gov. </p> 
+                   <p>Jon is a Georgia native and former journalist who has worked in state government for more than a decade. </p> 
+                   <div class="author-profile-link">
+                    <a href="/profiles/jon-suggs" title="More about this author">More about this author</a>
+                   </div> 
+                   <div class="author-allblogs-link">
+                    <a href="/profiles/jon-suggs/blogs" title="View all blog entries by this author">View all blog entries by this author</a>
+                   </div> 
+                  </div>
+                 </div>
+                 <ul class="flippy"> 
+                  <li class="prev"> <a href="/blog/2019-03-06/2019-mid-session-legislative-update" title="‹ Previous Post">‹ Previous Post</a> </li> 
+                  <li class="next"> <a href="/blog/2019-05-23/get-ready-gema" title="Next Post ›">Next Post ›</a> </li> 
+                 </ul> 
+                 <span property="dc:title" content="2019 Legislative Summary" class="rdf-meta element-hidden"></span> 
+                </div> 
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+           </div>
+           <div class="block block-addthis block-addthis-block block-addthis-addthis-block even block-without-title" id="block-addthis-addthis-block"> 
+            <div class="block-inner shadows clearfix"> 
+             <div class="block-inner-inner clearfix"> 
+              <div class="content clearfix"> 
+               <div class="addthis_responsive_sharing "></div> 
+              </div> 
+             </div> 
+            </div> 
+           </div>
+           <section class="block block-views block-similar-blogs-block block-views-similar-blogs-block odd" id="block-views-similar-blogs-block"> 
+            <div class="block-inner shadows clearfix"> 
+             <div class="block-inner-inner clearfix"> 
+              <h2 class="block-title">You might like...<span class="icon"></span></h2> 
+              <div class="content clearfix"> 
+               <div class="view view-similar-blogs view-id-similar_blogs view-display-id-block view-dom-id-55b7f8a2d06a5416a119a82e21f5856f"> 
+                <div class="view-content"> 
+                 <div class="views-row views-row-1 views-row-odd views-row-first"> 
+                  <div class="views-field views-field-field-structured-images"> 
+                   <div class="field-content"></div> 
+                  </div> 
+                  <div class="views-field views-field-title"> 
+                   <h3 class="field-content"><a href="/blog/2019-03-06/2019-mid-session-legislative-update">2019 Mid-Session Legislative Update</a></h3> 
+                  </div> 
+                  <div class="views-field views-field-field-release-date"> 
+                   <div class="field-content">
+                    <span class="date-display-single">March 6, 2019</span>
+                   </div> 
+                  </div> 
+                  <div class="views-field views-field-body"> 
+                   <div class="field-content">
+                    <p>The 2019 legislative year is in full swing, and members of the 155<sup>th</sup> Georgia General Assembly are at work.</p> 
+                   </div> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-2 views-row-even"> 
+                  <div class="views-field views-field-field-structured-images"> 
+                   <div class="field-content"></div> 
+                  </div> 
+                  <div class="views-field views-field-title"> 
+                   <h3 class="field-content"><a href="/blog/2018-07-11/know-what-you-can-and-can%E2%80%99t-burn-summer-infographic">Know What You Can and Can’t Burn This Summer [Infographic]</a></h3> 
+                  </div> 
+                  <div class="views-field views-field-field-release-date"> 
+                   <div class="field-content">
+                    <span class="date-display-single">July 11, 2018</span>
+                   </div> 
+                  </div> 
+                  <div class="views-field views-field-body"> 
+                   <div class="field-content"></div> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-3 views-row-odd views-row-last"> 
+                  <div class="views-field views-field-field-structured-images"> 
+                   <div class="field-content"></div> 
+                  </div> 
+                  <div class="views-field views-field-title"> 
+                   <h3 class="field-content"><a href="/blog/2018-06-28/fireworks-know-law-use-caution-and-be-courteous">Fireworks? Know the Law, Use Caution, and Be Courteous!</a></h3> 
+                  </div> 
+                  <div class="views-field views-field-field-release-date"> 
+                   <div class="field-content">
+                    <span class="date-display-single">June 28, 2018</span>
+                   </div> 
+                  </div> 
+                  <div class="views-field views-field-body"> 
+                   <div class="field-content">
+                    <p>Georgians have enjoyed fireworks legally for three years now, but do you know the latest tweaks to the law? Find out what’s legal and how to be safe!</p> 
+                   </div> 
+                  </div> 
+                 </div> 
+                </div> 
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+           </section> 
+          </div> 
+         </div> 
+         <aside class="grid-6 region region-sidebar-first" id="region-sidebar-first"> 
+          <div class="region-inner region-sidebar-first-inner"> 
+           <section class="block block-views block-blog-topic-nav-block block-views-blog-topic-nav-block odd" id="block-views-blog-topic-nav-block"> 
+            <div class="block-inner shadows clearfix"> 
+             <div class="block-inner-inner clearfix"> 
+              <h2 class="block-title">Select A Topic<span class="icon"></span></h2> 
+              <div class="content clearfix"> 
+               <div class="view view-blog-topic-nav view-id-blog_topic_nav view-display-id-block view-dom-id-09c4aab74f05f531075955fbc94a5c53"> 
+                <div class="view-content"> 
+                 <div class="views-row views-row-0">
+                  <div class="views-field views-field-nothing">
+                   <span class="field-content"><a href="/blogs?topic=All">- Any -</a></span>
+                  </div>
+                 </div> 
+                 <div class="views-row views-row-1 views-row-odd views-row-first"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=861">Abuse &amp; Violence</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-2 views-row-even"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=781">Adoption</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-3 views-row-odd"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=1221">Agencies</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-4 views-row-even"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=1311">Aging</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-5 views-row-odd"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=646">Agriculture</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-6 views-row-even"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=1236">Animals</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-7 views-row-odd"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=906">Assistance for Needy Families</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-8 views-row-even"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=856">Bicycling</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-9 views-row-odd"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=1121">Boating</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-10 views-row-even"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=871">Business</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-11 views-row-odd"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=1081">Child Safety</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-12 views-row-even"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=501">Children</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-13 views-row-odd"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=656">Clean Air Campaign</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-14 views-row-even"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=1126">Construction</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-15 views-row-odd"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=901">Consumer Protection</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-16 views-row-even"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=936">Courts</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-17 views-row-odd"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=1071">Crime</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-18 views-row-even"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=836">Disability</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-19 views-row-odd"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=771">Driving</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-20 views-row-even"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=551">Education</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-21 views-row-odd"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=1201">Elected Officials</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-22 views-row-even"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=801">Elections</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-23 views-row-odd"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=916">Emergency Preparedness</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-24 views-row-even"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=1006">Energy Assistance</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-25 views-row-odd"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=851">Environment</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-26 views-row-even"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=831">Environmental Protection</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-27 views-row-odd"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=1111">Food Safety</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-28 views-row-even"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=986">Government</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-29 views-row-odd"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=1226">Government Transparency</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-30 views-row-even"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=246">Governor</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-31 views-row-odd"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=536">Health</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-32 views-row-even"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=1131">Hospitals</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-33 views-row-odd"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=596">Hunting</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-34 views-row-even"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=841">Jobs</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-35 views-row-odd"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=1001">Laws</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-36 views-row-even"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=1316">Legislative Action</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-37 views-row-odd"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=1181">Medical Marijuana</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-38 views-row-even"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=531">Natural Disasters</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-39 views-row-odd"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=776">Public Safety</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-40 views-row-even"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=1231">Quitclaim Deeds</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-41 views-row-odd"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=196">Recycling</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-42 views-row-even"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=846">Sales Taxes</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-43 views-row-odd"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=571">Small Businesses</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-44 views-row-even"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=1046">Social Media</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-45 views-row-odd"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=926">Social Services</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-46 views-row-even"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=1021">State History</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-47 views-row-odd"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=556">State Holidays</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-48 views-row-even"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=756">State Parks</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-49 views-row-odd"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=236">Taxes</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-50 views-row-even"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=1026">Tourism</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-51 views-row-odd"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=481">Transportation</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-52 views-row-even"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=1216">Travel</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-53 views-row-odd"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=811">Unemployment Insurance</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-54 views-row-even"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=1206">Vehicle Information</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-55 views-row-odd"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=786">Veterans</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-56 views-row-even"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=511">Vital Records</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-57 views-row-odd"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=1156">Volunteering</a></span> 
+                  </div> 
+                 </div> 
+                 <div class="views-row views-row-58 views-row-even views-row-last"> 
+                  <div class="views-field views-field-nothing"> 
+                   <span class="field-content"><a href="/blogs?topic=806">Voting</a></span> 
+                  </div> 
+                 </div> 
+                </div> 
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+           </section>
+           <section class="block block-views block-most-viewed-block-1 block-views-most-viewed-block-1 even" id="block-views-most-viewed-block-1"> 
+            <div class="block-inner shadows clearfix"> 
+             <div class="block-inner-inner clearfix"> 
+              <h2 class="block-title">Most Viewed Posts<span class="icon"></span></h2> 
+              <div class="content clearfix"> 
+               <div class="view view-most-viewed view-id-most_viewed view-display-id-block_1 view-dom-id-f0138818ba558ae3fdcc9d80261d6e29"> 
+                <div class="view-content"> 
+                 <div class="item-list"> 
+                  <ul> 
+                   <li class="views-row views-row-1 views-row-odd views-row-first"> 
+                    <div class="views-field views-field-title"> 
+                     <span class="field-content"><a href="/blog/2016-10-25/how-get-restraining-order-georgia">How To Get A Restraining Order In Georgia</a></span> 
+                    </div></li> 
+                   <li class="views-row views-row-2 views-row-even"> 
+                    <div class="views-field views-field-title"> 
+                     <span class="field-content"><a href="/blog/2014-06-12/what-llc">What Is An LLC?</a></span> 
+                    </div></li> 
+                   <li class="views-row views-row-3 views-row-odd"> 
+                    <div class="views-field views-field-title"> 
+                     <span class="field-content"><a href="/blog/2017-02-22/everything-you-need-know-about-using-peach-pass">Everything You Need to Know About Using a Peach Pass</a></span> 
+                    </div></li> 
+                   <li class="views-row views-row-4 views-row-even"> 
+                    <div class="views-field views-field-title"> 
+                     <span class="field-content"><a href="/blog/2013-10-03/getting-passport">Getting a Passport</a></span> 
+                    </div></li> 
+                   <li class="views-row views-row-5 views-row-odd views-row-last"> 
+                    <div class="views-field views-field-title"> 
+                     <span class="field-content"><a href="/blog/2016-01-19/what-you-need-know-about-georgia%E2%80%99s-ad-valorem-tax">What You Need to Know about Georgia’s Ad Valorem Tax</a></span> 
+                    </div></li> 
+                  </ul>
+                 </div> 
+                </div> 
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+           </section> 
+          </div> 
+         </aside> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </section> 
+    <footer id="section-footer" class="section section-footer"> 
+     <div id="zone-footer-wrapper" class="zone-wrapper zone-footer-wrapper clearfix"> 
+      <div id="zone-footer" class="zone zone-footer clearfix container-12"> 
+       <div class="grid-12 region region-footer-first" id="region-footer-first"> 
+        <div class="region-inner region-footer-first-inner"> 
+         <div class="block block-menu block-menu-footer-utility block-menu-menu-footer-utility odd" id="block-menu-menu-footer-utility"> 
+          <div class="block-inner shadows clearfix"> 
+           <div class="block-inner-inner clearfix"> 
+            <div class="content clearfix"> 
+             <ul class="menu">
+              <li class="first leaf nolink"><span tabindex="0" role="link">© GeorgiaGov</span></li> 
+              <li class="leaf"><a href="/sitemap" title="">Site Map</a></li> 
+              <li class="leaf"><a href="http://georgia.gov/accessibility" title="">Accessibility</a></li> 
+              <li class="leaf"><a href="http://georgia.gov/privacysecurity" title="">Privacy/Security</a></li> 
+              <li class="last leaf google-translator-switch"><a href="#" title="" class="google-translator-switch">Translate</a></li> 
+             </ul> 
+            </div> 
+           </div> 
+          </div> 
+         </div>
+         <div class="block block-follow block-site block-follow-site even block-without-title" id="block-follow-site"> 
+          <div class="block-inner shadows clearfix"> 
+           <div class="block-inner-inner clearfix"> 
+            <div class="content clearfix"> 
+             <div class="follow-links clearfix site">
+              <div class="follow-link-wrapper follow-link-wrapper-facebook">
+               <a href="http://www.facebook.com/pages/georgiagov/29760668054" class="follow-link follow-link-facebook follow-link-site" title="Follow Georgia.gov on Facebook">Facebook</a> 
+              </div>
+              <div class="follow-link-wrapper follow-link-wrapper-twitter">
+               <a href="http://twitter.com/georgiagov" class="follow-link follow-link-twitter follow-link-site" title="Follow Georgia.gov on Twitter">Twitter</a> 
+              </div>
+              <div class="follow-link-wrapper follow-link-wrapper-linkedin">
+               <a href="https://www.linkedin.com/company/state-of-georgia" class="follow-link follow-link-linkedin follow-link-site" title="Follow Georgia.gov on LinkedIn">LinkedIn</a> 
+              </div>
+              <div class="follow-link-wrapper follow-link-wrapper-youtube">
+               <a href="https://www.youtube.com/channel/UCrmR2MaUhGYesoTCbTBFUKg" class="follow-link follow-link-youtube follow-link-site" title="Follow Georgia.gov on YouTube">YouTube</a> 
+              </div>
+              <div class="follow-link-wrapper follow-link-wrapper-pinterest">
+               <a href="https://www.pinterest.com/georgiagov" class="follow-link follow-link-pinterest follow-link-site" title="Follow Georgia.gov on Pinterest">Pinterest</a> 
+              </div>
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div>
+       <div class="grid-12 region region-footer-second" id="region-footer-second"> 
+        <div class="region-inner region-footer-second-inner"> 
+         <div class="block block-menu-block block-gta-navigation-main block-menu-block-gta-navigation-main--2 odd block-without-title" id="block-menu-block-gta-navigation-main--2"> 
+          <div class="block-inner shadows clearfix"> 
+           <div class="block-inner-inner clearfix"> 
+            <div class="content clearfix"> 
+             <div class="menu-block-wrapper menu-block-gta_navigation-main menu-name-main-menu parent-mlid-0 menu-level-1"> 
+              <ul class="menu">
+               <li class="first expanded menu-mlid-7416"><a href="/about-georgia">About Georgia</a>
+                <ul class="menu">
+                 <li class="first leaf menu-mlid-20251"><a href="/georgia-history">Georgia History</a></li> 
+                 <li class="leaf menu-mlid-20241"><a href="/georgia-facts">Georgia Facts</a></li> 
+                 <li class="leaf menu-mlid-20246"><a href="/georgia-symbols">Georgia Symbols</a></li> 
+                 <li class="leaf menu-mlid-7426"><a href="/georgia-government">Georgia Government</a></li> 
+                 <li class="leaf menu-mlid-7431"><a href="/resources">Resources</a></li> 
+                 <li class="leaf menu-mlid-8076"><a href="/municipality-list" title="">Cities and Counties</a></li> 
+                 <li class="last leaf menu-mlid-8081"><a href="http://georgia.gov/blogs?topic=1021&amp;topic=1021" title="">Georgia History Blog Posts</a></li> 
+                </ul></li> 
+               <li class="leaf menu-mlid-780"><a href="/agency-list" title="">Agencies</a></li> 
+               <li class="leaf active-trail menu-mlid-3436"><a href="/blogs" title="" class="active-trail">Blog</a></li> 
+               <li class="leaf menu-mlid-3431"><a href="/municipality-list" title="">Cities &amp; Counties</a></li> 
+               <li class="leaf menu-mlid-782"><a href="/elected-officials">Elected Officials</a></li> 
+               <li class="last leaf menu-mlid-783"><a href="/popular-topics" title="">Popular Topics</a></li> 
+              </ul>
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div>
+         <section class="block block-menu-block block-gagov-footer block-menu-block-gagov-footer even" id="block-menu-block-gagov-footer"> 
+          <div class="block-inner shadows clearfix"> 
+           <div class="block-inner-inner clearfix"> 
+            <h2 class="block-title">Footer<span class="icon"></span></h2> 
+            <div class="content clearfix"> 
+             <div class="menu-block-wrapper menu-block-gagov-footer menu-name-menu-footer parent-mlid-0 menu-level-1"> 
+              <ul class="menu">
+               <li class="first expanded menu-mlid-5266 column"><span>At Your Service</span>
+                <ul class="menu">
+                 <li class="first leaf menu-mlid-831"><a href="https://www.georgia.gov" title="">GeorgiaGov</a></li> 
+                 <li class="leaf menu-mlid-836"><a href="https://georgia.gov/agency-list" title="">Agencies</a></li> 
+                 <li class="leaf menu-mlid-841"><a href="https://georgia.gov/municipality-list" title="">Cities &amp; Counties</a></li> 
+                 <li class="last leaf menu-mlid-846"><a href="https://georgia.gov/popular-topics" title="">Popular Topics</a></li> 
+                </ul></li> 
+               <li class="expanded menu-mlid-806 column"><span>Elected Officials</span>
+                <ul class="menu">
+                 <li class="first leaf menu-mlid-811"><a href="https://gov.georgia.gov/" title="">Governor</a></li> 
+                 <li class="last leaf menu-mlid-826"><a href="https://georgia.gov/elected-officials" title="List of all elected officials in the State of Georgia. ">More Officials</a></li> 
+                </ul></li> 
+               <li class="last expanded menu-mlid-881 column"><span>Need Help?</span>
+                <ul class="menu">
+                 <li class="first leaf menu-mlid-886"><a href="tel:1-800-436-7442" title="">1-800-436-7442</a></li> 
+                 <li class="leaf menu-mlid-891"><a href="https://georgia.gov/georgias-call-center-1800georgia" title="">Contact us</a></li> 
+                 <li class="last leaf menu-mlid-20721"><a href="https://gbi.georgia.gov/human-trafficking-notice" title="">Human Trafficking Notice</a></li> 
+                </ul></li> 
+              </ul>
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </section>
+         <div class="block block-nodeblock block-5961 block-nodeblock-5961 odd block-without-title" id="block-nodeblock-5961"> 
+          <div class="block-inner shadows clearfix"> 
+           <div class="block-inner-inner clearfix"> 
+            <div class="content clearfix"> 
+             <div id="node-5961" class="node node-editors-choice node-published node-not-promoted node-not-sticky even clearfix clearfix" about="/editors-choice/siteimprove-analytics" typeof="sioc:Item foaf:Document"> 
+              <span property="dc:title" content="Siteimprove Analytics" class="rdf-meta element-hidden"></span> 
+              <div class="content"> 
+               <span class="print-link"></span>
+               <div class="field field-name-body field-type-text-with-summary field-label-hidden"> 
+                <div class="field-items"> 
+                 <div class="field-item even" property="content:encoded">
+                  <script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = '//siteimproveanalytics.com/js/siteanalyze_637444.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script>
+                 </div> 
+                </div> 
+               </div> 
+               <span property="dc:title" content="Siteimprove Analytics" class="rdf-meta element-hidden"></span> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div>
+    </footer> 
+   </div> 
+  </div> 
+  <div class="region region-page-bottom" id="region-page-bottom"> 
+   <div class="region-inner region-page-bottom-inner"> 
+   </div> 
+  </div>
+  <script type="text/javascript" src="https://georgia.gov/sites/georgia/files/js/js_l53QgNfSIFIXcblh11XwuubABa_Lc890AmT5wbM2KL8.js"></script> 
+  <script type="text/javascript" src="https://georgia.gov/sites/georgia/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>  
+ </body>
+</html>

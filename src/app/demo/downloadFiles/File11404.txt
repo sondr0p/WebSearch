@@ -1,0 +1,354 @@
+<!doctype html>
+<html lang="en">
+ <head> 
+  <!-- emiProtocol == (none) --> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <style type="text/css">
+#cmaControlsContainer {
+  position: fixed;
+  left: 100%;
+  background-color: #fff;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  z-index: 9999999999;
+  display: block;
+  -webkit-transition-duration: 1s;
+  -o-transition-duration: 1s;
+  transition-duration: 1s;
+  -webkit-box-shadow: 2px 2px 15px 0px rgba(0, 0, 0, 0.4);
+  box-shadow: 2px 2px 15px 0px rgba(0, 0, 0, 0.4); }
+  #cmaControlsContainer #toolsToggle {
+    position: absolute;
+    right: 100%;
+    top: 0;
+    display: inline-block;
+    border-top-left-radius: 15px;
+    padding: 10px 25px 10px 10px;
+    background-color: #288079;
+    color: white;
+    font-size: 1.2em;
+    border-bottom-left-radius: 15px;
+    -webkit-box-shadow: 2px 2px 15px 0px rgba(0, 0, 0, 0.4);
+    box-shadow: 2px 2px 15px 0px rgba(0, 0, 0, 0.4); }
+    #cmaControlsContainer #toolsToggle:hover, #cmaControlsContainer #toolsToggle:focus {
+      background-color: white;
+      color: #288079; }
+  #cmaControlsContainer #cmaControls {
+    display: none;
+    padding: 10px 20px; }
+    #cmaControlsContainer #cmaControls a {
+      margin-bottom: 5px;
+      border-bottom: 1px solid black; }
+    #cmaControlsContainer #cmaControls a, #cmaControlsContainer #cmaControls select {
+      display: block; }
+  #cmaControlsContainer.open {
+    left: inherit;
+    right: 0; }
+    #cmaControlsContainer.open #cmaControls {
+      display: inline-block; }
+</style> 
+  <!-- State Of Michigan - Thu Apr 25 18:35:11 2019 --> 
+  <!-- e-Michigan Portal - Process #5, Server www --> 
+  <link rel="canonical" href="https://www.michigan.gov/statelicensesearch/"> 
+  <title>State License Search - State License Search</title> 
+  <meta name="DESCRIPTION" content="This site list information pertaining to State Licenses within the State of Michigan - This site list information pertaining to State Licenses within the State of Michigan."> 
+  <meta name="KEYWORDS" content="State License Search"> 
+  <base target="_top"> 
+  <!-- global styles -->
+  <link rel="stylesheet" type="text/css" href="/css/fullcalendar.css"> 
+  <!-- global scripts RD-->
+  <!-- AN styles added Jan 2016 for bootstrap migration--> 
+  <link rel="stylesheet" href="/font-som-icons/css/somicons.min.css"> 
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"> 
+  <link rel="stylesheet" type="text/css" href="/bootstrap/css/bootstrap.min.css"> 
+  <!-- global styles RD--> 
+  <link rel="stylesheet" type="text/css" href="/css/fullcalendar.css"> 
+  <link href="/css/jquery.bxslider.css" type="text/css" rel="stylesheet"> 
+  <link href="/css/rdLayout.css" type="text/css" rel="stylesheet"> 
+  <link href="/css/responsive-component-defaults.css" type="text/css" rel="stylesheet"> 
+  <!--javascripts --> 
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script> 
+  <script src="/bootstrap/js/bootstrap.min.js"></script> 
+  <script src="/js/fullcalendar.js" type="text/javascript"></script> 
+  <script src="/js/jquery.meanmenu.js"></script> 
+  <script src="/js/jquery.bxslider.js"></script> 
+  <script src="/js/jquery.rwdImageMaps.js"></script> 
+  <script src="/js/jquery.validate.js"></script> 
+  <script src="/js/additional-methods.js"></script> 
+  <script src="/js/responsiveComponents.js"></script> 
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.0/jquery.matchHeight-min.js"></script> 
+  <!--[if (lt IE 9)]>
+<script>
+document.createElement('header');
+document.createElement('nav');
+document.createElement('section');
+document.createElement('article');
+document.createElement('aside');
+document.createElement('footer');
+document.createElement('time');
+</script>
+<script src="/js/respond.js"></script>
+<link href="/css/migov_ie8.css" rel="stylesheet" media="all" />
+<![endif]--> 
+  <script src="/js/main_navigation_script.js" type="text/javascript"></script> 
+  <link rel="stylesheet" type="text/css" href="/css/main_navigation.css"> 
+  <!-- RD MODE globalRD.CSS -->
+  <style>  BODY {background-color : #dddddd}#subTop {display:none}a.themeLink, a.themeLink:visited {color: #4e5b6d;border: #4e5b6d 1px solid;background-color:  #eeeeee}a.themeLink:hover {color: #eeeeee;background-color: #4e5b6d;border: #4e5b6d 1px solid}/*------------LEFT NAV MAIN MENU----------------*/#mainnav UL#TOP_NAV_LINKS {BACKGROUND-COLOR: #4e5b6d}#mainnav LI A, #nav LI A {BACKGROUND-COLOR: #4e5b6d;color:#eeeeee}#mainnav LI A:hover, #nav LI A:hover {BACKGROUND-COLOR: #eeeeee;color: #4e5b6d}#mainnav LI A.current, #mainnav LI A.current:hover, #nav LI A.current, #nav LI A.current:hover,#mainnav LI A.current0, #mainnav LI A.current0:hover, #nav LI A.current0, #nav LI A.current0:hover{BACKGROUND-COLOR: #eeeeee;color: #4e5b6d}/*----------RESPONSIVE TABBED/ACCORDION AGENCY COLORS------------------*/.responsive-tabs__list__item {background: #5a759c;color: #ffffff}.responsive-tabs__list__item:hover {background: #4e5b6d;color: #eeeeee}.responsive-tabs__list__item--active, .responsive-tabs__list__item--active:hover {background: #4e5b6d;color: #eeeeee}.responsive-tabs__heading {background: #4e5b6d}.responsive-tabs__heading h2, .responsive-tabs__heading a, .responsive-tabs__heading a:visited {color: #eeeeee}.responsive-tabs__heading a:hover {color: #5a759c}.responsive-tabs__heading:hover, .responsive-tabs__heading:hover a {background: #5a759c;color: #ffffff}.responsive-tabs__heading--active {background: #ffffff;color: #5a759c}.responsive-tabs__heading--active a, .responsive-tabs__heading--active a:visited {background: #ffffff;color: #5a759c}/*----------RESPONSIVE ACCORDION AGENCY COLORS------------------*/.responsive-accordion__heading a:hover, .responsive-accordion__heading a:visited:hover,.responsive-accordion__heading  a.not-active:hover {BACKGROUND-COLOR: #5a759c;color:#ffffff}.responsive-accordion__heading a {BACKGROUND-COLOR: #4e5b6d;color:#eeeeee; border: 0px solid #4e5b6d}.responsive-accordion a.not-active{pointer-events: all;}/*-----------SOCIAL NAV BAR COLORS--------------*/#social_nav_horizontalRD .utilityItems div a {background-color: #5a759c}/*---------CATEGORIZED LIST }-----------*/.cTitle,.catCallDisplayText1, .catCallDisplayText1 a {background-COLOR: #eeeeee;COLOR: #4e5b6d</style>
+  <!-- Agency Header -->
+  <!-- Agency Header do not include the globalcss file -->
+  <script src="/js/jquery.bxslider.js"></script> 
+  <link rel="stylesheet" href="/css/jquery.bxslider.css" type="text/css"> 
+  <link href="/css/responsive-component-defaults.css" type="text/css" rel="stylesheet"> 
+  <script src="/js/responsiveComponents.js"></script> 
+  <script type="text/javascript"> 
+jQuery(document).ready(function () {
+jQuery('nav.main-navigation').meanmenu({
+meanScreenWidth:"960",
+rightNav_width:"15.625%",
+rightNavSite:"",
+mainNav:"15.625%",
+mainNavSite:false,
+main_width:"65%",
+mainSite:false,
+topNavSearch_position:"-130px"
+
+});
+});</script> 
+  <style>
+#rightNav{display:none}
+</style>
+  <!--/ Agency Header-->
+  <!--/ Agency Header-->
+  <link href="/css/rdHbContactInfo.css?1493914492" type="text/css" rel="stylesheet"> 
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js"></script> 
+  <script src="/js/gtm.js?v=1501512057"></script> 
+ </head> 
+ <body class="agy-statelicensesearch home-page"> 
+  <div role="navigation" aria-label="skip nav"> 
+   <noscript> 
+    <div class="alert bg bg-accent-1 text-center"> 
+     <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> Browsers that can not handle javascript will not be able to access some features of this site. 
+     <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> 
+    </div> 
+    <style type="text/css">
+body.matching-heights-processing:before,body.matching-heights-processing:after {
+content:'';
+height:0px;
+width:0px;
+}
+</style> 
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WTW7M9" height="0" width="0" style="display:none;visibility:hidden"></iframe> 
+   </noscript> 
+   <div id="noAdBlock" style="display:none;" class="alert bg bg-accent-1 text-center"> 
+    <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> Some functions of this site are disabled for browsers blocking jQuery. 
+    <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> 
+   </div> 
+   <div id="_TopOfPage"></div> 
+   <script>
+			function doAnalyticsGo(sndx) {
+				var dest = sndx.options[sndx.selectedIndex].value;
+				if (dest == 0) {
+					alert('Please make a selection.');
+					return false;
+				} else {
+					document.location.href=dest;
+					return false;
+				}
+			}
+		</script>
+   <a href="#main" class="sr-only sr-only-focusable">Skip to main content</a> 
+  </div> 
+  <div id="container" class="container-fluid"> 
+   <!-- agencyHeaderNavPath agencyCreateHeaderNavRD --> 
+   <div id="bannerArea" role="banner">
+    <!-- HEADER 1.1 Live -->
+    <div id="superTop" role="navigation" aria-label="main navigation">
+     <ul id="bannerLinks">
+      <li class="migovlink"><a href="http://www.michigan.gov/" title="MI Gov Home">MI.gov</a></li>
+     </ul>
+    </div>
+    <div id="screenwidth"></div>
+    <div id="siteBanner"> 
+     <a class="AGENCY_HEADER_L" accesskey="1" href="/statelicensesearch/"><img class="AGENCY_HEADER_L" src="/images/statelicensesearch/onestopAppLayout1_458004_7.gif" alt="State License Search - This site list information pertaining to State Licenses within the State of Michigan "></a> 
+     <img class="AGENCY_HEADER_R" src="/images/biz/imgBanLft_245688_7.gif" alt="This site list information pertaining to State Licenses within the State of Michigan ">
+    </div> 
+    <div class="siteBannerTxt">
+     This site list information pertaining to State Licenses within the State of Michigan 
+    </div> 
+    <!-- TOPNAV -->
+    <div id="topNavSearch"> 
+     <!-- SEARCH -->
+     <form id="searchform" onsubmit="location.href='https://search.michigan.gov/AppBuilder/search?ctx=STATELICENSESEARCH&amp;q=' + document.getElementById('query').value;return false;"> 
+      <input accesskey="s" type="TEXT" autocomplete="off" id="query" name="q" placeholder="Search" title="Search"> 
+      <input id="go" type="submit" value="search" name="button" onClick="location.href='https://search.michigan.gov/AppBuilder/search?ctx=STATELICENSESEARCH&amp;q=' + document.getElementById('query').value;return false;"> 
+     </form>
+     <!-- /SEARCH -->
+    </div>
+    <!-- utility bar /includes/utilityBarRD.html --> 
+    <script> 
+function emishare_click(social_utility) {
+                       var statusType = "";
+                       var createURL = "";
+                       var tempurl = "";
+                       url = location.href;
+                       //url = "http://mi.gov";
+                           createURL = encodeURIComponent(url);
+                           statusType = "Reading:"
+                           //alert(social_utility);
+                  
+                       t = document.title;
+                       if (social_utility == "twitter") {
+                           window.open('http://twitter.com/home?status= ' + statusType + "%20" + encodeURIComponent(url));
+                       }
+                       if (social_utility == "facebook") {
+                           window.open('http://www.facebook.com/sharer.php?u=' + createURL, 'sharer', 'toolbar=0,status=0,width=626,height=436');
+                       }
+                   
+                      return false;
+                  }
+</script> 
+    <div id="social_nav_horizontalRD">
+     <div class="utilityItems"> 
+      <div></div>
+      <div>
+       <a id="fb" href="#" onclick="return emishare_click('facebook')" title="Share this Link on Facebook"><img src="/images/fb.png" alt="Share this Link on Facebook"></a>
+      </div>
+      <div>
+       <a id="tw" href="http://www.twitter.com/" onclick="return emishare_click('twitter')" target="_blank" title="Tweet this page on Twitter"><img src="/images/tw.png" alt="Tweet this page on Twitter!"></a>
+      </div> 
+     </div>
+    </div>
+   </div>
+   <!-- LEFTNAV agencyCreateLeftNavRD --> 
+   <!-- bodyWrapper --> 
+   <div id="bodyWrapper"> 
+    <div id="menu" role="navigation" aria-label="Site" class=""> 
+     <div id="flyout">
+      <nav class="main-navigation">
+       <ul id="nav" class=""> 
+        <!-- State Of Michigan - Wed Oct 17 17:50:03 2018 --> 
+        <!-- e-Michigan Portal - Process #6 --> 
+        <!-- Begin Global Nav section -->
+        <!-- End Global Nav section --> 
+        <!-- Begin Responsive Navigation --> 
+        <li id="24786" class="id-24786 "> <a class="lvl1" title="Alphabetical Listing" href="/statelicensesearch/0,4671,7-180-24786---,00.html">Alphabetical Listing</a> </li> 
+       </ul> 
+      </nav> 
+     </div> 
+     <!-- End Flyout Navigation -->
+     <!-- Left Links -->
+     <!-- End Left Links --> 
+    </div> 
+    <!-- contentWrapper --> 
+    <div id="contentWrapper" class=""> 
+     <!-- main -->
+     <div id="main" class="DW page" role="main"> 
+      <h1 class="sr-only">LICENSESEARCH</h1> 
+      <!-- Body Begin --> 
+      <!-- State Of Michigan - Tue Dec 18 12:27:24 2018 --> 
+      <!--BEGIN MAIN CONTENT AREA-->
+      <div class="DW col1 col-md-8" style="">
+       <!-- ID COMPONENT_82758 --> 
+       <!-- BEGIN CDA Generic Content Display -->
+       <div id="comp_82758" class="comp standard  "> 
+        <!-- displayContent RD 001 -->
+        <!--PAGEWATCH-->
+        <!-- open table RD --> 
+        <ul class="contentList   ">
+         <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/statelicensesearch/0,4671,7-180--188755--,00.html" target="_blank" title=" To find out if your new venture could require a state license, use this search feature to search our licenses list to see if you need a license or permit. 
+
+ Search for Michigan Licenses and Permits 
+
+ 
+ 
+  Enter Search Term(s):     &nbsp;   
+ 
+ 
+
+ OR... You can try this  Alphabetical Search  
+">Not every business in Michigan is required to be licensed by the State of Michigan. </a><span class="shortdesc"><p>To find out if your new venture could require a state license, use this search feature to search our licenses list to see if you need a license or permit.</p> <h2>Search for Michigan Licenses and Permits</h2> 
+             <form action="https://search.michigan.gov/AppBuilder/search" class="form-inline" method="GET" name="gs" onsubmit="return (this.q.value == '') ? false : true;"> 
+              <div id="searchBoxContainer"> 
+               <div class="searchInputBlock">
+                <label for="search1">Enter Search Term(s):</label>
+                <input aria-haspopup="true" autocomplete="on" class="q form-control" id="search1" maxlength="256" name="q" size="32" type="text" value=""> 
+                <input name="ctx" type="hidden" value="STATELICENSESEARCH"> &nbsp; 
+                <input class="btnG btn btn-primary" name="btnG" type="submit" value="Search">
+               </div> 
+              </div> 
+             </form> <p>OR... You can try this <a href="/statelicensesearch/0,4671,7-180-24786---,00.html">Alphabetical Search</a></p> </span></span></span></li> 
+        </ul>
+        <!--/PAGEWATCH-->
+        <!-- /displayContent RD 001 -->
+       </div> 
+       <!-- END CDA Generic Content Display -->
+       <!-- /ID COMPONENT_82758 -->
+      </div>
+      <div class="DW col1 col-md-8" style="">
+       <!-- ID COMPONENT_79219 -->
+       <!-- Accordion Component RD --> 
+       <script>
+jQuery(document).ready(function () {
+RESPONSIVEACCORD.responsiveAccordion();
+$('#accordlist1-panel1').removeClass("responsive-accordion__panel--closed-accordion-only");
+$("#accordlist1-panel1").css("display","none");
+
+});
+</script>
+       <div class="responsive-accordion" id="accordRD79219" role="navigation" aria-label="accordion-list"> 
+        <!-- END CDA Categorized List Proc -->
+        <!-- END Accordion RD Proc -->
+       </div>
+       <!-- /ID COMPONENT_79219 -->
+      </div>
+      <!--END MAIN CONTENT AREA-->
+      <!-- Body End --> 
+     </div> 
+     <!-- START RIGHT_NAV 24785__24785__24785 ~ 7-180-24785__24785__24785--- ~ 7-180-24785__24785__24785--- --> 
+     <div id="rightNav" role="complementary" aria-label="right sidebar" class="no-pad"> 
+      <!-- State Of Michigan - Thu Feb 21 15:59:53 2019 --> 
+      <!-- BEGIN RIGHTNAV HTML CODE  --> 
+      <!-- Agency category -->
+      <!-- Begin Global Nav section RD -->
+      <!-- End Global Nav section RD -->
+      <!-- End My Interests/RightNav Links/Related Content/Right Links --> 
+      <!-- Cache Debug Info
+
+--> 
+      <!-- END RIGHT_NAV --> 
+     </div> 
+    </div>
+    <!-- /contentWrapper --> 
+   </div>
+   <!-- /bodyWrapper --> 
+   <!-- BOTTOMNAV --> 
+   <!-- BEGIN FOOTER RD --> 
+   <div id="footerArea" role="contentinfo" style="clear: both"> 
+    <div id="siteFooter">
+     <!--START THE GLOBAL FOOTER LINKS-->
+     <!-- agyHorizontalLinks BOTTOM_NAV_LINKS -->
+     <ul id="BOTTOM_NAV_LINKS" class="footerLinks">
+      <li class="fLinks"><a href="/">Michigan.gov Home</a></li>
+      <li class="fLinksend"><a id="cat_24888" href="/statelicensesearch/0,4671,7-180-24888---SM,00.html" class="bottomnavlinks"> Site Map</a></li>
+     </ul>
+     <br>
+     <!-- agyHorizontalLinks POLICY_NAV_LINKS -->
+     <ul id="POLICY_NAV_LINKS" class="footerLinks">
+      <li class="fLinks"><a href="/statelicensesearch/0,4671,7-180--281460--,00.html">Policies</a></li>
+      <li class="fLinks"><a href="/minewswire" target="_blank">Michigan News</a></li>
+      <li class="fLinksend"><a href="/adaform">ADA</a></li>
+     </ul> 
+     <!--END THE GLOBAL FOOTER LINKS-->
+    </div> 
+    <br>
+    <span class="copyright"><br>Copyright 2019 State of Michigan</span>
+   </div> 
+  </div> 
+  <!--END DIV CONTAINER--> 
+  <!-- stmiws102.prdcloud.fms.ibmcloud.com rjp NT -->   
+ </body>
+</html>

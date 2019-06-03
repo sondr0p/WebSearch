@@ -1,0 +1,549 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" class="no-js" lang="en">
+ <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+ <!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+ <!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+ <!--[if gt IE 8]><!-->
+ <!--<![endif]-->
+ <head profile="http://www.w3.org/1999/xhtml/vocab"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <link rel="shortcut icon" href="https://www.cia.gov/library/readingroom/sites/all/themes/foia_theme/favicon.ico" type="image/vnd.microsoft.icon"> 
+  <link rel="shortlink" href="/library/readingroom/node/21"> 
+  <link rel="canonical" href="/library/readingroom/home"> 
+  <meta name="Generator" content="Drupal 7 (http://drupal.org)"> 
+  <title>Freedom of Information Act Electronic Reading Room | CIA FOIA (foia.cia.gov)</title> 
+  <style type="text/css" media="all">
+@import url("https://www.cia.gov/library/readingroom/modules/system/system.base.css?prvbcd");
+@import url("https://www.cia.gov/library/readingroom/modules/system/system.menus.css?prvbcd");
+@import url("https://www.cia.gov/library/readingroom/modules/system/system.messages.css?prvbcd");
+@import url("https://www.cia.gov/library/readingroom/modules/system/system.theme.css?prvbcd");
+</style> 
+  <style type="text/css" media="all">
+@import url("https://www.cia.gov/library/readingroom/sites/all/modules/contrib/advanced_search_block/advanced_search_block.css?prvbcd");
+@import url("https://www.cia.gov/library/readingroom/sites/all/modules/contrib/date/date_api/date.css?prvbcd");
+@import url("https://www.cia.gov/library/readingroom/modules/field/theme/field.css?prvbcd");
+@import url("https://www.cia.gov/library/readingroom/modules/node/node.css?prvbcd");
+@import url("https://www.cia.gov/library/readingroom/modules/search/search.css?prvbcd");
+@import url("https://www.cia.gov/library/readingroom/modules/user/user.css?prvbcd");
+@import url("https://www.cia.gov/library/readingroom/sites/all/modules/contrib/views/css/views.css?prvbcd");
+@import url("https://www.cia.gov/library/readingroom/sites/all/modules/contrib/media/modules/media_wysiwyg/css/media_wysiwyg.base.css?prvbcd");
+</style> 
+  <style type="text/css" media="all">
+@import url("https://www.cia.gov/library/readingroom/sites/all/modules/contrib/ctools/css/ctools.css?prvbcd");
+@import url("https://www.cia.gov/library/readingroom/sites/all/modules/contrib/wysiwyg_linebreaks/wysiwyg_linebreaks.css?prvbcd");
+@import url("https://www.cia.gov/library/readingroom/sites/all/modules/contrib/text_resize/text_resize.css?prvbcd");
+@import url("https://www.cia.gov/library/readingroom/sites/all/modules/contrib/custom_search/custom_search.css?prvbcd");
+</style> 
+  <style type="text/css" media="all">
+@import url("https://www.cia.gov/library/readingroom/sites/all/themes/foia_theme/css/new_css.css?prvbcd");
+@import url("https://www.cia.gov/library/readingroom/sites/all/themes/foia_theme/css/new_custom.css?prvbcd");
+@import url("https://www.cia.gov/library/readingroom/sites/all/themes/foia_theme/css/foia_err.css?prvbcd");
+</style> 
+  <style type="text/css" media="print">
+@import url("https://www.cia.gov/library/readingroom/sites/all/themes/foia_theme/css/print.css?prvbcd");
+</style> 
+  <script type="text/javascript" src="https://www.cia.gov/library/readingroom/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script> 
+  <script type="text/javascript" src="https://www.cia.gov/library/readingroom/misc/jquery-extend-3.4.0.js?v=1.10.2"></script> 
+  <script type="text/javascript" src="https://www.cia.gov/library/readingroom/misc/jquery.once.js?v=1.2"></script> 
+  <script type="text/javascript" src="https://www.cia.gov/library/readingroom/misc/drupal.js?prvbcd"></script> 
+  <script type="text/javascript" src="https://www.cia.gov/library/readingroom/sites/all/modules/contrib/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script> 
+  <script type="text/javascript" src="https://www.cia.gov/library/readingroom/sites/all/modules/contrib/apachesolr_sort/apachesolr_sort.js?prvbcd"></script> 
+  <script type="text/javascript" src="https://www.cia.gov/library/readingroom/sites/all/modules/contrib/custom_search/js/custom_search.js?prvbcd"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var text_resize_scope = "main";
+          var text_resize_minimum = "12";
+          var text_resize_maximum = "25";
+          var text_resize_line_height_allow = 1;
+          var text_resize_line_height_min = "16";
+          var text_resize_line_height_max = "36";
+//--><!]]>
+</script> 
+  <script type="text/javascript" src="https://www.cia.gov/library/readingroom/sites/all/modules/contrib/text_resize/text_resize.js?prvbcd"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/library/readingroom/sites/all/libraries/ckeditor/'
+//--><!]]>
+</script> 
+  <script type="text/javascript" src="https://www.cia.gov/library/readingroom/sites/all/themes/foia_theme/js/modernizer-latest.min.js?prvbcd"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/library\/readingroom\/","pathPrefix":"","ajaxPageState":{"theme":"foia_theme","theme_token":"ObeEzSbFxk1-6Fw4nVxBW_3Y-OD6pUXj5AYBi-y07mE","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/apachesolr_sort\/apachesolr_sort.js":1,"sites\/all\/modules\/contrib\/custom_search\/js\/custom_search.js":1,"0":1,"sites\/all\/modules\/contrib\/text_resize\/text_resize.js":1,"1":1,"sites\/all\/themes\/foia_theme\/js\/modernizer-latest.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/advanced_search_block\/advanced_search_block.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/media\/modules\/media_wysiwyg\/css\/media_wysiwyg.base.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/wysiwyg_linebreaks\/wysiwyg_linebreaks.css":1,"sites\/all\/modules\/contrib\/text_resize\/text_resize.css":1,"sites\/all\/modules\/contrib\/custom_search\/custom_search.css":1,"sites\/all\/themes\/foia_theme\/css\/new_css.css":1,"sites\/all\/themes\/foia_theme\/css\/new_custom.css":1,"sites\/all\/themes\/foia_theme\/css\/foia_err.css":1,"sites\/all\/themes\/foia_theme\/css\/print.css":1}},"custom_search":{"form_target":"_self","solr":1},"profile":"foia","profile_version":"7.x","urlIsAjaxTrusted":{"\/library\/readingroom\/":true}});
+//--><!]]>
+</script> 
+  <!--[if IE]><script type="text/javascript" src="js/ie.js"></script><![endif]--> 
+ </head> 
+ <body class="html front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-21 node-type-site-page section-library"> 
+  <div id="wrapper"> 
+   <noscript>
+    Javascript must be enabled for the correct page display
+   </noscript> 
+   <header id="header"> 
+    <div class="header-holder"> 
+     <a class="skip" accesskey="S" href="#main-content">skip to content</a> 
+     <span class="bg-globe"></span> 
+     <div class="header-panel"> 
+      <hgroup> 
+       <h1 class="logo"><a href="https://www.cia.gov/"><img src="/library/readingroom/sites/all/themes/foia_theme/images/new/logo.png" alt="Central Intelligence Agency"><span>Central Intelligence Agency</span></a></h1> 
+       <h2 class="work-text">The Work Of A Nation. The Center of Intelligence.</h2> 
+      </hgroup> 
+      <div class="search-form"> 
+       <div class="row"> 
+        <div class="add-nav"> 
+         <ul> 
+          <li><a class="active" href="https://www.cia.gov/contact-cia/report-threats.html">Report Threats</a></li> 
+          <li><a href="https://www.cia.gov/about-cia/iraqi-rewards-program.html">?????????</a></li> 
+          <li><a href="https://www.cia.gov/contact-cia/index.html" title="A single point of contact for all CIA inquiries.">Contact</a></li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="row"> 
+       </div> 
+       <div class="row"> 
+        <ul class="lang-list"> 
+         <li lang="ar" xml:lang="ar"><a href="https://www.cia.gov/ar/index.html">????</a></li> 
+         <li lang="zh-cn" xml:lang="zh-cn"><a href="https://www.cia.gov/zh/index.html">??</a></li> 
+         <li lang="en" xml:lang="en"><a href="https://www.cia.gov/index.html">English</a></li> 
+         <li lang="fr" xml:lang="fr"><a href="https://www.cia.gov/fr/index.html">Français</a></li> 
+         <li lang="ru" xml:lang="ru"><a href="https://www.cia.gov/ru/index.html">???????</a></li> 
+         <li lang="es" xml:lang="es"><a href="https://www.cia.gov/es/index.html">Español</a></li> 
+         <li lang="en" xml:lang="en"><a title="additional-info" class="more" href="https://www.cia.gov/foreign-languages/index.html">More<span class="visuallyhidden"> Languages</span></a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <nav id="nav"> 
+      <h3 class="visuallyhidden">Navigation</h3> 
+      <ul> 
+       <li class="more"> <a href="https://www.cia.gov/">Home</a> <span class="arrow"></span> </li> 
+       <li class="more"> <a href="https://www.cia.gov/about-cia/">About CIA</a> <span class="arrow"></span> 
+        <div class="drop"> 
+         <ul> 
+          <li><a href="https://www.cia.gov/about-cia/todays-cia/index.html">Today's CIA</a></li> 
+          <li><a href="https://www.cia.gov/about-cia/leadership/index.html">Leadership</a></li> 
+          <li><a href="https://www.cia.gov/about-cia/cia-vision-mission-values/index.html">CIA Vision, Mission &amp; Values</a></li> 
+          <li><a href="https://www.cia.gov/about-cia/headquarters-tour/index.html">Tour Headquarters</a></li> 
+          <li><a href="https://www.cia.gov/about-cia/cia-museum/index.html">CIA Museum</a></li> 
+          <li><a href="https://www.cia.gov/about-cia/history-of-the-cia/index.html">History of the CIA</a></li> 
+          <li><a href="https://www.cia.gov/about-cia/faqs/index.html">FAQs</a></li> 
+          <li><a href="https://www.cia.gov/about-cia/no-fear-act/index.html">NoFEAR Act</a></li> 
+          <li><a href="https://www.cia.gov/about-cia/site-policies/index.html">Site Policies</a></li> 
+         </ul> 
+         <div class="info-box"> 
+          <img src="/library/readingroom/sites/all/themes/foia_theme/images/new/navthumb-about.jpg" alt="About CIA"> 
+          <h4>About CIA</h4> 
+          <p>Discover the CIA <a href="https://www.cia.gov/about-cia/">history, mission, vision and values</a>. </p> 
+         </div> 
+        </div> </li> 
+       <li class="more"> <a href="https://www.cia.gov/careers/">Careers &amp; Internships</a> <span class="arrow"></span> 
+        <div class="drop"> 
+         <ul> 
+          <li><a href="https://www.cia.gov/careers/opportunities/index.html">Career Opportunities </a></li> 
+          <li><a href="https://www.cia.gov/careers/student-opportunities/index.html">Student Opportunities</a></li> 
+          <li><a href="https://www.cia.gov/careers/application-process/index.html">Application Process</a></li> 
+          <li><a href="https://www.cia.gov/careers/life-at-cia/index.html">Life at CIA</a></li> 
+          <li><a href="https://www.cia.gov/careers/diversity/index.html">Diversity</a></li> 
+          <li><a href="https://www.cia.gov/careers/military-transition.html">Military Transition</a></li> 
+          <li><a href="https://www.cia.gov/careers/games-information/index.html">Diversions &amp; Information</a></li> 
+          <li><a href="https://www.cia.gov/careers/faq/index.html">Career FAQs</a></li> 
+         </ul> 
+         <div class="info-box"> 
+          <img src="/library/readingroom/sites/all/themes/foia_theme/images/new/navthumb-careers.jpg" alt="Careers &amp; Internships"> 
+          <h4>Careers &amp; Internships</h4> 
+          <p>Your talent. Your diverse skills. Our mission. Learn more about <a href="https://www.cia.gov/careers/">Careers Opportunities at CIA</a>.</p> 
+         </div> 
+        </div> </li> 
+       <li class="more"> <a href="https://www.cia.gov/offices-of-cia/">Offices of CIA</a> <span class="arrow"></span> 
+        <div class="drop"> 
+         <ul> 
+          <li class="plain"><a class="" href="https://www.cia.gov/offices-of-cia/intelligence-analysis" title=""><span>Intelligence &amp; Analysis</span></a></li> 
+          <li class="plain"><a class="" href="https://www.cia.gov/offices-of-cia/clandestine-service" title=""><span>Clandestine Service</span></a></li> 
+          <li class="plain"><a class="" href="https://www.cia.gov/offices-of-cia/science-technology" title=""><span>Science &amp; Technology</span></a></li> 
+          <li class="plain"><a class="" href="https://www.cia.gov/offices-of-cia/mission-support" title=""><span>Support to Mission</span></a></li> 
+          <li class="plain"><a class="" href="https://www.cia.gov/offices-of-cia/human-resources" title=""><span>Human Resources</span></a></li> 
+          <li class="plain"><a class="" href="https://www.cia.gov/offices-of-cia/public-affairs" title="Public Affairs"><span>Public Affairs</span></a></li> 
+          <li class="plain"><a class="" href="https://www.cia.gov/offices-of-cia/general-counsel" title=""><span>General Counsel</span></a></li> 
+          <li class="plain"><a class="" href="https://www.cia.gov/offices-of-cia/equal-employment-opportunity" title=""><span>Equal Employment Opportunity</span></a></li> 
+          <li class="plain"><a class="" href="https://www.cia.gov/offices-of-cia/congressional-affairs" title="Office of Congressional Affairs"><span>Congressional Affairs</span></a></li> 
+          <li class="plain"><a class="" href="https://www.cia.gov/offices-of-cia/inspector-general" title="Inspector General"><span>Inspector General</span></a></li> 
+          <li class="plain"><a class="" href="https://www.cia.gov/offices-of-cia/military-affairs" title="Military Affairs"><span>Military Affairs</span></a></li> 
+         </ul> 
+         <div class="info-box"> 
+          <img src="/library/readingroom/sites/all/themes/foia_theme/images/new/navthumb-offices.jpg" alt="Offices of CIA"> 
+          <h4>Offices of CIA</h4> 
+          <p><a href="https://www.cia.gov/offices-of-cia/">Learn how the CIA is organized</a> into directorates and key offices, responsible for securing our nation.</p> 
+         </div> 
+        </div> </li> 
+       <li class="more"> <a href="https://www.cia.gov/news-information/">News &amp; Information</a> <span class="arrow"></span> 
+        <div class="drop"> 
+         <ul> 
+          <li><a href="https://www.cia.gov/news-information/press-releases-statements/index.html">Press Releases &amp; Statements</a></li> 
+          <li><a href="https://www.cia.gov/news-information/speeches-testimony/index.html">Speeches &amp; Testimony</a></li> 
+          <li><a href="https://www.cia.gov/news-information/cia-the-war-on-terrorism/index.html">CIA &amp; the War on Terrorism</a></li> 
+          <li><a href="https://www.cia.gov/news-information/featured-story-archive/index.html">Featured Story Archive</a></li> 
+          <li><a href="https://www.cia.gov/news-information/Whats-New-on-CIAgov/index.html">What's New on CIA.gov</a></li> 
+          <li><a href="https://www.cia.gov/news-information/your-news/index.html">Your News</a></li> 
+         </ul> 
+         <div class="info-box"> 
+          <img src="/library/readingroom/sites/all/themes/foia_theme/images/new/navthumb-news.jpg" alt="News &amp; Information"> 
+          <h4>News &amp; Information</h4> 
+          <p>The most up-to-date CIA <a href="https://www.cia.gov/news-information/">news, press releases, information and more</a>.</p> 
+         </div> 
+        </div> </li> 
+       <li class="active more"> <a href="https://www.cia.gov/library/">Library</a> <span class="arrow"></span> 
+        <div class="drop right"> 
+         <ul> 
+          <li><a href="https://www.cia.gov/library/publications/index.html">Publications</a></li> 
+          <li><a href="https://www.cia.gov/library/center-for-the-study-of-intelligence/index.html">Center for the Study of Intelligence</a></li> 
+          <li><a href="https://www.cia.gov/library/readingroom">Freedom of Information Act Electronic Reading Room</a></li> 
+          <li><a href="https://www.cia.gov/library/kent-center-occasional-papers/index.html">Kent Center Occasional Papers</a></li> 
+          <li><a href="https://www.cia.gov/library/intelligence-literature/index.html">Intelligence Literature</a></li> 
+          <li><a href="https://www.cia.gov/library/reports/index.html">Reports</a></li> 
+          <li><a href="https://www.cia.gov/library/video-center/index.html">Video Center</a></li> 
+          <li><a href="https://www.cia.gov/library/related-links.html">Related Links</a></li> 
+         </ul> 
+         <div class="info-box"> 
+          <img src="/library/readingroom/sites/all/themes/foia_theme/images/new/navthumb-library.jpg" alt="Library"> 
+          <h4>Library</h4> 
+          <p>Our <a href="https://www.cia.gov/library/">open-source library</a> houses the thousands of documents, periodicals, maps and reports released to the public.</p> 
+         </div> 
+        </div> </li> 
+       <li class="more"> <a href="https://www.cia.gov/kids-page/">Kids' Zone</a> <span class="arrow"></span> 
+        <div class="drop right"> 
+         <ul> 
+          <li><a href="https://www.cia.gov/kids-page/k-5th-grade/index.html">K-5th Grade</a></li> 
+          <li><a href="https://www.cia.gov/kids-page/6-12th-grade/index.html">6-12th Grade</a></li> 
+          <li><a href="https://www.cia.gov/kids-page/parents-teachers/index.html">Parents &amp; Teachers</a></li> 
+          <li><a href="https://www.cia.gov/kids-page/games/index.html">Games</a></li> 
+          <li><a href="https://www.cia.gov/kids-page/related-links/index.html">Related Links</a></li> 
+          <li><a href="https://www.cia.gov/kids-page/privacy-statement/index.html">Kids' Zone Privacy Statement</a></li> 
+         </ul> 
+         <div class="info-box"> 
+          <img src="/library/readingroom/sites/all/themes/foia_theme/images/new/navthumb-kids.jpg" alt="Kids' Zone"> 
+          <h4>Kids' Zone</h4> 
+          <p><a href="https://www.cia.gov/kids-page/">Learn more about the Agency</a> – and find some top secret things you won't see anywhere else.</p> 
+         </div> 
+        </div> </li> 
+      </ul> 
+     </nav> 
+    </div> 
+   </header> 
+   <div class="main-block"> 
+    <section id="main"> 
+     <div class="heading-panel"> 
+      <h1>Library</h1> 
+     </div> 
+     <div class="main-holder"> 
+      <div id="sidebar"> 
+       <nav class="sidebar-nav"> 
+        <h2 class="visuallyhidden">Secondary Navigation</h2> 
+        <ul> 
+         <div class="region region-sidebar-first"> 
+          <div id="block-menu-menu-library" class="block block-menu clearfix"> 
+           <h2 class="title">Library</h2> 
+           <div class="content"> 
+            <ul class="menu">
+             <li class="first leaf"><a href="https://www.cia.gov/library/" title="">Library</a></li> 
+             <li class="leaf"><a href="https://www.cia.gov/library/publications/index.html" title="">Publications</a></li> 
+             <li class="leaf"><a href="https://www.cia.gov/library/center-for-the-study-of-intelligence/index.html" title="">Center for the Study of Intelligence</a></li> 
+             <li class="expanded"><a href="/library/readingroom/" title="" class="active">Freedom of Information Act Electronic Reading Room</a>
+              <ul class="menu">
+               <li class="first collapsed"><a href="/library/readingroom/foia_request">How to File a FOIA Request</a></li> 
+               <li class="leaf"><a href="/library/readingroom/foia_status" title="">How to Check on the Status of Your FOIA Request</a></li> 
+               <li class="collapsed"><a href="/library/readingroom/privacy_request">How to File a Privacy Act Request</a></li> 
+               <li class="collapsed"><a href="/library/readingroom/frequently-requested-records" title="">Frequently Requested Records</a></li> 
+               <li class="leaf"><a href="/library/readingroom/foia-annual-report">Annual Reports</a></li> 
+               <li class="collapsed"><a href="/library/readingroom/historical-collections">Historical Collections</a></li> 
+               <li class="collapsed"><a href="/library/readingroom/collection/crest-25-year-program-archive">CREST: 25-Year Program Archive</a></li> 
+               <li class="collapsed"><a href="/library/readingroom/presidents-daily-brief">President's Daily Brief</a></li> 
+               <li class="leaf"><a href="/library/readingroom/collection/documents-related-former-detention-and-interrogation-program">Documents Related to the Former Detention and Interrogation Program</a></li> 
+               <li class="collapsed"><a href="/library/readingroom/rights">Your Rights</a></li> 
+               <li class="leaf"><a href="/library/readingroom/other_FOIA">Other FOIA Programs</a></li> 
+               <li class="last leaf"><a href="/library/readingroom/frequently-asked-questions">Frequently Asked Questions</a></li> 
+              </ul></li> 
+             <li class="leaf"><a href="https://www.cia.gov/library/kent-center-occasional-papers/index.html" title="">Kent Center Occasional Papers</a></li> 
+             <li class="leaf"><a href="https://www.cia.gov/library/intelligence-literature/index.html" title="">Intelligence Literature</a></li> 
+             <li class="leaf"><a href="https://www.cia.gov/library/reports/index.html" title="">Reports</a></li> 
+             <li class="last leaf"><a href="https://www.cia.gov/library/reports/related-links.html" title="">Related Links</a></li> 
+            </ul> 
+           </div> 
+          </div> 
+         </div> 
+        </ul> 
+       </nav> 
+      </div> 
+      <div id="content"> 
+       <div class="portal-breadcrumbs"> 
+        <ul class="breadcrumbs" dir="ltr"> 
+         <li><a href="https://www.cia.gov/">CIA Home</a></li> 
+         <li><a href="https://www.cia.gov/library">Library</a></li> 
+         <li><a href="/library/readingroom/">Electronic Reading Room</a></li> 
+         <!--comment out breadcrumb Beacause titles are to long on documents---> 
+        </ul> 
+        <div class="region region-search-bar"> 
+         <div id="block-text-resize-0" class="block block-text-resize clearfix"> 
+          <div class="content"> 
+           <a href="javascript:;" class="changer" id="text_resize_decrease"><sup>-</sup>A</a> 
+           <a href="javascript:;" class="changer" id="text_resize_reset">A</a> 
+           <a href="javascript:;" class="changer" id="text_resize_increase"><sup>+</sup>A</a>
+           <div id="text_resize_clear"></div> 
+          </div> 
+         </div> 
+         <div id="block-search-form" class="block block-search clearfix"> 
+          <div class="content"> 
+           <form class="search-form" role="search" action="/library/readingroom/" method="post" id="search-block-form" accept-charset="UTF-8">
+            <div>
+             <div class="container-inline"> 
+              <h2 class="element-invisible">Search form</h2> 
+              <div class="form-item form-type-textfield form-item-search-block-form"> 
+               <label for="edit-search-block-form--2">Search Query for FOIA ERR: </label> 
+               <input title="Enter the terms you wish to search for" class="custom-search-box form-text" placeholder="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="100" maxlength="128"> 
+              </div> 
+              <div class="form-actions form-wrapper" id="edit-actions">
+               <input type="submit" id="edit-submit" name="op" value="Search" class="form-submit">
+              </div>
+              <input type="hidden" name="form_build_id" value="form-VysO0hK490l7WtFKU0Z9TUUpSb_rRWk5iB93qQToNms"> 
+              <input type="hidden" name="form_id" value="search_block_form"> 
+             </div> 
+            </div>
+           </form> 
+          </div> 
+         </div> 
+         <div id="block-block-2" class="block block-block clearfix"> 
+          <div class="content"> 
+           <p><a href="/library/readingroom/search/node">FOIA Category Search </a>| <a href="/library/readingroom/advanced-search-view">Advanced Search</a> | <a href="/library/readingroom/search-help">Search Help </a></p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <article class="description-box"> 
+        <a id="main-content" tabindex="-1">&nbsp;</a> 
+        <div class="text-holder-full"> 
+         <div class="documentContent" id="region-content"> 
+          <a name="documentContent"></a> 
+          <h1 class="documentFirstHeading">Freedom of Information Act Electronic Reading Room</h1> 
+          <div class="region region-content"> 
+           <div id="block-boxes-homepage-combined-content" class="block block-boxes block-boxes-simple clearfix"> 
+            <div class="content"> 
+             <div id="boxes-box-homepage_combined_content" class="boxes-box">
+              <div class="boxes-box-content">
+               <p>Welcome to the Central Intelligence Agency's Freedom of Information Act Electronic Reading Room.<br><br> Do UFOs fascinate you? Are you a history buff who wants to learn more about the Bay of Pigs, Vietnam or the A-12 Oxcart? Have stories about spies always fascinated you? You can find information about all of these topics and more in the Central Intelligence Agency (CIA) Freedom of Information Act (FOIA) Electronic Reading Room.</p> 
+               <h1><a href="what-electronic-reading-room">What is the Electronic Reading Room?</a></h1> 
+               <blockquote>
+                <p class="documentFirstHeading"><a style="line-height: 1.53em; font-size: 1.15em; font-weight: bold;" href="foia-annual-report">CIA Annual FOIA Reports</a></p> 
+               </blockquote> 
+               <blockquote>
+                <p>(Updated April 22, 2019)<br><br> The CIA FOIA Annual Report is now available in&nbsp;<a href="/library/readingroom/docs/CIA_FY2018_FOIA_Annual_Report.pdf">PDF</a>, and in&nbsp;<a href="/library/readingroom/docs/CIA_FY2018_FOIA_Annual_Report.xml">machine-readable XML</a>&nbsp;formats.</p>
+               </blockquote> 
+              </div>
+             </div> 
+            </div> 
+           </div> 
+           <div id="block-boxes-homepage-whats-new" class="block block-boxes block-boxes-simple clearfix"> 
+            <div class="content"> 
+             <div id="boxes-box-homepage_whats_new" class="boxes-box">
+              <div class="boxes-box-content">
+               <h1>What's New on the Electronic Reading Room?</h1> 
+               <blockquote>
+                <p style="text-align: left; font-size: 1.25em; font-weight: bold;"><a href="/library/readingroom/collection/currentcentral-intelligence-bulletin">Current Intelligence Bulletin Collection </a></p> 
+                <p style="text-align: left;"><a href="/library/readingroom/collection/currentcentral-intelligence-bulletin"><img style="width: 473px; height: 420px; margin-right: 3px; margin-left: 1px;" alt="CIB" src="/library/readingroom/images/CIB_3.jpg"></a></p> 
+                <p><strong><u>Current Intelligence Bulletin</u></strong></p> 
+                <p>Harry Truman was the first U.S. president to receive a daily intelligence digest. At his direction, the Daily Summary began production in February 1946, and continued until February 1951. President Truman was pleased with the product, but a survey group commissioned by the National Security Council in 1949 was critical of the Daily Summary and issued several recommendations to improve it. The "new and improved" version, called the Current Intelligence Bulletin, began production on 28 February 1951. This remained the format of the president's daily digest through Dwight Eisenhower's two terms, although it was titled the Central Intelligence Bulletin from 1958-1961. The Current/Central Intelligence Bulletin grew longer than its predecessor over time with the addition of more items and more analysis, and would eventually contain more graphics as printing technology improved.</p> 
+                <p><strong><u><a href="/library/readingroom/collection/currentcentral-intelligence-bulletin?page=12">1 January-30 June 1952</a></u></strong></p> 
+                <p>On 6 February 1952, Princess Elizabeth acceded to the throne as Queen Elizabeth II. The major issue covered in the daily intellegence reports, however, remained the Korean War. Fighting continued along the Korean peninsula during this period in an effective stalemate, with little territory changing hands, and ceasefire negotiations, begun in 1951, still bore no fruit. Anticolonial sentiment continued to grow in French Indochina and began to become a significant factor in British Kenya.</p> 
+                <p>This historical release includes: the Current Intelligence Bulletin reports from 1 January-30 June 1952 (1,082 pages)</p> 
+                <p>This release is the <b>third</b> in a multi-part monthly series. Check back around this time next month to see more reports from the president's digest.</p> 
+                <p>See <a href="/library/readingroom/collection/currentcentral-intelligence-bulletin">the Current/Central Intelligence Bulletin Collection</a></p> 
+               </blockquote> 
+               <hr style="border: currentColor; border-image: none; width: 94%; height: 1px; color: rgb(51, 51, 51); background-color: rgb(51, 51, 51);">
+               <blockquote>
+                <p style="text-align: left; font-size: 1.25em; font-weight: bold;"><a href="/library/readingroom/collection/tet-declassified">Tet Declassified</a></p> 
+                <p style="text-align: left;"><a href="/library/readingroom/collection/tet-declassified"><img style="width: 200px; height: 300px; margin-right: 3px; margin-left: 1px;" alt="Tet Declassified Vol. 3" src="/library/readingroom/images/Tet_Vol_3.jpg"></a></p> 
+                <p>In concert with the DNI's <strong><i>third</i></strong> in a three-part installment on the Vietnam War's Tet Offensive and in recognition of its 50<sup style="top: -0.35em; line-height: 0; font-size: 0.85em; vertical-align: baseline; position: relative;">th</sup> anniversary, the CIA reviewed and contributed 235 documents associated with the Tet Offensive for the DNI's <strong><i>April 2019</i></strong> release.</p> 
+               </blockquote> 
+               <hr style="border: currentColor; border-image: none; width: 94%; height: 1px; color: rgb(51, 51, 51); background-color: rgb(51, 51, 51);">
+               <blockquote>
+                <p style="text-align: left; font-size: 1.25em; font-weight: bold;"><a href="/library/readingroom/collection/argentina-declassification-project-dirty-war-1976-83">Argentina Declassification Project - The "Dirty War" (1976-83)</a></p> 
+                <p>During the Argentine government's seven year (1976-83) campaign against suspected dissidents and subversives, often know as the "Dirty War", between 10,000 and 30,000 people were killed, including opponents of the government as well as innocent victims. Responding to a White House directive, the CIA declassified and is now releasing documents relating to the "Dirty War" period in Argentina.</p> 
+                <p style="text-align: left; font-size: 0.9em; font-weight: 500;">**Note: CIA focused its review on Argentina only information. Anything marked with "Page Denied" and /or "NR" has been deemed not relevant to the Argentina Project, whether or not it has been previously released. Other information can be consulted on the CIA's Electronic Reading Room or by submitting a FOIA request.</p> 
+               </blockquote> 
+               <hr style="border: currentColor; border-image: none; width: 94%; height: 1px; color: rgb(51, 51, 51); background-color: rgb(51, 51, 51);">
+               <blockquote>
+                <p style="text-align: left; font-size: 1.25em; font-weight: bold;"><a href="/library/readingroom/collection/daily-summary">Daily Summary Collection</a></p> 
+                <p style="text-align: left;"><a href="/library/readingroom/collection/daily-summary" target="_blank"><img style="width: 576px; height: 240px; margin-right: 3px; margin-left: 1px;" alt="Daily Summary" src="/library/readingroom/images/TheDailySummary.jpg"></a></p> 
+                <p><strong><u>Do You Know What Came Before the PDB?</u></strong></p> 
+                <p>You probably know that the CIA provides the President of the United States a summary of critical intelligence issues every day. But did you know that this was happening even before there was a CIA? The Central Intelligence Agency was not formally established until 1947. In January 1946, however, President Harry Truman directed the newly-formed Central Intelligence Group to provide him with a coordinated intelligence report known as the Daily Summary. This report evolved over the years and its name has changed —it’s now called the <a href="/library/readingroom/presidents-daily-brief"><b><u> President’s Daily Brief or PDB</u></b></a>— but the tradition begun in 1946 of informing the President with a coordinated daily report continues to this day. Once “for the President’s eyes only” (and those of his most senior advisors), these reports can now be released to the public.</p> 
+                <p><a href="/library/readingroom/collection/daily-summary"><b><u>See Daily Summary reports from 1946-1951</u></b></a></p> 
+               </blockquote> 
+               <hr style="border: currentColor; border-image: none; width: 94%; height: 1px; color: rgb(51, 51, 51); background-color: rgb(51, 51, 51);">
+               <blockquote>
+                <p style="text-align: left; font-size: 1.15em; font-weight: bold;"><a href="/library/readingroom/collection/president-george-h-w-bushs-farewell-visit-cia">President George H. W. Bush's Farewell Visit to CIA</a></p> 
+                <p style="text-align: left;"><a href="/library/readingroom/collection/president-george-h-w-bushs-farewell-visit-cia"><img style="width: 204px; height: 280px; margin-right: 3px; margin-left: 1px;" alt="President George H. W. Bush" src="/library/readingroom/images/PresidentGHWBush.jpg"></a></p> 
+                <p style="text-align: left;"><strong>With gratitude and respect</strong></p> 
+                <p style="text-align: left;"><strong>From the men and women of the Central Intelligence Agency</strong></p> 
+               </blockquote> 
+              </div>
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="region region-header clearfix"> 
+           <div id="block-system-main" class="block block-system clearfix"> 
+            <div class="content"> 
+             <div id="node-21" class="node node-site-page node-promoted node-unpublished" about="/library/readingroom/home" typeof="sioc:Item foaf:Document"> 
+              <span property="dc:title" content="Freedom of Information Act Electronic Reading Room" class="rdf-meta element-hidden"></span> 
+              <div class="content clearfix"> 
+              </div> 
+              <div class="clearfix"> 
+               <div class="links"></div> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="clear"></div> 
+          <div id="home_left"> 
+          </div> 
+          <div id="home_middle"> 
+          </div> 
+          <div id="home_right"> 
+          </div> 
+          <div class="clear"></div> 
+         </div> 
+        </div> 
+       </article> 
+      </div> 
+     </div>
+     <!--close main holder--> 
+    </section> 
+    <footer id="footer"> 
+     <span class="divider"></span> 
+     <a href="#" class="logo-2"><img src="/library/readingroom/sites/all/themes/foia_theme/images/new/logo-2.png" width="61" height="61" alt="Central Intelligence Agency"></a> 
+     <div class="footer-holder"> 
+      <div class="footer-frame"> 
+       <nav class="footer-nav"> 
+        <div class="info-block"> 
+         <h3><a href="https://www.cia.gov/about-cia/">About CIA</a></h3> 
+         <ul> 
+          <li><a href="https://www.cia.gov/about-cia/todays-cia/index.html">Today's CIA</a></li> 
+          <li><a href="https://www.cia.gov/about-cia/leadership/index.html">Leadership</a></li> 
+          <li><a href="https://www.cia.gov/about-cia/cia-vision-mission-values/index.html">CIA Vision, Mission &amp; Values</a></li> 
+          <li><a href="https://www.cia.gov/about-cia/headquarters-tour/index.html">Tour Headquarters</a></li> 
+          <li><a href="https://www.cia.gov/about-cia/cia-museum/index.html">CIA Museum</a></li> 
+          <li><a href="https://www.cia.gov/about-cia/history-of-the-cia/index.html">History of the CIA</a></li> 
+          <li><a href="https://www.cia.gov/about-cia/faqs/index.html">FAQs</a></li> 
+          <li><a href="https://www.cia.gov/about-cia/no-fear-act/index.html">NoFEAR Act</a></li> 
+          <li><a href="https://www.cia.gov/about-cia/site-policies/index.html">Site Policies</a></li> 
+         </ul> 
+        </div> 
+        <div class="info-block"> 
+         <h3><a href="https://www.cia.gov/careers/">Careers &amp; Internships</a></h3> 
+         <ul> 
+          <li><a href="https://www.cia.gov/careers/opportunities">Career Opportunities </a></li> 
+          <li><a href="https://www.cia.gov/careers/student-opportunities">Student Opportunities</a></li> 
+          <li><a href="https://www.cia.gov/careers/application-process">Application Process</a></li> 
+          <li><a href="https://www.cia.gov/careers/life-at-cia">Life at CIA</a></li> 
+          <li><a href="https://www.cia.gov/careers/diversity">Diversity</a></li> 
+          <li><a href="https://www.cia.gov/careers/military-transition">Military Transition</a></li> 
+          <li><a href="https://www.cia.gov/careers/games-information">Diversions &amp; Information</a></li> 
+          <li><a href="https://www.cia.gov/careers/faq">FAQs</a></li> 
+         </ul> 
+         <h3><a href="https://www.cia.gov/offices-of-cia/">Offices of CIA</a></h3> 
+         <ul> 
+          <li><a href="https://www.cia.gov/offices-of-cia/intelligence-analysis">Intelligence &amp; Analysis</a></li> 
+          <li><a href="https://www.cia.gov/offices-of-cia/clandestine-service">Clandestine Service</a></li> 
+          <li><a href="https://www.cia.gov/offices-of-cia/science-technology">Science &amp; Technology</a></li> 
+          <li><a href="https://www.cia.gov/offices-of-cia/mission-support">Support to Mission</a></li> 
+          <li><a href="https://www.cia.gov/offices-of-cia/human-resources">Human Resources</a></li> 
+          <li><a href="https://www.cia.gov/offices-of-cia/public-affairs">Public Affairs</a></li> 
+          <li><a href="https://www.cia.gov/offices-of-cia/general-counsel">General Counsel</a></li> 
+          <li><a href="https://www.cia.gov/offices-of-cia/equal-employment-opportunity">Equal Employment Opportunity</a></li> 
+          <li><a href="https://www.cia.gov/offices-of-cia/congressional-affairs">Congressional Affairs</a></li> 
+          <li><a href="https://www.cia.gov/offices-of-cia/inspector-general">Inspector General</a></li> 
+          <li><a href="https://www.cia.gov/offices-of-cia/military-affairs">Military Affairs</a></li> 
+         </ul> 
+        </div> 
+        <div class="info-block"> 
+         <h3><a href="https://www.cia.gov/news-information/">News &amp; Information</a></h3> 
+         <ul> 
+          <li><a href="https://www.cia.gov/news-information/press-releases-statements/index.html">Press Releases &amp; Statements</a></li> 
+          <li><a href="https://www.cia.gov/news-information/speeches-testimony/index.html">Speeches &amp; Testimony</a></li> 
+          <li><a href="https://www.cia.gov/news-information/cia-the-war-on-terrorism/index.html">CIA &amp; the War on Terrorism</a></li> 
+          <li><a href="https://www.cia.gov/news-information/featured-story-archive/index.html">Featured Story Archive</a></li> 
+          <li><a href="https://www.cia.gov/news-information/Whats-New-on-CIAgov/index.html">What's New on CIA.gov</a></li> 
+          <li><a href="https://www.cia.gov/news-information/your-news/index.html">Your News</a></li> 
+         </ul> 
+         <h3><a href="https://www.cia.gov/library/">Library</a></h3> 
+         <ul> 
+          <li><a href="https://www.cia.gov/library/publications/index.html">Publications</a></li> 
+          <li><a href="https://www.cia.gov/library/center-for-the-study-of-intelligence/index.html">Center for the Study of Intelligence</a></li> 
+          <li><a href="https://www.cia.gov/library/readingroom">Freedom of Information Act Electronic Reading Room</a></li> 
+          <li><a href="https://www.cia.gov/library/kent-center-occasional-papers/index.html">Kent Center Occasional Papers</a></li> 
+          <li><a href="https://www.cia.gov/library/intelligence-literature/index.html">Intelligence Literature</a></li> 
+          <li><a href="https://www.cia.gov/library/reports/index.html">Reports</a></li> 
+          <li><a href="https://www.cia.gov/library/video-center/index.html">Video Center</a></li> 
+          <li><a href="https://www.cia.gov/library/related-links.html">Related Links</a></li> 
+         </ul> 
+        </div> 
+        <div class="info-block add"> 
+         <h3><a href="https://www.cia.gov/kids-page/">Kids' Zone</a></h3> 
+         <ul> 
+          <li><a href="https://www.cia.gov/kids-page/k-5th-grade/index.html">K-5th Grade</a></li> 
+          <li><a href="https://www.cia.gov/kids-page/6-12th-grade/index.html">6-12th Grade</a></li> 
+          <li><a href="https://www.cia.gov/kids-page/parents-teachers/index.html">Parents &amp; Teachers</a></li> 
+          <li><a href="https://www.cia.gov/kids-page/games/index.html">Games</a></li> 
+          <li><a href="https://www.cia.gov/kids-page/related-links/index.html">Related Links</a></li> 
+          <li><a href="https://www.cia.gov/kids-page/privacy-statement/index.html">Kids' Zone Privacy Statement</a></li> 
+         </ul> 
+         <h3><a href="https://www.cia.gov/contact-cia/">Connect with CIA</a></h3> 
+         <ul class="socials-list"> 
+          <li><a class="social-6" href="https://twitter.com/CIA">CIA Twitter</a></li> 
+          <li><a class="social-5" href="https://www.facebook.com/Central.Intelligence.Agency">CIA Facebook</a></li> 
+          <li><a href="https://www.youtube.com/user/ciagov">CIA YouTube</a></li> 
+          <li><a class="social-2" href="http://www.flickr.com/photos/ciagov">CIA Flickr PhotoStream</a></li> 
+          <li><a class="social-3" href="https://www.cia.gov/news-information/your-news">RSS</a></li> 
+          <li><a class="social-4" href="https://www.cia.gov/contact-cia">Contact Us</a></li> 
+         </ul> 
+        </div> 
+       </nav> 
+      </div> 
+     </div> 
+    </footer> 
+    <div class="footer-panel"> 
+     <nav class="sub-nav"> 
+      <h3 class="visuallyhidden">Footer Navigation</h3> 
+      <div class="region region-footer"> 
+       <div id="block-menu-menu-footer" class="block block-menu clearfix"> 
+        <h2 class="title">Footer</h2> 
+        <div class="content"> 
+         <ul class="menu">
+          <li class="first leaf"><a href="https://www.cia.gov/about-cia/site-policies/index.html#privacy-notice" title="">Privacy</a></li> 
+          <li class="leaf"><a href="https://www.cia.gov/about-cia/site-policies/index.html#copy" title="">Copyright</a></li> 
+          <li class="leaf"><a href="https://www.cia.gov/about-cia/site-policies/index.html" title="">Site Policies</a></li> 
+          <li class="leaf"><a href="http://www.usa.gov/" title="">USA.gov</a></li> 
+          <li class="leaf"><a href="https://www.cia.gov/library/readingroom" title="">FOIA</a></li> 
+          <li class="leaf"><a href="http://www.dni.gov/" title="">DNI.gov</a></li> 
+          <li class="leaf"><a href="https://www.cia.gov/about-cia/no-fear-act/index.html" title="">NoFEAR Act</a></li> 
+          <li class="leaf"><a href="https://www.cia.gov/offices-of-cia/inspector-general/index.html" title="">Inspector General</a></li> 
+          <li class="leaf"><a href="https://www.cia.gov/contact-cia/index.html" title="">Contact CIA</a></li> 
+          <li class="last leaf"><a href="https://www.cia.gov/sitemap.html" title="">Site Map</a></li> 
+         </ul> 
+        </div> 
+       </div> 
+      </div> 
+      <a href="http://www.cia.gov/open/" class="footer-logo"><img src="/library/readingroom/sites/all/themes/foia_theme/images/new/ico-06.png" width="101" height="24" alt="open gov"></a> 
+     </nav> 
+    </div> 
+    <div class="skip">
+     <a href="#wrapper">back to top</a>
+    </div> 
+    <div class="skip"> 
+     <a accesskey="b" href="#wrapper">back to top</a> 
+    </div> 
+   </div> 
+  </div>
+  <!-- close main block--> 
+  <!-- close wrapper-->   
+ </body>
+</html>

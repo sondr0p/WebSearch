@@ -1,0 +1,590 @@
+<!doctype html>
+<!--[if IEMobile 7]><html class="iem7" lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8" lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9" lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!-->
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+ <!--<![endif]-->
+ <head> 
+  <meta charset="utf-8"> 
+  <meta name="Generator" content="Drupal 7 (http://drupal.org)"> 
+  <link rel="shortcut icon" href="https://gettested.cdc.gov/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <meta name="MobileOptimized" content="width"> 
+  <meta name="HandheldFriendly" content="true"> 
+  <meta name="apple-mobile-web-app-capable" content="yes"> 
+  <title>Get Tested | National HIV, STD, and Hepatitis Testing</title> 
+  <link type="text/css" rel="stylesheet" href="https://gettested.cdc.gov/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://gettested.cdc.gov/sites/default/files/css/css_vZ_wrMQ9Og-YPPxa1q4us3N7DsZMJa-14jShHgRoRNo.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://gettested.cdc.gov/sites/default/files/css/css_TsVRTbLFUpEZAfw-_bWPJu840QT523CPjUVJ5MRWfyk.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://gettested.cdc.gov/sites/default/files/css/css__AnA06v-oC191ciXWx5vfLgRNk_F_fmk7Otj9F-gG_o.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://gettested.cdc.gov/sites/all/modules/contrib/popup/popup.css?psdzoj" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://gettested.cdc.gov/sites/default/files/css/css_RWAwL4zdVjwJnWONBiUbw2Zdurs1izoHmd479EOxXME.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://gettested.cdc.gov/sites/all/modules/contrib/popup/styles/white/popup-element.css?psdzoj" media="screen, projection"> 
+  <link type="text/css" rel="stylesheet" href="https://gettested.cdc.gov/sites/default/files/css/css_IswUwLUYvGuQJJL-2ndCc1SvZTngveUr9yGEyy5aaxY.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://gettested.cdc.gov/sites/default/files/css/css_WkIQlS2V8h4Vh16HARhGTGX8u2nA_FzvuTZ5-DXLwaQ.css" media="screen"> 
+  <link type="text/css" rel="stylesheet" href="https://gettested.cdc.gov/sites/default/files/css/css_1so65d2D-rmigzgkvVr9nKQVrNb_CNTx3zQimxl3bAk.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://gettested.cdc.gov/sites/default/files/css/css_5_EBsvYf_U3gqgv1Idal1sImw7zcXB1kaIR6NOugp8o.css" media="print"> 
+  <link type="text/css" rel="stylesheet" href="https://gettested.cdc.gov/sites/default/files/css/css_dhY-PRYHF0e5agscdfp9Gcq-OCaN9Ld10rm1MWLIn84.css" media="only screen"> 
+  <link type="text/css" rel="stylesheet" href="https://gettested.cdc.gov/sites/default/files/css/css_um6NJV-2RL_KX4hkQEJs6o_DGihzx37T3uVqN8GOD-M.css" media="screen"> 
+  <link type="text/css" rel="stylesheet" href="https://gettested.cdc.gov/sites/default/files/css/css_gccWjowuH2fga-UCn3xqMw9Uiy1zP2lhOgGv8CdwGnY.css" media="only screen"> 
+  <!--[if lt IE 8]>
+<link type="text/css" rel="stylesheet" href="https://gettested.cdc.gov/sites/default/files/css/css_reur1-RX9x2uqDVEJYGn_wdONfl7b1-HQiSiY8o5w3U.css" media="screen" />
+<![endif]--> 
+  <script src="https://gettested.cdc.gov/sites/default/files/js/js_g-KCNvcvs8_8XW27FHo9eTybcjl3XH2ZcDgFTaEGfRo.js"></script> 
+  <script src="https://gettested.cdc.gov/sites/default/files/js/js_s8LBlgkmQI6M7K740ShqzDwwmcvVgmWKQ9k2bJ8lUoE.js"></script> 
+  <script src="https://gettested.cdc.gov/sites/default/files/js/js_I0RLffBLadC5JSEiBEDnA7NqhVhAKy_BnlMUl5Tlr6o.js"></script> 
+  <script src="https://gettested.cdc.gov/sites/all/modules/contrib/popup/popup.js?psdzoj"></script> 
+  <script src="https://gettested.cdc.gov/sites/default/files/js/js_c5X4NHvMRg8uPuseXnL66lRB_u-jEzovK4vuagmMMjM.js"></script> 
+  <script src="//maps.googleapis.com/maps/api/js?key=AIzaSyAtwB_HET7MGj_DY0vPX5wdDo54S6YMbUw&amp;sensor=false&amp;libraries=geometry,places"></script> 
+  <script src="https://gettested.cdc.gov/sites/default/files/js/js_6ean3ABJnxbGsQQyUTqQWDOhyONV0vvriFPB0hA3iy4.js"></script> 
+  <script>window.CKEDITOR_BASEPATH = '/sites/all/libraries/ckeditor/'</script> 
+  <script src="https://gettested.cdc.gov/sites/default/files/js/js_WVFFz4uN7ppXA_ApBB68-dyuy6nPSFWLzoJbwYLRCrE.js"></script> 
+  <script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"gettested","theme_token":"KAi5P3Y9xPQnKHhcyJt2TZekGVevL8UXzMMUObjRexg","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/forcejs\/forcejs.js":1,"sites\/all\/modules\/contrib\/views_slideshow\/js\/views_slideshow.js":1,"misc\/jquery.cookie.js":1,"misc\/jquery.form.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/custom\/organization_display\/js\/jquery.appear.js":1,"sites\/all\/modules\/custom\/organization_display\/js\/organization_display.js":1,"sites\/all\/modules\/contrib\/popup\/popup.js":1,"sites\/all\/libraries\/flexslider\/jquery.flexslider-min.js":1,"\/\/maps.googleapis.com\/maps\/api\/js?key=AIzaSyAtwB_HET7MGj_DY0vPX5wdDo54S6YMbUw\u0026sensor=false\u0026libraries=geometry,places":1,"sites\/all\/modules\/custom\/hivtest_search\/js\/hivtest_search.js":1,"sites\/all\/modules\/custom\/hivtest_search\/js\/jquery.qtip-1.0.0-rc3.min.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/flexslider_views_slideshow\/js\/flexslider_views_slideshow.js":1,"0":1,"sites\/all\/themes\/gettested\/scripts\/theme.js":1,"sites\/all\/themes\/gettested\/scripts\/external.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/views_slideshow\/views_slideshow.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/popup\/popup.css":1,"sites\/all\/modules\/contrib\/flexslider\/assets\/css\/flexslider_img.css":1,"sites\/all\/libraries\/flexslider\/flexslider.css":1,"sites\/all\/modules\/contrib\/popup\/styles\/white\/popup-element.css":1,"modules\/locale\/locale.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.settings.style.headings.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.settings.style.image.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.layout.css":1,"sites\/all\/themes\/corolla\/css\/html-elements.css":1,"sites\/all\/themes\/corolla\/css\/forms.css":1,"sites\/all\/themes\/corolla\/css\/tables.css":1,"sites\/all\/themes\/corolla\/css\/page.css":1,"sites\/all\/themes\/corolla\/css\/articles.css":1,"sites\/all\/themes\/corolla\/css\/comments.css":1,"sites\/all\/themes\/corolla\/css\/fields.css":1,"sites\/all\/themes\/corolla\/css\/blocks.css":1,"sites\/all\/themes\/corolla\/css\/navigation.css":1,"sites\/all\/themes\/corolla\/css\/fonts.css":1,"sites\/all\/themes\/corolla\/css\/corolla.settings.style.css":1,"sites\/all\/themes\/corolla\/color\/colors.css":1,"sites\/all\/themes\/gettested\/css\/gettested-html-elements.css":1,"sites\/all\/themes\/gettested\/css\/gettested-colors.css":1,"sites\/all\/themes\/gettested\/css\/gettested-page.css":1,"sites\/all\/themes\/gettested\/css\/gettested-navigation.css":1,"sites\/all\/themes\/gettested\/css\/gettested-blocks.css":1,"sites\/all\/themes\/gettested\/css\/gettested-search.css":1,"sites\/all\/themes\/gettested\/css\/gettested-assessment.css":1,"sites\/all\/themes\/gettested\/css\/gettested-faq.css":1,"sites\/all\/themes\/gettested\/css\/gettested-sidebar.css":1,"sites\/all\/themes\/gettested\/css\/gettested-responsive.css":1,"sites\/all\/themes\/gettested\/css\/CDC-socialmenu.css":1,"sites\/all\/themes\/corolla\/css\/print.css":1,"sites\/all\/themes\/gettested\/generated_files\/gettested.responsive.layout.css":1,"sites\/all\/themes\/gettested\/generated_files\/gettested.fonts.css":1,"sites\/all\/themes\/gettested\/generated_files\/gettested.responsive.styles.css":1,"sites\/all\/themes\/gettested\/generated_files\/gettested.lt-ie8.layout.css":1}},"popup":{"effects":{"show":{"default":"this.body.show();","fade":"\n        if (this.opacity){\n          this.body.fadeTo(\u0027medium\u0027,this.opacity);\n        }else{\n          this.body.fadeIn(\u0027medium\u0027);\n        }","slide-down":"this.body.slideDown(\u0027medium\u0027)","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027show\u0027,\n            opacity:(this.opacity ? this.opacity : \u0027show\u0027)\n          }, \u0027medium\u0027\n        );"},"hide":{"default":"this.body.hide();","fade":"this.body.fadeOut(\u0027medium\u0027);","slide-down":"this.body.slideUp(\u0027medium\u0027);","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027hide\u0027,\n            opacity:\u0027hide\u0027\n          }, \u0027medium\u0027\n        );"}},"linger":"250"},"viewsSlideshow":{"did_you_know-block_1_1":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","flexsliderViewsSlideshow","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","flexsliderViewsSlideshow","viewsSlideshowCycle"],"play":["viewsSlideshowControls","flexsliderViewsSlideshow","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","flexsliderViewsSlideshow","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0},"homepage_slideshow-block_1":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","flexsliderViewsSlideshow","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","flexsliderViewsSlideshow","viewsSlideshowCycle"],"play":["viewsSlideshowControls","flexsliderViewsSlideshow","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","flexsliderViewsSlideshow","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0},"did_you_know-block_1_2":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","flexsliderViewsSlideshow","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","flexsliderViewsSlideshow","viewsSlideshowCycle"],"play":["viewsSlideshowControls","flexsliderViewsSlideshow","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","flexsliderViewsSlideshow","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0}},"viewsSlideshowPager":{"did_you_know-block_1_1":{"bottom":{"type":"viewsSlideshowPagerFields","master_pager":"0"}},"did_you_know-block_1_2":{"bottom":{"type":"viewsSlideshowPagerFields","master_pager":"0"}}},"viewsSlideshowPagerFields":{"did_you_know-block_1_1":{"bottom":{"activatePauseOnHover":0}},"did_you_know-block_1_2":{"bottom":{"activatePauseOnHover":0}}},"flexslider_views_slideshow":{"#flexslider_views_slideshow_main_did_you_know-block_1_1":{"num_divs":9,"id_prefix":"#flexslider_views_slideshow_main_","vss_id":"did_you_know-block_1_1","namespace":"flex-","selector":".slides \u003E li","easing":"swing","direction":"horizontal","reverse":false,"smoothHeight":false,"startAt":0,"animationSpeed":700,"initDelay":0,"useCSS":true,"touch":true,"video":false,"keyboard":true,"multipleKeyboard":false,"mousewheel":0,"controlsContainer":".flex-control-nav-container","sync":"","asNavFor":"","itemWidth":0,"itemMargin":0,"minItems":0,"maxItems":0,"move":0,"animation":"slide","slideshow":true,"slideshowSpeed":10000,"directionNav":false,"controlNav":true,"prevText":"Previous","nextText":"Next","pausePlay":false,"pauseText":"Pause","playText":"Play","randomize":false,"thumbCaptions":false,"thumbCaptionsBoth":false,"animationLoop":true,"pauseOnAction":true,"pauseOnHover":false,"manualControls":""},"#flexslider_views_slideshow_main_homepage_slideshow-block_1":{"num_divs":5,"id_prefix":"#flexslider_views_slideshow_main_","vss_id":"homepage_slideshow-block_1","namespace":"flex-","selector":".slides \u003E li","easing":"swing","direction":"horizontal","reverse":false,"smoothHeight":false,"startAt":0,"animationSpeed":700,"initDelay":0,"useCSS":true,"touch":true,"video":false,"keyboard":true,"multipleKeyboard":true,"mousewheel":0,"controlsContainer":".flex-control-nav-container","sync":"","asNavFor":"","itemWidth":0,"itemMargin":0,"minItems":0,"maxItems":0,"move":0,"animation":"fade","slideshow":true,"slideshowSpeed":45000,"directionNav":false,"controlNav":false,"prevText":"Previous","nextText":"Next","pausePlay":false,"pauseText":"Pause","playText":"Play","randomize":false,"thumbCaptions":false,"thumbCaptionsBoth":false,"animationLoop":true,"pauseOnAction":true,"pauseOnHover":false,"manualControls":""},"#flexslider_views_slideshow_main_did_you_know-block_1_2":{"num_divs":9,"id_prefix":"#flexslider_views_slideshow_main_","vss_id":"did_you_know-block_1_2","namespace":"flex-","selector":".slides \u003E li","easing":"swing","direction":"horizontal","reverse":false,"smoothHeight":false,"startAt":0,"animationSpeed":700,"initDelay":0,"useCSS":true,"touch":true,"video":false,"keyboard":true,"multipleKeyboard":false,"mousewheel":0,"controlsContainer":".flex-control-nav-container","sync":"","asNavFor":"","itemWidth":0,"itemMargin":0,"minItems":0,"maxItems":0,"move":0,"animation":"slide","slideshow":true,"slideshowSpeed":10000,"directionNav":false,"controlNav":1,"prevText":"Previous","nextText":"Next","pausePlay":false,"pauseText":"Pause","playText":"Play","randomize":false,"thumbCaptions":false,"thumbCaptionsBoth":false,"animationLoop":true,"pauseOnAction":true,"pauseOnHover":false,"manualControls":""}},"urlIsAjaxTrusted":{"\/":true,"\/system\/ajax":true,"\/search\/node":true},"ajax":{"edit-forward":{"wrapper":"assessment_tool_form","callback":"assessment_tool_form_ajax_callback","progress":{"type":"none"},"event":"mousedown","keypress":true,"prevent":"click","url":"\/system\/ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Next"}}}});</script> 
+ </head> 
+ <body class="html front not-logged-in no-sidebars page-frontpage i18n-en lang-en site-name-get-tested page-panels color-scheme-custom gettested bs-n bb-n mb-dd rc-0 rct-6"> 
+  <div id="skip-link"> 
+   <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a> 
+  </div> 
+  <noscript>
+   <p class="noJS"><b> This browser does not have JavaScript turned on, or cannot use JavaScript. Please turn on Javascript to access full functionality. </b> </p>
+  </noscript> 
+  <div id="page-wrapper"> 
+   <div id="page" class="page snc-n snw-n sna-l sns-n ssc-n ssw-n ssa-l sss-n btc-n btw-n bta-l bts-n ntc-n ntw-b nta-l nts-n ctc-n ctw-b cta-l cts-n ptc-n ptw-b pta-l pts-n"> 
+    <div id="header-wrapper"> 
+     <div class="container clearfix cdchead"> 
+      <div class="region region-cdc-header">
+       <div class="region-inner clearfix">
+        <div id="block-boxes-cdc-header-logo" class="block block-boxes block-boxes-simple no-title odd first block-count-1 block-region-cdc-header block-cdc-header-logo">
+         <div class="block-inner clearfix"> 
+          <div class="block-content content">
+           <div id="boxes-box-cdc_header_logo" class="boxes-box">
+            <div class="boxes-box-content">
+             <p><img alt="CDC 24/7: Saving Lives. Protecting People.™" border="0" height="47" src="https://www2a.cdc.gov/TemplatePackage/images/cdcHeaderLogo.gif" width="470"></p> 
+            </div>
+           </div>
+          </div> 
+         </div>
+        </div>
+        <div id="block-locale-language" class="block block-locale no-title even last block-count-2 block-region-cdc-header block-language" role="complementary">
+         <div class="block-inner clearfix"> 
+          <div class="block-content content">
+           <ul class="language-switcher-locale-url">
+            <li class="en first active"><a href="/" class="language-link active" xml:lang="en">English</a></li>
+            <li class="es last"><a href="/es" class="language-link" xml:lang="es">Español</a></li>
+           </ul>
+          </div> 
+         </div>
+        </div>
+       </div>
+      </div> 
+     </div> 
+     <div class="container clearfix"> 
+      <header class="clearfix" role="banner"> 
+       <div id="branding" class="branding-elements clearfix"> 
+        <hgroup id="name-and-slogan"> 
+         <h1 id="site-name"><a href="/" title="Home page" class="active">Get Tested</a></h1> 
+         <h2 id="site-slogan">National HIV, STD, and Hepatitis Testing</h2> 
+        </hgroup> 
+       </div> 
+       <div class="region region-header">
+        <div class="region-inner clearfix">
+         <nav id="block-system-main-menu" class="block block-system block-menu odd first last block-count-3 block-region-header block-main-menu" role="navigation">
+          <div class="block-inner clearfix"> 
+           <h2 class="block-title element-invisible">Main menu</h2> 
+           <div class="block-content content">
+            <ul class="menu clearfix">
+             <li class="first leaf menu-depth-1 menu-item-681"><a href="/" title="" class="active">Find Testing Locations</a></li>
+             <li class="leaf menu-depth-1 menu-item-1158"><a href="/faq-page" title="">FAQs</a></li>
+             <li class="last leaf menu-depth-1 menu-item-1161"><a href="https://gettested.cdc.gov/es" title="">Español</a></li>
+            </ul>
+           </div> 
+          </div>
+         </nav>
+        </div>
+       </div> 
+      </header> 
+     </div> 
+    </div> 
+    <!--secondary content--> 
+    <div id="content-wrapper"> 
+     <div class="container"> 
+      <div id="columns"> 
+       <div class="columns-inner clearfix"> 
+        <div id="content-column"> 
+         <div class="content-inner"> 
+          <!-- php print render($page['highlighted']); ?>--> 
+          <div id="main-content" role="main"> 
+           <div class="content-margin"> 
+            <div class="content-style"> 
+             <div id="content"> 
+              <div id="block-system-main" class="block block-system no-title odd first last block-count-4 block-region-content block-main"> 
+               <div class="at-panel panel-display three-3x33 clearfix"> 
+                <div class="region region-three-33-top region-conditional-stack"> 
+                 <div class="region-inner clearfix"> 
+                  <div class="panel-pane pane-views pane-homepage-slideshow no-title block" id="hm-slideshow"> 
+                   <div class="block-inner clearfix"> 
+                    <div class="block-content"> 
+                     <div class="view view-homepage-slideshow view-id-homepage_slideshow view-display-id-block view-dom-id-7ebc7e6e0e451abed5ceab7be8d6e1a5"> 
+                      <div class="view-content"> 
+                       <div class="skin-default"> 
+                        <div id="flexslider_views_slideshow_main_homepage_slideshow-block_1" class="flexslider_views_slideshow_main views_slideshow_main">
+                         <div class="flex-nav-container"> 
+                          <div class="flexslider"> 
+                           <ul id="flexslider_views_slideshow_homepage_slideshow-block_1" class="flexslider-views-slideshow-main-frame slides"> 
+                            <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-1 views-row-odd"> 
+                             <div class="views-field views-field-field-slideshow-image"> 
+                              <div class="field-content">
+                               <img typeof="foaf:Image" class="image-style-hm-slides-style" src="https://gettested.cdc.gov/sites/default/files/styles/hm_slides_style/public/slideshow/friends_1.jpg?itok=JtS1t-nQ" width="1140" height="525" alt="friends" title="friends">
+                              </div> 
+                             </div> </li> 
+                            <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even"> 
+                             <div class="views-field views-field-field-slideshow-image"> 
+                              <div class="field-content">
+                               <img typeof="foaf:Image" class="image-style-hm-slides-style" src="https://gettested.cdc.gov/sites/default/files/styles/hm_slides_style/public/slideshow/beachCouple_1.jpg?itok=HZuDZzNe" width="1140" height="525" alt="beach couple" title="beach couple">
+                              </div> 
+                             </div> </li> 
+                            <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd"> 
+                             <div class="views-field views-field-field-slideshow-image"> 
+                              <div class="field-content">
+                               <img typeof="foaf:Image" class="image-style-hm-slides-style" src="https://gettested.cdc.gov/sites/default/files/styles/hm_slides_style/public/slideshow/maleCouple_3.jpg?itok=GJ3sMMhf" width="1140" height="525" alt="male couple" title="male couple">
+                              </div> 
+                             </div> </li> 
+                            <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-even"> 
+                             <div class="views-field views-field-field-slideshow-image"> 
+                              <div class="field-content">
+                               <img typeof="foaf:Image" class="image-style-hm-slides-style" src="https://gettested.cdc.gov/sites/default/files/styles/hm_slides_style/public/slideshow/maleFriends.jpg?itok=2WIokT5A" width="1140" height="525" alt="male friends" title="male friends">
+                              </div> 
+                             </div> </li> 
+                            <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-5 views_slideshow_cycle_hidden views-row-odd"> 
+                             <div class="views-field views-field-field-slideshow-image"> 
+                              <div class="field-content">
+                               <img typeof="foaf:Image" class="image-style-hm-slides-style" src="https://gettested.cdc.gov/sites/default/files/styles/hm_slides_style/public/slideshow/youngMan.jpg?itok=Reyb4xt_" width="1140" height="525" alt="young man" title="young man">
+                              </div> 
+                             </div> </li> 
+                           </ul> 
+                          </div> 
+                         </div>
+                        </div> 
+                       </div> 
+                      </div> 
+                     </div> 
+                    </div> 
+                   </div> 
+                  </div> 
+                  <div class="panel-separator"></div>
+                  <section class="panel-pane pane-block pane-hivtest-search-locator-search block" id="hm-search-locator"> 
+                   <div class="block-inner clearfix"> 
+                    <h2 class="pane-title block-title">Find Free, Fast, and Confidential Testing Near You</h2> 
+                    <div class="block-content"> 
+                     <form action="/" method="post" id="locator-search-form" accept-charset="UTF-8">
+                      <div>
+                       <div id="search-location">
+                        <div class="form-item form-type-textfield form-item-searchlocation"> 
+                         <label for="edit-searchlocation">Enter ZIP Code or City, State </label> 
+                         <input placeholder="Enter ZIP Code or City, State" type="text" id="edit-searchlocation" name="searchlocation" value="" size="50" maxlength="128" class="form-text"> 
+                         <div class="description">
+                          Enter ZIP Code or City, State
+                         </div> 
+                        </div> 
+                       </div>
+                       <input type="submit" id="edit-submit" name="op" value="Search" class="form-submit">
+                       <input type="hidden" name="form_build_id" value="form-vGpiWCvdAhfpojsEUmAhQnceepFfvxiWqRdtNy7PJ6E"> 
+                       <input type="hidden" name="form_id" value="locator_search_form"> 
+                      </div>
+                     </form> 
+                    </div> 
+                   </div> 
+                  </section> 
+                  <div class="panel-separator"></div>
+                  <section class="panel-pane pane-block pane-assessment-tool-block-assessment-tool block" id="hm-assessment-tool"> 
+                   <div class="block-inner clearfix"> 
+                    <h2 class="pane-title block-title">Not Sure What Test You Need?</h2> 
+                    <div class="block-content"> 
+                     <div id="assessment_tool_form">
+                      <form class="assessment_tool_form" action="/" method="post" id="assessment-tool-form" accept-charset="UTF-8">
+                       <div>
+                        Answer a few questions and we’ll help you.
+                        <div class="assessment_tool_question">
+                         What is your gender? 
+                         <div id="popup-element-0" class="popup-element popup-element-noscript popup-style-white activate-click effect-slide-down-fade expand-bottom-right origin-bottom-left"> 
+                          <a class="popup-element-title"><span><img src="/sites/all/themes/gettested/images/help.png" alt="Help on step 1"></span></a> 
+                          <div class="popup-element-body expand-bottom-right origin-bottom-left width-400"> 
+                           <table class="popup-layout"> 
+                            <tbody>
+                             <tr class="top">
+                              <td class="left"></td>
+                              <td class="center"></td>
+                              <td class="right"></td>
+                             </tr> 
+                             <tr class="center"> 
+                              <td class="left"></td> 
+                              <td class="center"> 
+                               <div class="inner"> 
+                                <a class="popup-close popup-close-button"><span>[X]</span></a> Many testing and vaccination options are available, but can differ based upon your age, gender, and sexual orientation. Women who are pregnant have additional testing and vaccination options.
+                                <br>In order to provide you with tailored testing and vaccination options, questions about age, gender, and sexual orientation help to provide appropriate suggestions for your care. You should always consult with your healthcare provider with any questions or concerns about your health and these tests and vaccinations. 
+                               </div> </td> 
+                              <td class="right"></td> 
+                             </tr> 
+                             <tr class="bottom">
+                              <td class="left"></td>
+                              <td class="center"></td>
+                              <td class="right"></td>
+                             </tr> 
+                            </tbody>
+                           </table> 
+                          </div> 
+                         </div>
+                        </div>
+                        <div id="edit-step-1" class="form-radios">
+                         <div class="form-item form-type-radio form-item-step-1"> 
+                          <input type="radio" id="edit-step-1-male" name="step_1" value="male" checked class="form-radio"> 
+                          <label class="option" for="edit-step-1-male">Male </label> 
+                         </div> 
+                         <div class="form-item form-type-radio form-item-step-1"> 
+                          <input type="radio" id="edit-step-1-female" name="step_1" value="female" class="form-radio"> 
+                          <label class="option" for="edit-step-1-female">Female </label> 
+                         </div> 
+                         <div class="form-item form-type-radio form-item-step-1"> 
+                          <input type="radio" id="edit-step-1-transgender" name="step_1" value="transgender" class="form-radio"> 
+                          <label class="option" for="edit-step-1-transgender">Transgender </label> 
+                         </div> 
+                        </div>
+                        <div id="edit-buttons" class="form-wrapper">
+                         <input type="submit" id="edit-forward" name="op" value="Next" class="form-submit">
+                        </div>
+                        <input type="hidden" name="form_build_id" value="form-ai87lpMxJNxwyDB2QdXhQv14iMaa6NOKR2zWWrIxBcQ"> 
+                        <input type="hidden" name="form_id" value="assessment_tool_form"> 
+                       </div>
+                      </form>
+                     </div> 
+                    </div> 
+                   </div> 
+                  </section> 
+                 </div> 
+                </div> 
+                <div class="region region-three-33-first"> 
+                 <div class="region-inner clearfix"> 
+                  <section class="panel-pane pane-views pane-faq block"> 
+                   <div class="block-inner clearfix"> 
+                    <h2 class="pane-title block-title">Find Answers to Your Questions</h2> 
+                    <div class="block-content"> 
+                     <div class="view view-faq view-id-faq view-display-id-faq_recent view-dom-id-d2d011aa7c6eb7df4f3cea55ada25c26"> 
+                      <div class="view-content"> 
+                       <div class="item-list"> 
+                        <ul> 
+                         <li class="views-row views-row-1 views-row-odd views-row-first"> 
+                          <div class="views-field views-field-title"> 
+                           <span class="field-content"><a href="/content/how-do-i-protect-myself-and-my-partners-hiv-viral-hepatitis-and-stds">How do I protect myself and my partner(s) from HIV, Viral Hepatitis, and STDs?</a></span> 
+                          </div></li> 
+                         <li class="views-row views-row-2 views-row-even"> 
+                          <div class="views-field views-field-title"> 
+                           <span class="field-content"><a href="/content/what-national-hiv-testing-day">What is National HIV Testing Day?</a></span> 
+                          </div></li> 
+                         <li class="views-row views-row-3 views-row-odd"> 
+                          <div class="views-field views-field-title"> 
+                           <span class="field-content"><a href="/content/how-do-i-know-if-i-am-risk-get-hiv">How do I know if I am at risk to get HIV?</a></span> 
+                          </div></li> 
+                         <li class="views-row views-row-4 views-row-even"> 
+                          <div class="views-field views-field-title"> 
+                           <span class="field-content"><a href="/content/how-do-hiv-viral-hepatitis-and-stds-relate-each-other">How do HIV, Viral Hepatitis, and STDs relate to each other?</a></span> 
+                          </div></li> 
+                         <li class="views-row views-row-5 views-row-odd views-row-last"> 
+                          <div class="views-field views-field-title"> 
+                           <span class="field-content"><a href="/content/what-puts-me-risk-hiv-viral-hepatitis-and-stds">What puts me at risk for HIV, Viral Hepatitis, and STDs?</a></span> 
+                          </div></li> 
+                        </ul>
+                       </div> 
+                      </div> 
+                      <div class="more-link"> 
+                       <a href="/faq-page"> View all FAQs </a> 
+                      </div> 
+                     </div> 
+                    </div> 
+                   </div> 
+                  </section> 
+                 </div> 
+                </div> 
+                <div class="region region-three-33-second"> 
+                 <div class="region-inner clearfix"> 
+                  <section class="panel-pane pane-views pane-did-you-know block"> 
+                   <div class="block-inner clearfix"> 
+                    <h2 class="pane-title block-title">Did You Know? </h2> 
+                    <div class="block-content"> 
+                     <div class="view view-did-you-know view-id-did_you_know view-display-id-block_1 view-dom-id-ba0ac986cf2c6f66fdd54581d0a0a75f"> 
+                      <div class="view-content"> 
+                       <div class="skin-default"> 
+                        <div id="flexslider_views_slideshow_main_did_you_know-block_1_1" class="flexslider_views_slideshow_main views_slideshow_main">
+                         <div class="flex-nav-container"> 
+                          <div class="flexslider"> 
+                           <ul id="flexslider_views_slideshow_did_you_know-block_1_1" class="flexslider-views-slideshow-main-frame slides"> 
+                            <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-1 views-row-odd"> 
+                             <div class="views-field views-field-body"> 
+                              <div class="field-content">
+                               <p>Hepatitis B virus (HBV) vaccination is recommended for all infants, older children and adolescents who were not vaccinated previously, and adults at risk for HBV infection.</p> 
+                              </div> 
+                             </div> </li> 
+                            <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even"> 
+                             <div class="views-field views-field-body"> 
+                              <div class="field-content">
+                               <p>Hepatitis A vaccination is recommended for all children starting at age 1 year, travelers to certain countries, and others at risk. &nbsp;</p> 
+                              </div> 
+                             </div> </li> 
+                            <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd"> 
+                             <div class="views-field views-field-body"> 
+                              <div class="field-content">
+                               <p>CDC recommends that health care providers test everyone for HIV between the ages of 13 and 64 at least once as part of routine health care. Talk to a healthcare provider about getting tested.</p> 
+                              </div> 
+                             </div> </li> 
+                            <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-even"> 
+                             <div class="views-field views-field-body"> 
+                              <div class="field-content">
+                               <p>HIV is spread through unprotected sex and drug-injecting behaviors, so people who engage in these behaviors should get tested more often.</p> 
+                              </div> 
+                             </div> </li> 
+                            <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-5 views_slideshow_cycle_hidden views-row-odd"> 
+                             <div class="views-field views-field-body"> 
+                              <div class="field-content">
+                               <p>You can arm yourself with basic information about STDs: How are these diseases spread? How can you protect yourself? What are the treatment options?&nbsp;Read these <a href="http://www.cdc.gov/std/HealthComm/fact_sheets.htm">STD Fact Sheets</a> to find out.</p> 
+                              </div> 
+                             </div> </li> 
+                            <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-6 views_slideshow_cycle_hidden views-row-even"> 
+                             <div class="views-field views-field-body"> 
+                              <div class="field-content">
+                               <p>People born from 1945 through 1965 are 5x more likely to have Hepatitis C. While anyone can get Hepatitis C, more than 75% of people with Hepatitis C were born during these years. That’s why CDC recommends that anyone born from 1945 through 1965 get tested for Hepatitis C.</p> 
+                              </div> 
+                             </div> </li> 
+                            <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-7 views_slideshow_cycle_hidden views-row-odd"> 
+                             <div class="views-field views-field-body"> 
+                              <div class="field-content">
+                               <p>Knowing you have Hepatitis C can help you make important decisions about your health. Successful treatments can eliminate the virus from the body and prevent liver damage, cirrhosis, and even liver cancer.&nbsp;</p> 
+                              </div> 
+                             </div> </li> 
+                            <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-8 views_slideshow_cycle_hidden views-row-even"> 
+                             <div class="views-field views-field-body"> 
+                              <div class="field-content">
+                               <p>Getting tested is the only way to know your HIV status. If you are HIV-positive, you can start getting treated, which can improve your health, prolong your life, and greatly lower your chance of spreading HIV to others.</p> 
+                              </div> 
+                             </div> </li> 
+                            <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-9 views_slideshow_cycle_hidden views-row-odd"> 
+                             <div class="views-field views-field-body"> 
+                              <div class="field-content">
+                               <p>Getting HIV tested can give you some important lifesaving information and can help keep you—and others—safe.&nbsp;</p> 
+                              </div> 
+                             </div> </li> 
+                           </ul> 
+                          </div> 
+                         </div>
+                        </div> 
+                        <div class="views-slideshow-controls-bottom clearfix"> 
+                         <div id="widget_pager_bottom_did_you_know-block_1_1" class="views-slideshow-pager-fields widget_pager widget_pager_bottom views_slideshow_pager_field"> 
+                          <div id="views_slideshow_pager_field_item_bottom_did_you_know-block_1_1_0" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-odd views-row-first" aria-controls="views_slideshow_cycle_div_did_you_know-block_1_1_0"> 
+                          </div> 
+                          <div id="views_slideshow_pager_field_item_bottom_did_you_know-block_1_1_1" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-even" aria-controls="views_slideshow_cycle_div_did_you_know-block_1_1_1"> 
+                          </div> 
+                          <div id="views_slideshow_pager_field_item_bottom_did_you_know-block_1_1_2" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-odd" aria-controls="views_slideshow_cycle_div_did_you_know-block_1_1_2"> 
+                          </div> 
+                          <div id="views_slideshow_pager_field_item_bottom_did_you_know-block_1_1_3" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-even" aria-controls="views_slideshow_cycle_div_did_you_know-block_1_1_3"> 
+                          </div> 
+                          <div id="views_slideshow_pager_field_item_bottom_did_you_know-block_1_1_4" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-odd" aria-controls="views_slideshow_cycle_div_did_you_know-block_1_1_4"> 
+                          </div> 
+                          <div id="views_slideshow_pager_field_item_bottom_did_you_know-block_1_1_5" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-even" aria-controls="views_slideshow_cycle_div_did_you_know-block_1_1_5"> 
+                          </div> 
+                          <div id="views_slideshow_pager_field_item_bottom_did_you_know-block_1_1_6" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-odd" aria-controls="views_slideshow_cycle_div_did_you_know-block_1_1_6"> 
+                          </div> 
+                          <div id="views_slideshow_pager_field_item_bottom_did_you_know-block_1_1_7" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-even" aria-controls="views_slideshow_cycle_div_did_you_know-block_1_1_7"> 
+                          </div> 
+                          <div id="views_slideshow_pager_field_item_bottom_did_you_know-block_1_1_8" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-odd views-row-last" aria-controls="views_slideshow_cycle_div_did_you_know-block_1_1_8"> 
+                          </div> 
+                         </div> 
+                        </div> 
+                       </div> 
+                      </div> 
+                     </div> 
+                    </div> 
+                   </div> 
+                  </section> 
+                 </div> 
+                </div> 
+                <div class="region region-three-33-third"> 
+                 <div class="region-inner clearfix"> 
+                  <section class="panel-pane pane-views pane-campaign-links block"> 
+                   <div class="block-inner clearfix"> 
+                    <h2 class="pane-title block-title">Campaigns</h2> 
+                    <div class="block-content"> 
+                     <div class="view view-campaign-links view-id-campaign_links view-display-id-block view-dom-id-8b3d7e4a1815559240168df6140cb4c8"> 
+                      <div class="view-content"> 
+                       <div class="item-list"> 
+                        <ul> 
+                         <li class="views-row views-row-1 views-row-odd views-row-first"> 
+                          <div class="views-field views-field-field-thumbnail"> 
+                           <div class="field-content campaign-links-logo">
+                            <img typeof="foaf:Image" class="image-style-none" src="https://gettested.cdc.gov/sites/default/files/doingit2.png" width="135" height="65" alt="Doing It" title="Doing It">
+                           </div> 
+                          </div> 
+                          <div class="views-field views-field-field-url"> 
+                           <div class="field-content campaign-links-content">
+                            <a href="http://www.cdc.gov/actagainstaids/campaigns/doingit/index.html">Doing It</a>
+                           </div> 
+                          </div> 
+                          <div class="views-field views-field-body"> 
+                           <div class="field-content campaign-links-content">
+                            <p><em>Doing It </em>is a national HIV testing and prevention campaign designed to motivate all adults to get tested for HIV and know their status.</p> 
+                           </div> 
+                          </div></li> 
+                         <li class="views-row views-row-2 views-row-even views-row-last"> 
+                          <div class="views-field views-field-field-thumbnail"> 
+                           <div class="field-content campaign-links-logo">
+                            <img typeof="foaf:Image" class="image-style-none" src="https://gettested.cdc.gov/sites/default/files/kmhLogo_0.png" width="135" height="50" alt="Know More Hepatitis logo" title="Know More Hepatitis logo">
+                           </div> 
+                          </div> 
+                          <div class="views-field views-field-field-url"> 
+                           <div class="field-content campaign-links-content">
+                            <a href="http://www.cdc.gov/knowmorehepatitis/index.htm">Know More Hepatitis</a>
+                           </div> 
+                          </div> 
+                          <div class="views-field views-field-body"> 
+                           <div class="field-content campaign-links-content">
+                            <p>The campaign is aimed at increasing awareness about Hepatitis C and encouraging people born during 1945-1965 to get tested. Testing helps identify people who are infected so that they may be able to get lifesaving care and treatment.&nbsp;</p> 
+                           </div> 
+                          </div></li> 
+                        </ul>
+                       </div> 
+                      </div> 
+                      <div class="more-link"> 
+                       <a href="/campaigns"> View all Campaigns </a> 
+                      </div> 
+                     </div> 
+                    </div> 
+                   </div> 
+                  </section> 
+                 </div> 
+                </div> 
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+          <!-- php print render($page['content_aside']); ?> --> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <!-- tertiary content --> 
+    <div id="footer-wrapper"> 
+     <div class="container clearfix"> 
+      <div class="clearfix" role="contentinfo"> 
+       <!--use footer panels instead of single footer--> 
+       <div id="footer-panels-wrapper"> 
+        <div class="container clearfix"> 
+         <!-- Two column Gpanel --> 
+         <div class="at-panel gpanel panel-display two-brick clearfix"> 
+          <div class="panel-row row-1 clearfix"> 
+           <!-- back to top--> 
+           <a href="#" class="footer-top-button">Scroll to Top</a> 
+           <div class="region region-footer-first">
+            <div class="region-inner clearfix">
+             <div id="block-menu-menu-footer-links" class="block block-menu no-title odd first last block-count-5 block-region-footer-first block-menu-footer-links" role="navigation">
+              <div class="block-inner clearfix"> 
+               <div class="block-content content">
+                <ul class="menu clearfix">
+                 <li class="first leaf menu-depth-1 menu-item-1130"><a href="/content/policies-disclaimers" title="">Policies &amp; Disclaimers</a></li>
+                 <li class="leaf menu-depth-1 menu-item-1026"><a href="/content/about-us" title="">About Us</a></li>
+                 <li class="leaf menu-depth-1 menu-item-1028"><a href="/content/more-resources" title="">More Resources</a></li>
+                 <li class="last leaf menu-depth-1 menu-item-1030"><a href="/content/contact-us" title="">Contact Us</a></li>
+                </ul>
+               </div> 
+              </div>
+             </div>
+            </div>
+           </div> 
+           <div class="region region-footer-second">
+            <div class="region-inner clearfix">
+             <div id="block-boxes-logos" class="block block-boxes block-boxes-simple no-title odd first last block-count-6 block-region-footer-second block-logos">
+              <div class="block-inner clearfix"> 
+               <div class="block-content content">
+                <div id="boxes-box-logos" class="boxes-box">
+                 <div class="boxes-box-content">
+                  <ul>
+                   <li><a href="http://www.cdc.gov/nchhstp"><img alt="CDC Logo" src="/sites/all/themes/gettested/images/logoCDC.png"></a></li> 
+                   <li><a href="http://npin.cdc.gov"><img alt="NPIN Logo" src="/sites/all/themes/gettested/images/logoNPIN.png"></a></li> 
+                   <li><a href="http://www.hiv.gov/"><img alt="HIV.gov Logo" src="/sites/all/themes/gettested/images/logoHivgov.gif"></a></li> 
+                  </ul>
+                 </div>
+                </div>
+               </div> 
+              </div>
+             </div>
+            </div>
+           </div> 
+          </div> 
+          <div class="panel-row row-2 clearfix"> 
+          </div> 
+          <footer id="footer" class="cdcSlimFooterAlt"> 
+           <div class="container"> 
+            <div class="cdcLinks"> 
+             <div class="container"> 
+              <ul> 
+               <li> 
+                <nav> 
+                 <ul> 
+                  <li><a href="http://www.cdc.gov/about/default.htm">About CDC</a></li> 
+                  <li><a href="http://www.cdc.gov/Other/privacy.html">Privacy</a></li> 
+                  <li><a href="http://www.cdc.gov/od/foia/">FOIA</a></li> 
+                 </ul> 
+                </nav> </li> 
+              </ul> 
+             </div> 
+            </div> 
+            <div class="cdcContact"> 
+             <div class="container"> 
+              <ul> 
+               <li class="contact"> 
+                <section> 
+                 <address class="address" itemscope itemtype="http://www.schema.org/Organization"> <span class="value" itemprop="contactPoint" itemscope itemtype="http://www.schema.org/ContactPoint"> <span itemprop="url"><a href="http://www.hhs.gov/" class="no-link">U.S. Department of Health &amp; Human Services</a></span></span><br> <span class="value" itemprop="contactPoint" itemscope itemtype="http://www.schema.org/ContactPoint"> <span itemprop="url"><a href="http://www.hhs.gov/open/" class="no-link">HHS/Open</a></span></span><br> <span class="value" itemprop="contactPoint" itemscope itemtype="http://www.schema.org/ContactPoint"> <span itemprop="url"><a href="http://www.usa.gov/" class="no-link">USA.gov</a></span> </span> </address> 
+                </section> </li> 
+              </ul> 
+             </div> 
+            </div> 
+           </div> 
+          </footer> 
+          <!--div class="panel-row row-3 clearfix"--> 
+          <!--?php print render($page['footer_fourth']); ?--> 
+          <!--?php print render($page['footer_fifth']); ?--> 
+          <!--/div--> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="/sites/all/themes/gettested/scripts/CDC-socialmenu.js"></script> 
+  <!-- Begin Survey scripts --> 
+  <script src="//www2a.cdc.gov/JScript/foresee/foresee-trigger.js"></script> 
+  <script src="//www2a.cdc.gov/JScript/foresee-variables.js"></script> 
+  <script src="/sites/all/themes/gettested/scripts/gettested.foresee-variables.js"></script> 
+  <!-- End Survey scripts --> 
+  <!-- Begin Google DAP inclusion --> 
+  <script type="text/javascript" id="_fed_an_ua_tag" src="//www2a.cdc.gov/JScript/metrics/google/Universal-Federated-Analytics-Min.2.0.js?agency=HHS&amp;subagency=CDC"></script> 
+  <!-- End Google DAP inclusion --> 
+  <!-- SiteCatalyst code version: H.21. --> 
+  <script src="//www2a.cdc.gov/JScript/metrics/topic_levels.js"></script> 
+  <script src="//www2a.cdc.gov/JScript/metrics/s_code_v21_cdcpartners.js"></script> 
+  <script src="/sites/all/themes/gettested/scripts/gettested.metrics.js"></script> 
+  <script type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-');
+//--></script>
+  <noscript>
+   <a href="http://www.omniture.com"><img src="https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/0" height="1" width="1" alt="Web Analytics"></a>
+  </noscript>
+  <!--/DO NOT REMOVE/--> 
+  <!-- End SiteCatalyst code version: H.21. -->   
+ </body>
+</html>

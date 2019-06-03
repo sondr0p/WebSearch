@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="en">
+ <head> 
+  <script type="text/javascript" src="scripts/reportbug.js"></script> 
+  <link href="css/styles.css" rel="stylesheet" type="text/css"> 
+  <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements --> 
+  <!--[if lt IE 9]>
+        <script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]--> 
+  <!--[if IE 7]>
+    <link rel="stylesheet" type="text/css" href="css/ie7.css">
+    <![endif]--> 
+  <link href="css/appstyles.css" rel="stylesheet" type="text/css"> 
+  <link href="https://fonts.googleapis.com/css?family=Oxygen:400,700" rel="stylesheet" type="text/css"> 
+  <title>Mississippi Department of Agriculture and Commerce - Fees and Fines</title> 
+  <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-52095584-2']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+</script> 
+ </head> 
+ <body> 
+  <div id="divReportBug" style="position: absolute; top: 16%; left: 6%;"> 
+   <img src="images/reportIssue_bttn.png" id="Button_ReportBug" onclick="javascript: reportBug();" alt="Report Bug"> 
+   <script type="text/javascript">
+            hideBugTool();
+        </script> 
+  </div> 
+  <form method="post" action="./" onsubmit="javascript:return WebForm_OnSubmit();" id="Form1"> 
+   <div class="aspNetHidden"> 
+    <input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value=""> 
+    <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value=""> 
+    <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value=""> 
+    <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="ie4Ru1rtXLuoUCJH8WdidietGlxZeHdUmrmq5+j7kJMGdd6kQG58Rr/hAn5LWZXPVmBRg/oswTVzeQn7ibUEoKTQnDw="> 
+   </div> 
+   <script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['Form1'];
+if (!theForm) {
+    theForm = document.Form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script> 
+   <script src="/mdac/fees_fines/WebResource.axd?d=zQoiTf-a8dSjZDmxKIl0UM41B5v0EM7-DrQgBMD5yZmynAAXItYgQNGgEx03DCllzJomGJ3lqzngFeeHhOyO7_qFb541&amp;t=636765211280000000" type="text/javascript"></script> 
+   <script src="/mdac/fees_fines/WebResource.axd?d=Q0ojaa8C-2NN0HD9sIGoFo0vOddQlPd_kUVBN5qUgygBP4gE9Ck-29KkUUOTTU-7hRJIVZ0jJMDuIHgkzxcdMToYOys1&amp;t=636765211280000000" type="text/javascript"></script> 
+   <script src="/mdac/fees_fines/WebResource.axd?d=Z06QPT5jRcDBN2KVt222avkyh5jxrQhhtSwUSqXJD41fceIGaJsLctB5Hk4R4ZWaJPzhr53X0QMAuNqMBG37zZ17wvE1&amp;t=636765211280000000" type="text/javascript"></script> 
+   <script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script> 
+   <div class="aspNetHidden"> 
+    <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5D499F53"> 
+    <input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value=""> 
+   </div> 
+   <div id="global"> 
+   </div> 
+   <div id="wrapper"> 
+    <header> 
+    </header> 
+    <section> 
+     <div id="appTitle">
+       Online Fee and Fine Payments 
+     </div> 
+     <div class="pageContent"> 
+      <aside> 
+       <h3> NAVIGATE</h3> 
+       <ul> 
+        <li><a href="http://www.mdac.state.ms.us/">MDAC Website</a></li> 
+        <li><a href="default.aspx">Home</a></li> 
+        <li><a href="contact.aspx">Contact Us</a></li> 
+       </ul> 
+       <div class="clear height25"> 
+       </div> 
+      </aside> 
+      <article> 
+       <div class="mainImage"> 
+        <img src="images/home-pic.jpg" width="680" height="279">
+       </div> 
+       <div class="form"> 
+        <p> The following payment methods are accepted for online fee and fine payments: Visa, MasterCard, American Express, Discover, E-check. The total price of items or services purchased through this application includes funds used to develop, maintain, enhance and expand the service offerings of the state's eGovernment program. The base amount will be remitted back to the Department of Agriculture and Commerce for your fee/fine payment. </p> 
+        <br> 
+        <p> To pay your Mississippi Department of Agriculture and Commerce fee or fine, please enter your invoice number provided by the Department. </p> 
+        <br> 
+        <div id="ValidationSummary1" class="alert alert-error" style="display:none;"> 
+        </div> 
+        <br> 
+        <div class="field"> 
+         <label>Invoice Number:*</label> 
+         <br> 
+         <input name="txtInvoiceNumber" type="text" id="txtInvoiceNumber"> 
+         <span id="RequiredFieldValidator14" style="color:Red;visibility:hidden;">*</span> 
+         <span id="RegularExpressionValidator2" style="color:Red;visibility:hidden;">*</span> 
+        </div> 
+        <br> 
+        <br> 
+        <br> 
+        <br> 
+        <br> 
+        <br> 
+        <hr> 
+        <input type="submit" name="btnContinue" value="CONTINUE >>" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;btnContinue&quot;, &quot;&quot;, true, &quot;gp1&quot;, &quot;&quot;, false, false))" id="btnContinue" class="button01 button"> 
+       </div> 
+      </article> 
+     </div> 
+     <footer> 
+      <div class="footerLinks"> 
+       <ul> 
+        <li><a href="http://www.mdac.state.ms.us/">Mississippi Department of Agriculture and Commerce</a></li> 
+        <li><a href="default.aspx">Home</a></li> 
+        <li><a href="http://www.transparency.ms.gov/">Transparency Mississippi</a></li> 
+       </ul> 
+      </div> 
+      <div class="footerLogo"> 
+       <a href="http://www.ms.gov"> <img src="images/msGov.png" width="138" height="62" alt="ms.gov" target="_blank"></a> 
+      </div> 
+     </footer> 
+    </section> 
+   </div> 
+   <script type="text/javascript">
+//<![CDATA[
+var Page_ValidationSummaries =  new Array(document.getElementById("ValidationSummary1"));
+var Page_Validators =  new Array(document.getElementById("RequiredFieldValidator14"), document.getElementById("RegularExpressionValidator2"));
+//]]>
+</script> 
+   <script type="text/javascript">
+//<![CDATA[
+var ValidationSummary1 = document.all ? document.all["ValidationSummary1"] : document.getElementById("ValidationSummary1");
+ValidationSummary1.validationGroup = "gp1";
+var RequiredFieldValidator14 = document.all ? document.all["RequiredFieldValidator14"] : document.getElementById("RequiredFieldValidator14");
+RequiredFieldValidator14.controltovalidate = "txtInvoiceNumber";
+RequiredFieldValidator14.focusOnError = "t";
+RequiredFieldValidator14.errormessage = "No Invoice Number Specified";
+RequiredFieldValidator14.validationGroup = "gp1";
+RequiredFieldValidator14.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+RequiredFieldValidator14.initialvalue = "";
+var RegularExpressionValidator2 = document.all ? document.all["RegularExpressionValidator2"] : document.getElementById("RegularExpressionValidator2");
+RegularExpressionValidator2.controltovalidate = "txtInvoiceNumber";
+RegularExpressionValidator2.errormessage = "Invoice Number Required";
+RegularExpressionValidator2.validationGroup = "gp1";
+RegularExpressionValidator2.evaluationfunction = "RegularExpressionValidatorEvaluateIsValid";
+RegularExpressionValidator2.validationexpression = "^[\\s\\w_-]+$";
+//]]>
+</script> 
+   <script type="text/javascript">
+//<![CDATA[
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        WebForm_AutoFocus('txtInvoiceNumber');//]]>
+</script> 
+  </form>   
+ </body>
+</html>

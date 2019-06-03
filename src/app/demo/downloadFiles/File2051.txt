@@ -1,0 +1,524 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+	Talk with Your Doctor about Depression - healthfinder.gov
+</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+  <meta name="keywords" content="mental health, suicide, suicide prevention">
+  <meta name="description" content="Depression is a serious illness. Share this resource to help people talk with a doctor about how they are feeling.">
+  <link rel="canonical" href="https://healthfinder.gov:443/HealthTopics/Dispatch.aspx?q1=doctor-visits&amp;q2=screening-tests&amp;q3=talk-with-your-doctor-about-depression">
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+  <meta name="verify-v1" content="SGDyDYxOiYbFQAhohrwKuaxwOiCVv2eZij6NzZ678Cg=">
+  <meta name="y_key" content="e1fae57e8f96398e">
+  <link href="/css/reset.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/styles.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/styles-esp.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/font-awesome.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/flexslider.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/jquery.tweet.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/colorbox/colorbox.css" rel="stylesheet" media="all">
+  <link href="/css/redmond/jquery-ui-1.8.20.custom.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/jquery.dataTables.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/jquery.dataTables_themeroller.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/quickguide.css" rel="stylesheet" media="all">
+  <link href="/css/myhealthfinder.css" rel="stylesheet" media="all">
+  <link href="/css/ecards.css" rel="stylesheet" media="all">
+  <link href="/css/quiz.css" rel="stylesheet" media="all">
+  <link href="/css/surveys.css" rel="stylesheet" media="screen">
+  <link href="/css/odphp-global-nav.css" rel="stylesheet" media="all"> 
+  <!--[if (gte IE 6)&(lte IE 8)]>
+        <script type="text/javascript" src="/js/selectivizr-min.js"></script>
+    <![endif]--> 
+  <!--[if IE 7]>
+        <link rel="stylesheet" type="text/css" media="all" href="/css/ie7.css" /><link rel="stylesheet" type="text/css" media="all" href="/css/font-awesome-ie7.css" />
+        <![endif]--> 
+  <!--[if IE 8]><link rel="stylesheet" type="text/css" media="all" href="/css/ie8.css" /><![endif]--> 
+  <link type="text/css" rel="stylesheet" href="/css/search-suggest.css">
+  <link type="text/css" rel="stylesheet" href="/css/print.css" media="print"> 
+ </head> 
+ <body id="body" class="english"> 
+  <!-- Google Tag Manager --> 
+  <noscript>
+   <iframe src="//www.googletagmanager.com/ns.html?id=GTM-5TG7CH&amp;NoJavascriptType=web&amp;NoJavascriptCID=60dcb31f-7035-517e-b530-fa39f12f245d&amp;NoJavascriptURL=https%3a%2f%2fhealthfinder.gov%2fHealthTopics%2fCategory%2fdoctor-visits%2fscreening-tests%2ftalk-with-your-doctor-about-depression&amp;NoJavascriptLang=en-US&amp;NoJavascriptReferrer=&amp;NoJavascriptTitle=" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript> 
+  <script>(function (w, d, s, l, i) {
+w[l] = w[l] || []; w[l].push({
+'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'AnalyticsLogicLayer', 'GTM-5TG7CH');</script> 
+  <!-- End Google Tag Manager --> 
+  <div id="HideIfWidget1"> 
+   <div class="global-nav"> 
+    <div class="global-nav-odphp">
+     <span>Office of Disease Prevention and Health Promotion</span>
+    </div> 
+    <ul> 
+     <li><a href="https://health.gov/" class="global-nav-healthgov">health.gov</a></li> 
+     <li><a href="https://healthfinder.gov/" class="global-nav-healthfinder global-nav-current">healthfinder.gov</a></li> 
+     <li><a href="https://healthypeople.gov/" class="global-nav-healthypeople">healthypeople.gov</a></li> 
+    </ul> 
+   </div> 
+   <img class="print-logo" src="/images/footer-hf-logo.png" alt="Department of Health and Human Services"> 
+  </div> 
+  <div id="page"> 
+   <div id="HideIfWidget2"> 
+    <a href="https://www.hhs.gov/" class="parent-banner">U.S. Department of Health and Human Services</a> 
+    <div id="header" class="clearfix" role="banner"> 
+     <div id="skip"> 
+      <a class="skipnav" href="#skipnav" tabindex="1">Skip to Content</a> 
+     </div> 
+     <div id="espanol">
+      <a href="/espanol">En español</a>
+     </div> 
+     <div id="mobile-menu-trigger" class="mobile-hide"> 
+      <h2>Menu</h2> 
+     </div> 
+     <div id="logo"> 
+      <a href="/"> <img src="/images/logo.png" alt="healthfinder.gov"> </a> 
+     </div> 
+     <div id="search-box" role="search"> 
+      <form action="/search" method="get"> 
+       <label for="searchText">Search healthfinder.gov:</label> 
+       <input id="searchText" aria-autocomplete="both" aria-haspopup="true" autocomplete="off" class="search_text" type="search" name="q"> 
+       <span class="query-suggestions-wrap"> <span id="query_suggestions" class="query-suggestions" aria-live="off"></span> </span> 
+       <span id="query_status" class="query-status" aria-live="polite"></span> 
+       <input id="searchButton" class="search_button" value="Go" type="submit"> 
+      </form> 
+     </div> 
+     <!-- /#search-box --> 
+     <div class="clear"></div> 
+    </div> 
+   </div> 
+   <div id="content" class="clearfix"> 
+    <div id="HideIfWidget3"> 
+     <div class="main_menu"> 
+      <div id="engMenu1_mainMenu" role="navigation">
+       <ul class="menu menu-hide"> 
+        <li data-path="/healthtopics/topic.aspx"> <a href="/Default.aspx">Home</a> </li> 
+        <li data-path="/healthtopics/topic.aspx" class="active"> <a href="/HealthTopics/">Health Topics A to Z</a> </li> 
+        <li data-path="/healthtopics/topic.aspx"> <a href="/myhealthfinder/">myhealthfinder</a> </li> 
+        <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/">Free Web Content</a> 
+         <ul> 
+          <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/HealthTopics/">Health and Wellness Topics</a> </li> 
+          <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/PreventiveServices/">myhealthfinder: Preventive Services Recommendations</a> </li> 
+          <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/Videos/">Videos</a> </li> 
+          <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/HealthWidgets/">Health Widgets and Badges</a> </li> 
+          <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/Developer/">APIs for Developers</a> </li> 
+         </ul> </li> 
+        <li data-path="/healthtopics/topic.aspx"> <a href="/FindServices/">Find Services Near&nbsp;You</a> </li> 
+        <li data-path="/healthtopics/topic.aspx"> <a href="/NHO/">National Health Observances</a> </li> 
+        <li class="mobile-hide espanol" data-path="/healthtopics/topic.aspx"> <a href="/espanol">En español</a> </li> 
+       </ul>
+      </div> 
+      <div class="connect clearfix"> 
+       <p class="connect-text">Find us on:</p> 
+       <a class="facebook connect-button" href="https://www.facebook.com/healthfinder" title="Facebook"> <img src="/images/icon-fb.png" alt="Facebook icon"></a> 
+       <a class="twitter connect-button" href="https://www.twitter.com/healthfinder" title="Twitter"> <img src="/images/icon-twitter.png" alt="Twitter icon"></a> 
+       <!-- <a class="rss connect-button" href="/News/rss.asp" title="RSS">
+        <img src="/images/icon-rss.png" alt="RSS icon" /></a> --> 
+       <div class="email-updates-container"> 
+        <a id="email-updates" href="https://public.govdelivery.com/accounts/USOPHSODPHPHF/subscriber/new?topic_id=USOPHSODPHPHF_1" target="_blank">Get Email Updates</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="main_content" role="main"> 
+     <div id="HideIfWidget4"> 
+      <div id="breadcrumb"> 
+       <span id="engBreadcrumbs1_SiteMapPath1"><span><a href="/Default.aspx">Home</a></span><span> &gt; </span><span><a href="/HealthTopics/Default.aspx">Health Topics A to Z</a></span><span> &gt; </span><span><a href="/HealthTopics/Category/doctor-visits">Doctor Visits</a></span><span> &gt; </span><span><a href="/HealthTopics/Category/doctor-visits/screening-tests">Screening Tests</a></span><span> &gt; </span><span>Talk with Your Doctor about Depression</span></span> 
+      </div> 
+      <div id="engBreadcrumbs1_addThisPanel"> 
+       <div id="addThisCode" class="clearfix"> 
+        <!-- AddToAny BEGIN --> 
+        <div class="a2a_kit a2a_kit_size_32 a2a_default_style"> 
+         <a class="a2a_dd" href="https://www.addtoany.com/share"></a> 
+         <a class="a2a_button_facebook"></a> 
+         <a class="a2a_button_twitter"></a> 
+        </div> 
+        <script>
+      var a2a_config = a2a_config || {};
+      a2a_config.onclick = 1;
+      </script> 
+        <script async src="https://static.addtoany.com/menu/page.js"></script> 
+        <!-- AddToAny END --> 
+       </div> 
+      </div> 
+      <span id="skipnav"></span> 
+     </div> 
+     <form method="post" action="../../../Topic.aspx?id=33&amp;type=topic&amp;noredirect=1&amp;category=13" id="MainForm"> 
+      <div class="aspNetHidden"> 
+       <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzIwMTkxNzIzD2QWAmYPZBYEAgEPZBYGAgIPFgIeBFRleHQFTTxtZXRhIG5hbWU9ImtleXdvcmRzIiBjb250ZW50PSJtZW50YWwgaGVhbHRoLCBzdWljaWRlLCBzdWljaWRlIHByZXZlbnRpb24iIC8+ZAIDDxYCHwAFmAE8bWV0YSBuYW1lPSJkZXNjcmlwdGlvbiIgY29udGVudD0iRGVwcmVzc2lvbiBpcyBhIHNlcmlvdXMgaWxsbmVzcy4gU2hhcmUgdGhpcyByZXNvdXJjZSB0byBoZWxwIHBlb3BsZSB0YWxrIHdpdGggYSBkb2N0b3IgYWJvdXQgaG93IHRoZXkgYXJlIGZlZWxpbmcuIiAvPmQCBg8WAh8ABaUBPGxpbmsgcmVsPSdjYW5vbmljYWwnIGhyZWY9J2h0dHBzOi8vaGVhbHRoZmluZGVyLmdvdjo0NDMvSGVhbHRoVG9waWNzL0Rpc3BhdGNoLmFzcHg/cTE9ZG9jdG9yLXZpc2l0cyZxMj1zY3JlZW5pbmctdGVzdHMmcTM9dGFsay13aXRoLXlvdXItZG9jdG9yLWFib3V0LWRlcHJlc3Npb24nIC8+ZAIDDxYCHgVjbGFzcwUHZW5nbGlzaBYKAgEPZBYCAgUPDxYCHgdWaXNpYmxlaGRkAgIPZBYEAgEPZBYCZg8WAh4JaW5uZXJodG1sBecLPHVsIGNsYXNzPSJtZW51IG1lbnUtaGlkZSI+DQogIDxsaSBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgPGEgaHJlZj0iL0RlZmF1bHQuYXNweCI+SG9tZTwvYT4NCiAgPC9saT4NCiAgPGxpIGRhdGEtcGF0aD0iL2hlYWx0aHRvcGljcy90b3BpYy5hc3B4IiBjbGFzcz0iYWN0aXZlIj4NCiAgICA8YSBocmVmPSIvSGVhbHRoVG9waWNzLyI+SGVhbHRoIFRvcGljcyBBIHRvIFo8L2E+DQogIDwvbGk+DQogIDxsaSBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgPGEgaHJlZj0iL215aGVhbHRoZmluZGVyLyI+bXloZWFsdGhmaW5kZXI8L2E+DQogIDwvbGk+DQogIDxsaSBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgPGEgaHJlZj0iL0ZyZWVDb250ZW50LyI+RnJlZSBXZWIgQ29udGVudDwvYT4NCiAgICA8dWw+DQogICAgICA8bGkgZGF0YS1wYXRoPSIvaGVhbHRodG9waWNzL3RvcGljLmFzcHgiPg0KICAgICAgICA8YSBocmVmPSIvRnJlZUNvbnRlbnQvSGVhbHRoVG9waWNzLyI+SGVhbHRoIGFuZCBXZWxsbmVzcyBUb3BpY3M8L2E+DQogICAgICA8L2xpPg0KICAgICAgPGxpIGRhdGEtcGF0aD0iL2hlYWx0aHRvcGljcy90b3BpYy5hc3B4Ij4NCiAgICAgICAgPGEgaHJlZj0iL0ZyZWVDb250ZW50L1ByZXZlbnRpdmVTZXJ2aWNlcy8iPm15aGVhbHRoZmluZGVyOiBQcmV2ZW50aXZlIFNlcnZpY2VzIFJlY29tbWVuZGF0aW9uczwvYT4NCiAgICAgIDwvbGk+DQogICAgICA8bGkgZGF0YS1wYXRoPSIvaGVhbHRodG9waWNzL3RvcGljLmFzcHgiPg0KICAgICAgICA8YSBocmVmPSIvRnJlZUNvbnRlbnQvVmlkZW9zLyI+VmlkZW9zPC9hPg0KICAgICAgPC9saT4NCiAgICAgIDxsaSBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgICAgIDxhIGhyZWY9Ii9GcmVlQ29udGVudC9IZWFsdGhXaWRnZXRzLyI+SGVhbHRoIFdpZGdldHMgYW5kIEJhZGdlczwvYT4NCiAgICAgIDwvbGk+DQogICAgICA8bGkgZGF0YS1wYXRoPSIvaGVhbHRodG9waWNzL3RvcGljLmFzcHgiPg0KICAgICAgICA8YSBocmVmPSIvRnJlZUNvbnRlbnQvRGV2ZWxvcGVyLyI+QVBJcyBmb3IgRGV2ZWxvcGVyczwvYT4NCiAgICAgIDwvbGk+DQogICAgPC91bD4NCiAgPC9saT4NCiAgPGxpIGRhdGEtcGF0aD0iL2hlYWx0aHRvcGljcy90b3BpYy5hc3B4Ij4NCiAgICA8YSBocmVmPSIvRmluZFNlcnZpY2VzLyI+RmluZCBTZXJ2aWNlcyBOZWFywqBZb3U8L2E+DQogIDwvbGk+DQogIDxsaSBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgPGEgaHJlZj0iL05ITy8iPk5hdGlvbmFsIEhlYWx0aCBPYnNlcnZhbmNlczwvYT4NCiAgPC9saT4NCiAgPGxpIGNsYXNzPSJtb2JpbGUtaGlkZSBlc3Bhbm9sIiBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgPGEgaHJlZj0iL2VzcGFub2wiPkVuIGVzcGHDsW9sPC9hPg0KICA8L2xpPg0KPC91bD5kAgMPDxYCHwJoZGQCAw9kFgICAw8PFgIfAmhkZAIFD2QWAmYPZBYOAgEPZBYCAgEPDxYEHgtOYXZpZ2F0ZVVybAVrL2VzcGFub2wvdGVtYXMvQ2F0ZWdvcnkvY29uc3VsdGFzLWNvbi1lbC1kb2N0b3IvcHJ1ZWJhcy1kZS1kZXRlY2Npb24vaGFibGEtY29uLWVsLWRvY3Rvci1zb2JyZS1sYS1kZXByZXNpb24fAmdkZAIDDxYCHwAFJlRhbGsgd2l0aCBZb3VyIERvY3RvciBhYm91dCBEZXByZXNzaW9uZAIHDw8WAh4ISW1hZ2VVcmwFQS9IZWFsdGhUb3BpY3MvZ2xtZWRpYS9pY29ucy90YWxrd2l0aHlvdXJkb2N0b3JhYm91dGRlcHJlc3Npb24uanBnFgIeA2FsdGVkAgkPZBYCZg8WAh4LXyFJdGVtQ291bnQCAhYEZg9kFgRmDxUBClRoZSBCYXNpY3NkAgEPFgIfBwIDFgZmD2QWAmYPFQMKdGhlLWJhc2ljcwExCE92ZXJ2aWV3ZAIBD2QWAmYPFQMKdGhlLWJhc2ljcwEyE1NpZ25zIG9mIERlcHJlc3Npb25kAgIPZBYCZg8VAwp0aGUtYmFzaWNzATMJVHJlYXRtZW50ZAIBD2QWBGYPFQEMVGFrZSBBY3Rpb24hZAIBDxYCHwcCAxYGZg9kFgJmDxUDC3Rha2UtYWN0aW9uATEMU2VlIGEgRG9jdG9yZAIBD2QWAmYPFQMLdGFrZS1hY3Rpb24BMg1HZXQgVHJlYXRtZW50ZAICD2QWAmYPFQMLdGFrZS1hY3Rpb24BMxZTdXBwb3J0IGZvciBEZXByZXNzaW9uZAILDxYCHwcCAhYEZg9kFgRmDxUCCnRoZS1iYXNpY3MKVGhlIEJhc2ljc2QCAQ8WAh8HAgMWBmYPZBYEZg8VBAMxNTIKVGhlIEJhc2ljcwhPdmVydmlld9kFPHA+SWYgeW91IHRoaW5rIHlvdSBtaWdodCBiZSBkZXByZXNzZWQsIHRhbGsgd2l0aCBhIGRvY3RvciBhYm91dCBob3cgeW91IGFyZSBmZWVsaW5nLjwvcD48cD48c3Ryb25nPldoYXQgaXMgZGVwcmVzc2lvbj88L3N0cm9uZz48YnIgLz5EZXByZXNzaW9uIGlzIGFuIGlsbG5lc3MgdGhhdCBpbnZvbHZlcyB0aGUgYnJhaW4uIEl0IGNhbiBhZmZlY3QgeW91ciB0aG91Z2h0cywgbW9vZCwgYW5kIGRhaWx5IGFjdGl2aXRpZXMuIERlcHJlc3Npb24gaXMgbW9yZSB0aGFuIGZlZWxpbmcgc2FkIGZvciBhIGZldyBkYXlzLjwvcD48cD5EZXByZXNzaW9uIGNhbiBiZSBtaWxkIG9yIHNldmVyZS4gTWlsZCBkZXByZXNzaW9uIGNhbiBiZWNvbWUgbW9yZSBzZXJpb3VzIGlmIGl0JnJzcXVvO3Mgbm90IHRyZWF0ZWQuPC9wPjxwPklmIHlvdSBhcmUgZGlhZ25vc2VkIHdpdGggZGVwcmVzc2lvbiwgeW91IGFyZW4mcnNxdW87dCBhbG9uZS4gRGVwcmVzc2lvbiBpcyBhIGNvbW1vbiBpbGxuZXNzIHRoYXQgYWZmZWN0cyBtaWxsaW9ucyBvZiBhZHVsdHMgaW4gdGhlIFVuaXRlZCZuYnNwO1N0YXRlcyZuYnNwO2V2ZXJ5IHllYXIuPC9wPjxwPlRoZSBnb29kIG5ld3MgaXMgdGhhdCBkZXByZXNzaW9uIGNhbiBiZSB0cmVhdGVkLiBHZXR0aW5nIGhlbHAgaXMgdGhlIGJlc3QgdGhpbmcgeW91IGNhbiBkbyBmb3IgeW91cnNlbGYgYW5kIHlvdXIgbG92ZWQgb25lcy4gWW91IGNhbiBmZWVsIGJldHRlci48L3A+ZAIBD2QWBgIBDw8WAh8CZ2RkAgMPDxYEHwAFE1NpZ25zIG9mIERlcHJlc3Npb24fAmcWAh4EaHJlZgUNI3RoZS1iYXNpY3NfMmQCCQ8PFgIfAAUPMSBvZiA2IHNlY3Rpb25zZGQCAQ9kFgRmDxUEAzE1MwpUaGUgQmFzaWNzE1NpZ25zIG9mIERlcHJlc3Npb27pBTxwPjxzdHJvbmc+V2hhdCBhcmUgdGhlIHNpZ25zIG9mIGRlcHJlc3Npb24/PC9zdHJvbmc+PGJyIC8+SXQmcnNxdW87cyBub3JtYWwgdG8gZmVlbCBzYWQgc29tZXRpbWVzLCBidXQgaWYgeW91IGZlZWwgc2FkIG9yICZsZHF1bztkb3duJnJkcXVvOyBvbiBtb3N0IGRheXMgZm9yIG1vcmUgdGhhbiAyIHdlZWtzIGF0IGEgdGltZSwgeW91IG1heSBiZSBkZXByZXNzZWQuPC9wPjxwPkRlcHJlc3Npb24gYWZmZWN0cyBwZW9wbGUgZGlmZmVyZW50bHkuIFNvbWUgc2lnbnMgb2YgZGVwcmVzc2lvbiBhcmU6PC9wPjx1bD48bGk+TG9zaW5nIGludGVyZXN0IGluIGFjdGl2aXRpZXMgeW91IHVzZWQgdG8gZW5qb3k8L2xpPjxsaT5GZWVsaW5nIGhvcGVsZXNzIG9yIGVtcHR5PC9saT48bGk+Rm9yZ2V0dGluZyB0aGluZ3Mgb3IgaGF2aW5nIHRyb3VibGUgbWFraW5nIGRlY2lzaW9uczwvbGk+PGxpPlNsZWVwaW5nIHRvbyBtdWNoIG9yIHRvbyBsaXR0bGU8L2xpPjxsaT5HYWluaW5nIG9yIGxvc2luZyB3ZWlnaHQgd2l0aG91dCBtZWFuaW5nIHRvPC9saT48bGk+VGhpbmtpbmcgYWJvdXQgc3VpY2lkZSBvciBkZWF0aDwvbGk+PC91bD48cD5UbyBsZWFybiBtb3JlLCB0YWtlIHRoaXMgPGEgaHJlZj0iaHR0cHM6Ly93d3cubXloZWFsdGgudmEuZ292L21odi1wb3J0YWwtd2ViL3dlYi9teWhlYWx0aGV2ZXQvZGVwcmVzc2lvbi1zY3JlZW5pbmciPnF1aXogdG8gc2VlIGlmIHlvdSBtaWdodCBiZSBkZXByZXNzZWQ8L2E+LjwvcD5kAgEPZBYKAgEPDxYCHwJnZGQCAw8PFgQfAAUJVHJlYXRtZW50HwJnFgIfCAUNI3RoZS1iYXNpY3NfM2QCBQ8PFgIfAmdkZAIHDw8WBB8ABQhPdmVydmlldx8CZxYCHwgFDSN0aGUtYmFzaWNzXzFkAgkPDxYCHwAFDzIgb2YgNiBzZWN0aW9uc2RkAgIPZBYEZg8VBAM0MTQKVGhlIEJhc2ljcwlUcmVhdG1lbnTABzxwPjxzdHJvbmc+SG93IGlzIGRlcHJlc3Npb24gdHJlYXRlZD88L3N0cm9uZz48YnIgLz5EZXByZXNzaW9uIGNhbiBiZSB0cmVhdGVkIHdpdGggdGFsayB0aGVyYXB5LCBtZWRpY2luZXMgKGNhbGxlZCBhbnRpZGVwcmVzc2FudHMpLCBvciBib3RoLiBZb3VyIGRvY3RvciBtYXkgcmVmZXIgeW91IHRvIGEgbWVudGFsIGhlYWx0aCBwcm9mZXNzaW9uYWwmbmJzcDtmb3IgdGFsayB0aGVyYXB5IG9yIG1lZGljaW5lLjwvcD48cD5DaGVjayBvdXQgdGhlc2Ugd2Vic2l0ZXMgdG8gbGVhcm4gbW9yZSBhYm91dCBkZXByZXNzaW9uOjwvcD48dWw+PGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cubmltaC5uaWguZ292L2hlYWx0aC9wdWJsaWNhdGlvbnMvZGVwcmVzc2lvbi1lYXN5LXRvLXJlYWQvaW50cm9kdWN0aW9uLnNodG1sIiB0YXJnZXQ9Il9ibGFuayI+R2VuZXJhbCBpbmZvcm1hdGlvbiBhYm91dCBkZXByZXNzaW9uPC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3Lm5pYS5uaWguZ292L2hlYWx0aC9kZXByZXNzaW9uLWFuZC1vbGRlci1hZHVsdHMiIHRhcmdldD0iX2JsYW5rIj5JbmZvcm1hdGlvbiBmb3Igb2xkZXIgYWR1bHRzPC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cud29tZW5zaGVhbHRoLmdvdi9tZW50YWwtaGVhbHRoL2lsbG5lc3Nlcy9kZXByZXNzaW9uLmh0bWwiIHRhcmdldD0iX2JsYW5rIj5JbmZvcm1hdGlvbiBmb3Igd29tZW48L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cuY2RjLmdvdi9mZWF0dXJlcy9tYXRlcm5hbC1kZXByZXNzaW9uL2luZGV4Lmh0bWwiPkluZm9ybWF0aW9uIGZvciBwcmVnbmFudCB3b21lbiBhbmQgbmV3IG1vbXM8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cubWVudGFsaGVhbHRoLmdvdi9nZXQtaGVscC92ZXRlcmFucyIgdGFyZ2V0PSJfYmxhbmsiPlJlc291cmNlcyBmb3IgdmV0ZXJhbnM8L2E+PC9saT48L3VsPmQCAQ9kFgoCAQ8PFgIfAmdkZAIDDw8WBB8ABQxTZWUgYSBEb2N0b3IfAmcWAh8IBQ4jdGFrZS1hY3Rpb25fMWQCBQ8PFgIfAmdkZAIHDw8WBB8ABRNTaWducyBvZiBEZXByZXNzaW9uHwJnFgIfCAUNI3RoZS1iYXNpY3NfMmQCCQ8PFgIfAAUPMyBvZiA2IHNlY3Rpb25zZGQCAQ9kFgRmDxUCC3Rha2UtYWN0aW9uDFRha2UgQWN0aW9uIWQCAQ8WAh8HAgMWBmYPZBYEZg8VBAMxNTULVGFrZSBBY3Rpb24MU2VlIGEgRG9jdG9yjQg8cD5EZXByZXNzaW9uIGlzIGEgcmVhbCBpbGxuZXNzLiBJZiB5b3UgdGhpbmsgeW91IG1pZ2h0IGJlIGRlcHJlc3NlZCwgc2VlIHlvdXIgZG9jdG9yLjwvcD48cD48c3Ryb25nPlRhbGsgdG8gYSBkb2N0b3IgYWJvdXQgaG93IHlvdSBhcmUgZmVlbGluZy48L3N0cm9uZz48YnIgLz5HZXQgYSBtZWRpY2FsIGNoZWNrdXAuIEFzayB0byBzZWUgYSBkb2N0b3Igb3IgbnVyc2Ugd2hvIGNhbiBzY3JlZW4geW91IGZvciBkZXByZXNzaW9uLjwvcD48cD5UaGUgZG9jdG9yIG9yIG51cnNlIG1heSBhbHNvIGNoZWNrIHRvIHNlZSBpZiZuYnNwO3lvdSBoYXZlIGFub3RoZXIgaGVhbHRoIGNvbmRpdGlvbiZuYnNwOyhsaWtlIHRoeXJvaWQgZGlzZWFzZSkgdGhhdCBjYW4gY2F1c2UgZGVwcmVzc2lvbiBvciBtYWtlIGl0IHdvcnNlLiBJZiB5b3UgaGF2ZSBvbmUgb2YgdGhlc2UgaGVhbHRoIGNvbmRpdGlvbnMsIGl0JnJzcXVvO3MgaW1wb3J0YW50IHRvIGdldCB0cmVhdG1lbnQgcmlnaHQgYXdheS48L3A+PHA+PHN0cm9uZz48ZW0+V2hhdCBhYm91dCBjb3N0PzwvZW0+PC9zdHJvbmc+PGJyIC8+VW5kZXIgdGhlIDxhIGhyZWY9Imh0dHBzOi8vd3d3LmhlYWx0aGNhcmUuZ292L2hlYWx0aC1jYXJlLWxhdy1wcm90ZWN0aW9ucy8iIHRhcmdldD0iX2JsYW5rIj5BZmZvcmRhYmxlIENhcmUgQWN0PC9hPiwgdGhlIGhlYWx0aCBjYXJlIHJlZm9ybSBsYXcgcGFzc2VkIGluIDIwMTAsIGluc3VyYW5jZSBwbGFucyBtdXN0IGNvdmVyIHNjcmVlbmluZyBmb3IgZGVwcmVzc2lvbi4gVGhpcyBtZWFucyZuYnNwO3lvdSBtYXkgYmUgYWJsZSB0byBnZXQgc2NyZWVuZWQgYXQgbm8gY29zdCB0byZuYnNwO3lvdS48L3A+PHA+SWYgeW91IGRvbiZyc3F1bzt0IGhhdmUgaW5zdXJhbmNlLCB5b3UgY2FuIHN0aWxsIGdldCBoZWFsdGggY2FyZS4gPGEgaHJlZj0iaHR0cHM6Ly9maW5kYWhlYWx0aGNlbnRlci5ocnNhLmdvdi8iIHRhcmdldD0iX2JsYW5rIj5GaW5kIGEgaGVhbHRoIGNlbnRlciBuZWFyIHlvdTwvYT4gYW5kIG1ha2UgYW4gYXBwb2ludG1lbnQuPC9wPmQCAQ9kFgoCAQ8PFgIfAmdkZAIDDw8WBB8ABQ1HZXQgVHJlYXRtZW50HwJnFgIfCAUOI3Rha2UtYWN0aW9uXzJkAgUPDxYCHwJnZGQCBw8PFgQfAAUJVHJlYXRtZW50HwJnFgIfCAUNI3RoZS1iYXNpY3NfM2QCCQ8PFgIfAAUPNCBvZiA2IHNlY3Rpb25zZGQCAQ9kFgRmDxUEAzE1NgtUYWtlIEFjdGlvbg1HZXQgVHJlYXRtZW50tgg8cD48c3Ryb25nPkdldCB0cmVhdG1lbnQgZm9yIGRlcHJlc3Npb24uPC9zdHJvbmc+PGJyIC8+V2hlbiB5b3UgaGF2ZSBkZXByZXNzaW9uLCBzZWVraW5nIGhlbHAgaXMgdGhlIGJlc3QgdGhpbmcgeW91IGNhbiBkby4gRGVwcmVzc2lvbiBjYW4gYmUgdHJlYXRlZCB3aXRoIHRhbGsgdGhlcmFweSwgbWVkaWNpbmVzLCBvciBib3RoLjwvcD48cD5Bc2sgeW91ciBkb2N0b3IgZm9yIGEgcmVmZXJyYWwgdG8gYSBtZW50YWwgaGVhbHRoIHByb2Zlc3Npb25hbCBvciA8YSBocmVmPSJodHRwczovL2ZpbmR0cmVhdG1lbnQuc2FtaHNhLmdvdi8iIHRhcmdldD0iX2JsYW5rIj51c2UgdGhpcyB0cmVhdG1lbnQgbG9jYXRvciB0byBmaW5kIG1lbnRhbCBoZWFsdGggc2VydmljZXMgbmVhciB5b3U8L2E+LiBTb21lIHByb2dyYW1zIG9mZmVyIGZyZWUgb3IgbG93LWNvc3QgdHJlYXRtZW50IGlmIHlvdSBkb24mIzM5O3QgaGF2ZSBpbnN1cmFuY2UuJm5ic3A7PC9wPjxwPkhlcmUgYXJlIHNvbWUgcGxhY2VzIHlvdSBjYW4gZ28gdG8gZm9yIGhlbHAgd2l0aCBkZXByZXNzaW9uOjwvcD48dWw+PGxpPkRvY3RvciZyc3F1bztzIG9mZmljZSBvciBoZWFsdGggY2xpbmljPC9saT48bGk+RmFtaWx5IHNlcnZpY2Ugb3Igc29jaWFsIHNlcnZpY2UgYWdlbmN5PC9saT48bGk+UHN5Y2hvbG9naXN0ICgmbGRxdW87c3ktS0FILWxhaC1qaXN0JnJkcXVvOyk8L2xpPjxsaT5Db3Vuc2Vsb3Igb3Igc29jaWFsIHdvcmtlcjwvbGk+PGxpPlBzeWNob3RoZXJhcGlzdCAoJmxkcXVvO3N5LWtvaC1USEFZUi11aC1waXN0JnJkcXVvOyk8L2xpPjwvdWw+PHA+UmVtZW1iZXIsIGV2ZW4gaWYgYXNraW5nIGZvciBoZWxwIHNlZW1zIHNjYXJ5LCBpdCYjMzk7cyBhbiBpbXBvcnRhbnQgc3RlcCB0b3dhcmQgZmVlbGluZyBiZXR0ZXIuJm5ic3A7PC9wPjxwPkNoZWNrIG91dCB0aGlzIGd1aWRlIHRvJm5ic3A7PGEgaHJlZj0iaHR0cHM6Ly9zZWN1cmUyLmNvbnZpby5uZXQvZGFic2EvcGRmcy9GYVByby5wZGYiIHRhcmdldD0iX2JsYW5rIj5maW5kaW5nIGEgbWVudGFsIGhlYWx0aCBwcm9mZXNzaW9uYWwgW1BERiAtIDIuODQgTUJdPC9hPi48L3A+ZAIBD2QWCgIBDw8WAh8CZ2RkAgMPDxYEHwAFFlN1cHBvcnQgZm9yIERlcHJlc3Npb24fAmcWAh8IBQ4jdGFrZS1hY3Rpb25fM2QCBQ8PFgIfAmdkZAIHDw8WBB8ABQxTZWUgYSBEb2N0b3IfAmcWAh8IBQ4jdGFrZS1hY3Rpb25fMWQCCQ8PFgIfAAUPNSBvZiA2IHNlY3Rpb25zZGQCAg9kFgRmDxUEAzE1NwtUYWtlIEFjdGlvbhZTdXBwb3J0IGZvciBEZXByZXNzaW9umA08cD48c3Ryb25nPkdldCBzdXBwb3J0Ljwvc3Ryb25nPjxiciAvPklmIHlvdSBoYXZlIGRlcHJlc3Npb24sIGl0IGNhbiBhbHNvIGhlbHAgdG8gcmVhY2ggb3V0IGZvciBzb2NpYWwgc3VwcG9ydC4gWW91IGRvbiYjMzk7dCBoYXZlIHRvIGZhY2UgZGVwcmVzc2lvbiBhbG9uZS4gQSB0cnVzdGVkIGZhbWlseSBtZW1iZXIsIGZyaWVuZCwgb3IgZmFpdGggbGVhZGVyIGNhbiBoZWxwIHN1cHBvcnQgeW91IGFzIHlvdSBzZWVrIG91dCBtZWRpY2FsIHRyZWF0bWVudC4mbmJzcDs8L3A+PHA+R2V0IG1vcmUgaWRlYXMgZm9yIDxhIGhyZWY9Imh0dHBzOi8vd3d3Lm1lbnRhbGhlYWx0aC5nb3YvdGFsay9wZW9wbGUtbWVudGFsLWhlYWx0aC1wcm9ibGVtcyIgdGFyZ2V0PSJfYmxhbmsiPmJ1aWxkaW5nIHlvdXIgc3VwcG9ydCBzeXN0ZW08L2E+LjwvcD48cD48c3Ryb25nPkdldCBhY3RpdmU8L3N0cm9uZz4uPGJyIC8+PGEgaHJlZj0iL0hlYWx0aFRvcGljcy9DYXRlZ29yeS9oZWFsdGgtY29uZGl0aW9ucy1hbmQtZGlzZWFzZXMvZGlhYmV0ZXMvZ2V0LWFjdGl2ZSI+R2V0dGluZyBhY3RpdmU8L2E+IGNhbiBsb3dlciB5b3VyIHN0cmVzcyBsZXZlbCBhbmQgaGVscCB5b3VyIHRyZWF0bWVudCB3b3JrIGJldHRlci4gSXQgY2FuIGFsc28gaGVscCBrZWVwIHlvdSBmcm9tIGdldHRpbmcgZGVwcmVzc2VkIGFnYWluLiBCdXQgaXQmIzM5O3MgaW1wb3J0YW50IHRvIGtub3cgdGhhdCBwaHlzaWNhbCBhY3Rpdml0eSBpc24mIzM5O3QgYSB0cmVhdG1lbnQgZm9yIGRlcHJlc3Npb24uJm5ic3A7PC9wPjxwPjxzdHJvbmc+SWYgc29tZW9uZSB5b3UgY2FyZSBhYm91dCBpcyBkZXByZXNzZWQsIGdldCBoZWxwLjwvc3Ryb25nPjxiciAvPklmIHlvdSB0aGluayBhIGZyaWVuZCBvciBmYW1pbHkgbWVtYmVyIG1heSBiZSBkZXByZXNzZWQsIGNoZWNrIG91dCB0aGVzZSB0aXBzIG9uJm5ic3A7PGEgaHJlZj0iL0hlYWx0aFRvcGljcy9DYXRlZ29yeS9ldmVyeWRheS1oZWFsdGh5LWxpdmluZy9tZW50YWwtaGVhbHRoLWFuZC1yZWxhdGlvbnNoaXAvZGVwcmVzc2lvbi1jb252ZXJzYXRpb24tc3RhcnRlcnMiPmhvdyB0byB0YWxrIHRvIGEgbG92ZWQgb25lIGFib3V0IGRlcHJlc3Npb248L2E+LjwvcD48cD5GaW5kIG1vcmUmbmJzcDs8YSBocmVmPSJodHRwczovL3d3dy5uYW1pLm9yZy9GaW5kLVN1cHBvcnQvTGl2aW5nLXdpdGgtYS1NZW50YWwtSGVhbHRoLUNvbmRpdGlvbiI+cmVzb3VyY2VzIGZvciBwZW9wbGUgbGl2aW5nIHdpdGggYSBtZW50YWwgaGVhbHRoIGNvbmRpdGlvbjwvYT4uPC9wPjxwPjxzdHJvbmc+PHN0cm9uZz48ZW0+R2V0IGhlbHAgcmlnaHQgYXdheSBpZiB5b3Ugb3Igc29tZW9uZSB5b3Uga25vdyBpcyB0aGlua2luZyBhYm91dCBzdWljaWRlLjwvZW0+PC9zdHJvbmc+PC9zdHJvbmc+PC9wPjx1bD48bGk+VG8gZ2V0IGhlbHAgZm9yIHlvdXJzZWxmIG9yIHNvbWVvbmUgZWxzZSwgdmlzaXQgdGhlJm5ic3A7PGEgaHJlZj0iaHR0cDovL3d3dy5zdWljaWRlcHJldmVudGlvbmxpZmVsaW5lLm9yZy8iIHRhcmdldD0iX2JsYW5rIj5OYXRpb25hbCBTdWljaWRlIFByZXZlbnRpb24gTGlmZWxpbmU8L2E+Jm5ic3A7b3IgY2FsbCAxLTgwMC0yNzMtVEFMSyAoMS04MDAtMjczLTgyNTUpLjwvbGk+PGxpPklmIHNvbWVvbmUgaXMgaW4gaW1tZWRpYXRlIGRhbmdlciwgY2FsbCA5MTEuPC9saT48L3VsPmQCAQ9kFgYCBQ8PFgIfAmdkZAIHDw8WBB8ABQ1HZXQgVHJlYXRtZW50HwJnFgIfCAUOI3Rha2UtYWN0aW9uXzJkAgkPDxYCHwAFDzYgb2YgNiBzZWN0aW9uc2RkAg8PZBYIZg8WBB8ABQ5BcHJpbCAzMCwgMjAxOR8CZ2QCAQ8PFgQfBAUdL0hlYWx0aFRvcGljcy9Tb3VyY2VzLmFzcHgjMzMfAmdkZAICDw8WAh8CZ2RkAgMPDxYEHwQFKi9GaW5kU2VydmljZXMvU2VhcmNoQ29udGV4dC5hc3B4P3RvcGljPTIzMB8CZ2RkAhEPDxYCHwJnZBYCZg8WAh8HAgMWBmYPZBYEAgEPDxYCHwQFUC9IZWFsdGhUb3BpY3MvQ2F0ZWdvcnkvaGVhbHRoLWNvbmRpdGlvbnMtYW5kLWRpc2Vhc2VzL2hlYXJ0LWhlYWx0aC9tYW5hZ2Utc3RyZXNzZBYCZg8PFgIfBQUsL0hlYWx0aFRvcGljcy9nbG1lZGlhL2ljb25zL21hbmFnZXN0cmVzcy5qcGcWAh8GBQ1NYW5hZ2UgU3RyZXNzZAIDDw8WBB8ABQ1NYW5hZ2UgU3RyZXNzHwQFUC9IZWFsdGhUb3BpY3MvQ2F0ZWdvcnkvaGVhbHRoLWNvbmRpdGlvbnMtYW5kLWRpc2Vhc2VzL2hlYXJ0LWhlYWx0aC9tYW5hZ2Utc3RyZXNzZGQCAQ9kFgQCAQ8PFgIfBAVJL0hlYWx0aFRvcGljcy9DYXRlZ29yeS9oZWFsdGgtY29uZGl0aW9ucy1hbmQtZGlzZWFzZXMvZGlhYmV0ZXMvZ2V0LWFjdGl2ZWQWAmYPDxYCHwUFKS9IZWFsdGhUb3BpY3MvZ2xtZWRpYS9pY29ucy9nZXRhY3RpdmUuanBnFgIfBgUKR2V0IEFjdGl2ZWQCAw8PFgQfAAUKR2V0IEFjdGl2ZR8EBUkvSGVhbHRoVG9waWNzL0NhdGVnb3J5L2hlYWx0aC1jb25kaXRpb25zLWFuZC1kaXNlYXNlcy9kaWFiZXRlcy9nZXQtYWN0aXZlZGQCAg9kFgQCAQ8PFgIfBAVuL0hlYWx0aFRvcGljcy9DYXRlZ29yeS9ldmVyeWRheS1oZWFsdGh5LWxpdmluZy9tZW50YWwtaGVhbHRoLWFuZC1yZWxhdGlvbnNoaXAvZGVwcmVzc2lvbi1jb252ZXJzYXRpb24tc3RhcnRlcnNkFgJmDw8WAh8FBUQvSGVhbHRoVG9waWNzL2dsbWVkaWEvdG9vbHNfaWNvbnMvZGVwcmVzc2lvbmNvbnZlcnNhdGlvbnN0YXJ0ZXJzLmpwZxYCHwYFIURlcHJlc3Npb246IENvbnZlcnNhdGlvbiBzdGFydGVyc2QCAw8PFgQfAAUhRGVwcmVzc2lvbjogQ29udmVyc2F0aW9uIHN0YXJ0ZXJzHwQFbi9IZWFsdGhUb3BpY3MvQ2F0ZWdvcnkvZXZlcnlkYXktaGVhbHRoeS1saXZpbmcvbWVudGFsLWhlYWx0aC1hbmQtcmVsYXRpb25zaGlwL2RlcHJlc3Npb24tY29udmVyc2F0aW9uLXN0YXJ0ZXJzZGQCBg9kFgQCAQ9kFgICAQ8WAh8ABRdTYXR1cmRheSwgSnVuZSAwMSwgMjAxOWQCAw8PFgIfAmhkZGTb9V8J6BbMC3a7zrstiWmgpfOJv8kczLrjbQj0NBmrRQ=="> 
+      </div> 
+      <div class="aspNetHidden"> 
+       <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="942D1C1E"> 
+      </div> 
+      <div class="health_topic_content health-topic-topic"> 
+       <div id="content_utilities" class="utilities"> 
+        <div class="helpers"> 
+         <div class="print"> 
+          <a href="javascript:window.print()" class="button print-button"> Print This Topic </a> 
+         </div> 
+         <div class="espanol"> 
+          <a id="content_translationLink" class="button" href="/espanol/temas/Category/consultas-con-el-doctor/pruebas-de-deteccion/habla-con-el-doctor-sobre-la-depresion">En español</a> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="health_topic_content_inner_wrap clearfix"> 
+        <div class="pageTitle"> 
+         <h1 class="syndicate"> Talk with Your Doctor about Depression </h1> 
+         <img id="content_contentImage" class="icon-image" alt="" src="/HealthTopics/glmedia/icons/talkwithyourdoctoraboutdepression.jpg"> 
+        </div> 
+        <div id="content_quickguide_select_wrap_bg" class="quickguide_select_wrap-bg"> 
+         <div id="quickguide_select_wrap" class="quickguide_select_wrap"> 
+          <p id="quickguide-menu-trigger" class="quickguide-menu-trigger menu-hide">Browse Sections</p> 
+          <ul id="quickguide_select" class="quickguide_select menu-hide"> 
+           <li><span>The Basics</span> 
+            <ul> 
+             <li> <a href="#the-basics_1">Overview</a> </li> 
+             <li> <a href="#the-basics_2">Signs of Depression</a> </li> 
+             <li> <a href="#the-basics_3">Treatment</a> </li> 
+            </ul> </li> 
+           <li><span>Take Action!</span> 
+            <ul> 
+             <li> <a href="#take-action_1">See a Doctor</a> </li> 
+             <li> <a href="#take-action_2">Get Treatment</a> </li> 
+             <li> <a href="#take-action_3">Support for Depression</a> </li> 
+            </ul> </li> 
+          </ul> 
+         </div> 
+        </div> 
+        <!-- /quickguide_select_wrap-bg --> 
+        <div class="content-page-box quickguide_tabbed_content"> 
+         <div class="quickguide_content"> 
+          <div class="quickguide_areas"> 
+           <div id="the-basics" class="topic_area"> 
+            <h2 class="topic_area_title syndicate">The Basics</h2> 
+            <div class="pages"> 
+             <div class="page" id="page_152"> 
+              <h2 class="topic_page_title">The Basics: <span>Overview</span></h2> 
+              <div class="syndicate"> 
+               <p>If you think you might be depressed, talk with a doctor about how you are feeling.</p>
+               <p><strong>What is depression?</strong><br>Depression is an illness that involves the brain. It can affect your thoughts, mood, and daily activities. Depression is more than feeling sad for a few days.</p>
+               <p>Depression can be mild or severe. Mild depression can become more serious if it’s not treated.</p>
+               <p>If you are diagnosed with depression, you aren’t alone. Depression is a common illness that affects millions of adults in the United&nbsp;States&nbsp;every year.</p>
+               <p>The good news is that depression can be treated. Getting help is the best thing you can do for yourself and your loved ones. You can feel better.</p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_0_topic_navigation_0" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_0_pageNextLabel_0" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_0_pageNext_0" class="button next" href="#the-basics_2">Signs of Depression</a> </span> 
+                <span class="content_page_link left"> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_0_pageRange_0" class="content_page_range">1 of 6 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+             <div class="page" id="page_153"> 
+              <h2 class="topic_page_title">The Basics: <span>Signs of Depression</span></h2> 
+              <div class="syndicate"> 
+               <p><strong>What are the signs of depression?</strong><br>It’s normal to feel sad sometimes, but if you feel sad or “down” on most days for more than 2 weeks at a time, you may be depressed.</p>
+               <p>Depression affects people differently. Some signs of depression are:</p>
+               <ul>
+                <li>Losing interest in activities you used to enjoy</li>
+                <li>Feeling hopeless or empty</li>
+                <li>Forgetting things or having trouble making decisions</li>
+                <li>Sleeping too much or too little</li>
+                <li>Gaining or losing weight without meaning to</li>
+                <li>Thinking about suicide or death</li>
+               </ul>
+               <p>To learn more, take this <a href="https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/depression-screening">quiz to see if you might be depressed</a>.</p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_0_topic_navigation_1" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_0_pageNextLabel_1" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_0_pageNext_1" class="button next" href="#the-basics_3">Treatment</a> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_0_pagePrevLabel_1" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_0_pagePrev_1" class="button previous" href="#the-basics_1">Overview</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_0_pageRange_1" class="content_page_range">2 of 6 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+             <div class="page" id="page_414"> 
+              <h2 class="topic_page_title">The Basics: <span>Treatment</span></h2> 
+              <div class="syndicate"> 
+               <p><strong>How is depression treated?</strong><br>Depression can be treated with talk therapy, medicines (called antidepressants), or both. Your doctor may refer you to a mental health professional&nbsp;for talk therapy or medicine.</p>
+               <p>Check out these websites to learn more about depression:</p>
+               <ul>
+                <li><a href="http://www.nimh.nih.gov/health/publications/depression-easy-to-read/introduction.shtml" target="_blank">General information about depression</a></li>
+                <li><a href="https://www.nia.nih.gov/health/depression-and-older-adults" target="_blank">Information for older adults</a></li>
+                <li><a href="http://www.womenshealth.gov/mental-health/illnesses/depression.html" target="_blank">Information for women</a></li>
+                <li><a href="https://www.cdc.gov/features/maternal-depression/index.html">Information for pregnant women and new moms</a></li>
+                <li><a href="https://www.mentalhealth.gov/get-help/veterans" target="_blank">Resources for veterans</a></li>
+               </ul> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_0_topic_navigation_2" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_0_pageNextLabel_2" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_0_pageNext_2" class="button next" href="#take-action_1">See a Doctor</a> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_0_pagePrevLabel_2" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_0_pagePrev_2" class="button previous" href="#the-basics_2">Signs of Depression</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_0_pageRange_2" class="content_page_range">3 of 6 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+            </div> 
+            <div class="clear"></div> 
+           </div> 
+           <div id="take-action" class="topic_area"> 
+            <h2 class="topic_area_title syndicate">Take Action!</h2> 
+            <div class="pages"> 
+             <div class="page" id="page_155"> 
+              <h2 class="topic_page_title">Take Action: <span>See a Doctor</span></h2> 
+              <div class="syndicate"> 
+               <p>Depression is a real illness. If you think you might be depressed, see your doctor.</p>
+               <p><strong>Talk to a doctor about how you are feeling.</strong><br>Get a medical checkup. Ask to see a doctor or nurse who can screen you for depression.</p>
+               <p>The doctor or nurse may also check to see if&nbsp;you have another health condition&nbsp;(like thyroid disease) that can cause depression or make it worse. If you have one of these health conditions, it’s important to get treatment right away.</p>
+               <p><strong><em>What about cost?</em></strong><br>Under the <a href="https://www.healthcare.gov/health-care-law-protections/" target="_blank">Affordable Care Act</a>, the health care reform law passed in 2010, insurance plans must cover screening for depression. This means&nbsp;you may be able to get screened at no cost to&nbsp;you.</p>
+               <p>If you don’t have insurance, you can still get health care. <a href="https://findahealthcenter.hrsa.gov/" target="_blank">Find a health center near you</a> and make an appointment.</p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_1_topic_navigation_0" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_1_pageNextLabel_0" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pageNext_0" class="button next" href="#take-action_2">Get Treatment</a> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_1_pagePrevLabel_0" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pagePrev_0" class="button previous" href="#the-basics_3">Treatment</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_1_pageRange_0" class="content_page_range">4 of 6 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+             <div class="page" id="page_156"> 
+              <h2 class="topic_page_title">Take Action: <span>Get Treatment</span></h2> 
+              <div class="syndicate"> 
+               <p><strong>Get treatment for depression.</strong><br>When you have depression, seeking help is the best thing you can do. Depression can be treated with talk therapy, medicines, or both.</p>
+               <p>Ask your doctor for a referral to a mental health professional or <a href="https://findtreatment.samhsa.gov/" target="_blank">use this treatment locator to find mental health services near you</a>. Some programs offer free or low-cost treatment if you don't have insurance.&nbsp;</p>
+               <p>Here are some places you can go to for help with depression:</p>
+               <ul>
+                <li>Doctor’s office or health clinic</li>
+                <li>Family service or social service agency</li>
+                <li>Psychologist (“sy-KAH-lah-jist”)</li>
+                <li>Counselor or social worker</li>
+                <li>Psychotherapist (“sy-koh-THAYR-uh-pist”)</li>
+               </ul>
+               <p>Remember, even if asking for help seems scary, it's an important step toward feeling better.&nbsp;</p>
+               <p>Check out this guide to&nbsp;<a href="https://secure2.convio.net/dabsa/pdfs/FaPro.pdf" target="_blank">finding a mental health professional [PDF - 2.84 MB]</a>.</p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_1_topic_navigation_1" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_1_pageNextLabel_1" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pageNext_1" class="button next" href="#take-action_3">Support for Depression</a> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_1_pagePrevLabel_1" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pagePrev_1" class="button previous" href="#take-action_1">See a Doctor</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_1_pageRange_1" class="content_page_range">5 of 6 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+             <div class="page" id="page_157"> 
+              <h2 class="topic_page_title">Take Action: <span>Support for Depression</span></h2> 
+              <div class="syndicate"> 
+               <p><strong>Get support.</strong><br>If you have depression, it can also help to reach out for social support. You don't have to face depression alone. A trusted family member, friend, or faith leader can help support you as you seek out medical treatment.&nbsp;</p>
+               <p>Get more ideas for <a href="https://www.mentalhealth.gov/talk/people-mental-health-problems" target="_blank">building your support system</a>.</p>
+               <p><strong>Get active</strong>.<br><a href="/HealthTopics/Category/health-conditions-and-diseases/diabetes/get-active">Getting active</a> can lower your stress level and help your treatment work better. It can also help keep you from getting depressed again. But it's important to know that physical activity isn't a treatment for depression.&nbsp;</p>
+               <p><strong>If someone you care about is depressed, get help.</strong><br>If you think a friend or family member may be depressed, check out these tips on&nbsp;<a href="/HealthTopics/Category/everyday-healthy-living/mental-health-and-relationship/depression-conversation-starters">how to talk to a loved one about depression</a>.</p>
+               <p>Find more&nbsp;<a href="https://www.nami.org/Find-Support/Living-with-a-Mental-Health-Condition">resources for people living with a mental health condition</a>.</p>
+               <p><strong><strong><em>Get help right away if you or someone you know is thinking about suicide.</em></strong></strong></p>
+               <ul>
+                <li>To get help for yourself or someone else, visit the&nbsp;<a href="http://www.suicidepreventionlifeline.org/" target="_blank">National Suicide Prevention Lifeline</a>&nbsp;or call 1-800-273-TALK (1-800-273-8255).</li>
+                <li>If someone is in immediate danger, call 911.</li>
+               </ul> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_1_topic_navigation_2" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_1_pagePrevLabel_2" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pagePrev_2" class="button previous" href="#take-action_2">Get Treatment</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_1_pageRange_2" class="content_page_range">6 of 6 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+            </div> 
+            <div class="clear"></div> 
+           </div> 
+           <div id="content_pageDisplayToggleWrap" class="pageDisplayToggleWrap"> 
+            <a href="#" id="pageDisplayToggle" class="pageDisplayToggle">View All</a> 
+           </div> 
+           <div id="content_resourceLinks"> 
+            <div class="resource-links clearfix"> 
+             <p class="last-updated"> <strong>Content last updated on:</strong> April 30, 2019 </p> 
+             <p class="source-links"> <a id="content_contentReviewLink" href="/HealthTopics/Sources.aspx#33">Reviewer Information</a> <span id="content_breakBetweenLinks">&nbsp;|&nbsp;</span> <a id="content_moreResourcesLink" href="/FindServices/SearchContext.aspx?topic=230">Find More Resources</a> </p> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="clear"></div> 
+         </div> 
+         <!-- /.quickguide_content --> 
+         <div class="clear"></div> 
+        </div> 
+        <!-- /.content-page-box --> 
+       </div> 
+       <!-- /.health_topic_content_inner_wrap --> 
+       <div class="shadow-wide"></div> 
+       <div class="content-page-box health-topics-also-interested clearfix"> 
+        <div id="content_interestsPanel" class="topic_interests"> 
+         <h2>You may also be interested in:</h2> 
+         <ul> 
+          <li> <a id="content_interestsRepeater_imageLink_0" class="image_link" href="/HealthTopics/Category/health-conditions-and-diseases/heart-health/manage-stress"><img id="content_interestsRepeater_image_0" alt="Manage Stress" src="/HealthTopics/glmedia/icons/managestress.jpg"></a> <a id="content_interestsRepeater_titleLink_0" class="title_link" href="/HealthTopics/Category/health-conditions-and-diseases/heart-health/manage-stress">Manage Stress</a> </li> 
+          <li> <a id="content_interestsRepeater_imageLink_1" class="image_link" href="/HealthTopics/Category/health-conditions-and-diseases/diabetes/get-active"><img id="content_interestsRepeater_image_1" alt="Get Active" src="/HealthTopics/glmedia/icons/getactive.jpg"></a> <a id="content_interestsRepeater_titleLink_1" class="title_link" href="/HealthTopics/Category/health-conditions-and-diseases/diabetes/get-active">Get Active</a> </li> 
+          <li> <a id="content_interestsRepeater_imageLink_2" class="image_link" href="/HealthTopics/Category/everyday-healthy-living/mental-health-and-relationship/depression-conversation-starters"><img id="content_interestsRepeater_image_2" alt="Depression: Conversation starters" src="/HealthTopics/glmedia/tools_icons/depressionconversationstarters.jpg"></a> <a id="content_interestsRepeater_titleLink_2" class="title_link" href="/HealthTopics/Category/everyday-healthy-living/mental-health-and-relationship/depression-conversation-starters">Depression: Conversation starters</a> </li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="shadow health-topics-also-interested"></div> 
+       <!-- ./box-left --> 
+      </div> 
+      <!-- /.health-topic-tool --> 
+      <div id="resizable_embedded_link"></div> 
+     </form> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+   </div> 
+   <div id="HideIfWidget5"> 
+    <div id="footer" role="complementary"> 
+     <ul class="footer-links-wide"> 
+      <li><a href="/aboutus/">About Us</a></li> 
+      <li><a href="/aboutus/accessibility.aspx">Accessibility</a></li> 
+      <li><a href="/aboutus/contactus.aspx">Contact Us</a></li> 
+      <li><a href="/Developer">Developers</a></li> 
+      <li><a href="/aboutus/disclaimer.aspx">Disclaimers</a></li> 
+      <li><a href="/aboutus/foia.aspx">Freedom of Information Act</a></li> 
+      <li><a href="https://www.hhs.gov/civil-rights/for-individuals/nondiscrimination/index.html" target="_blank">Nondiscrimination Notice</a></li> 
+      <li><a href="/aboutus/privacy.aspx">Privacy Policy</a></li> 
+      <li><a href="/sitemap.aspx">Site Map</a></li> 
+      <li class="last"><a href="/aboutus/plugins.aspx">Viewers &amp; Players</a></li> 
+      <li class="clear"></li> 
+     </ul> 
+     <div class="clear"></div> 
+     <div class="footer-language"> 
+      <p>Language Assistance Available</p> 
+      <ul class="footer-links-wide"> 
+       <li><a lang="es" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#spanish" target="_blank">Español</a></li> 
+       <li><a lang="zh" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#chinese" target="_blank">????</a></li> 
+       <li><a lang="vi" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#vietnamese" target="_blank">Ti?ng Vi?t</a></li> 
+       <li><a lang="ko" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#korean" target="_blank">???</a></li> 
+       <li><a lang="fr" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#french" target="_blank">Français</a></li> 
+       <li><a lang="pl" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#polish" target="_blank">Polski</a></li> 
+       <li><a lang="pt" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#portugese" target="_blank">Português</a></li> 
+       <li><a lang="it" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#italian" target="_blank">Italiano</a></li> 
+       <li><a lang="tl" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#tagalog" target="_blank">Tagalog</a></li> 
+       <li><a lang="ru" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#russian" target="_blank">???????</a></li> 
+       <li><a lang="ar" dir="rtl" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#arabic" target="_blank">???????</a></li> 
+       <li><a lang="sg" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#creole" target="_blank">Kreyòl Ayisyen</a></li> 
+       <li><a lang="de" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#german" target="_blank">Deutsch</a></li> 
+       <li><a lang="ja" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#japanese" target="_blank">???</a></li> 
+       <li><a lang="fa" dir="rtl" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#farsi" target="_blank">?????</a></li> 
+       <li class="last"><a href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#english" target="_blank">English</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+     <div id="footer-bottom"> 
+      <div class="footer-text">
+        A Federal Government website managed by the 
+       <a class="hhs-text-link" href="https://www.hhs.gov/">U.S. Department of Health and Human Services</a> 
+       <br class="hidden-mobile-break"> healthfinder.gov is sponsored by the National Health Information Center 
+       <span class="address-block">200 Independence Avenue, S.W., Washington, DC 20201</span> 
+       <span class="page-updated">Page last updated: Saturday, June 01, 2019</span> 
+      </div> 
+      <div class="logo-box"> 
+       <a class="logo-hhs" href="https://www.hhs.gov/" title="Department of Health and Human Services"> <img src="/images/footer-hhs-logo.png" alt="Department of Health and Human Services"></a> 
+       <a class="logo-odphp" href="https://health.gov/" title="Office of Disease Prevention and Health Promotion"> <img src="/images/odphp-logo-black.png" class="odphp-logo" alt="Office of Disease Prevention and Health Promotion"></a> 
+       <a class="logo-healthfinder" href="https://healthfinder.gov" title="healthfinder.gov"> <img src="/images/footer-hf-logo.png" alt="healthfinder.gov logo"></a> 
+      </div> 
+      <div class="clear"></div> 
+     </div> 
+     <!-- /#footer-bottom --> 
+     <div class="clear"></div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="up_scrollable_indicator"></div> 
+  <div id="down_scrollable_indicator"></div> 
+  <script src="/js/jquery-1.8.3.min.js" type="text/javascript"></script> 
+  <script src="/js/jquery-ui-1.8.16.custom.min.js" type="text/javascript"></script> 
+  <script src="/js/jquery.cycle.all.js" type="text/javascript"></script> 
+  <script src="/js/jquery.colorbox-min.js" type="text/javascript"></script> 
+  <script src="/js/jquery.flexslider.modified.js" type="text/javascript"></script> 
+  <script src="/js/jquery.ba-hashchange.min.js" type="text/javascript"></script> 
+  <script src="/js/healthfinder.js" type="text/javascript"></script> 
+  <script src="/js/jquery.ddslick.min.js" type="text/javascript"></script> 
+  <script src="/js/myhealthfinder.js" type="text/javascript"></script> 
+  <script src="/js/global-nav.js" type="text/javascript"></script> 
+  <script src="/js/outlink.js" type="text/javascript"></script> 
+  <script src="/js/search-suggest.js" type="text/javascript"></script> 
+  <!--AddThis code--> 
+  <script type="text/javascript">
+        var addthis_config = {
+            ui_language: "en"
+      };
+    </script> 
+  <script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=xa-50c0b9a52a842762"></script> 
+  <!-- Document Download tracking --> 
+  <script src="/js/ga_download_tracker.js" type="text/javascript"></script> 
+  <!--CrazyEgg tracking code --> 
+  <script type="text/javascript">
+        setTimeout(function () {
+            var a = document.createElement("script");
+            var b = document.getElementsByTagName("script")[0];
+            a.src = document.location.protocol + "//dnn506yrbagrg.cloudfront.net/pages/scripts/0013/7844.js?" + Math.floor(new Date().getTime() / 3600000);
+            a.async = true; a.type = "text/javascript"; b.parentNode.insertBefore(a, b)
+        }, 1);
+    </script> 
+  <!--BEGIN QUALTRICS SITE INTERCEPT sitewide --> 
+  <script type="text/javascript">
+        (function () {
+            var g = function (e, h, f, g) {
+                this.get = function (a) { for (var a = a + "=", c = document.cookie.split(";"), b = 0, e = c.length; b < e; b++) { for (var d = c[b]; " " == d.charAt(0) ;) d = d.substring(1, d.length); if (0 == d.indexOf(a)) return d.substring(a.length, d.length) } return null };
+                this.set = function (a, c) { var b = "", b = new Date; b.setTime(b.getTime() + 6048E5); b = "; expires=" + b.toGMTString(); document.cookie = a + "=" + c + b + "; path=/; " };
+                this.check = function () { var a = this.get(f); if (a) a = a.split(":"); else if (100 != e) "v" == h && (e = Math.random() >= e / 100 ? 0 : 100), a = [h, e, 0], this.set(f, a.join(":")); else return !0; var c = a[1]; if (100 == c) return !0; switch (a[0]) { case "v": return !1; case "r": return c = a[2] % Math.floor(100 / c), a[2]++, this.set(f, a.join(":")), !c } return !0 };
+                this.xgo = function () { if (this.check()) { var a = document.createElement("script"); a.type = "text/javascript"; a.src = g + "&t=" + (new Date()).getTime(); document.body && document.body.appendChild(a) } };
+                this.go = function () { wait_for_session_delay(30, this.xgo, this); };
+                this.start = function () { var a = this; window.addEventListener ? window.addEventListener("load", function () { a.go() }, !1) : window.attachEvent && window.attachEvent("onload", function () { a.go() }) }
+            };
+            try { (new g(100, "r", "QSI_S_SI_eDVjXbuzcR5eE0B", "//znbqj3egyjwfzib9r-communicatehealth.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_eDVjXbuzcR5eE0B&Q_LOC=" + encodeURIComponent(window.location.href))).start() } catch (i) { }
+        })();
+    </script> 
+  <div id="SI_eDVjXbuzcR5eE0B"> 
+   <!--DO NOT REMOVE-CONTENTS PLACED HERE--> 
+  </div> 
+  <!--END SITE INTERCEPT--> 
+  <!--BEGIN QUALTRICS SITE INTERCEPT feedback link --> 
+  <script type="text/javascript">
+        (function () {
+            var g = function (e, h, f, g) {
+                this.get = function (a) { for (var a = a + "=", c = document.cookie.split(";"), b = 0, e = c.length; b < e; b++) { for (var d = c[b]; " " == d.charAt(0) ;) d = d.substring(1, d.length); if (0 == d.indexOf(a)) return d.substring(a.length, d.length) } return null };
+                this.set = function (a, c) { var b = "", b = new Date; b.setTime(b.getTime() + 6048E5); b = "; expires=" + b.toGMTString(); document.cookie = a + "=" + c + b + "; path=/; " };
+                this.check = function () { var a = this.get(f); if (a) a = a.split(":"); else if (100 != e) "v" == h && (e = Math.random() >= e / 100 ? 0 : 100), a = [h, e, 0], this.set(f, a.join(":")); else return !0; var c = a[1]; if (100 == c) return !0; switch (a[0]) { case "v": return !1; case "r": return c = a[2] % Math.floor(100 / c), a[2]++, this.set(f, a.join(":")), !c } return !0 };
+                this.go = function () { if (this.check()) { var a = document.createElement("script"); a.type = "text/javascript"; a.src = g + "&t=" + (new Date()).getTime(); document.body && document.body.appendChild(a) } };
+                this.start = function () { var a = this; window.addEventListener ? window.addEventListener("load", function () { a.go() }, !1) : window.attachEvent && window.attachEvent("onload", function () { a.go() }) }
+            };
+            try { (new g(100, "r", "QSI_S_SI_cXQyslZ7nyPxAbz", "//znbqj3egyjwfzib9r-communicatehealth.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_cXQyslZ7nyPxAbz&Q_LOC=" + encodeURIComponent(window.location.href))).start() } catch (i) { }
+        })();
+    </script> 
+  <div id="SI_cXQyslZ7nyPxAbz"> 
+   <!--DO NOT REMOVE-CONTENTS PLACED HERE--> 
+  </div> 
+  <!--END SITE INTERCEPT--> 
+  <!--BEGIN QUALTRICS SITE INTERCEPT - page level --> 
+  <script type="text/javascript">
+        (function () {
+            var g = function (e, h, f, g) {
+                this.get = function (a) { for (var a = a + "=", c = document.cookie.split(";"), b = 0, e = c.length; b < e; b++) { for (var d = c[b]; " " == d.charAt(0) ;) d = d.substring(1, d.length); if (0 == d.indexOf(a)) return d.substring(a.length, d.length) } return null };
+                this.set = function (a, c) { var b = "", b = new Date; b.setTime(b.getTime() + 6048E5); b = "; expires=" + b.toGMTString(); document.cookie = a + "=" + c + b + "; path=/; " };
+                this.check = function () { var a = this.get(f); if (a) a = a.split(":"); else if (100 != e) "v" == h && (e = Math.random() >= e / 100 ? 0 : 100), a = [h, e, 0], this.set(f, a.join(":")); else return !0; var c = a[1]; if (100 == c) return !0; switch (a[0]) { case "v": return !1; case "r": return c = a[2] % Math.floor(100 / c), a[2]++, this.set(f, a.join(":")), !c } return !0 };
+                this.go = function () { if (this.check()) { var a = document.createElement("script"); a.type = "text/javascript"; a.src = g + "&t=" + (new Date()).getTime(); document.body && document.body.appendChild(a) } };
+                this.start = function () { var a = this; window.addEventListener ? window.addEventListener("load", function () { a.go() }, !1) : window.attachEvent && window.attachEvent("onload", function () { a.go() }) }
+            };
+            try { (new g(100, "r", "QSI_S_SI_abZk2DnPlZAGHjL", "//znbqj3egyjwfzib9r-communicatehealth.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_abZk2DnPlZAGHjL&Q_LOC=" + encodeURIComponent(window.location.href))).start() } catch (i) { }
+        })();
+    </script> 
+  <div id="SI_abZk2DnPlZAGHjL"> 
+   <!--DO NOT REMOVE-CONTENTS PLACED HERE--> 
+  </div> 
+  <!--END SITE INTERCEPT--> 
+  <script src="https://health.gov/ui/js/lib/survey-wrapper.js"></script> 
+  <script src="/js/quickguide.js" type="text/javascript"></script>   
+ </body>
+</html>

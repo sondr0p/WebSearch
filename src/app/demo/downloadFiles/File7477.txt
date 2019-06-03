@@ -1,0 +1,68 @@
+<!doctype html>
+<html>
+ <head> 
+  <meta charset="utf-8"> 
+  <title>Maintenance</title> 
+  <meta http-equiv="cleartype" content="on"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=9"> 
+  <link rel="stylesheet" type="text/css" href="css/styles.css"> 
+  <script type="text/javascript" src="scripts/script.js">
+
+</script> 
+  <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements --> 
+  <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]--> 
+  <!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="css/ie7.css">
+<![endif]--> 
+  <link href="http://fonts.googleapis.com/css?family=Oxygen:400,700" rel="stylesheet" type="text/css"> 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> 
+  <script type="text/javascript">
+
+$(document).ready(function(){
+
+window.location.href = "https://www.ms.gov/mdac/fflsp_portal";
+
+});
+</script> 
+ </head> 
+ <body> 
+  <div id="global"> 
+  </div> 
+  <div id="wrapper"> 
+   <header> 
+   </header> 
+   <section> 
+    <div id="appBanner"> 
+     <img src="images/banner_feed_fertilizer.jpg" width="100%"> 
+    </div> 
+    <div class="pageContent" style="padding-bottom:110px; background-image: none; text-align: center;"> 
+     <form id="Form1" runat="server" class="form"> 
+      <article style="padding: 25px;"> 
+       <div class="mainImage"> 
+        <img src="images/home-pic.jpg" width="680" height="279">
+        <p class="home" style="font-weight: bold;
+                            font-size: large;"> Welcome to the Registration Suite Online System</p> 
+        <h1>System is temporarily offline</h1> 
+       </div> 
+       <strong style="font-weight: bold;line-height: 1.5;" class="emphasis01">The Mississippi Feed, Fertilizer, Lime, Soil &amp; Plant Amendment Online Registration System is currently under construction. We are making major changes and updates to make your registration process more efficient. We appreciate your patience during this time. Please check back with us on <span style="color: red;">Monday, December 11th </span>. </strong> 
+      </article> 
+     </form> 
+    </div> 
+    <footer> 
+     <div class="footerLinks"> 
+      <ul> 
+       <li><a href="default.aspx">Home</a></li> 
+       <li><a href="http://www.transparency.ms.gov">Transparency Mississippi</a></li> 
+       <li><a href="contactus.aspx">Contact Us</a></li> 
+      </ul> 
+     </div> 
+     <div class="footerLogo"> 
+      <a href="http://www.ms.gov"><img src="images/msGov.png" width="138" height="62" alt="ms.gov" target="_blank"></a> 
+     </div> 
+    </footer> 
+   </section> 
+  </div>   
+ </body>
+</html>

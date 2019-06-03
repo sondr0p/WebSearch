@@ -1,0 +1,822 @@
+<!doctype html>
+<html lang="en" dir="ltr" prefix="fb: //www.facebook.com/2008/fbml">
+ <head> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <!-- Google Tag Manager --> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-WLMC86');</script> 
+  <!-- End Google Tag Manager --> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <link rel="shortcut icon" href="https://www.archives.gov/files/apple-icon.png" type="image/png"> 
+  <meta name="description" content="[table striped=&quot;true&quot; responsive=&quot;true&quot;] RECORDS LOCATION TABLE  Service Branch Records   Washington, DC Holdings   Other Records  Army"> 
+  <meta name="generator" content="Drupal 7 (http://drupal.org)"> 
+  <link rel="canonical" href="https://www.archives.gov/veterans/military-service-records/locations"> 
+  <meta property="og:site_name" content="National Archives"> 
+  <meta property="og:type" content="article"> 
+  <meta property="og:url" content="https://www.archives.gov/veterans/military-service-records/locations"> 
+  <meta property="og:title" content="Locations of Service Records"> 
+  <meta property="og:description" content="[table striped=&quot;true&quot; responsive=&quot;true&quot;] RECORDS LOCATION TABLE  Service Branch Records   Washington, DC Holdings   Other Records  Army"> 
+  <meta property="og:updated_time" content="2019-03-28T14:11:02-04:00"> 
+  <meta name="twitter:card" content="summary"> 
+  <meta name="twitter:url" content="https://www.archives.gov/veterans/military-service-records/locations"> 
+  <meta name="twitter:title" content="Locations of Service Records"> 
+  <meta name="twitter:description" content="[table striped=&quot;true&quot; responsive=&quot;true&quot;] RECORDS LOCATION TABLE  Service Branch Records   Washington, DC Holdings   Other Records  Army"> 
+  <meta property="article:published_time" content="2016-08-15T17:37:07-04:00"> 
+  <meta property="article:modified_time" content="2019-03-28T14:11:02-04:00"> 
+  <title>Locations of Service Records | National Archives</title> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_9Q-k-fv_k3FHvcs9CSZ2iD5CTqFxrfaej2FCw2mYIoA.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_BTbypzlNYVbptuza8qzKwXCnB4TjuEzUY43Cz2FsXVA.css" media="all"> 
+  <style>.section-theme #title-bar{background:#2a6978 url("https://www.archives.gov/files/global-images/section-headers/veterans1.png") no-repeat center right;}.section-theme #mega-footer > h2{background:#2a6978}.section-theme #title-bar .breadcrumb{background-color:#2b6c7c;}.section-theme th{background-color:#2a6978 !important;}
+</style> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_NkrvYXS3XFN6HNXLylk-Jr8h6vd7bMQSZUSOsRKtvhE.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_adYIwY5AiFQ05gx1uTxNpkKu9JMeTmi7MedA-D3wWww.css" media="all"> 
+  <!-- HTML5 element support for IE6-8 --> 
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]--> 
+  <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic|Merriweather"> 
+  <script src="https://www.archives.gov/files/js/js_0RyHJ63yYLuaWsodCPCgSD8dcTIA0dqcDf8-7c2XdBw.js"></script> 
+  <script src="https://www.archives.gov/files/js/js_0pQJ_xts95IaRyXneDD9tPnYjBy63RQPzNHeLe2LDCg.js"></script> 
+  <script src="https://www.archives.gov/files/js/js_4DGuaDZ5Ckd4u9axaS2f90X-RYp7QlC5RWbsjSLu2-8.js"></script> 
+  <script src="https://www.archives.gov/files/js/js_KyGDO1Fxjv5b9iLtei_bvtKprP3C83MXZ8wgYXbj8bA.js"></script> 
+  <script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"nara","theme_token":"z2UIRxKElsGV6d08wkytkJTDVwrh1oTm1NIXjgOx89E","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/custom\/archives_ui\/scripts\/helptext.js":1,"sites\/all\/modules\/custom\/argentina\/js\/script.js":1,"sites\/all\/modules\/custom\/nara_catalog\/js\/script.js":1,"sites\/all\/modules\/contrib\/user_alert\/js\/user-alert.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/custom\/nara_custom\/js\/nara_custom.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/affix.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/alert.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/button.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/carousel.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/collapse.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/dropdown.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/modal.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/tooltip.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/popover.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/scrollspy.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/tab.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/transition.js":1,"sites\/all\/themes\/nara\/scripts\/jPanelMenu.js":1,"sites\/all\/themes\/nara\/scripts\/jRespond.js":1,"sites\/all\/themes\/nara\/scripts\/matchHeight.min.js":1,"sites\/all\/themes\/nara\/scripts\/jquery.fancybox.pack.js":1,"sites\/all\/themes\/nara\/scripts\/toc.js":1,"sites\/all\/themes\/nara\/scripts\/scripts.js":1,"sites\/all\/themes\/nara\/scripts\/jquery.scrollTo.js":1,"sites\/all\/themes\/nara\/scripts\/mediagallery.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/custom\/archives_ui\/css\/font-awesome.min.css":1,"sites\/all\/modules\/custom\/archives_ui\/css\/helptext.css":1,"sites\/all\/modules\/custom\/archives_ui\/css\/ckeditor_custom.css":1,"sites\/all\/modules\/custom\/argentina\/css\/argentina_style.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/custom\/liaisons\/css\/liaisons_style.css":1,"sites\/all\/modules\/custom\/nara_catalog\/css\/nara-api-style.css":1,"sites\/all\/modules\/archive_features\/nara_timeline\/css\/custom.css":1,"sites\/all\/modules\/archive_features\/nara_timeline\/css\/timeline.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/user_alert\/css\/user-alert.css":1,"sites\/all\/modules\/custom\/varnish_purge\/css\/varnishpurge.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"0":1,"sites\/all\/modules\/custom\/nara_custom\/css\/nara_custom.css":1,"sites\/all\/themes\/nara\/css\/jquery.fancybox.css":1,"sites\/all\/themes\/nara\/css\/jquery.fancybox-thumbs.css":1,"sites\/all\/themes\/nara\/css\/do_not_edit.css":1,"sites\/all\/themes\/nara\/css\/bootstrap.min.css":1,"sites\/all\/themes\/nara\/css\/styles.css":1,"sites\/all\/themes\/nara\/css\/vertical-tabs.css":1,"sites\/all\/themes\/nara\/css\/overrides.css":1,"sites\/all\/themes\/nara\/css\/mediagallery.css":1}},"archives_ui":{"trustedDomains":["twitter\\.com","youtube\\.com","youtu\\.be","recordsofrights\\.org","presidentialtimeline\\.org","nationalarchivesstore\\.org","bush41\\.org","nara\\.learn\\.com","bush41\\.org","bushlibrary\\.tamu\\.edu","fdrlibrary\\.marist\\.edu","georgewbushlibrary\\.smu\\.edu","lbjlibrary\\.org","trumanlibrary\\.org","fdrlibrary\\.org","archivesfoundation\\.org","jfklibrary\\.org","Myarchivesstore\\.org","docsteach\\.org","digitalvaults\\.org","jfk50\\.org","reagan\\.utexas\\.edu","clinton\\.presidentiallibraries\\.us","fdrlibrary\\.org","us11\\.campaign-archive.?\\.com","lbjlibrary\\.net","github\\.io","github\\.com","eventbrite\\.com","facebook\\.com","pinterest\\.com","tumblr\\.com","google\\.com","historypin\\.org","giphy\\.com","instagram\\.com","flickr\\.com","foursquare\\.com","addthis\\.com","apple\\.com","georgebushfoundation\\.org","clintonpresidentialcenter\\.org","geraldrfordfoundation\\.org","reaganfoundation\\.org","rooseveltinstitute\\.org","socialarchive\\.iath\\.virginia.edu","s3\\.amazonaws\\.com","surveymonkey\\.com","storify\\.com","constantcontact\\.com","snaccooperative\\.org"]},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"user_alert":{"url_prefix":"","current_path":"veterans\/military-service-records\/locations"},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script> 
+  <style type="text/css">
+div.form-item-body-und-0-format {
+	display:none;
+}
+div.form-item-field-col-b-und-0-format {
+	display:none;
+}
+div.filter-guidelines {
+	display:none;
+}
+div.filter-help {
+	display:none;
+}
+</style> 
+  <style type="text/css">
+ul.nav-tabs {
+display:none;
+}
+#block-workbench-block {
+display:none;
+}
+</style> 
+ </head> 
+ <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-57444 node-type-3-col-page "> 
+  <!-- Google Tag Manager (noscript) --> 
+  <noscript>
+   <iframe alt="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-WLMC86" height="0" width="0" style="display:none;visibility:hidden" title="Google Tag Manager"></iframe>
+  </noscript> 
+  <!-- End Google Tag Manager (noscript) --> 
+  <div id="background-gradient"> 
+   <div class="wrapper section-theme "> 
+    <a class="back-to-top" href="#page-header" style="display: none;">Top</a> 
+    <div id="skip-link"> 
+     <a href="#main-col" class="element-invisible element-focusable">Skip to main content</a> 
+    </div> 
+    <div class="wrapper section-theme"> 
+     <header id="page-header"> 
+      <div class="region region-header"> 
+       <section id="block-block-53" class="block block-block clearfix"> 
+        <div class="col-sm-6" id="logo-wrapper"> 
+         <div id="logo">
+          <a href="/">The U.S. National Archives Home</a>
+         </div> 
+         <button id="nav-toggle" class="navbar-toggle" type="button"></button> 
+        </div> 
+        <div class="col-sm-6" id="search-wrapper"> 
+         <div id="top-links"> 
+          <a class="noBorder" href="/social-media/blogs.html">Blogs</a> · 
+          <script type="text/javascript">// <![CDATA[
+        var addthis_pub = "usarchives";
+        var addthis_offset_left = -40;
+        var addthis_brand = "Archives.gov";
+        // ]]></script> 
+          <a class="addthisLink" onclick="return addthis_sendto();" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]');" onmouseout="addthis_close();" onfocus="return addthis_open(this, '', '[URL]', '[TITLE]');" onblur="addthis_close();" href="https://www.addthis.com/bookmark.php?v=250">Bookmark/Share</a> · 
+          <script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js"></script> 
+          <a href="/contact">Contact Us</a> 
+         </div> 
+         <div class="input-group" id="site-search"> 
+          <form action="https://search.archives.gov/search" method="get" name="search"> 
+           <input class="form-control" id="qt" accesskey="s" type="text" name="query" placeholder="Search Archives.gov" title="Search Archives.gov"> 
+           <span class="input-group-btn"> <button class="btn btn-default" id="go" type="submit" name="submit">Search</button> </span> 
+           <input type="hidden" value="" name="utf8"> 
+           <input id="affiliate" type="hidden" value="national-archives" name="affiliate"> 
+          </form> 
+         </div> 
+        </div> 
+       </section> 
+      </div> 
+     </header> 
+     <!-- /#page-header --> 
+     <nav id="main-nav" class="clearfix "> 
+      <h2 class="element-invisible">Main menu</h2>
+      <ul id="main-menu-links" class="links clearfix make-eq">
+       <li class="menu-859 first research"><a href="/research" title="Explore our nation's history through our documents, photographs, and records." id="research">Research Our Records</a></li> 
+       <li class="menu-860 veterans"><a href="/veterans" title="Request military records and learn about other services for yourself or a family member." id="veterans" class="veterans">Veterans' Service Records</a></li> 
+       <li class="menu-861 teachers"><a href="/education" title="Engage students with lesson plans and other classroom materials." id="teachers" class="teachers">Educator Resources</a></li> 
+       <li class="menu-862 locations"><a href="/locations" title="Plan a trip to a facility near you or learn about our national network of locations and services." id="locations" class="locations">Visit Us</a></li> 
+       <li class="menu-367 last shop"><a href="/founding-docs" title="Order books, gift items, photographic prints, and document reproductions online." id="shop" class="shop">America's Founding Documents</a></li> 
+      </ul> 
+     </nav>
+     <!-- /main-nav --> 
+     <div class="page-body-wrapper"> 
+      <div id="page-body" class="no-sidebar"> 
+       <header id="title-bar"> 
+        <p>Veterans' Service Records</p> 
+        <div class="breadcrumb"> 
+         <a href="/">Home</a> &gt; 
+         <a href="/veterans">Veterans' Service Records</a> &gt; 
+         <a href="/veterans/military-service-records">Military Service Records</a> &gt; Locations of Service Records 
+        </div>
+        <!-- /breadcrumbs --> 
+       </header> 
+       <div class="row"> 
+        <nav class="col-sm-2"> 
+         <aside id="sidebar-first"> 
+          <nav id="left-menu" class=""> 
+           <h3>Locations of Service Records </h3> 
+           <ul> 
+            <li><a href="/veterans/military-service-records/locations/index.html#air-force">Locations of Air Force Records</a></li> 
+            <li><a href="/veterans/military-service-records/locations/index.html#army.html">Locations of Army Records</a></li> 
+            <li><a href="/veterans/military-service-records/locations/index.html#coast-guard">Locations of Coast Guard Records</a></li> 
+            <li><a href="/veterans/military-service-records/locations/index.html#marine-corps">Locations of Marine Corps Records</a></li> 
+            <li><a href="/veterans/military-service-records/locations/index.html#navy">Locations of Navy Records</a></li> 
+           </ul> 
+          </nav> 
+         </aside> 
+         <!-- /#sidebar-first --> 
+        </nav> 
+        <div id="main-col" class="col-sm-10"> 
+         <p id="print-logo"> <img src="/sites/all/themes/nara/images/nara-print-logo.jpg" alt="National Archives Logo"> </p> 
+         <div class="region region-content"> 
+          <section id="block-system-main" class="block block-system clearfix"> 
+           <h1>Locations of Service Records</h1> 
+           <!-- Records Location Table --> 
+           <div class="nwidget ncontainer ntable">
+            <div class="table table-responsive table-striped"> 
+             <table>
+              <!-- Table Head --> 
+              <thead> 
+               <tr> 
+                <th colspan="3">RECORDS LOCATION TABLE</th> 
+               </tr> 
+              </thead> 
+              <tbody>
+               <!-- Row 1 --> 
+               <tr> 
+                <td><strong>Service Branch Records</strong></td> 
+                <td><strong>Washington, DC Holdings</strong></td> 
+                <td><strong>Other Records</strong></td> 
+               </tr> 
+               <!-- Blank Row -->
+               <!-- Row 2 --> 
+               <tr> 
+                <td><a href="#army">Army</a></td> 
+                <td><a href="#volunteers">Volunteers</a></td> 
+                <td><a href="#public">Public Health Service</a></td> 
+               </tr> 
+               <!-- Row 3 --> 
+               <tr> 
+                <td><a href="#air-force">Air Force</a></td> 
+                <td><a href="#confederate">Confederate States</a></td> 
+                <td><a href="#selective">Selective Service</a></td> 
+               </tr> 
+               <!-- Row 4 --> 
+               <tr> 
+                <td><a href="#navy">Navy</a></td> 
+                <td><a href="#pension">Pension Claim Files</a></td> 
+                <td>&nbsp;</td> 
+               </tr> 
+               <!-- Row 5 --> 
+               <tr> 
+                <td><a href="#marine-corps">Marine Corps</a></td> 
+                <td><a href="#bounty">Bounty Land Warrant Application Files</a></td> 
+                <td>&nbsp;</td> 
+               </tr> 
+               <!-- Row 6 --> 
+               <tr> 
+                <td><a href="#coast-guard">Coast Guard</a></td> 
+                <td>&nbsp;</td> 
+                <td>&nbsp;<br> &nbsp;</td> 
+               </tr> 
+              </tbody> 
+             </table> 
+            </div>
+           </div> 
+           <h2><a name="army"></a>ARMY<br> (includes Army Air Corps and Army Air Forces)</h2> 
+           <!-- ARMY Table --> 
+           <div class="nwidget ncontainer ntable">
+            <div class="table table-responsive table-striped"> 
+             <table> 
+              <tbody>
+               <!-- Row 1 --> 
+               <tr> 
+                <td><strong>Dates of Service</strong></td> 
+                <td><strong>Rank</strong></td> 
+                <td><strong>Personnel Record Location</strong></td> 
+                <td><strong>Health Record Location</strong></td> 
+               </tr> 
+               <!-- Row 2 --> 
+               <tr> 
+                <td>1789 to November 1, 1912</td> 
+                <td>Enlisted</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#nara-old">NARA, Washington DC</a></td> 
+                <td>N/A</td> 
+               </tr> 
+               <!-- Row 3 --> 
+               <tr> 
+                <td>1789 to July 1, 1917</td> 
+                <td>Officer</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#nara-old">NARA, Washington DC</a></td> 
+                <td>N/A</td> 
+               </tr> 
+               <!-- Row 4 --> 
+               <tr> 
+                <td>November 1, 1912 to October 15, 1992<br> <span class="smaller"><strong>Note:</strong> Many records were destroyed by the <a href="/st-louis/military-personnel/fire-1973.html">1973 Fire</a></span></td> 
+                <td>Enlisted</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#nprc">National Personnel Records Center</a><br> <span class="smaller"><strong>Note:</strong> Personnel records are <a href="/st-louis/archival-programs/division.html">Archival</a> <em>62 years</em> after the service member's separation.</span></td> 
+                <td>&nbsp;</td> 
+               </tr> 
+               <!-- Row 5 --> 
+               <tr> 
+                <td>July 1, 1917 to October 15, 1992<br> <span class="smaller"><strong>Note:</strong> Many records were destroyed by the <a href="/st-louis/military-personnel/fire-1973.html">1973 Fire</a></span></td> 
+                <td>Officer</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#nprc">National Personnel Records Center</a><br> <span class="smaller"><strong>Note:</strong> Personnel records are <a href="/st-louis/archival-programs/division.html">Archival</a> <em>62 years</em> after the service member's separation.</span></td> 
+                <td>&nbsp;</td> 
+               </tr> 
+               <!-- Row 6 --> 
+               <tr> 
+                <td>October 16, 1992 to September 30, 2002</td> 
+                <td>All Personnel</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#nprc">National Personnel Records Center</a></td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#va">Department of Veterans Affairs</a></td> 
+               </tr> 
+               <!-- Row 7 --> 
+               <tr> 
+                <td>Discharged, deceased or retired on or after October 1, 2002 to December 31, 2013</td> 
+                <td>All Personnel</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#army">U.S. Army Human Resources Command</a><br> <span class="smaller"><strong>Note:</strong> records are stored electronically at AHRC but requests are serviced by:<br> <a href="/st-louis/military-personnel/address-list.html#nprc">National Personnel Records Center</a></span></td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#va">Department of Veterans Affairs</a></td> 
+               </tr> 
+               <!-- Row 8 --> 
+               <tr> 
+                <td>Discharged, deceased or retired on or after January 1, 2014</td> 
+                <td>All Personnel</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#army">U.S. Army Human Resources Command</a><br> <span class="smaller"><strong>Note:</strong> records are stored electronically at AHRC but requests are serviced by:<br> <a href="/st-louis/military-personnel/address-list.html#nprc">National Personnel Records Center</a></span></td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#army">AMEDD Record Processing Center</a></td> 
+               </tr> 
+               <!-- Row 9 --> 
+               <tr> 
+                <td>All active duty, including active Army Reserve</td> 
+                <td>All Personnel</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#army">U.S. Army Human Resources Command</a></td> 
+                <td>&nbsp;</td> 
+               </tr> 
+               <!-- Row 10 --> 
+               <tr> 
+                <td>All active and non-active duty National Guard</td> 
+                <td>All Personnel</td> 
+                <td>The Adjutant General<br> (of the appropriate state, DC, or Puerto Rico)</td> 
+                <td>&nbsp;</td> 
+               </tr> 
+              </tbody> 
+             </table> 
+            </div>
+           </div> 
+           <p><br> &nbsp;</p> 
+           <h2><a name="air-force"></a>AIR FORCE</h2> 
+           <!-- AIR FORCE Table --> 
+           <div class="nwidget ncontainer ntable">
+            <div class="table table-responsive table-striped"> 
+             <table> 
+              <tbody>
+               <!-- Row 1 --> 
+               <tr> 
+                <td><strong>Dates of Service</strong></td> 
+                <td><strong>Rank</strong></td> 
+                <td><strong>Personnel Record Location</strong></td> 
+                <td><strong>Health Record Location</strong></td> 
+               </tr> 
+               <!-- Row 2 --> 
+               <tr> 
+                <td>September 24, 1947 to May 1, 1994<br> <span class="smaller"><strong>Note:</strong> Many records were destroyed by the <a href="/st-louis/military-personnel/fire-1973.html">1973 Fire</a></span></td> 
+                <td>All Personnel</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#nprc">National Personnel Records Center</a><br> <span class="smaller"><strong>Note:</strong> Personnel records are <a href="/st-louis/archival-programs/division.html">Archival</a> <em>62 years</em> after the service member's separation.</span></td> 
+                <td>&nbsp;</td> 
+               </tr> 
+               <!-- Row 3 --> 
+               <tr> 
+                <td>May 1, 1994 to September 30, 2004</td> 
+                <td>All Personnel</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#nprc">National Personnel Records Center</a></td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#va">Department of Veterans Affairs</a></td> 
+               </tr> 
+               <!-- Row 4 --> 
+               <tr> 
+                <td>Discharged, deceased or retired from active duty on or after October 1, 2004 to December 31, 2013</td> 
+                <td>All Personnel</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#air-force">Air Force Personnel Center<br> HQ AFPC/DPSSRP</a></td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#va">Department of Veterans Affairs</a></td> 
+               </tr> 
+               <!-- Row 5 --> 
+               <tr> 
+                <td>Discharged, deceased or retired from active duty on or after January 1, 2014</td> 
+                <td>All Personnel</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#air-force">Air Force Personnel Center<br> HQ AFPC/DPSSRP</a></td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#air-force">AF STR Processing Center</a></td> 
+               </tr> 
+               <!-- Row 6 --> 
+               <tr> 
+                <td>Active (including National Guard on active duty in the Air Force), TDRL, or general officers retired with pay</td> 
+                <td>All Personnel</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#air-force">Air Force Personnel Center<br> HQ AFPC/DPSSRP</a></td> 
+                <td>&nbsp;</td> 
+               </tr> 
+               <!-- Row 7--> 
+               <tr> 
+                <td>Reserve, retired reserve in non-pay status, current National Guard officers not on active duty in the Air Force, or National Guard released from active duty in the Air Force</td> 
+                <td>Various Personnel</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#air-force">Air Reserve Personnel Center<br> HQ ARPC/DPTOCW (Contact Center)</a></td> 
+                <td>&nbsp;</td> 
+               </tr> 
+               <!-- Row 8--> 
+               <tr> 
+                <td>Current National Guard enlisted not on active duty in the Air Force</td> 
+                <td>All Personnel</td> 
+                <td>The Adjutant General<br> (of the appropriate state, DC, or Puerto Rico)</td> 
+                <td>&nbsp;</td> 
+               </tr> 
+              </tbody> 
+             </table> 
+            </div>
+           </div> 
+           <p><br> &nbsp;</p> 
+           <h2><a name="navy"></a>NAVY</h2> 
+           <!-- NAVY Table --> 
+           <div class="nwidget ncontainer ntable">
+            <div class="table table-responsive table-striped"> 
+             <table> 
+              <tbody>
+               <!-- Row 1 --> 
+               <tr> 
+                <td><strong>Dates of Service</strong></td> 
+                <td><strong>Rank</strong></td> 
+                <td><strong>Personnel Record Location</strong></td> 
+                <td><strong>Health Record Location</strong></td> 
+               </tr> 
+               <!-- Row 2 --> 
+               <tr> 
+                <td>1798 to 1885</td> 
+                <td>Enlisted</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#nara-old">NARA, Washington DC</a></td> 
+                <td>N/A</td> 
+               </tr> 
+               <!-- Row 3 --> 
+               <tr> 
+                <td>1798 to 1902</td> 
+                <td>Officer</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#nara-old">NARA, Washington DC</a></td> 
+                <td>N/A</td> 
+               </tr> 
+               <!-- Row 4 --> 
+               <tr> 
+                <td>1885 to January 30, 1994</td> 
+                <td>Enlisted</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#nprc">National Personnel Records Center</a><br> <span class="smaller"><strong>Note:</strong> Personnel records are <a href="/st-louis/archival-programs/division.html">Archival</a> <em>62 years</em> after the service member's separation</span></td> 
+                <td>&nbsp;</td> 
+               </tr> 
+               <!-- Row 5 --> 
+               <tr> 
+                <td>1902 to January 30, 1994</td> 
+                <td>Officer</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#nprc">National Personnel Records Center</a><br> <span class="smaller"><strong>Note:</strong> Personnel records are <a href="/st-louis/archival-programs/division.html">Archival</a> <em>62 years</em> after the service member's separation</span></td> 
+                <td>&nbsp;</td> 
+               </tr> 
+               <!-- Row 6 --> 
+               <tr> 
+                <td>January 31, 1994 to December 31, 1994</td> 
+                <td>All Personnel</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#nprc">National Personnel Records Center</a></td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#va">Department of Veterans Affairs</a></td> 
+               </tr> 
+               <!-- Row 7 --> 
+               <tr> 
+                <td>Discharged, deceased or retired on or after January 1, 1995 to December 31, 2013</td> 
+                <td>All Personnel</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#navy">Navy Personnel Command</a></td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#va">Department of Veterans Affairs</a></td> 
+               </tr> 
+               <!-- Row 8 --> 
+               <tr> 
+                <td>Discharged, deceased or retired on or after January 1, 2014</td> 
+                <td>All Personnel</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#nprc">National Personnel Records Center</a></td> 
+                <td> <p><a href="/st-louis/military-personnel/address-list.html#navy">BUMED Navy Medicine Records Activity </a></p> </td> 
+               </tr> 
+               <!-- Row 9 --> 
+               <tr> 
+                <td>Active, reserve or TDRL</td> 
+                <td>All Personnel</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#navy">Navy Personnel Command</a></td> 
+                <td>&nbsp;</td> 
+               </tr> 
+              </tbody> 
+             </table> 
+            </div>
+           </div> 
+           <p><br> &nbsp;</p> 
+           <h2><a name="marine-corps"></a>MARINE CORPS</h2> 
+           <!-- MARINE CORPS Table --> 
+           <div class="nwidget ncontainer ntable">
+            <div class="table table-responsive table-striped"> 
+             <table> 
+              <tbody>
+               <!-- Row 1 --> 
+               <tr> 
+                <td><strong>Dates of Service</strong></td> 
+                <td><strong>Rank</strong></td> 
+                <td><strong>Personnel Record Location</strong></td> 
+                <td><strong>Health Record Location</strong></td> 
+               </tr> 
+               <!-- Row 2 --> 
+               <tr> 
+                <td>1798 to 1904</td> 
+                <td>All Personnel</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#nara-old">NARA, Washington DC</a></td> 
+                <td>N/A</td> 
+               </tr> 
+               <!-- Row 3 --> 
+               <tr> 
+                <td>1905 to April 30, 1994</td> 
+                <td>All Personnel</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#nprc">National Personnel Records Center</a><br> <span class="smaller"><strong>Note:</strong> Personnel records are <a href="/st-louis/archival-programs/division.html">Archival</a> <em>62 years</em> after the service member's separation</span></td> 
+                <td>&nbsp;</td> 
+               </tr> 
+               <!-- Row 4 --> 
+               <tr> 
+                <td>May 1, 1994 to December 31, 1998</td> 
+                <td>All Personnel</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#nprc">National Personnel Records Center</a></td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#va">Department of Veterans Affairs</a></td> 
+               </tr> 
+               <!-- Row 5 --> 
+               <tr> 
+                <td>Discharged, deceased or retired on or after January 1, 1999 to December 31, 2013</td> 
+                <td>All Personnel</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#marine-corps">HQ U.S. Marine Corps</a></td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#va">Department of Veterans Affairs</a></td> 
+               </tr> 
+               <!-- Row 6 --> 
+               <tr> 
+                <td>Discharged, deceased or retired on or after January 1, 2014</td> 
+                <td>All Personnel</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#marine-corps">HQ U.S. Marine Corps</a></td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#navy">BUMED Navy Medicine Records Activity</a></td> 
+               </tr> 
+               <!-- Row 7 --> 
+               <tr> 
+                <td>Individual Ready Reserve</td> 
+                <td>All Personnel</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#marine-corps">Marine Forces Reserve</a></td> 
+                <td>&nbsp;</td> 
+               </tr> 
+               <!-- Row 8 --> 
+               <tr> 
+                <td>Active, Selected Marine Corps Reserve, TDRL</td> 
+                <td>All Personnel</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#marine-corps">HQ U.S. Marine Corps</a></td> 
+                <td>&nbsp;</td> 
+               </tr> 
+              </tbody> 
+             </table> 
+            </div>
+           </div> 
+           <p><br> &nbsp;</p> 
+           <h2><a name="coast-guard"></a>COAST GUARD<br> Including: Revenue Cutter Service (Revenue Marine), Life-Saving Service and Lighthouse Service</h2> 
+           <!-- COAST GUARD Table --> 
+           <div class="nwidget ncontainer ntable">
+            <div class="table table-responsive table-striped"> 
+             <table> 
+              <tbody>
+               <!-- Row 1 --> 
+               <tr> 
+                <td><strong>Dates of Service</strong></td> 
+                <td><strong>Rank</strong></td> 
+                <td><strong>Personnel Record Location</strong></td> 
+                <td><strong>Health Record Location</strong></td> 
+               </tr> 
+               <!-- Row 2 --> 
+               <tr> 
+                <td>Discharged, deceased or retired prior to December 31, 1897</td> 
+                <td>All Personnel</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#nara-old">NARA, Washington DC</a></td> 
+                <td>N/A</td> 
+               </tr> 
+               <!-- Row 3 --> 
+               <tr> 
+                <td>January 1, 1898 to March 31, 1998</td> 
+                <td>All Personnel</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#nprc">National Personnel Records Center</a><br> <span class="smaller"><strong>Note:</strong> Personnel records are <a href="/st-louis/archival-programs/division.html">Archival</a> <em>62 years</em> after the service member's separation</span></td> 
+                <td>&nbsp;</td> 
+               </tr> 
+               <!-- Row 4 --> 
+               <tr> 
+                <td>Discharged, deceased or retired from active duty from April 1, 1998 to September 30, 2014</td> 
+                <td>All Personnel</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#nprc">National Personnel Records Center</a></td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#va">Department of Veterans Affairs</a></td> 
+               </tr> 
+               <!-- Row 5 --> 
+               <tr> 
+                <td>Discharged, deceased or retired from active duty on or after October 1, 2014</td> 
+                <td>All Personnel</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#nprc">National Personnel Records Center</a></td> 
+                <td>&nbsp;</td> 
+               </tr> 
+               <!-- Row 6 --> 
+               <tr> 
+                <td>Active, Reserve or TDRL</td> 
+                <td>All Personnel</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#coast-guard">USCG Personnel Command</a></td> 
+                <td>&nbsp;</td> 
+               </tr> 
+              </tbody> 
+             </table> 
+            </div>
+           </div> 
+           <p><br> &nbsp;</p> 
+           <h2><a name="volunteers"></a><a href="/research/military/genealogy.html">VOLUNTEERS</a></h2> 
+           <!-- Volunteers Table --> 
+           <div class="nwidget ncontainer ntable">
+            <div class="table table-responsive table-striped"> 
+             <table> 
+              <tbody>
+               <!-- Row 1 --> 
+               <tr> 
+                <td><strong>Dates of Service</strong></td> 
+                <td><strong>Rank</strong></td> 
+                <td><strong>Record Location</strong></td> 
+               </tr> 
+               <!-- Row 2 --> 
+               <tr> 
+                <td>Military service performed by persons serving during an emergency and whose service was considered to be in the Federal interest, 1775 to 1902</td> 
+                <td>All Personnel</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#nara-old">NARA, Washington DC</a></td> 
+               </tr> 
+              </tbody> 
+             </table> 
+            </div>
+           </div> 
+           <p><br> &nbsp;</p> 
+           <h2><a name="confederate"></a><a href="/research/military/genealogy.html">CONFEDERATE STATES</a></h2> 
+           <!-- CONFEDERATE STATES Table --> 
+           <div class="nwidget ncontainer ntable">
+            <div class="table table-responsive table-striped"> 
+             <table> 
+              <tbody>
+               <!-- Row 1 --> 
+               <tr> 
+                <td><strong>Dates of Service</strong></td> 
+                <td><strong>Rank</strong></td> 
+                <td><strong>Record Location</strong></td> 
+               </tr> 
+               <!-- Row 2 --> 
+               <tr> 
+                <td>Persons who rendered military service for the Confederate States government in its armed forces, 1861 to 1865</td> 
+                <td>All Personnel</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#nara-old">NARA, Washington DC</a></td> 
+               </tr> 
+              </tbody> 
+             </table> 
+            </div>
+           </div> 
+           <p><br> &nbsp;</p> 
+           <h2><a name="pension"></a><a href="/research/military/genealogy.html">PENSION CLAIM FILES</a></h2> 
+           <!-- PENSION CLAIM FILES Table --> 
+           <div class="nwidget ncontainer ntable">
+            <div class="table table-responsive table-striped"> 
+             <table> 
+              <tbody>
+               <!-- Row 1 --> 
+               <tr> 
+                <td><strong>Dates of Service</strong></td> 
+                <td><strong>Rank</strong></td> 
+                <td><strong>Record Location</strong></td> 
+               </tr> 
+               <!-- Row 2 --> 
+               <tr> 
+                <td>Claims files for pensions based on Federal military service, 1775 to 1916</td> 
+                <td>All Personnel</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#nara-old">NARA, Washington DC</a></td> 
+               </tr> 
+              </tbody> 
+             </table> 
+            </div>
+           </div> 
+           <p><br> &nbsp;</p> 
+           <h2><a name="bounty"></a><a href="/research/military/genealogy.html">BOUNTY LAND WARRANT APPLICATION FILES</a></h2> 
+           <!-- BOUNTY LAND WARRANT APPLICATION FILES Table --> 
+           <div class="nwidget ncontainer ntable">
+            <div class="table table-responsive table-striped"> 
+             <table> 
+              <tbody>
+               <!-- Row 1 --> 
+               <tr> 
+                <td><strong>Dates of Service</strong></td> 
+                <td><strong>Rank</strong></td> 
+                <td><strong>Record Location</strong></td> 
+               </tr> 
+               <!-- Row 2 --> 
+               <tr> 
+                <td>Claims based on wartime service, 1775 to 1855</td> 
+                <td>All Personnel</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#nara-old">NARA, Washington DC</a></td> 
+               </tr> 
+              </tbody> 
+             </table> 
+            </div>
+           </div> 
+           <p><br> &nbsp;</p> 
+           <h2><a name="public"></a>PUBLIC HEALTH SERVICE</h2> 
+           <!-- Pulic Health Service Table --> 
+           <div class="nwidget ncontainer ntable">
+            <div class="table table-responsive table-striped"> 
+             <table> 
+              <tbody>
+               <!-- Row 1 --> 
+               <tr> 
+                <td><strong>Division</strong></td> 
+                <td><strong>Rank</strong></td> 
+                <td><strong>Record Location</strong></td> 
+               </tr> 
+               <!-- Row 2 --> 
+               <tr> 
+                <td>Commissioned Corps Only</td> 
+                <td>Officer</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#commissioned-corps">Division of Commissioned Corps Officer Support</a></td> 
+               </tr> 
+              </tbody> 
+             </table> 
+            </div>
+           </div> 
+           <p><br> &nbsp;</p> 
+           <h2><a name="selective"></a>SELECTIVE SERVICE</h2> 
+           <!-- Selective Service Table --> 
+           <div class="nwidget ncontainer ntable">
+            <div class="table table-responsive table-striped"> 
+             <table> 
+              <tbody>
+               <!-- Row 1 --> 
+               <tr> 
+                <td><strong>Holdings</strong></td> 
+                <td><strong>Record Location</strong></td> 
+               </tr> 
+               <!-- Row 2 --> 
+               <tr> 
+                <td><strong>WWI</strong> Selective Service Records</td> 
+                <td><a href="/research/military/ww1/draft-registration/index.html">Order copies of WWI Draft Registration Cards online</a></td> 
+               </tr> 
+               <!-- Row 3 --> 
+               <tr> 
+                <td><strong>WWII - Vietnam Era</strong> Selective Service Records<strong>*</strong></td> 
+                <td><a href="/st-louis/selective-service">National&nbsp;Archives at St. Louis</a></td> 
+               </tr> 
+               <!-- Row 4 --> 
+               <tr> 
+                <td>After January 1, 1960</td> 
+                <td><a href="/st-louis/military-personnel/address-list.html#sss">Selective Service System</a></td> 
+               </tr> 
+              </tbody> 
+             </table> 
+            </div>
+           </div> 
+           <p>*<strong>Please Note: men born from March 29, 1957 - December 31, 1959</strong> were not required to register with Selective Service because the registration program was suspended when they would have reached age 18.</p> 
+           <p>&nbsp;</p> 
+          </section> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <!-- page-body-wrapper --> 
+     <footer id="page-footer"> 
+      <div class="clearfix row last-update-wrapper "> 
+       <p id="last-update"> <span class="glyphicon glyphicon-edit"></span> This page was last reviewed on March 28, 2019.<br> <a href="/contact">Contact us with questions or comments</a>. </p> 
+      </div> 
+      <section id="mega-footer" class="clearfix panel-group"> 
+       <h2 class="footer-title"> Veterans’ Service Records </h2> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#service-records">Military Service Records</a></h2> 
+        </div> 
+        <div id="service-records" class="panel-collapse"> 
+         <ul>
+          <li><a href="/veterans/military-service-records/">Request Service Records</a></li> 
+          <li><a href="/veterans/military-service-records/correct-service-records">Correct Service Records</a></li> 
+          <li><a href="/veterans/military-service-records/medical-records">Medical and Health Records</a></li> 
+          <li><a href="/veterans/military-service-records/about-service-records">About Service Records</a></li> 
+          <li><a href="/veterans/military-service-records/record-request-notice">Special Notice Regarding Requests</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#military-research">Military Research</a></h2> 
+        </div> 
+        <div id="military-research" class="panel-collapse"> 
+         <ul>
+          <li><a href="/research/military/veterans/">Research Veterans Records</a></li> 
+          <li><a href="/research/military/veterans/online">Online Documents &amp; Research</a></li> 
+          <li><a href="/research/military/veterans/exhibits">Exhibits of Veterans Records</a></li> 
+          <li><a href="/research/military/genealogy">Genealogy &amp; Military Records</a></li> 
+          <li><a href="/research/military/veterans/links">Other Veterans Research Links</a></li> 
+          <li><a href="/research/military/">Research in Military Records</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#other">Other Veterans Resources</a></h2> 
+        </div> 
+        <div id="other" class="panel-collapse"> 
+         <ul>
+          <li><a href="/veterans/replace-medals">Replace Medals and Awards</a></li> 
+          <li><a href="/veterans/faq">Veterans FAQ</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#related">Related Sites</a></h2> 
+        </div> 
+        <div id="related" class="panel-collapse"> 
+         <ul>
+          <li><a href="/veterans/benefits">Veterans Benefits and Information</a></li> 
+          <li><a href="/veterans/locate-service-members">Locate Service Members</a></li> 
+          <li><a href="/veterans/employment-resources">Employment Resources</a></li> 
+         </ul>
+        </div> 
+       </div> 
+      </section> 
+      <section id="sub-footer"> 
+       <div class="region region-footer-bottom"> 
+        <section id="block-block-54" class="block block-block clearfix"> 
+         <h2> <a href="https://www.archives.gov/social-media/">Connect With Us</a></h2> 
+         <ul class="clearfix" id="social-media"> 
+          <li class="facebook" data-original-title="Facebook" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/facebook">Facebook</a></li> 
+          <li class="twitter" data-original-title="Twitter" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/twitter">Twitter</a></li> 
+          <li class="instagram" data-original-title="Instagram" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/instagram">Instagram</a></li> 
+          <li class="tumblr" data-original-title="Tumblr" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/tumblr">Tumblr</a></li> 
+          <li class="youtube" data-original-title="YouTube" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/youtube">YouTube</a></li> 
+          <li class="blogs" data-original-title="Blogs" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/blogs">Blogs</a></li> 
+          <li class="flickr" data-original-title="Flickr" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/flickr">Flickr</a></li> 
+         </ul> 
+         <p> </p> 
+         <p id="footer-links"> <a href="/contact/">Contact Us</a> · <a href="/global-pages/accessibility.html">Accessibility</a> · <a href="/global-pages/privacy.html">Privacy Policy</a> · <a href="/foia/">Freedom of Information Act</a> · <a href="/eeo/policy/complaint-activity.html">No FEAR Act</a> · <a href="http://www.usa.gov/">USA.gov</a></p> 
+         <p id="footer-phone">The U.S. National Archives and Records Administration<br> <a href="tel:1-866-272-6272">1-86-NARA-NARA or 1-866-272-6272</a></p> 
+        </section> 
+       </div> 
+      </section> 
+     </footer>
+     <!-- /page-footer --> 
+    </div> 
+    <script src="/sites/all/themes/nara/scripts/jquery.fancybox.pack.js" type="text/javascript"></script> 
+    <script src="/sites/all/themes/nara/scripts/helpers/jquery.fancybox-media.js" type="text/javascript"></script> 
+    <script src="/sites/all/themes/nara/scripts/helpers/jquery.fancybox-thumbs.js" type="text/javascript"></script> 
+    <script src="https://www.archives.gov/files/js/js_MRdvkC2u4oGsp5wVxBG1pGV5NrCPW3mssHxIn6G9tGE.js"></script> 
+   </div> 
+   <a class="back-to-top" href="#page-header" style="display: inline;">Top</a> 
+   <script>
+(function ($) {
+  // Original JavaScript code.
+$('.toc').toc({
+'selectors': 'h2:not(.element-invisible):not(.toc-block h2),h3',
+'container': '#main-col'
+});
+})(jQuery);
+
+//fix extra timeline object issue
+(function(){            
+  if(typeof Drupal.settings['timelineJS'] !== 'undefined'){      
+    timelinejs_arry = Drupal.settings['timelineJS'];
+    tmptimeline=[];
+    for (i = 0; i < timelinejs_arry.length-1; i++) {       
+      if(typeof timelinejs_arry[i]['processed'] !== 'undefined'){                        
+        tmptimeline.push(timelinejs_arry[i]);  
+      } 
+    }
+    Drupal.settings['timelineJS'] = tmptimeline;
+  }
+}());
+</script> 
+  </div> 
+  <!-- end -->   
+ </body>
+</html>

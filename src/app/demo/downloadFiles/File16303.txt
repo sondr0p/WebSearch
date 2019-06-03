@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
+  <title>Regulation &amp; Licensure - Mississippi Department of Health</title> 
+  <script type="text/javascript" language="javascript" src="includes/functions.js"></script> 
+  <link rel="stylesheet" type="text/css" href="theme/MDHStyles.css"> 
+ </head> 
+ <body> 
+  <script type="text/javascript" language="javascript" src="includes/functions.js"></script> 
+  <div id="container"> 
+   <div id="wrap"> 
+    <div id="header"> 
+     <img src="images/logo.jpg" alt="MSDH Home" usemap="#HeaderMap"> 
+     <map name="HeaderMap"> <area shape="rect" alt="Office of the Governor" coords="454,48,509,61" href="http://www.governor.state.ms.us/"> <area shape="rect" alt="Mississippi State Department of Health" coords="522,48,637,61" href="http://www.msdh.state.ms.us/msdhsite/_static/19,519,124.html"> <area shape="rect" alt="State Health Officer's Message" coords="649,47,757,62" href="http://www.msdh.state.ms.us/msdhsite/_static/19,647,189.html"> <area shape="rect" alt="Home" coords="0,0,779,71" href="http://www.msdh.state.ms.us/"> </map> 
+    </div> 
+    <div id="sidebar"> 
+     <h3><a href="main.jsp" title="HOME" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('HOME','','images/HOME_over.gif',1)"><img src="images/HOME.gif" name="HOME" alt="HOME"></a></h3> 
+     <ul> 
+      <li><span class="menuTextSm"> <a href="requirements.jsp" title="" class="categoryLink">Renew a License</a> </span></li> 
+      <li><span class="menuTextSm"> <a href="http://www.HealthyMS.com/renewals/faq.html" title="" class="categoryLink">Frequently Asked Questions</a> </span></li> 
+      <li><span class="menuTextSm"> <a href="contact_us.jsp" title="" class="categoryLink">Contact Us</a> </span></li> 
+     </ul> 
+    </div> 
+    <div id="content"> 
+     <div id="content"> 
+      <span id="pic1"> <span></span>&nbsp;</span> 
+      <span class="contentTitle">Professional License Renewals</span> 
+      <br>
+      <br> 
+      <div class="verbiage">
+       Welcome to the Mississippi Department of Health Professional Licensure Renewal website. This site was developed to take care of your licensure renewal needs quickly, safely, and securely. The links on your left will navigate you through this site.
+       <br>
+      </div> 
+     </div> 
+    </div> 
+    <br id="clear"> 
+    <div id="footer"></div> 
+   </div> 
+   <br> 
+   <div id="TakeCharge">
+    <a href="http://www.healthyms.com/HealthyLiving/" class="pageBottom"> <img src="images/TakeCharge.gif" alt="Take Charge of Your Health" title="Take Charge of Your Health"></a> 
+    <br> 
+    <a href="http://www.healthyms.com/HealthyLiving/" class="pageBottom"> Click to visit MDH's new tools for healthier living</a> 
+   </div> 
+  </div>   
+ </body>
+</html>

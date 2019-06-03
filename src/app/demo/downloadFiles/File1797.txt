@@ -1,0 +1,636 @@
+<!doctype html>
+<html lang="en" class="public">
+ <head> 
+  <meta charset="utf-8" content=""> 
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge"> 
+  <title>Snapshots - Index</title> 
+  <meta name="apple-mobile-web-app-capable" content="yes"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"> 
+  <meta name="apple-mobile-web-app-status-bar-style" content="black"> 
+  <link rel="shortcut icon" href="/dmh/snapshots/Content/base/msi/images/favicon.ico"> 
+  <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400" rel="stylesheet"> 
+  <script src="/dmh/snapshots/Content/base/jQuery/js/jquery-2.1.4.js"></script> 
+  <script src="/dmh/snapshots/Content/base/jQuery/js/jquery-ui.js"></script> 
+  <script src="/dmh/snapshots/Content/base/jQuery/js/jquery.validate.js"></script> 
+  <script src="/dmh/snapshots/Content/base/jQuery/js/jquery.validate.unobtrusive.js"></script> 
+  <script src="/dmh/snapshots/Content/base/bootstrap/js/bootstrap.js"></script> 
+  <script src="/dmh/snapshots/Content/base/modernizr/js/modernizr-2.8.3.js"></script> 
+  <script src="/dmh/snapshots/Content/base/json2/js/json2.js"></script> 
+  <script src="/dmh/snapshots/Content/base/moment/js/moment.js"></script> 
+  <script src="/dmh/snapshots/Content/base/twitter-bootstrap-wizard/js/jquery.bootstrap.wizard.js"></script> 
+  <script src="/dmh/snapshots/Content/agency/adminLTE/plugins/datepicker/bootstrap-datepicker.js"></script> 
+  <script src="/dmh/snapshots/Content/agency/adminLTE/plugins/slimScroll/jquery.slimscroll.js"></script> 
+  <script src="/dmh/snapshots/Content/agency/adminLTE/plugins/fullcalendar/fullcalendar.js"></script> 
+  <script src="/dmh/snapshots/Content/agency/adminLTE/js/app.js"></script> 
+  <script src="/dmh/snapshots/Scripts/jquery.unobtrusive-ajax.js" type="text/javascript"></script> 
+  <script src="/dmh/snapshots/Content/agency/js/bootstrap-datetimepicker.js"></script> 
+  <script src="/dmh/snapshots/Content/agency/js/multiple-select.js"></script> 
+  <script src="/dmh/snapshots/Content/agency/js/scripts.js"></script> 
+  <link href="/dmh/snapshots/Content/base/bootstrap/css/bootstrap.css" rel="stylesheet"> 
+  <link href="/dmh/snapshots/Content/base/font-awesome/css/font-awesome.css" rel="stylesheet"> 
+  <link href="/dmh/snapshots/Content/base/msi/css/style.css" rel="stylesheet"> 
+  <link href="/dmh/snapshots/Content/agency/css/jquery-ui.css" rel="stylesheet"> 
+  <link href="/dmh/snapshots/Content/agency/css/multiple-select.css" rel="stylesheet"> 
+  <link href="/dmh/snapshots/Content/agency/css/style.css" rel="stylesheet"> 
+  <link href="/dmh/snapshots/Content/agency/css/toggles-all.css" rel="stylesheet"> 
+  <link href="/dmh/snapshots/Content/agency/css/toggles-modern.css" rel="stylesheet"> 
+  <link href="/dmh/snapshots/Content/agency/css/toggles.css" rel="stylesheet"> 
+  <script type="text/javascript">
+$(window).load(function(){
+	if(window.location.protocol === "http:")
+{
+	    window.location.href = "https://" + window.location.host + window.location.pathname;
+}
+});
+      </script> 
+ </head> 
+ <body class="public"> 
+  <div class="cntnt" style="min-height:100%; position:relative; "> 
+   <div class="header"> 
+    <div class="row"> 
+     <div class="col-lg-2 col-sm-2 col-xs-3 logo"> 
+      <img alt="Mississippi Department of Mental Health" src="/dmh/snapshots/Images/seow_logo.jpg"> 
+     </div> 
+     <div class="col-lg-10 col-sm-10 col-xs-9"> 
+      <div style="float: right;"> 
+       <div class="navbar-header" style="float:right;"> 
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" id="menuBtn" aria-expanded="false" data-target="#bs-example-navbar-collapse-2"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button> 
+       </div> 
+       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1"> 
+        <ul id="navA" class="nav navbar-nav" style="float:right;"> 
+         <li><a href="/dmh/snapshots/">Home</a></li> 
+         <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Who We Are</a> 
+          <ul class="dropdown-menu"> 
+           <li><a href="/dmh/snapshots/Pages/Who_We_Are/Seow?category=1">SEOW</a></li> 
+           <li><a href="/dmh/snapshots/Pages/Who_We_Are/ContactUs?category=1">Contact Us</a></li> 
+          </ul> </li> 
+         <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Data</a> 
+          <ul class="dropdown-menu"> 
+           <li><a href="/dmh/snapshots/Pages/Data/MississippiData?category=2">Mississippi Data</a></li> 
+           <li><a href="/dmh/snapshots/Pages/Data/CountyData?category=2">County Data</a></li> 
+           <li><a href="/dmh/snapshots/Pages/Data/NationalData?category=2">National Data</a></li> 
+           <li><a href="/dmh/snapshots/Pages/Data/QuarterlyDataReports?category=2">Quarterly Data Reports</a></li> 
+          </ul> </li> 
+         <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Epidemiological Profiles</a> 
+          <ul class="dropdown-menu"> 
+           <li><a href="/dmh/snapshots/Pages/Epidemiological_Profiles/2007Profile?category=3">2007 Profile</a></li> 
+           <li><a href="/dmh/snapshots/Pages/Epidemiological_Profiles/2010Profile?category=3">2010 Profile</a></li> 
+           <li><a href="/dmh/snapshots/Pages/Epidemiological_Profiles/2011Profile?category=3">2011 Profile</a></li> 
+           <li><a href="/dmh/snapshots/Pages/Epidemiological_Profiles/2012Profile?category=3">2012 Profile</a></li> 
+          </ul> </li> 
+         <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Links</a> 
+          <ul class="dropdown-menu"> 
+           <li><a href="/dmh/snapshots/Pages/Links/Training?category=4">Training</a></li> 
+           <li><a href="/dmh/snapshots/Pages/Links/National?category=4">National</a></li> 
+           <li><a href="/dmh/snapshots/Pages/Links/State?category=4">State</a></li> 
+          </ul> </li> 
+         <li><a href="/dmh/snapshots/Pages/Faqs/FrequentlyAskedQuestions?category=5">Faq's</a></li> 
+         <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Reporting</a> 
+          <ul class="dropdown-menu"> 
+           <li><a href="/dmh/snapshots/Home/About">About</a></li> 
+           <li><a href="/dmh/snapshots/Home/LogIn">Login</a></li> 
+          </ul> </li> 
+         <li class=""> <a href="/dmh/snapshots/Articles/Index">Articles</a> </li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="row"> 
+     <div class="col-lg-12" style="padding: 0"> 
+      <div class="collapse navbar-collapsed" id="bs-example-navbar-collapse-2"> 
+       <ul id="navB" class="nav navbar-nav" style="float:right;"> 
+        <li><a href="/dmh/snapshots/">Home</a></li> 
+        <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Who We Are</a> 
+         <ul class="dropdown-menu"> 
+          <li><a href="/dmh/snapshots/Pages/Who_We_Are/Seow?category=1">SEOW</a></li> 
+          <li><a href="/dmh/snapshots/Pages/Who_We_Are/ContactUs?category=1">Contact Us</a></li> 
+         </ul> </li> 
+        <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Data</a> 
+         <ul class="dropdown-menu"> 
+          <li><a href="/dmh/snapshots/Pages/Data/MississippiData?category=2">Mississippi Data</a></li> 
+          <li><a href="/dmh/snapshots/Pages/Data/CountyData?category=2">County Data</a></li> 
+          <li><a href="/dmh/snapshots/Pages/Data/NationalData?category=2">National Data</a></li> 
+          <li><a href="/dmh/snapshots/Pages/Data/QuarterlyDataReports?category=2">Quarterly Data Reports</a></li> 
+         </ul> </li> 
+        <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Epidemiological Profiles</a> 
+         <ul class="dropdown-menu"> 
+          <li><a href="/dmh/snapshots/Pages/Epidemiological_Profiles/2007Profile?category=3">2007 Profile</a></li> 
+          <li><a href="/dmh/snapshots/Pages/Epidemiological_Profiles/2010Profile?category=3">2010 Profile</a></li> 
+          <li><a href="/dmh/snapshots/Pages/Epidemiological_Profiles/2011Profile?category=3">2011 Profile</a></li> 
+          <li><a href="/dmh/snapshots/Pages/Epidemiological_Profiles/2012Profile?category=3">2012 Profile</a></li> 
+         </ul> </li> 
+        <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Links</a> 
+         <ul class="dropdown-menu"> 
+          <li><a href="/dmh/snapshots/Pages/Links/Training?category=4">Training</a></li> 
+          <li><a href="/dmh/snapshots/Pages/Links/National?category=4">National</a></li> 
+          <li><a href="/dmh/snapshots/Pages/Links/State?category=4">State</a></li> 
+         </ul> </li> 
+        <li><a href="/dmh/snapshots/Pages/Faqs/FrequentlyAskedQuestions?category=5">Faq's</a></li> 
+        <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Reporting</a> 
+         <ul class="dropdown-menu"> 
+          <li><a href="/dmh/snapshots/Home/About">About</a></li> 
+          <li><a href="/dmh/snapshots/Home/LogIn">Login</a></li> 
+         </ul> </li> 
+        <li class=""> <a href="/dmh/snapshots/Articles/Index">Articles</a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="bod"> 
+    <!-- Global site tag (gtag.js) - Google Analytics --> 
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-110960155-1"></script> 
+    <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-110960155-1');
+</script> 
+    <div class="cntnt">
+     <div id="appContent"> 
+      <style>
+    .bod{
+        padding: 10px 0 144px 0; 
+    }
+</style> 
+      <div id="snapSlidera" class="carousel slide" data-ride="carousel" data-interval="11000"> 
+       <!-- Indicators --> 
+       <ol class="carousel-indicators"> 
+        <li data-target="#snapSlidera" data-slide-to="0" class="active"></li> 
+        <li data-target="#snapSlidera" data-slide-to="1"></li> 
+        <li data-target="#snapSlidera" data-slide-to="2"></li> 
+       </ol> 
+       <div class="carousel-inner" role="listbox" style="margin-bottom: 100px;"> 
+        <a class="slideraBtn item active" style="background:  url('https://www.msegov.com/dmh/snapshots/Documents/slide1.jpg') no-repeat; background-size: cover; background-color:;" href="https://www.msegov.com/dmh/snapshots/Home/About" target="_blank" role="button" title="About"> 
+         <div class="container" style="margin-bottom: 150px;"> 
+          <div class="carousel-caption"> 
+           <p class="slideraHeading">Welcome</p> 
+           <div class="slideraContent">
+            <p>Welcome to Snapshots: Mississippi’s Health Data Source. The Department of Education and the Department of Mental Health have partnered together to bring you Mississippi’s premier health data source. The website is dedicated to providing Mississippians with the most current data available through a collaboration of many Mississippi agencies.</p>
+           </div> 
+          </div> 
+         </div> </a> 
+        <div class="slideraBtn item " style="background:  url('https://www.msegov.com/dmh/snapshots/Documents/slide2.jpg') no-repeat; background-size: cover; background-color:;" role="button"> 
+         <div class="container" style="margin-bottom: 150px;"> 
+          <div class="carousel-caption"> 
+           <p class="slideraHeading">National News</p> 
+           <div class="slideraContent">
+            <p>Results for the 2016 National Survey on Drug Use and Health (NSDUH) show approximately 1 in 10 people in United States, ages 12 – 25, reported misusing opioids in the past year. &nbsp;To view the results click <a href="https://www.samhsa.gov/data/sites/default/files/NSDUH-FFR1-2016/NSDUH-FFR1-2016.pdf" target="_blank" rel="noopener noreferrer">here</a>.</p>
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="slideraBtn item " style="background: linear-gradient(rgba(0, 204, 150, 0.75), rgba(0, 204, 150, 0.75)), url('') no-repeat; background-size: cover; background-color: #3e3744;" role="button"> 
+         <div class="container" style="margin-bottom: 150px;"> 
+          <div class="carousel-caption"> 
+           <p class="slideraHeading">State News</p> 
+           <div class="slideraContent">
+            <p>Mississippi ranks number 5 in the country for the most opioid prescriptions.&nbsp; Drug poisoning in the state increased by 15-folds and heroin related deaths in Mississippi increased 8-folds in a 4 year span.&nbsp; To learn more about drug overdose deaths in Mississippi click <a href="http://www.clarionledger.com/story/news/2017/06/11/drug-overdose-deaths-reach-record-mississippi/349433001/" target="_blank" rel="noopener noreferrer">here</a>.&nbsp;</p>
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <a class="left carousel-control" href="#snapSlidera" role="button" data-slide="prev"> <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> <span class="sr-only">Previous</span> </a> 
+       <a class="right carousel-control" href="#snapSlidera" role="button" data-slide="next"> <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span> <span class="sr-only">Next</span> </a> 
+      </div>
+      <!-- /.carousel --> 
+      <div class="secondRow"> 
+       <div class="indx form-style-1" style="margin-top: 150px;"> 
+        <div class="row"> 
+         <div class="col-lg-4"> 
+          <div class="launch"> 
+           <div class="row"> 
+            <div class="col-lg-12"> 
+             <div class="launchImageFramea"> 
+              <img src="/dmh/snapshots/Content/agency/images/MSicon-01.svg" class="launchImagea"> 
+             </div> 
+            </div> 
+           </div> 
+           <div class="launchPanel"> 
+            <div class="row"> 
+             <div class="col-lg-12">
+              <label class="launchHeader">County Search</label>
+             </div> 
+            </div> 
+            <div class="row"> 
+             <div class="col-lg-12"> 
+              <p class="launchBody">Search and create reports using defined counties and variables, compare data across multiple counties and view county data against the state of Mississippi as a whole.</p> 
+             </div> 
+            </div> 
+            <div class="row"> 
+             <div class="col-lg-12"> 
+              <a class="btnBen launchBtn" href="/dmh/snapshots/Home/CountyDataSearch">Launch</a> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="col-lg-4"> 
+          <div class="launch"> 
+           <div class="row"> 
+            <div class="col-lg-12"> 
+             <div class="launchImageFrameb" style="display: table;"> 
+              <img src="/dmh/snapshots/Content/agency/images/lensIcon-01.svg" class="launchImageb"> 
+             </div> 
+            </div> 
+           </div> 
+           <div class="launchPanel"> 
+            <div class="row"> 
+             <div class="col-lg-12">
+              <label class="launchHeader">Indicator Search</label>
+             </div> 
+            </div> 
+            <div class="row"> 
+             <div class="col-lg-12"> 
+              <p class="launchBody">Search and create reports using defined variables. Reports or charts may be generated by Gender, Race, and Grade. Reports may also be generated to show all three options in one report.</p> 
+             </div> 
+            </div> 
+            <div class="row"> 
+             <div class="col-lg-12"> 
+              <a class="btnBen launchBtn" href="/dmh/snapshots/Home/IndicatorSearch">Launch</a> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="col-lg-4"> 
+          <div class="launch"> 
+           <div class="row"> 
+            <div class="col-lg-12"> 
+             <div class="launchImageFrameb" style="display: table;"> 
+              <img src="/dmh/snapshots/Content/agency/images/eyeIcon-01.svg" class="launchImageb"> 
+             </div> 
+            </div> 
+           </div> 
+           <div class="launchPanel"> 
+            <div class="row"> 
+             <div class="col-lg-12">
+              <label class="launchHeader">FAQ</label>
+             </div> 
+            </div> 
+            <div class="row"> 
+             <div class="col-lg-12"> 
+              <p class="launchBody">Do you have questions about Snapshots or The SEOW? Start here by reading general information and frequently asked questions.</p> 
+             </div> 
+            </div> 
+            <div class="row"> 
+             <div class="col-lg-12"> 
+              <a class="btnBen launchBtn" href="/dmh/snapshots/Pages/Faqs/FrequentlyAskedQuestions">Launch</a> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="thirdRow"> 
+       <div class="form-style-1" style="margin-top: 150px; max-width: none !important; width: 100%; padding: 0 15px;"> 
+        <div class="row"> 
+         <div class="col-lg-4"> 
+          <div class="featurePanel"> 
+           <p class="featureHeading">State Consumption</p> 
+           <div class="featureContent"> 
+            <script type="text/javascript">
+    $(document).ready(function () {
+        $.ajax({
+            url: '/dmh/snapshots/Home/RetrieveStateChart',
+            method: 'GET',
+            dataType: 'json',
+            success: function (data) {
+               
+                drawBarChart(data);
+            }
+        });
+    });
+
+    function drawBarChart(d) {
+    var myData = [];
+    $.each(d.Data, function (key, value) {
+        myData.push(value.Total);
+    });
+        var ctx = $("#stateChart");
+        var chartinstance = new Chart(ctx, {
+            type: d.ChartType,
+            data: {
+                labels: d.Labels,
+                datasets: [{
+                    label: d.ChartLabel,
+                    data: myData,
+                    backgroundColor: d.Colors,
+                    //borderColor: "black",
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                events: false,
+                tooltips: {
+                    enabled: false
+                },
+                animation: {
+                    duration: 0,
+                    onComplete: function () {
+                        // render the value of the chart above the bar
+                        var ctx = this.chart.ctx;
+                        ctx.font = Chart.helpers.fontString(18, 'normal', Chart.defaults.global.defaultFontFamily);
+                        ctx.fillStyle = this.chart.config.options.defaultFontColor;
+                        ctx.textAlign = 'center';
+                        ctx.textBaseline = 'bottom';
+                        this.data.datasets.forEach(function (dataset) {
+                            for (var i = 0; i < dataset.data.length; i++) {
+                                var model = dataset._meta[Object.keys(dataset._meta)[0]].data[i]._model;
+                                ctx.fillText(dataset.data[i], model.x, model.y - 5);
+                            }
+                        });
+                    }
+                },
+                legend: { display: false  },
+                scales: {
+                    yAxes: [{
+                        ticks: {
+                            fontColor: "black",
+                            beginAtZero: true,
+                            stepSize: 5000,
+                            userCallback: function (value, index, values) {
+                                value = value.toString();
+                                value = value.split(/(?=(?:...)*$)/);
+                                value = value.join(',');
+                                return value;
+                            }
+                        }
+                    }],
+                    xAxes: [{
+                        display: true,
+                        ticks: {
+                            fontColor: "black"
+                        }
+                    }]
+                },
+                maintainAspectRatio: false,
+                responsive: true
+            }
+        });
+        $("#stateChartLoad").hide();
+        $("#stateChart").show();
+    }
+</script> 
+            <div class="row"> 
+             <div class="col-xs-12" style="text-align: center;"> 
+              <canvas id="stateChart" class="" style="display: none;max-height: 500px;"></canvas> 
+              <div id="stateChartLoad" style="z-index: 1000; width: 100%; text-align: center;margin-top: 100px; font-size: 80px; background: transparent; "> 
+               <p style="font-size: x-large;">Loading Chart...</p> 
+               <p>&nbsp;</p> 
+               <i class="fa fa-spinner fa-spin"></i> 
+               <p>&nbsp;</p> 
+               <p>&nbsp;</p> 
+               <p>&nbsp;</p> 
+              </div> 
+             </div> 
+            </div>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="col-lg-4"> 
+          <div class="featurePanel"> 
+           <p class="featureHeading">State Quick Facts</p> 
+           <div class="featureContent"> 
+            <div class="row"> 
+             <div class="col-lg-12"> 
+              <div id="snapSliderb" class="carousel slide" data-ride="carousel" data-interval="15000"> 
+               <!-- Indicators --> 
+               <ol class="carousel-indicators"> 
+                <li data-target="#snapSliderb" data-slide-to="0" class="active"></li> 
+                <li data-target="#snapSliderb" data-slide-to="1"></li> 
+                <li data-target="#snapSliderb" data-slide-to="2"></li> 
+                <li data-target="#snapSliderb" data-slide-to="3"></li> 
+                <li data-target="#snapSliderb" data-slide-to="4"></li> 
+                <li data-target="#snapSliderb" data-slide-to="5"></li> 
+                <li data-target="#snapSliderb" data-slide-to="6"></li> 
+                <li data-target="#snapSliderb" data-slide-to="7"></li> 
+               </ol> 
+               <div class="carousel-inner" role="listbox"> 
+                <a class="sliderbBtn item active" style="background-color: transparent;"> 
+                 <div class="carousel-caption" style="padding-top: 0px;" role="button"> 
+                  <p class="sliderbHeading">Fact 1</p> 
+                  <div class="sliderbContent">
+                   <p style="text-align: center;">Nearly <strong>9%</strong> of adolescents in Mississippi reported drinking alcohol in the past 30 days, which was lower than the national average, at approximately 11% (NSDUH, 2015).</p> 
+                   <p style="text-align: center;">&nbsp;</p> 
+                   <p style="text-align: center;">&nbsp;</p> 
+                   <p style="text-align: center;">&nbsp;</p> 
+                   <p style="text-align: center;"><span style="font-size: 144px;">9%</span></p>
+                  </div> 
+                 </div> </a> 
+                <a class="sliderbBtn item " style="background-color: transparent;"> 
+                 <div class="carousel-caption" style="padding-top: 0px;" role="button"> 
+                  <p class="sliderbHeading">Fact 2</p> 
+                  <div class="sliderbContent">
+                   <p style="text-align: center;">Young Adults between the ages of 18 – 25 drank alcohol more than any other age group in Mississippi, with <strong>47%</strong> reporting drinking alcohol in the past 30 days; however, Mississippians between the ages of 18 – 25 drank alcohol less than the national average, at 59%, in the past 30 days.</p> 
+                   <p style="text-align: center;">&nbsp;</p> 
+                   <p style="text-align: center;">&nbsp;</p> 
+                   <p style="text-align: center;"><span style="font-size: 144px;">47%</span></p>
+                  </div> 
+                 </div> </a> 
+                <a class="sliderbBtn item " style="background-color: transparent;"> 
+                 <div class="carousel-caption" style="padding-top: 0px;" role="button"> 
+                  <p class="sliderbHeading">Fact 3</p> 
+                  <div class="sliderbContent">
+                   <p style="text-align: center;">Teens in Mississippi reported a higher amount of tobacco products use in the past 30 days, at <strong>9%</strong>, than teens across the country, at 7% (NSDUH, 2015).</p> 
+                   <p style="text-align: center;">&nbsp;</p> 
+                   <p style="text-align: center;">&nbsp;</p> 
+                   <p style="text-align: center;">&nbsp;</p> 
+                   <p style="text-align: center;"><span style="font-size: 144px;">9%</span></p>
+                  </div> 
+                 </div> </a> 
+                <a class="sliderbBtn item " style="background-color: transparent;"> 
+                 <div class="carousel-caption" style="padding-top: 0px;" role="button"> 
+                  <p class="sliderbHeading">Fact 4</p> 
+                  <div class="sliderbContent">
+                   <p style="text-align: center;">In the past 30 days, Mississippians between the ages of 18 – 25 used tobacco products more frequently than those in their same age group nationally, at <strong>39%</strong> and 34% respectively.</p> 
+                   <p style="text-align: center;">&nbsp;</p> 
+                   <p style="text-align: center;">&nbsp;</p> 
+                   <p style="text-align: center;"><span style="font-size: 144px;">39%</span></p>
+                  </div> 
+                 </div> </a> 
+                <a class="sliderbBtn item " style="background-color: transparent;"> 
+                 <div class="carousel-caption" style="padding-top: 0px;" role="button"> 
+                  <p class="sliderbHeading">Fact 5</p> 
+                  <div class="sliderbContent">
+                   <p style="text-align: center;">Over <strong>5%</strong> of Mississippi teens reported use of marijuana in the past 30 days, which was lower than the national average of 7% (NSDUH, 2015).</p> 
+                   <p style="text-align: center;">&nbsp;</p> 
+                   <p style="text-align: center;">&nbsp;</p> 
+                   <p style="text-align: center;"><span style="font-size: 144px;">5%</span></p>
+                  </div> 
+                 </div> </a> 
+                <a class="sliderbBtn item " style="background-color: transparent;"> 
+                 <div class="carousel-caption" style="padding-top: 0px;" role="button"> 
+                  <p class="sliderbHeading">Fact 6</p> 
+                  <div class="sliderbContent">
+                   <p style="text-align: center;">Approximately <strong>14%</strong> of young adults, between the ages of 18 – 25, reported marijuana use in the past 30 days in Mississippi, but 1 in 5 (20%) of their national counterparts reported using marijuana in the past 30 days (NSDUH, 2015).</p> 
+                   <p style="text-align: center;">&nbsp;</p> 
+                   <p style="text-align: center;">&nbsp;</p> 
+                   <p style="text-align: center;"><span style="font-size: 144px;">14%</span></p>
+                  </div> 
+                 </div> </a> 
+                <a class="sliderbBtn item " style="background-color: transparent;"> 
+                 <div class="carousel-caption" style="padding-top: 0px;" role="button"> 
+                  <p class="sliderbHeading">Fact 7</p> 
+                  <div class="sliderbContent">
+                   <p style="text-align: center;">In the past 12 months, Mississippians between the ages of 12 – 17 misused prescription pain relievers at a higher frequency than adolescents nationwide, at <strong>6%</strong>, which was one percent higher than teens across the country, at 5% (NSDUH, 2014).</p> 
+                   <p style="text-align: center;">&nbsp;</p> 
+                   <p style="text-align: center;">&nbsp;</p> 
+                   <p style="text-align: center;"><span style="font-size: 144px;">6%</span></p>
+                  </div> 
+                 </div> </a> 
+                <a class="sliderbBtn item " style="background-color: transparent;"> 
+                 <div class="carousel-caption" style="padding-top: 0px;" role="button"> 
+                  <p class="sliderbHeading">Fact 8</p> 
+                  <div class="sliderbContent">
+                   <p style="text-align: center;">In the past 12 months, Mississippians between the ages of 18 – 25 misused prescription pain relievers at a higher frequency than 18 – 25 year olds nationwide, at <strong>9%</strong> and 8% respectively (NSDUH, 2014).</p> 
+                   <p style="text-align: center;">&nbsp;</p> 
+                   <p style="text-align: center;">&nbsp;</p> 
+                   <p style="text-align: center;"><span style="font-size: 144px;">9%</span></p>
+                  </div> 
+                 </div> </a> 
+               </div> 
+               <a class="left carousel-control" href="#snapSliderb" role="button" data-slide="prev"> <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> <span class="sr-only">Previous</span> </a> 
+               <a class="right carousel-control" href="#snapSliderb" role="button" data-slide="next"> <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span> <span class="sr-only">Next</span> </a> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="col-lg-4"> 
+          <div class="featurePanel"> 
+           <p class="featureHeading" style="font-weight: bold;color: red;">News &amp; Alerts</p> 
+           <div class="featureContent"> 
+            <script src="/dmh/snapshots/Content/agency/adminLTE/plugins/datatables/jquery.dataTables.js"></script> 
+            <script src="/dmh/snapshots/Content/agency/adminLTE/plugins/datatables/dataTables.bootstrap.js"></script> 
+            <script src="/dmh/snapshots/Content/base/datatables/js/plugins/CurrencyFormat.js"></script> 
+            <script src="/dmh/snapshots/Content/base/datatables/js/plugins/datetime-moment.js"></script> 
+            <script src="/dmh/snapshots/Content/base/datatables/js/plugins/fnReloadAjax.js"></script> 
+            <script src="/dmh/snapshots/Content/base/datatables/js/plugins/GridReload.js"></script> 
+            <script type="text/javascript">
+    $(document).ready(function () {
+        var table = getTable();
+        $(document).on('click', '#clearLink', function () {
+            $('.inputBoxa').val('');
+            $('#aDrop').multipleSelect('uncheckAll');
+            $('#bDrop').multipleSelect('uncheckAll');
+            table.destroy();
+            table = getTable();
+        });
+    });
+    function getTable() {
+        var table = $('#viewArticles').DataTable({
+            "dom": '<"top"><t><"bottom">ip<"clear">',
+            "bLengthChange": false,
+            "pageLength": 3,
+            "bFilter": true,
+            "oLanguage": {
+                "sSearch": "",
+                "oPaginate": {
+                    "sNext": "<i class='fa fa-chevron-right' aria-hidden='true'></i>",
+                    "sLast": '>>',
+                    "sFirst": '<<',
+                    "sPrevious": "<i class='fa fa-chevron-left' aria-hidden='true'></i>"
+                }
+            },
+            "columnDefs": [
+            {
+                "targets": [0],
+                "visible": true,
+                "searchable": false,
+                "orderable": false
+            }
+            //{
+            //    "targets": [1],
+            //    "visible": true,
+            //    "searchable": false,
+            //    "orderable": false
+            //}
+        ]
+        });
+        return table;
+    }
+    </script> 
+            <div class="" style="font-weight: 400;"> 
+             <div class="row"> 
+              <div class="col-lg-12"> 
+               <div class="box box-primary" style="padding: 10px;"> 
+                <table id="viewArticles" class="table display" cellspacing="0" width="100%" style="margin-bottom: 0px;"> 
+                 <thead style="display:none;"></thead> 
+                 <tbody> 
+                  <tr> 
+                   <td class="tCol bTopNone col-sm-12 col-xs-12" style="text-align: left;border: none;"> <span class="articleSubject">SAMHSA Data Website</span><br> 
+                    <div class="articleContent">
+                     <p><a title="SAMHSA Data" href="https://www.samhsa.gov/data/" target="_blank" rel="noopener noreferrer">SAMHSA Data</a></p>
+                    </div> <a href="https://uat.msi.ms.gov/dmh/snapshots/Articles/News_and_Alerts/SamhsaDataWebsite" class="articleLink">View More</a> </td> 
+                  </tr> 
+                  <tr> 
+                   <td class="tCol bTopNone col-sm-12 col-xs-12" style="text-align: left;border: none;"> <span class="articleSubject">County Health Rankings</span><br> 
+                    <div class="articleContent">
+                     <p><a title="County Health Rankings" href="http://www.countyhealthrankings.org/" target="_blank" rel="noopener noreferrer">County Health Rankings</a></p>
+                    </div> <a href="https://uat.msi.ms.gov/dmh/snapshots/Articles/News_and_Alerts/CountyHealthRankings" class="articleLink">View More</a> </td> 
+                  </tr> 
+                  <tr> 
+                   <td class="tCol bTopNone col-sm-12 col-xs-12" style="text-align: left;border: none;"> <span class="articleSubject">Substance Abuse Prevention Planning and Epidemiology Tool</span><br> 
+                    <div class="articleContent">
+                     <p><a title="SAPPET" href="https://www.sappet-epi.com/welcome.aspx?menuID=1&amp;font=" target="_blank" rel="noopener noreferrer">SAPPET</a></p>
+                    </div> <a href="https://uat.msi.ms.gov/dmh/snapshots/Articles/News_and_Alerts/SubstanceAbusePreventionPlanningAndEpidemiologyTool" class="articleLink">View More</a> </td> 
+                  </tr> 
+                  <tr> 
+                   <td class="tCol bTopNone col-sm-12 col-xs-12" style="text-align: left;border: none;"> <span class="articleSubject">The Fourth News Heading</span><br> 
+                    <div class="articleContent">
+                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent egestas tristique tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ornare diam mauris, id vulputate ipsum ultricies eu. Proin sit amet fringilla magna. Sed nec velit tellus. Nam viverra, turpis sollicitudin posuere dapibus, elit eros viverra nisi, at porttitor tortor massa a dolor. Nulla varius lorem erat, eget lacinia nisi tristique ac. Sed at turpis turpis. Nulla vel gravida nulla. Fusce at libero nisl.</p> 
+                     <p>Proin vestibulum consectetur purus, at laoreet velit vulputate quis. Praesent tempor rhoncus pulvinar. Fusce velit leo, ullamcorper consectetur odio vitae, tristique cursus quam. Cras eu mauris ut sapien auctor porta ut eget lorem. Pellentesque volutpat nulla nibh, id accumsan sem scelerisque ac. Integer non ante feugiat erat luctus posuere in at metus. Curabitur semper nibh ut diam dignissim suscipit. Phasellus felis quam, finibus sit amet congue at, bibendum at neque. Duis et dignissim nunc. Praesent massa nunc, porta in cursus vitae, pretium ac augue. Proin lacinia, eros non luctus fermentum, nisl leo viverra felis, et efficitur leo ex ac ligula.</p> 
+                     <p>Etiam vel viverra orci. Nulla facilisi. Nullam id dictum urna. Morbi vestibulum lacus ac libero tincidunt tempus. Donec ut dui odio. Vestibulum varius mauris eget vehicula malesuada. Phasellus at convallis diam. Ut varius vulputate risus. Donec euismod leo ut venenatis pharetra. In pellentesque volutpat urna, non viverra est imperdiet ultrices.</p>
+                    </div> <a href="https://uat.msi.ms.gov/dmh/snapshots/Articles/News_and_Alerts/TheFourthNewsHeading" class="articleLink">View More</a> </td> 
+                  </tr> 
+                 </tbody> 
+                </table> 
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div id="appLoading" style="z-index: 1000; width: 100%; text-align: center; font-size: 80px; background: transparent; display: none; margin-top: 200px; line-height: normal;"> 
+      <p style="font-size: 50px;">Retrieving Data</p> 
+      <p style="font-size: x-large;">One Moment Please...</p> 
+      <i class="fa fa-spinner fa-spin"></i> 
+      <p>&nbsp;</p> 
+      <p>&nbsp;</p> 
+      <p>&nbsp;</p> 
+     </div> 
+    </div> 
+    <!-- inline scripts always should come last --> 
+   </div>
+   <div class="footer"> 
+    <div class="row"> 
+     <div class="col-sm-7"> 
+      <nav>
+       <a href="http://www.dmh.ms.gov/">Department of Mental Health</a> | 
+       <a href="http://www.ms.gov/" target="_blank">ms.gov</a> | 
+       <a href="http://www.transparency.ms.gov/" target="_blank">transparency.ms.gov</a> | 
+       <a href="https://www.ms.gov/help_portal" target="_blank">Help Portal</a>
+      </nav> 
+      <p class="copyright">© 2019 Department of Mental Health</p> 
+     </div> 
+     <div class="col-sm-5 msgov">
+      <a href="http://www.ms.gov/" target="_blank"><img src="/dmh/snapshots/images/msgov_white.png" alt=""></a>
+     </div> 
+    </div> 
+   </div> 
+  </div>   
+ </body>
+</html>

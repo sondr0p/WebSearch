@@ -1,0 +1,483 @@
+<!doctype html>
+<html lang="en" dir="ltr" prefix="fb: //www.facebook.com/2008/fbml">
+ <head> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <!-- Google Tag Manager --> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-WLMC86');</script> 
+  <!-- End Google Tag Manager --> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <link rel="shortcut icon" href="https://www.archives.gov/files/apple-icon.png" type="image/png"> 
+  <meta name="description" content="A variety of important benefits and services are available to veterans and to their families, survivors and next-of-kin from the Department of Veterans Affairs and other agencies. While the National Archives does not provide these benefits, we can help you obtain the copies of Military Service Records or other proof of service which you'll need to prove eligibility."> 
+  <meta name="generator" content="Drupal 7 (http://drupal.org)"> 
+  <link rel="canonical" href="https://www.archives.gov/veterans/benefits"> 
+  <meta property="og:site_name" content="National Archives"> 
+  <meta property="og:type" content="article"> 
+  <meta property="og:url" content="https://www.archives.gov/veterans/benefits"> 
+  <meta property="og:title" content="Veterans' Benefit Resources"> 
+  <meta property="og:description" content="A variety of important benefits and services are available to veterans and to their families, survivors and next-of-kin from the Department of Veterans Affairs and other agencies. While the National Archives does not provide these benefits, we can help you obtain the copies of Military Service Records or other proof of service which you'll need to prove eligibility."> 
+  <meta property="og:updated_time" content="2018-07-17T13:33:26-04:00"> 
+  <meta name="twitter:card" content="summary"> 
+  <meta name="twitter:url" content="https://www.archives.gov/veterans/benefits"> 
+  <meta name="twitter:title" content="Veterans' Benefit Resources"> 
+  <meta name="twitter:description" content="A variety of important benefits and services are available to veterans and to their families, survivors and next-of-kin from the Department of Veterans Affairs and other agencies. While the National"> 
+  <meta property="article:published_time" content="2016-08-15T17:37:07-04:00"> 
+  <meta property="article:modified_time" content="2018-07-17T13:33:26-04:00"> 
+  <title>Veterans' Benefit Resources | National Archives</title> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_9Q-k-fv_k3FHvcs9CSZ2iD5CTqFxrfaej2FCw2mYIoA.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_BTbypzlNYVbptuza8qzKwXCnB4TjuEzUY43Cz2FsXVA.css" media="all"> 
+  <style>.section-theme #title-bar{background:#2a6978 url("https://www.archives.gov/files/global-images/section-headers/veterans1.png") no-repeat center right;}.section-theme #mega-footer > h2{background:#2a6978}.section-theme #title-bar .breadcrumb{background-color:#2b6c7c;}.section-theme th{background-color:#2a6978 !important;}
+</style> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_NkrvYXS3XFN6HNXLylk-Jr8h6vd7bMQSZUSOsRKtvhE.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_adYIwY5AiFQ05gx1uTxNpkKu9JMeTmi7MedA-D3wWww.css" media="all"> 
+  <!-- HTML5 element support for IE6-8 --> 
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]--> 
+  <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic|Merriweather"> 
+  <script src="https://www.archives.gov/files/js/js_0RyHJ63yYLuaWsodCPCgSD8dcTIA0dqcDf8-7c2XdBw.js"></script> 
+  <script src="https://www.archives.gov/files/js/js_0pQJ_xts95IaRyXneDD9tPnYjBy63RQPzNHeLe2LDCg.js"></script> 
+  <script src="https://www.archives.gov/files/js/js_4DGuaDZ5Ckd4u9axaS2f90X-RYp7QlC5RWbsjSLu2-8.js"></script> 
+  <script src="https://www.archives.gov/files/js/js_KyGDO1Fxjv5b9iLtei_bvtKprP3C83MXZ8wgYXbj8bA.js"></script> 
+  <script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"nara","theme_token":"HDC0tRXXaKUXfbiRUd3CIXbDVxr7rGRbIMsp4D0GxPA","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/custom\/archives_ui\/scripts\/helptext.js":1,"sites\/all\/modules\/custom\/argentina\/js\/script.js":1,"sites\/all\/modules\/custom\/nara_catalog\/js\/script.js":1,"sites\/all\/modules\/contrib\/user_alert\/js\/user-alert.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/custom\/nara_custom\/js\/nara_custom.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/affix.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/alert.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/button.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/carousel.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/collapse.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/dropdown.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/modal.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/tooltip.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/popover.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/scrollspy.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/tab.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/transition.js":1,"sites\/all\/themes\/nara\/scripts\/jPanelMenu.js":1,"sites\/all\/themes\/nara\/scripts\/jRespond.js":1,"sites\/all\/themes\/nara\/scripts\/matchHeight.min.js":1,"sites\/all\/themes\/nara\/scripts\/jquery.fancybox.pack.js":1,"sites\/all\/themes\/nara\/scripts\/toc.js":1,"sites\/all\/themes\/nara\/scripts\/scripts.js":1,"sites\/all\/themes\/nara\/scripts\/jquery.scrollTo.js":1,"sites\/all\/themes\/nara\/scripts\/mediagallery.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/custom\/archives_ui\/css\/font-awesome.min.css":1,"sites\/all\/modules\/custom\/archives_ui\/css\/helptext.css":1,"sites\/all\/modules\/custom\/archives_ui\/css\/ckeditor_custom.css":1,"sites\/all\/modules\/custom\/argentina\/css\/argentina_style.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/custom\/liaisons\/css\/liaisons_style.css":1,"sites\/all\/modules\/custom\/nara_catalog\/css\/nara-api-style.css":1,"sites\/all\/modules\/archive_features\/nara_timeline\/css\/custom.css":1,"sites\/all\/modules\/archive_features\/nara_timeline\/css\/timeline.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/user_alert\/css\/user-alert.css":1,"sites\/all\/modules\/custom\/varnish_purge\/css\/varnishpurge.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"0":1,"sites\/all\/modules\/custom\/nara_custom\/css\/nara_custom.css":1,"sites\/all\/themes\/nara\/css\/jquery.fancybox.css":1,"sites\/all\/themes\/nara\/css\/jquery.fancybox-thumbs.css":1,"sites\/all\/themes\/nara\/css\/do_not_edit.css":1,"sites\/all\/themes\/nara\/css\/bootstrap.min.css":1,"sites\/all\/themes\/nara\/css\/styles.css":1,"sites\/all\/themes\/nara\/css\/vertical-tabs.css":1,"sites\/all\/themes\/nara\/css\/overrides.css":1,"sites\/all\/themes\/nara\/css\/mediagallery.css":1}},"archives_ui":{"trustedDomains":["twitter\\.com","youtube\\.com","youtu\\.be","recordsofrights\\.org","presidentialtimeline\\.org","nationalarchivesstore\\.org","bush41\\.org","nara\\.learn\\.com","bush41\\.org","bushlibrary\\.tamu\\.edu","fdrlibrary\\.marist\\.edu","georgewbushlibrary\\.smu\\.edu","lbjlibrary\\.org","trumanlibrary\\.org","fdrlibrary\\.org","archivesfoundation\\.org","jfklibrary\\.org","Myarchivesstore\\.org","docsteach\\.org","digitalvaults\\.org","jfk50\\.org","reagan\\.utexas\\.edu","clinton\\.presidentiallibraries\\.us","fdrlibrary\\.org","us11\\.campaign-archive.?\\.com","lbjlibrary\\.net","github\\.io","github\\.com","eventbrite\\.com","facebook\\.com","pinterest\\.com","tumblr\\.com","google\\.com","historypin\\.org","giphy\\.com","instagram\\.com","flickr\\.com","foursquare\\.com","addthis\\.com","apple\\.com","georgebushfoundation\\.org","clintonpresidentialcenter\\.org","geraldrfordfoundation\\.org","reaganfoundation\\.org","rooseveltinstitute\\.org","socialarchive\\.iath\\.virginia.edu","s3\\.amazonaws\\.com","surveymonkey\\.com","storify\\.com","constantcontact\\.com","snaccooperative\\.org"]},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"user_alert":{"url_prefix":"","current_path":"veterans\/benefits"},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script> 
+  <style type="text/css">
+div.form-item-body-und-0-format {
+	display:none;
+}
+div.form-item-field-col-b-und-0-format {
+	display:none;
+}
+div.filter-guidelines {
+	display:none;
+}
+div.filter-help {
+	display:none;
+}
+</style> 
+  <style type="text/css">
+ul.nav-tabs {
+display:none;
+}
+#block-workbench-block {
+display:none;
+}
+</style> 
+ </head> 
+ <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-57433 node-type-3-col-page "> 
+  <!-- Google Tag Manager (noscript) --> 
+  <noscript>
+   <iframe alt="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-WLMC86" height="0" width="0" style="display:none;visibility:hidden" title="Google Tag Manager"></iframe>
+  </noscript> 
+  <!-- End Google Tag Manager (noscript) --> 
+  <div id="background-gradient"> 
+   <div class="wrapper section-theme "> 
+    <a class="back-to-top" href="#page-header" style="display: none;">Top</a> 
+    <div id="skip-link"> 
+     <a href="#main-col" class="element-invisible element-focusable">Skip to main content</a> 
+    </div> 
+    <div class="wrapper section-theme"> 
+     <header id="page-header"> 
+      <div class="region region-header"> 
+       <section id="block-block-53" class="block block-block clearfix"> 
+        <div class="col-sm-6" id="logo-wrapper"> 
+         <div id="logo">
+          <a href="/">The U.S. National Archives Home</a>
+         </div> 
+         <button id="nav-toggle" class="navbar-toggle" type="button"></button> 
+        </div> 
+        <div class="col-sm-6" id="search-wrapper"> 
+         <div id="top-links"> 
+          <a class="noBorder" href="/social-media/blogs.html">Blogs</a> · 
+          <script type="text/javascript">// <![CDATA[
+        var addthis_pub = "usarchives";
+        var addthis_offset_left = -40;
+        var addthis_brand = "Archives.gov";
+        // ]]></script> 
+          <a class="addthisLink" onclick="return addthis_sendto();" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]');" onmouseout="addthis_close();" onfocus="return addthis_open(this, '', '[URL]', '[TITLE]');" onblur="addthis_close();" href="https://www.addthis.com/bookmark.php?v=250">Bookmark/Share</a> · 
+          <script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js"></script> 
+          <a href="/contact">Contact Us</a> 
+         </div> 
+         <div class="input-group" id="site-search"> 
+          <form action="https://search.archives.gov/search" method="get" name="search"> 
+           <input class="form-control" id="qt" accesskey="s" type="text" name="query" placeholder="Search Archives.gov" title="Search Archives.gov"> 
+           <span class="input-group-btn"> <button class="btn btn-default" id="go" type="submit" name="submit">Search</button> </span> 
+           <input type="hidden" value="" name="utf8"> 
+           <input id="affiliate" type="hidden" value="national-archives" name="affiliate"> 
+          </form> 
+         </div> 
+        </div> 
+       </section> 
+      </div> 
+     </header> 
+     <!-- /#page-header --> 
+     <nav id="main-nav" class="clearfix "> 
+      <h2 class="element-invisible">Main menu</h2>
+      <ul id="main-menu-links" class="links clearfix make-eq">
+       <li class="menu-859 first research"><a href="/research" title="Explore our nation's history through our documents, photographs, and records." id="research">Research Our Records</a></li> 
+       <li class="menu-860 veterans"><a href="/veterans" title="Request military records and learn about other services for yourself or a family member." id="veterans" class="veterans">Veterans' Service Records</a></li> 
+       <li class="menu-861 teachers"><a href="/education" title="Engage students with lesson plans and other classroom materials." id="teachers" class="teachers">Educator Resources</a></li> 
+       <li class="menu-862 locations"><a href="/locations" title="Plan a trip to a facility near you or learn about our national network of locations and services." id="locations" class="locations">Visit Us</a></li> 
+       <li class="menu-367 last shop"><a href="/founding-docs" title="Order books, gift items, photographic prints, and document reproductions online." id="shop" class="shop">America's Founding Documents</a></li> 
+      </ul> 
+     </nav>
+     <!-- /main-nav --> 
+     <div class="page-body-wrapper"> 
+      <div id="page-body" class="no-sidebar"> 
+       <header id="title-bar"> 
+        <p>Veterans' Service Records</p> 
+        <div class="breadcrumb"> 
+         <a href="/">Home</a> &gt; 
+         <a href="/veterans">Veterans' Service Records</a> &gt; Veterans' Benefit Resources 
+        </div>
+        <!-- /breadcrumbs --> 
+       </header> 
+       <div class="row"> 
+        <nav class="col-sm-2"> 
+         <aside id="sidebar-first"> 
+          <nav id="left-menu" class=""> 
+           <h3>Related Sites</h3> 
+           <ul> 
+            <li><a href="/veterans/benefits.html">Veterans' Benefit Resources</a></li> 
+            <li><a href="/veterans/locate-service-members.html">Locate Service Members</a></li> 
+            <li><a href="/veterans/employment-resources.html">Employment Resources</a></li> 
+           </ul> 
+          </nav> 
+         </aside> 
+         <!-- /#sidebar-first --> 
+        </nav> 
+        <div id="main-col" class="col-sm-7"> 
+         <p id="print-logo"> <img src="/sites/all/themes/nara/images/nara-print-logo.jpg" alt="National Archives Logo"> </p> 
+         <div class="region region-content"> 
+          <section id="block-system-main" class="block block-system clearfix"> 
+           <h1>Veterans' Benefit Resources</h1> 
+           <p>A variety of important benefits and services are available to veterans and to their families, survivors and next-of-kin from the <a href="#va">Department of Veterans Affairs</a> and <a href="#other">other agencies</a>.</p> 
+           <p>While the National Archives does not provide these benefits, we can help you obtain the <a href="/veterans/military-service-records/index.html">copies of Military Service Records</a> or other proof of service which you'll need to prove eligibility.</p> 
+           <h2 class="below"><a name="va"></a>Veterans Benefits &amp; Services from The Department of Veterans Affairs</h2> 
+           <ul> 
+            <li><a href="/veterans/military-service-records/index.html#emergency"><strong>Emergency Requests for Military Service Records</strong></a></li> 
+            <li><a href="http://www.va.gov/opa/publications/benefits_book.asp"><strong>VA Guide to Federal Benefits for Veterans and Dependents</strong></a></li> 
+            <li><a href="#other">Other Sources for Veterans Benefits, Aid and Information</a></li> 
+           </ul> 
+           <div> 
+            <div class="nwidget layout block title-box clearfix " data-additional-classes="" data-title="VA Health Care Benefits &amp; Information"> 
+             <h2>VA Health Care Benefits &amp; Information</h2> 
+             <ul class="lines"> 
+              <li><a href="http://www.myhealthevet.va.gov/">MyHealtheVet: the VA's Gateway to Veteran Health and Wellness</a></li> 
+              <li><a href="https://www.1010ez.med.va.gov/sec/vha/1010ez/">Application for Health Benefits: Online Form 10-10EZ</a></li> 
+              <li><a href="http://www.va.gov/healtheligibility/">VA Health Care Benefits Eligibility</a></li> 
+              <li><a href="#medical-claims">Filing Medical Claims with the VA</a></li> 
+             </ul> 
+            </div> 
+           </div> 
+           <div> 
+            <div class="nwidget layout block title-box clearfix " data-additional-classes="" data-title="Pension"> 
+             <h2>Pension</h2> 
+             <ul class="lines"> 
+              <li><a href="http://www.vba.va.gov/bln/21/">VA Compensation &amp; Pension Benefits</a></li> 
+              <li><a href="http://vabenefits.vba.va.gov/vonapp/main.asp">VONAPP: Veterans Online Application for Compensation, Pension and Vocational benefits</a></li> 
+              <li><a href="https://www.myhealth.va.gov/mhvPortal/anonymous.portal?_nfpb=true&amp;_pageLabel=vaBenefits&amp;contentPage=va_benefits/non_health_benefits.htm">Other Benefits and Programs for Veterans including Education, Home Loans, Insurance, Death and Burial, and Survivor benefits.</a></li> 
+              <li><a href="https://www.myhealth.va.gov/mhvPortal/anonymous.portal?_nfpb=true&amp;_pageLabel=vaForms">Most Requested Forms for VA Benefits</a></li> 
+             </ul> 
+            </div> 
+           </div> 
+           <h3 class="clear"><a name="medical-claims"></a>Medical Benefits and Claims</h3> 
+           <p>The <a href="http://www.va.gov/">Department of Veterans Affairs</a> is the primary source of information on Veterans Health Benefits.</p> 
+           <p>Veterans who plan to file a claim for medical benefits with the Department of Veterans Affairs (VA) do not need to request a copy of their <a href="/veterans/military-service-records/medical-records.html">military health record</a> from the National Archives' NPRC-MPR. The original health records are provided by the Center when requested by the VA after the claim is filed. Many health records were lent to the Department of Veterans Affairs prior to the 1973 fire.</p> 
+           <p>Veterans who filed a medical claim should contact the Department of Veterans Affairs (VA) in order to determine if their record is already on file. The VA Toll Free # is: 1-800-827-1000 and will connect the caller to the nearest VA office.</p> 
+           <p>&nbsp;</p> 
+           <h2><a name="family"></a>Veterans' Family, Dependent and Next-of-Kin Benefits</h2> 
+           <!-- <p>A variety of important benefits and services are available to veterans and to their families, survivors and next-of-kin from the <a href="#va">Department of Veterans Affairs</a> and <a href="#other">other agencies</a>. While the National Archives does not provide these benefits, we can help you obtain the <a href="/veterans/military-service-records/index.html">copies of Military Service Records</a> or other proof of service which you'll need to prove eligibility.</p>--> 
+           <ul> 
+            <li><a href="/veterans/military-service-records/index.html#emergency"><strong>Emergency Requests for Military Service Records</strong></a></li> 
+            <li><a href="/personnel-records-center/other-medical-records">Medical Treatment Records of Dependents, Military Retirees, and Others</a></li> 
+            <li><a href="http://www.cem.va.gov/">Burial &amp; Memorial Benefits for Veterans</a></li> 
+            <li><a href="http://www.va.gov/opa/publications/benefits_book.asp"><strong>VA Guide to Federal Benefits for Veterans and Dependents</strong></a></li> 
+            <li><a href="#other">Other Sources for Veterans Benefits, Aid and Information</a></li> 
+           </ul> 
+           <div> 
+            <div class="nwidget layout block title-box clearfix " data-additional-classes="" data-title="VA Health Care Benefits &amp; Information"> 
+             <h2>VA Health Care Benefits &amp; Information</h2> 
+             <ul> 
+              <li><a href="http://www.va.gov/healtheligibility/familymembers/">Health Benefits for Dependents</a></li> 
+              <li><a href="http://www.myhealthevet.va.gov/">MyHealtheVet: the VA's Gateway to Veteran Health and Wellness</a></li> 
+             </ul> 
+            </div> 
+           </div> 
+           <div> 
+            <div class="nwidget layout block title-box clearfix " data-additional-classes="" data-title="Pension"> 
+             <h2>Pension</h2> 
+             <ul> 
+              <li><a href="http://www.vba.va.gov/survivors/index.htm">VA Benefits for Survivors and Eligible Dependents</a></li> 
+              <li><a href="http://www.vba.va.gov/bln/dependents/quicktips.htm">Quick Tips for VA Benefits Eligibility</a></li> 
+              <li><a href="http://www.vba.va.gov/bln/21/">VA Compensation &amp; Pension Benefits</a></li> 
+              <li><a href="http://www.militaryfuneralhonors.osd.mil/">Obtaining Military Funeral Honors for Veterans</a></li> 
+              <li><a href="http://www.cem.va.gov/">Burial &amp; Memorial Benefits for Veterans</a></li> 
+              <li><a href="https://www.myhealth.va.gov/mhvPortal/anonymous.portal?_nfpb=true&amp;_pageLabel=vaBenefits&amp;contentPage=va_benefits/non_health_benefits.htm">Other Benefits and Programs for Veterans including Education, Home Loans, Insurance, Death and Burial, and Survivor benefits.</a></li> 
+             </ul> 
+            </div> 
+           </div> 
+           <p class="below">&nbsp;</p> 
+           <h2><a name="other"></a>Sources for Veterans Information, Aid and Benefits</h2> 
+           <div class="width30 floatRight smallest"> 
+            <div> 
+             <div class="nwidget layout block title-box clearfix " data-additional-classes="" data-title="Other Organizations for Veterans Information"> 
+              <h2>Other Organizations for Veterans Information</h2> 
+              <ul> 
+               <li><a href="#va">Department of Veterans Affairs</a></li> 
+               <li><a href="#local">State and Local Veterans Agencies</a></li> 
+               <li><a href="#mil">Military Branches</a></li> 
+               <li><a href="#fed">Other Federal Government Agencies</a></li> 
+               <li><a href="#vetorgs">Veterans Service Organizations</a></li> 
+               <li><a href="#othergroups">Other Groups</a></li> 
+              </ul> 
+             </div> 
+            </div> 
+           </div> 
+           <h3><a name="va3"></a>Department of Veterans Affairs</h3> 
+           <p>The Department of Veterans Affairs is the primary source of federal benefits, programs and information for veterans.</p> 
+           <ul class="lines"> 
+            <li><a href="http://www.va.gov/">The Department of Veterans Affairs Web Site</a></li> 
+            <li><a href="http://www.va.gov/opa/publications/benefits_book.asp">Guide to Federal Benefits for Veterans and Dependents</a></li> 
+           </ul> 
+           <h3><a id="local" name="local"></a>State and Local Government Veterans Agencies</h3> 
+           <p>Many states, counties and local municipalities offer additional veterans benefits and programs. Some may even be able to assist in obtaining copies of military service records.</p> 
+           <ul> 
+            <li><a href="http://www.vba.va.gov/bln/21/ro/rocontacts.htm"><strong>Regional Department of Veterans Affairs Offices</strong></a><br> Links, Addresses, and Contact Information for Regional Offices of the Department of Veterans Affairs</li> 
+            <li><strong><a href="http://www.va.gov/statedva.htm">State and Local Government Veterans Affairs Offices</a></strong><br> Compiled by the Department of Veterans Affairs</li> 
+            <li><a href="http://www.nasdva.net/">National Association of State Directors of Veterans Affairs</a> (NASDVA)<br> Contact Information and Links to State Veterans Offices</li> 
+            <li><a href="http://www.nacvso.org/modules.php?name=Content&amp;pa=showpage&amp;pid=10">National Association of County Veterans Service Officers</a> (NACVSO)<br> Contact Information and Links to Local County Veterans Offices</li> 
+           </ul> 
+           <p>&nbsp;</p> 
+           <h3><a id="mil" name="mil"></a>Resources &amp; Services from Military Branches</h3> 
+           <ul> 
+            <li><strong>Air Force</strong> 
+             <ul> 
+              <li><a href="http://www.afpc.randolph.af.mil/afveteraninformation/">Air Force Veteran Information</a></li> 
+             </ul> </li> 
+            <li><strong>Army </strong> 
+             <ul> 
+              <li><a href="http://www.armyg1.army.mil/rso/mission.asp">Army Retirement Services Office</a></li> 
+              <li><a href="http://www.army.mil/WellBeing/family.html">Army Family Programs</a></li> 
+              <li><a href="http://www.wblo.org/">Army Families Online from the Well-Being Liaison Office (WBLO)</a></li> 
+             </ul> </li> 
+            <li><strong>Coast Guard </strong> 
+             <ul> 
+              <li><a href="http://www.uscg.mil/ppc/ras/">Coast Guard Retiree Resources</a></li> 
+              <li><a href="http://www.uscg.mil/ppc/default.asp">Coast Guard Personnel Service Center</a></li> 
+             </ul> </li> 
+            <li><strong>Marine Corps </strong> 
+             <ul> 
+              <li><a href="http://www.usmc-mccs.org/">Marine Corps Community Services</a></li> 
+             </ul> </li> 
+            <li><strong>Navy </strong> 
+             <ul> 
+              <li><a href="http://www.npc.navy.mil/Audiences/ForFamilies/">Navy Personnel Command -- Information for Families &amp; Retirees</a></li> 
+             </ul> </li> 
+            <li><a href="http://www.ngb.army.mil/"><strong>National Guard (Army and Air Force)</strong></a><br> &nbsp;</li> 
+            <li><strong>Department of Defense:</strong> 
+             <ul> 
+              <li><a href="http://www.defenselink.mil/militarypay/index.html">Military Compensation, Pay and Benefits Site</a></li> 
+              <li><a href="http://www.militaryhomefront.dod.mil/">Military Homefront</a></li> 
+              <li><a href="http://www.dtic.mil/dpmo/">Defense Prisoner of War/Missing Personnel Office (DPMO)</a><br> Official US Government web site for Prisoner of War/Missing in Action (POW/MIA) issues.</li> 
+              <li><a href="http://www.gulflink.osd.mil">GulfLink: the Office of the Special Assistant to the Deputy Secretary of Defense for Gulf War Illnesses</a><br> A service to assist Gulf War veterans obtain copies of their inpatient records of treatment at hospitals which had been deployed to the Persian Gulf.</li> 
+              <li><a href="http://www.ourmilitary.mil/index.aspx">Department of Defense Community Relations</a></li> 
+             </ul> </li> 
+           </ul> 
+           <p>&nbsp;</p> 
+           <h3><a id="fed" name="fed"></a>Other Federal Government Resources</h3> 
+           <ul> 
+            <li><strong><a href="http://www.govbenefits.gov/">GovBenefits.gov</a></strong><br> A clearing house listing numerous federal and state benefits programs.</li> 
+            <li><strong><a href="http://www.usa.gov/Citizen/Audiences/Military_Veterans.shtml">USA.gov for Military Personnel and Veterans</a></strong><br> The U.S. government's official web portal.</li> 
+            <li><strong><a href="http://www.va.gov/partners/init/index.htm#government">Other Government Agencies and Initiatives for Veterans</a></strong><br> Web sites of interest to veterans and other Department of Veterans Affairs customers. Some of them are done in collaboration with the VA, others are offered independently by other government and civilian agencies.</li> 
+            <li><strong><a href="http://www.socialsecurity.gov/">Social Security Administration</a></strong></li> 
+           </ul> 
+           <p>&nbsp;</p> 
+           <h3>Veterans Service Organizations and Other Groups</h3> 
+           <p>A variety of non-profit and private organizations can also help you learn about the services and benefits available to veterans. The following is only a short list. Please see the <a href="http://www1.va.gov/vso/index.cfm">Directory of Veterans Service Organizations</a> from the Department of Veterans Affairs for a comprehensive and up-to-date list.</p> 
+           <p class="smallest">(These links are provided for informational purposes only and are not endorsed by the National Archives and Records Administration. <a href="/global-pages/privacy.html#disclaimer">Read our disclaimer of endorsement</a>.)</p> 
+           <p><a id="vetorgs" name="vetorgs"></a><strong>Veterans Organizations:</strong></p> 
+           <ul> 
+            <li><a href="http://www1.va.gov/vso/index.cfm"><strong>Directory of Veterans Service Organizations</strong></a><br> <strong>Updated and Comprehensive Database of Veterans Organizations Compiled by the VA.</strong></li> 
+            <li><a href="http://www.dav.org/">Disabled American Veterans (DAV)</a><br> Support organization for veterans, providing a nationwide network of services, free of charge to all veterans and members of their families.</li> 
+            <li><a href="http://www.vfw.org">Veterans of Foreign Wars (VFW)</a><br> One of the largest veterans organizations, providing veterans' support and community services.</li> 
+            <li><a href="http://www.legion.org/">The American Legion</a><br> Site maintained by one of the largest veterans organizations.</li> 
+            <li><a href="http://www.jwv.org">Jewish War Veterans of the United States of America</a> - The Jewish War Veterans (JWV) of the USA, organized in 1896 by Jewish Veterans of the Civil War, is the oldest active national veterans' service organization in America.</li> 
+            <li><a href="http://www.amvets.org/">AMVETS</a><br> AMVETS provides support for veterans, active military and community services.</li> 
+            <li><a href="http://www.vva.org/">Vietnam Veterans of America (VVA)</a><br> Veterans service organization dedicated to helping Vietnam-era veterans</li> 
+            <li><strong>Service Branch Organizations</strong> 
+             <ul> 
+              <li><a href="http://www.ausa.org">U.S. Army - Association of the U.S. Army</a></li> 
+              <li><a href="http://www.afa.org">U.S. Air Force - Air Force Association</a></li> 
+              <li><a href="http://www.navyleague.org">U.S. Navy - Navy League</a></li> 
+              <li><a href="http://www.mcleague.org">U.S. Marine Corps - Marine Corps League</a></li> 
+             </ul> </li> 
+           </ul> 
+           <p><a id="othergroups" name="othergroups"></a><strong>Other Groups &amp; Organizations</strong>:</p> 
+           <p><a href="http://www.aarp.org/">American Association of Retired Persons (AARP)</a><br> AARP is a nonprofit, nonpartisan membership organization providing information, advocacy and benefits for people age 50 and over.</p> 
+           <p>&nbsp;</p> 
+           <p><a href="http://www.benefitscheckup.org/">Benefits CheckUp</a><br> Interactive benefits finder from the National Council on the Aging.</p> 
+           <p><a href="http://www.military.com">Military.com</a><br> A commercial site offering free resources to serve, connect, and inform active duty members, reservists, guard members, retirees, veterans, family members, defense workers and those considering military careers.</p> 
+           <p><a href="http://www.afcrossroads.com/home.cfm">Armed Forces Crossroads Community</a><br> A commercial site supporting the military community.</p> 
+           <p><a href="http://www.militaryconnections.com/">Military Connections</a><br> A commercial site designed to help present and past military personnel and their families find each other and keep in touch. The site is free to members and offers an array of resources to help past and present military personnel take advantage of their military benefits.</p> 
+           <p>&nbsp;</p> 
+          </section> 
+         </div> 
+        </div> 
+        <a name="sidebar"></a> 
+        <div id="sidebar" class="col-sm-3"> 
+         <aside id="sidebar-second"> 
+          <div> 
+           <div>
+            <div>
+             <a href="http://www.va.gov/opa/publications/benefits_book.asp" class="buttonLink book-red"> <span>VA Guide to Federal Benefits for Veterans and Dependents</span> </a>
+            </div>
+           </div> 
+           <div> 
+            <div class="nwidget layout block title-box clearfix " data-additional-classes="" data-title="Table of Contents"> 
+             <h2>Table of Contents</h2> 
+             <ul> 
+              <li><a href="#vets">Resources for Veterans</a></li> 
+              <li><a href="#medical-claims">Medical Benefits and Claims</a></li> 
+              <li><a href="#family">Resources for Family Members</a></li> 
+              <li><a href="#other">Other Sources for Veterans Information and Aid</a></li> 
+             </ul> 
+            </div> 
+           </div> 
+           <!-- <div class="titleBox">
+    <h3 class="titleBar3">Sources for Veterans Information</h3>
+    <ul>
+      <li><a href="#va">Department of Veterans Affairs</a></li>
+      <li><a href="#local">State and Local Veterans Agencies</a></li>
+      <li><a href="#mil">Military Branches</a></li>
+      <li><a href="#fed">Other Federal Government Agencies</a></li>
+      <li><a href="#vetorgs">Veterans Service Organizations</a></li>
+      <li><a href="#othergroups">Other Groups</a></li>
+    </ul>
+  </div>-->
+          </div> 
+         </aside> 
+         <!-- /#sidebar-second --> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <!-- page-body-wrapper --> 
+     <footer id="page-footer"> 
+      <div class="clearfix row last-update-wrapper "> 
+       <p id="last-update"> <span class="glyphicon glyphicon-edit"></span> This page was last reviewed on July 17, 2018.<br> <a href="/contact">Contact us with questions or comments</a>. </p> 
+      </div> 
+      <section id="mega-footer" class="clearfix panel-group"> 
+       <h2 class="footer-title"> Veterans’ Service Records </h2> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#service-records">Military Service Records</a></h2> 
+        </div> 
+        <div id="service-records" class="panel-collapse"> 
+         <ul>
+          <li><a href="/veterans/military-service-records/">Request Service Records</a></li> 
+          <li><a href="/veterans/military-service-records/correct-service-records">Correct Service Records</a></li> 
+          <li><a href="/veterans/military-service-records/medical-records">Medical and Health Records</a></li> 
+          <li><a href="/veterans/military-service-records/about-service-records">About Service Records</a></li> 
+          <li><a href="/veterans/military-service-records/record-request-notice">Special Notice Regarding Requests</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#military-research">Military Research</a></h2> 
+        </div> 
+        <div id="military-research" class="panel-collapse"> 
+         <ul>
+          <li><a href="/research/military/veterans/">Research Veterans Records</a></li> 
+          <li><a href="/research/military/veterans/online">Online Documents &amp; Research</a></li> 
+          <li><a href="/research/military/veterans/exhibits">Exhibits of Veterans Records</a></li> 
+          <li><a href="/research/military/genealogy">Genealogy &amp; Military Records</a></li> 
+          <li><a href="/research/military/veterans/links">Other Veterans Research Links</a></li> 
+          <li><a href="/research/military/">Research in Military Records</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#other">Other Veterans Resources</a></h2> 
+        </div> 
+        <div id="other" class="panel-collapse"> 
+         <ul>
+          <li><a href="/veterans/replace-medals">Replace Medals and Awards</a></li> 
+          <li><a href="/veterans/faq">Veterans FAQ</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#related">Related Sites</a></h2> 
+        </div> 
+        <div id="related" class="panel-collapse"> 
+         <ul>
+          <li><a href="/veterans/benefits">Veterans Benefits and Information</a></li> 
+          <li><a href="/veterans/locate-service-members">Locate Service Members</a></li> 
+          <li><a href="/veterans/employment-resources">Employment Resources</a></li> 
+         </ul>
+        </div> 
+       </div> 
+      </section> 
+      <section id="sub-footer"> 
+       <div class="region region-footer-bottom"> 
+        <section id="block-block-54" class="block block-block clearfix"> 
+         <h2> <a href="https://www.archives.gov/social-media/">Connect With Us</a></h2> 
+         <ul class="clearfix" id="social-media"> 
+          <li class="facebook" data-original-title="Facebook" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/facebook">Facebook</a></li> 
+          <li class="twitter" data-original-title="Twitter" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/twitter">Twitter</a></li> 
+          <li class="instagram" data-original-title="Instagram" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/instagram">Instagram</a></li> 
+          <li class="tumblr" data-original-title="Tumblr" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/tumblr">Tumblr</a></li> 
+          <li class="youtube" data-original-title="YouTube" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/youtube">YouTube</a></li> 
+          <li class="blogs" data-original-title="Blogs" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/blogs">Blogs</a></li> 
+          <li class="flickr" data-original-title="Flickr" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/flickr">Flickr</a></li> 
+         </ul> 
+         <p> </p> 
+         <p id="footer-links"> <a href="/contact/">Contact Us</a> · <a href="/global-pages/accessibility.html">Accessibility</a> · <a href="/global-pages/privacy.html">Privacy Policy</a> · <a href="/foia/">Freedom of Information Act</a> · <a href="/eeo/policy/complaint-activity.html">No FEAR Act</a> · <a href="http://www.usa.gov/">USA.gov</a></p> 
+         <p id="footer-phone">The U.S. National Archives and Records Administration<br> <a href="tel:1-866-272-6272">1-86-NARA-NARA or 1-866-272-6272</a></p> 
+        </section> 
+       </div> 
+      </section> 
+     </footer>
+     <!-- /page-footer --> 
+    </div> 
+    <script src="/sites/all/themes/nara/scripts/jquery.fancybox.pack.js" type="text/javascript"></script> 
+    <script src="/sites/all/themes/nara/scripts/helpers/jquery.fancybox-media.js" type="text/javascript"></script> 
+    <script src="/sites/all/themes/nara/scripts/helpers/jquery.fancybox-thumbs.js" type="text/javascript"></script> 
+    <script src="https://www.archives.gov/files/js/js_MRdvkC2u4oGsp5wVxBG1pGV5NrCPW3mssHxIn6G9tGE.js"></script> 
+   </div> 
+   <a class="back-to-top" href="#page-header" style="display: inline;">Top</a> 
+   <script>
+(function ($) {
+  // Original JavaScript code.
+$('.toc').toc({
+'selectors': 'h2:not(.element-invisible):not(.toc-block h2),h3',
+'container': '#main-col'
+});
+})(jQuery);
+
+//fix extra timeline object issue
+(function(){            
+  if(typeof Drupal.settings['timelineJS'] !== 'undefined'){      
+    timelinejs_arry = Drupal.settings['timelineJS'];
+    tmptimeline=[];
+    for (i = 0; i < timelinejs_arry.length-1; i++) {       
+      if(typeof timelinejs_arry[i]['processed'] !== 'undefined'){                        
+        tmptimeline.push(timelinejs_arry[i]);  
+      } 
+    }
+    Drupal.settings['timelineJS'] = tmptimeline;
+  }
+}());
+</script> 
+  </div> 
+  <!-- end -->   
+ </body>
+</html>

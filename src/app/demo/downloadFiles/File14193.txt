@@ -1,0 +1,675 @@
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'html' -->
+<!-- FILE NAME SUGGESTIONS:
+   * html--node--40.html.twig
+   * html--node--%.html.twig
+   * html--node.html.twig
+   x html.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/msbn/templates/layout/html.html.twig' --><!doctype html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+ <head> 
+  <meta charset="utf-8"> 
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-134622192-1"></script> 
+  <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("config", "UA-134622192-1", {"groups":"default","anonymize_ip":true,"allow_ad_personalization_signals":false});</script> 
+  <meta name="Generator" content="Drupal 8 (https://www.drupal.org)"> 
+  <meta name="MobileOptimized" content="width"> 
+  <meta name="HandheldFriendly" content="true"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <link rel="shortcut icon" href="/core/misc/favicon.ico" type="image/vnd.microsoft.icon"> 
+  <link rel="canonical" href="https://www.msbn.ms.gov/licensure/applications-and-forms"> 
+  <link rel="shortlink" href="https://www.msbn.ms.gov/node/40"> 
+  <link rel="revision" href="https://www.msbn.ms.gov/licensure/applications-and-forms"> 
+  <title>Applications | Mississippi Board of Nursing</title> 
+  <link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/ajax-progress.module.css?ps9quf"> 
+  <link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/autocomplete-loading.module.css?ps9quf"> 
+  <link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/fieldgroup.module.css?ps9quf"> 
+  <link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/container-inline.module.css?ps9quf"> 
+  <link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/clearfix.module.css?ps9quf"> 
+  <link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/details.module.css?ps9quf"> 
+  <link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/hidden.module.css?ps9quf"> 
+  <link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/item-list.module.css?ps9quf"> 
+  <link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/js.module.css?ps9quf"> 
+  <link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/nowrap.module.css?ps9quf"> 
+  <link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/position-container.module.css?ps9quf"> 
+  <link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/progress.module.css?ps9quf"> 
+  <link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/reset-appearance.module.css?ps9quf"> 
+  <link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/resize.module.css?ps9quf"> 
+  <link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/sticky-header.module.css?ps9quf"> 
+  <link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-counter.css?ps9quf"> 
+  <link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-counters.css?ps9quf"> 
+  <link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-general-info.css?ps9quf"> 
+  <link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tabledrag.module.css?ps9quf"> 
+  <link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tablesort.module.css?ps9quf"> 
+  <link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tree-child.module.css?ps9quf"> 
+  <link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/core.css?ps9quf"> 
+  <link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/button.css?ps9quf"> 
+  <link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/resizable.css?ps9quf"> 
+  <link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/dialog.css?ps9quf"> 
+  <link rel="stylesheet" media="all" href="/modules/contrib/cacheflush/css/cacheflush.menu.css?ps9quf"> 
+  <link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/theme.css?ps9quf"> 
+  <link rel="stylesheet" media="all" href="/themes/custom/msbn/css/normalize.css?ps9quf"> 
+  <link rel="stylesheet" media="all" href="/themes/custom/msbn/css/bxslider.min.css?ps9quf"> 
+  <link rel="stylesheet" media="all" href="/themes/custom/msbn/css/tabby.min.css?ps9quf"> 
+  <link rel="stylesheet" media="all" href="/themes/custom/msbn/css/style.css?ps9quf"> 
+  <link rel="stylesheet" media="all" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"> 
+  <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/40","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","ajaxPageState":{"libraries":"cacheflush\/cacheflush.menu,core\/html5shiv,google_analytics\/google_analytics,msbn\/global-css,msbn\/global-js,system\/base,views\/views.module","theme":"msbn","theme_token":null},"ajaxTrustedUrl":[],"google_analytics":{"account":"UA-134622192-1","trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"user":{"uid":0,"permissionsHash":"71d7ba75dfa6d32dfff3edb3d865aa6385fe55deeaa1ea6ab0e4b1fc4aec0570"}}</script> 
+  <!--[if lte IE 8]>
+<script src="/core/assets/vendor/html5shiv/html5shiv.min.js?v=3.7.3"></script>
+<![endif]--> 
+  <script src="/core/assets/vendor/domready/ready.min.js?v=1.0.8"></script> 
+  <script src="/core/assets/vendor/jquery/jquery.min.js?v=3.2.1"></script> 
+  <script src="/core/assets/vendor/jquery/jquery-extend-3.4.0.js?v=3.2.1"></script> 
+  <script src="/core/assets/vendor/jquery-once/jquery.once.min.js?v=2.2.0"></script> 
+  <script src="/core/misc/drupalSettingsLoader.js?v=8.7.1"></script> 
+  <script src="/core/misc/drupal.js?v=8.7.1"></script> 
+  <script src="/core/misc/drupal.init.js?v=8.7.1"></script> 
+  <script src="/core/assets/vendor/jquery.ui/ui/data-min.js?v=1.12.1"></script> 
+  <script src="/core/assets/vendor/jquery.ui/ui/disable-selection-min.js?v=1.12.1"></script> 
+  <script src="/core/assets/vendor/jquery.ui/ui/form-min.js?v=1.12.1"></script> 
+  <script src="/core/assets/vendor/jquery.ui/ui/labels-min.js?v=1.12.1"></script> 
+  <script src="/core/assets/vendor/jquery.ui/ui/jquery-1-7-min.js?v=1.12.1"></script> 
+  <script src="/core/assets/vendor/jquery.ui/ui/scroll-parent-min.js?v=1.12.1"></script> 
+  <script src="/core/assets/vendor/jquery.ui/ui/tabbable-min.js?v=1.12.1"></script> 
+  <script src="/core/assets/vendor/jquery.ui/ui/unique-id-min.js?v=1.12.1"></script> 
+  <script src="/core/assets/vendor/jquery.ui/ui/version-min.js?v=1.12.1"></script> 
+  <script src="/core/assets/vendor/jquery.ui/ui/focusable-min.js?v=1.12.1"></script> 
+  <script src="/core/assets/vendor/jquery.ui/ui/ie-min.js?v=1.12.1"></script> 
+  <script src="/core/assets/vendor/jquery.ui/ui/keycode-min.js?v=1.12.1"></script> 
+  <script src="/core/assets/vendor/jquery.ui/ui/plugin-min.js?v=1.12.1"></script> 
+  <script src="/core/assets/vendor/jquery.ui/ui/safe-active-element-min.js?v=1.12.1"></script> 
+  <script src="/core/assets/vendor/jquery.ui/ui/safe-blur-min.js?v=1.12.1"></script> 
+  <script src="/core/assets/vendor/jquery.ui/ui/widget-min.js?v=1.12.1"></script> 
+  <script src="/core/misc/progress.js?v=8.7.1"></script> 
+  <script src="/core/misc/ajax.js?v=8.7.1"></script> 
+  <script src="/core/misc/debounce.js?v=8.7.1"></script> 
+  <script src="/core/misc/displace.js?v=8.7.1"></script> 
+  <script src="/core/assets/vendor/jquery.ui/ui/widgets/button-min.js?v=1.12.1"></script> 
+  <script src="/core/assets/vendor/jquery.ui/ui/widgets/mouse-min.js?v=1.12.1"></script> 
+  <script src="/core/assets/vendor/jquery.ui/ui/widgets/draggable-min.js?v=1.12.1"></script> 
+  <script src="/core/assets/vendor/jquery.ui/ui/position-min.js?v=1.12.1"></script> 
+  <script src="/core/assets/vendor/jquery.ui/ui/widgets/resizable-min.js?v=1.12.1"></script> 
+  <script src="/core/assets/vendor/jquery.ui/ui/widgets/dialog-min.js?v=1.12.1"></script> 
+  <script src="/core/misc/dialog/dialog.js?v=8.7.1"></script> 
+  <script src="/core/misc/dialog/dialog.position.js?v=8.7.1"></script> 
+  <script src="/core/misc/dialog/dialog.jquery-ui.js?v=8.7.1"></script> 
+  <script src="/core/misc/dialog/dialog.ajax.js?v=8.7.1"></script> 
+  <script src="/themes/custom/msbn/js/main.js?ps9quf"></script> 
+  <script src="/themes/custom/msbn/js/bxslider.min.js?ps9quf"></script> 
+  <script src="/themes/custom/msbn/js/tabby.min.js?ps9quf"></script> 
+  <script src="/themes/custom/msbn/js/bug.js?ps9quf"></script> 
+ </head> 
+ <body> 
+  <a href="#main-content" class="visually-hidden focusable"> Skip to main content </a> 
+  <!-- THEME DEBUG --> 
+  <!-- THEME HOOK: 'off_canvas_page_wrapper' --> 
+  <!-- BEGIN OUTPUT from 'core/themes/stable/templates/content/off-canvas-page-wrapper.html.twig' --> 
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas> 
+   <!-- THEME DEBUG --> 
+   <!-- THEME HOOK: 'page' --> 
+   <!-- FILE NAME SUGGESTIONS:
+   * page--page.html.twig
+   * page--node--40.html.twig
+   * page--node--%.html.twig
+   * page--node.html.twig
+   x page.html.twig
+--> 
+   <!-- BEGIN OUTPUT from 'themes/custom/msbn/page.html.twig' --> 
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script> 
+   <section class="header"> 
+    <div class="branding"> 
+     <a href="/"> <img src="/themes/custom/msbn/images/logo.png"> </a> 
+    </div> 
+    <div class="welcome-mobile"> 
+     <!-- THEME DEBUG --> 
+     <!-- THEME HOOK: 'region' --> 
+     <!-- FILE NAME SUGGESTIONS:
+   * region--home-welcome.html.twig
+   x region.html.twig
+--> 
+     <!-- BEGIN OUTPUT from 'themes/custom/msbn/templates/layout/region.html.twig' --> 
+     <div> 
+      <!-- THEME DEBUG --> 
+      <!-- THEME HOOK: 'block' --> 
+      <!-- FILE NAME SUGGESTIONS:
+   * block--welcome-block.html.twig
+   * block--block-content--ee3d13a1-5956-4784-819a-d16740e8bdc7.html.twig
+   * block--basic-block.html.twig
+   * block--block-content.html.twig
+   * block--block-content.html.twig
+   x block.html.twig
+--> 
+      <!-- BEGIN OUTPUT from 'themes/custom/msbn/templates/block/block.html.twig' --> 
+      <div id="block-welcome-block"> 
+       <h2>Welcome to the Board of Nursing</h2> 
+       <!-- THEME DEBUG --> 
+       <!-- THEME HOOK: 'field' --> 
+       <!-- FILE NAME SUGGESTIONS:
+   * field--block-content--body--basic-block.html.twig
+   * field--block-content--body.html.twig
+   * field--block-content--basic-block.html.twig
+   * field--body.html.twig
+   * field--text-with-summary.html.twig
+   x field.html.twig
+--> 
+       <!-- BEGIN OUTPUT from 'themes/custom/msbn/templates/field/field.html.twig' --> 
+       <div>
+        <p>The Mississippi Board of Nursing is a consumer protection agency &nbsp;with authority to regulate the practice of nursing through licensure as provided for by the Mississippi State Code.</p>
+       </div> 
+       <!-- END OUTPUT from 'themes/custom/msbn/templates/field/field.html.twig' --> 
+      </div> 
+      <!-- END OUTPUT from 'themes/custom/msbn/templates/block/block.html.twig' --> 
+     </div> 
+     <!-- END OUTPUT from 'themes/custom/msbn/templates/layout/region.html.twig' --> 
+    </div> 
+    <div class="menu-toggle">
+     <i class="fa fa-bars" aria-hidden="true"></i>
+     <i class="fa fa-times hidden" aria-hidden="true"></i> MENU
+    </div> 
+    <nav class="main-navigation hidden"> 
+     <script>
+		    (function ($) { $(document).ready(function(){
+
+		    	$(".menu-toggle").click(function(){
+		    		$(this).children(".fa-bars").toggleClass("hidden");
+		    		$(this).children(".fa-times").toggleClass("hidden");
+		    		$(".main-navigation").toggleClass("hidden");
+		    	});
+
+		    	$('#block-mainnavigation-2 ul li ul').before('<span class="open-sub-menu"><i class="fa fa-plus" aria-hidden="true"></i></span>');
+		    	$('#block-mainnavigation-2 ul li ul').before('<span class="close-sub-menu hidden"><i class="fa fa-minus" aria-hidden="true"></i></span>');
+
+		    	$( ".open-sub-menu" ).click(function() {
+				  $( this ).toggleClass("hidden");
+				  $( this ).siblings(".close-sub-menu").toggleClass("hidden");
+				  $( this ).siblings("ul").toggleClass("block");
+				});
+
+				$( ".close-sub-menu" ).click(function() {
+				  $( this ).toggleClass("hidden");
+				  $( this ).siblings(".open-sub-menu").toggleClass("hidden");
+				  $( this ).siblings("ul").toggleClass("block");
+				});
+
+		    }); })(jQuery);
+		</script> 
+    </nav> 
+    <div class="header-slider"> 
+     <!-- THEME DEBUG --> 
+     <!-- THEME HOOK: 'region' --> 
+     <!-- FILE NAME SUGGESTIONS:
+   * region--header-slider.html.twig
+   x region.html.twig
+--> 
+     <!-- BEGIN OUTPUT from 'themes/custom/msbn/templates/layout/region.html.twig' --> 
+     <div> 
+      <!-- THEME DEBUG --> 
+      <!-- THEME HOOK: 'block' --> 
+      <!-- FILE NAME SUGGESTIONS:
+   * block--views-block--home-slider-block-1.html.twig
+   * block--views-block--home-slider-block-1.html.twig
+   * block--views-block.html.twig
+   * block--views.html.twig
+   x block.html.twig
+--> 
+      <!-- BEGIN OUTPUT from 'themes/custom/msbn/templates/block/block.html.twig' --> 
+      <div class="views-element-container" id="block-views-block-home-slider-block-1"> 
+       <!-- THEME DEBUG --> 
+       <!-- THEME HOOK: 'container' --> 
+       <!-- BEGIN OUTPUT from 'themes/custom/msbn/templates/form/container.html.twig' --> 
+       <div> 
+        <!-- THEME DEBUG --> 
+        <!-- THEME HOOK: 'views_view' --> 
+        <!-- BEGIN OUTPUT from 'themes/custom/msbn/templates/views/views-view.html.twig' --> 
+        <div class="js-view-dom-id-08b482e307c6ee5182874637d3ab92d90ce4e68f275ceabba1e36774e22b8b8b"> 
+         <!-- THEME DEBUG --> 
+         <!-- THEME HOOK: 'views_view_unformatted__home_slider' --> 
+         <!-- FILE NAME SUGGESTIONS:
+   * views-view-unformatted--home-slider.html.twig
+   * views-view-unformatted--home-slider.html.twig
+   * views-view-unformatted.html.twig
+--> 
+         <!-- BEGIN OUTPUT from 'themes/custom/msbn/views-view-unformatted--home_slider.html.twig' --> 
+         <ul> 
+          <!-- THEME DEBUG --> 
+          <!-- THEME HOOK: 'views_view_fields__home_slider' --> 
+          <!-- FILE NAME SUGGESTIONS:
+   * views-view-fields--home-slider.html.twig
+   * views-view-fields--home-slider.html.twig
+   * views-view-fields.html.twig
+--> 
+          <!-- BEGIN OUTPUT from 'themes/custom/msbn/views-view-fields--home_slider.html.twig' --> 
+          <li class="slide" style="background:url('https://www.msbn.ms.gov/sites/default/files/2017-03/slide2.jpg');"></li> 
+          <!-- END OUTPUT from 'themes/custom/msbn/views-view-fields--home_slider.html.twig' --> 
+          <!-- THEME DEBUG --> 
+          <!-- THEME HOOK: 'views_view_fields__home_slider' --> 
+          <!-- FILE NAME SUGGESTIONS:
+   * views-view-fields--home-slider.html.twig
+   * views-view-fields--home-slider.html.twig
+   * views-view-fields.html.twig
+--> 
+          <!-- BEGIN OUTPUT from 'themes/custom/msbn/views-view-fields--home_slider.html.twig' --> 
+          <li class="slide" style="background:url('https://www.msbn.ms.gov/sites/default/files/2017-03/slide3.jpg');"></li> 
+          <!-- END OUTPUT from 'themes/custom/msbn/views-view-fields--home_slider.html.twig' --> 
+          <!-- THEME DEBUG --> 
+          <!-- THEME HOOK: 'views_view_fields__home_slider' --> 
+          <!-- FILE NAME SUGGESTIONS:
+   * views-view-fields--home-slider.html.twig
+   * views-view-fields--home-slider.html.twig
+   * views-view-fields.html.twig
+--> 
+          <!-- BEGIN OUTPUT from 'themes/custom/msbn/views-view-fields--home_slider.html.twig' --> 
+          <li class="slide" style="background:url('https://www.msbn.ms.gov/sites/default/files/2017-03/slide4.jpg');"></li> 
+          <!-- END OUTPUT from 'themes/custom/msbn/views-view-fields--home_slider.html.twig' --> 
+          <!-- THEME DEBUG --> 
+          <!-- THEME HOOK: 'views_view_fields__home_slider' --> 
+          <!-- FILE NAME SUGGESTIONS:
+   * views-view-fields--home-slider.html.twig
+   * views-view-fields--home-slider.html.twig
+   * views-view-fields.html.twig
+--> 
+          <!-- BEGIN OUTPUT from 'themes/custom/msbn/views-view-fields--home_slider.html.twig' --> 
+          <li class="slide" style="background:url('https://www.msbn.ms.gov/sites/default/files/2017-03/slide1.jpg');"></li> 
+          <!-- END OUTPUT from 'themes/custom/msbn/views-view-fields--home_slider.html.twig' --> 
+         </ul> 
+         <!-- END OUTPUT from 'themes/custom/msbn/views-view-unformatted--home_slider.html.twig' --> 
+        </div> 
+        <!-- END OUTPUT from 'themes/custom/msbn/templates/views/views-view.html.twig' --> 
+       </div> 
+       <!-- END OUTPUT from 'themes/custom/msbn/templates/form/container.html.twig' --> 
+      </div> 
+      <!-- END OUTPUT from 'themes/custom/msbn/templates/block/block.html.twig' --> 
+     </div> 
+     <!-- END OUTPUT from 'themes/custom/msbn/templates/layout/region.html.twig' --> 
+    </div> 
+   </section> 
+   <section class="main-content body"> 
+    <div class="main-container"> 
+     <div class="content"> 
+      <div class="page-title"> 
+       <!-- THEME DEBUG --> 
+       <!-- THEME HOOK: 'region' --> 
+       <!-- FILE NAME SUGGESTIONS:
+   * region--title.html.twig
+   x region.html.twig
+--> 
+       <!-- BEGIN OUTPUT from 'themes/custom/msbn/templates/layout/region.html.twig' --> 
+       <div> 
+        <!-- THEME DEBUG --> 
+        <!-- THEME HOOK: 'block' --> 
+        <!-- FILE NAME SUGGESTIONS:
+   * block--msbn-page-title.html.twig
+   * block--page-title-block.html.twig
+   * block--core.html.twig
+   x block.html.twig
+--> 
+        <!-- BEGIN OUTPUT from 'themes/custom/msbn/templates/block/block.html.twig' --> 
+        <div id="block-msbn-page-title"> 
+         <!-- THEME DEBUG --> 
+         <!-- THEME HOOK: 'page_title' --> 
+         <!-- BEGIN OUTPUT from 'themes/custom/msbn/templates/content/page-title.html.twig' --> 
+         <h1> 
+          <!-- THEME DEBUG --> 
+          <!-- THEME HOOK: 'field' --> 
+          <!-- FILE NAME SUGGESTIONS:
+   * field--node--title--page.html.twig
+   x field--node--title.html.twig
+   * field--node--page.html.twig
+   * field--title.html.twig
+   * field--string.html.twig
+   * field.html.twig
+--> 
+          <!-- BEGIN OUTPUT from 'themes/custom/msbn/templates/field/field--node--title.html.twig' --> <span property="schema:name">Applications</span> 
+          <!-- END OUTPUT from 'themes/custom/msbn/templates/field/field--node--title.html.twig' --> </h1> 
+         <!-- END OUTPUT from 'themes/custom/msbn/templates/content/page-title.html.twig' --> 
+        </div> 
+        <!-- END OUTPUT from 'themes/custom/msbn/templates/block/block.html.twig' --> 
+       </div> 
+       <!-- END OUTPUT from 'themes/custom/msbn/templates/layout/region.html.twig' --> 
+      </div> 
+      <div class="page-body"> 
+       <!-- THEME DEBUG --> 
+       <!-- THEME HOOK: 'region' --> 
+       <!-- FILE NAME SUGGESTIONS:
+   * region--content.html.twig
+   x region.html.twig
+--> 
+       <!-- BEGIN OUTPUT from 'themes/custom/msbn/templates/layout/region.html.twig' --> 
+       <div> 
+        <!-- THEME DEBUG --> 
+        <!-- THEME HOOK: 'block' --> 
+        <!-- FILE NAME SUGGESTIONS:
+   * block--msbn-content.html.twig
+   * block--system-main-block.html.twig
+   * block--system.html.twig
+   x block.html.twig
+--> 
+        <!-- BEGIN OUTPUT from 'themes/custom/msbn/templates/block/block.html.twig' --> 
+        <div id="block-msbn-content"> 
+         <!-- THEME DEBUG --> 
+         <!-- THEME HOOK: 'node' --> 
+         <!-- FILE NAME SUGGESTIONS:
+   * node--40--full.html.twig
+   * node--40.html.twig
+   * node--page--full.html.twig
+   * node--page.html.twig
+   * node--full.html.twig
+   x node.html.twig
+--> 
+         <!-- BEGIN OUTPUT from 'themes/custom/msbn/templates/content/node.html.twig' --> 
+         <article data-history-node-id="40" role="article" about="/licensure/applications-and-forms" typeof="schema:WebPage"> 
+          <!-- THEME DEBUG --> 
+          <!-- THEME HOOK: 'rdf_metadata' --> 
+          <!-- BEGIN OUTPUT from 'themes/custom/msbn/templates/misc/rdf-metadata.html.twig' --> 
+          <span property="schema:name" content="Applications" class="hidden"></span> 
+          <!-- END OUTPUT from 'themes/custom/msbn/templates/misc/rdf-metadata.html.twig' --> 
+          <div> 
+           <!-- THEME DEBUG --> 
+           <!-- THEME HOOK: 'field' --> 
+           <!-- FILE NAME SUGGESTIONS:
+   * field--node--body--page.html.twig
+   * field--node--body.html.twig
+   * field--node--page.html.twig
+   * field--body.html.twig
+   * field--text-with-summary.html.twig
+   x field.html.twig
+--> 
+           <!-- BEGIN OUTPUT from 'themes/custom/msbn/templates/field/field.html.twig' --> 
+           <div property="schema:text">
+            <div class="appsandforms"> 
+             <h3><a>Renewal</a></h3> 
+             <dl>
+              <dd>
+               <strong><a href="https://gateway.licensure.msbn.ms.gov/">RN RENEWAL:</a></strong>&nbsp;This application should be used by registered nurses who wish to renew their license during a current renewal period (September 1 through December 31 – even numbered years)
+              </dd> 
+              <br>
+              <dd>
+               <strong><a href="https://gateway.licensure.msbn.ms.gov/">LPN RENEWAL:</a></strong>&nbsp;This application should be used by licensed practical nurses who wish to renew their license during a current renewal period (September 1 through December 31 – odd numbered years). Expanded Role LPNs (IV Therapy and/or Hemodialysis) must complete a LPN Expanded Role Renewal Application and submit it with the LPN Renewal Application. New LPN Expanded Role applicants should call 601-957-6300 for additional information before applying.
+              </dd> 
+              <dd>
+               &nbsp;
+              </dd> 
+              <dd>
+               <strong><a href="/lpn-expanded-role-renewal">LPN EXPANDED ROLE RENEWAL:</a></strong>&nbsp;This application should be used by licensed practical nurses who wish to renew their expanded role certification in IV Therapy or Hemodialysis and are required to complete a minimum of 10 contact hours directly related to the expanded role during a current renewal period (September 1 through December 31 - odd numbered years).&nbsp;
+              </dd> 
+              <br>
+              <dd>
+               <strong><a href="https://gateway.licensure.msbn.ms.gov/">INACTIVE LICENSE:</a></strong>&nbsp;This application should be used by RN or LPN who wish to renew license as inactive. A nurse holding an inactive license can not practice as a licensed nurse.
+              </dd> 
+              <dd>
+               &nbsp;
+              </dd> 
+             </dl>
+             <h3><a>Examination</a></h3> 
+             <dl>
+              <dd>
+               <a href="/what-licensure-examination"><strong>LICENSURE BY EXAMINATION:</strong></a>&nbsp; Application for licensure by&nbsp;
+               <strong>NCLEX-RN or NCLEX-PN</strong>. This application should be used by candidates seeking licensure by examination, including those who need to repeat the NCLEX examination. View the examination registration process.
+              </dd> 
+              <br>
+              <dd>
+               <strong><a href="https://gateway.licensure.msbn.ms.gov/">NCLEX SPECIAL ACCOMODATIONS:</a></strong>&nbsp;This application should&nbsp;
+               <strong>ONLY</strong>&nbsp;be submitted by applicants with accommodations in their nursing program. Complete 
+               <a href="/sites/default/files/documents/compliance/SPECIAL%20ACCOMMODATIONS%20FORM.pdf" target="_blank">form</a> for special accommodations. Must be completed by Primary Care Provider.
+              </dd> 
+             </dl>
+             <h3><a>Endorsement</a></h3> 
+             <dl>
+              <dd>
+               <a href="/licensure-endorsement"><strong>LICENSURE BY ENDORSEMENT:</strong>&nbsp;</a>This application should be used to obtain licensure in Mississippi if a currently licensed registered nurse or licensed practical from another state has never held a Mississippi license.
+              </dd> 
+              <br>
+              <dd>
+               <a href="/sites/default/files/Updated%20Camp%20Nurse%20application.pdf">CAMP NURSE:</a>&nbsp;The board, Pursuant to the Miss. Code Ann. Section 75-74-8, may issue a ninety (90) day temporary permit to practice nursing at a youth camp to qualified applicants upon receipt of a completed application and fee. The applicant must hold an active and current license in another jurisdiction.
+              </dd> 
+              <dd>
+               &nbsp;
+              </dd> 
+             </dl>
+             <h3><a>Reinstatement</a></h3> 
+             <dl>
+              <dd>
+               <strong><a href="/rn-reinstatement">RN REINSTATEMENT:</a></strong>&nbsp;For registered nurses who once held a Mississippi license and wish to make it active again. This application should be used by registered nurses that have allowed their license to lapse or are changing licensure status from inactive to active.
+              </dd> 
+              <br>
+              <dd>
+               <strong><a href="/lpn-reinstatement-0">LPN REINSTATEMENT:</a></strong>&nbsp;For licensed practical nurses that once held a Mississippi license and wish to make it active again. This application should be used by licensed practical nurses that have allowed their license to lapse or are changing licensure status from inactive to active.
+              </dd> 
+              <br>
+              <dd>
+               <strong><a href="https://gateway.licensure.msbn.ms.gov/">REORIENTATION PERMIT APPLICATION:</a></strong>&nbsp;This application is for registered nurses or licensed practical nurses that are enrolled in a reorientation/refresher course requiring a clinical component. Please contact the Board office at 601-957-6300 to obtain this application.
+              </dd> 
+              <dd>
+               &nbsp;
+              </dd> 
+             </dl>
+             <h3>?<a>LPN Expanded Role (IV Therapy and Hemodialysis)</a></h3> 
+             <dl>
+              <dd>
+               <a href="/sites/default/files/documents/RN%20Instructor%20Packet-%20LPN%20Expanded%20Role%20Cert%20(rev).pdf"><strong>RN INSTRUCTOR PACKET:</strong></a>&nbsp;LPN EXPANDED ROLE IV THERAPY AND/OR HEMODIALYSIS: For qualified registered nurse instructors, to provide an IV and/or hemodialysis course for currently licensed practical nurses with at least one (1) year of clinical experience within the past three (3) years. It contains the application and forms that should be completed by the licensed practical nurse and registered nurse instructor. The packet should not be completed for or by LPN graduates from an approved nursing program with an integrated IV curriculum. This application is not intended for independent registered nurses pursuing entrepreneurship opportunities.
+              </dd> 
+              <br>
+              <dd>
+               <strong><a href="/lpn-reinstatement-expanded-role-application">LPN REINSTATEMENT EXPANDED ROLE APPLICATION:</a></strong>&nbsp;For licensed practical nurses who once held an expanded role (IV therapy and/or hemodialysis) certification and would like to make it active again. Use this application if you have allowed your expanded role certification to lapse.
+              </dd> 
+              <dd>
+               &nbsp;
+              </dd> 
+             </dl>
+             <h3><a>Certified Clinical Hemodialysis Technician (CCHT) Applications</a></h3> 
+             <dl>
+              <dd>
+               <strong><a href="/ccht-application">CCHT APPLICATION:</a></strong>&nbsp;This application should be used for CCHT candidates seeking initial, repeat or endorsement certification as a CCHT in Mississippi. Select repeat only if you have previously submitted an initial CCHT application to Mississippi and are resubmitting after a failed testing attempt. Select endorsement only if you are currently certified and have worked as a hemodialysis technician in another state, and have never held a Mississippi CCHT certification.
+              </dd> 
+              <br>
+              <dd>
+               <strong><a href="https://gateway.licensure.msbn.ms.gov/">CCHT RENEWAL: </a></strong>This application should be used for CCHTs to renew their Mississippi certification during a current renewal period (May 1 through July 31 – odd numbered years).
+              </dd> 
+              <br>
+              <dd>
+               <strong><a href="https://gateway.licensure.msbn.ms.gov/">CCHT REINSTATEMENT:</a></strong>&nbsp;This application should be used for CCHTs who once held a Mississippi certification and wish to become certified again. Use this application if you have allowed your certification to lapse.
+              </dd> 
+              <dd>
+               &nbsp;
+              </dd> 
+             </dl>
+             <h3>Advanced Practice Certification Application</h3> 
+             <dl>
+              <dd>
+               <strong><a href="https://www.msbn.ms.gov/licensure/advanced-practice-registered-nurse">APRN CERTIFICATION APPLICATION:</a></strong>&nbsp;This application should be used to obtain&nbsp;APRN&nbsp;certification in Mississippi. Initial (you have never held a Mississippi certification) or Reinstatement (you have once held a Mississippi certification)
+              </dd> 
+              <dd>
+               &nbsp;
+              </dd> 
+             </dl>
+             <h3>Name and/or Address Change</h3> 
+             <dl>
+              <dd> 
+               <p><a href="https://gateway.licensure.msbn.ms.gov">Login to your Nurse Gateway</a>&nbsp;to submit a name and/or address change under the "My Profile" tab.</p> 
+              </dd> 
+             </dl>
+            </div> 
+           </div> 
+           <!-- END OUTPUT from 'themes/custom/msbn/templates/field/field.html.twig' --> 
+           <!-- THEME DEBUG --> 
+           <!-- THEME HOOK: 'links__node' --> 
+           <!-- FILE NAME SUGGESTIONS:
+   * links--node.html.twig
+   x links.html.twig
+--> 
+           <!-- BEGIN OUTPUT from 'themes/custom/msbn/templates/navigation/links.html.twig' --> 
+           <!-- END OUTPUT from 'themes/custom/msbn/templates/navigation/links.html.twig' --> 
+          </div> 
+         </article> 
+         <!-- END OUTPUT from 'themes/custom/msbn/templates/content/node.html.twig' --> 
+        </div> 
+        <!-- END OUTPUT from 'themes/custom/msbn/templates/block/block.html.twig' --> 
+       </div> 
+       <!-- END OUTPUT from 'themes/custom/msbn/templates/layout/region.html.twig' --> 
+      </div> 
+     </div> 
+     <div class="sidebar"> 
+      <div class="sidebar-menu"> 
+       <!-- THEME DEBUG --> 
+       <!-- THEME HOOK: 'region' --> 
+       <!-- FILE NAME SUGGESTIONS:
+   * region--sidebar-1.html.twig
+   x region.html.twig
+--> 
+       <!-- BEGIN OUTPUT from 'themes/custom/msbn/templates/layout/region.html.twig' --> 
+       <div> 
+        <!-- THEME DEBUG --> 
+        <!-- THEME HOOK: 'block' --> 
+        <!-- FILE NAME SUGGESTIONS:
+   * block--mainnavigation-2.html.twig
+   * block--system-menu-block--main.html.twig
+   x block--system-menu-block.html.twig
+   * block--system.html.twig
+   * block.html.twig
+--> 
+        <!-- BEGIN OUTPUT from 'themes/custom/msbn/templates/block/block--system-menu-block.html.twig' --> 
+        <nav role="navigation" aria-labelledby="block-mainnavigation-2-menu" id="block-mainnavigation-2"> 
+         <h2>Menu</h2> 
+         <!-- THEME DEBUG --> 
+         <!-- THEME HOOK: 'menu__main' --> 
+         <!-- FILE NAME SUGGESTIONS:
+   * menu--main.html.twig
+   x menu.html.twig
+--> 
+         <!-- BEGIN OUTPUT from 'themes/custom/msbn/templates/navigation/menu.html.twig' --> 
+         <ul> 
+          <li> <a href="/" data-drupal-link-system-path="<front>">Home</a> </li> 
+          <li> <a href="https://www.msbn.ms.gov/board/contact-us">The Board</a> 
+           <ul> 
+            <li> <a href="/board/contact-us" data-drupal-link-system-path="node/17">Contact Us</a> </li> 
+            <li> <a href="/board/board-members" data-drupal-link-system-path="node/19">Board Members</a> </li> 
+            <li> <a href="/board/mississippi-nursing-magazine" data-drupal-link-system-path="node/107">Mississippi Nursing Magazine</a> </li> 
+            <li> <a href="/board/related-organizations" data-drupal-link-system-path="node/20">Related Organizations</a> </li> 
+            <li> <a href="/board/board-meeting-minutes" data-drupal-link-system-path="node/106">Board Meeting Minutes</a> </li> 
+            <li> <a href="https://www.msbn.ms.gov/sites/default/files/2019%20Calendar_0.pdf">Board Meeting Calendar</a> </li> 
+            <li> <a href="https://www.surveymonkey.com/r/YBCKBJZ">Customer Feedback Survey</a> </li> 
+            <li> <a href="/sites/default/files/documents/Fees.pdf">Fee Schedule</a> </li> 
+            <li> <a href="https://gateway.licensure.msbn.ms.gov/licensurestatistics.aspx">Licensure Statistics</a> </li> 
+           </ul> </li> 
+          <li> <a href="https://www.msbn.ms.gov/licensure/applications-and-forms">Licensure</a> 
+           <ul> 
+            <li> <a href="/licensure/applications-and-forms" data-drupal-link-system-path="node/40" class="is-active">Applications</a> </li> 
+            <li> <a href="http://www.msbn.ms.gov/sites/default/files/2019-03/Release%20of%20Name%20and%20Address.pdf">Mailing List </a> </li> 
+            <li> <a href="/licensure/license-verification" data-drupal-link-system-path="node/26">License Verification</a> </li> 
+            <li> <a href="/licensure/advanced-practice-registered-nurse" data-drupal-link-system-path="node/24">Advanced Practice Registered Nurse</a> </li> 
+            <li> <a href="/licensure-endorsement" data-drupal-link-system-path="node/101">Licensure By Endorsement</a> </li> 
+            <li> <a href="/what-licensure-examination" data-drupal-link-system-path="node/321">Licensure by Examination</a> </li> 
+            <li> <a href="/licensure/nclex-testing" data-drupal-link-system-path="node/25">NCLEX Testing</a> </li> 
+            <li> <a href="/rn-reinstatement" data-drupal-link-system-path="node/44">Reinstatement</a> </li> 
+           </ul> </li> 
+          <li> <a href="/practice/position-statements-0">Practice</a> 
+           <ul> 
+            <li> <a href="/practice/position-statements" data-drupal-link-system-path="node/23">Position Statements</a> </li> 
+            <li> <a href="https://www.ncsbn.org/finalrules.pdf">NLC Final Rules</a> </li> 
+           </ul> </li> 
+          <li> <a href="/investigation/investigation-information" data-drupal-link-system-path="node/31">Investigation</a> 
+           <ul> 
+            <li> <a href="/investigation/investigation-information" data-drupal-link-system-path="node/31">Investigation Information</a> </li> 
+            <li> <a href="/investigation/file-complaint" data-drupal-link-system-path="node/30">File a Complaint</a> </li> 
+           </ul> </li> 
+          <li> <a href="/compliance/compliance-division" data-drupal-link-system-path="node/55">Compliance</a> 
+           <ul> 
+            <li> <a href="/compliance/compliance-forms" data-drupal-link-system-path="node/36">Compliance Forms</a> </li> 
+            <li> <a href="/compliance/board-approved-assessors" data-drupal-link-system-path="node/35">Board Approved Assessors</a> </li> 
+            <li> <a href="/compliance/approved-discipline-courses" data-drupal-link-system-path="node/38">Approved Discipline Courses</a> </li> 
+            <li> <a href="/compliance/map" data-drupal-link-system-path="node/323">MAP</a> </li> 
+           </ul> </li> 
+          <li> <a href="/disciplinary-action" data-drupal-link-system-path="node/49">Legal</a> 
+           <ul> 
+            <li> <a href="/disciplinary-action" data-drupal-link-system-path="node/49">Disciplinary Action</a> </li> 
+            <li> <a href="/legal/board-action-minutes" data-drupal-link-system-path="node/64">Disciplinary Action Summaries</a> </li> 
+            <li> <a href="/legal/laws-and-rules" data-drupal-link-system-path="node/51">Laws and Rules</a> </li> 
+            <li> <a href="/legal/public-information-request" data-drupal-link-system-path="node/52">Public Information Request</a> </li> 
+            <li> <a href="/legal/npdb" data-drupal-link-system-path="node/53">NPDB</a> </li> 
+            <li> <a href="/legal/restorations" data-drupal-link-system-path="node/54">Restorations</a> </li> 
+           </ul> </li> 
+          <li> <a href="/frequently-asked-questions-faqs" data-drupal-link-system-path="node/174">FAQ</a> </li> 
+         </ul> 
+         <!-- END OUTPUT from 'themes/custom/msbn/templates/navigation/menu.html.twig' --> 
+        </nav> 
+        <!-- END OUTPUT from 'themes/custom/msbn/templates/block/block--system-menu-block.html.twig' --> 
+       </div> 
+       <!-- END OUTPUT from 'themes/custom/msbn/templates/layout/region.html.twig' --> 
+      </div> 
+      <div class="sidebar-news"> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous"> 
+   <section class="footer"> 
+    <div class="footer-left"> 
+     <!-- THEME DEBUG --> 
+     <!-- THEME HOOK: 'region' --> 
+     <!-- FILE NAME SUGGESTIONS:
+   * region--footer-menu.html.twig
+   x region.html.twig
+--> 
+     <!-- BEGIN OUTPUT from 'themes/custom/msbn/templates/layout/region.html.twig' --> 
+     <div> 
+      <!-- THEME DEBUG --> 
+      <!-- THEME HOOK: 'block' --> 
+      <!-- FILE NAME SUGGESTIONS:
+   * block--mainnavigation.html.twig
+   * block--system-menu-block--main.html.twig
+   x block--system-menu-block.html.twig
+   * block--system.html.twig
+   * block.html.twig
+--> 
+      <!-- BEGIN OUTPUT from 'themes/custom/msbn/templates/block/block--system-menu-block.html.twig' --> 
+      <nav role="navigation" aria-labelledby="block-mainnavigation-menu" id="block-mainnavigation"> 
+       <h2 class="visually-hidden">Main navigation</h2> 
+       <!-- THEME DEBUG --> 
+       <!-- THEME HOOK: 'menu__main' --> 
+       <!-- FILE NAME SUGGESTIONS:
+   * menu--main.html.twig
+   x menu.html.twig
+--> 
+       <!-- BEGIN OUTPUT from 'themes/custom/msbn/templates/navigation/menu.html.twig' --> 
+       <ul> 
+        <li> <a href="/" data-drupal-link-system-path="<front>">Home</a> </li> 
+        <li> <a href="https://www.msbn.ms.gov/board/contact-us">The Board</a> </li> 
+        <li> <a href="https://www.msbn.ms.gov/licensure/applications-and-forms">Licensure</a> </li> 
+        <li> <a href="/practice/position-statements-0">Practice</a> </li> 
+        <li> <a href="/investigation/investigation-information" data-drupal-link-system-path="node/31">Investigation</a> </li> 
+        <li> <a href="/compliance/compliance-division" data-drupal-link-system-path="node/55">Compliance</a> </li> 
+        <li> <a href="/disciplinary-action" data-drupal-link-system-path="node/49">Legal</a> </li> 
+        <li> <a href="/frequently-asked-questions-faqs" data-drupal-link-system-path="node/174">FAQ</a> </li> 
+       </ul> 
+       <!-- END OUTPUT from 'themes/custom/msbn/templates/navigation/menu.html.twig' --> 
+      </nav> 
+      <!-- END OUTPUT from 'themes/custom/msbn/templates/block/block--system-menu-block.html.twig' --> 
+     </div> 
+     <!-- END OUTPUT from 'themes/custom/msbn/templates/layout/region.html.twig' --> 
+     <div class="disclaimer"> 
+      <p>Mississippi Interactive, LLC | Proprietary and Confidential</p> 
+     </div> 
+    </div> 
+    <div class="footer-right"> 
+     <img src="/themes/custom/msbn/images/msGov.png" class="copyright-logo"> 
+     <p class="copyright"><a href="https://twitter.com/msnursingboard"><i class="fab fa-twitter-square"></i></a> | <a href="https://www.facebook.com/MSBoardofNursing/"><i class="fab fa-facebook"></i></a> | Mississippi Board of Nursing</p> 
+    </div> 
+   </section> 
+   <script>
+    (function ($) { $(document).ready(function(){
+
+    	$(document).ready(function(){
+			$('.header-slider ul').bxSlider({
+			  mode: 'fade',
+			});
+		});
+
+    }); })(jQuery);
+</script> 
+   <!-- END OUTPUT from 'themes/custom/msbn/page.html.twig' --> 
+  </div> 
+  <!-- END OUTPUT from 'core/themes/stable/templates/content/off-canvas-page-wrapper.html.twig' --> 
+  <script src="/modules/contrib/google_analytics/js/google_analytics.js?v=8.7.1"></script>   
+  <!-- END OUTPUT from 'themes/custom/msbn/templates/layout/html.html.twig' --> 
+ </body>
+</html>

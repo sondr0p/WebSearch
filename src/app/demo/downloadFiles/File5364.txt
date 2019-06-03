@@ -1,0 +1,756 @@
+<!doctype html>
+<html lang="en" ng-app="mapp">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <!-- State Of Michigan - Mon May 06 12:26:21 2019 --> 
+  <!-- e-Michigan Portal - Process #7, Server www --> 
+  <link rel="canonical" href="https://www.michigan.gov/som/0,4669,7-192-39925---,00.html"> 
+  <title>SOM - Foreign Languages</title> 
+  <meta name="DESCRIPTION" content="State of Michigan - Michigan.gov content that is available in languages other than english. Languages include Spanish, Arabic and more."> 
+  <meta name="KEYWORDS" content="Foreign Languages"> 
+  <base target="_top"> 
+  <!-- global scripts BOOTSTRAP --> 
+  <!-- bow-scripts include --> 
+  <!-- CSS --> 
+  <link type="text/css" rel="stylesheet" href="/css/fullcalendar.css"> 
+  <link type="text/css" rel="stylesheet" href="/font-som-icons/css/somicons.min.css?20170525090940"> 
+  <link type="text/css" rel="stylesheet" href="/font-awesome/css/font-awesome.min.css"> 
+  <link type="text/css" rel="stylesheet" href="/css/jquery.bxslider.css"> 
+  <!-- javascript --> 
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script> 
+  <script src="/bootstrap/js/bootstrap.min.js"></script> 
+  <script src="/js/fullcalendar.js" type="text/javascript"></script> 
+  <script src="/js/jquery.bxslider.js"></script> 
+  <script src="/js/jquery.rwdImageMaps.js"></script> 
+  <script src="/js/jquery.validate.js"></script> 
+  <script src="/js/additional-methods.js"></script> 
+  <script src="/js/responsiveComponents.js"></script> 
+  <script src="/js/jquery.matchHeight-min.js"></script> 
+  <!--[if (lt IE 9)]>
+<script>
+document.createElement('header');
+document.createElement('nav');
+document.createElement('section');
+document.createElement('article');
+document.createElement('aside');
+document.createElement('footer');
+document.createElement('time');
+</script>
+<script src="/js/respond.js"></script>
+<link href="/css/migov_ie8_OLD.css" rel="stylesheet" media="all" />
+<![endif]--> 
+  <script type="text/javascript" src="/js/bow-general.js?v=1526047680"></script> 
+  <link href="/css/body-theme-som.css?v=1551121888" type="text/css" rel="stylesheet"> 
+  <!-- Agency Header do not include the globalcss file -->
+  <!--/ Agency Header-->
+  <script src="/js/underscorejslib.js?v=1493914450"></script> 
+  <script src="/js/angular_1_6.js?v=1493914427"></script> 
+  <script src="/js/angular_1_6_sanitize.js?v=1493914426"></script> 
+  <script src="/js/angular_1_6_animate.js?v=1493914426"></script> 
+  <script src="/js/angular_1_6_aria.js?v=1493914426"></script> 
+  <script src="/js/angular_1_6_touch.js?v=1493914427"></script> 
+  <script src="/js/angucomplete-alt.js?v=1545075608"></script> 
+  <script src="/js/bootstrapUIangular.js?v=1493914448"></script> 
+  <script type="text/javascript">
+window.navPath = '/agency/leftFullNav/0,,192,00.html';
+window.loadedData = [];
+$('body').addClass('matching-heights-processing');
+var mapp = angular.module('mapp',['ngSanitize','ngAnimate','ui.bootstrap','ngAria','angucomplete-alt','ngTouch']);
+mapp.run(['$location', function($location) {
+			var pathCurrent = $location.path();
+			var searchCurrent = $location.search();
+			$('body').on('click','a[href^="#"]',function(e){
+				e.preventDefault();
+			    var hrefDest = $(this).attr('href');
+				//asses if ID or Anchor
+				hrefDest_clean = hrefDest.replace('#','');
+				var anchorCount = $('a[name="'+hrefDest_clean+'"]').length;
+				var idCount = $(''+hrefDest).length;
+				var destObj;
+				if(anchorCount > 0)
+			    {
+					destObj = $('a[name="'+hrefDest_clean+'"]').filter(':first');
+			    }
+				else if(idCount > 0)
+			    {
+					destObj = $(''+hrefDest);
+			    }
+				var offsetVal = $(destObj).offset().top - 150;
+				// change the path
+				$location.path('/'+hrefDest_clean);
+				//Moving focus and page:
+				$('a[href^="#"]').removeAttr('tabindex');
+				$('html,body').animate({scrollTop:offsetVal}, 500);
+				$(destObj).attr('tabindex',-1).focus();
+			});
+		}]);
+</script> 
+  <script src="/js/angular_custom_factories.js?v=1502904335"></script> 
+  <script src="/js/angular_custom_filters.js?v=1506702035"></script> 
+  <script src="/js/SearchComponentAngular.js?v=1545075601"></script> 
+  <script src="/js/angularSelectList.js?v=1544218134"></script> 
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js"></script> 
+  <script src="/js/gtm.js?v=1501512057"></script> 
+ </head> 
+ <body class="agy-som has-offcanvas-menu off-canvas-center  bow-theme-1 horz-menu body-theme-som matching-heights-processing"> 
+  <div role="navigation" aria-label="skip nav"> 
+   <noscript> 
+    <div class="alert bg bg-accent-1 text-center"> 
+     <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> Browsers that can not handle javascript will not be able to access some features of this site. 
+     <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> 
+    </div> 
+    <style type="text/css">
+body.matching-heights-processing:before,body.matching-heights-processing:after {
+content:'';
+height:0px;
+width:0px;
+}
+</style> 
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WTW7M9" height="0" width="0" style="display:none;visibility:hidden"></iframe> 
+   </noscript> 
+   <div id="noAdBlock" style="display:none;" class="alert bg bg-accent-1 text-center"> 
+    <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> Some functions of this site are disabled for browsers blocking jQuery. 
+    <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> 
+   </div> 
+   <div id="_TopOfPage"></div> 
+   <script>
+			function doAnalyticsGo(sndx) {
+				var dest = sndx.options[sndx.selectedIndex].value;
+				if (dest == 0) {
+					alert('Please make a selection.');
+					return false;
+				} else {
+					document.location.href=dest;
+					return false;
+				}
+			}
+		</script>
+   <a href="#main" data-target-id="main" class="sr-only sr-only-focusable jump-to-id">Skip to main content</a> 
+  </div> 
+  <!--START DIV CONTAINER--> 
+  <div id="main-mobile-canvas-container" class=""> 
+   <div id="temp-toggler-mobile-menu" class="text-center toggle-mobile-menu-controls"> 
+    <a href="#mobile-canvas-menu-container" data-toggle-class="show-mobile-nav" class="toggle-mobile-menu outer-link text-center toggle-mobile-menu-controls"> <span class="fa fa-3x fa-bars mobile-menu-closed-icon toggle-mobile-menu-controls"></span><span class="fa fa-3x fa-times mobile-menu-showing-icon toggle-mobile-menu-controls"></span>MENU </a> 
+   </div> 
+   <div class="offcanvas-left toggle-mobile-menu-controls" id="mobile-canvas-menu-container"> 
+    <div class="mobile-canvas-nav-header"> 
+     <div class="mobile-canvas-menu-logo-block"> 
+      <div id="mobileLogoBlock"> 
+       <a href="/som"> <img class="img-responsive" src="/images/som/final_logo_migov_white_526452_7.png" alt="State of Michigan "> </a> 
+      </div> 
+      <div id="mobileSiteTitle"> 
+       <a href="/som"> 
+        <div class="page-site-header">
+         <div class="bannerLgTxt"></div>
+        </div> </a> 
+      </div> 
+     </div> 
+     <div class="inner-mobile-menu-toggle"> 
+      <a href="#mobile-canvas-menu-container" data-toggle-class="show-mobile-nav" class="toggle-mobile-menu outer-link btn btn-accent-black"><span class="fa fa-2x fa-bars mobile-menu-closed-icon"></span><span class="fa fa-2x fa-times mobile-menu-showing-icon"></span></a> 
+     </div> 
+    </div> 
+    <div class="site-extra-text bg bg-primary-1">
+     State of Michigan 
+    </div> 
+    <div class="mobile-search-block bg bg-primary-1 padding-bottom-10"> 
+     <div class="searchComponentDiv" id="searchComponentDiv_9910101010101" ng-controller="searchComponentController" ng-init="init(9910101010101)"> 
+      <div ng-if="loadedData"> 
+       <form ng-submit="submitFormLocal()" class="submit-override"> 
+        <div class="clearfix"> 
+         <div class="" angucomplete-alt id="searchInput_9910101010101" placeholder="" pause="10" selected-object="optionChanged" local-data="people" local-search="localSearch" title-field="name" description-field="twitter" minlength="1" input-class="form-control form-control" input-changed="inputChanged" match-class="highlight"> 
+         </div> 
+        </div> 
+       </form> 
+      </div> 
+     </div> 
+     <script>		
+				window.loadedData[9910101010101] = [];
+				window.loadedData[9910101010101]["GSA_COLLECTION"] = "som";
+				
+				window.loadedData[9910101010101]["gsaAgencyText"] = "State~of~Michigan";
+				window.loadedData[9910101010101]["subcategories"] = [];			
+			</script> 
+    </div> 
+    <div id="containerMainMobileLinks"></div> 
+    <div class="branding-bar-links-block"> 
+     <nav class="mobile-branding-links" aria-label="mobile global menu"> 
+      <ul id="m_bannerLinks">
+       <li><a href="/departments" title="State Departments">State Departments</a></li>
+       <li><a href="/services" title="Online Services">Online Services</a></li>
+       <li><a href="/socialmedia" title="Social Media">Social Media</a></li>
+       <li><a href="/somhelp" title="Help Center">Help Center</a></li>
+      </ul> 
+     </nav> 
+    </div> 
+   </div> 
+   <script type="text/javascript">
+	window.agencySitePathCSS = 'som';
+	//window.agencySitePathCSS = window.location.pathname;
+	window.agencyText = 'State~of~Michigan';
+	//window.agencyText = document.getElementsByTagName("title")[0].innerHTML;
+	window.siteClient = window.agencySitePathCSS;
+	// Task 44300 - WEX
+	 
+	window.default_collection = 'som';
+	 window.gsasearch = true;
+	window.usagovCollection = 'mi-'+window.agencySitePathCSS;
+
+	$('document').ready(function(){
+		$('.site-search-form').submit(function(e){
+			e.preventDefault();
+			siteSearchForm($(this));
+		});
+		$('#noAdBlock').hide();
+	});
+	</script> 
+  </div> 
+  <div id="container" class="container-fluid"> 
+   <div id="topMenuSearchContainer bg bg-accent-black" class="search-extended"> 
+    <div class="searchComponentDiv padding-top-20 padding-bottom-20" id="searchComponentDiv_10101010101" ng-controller="searchComponentController" ng-init="init(10101010101)"> 
+     <div ng-if="loadedData"> 
+      <form ng-submit="submitFormLocal()" class="submit-override"> 
+       <div class="container"> 
+        <div class="col-xs-11" angucomplete-alt id="searchInput_10101010101" placeholder="" pause="10" selected-object="optionChanged" local-data="people" local-search="localSearch" title-field="name" description-field="twitter" minlength="1" input-class="form-control form-control" input-changed="inputChanged" match-class="highlight"> 
+        </div> 
+        <div class="col-xs-1 bg bg-accent-black"> 
+         <a href="#" onclick="$('body').removeClass('show-search-form');$('#top-right-search-bar').focus();" title="Close Search Panel" class="fa-2x"> <span class="fa fa-remove"></span> <span class="sr-only">Close Search Box</span> </a> 
+        </div> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+    <script>		
+		window.loadedData[10101010101] = [];
+		window.loadedData[10101010101]["GSA_COLLECTION"] = "som";
+		window.loadedData[10101010101]["gsaAgencyText"] = "State~of~Michigan";
+		window.loadedData[10101010101]["subcategories"] = [];
+	</script> 
+   </div> 
+   <!-- agencyHeaderNavPath agencyCreateHeaderNavP3 --> 
+   <!--div id="bannerArea" role='banner'-->
+   <!-- HEADER 1.1 Live -->
+   <div id="bannerArea" role="banner">
+    <div id="superTop">
+     <!-- SOM banner text --> 
+     <ul id="bannerLinks">
+      <li><a href="/departments" title="State Departments">State Departments</a></li>
+      <li><a href="/services" title="Online Services">Online Services</a></li>
+      <li><a href="/socialmedia" title="Social Media">Social Media</a></li>
+      <li><a href="/somhelp" title="Help Center">Help Center</a></li>
+      <li id="top-right-search-bar" style="display:none;"> <a href="#topMenuSearchContainer" aria-haspopup="true" title="Search Mi.gov" class="top-header-search-link" data-search-field-id=""> <span>Search</span> </a> </li>
+     </ul>
+    </div>
+    <div id="siteBanner">
+     <!-- SOM banner text --> 
+     <div id="headerRow"> 
+      <div class="header-site-title-text"> 
+       <a class="AGENCY_HEADER_L" accesskey="1" href="/som/"><img class="AGENCY_HEADER_L" src="/images/som/mobileSOM_346956_7_398113_7.png" alt="SOM - State of Michigan "></a> 
+      </div> 
+      <div class="header-nav-block">
+       <nav class="main-navigation" role="navigation" aria-label="main navigation">
+        <ul id="nav" class="nav-main"> 
+         <!-- State Of Michigan - Wed May 29 17:25:54 2019 --> 
+         <!-- e-Michigan Portal - Process #1 --> 
+         <!-- Begin Global Nav section -->
+         <!-- End Global Nav section --> 
+         <!-- Begin Responsive Navigation --> 
+         <li id="29943" class="id-29943 "> <a class="lvl1" title="BUSINESS" href="/som/0,4669,7-192-29943---,00.html">BUSINESS</a> </li> 
+         <li id="29939" class="id-29939 "> <a class="lvl1" title="EDUCATION" href="/som/0,4669,7-192-29939---,00.html">EDUCATION</a> </li> 
+         <li id="29942" class="id-29942 "> <a class="lvl1" title="HEALTH" href="/som/0,4669,7-192-29942---,00.html">HEALTH</a> </li> 
+         <li id="29701" class="id-29701 "> <a class="lvl1" title="GOVERNMENT" href="/som/0,4669,7-192-29701---,00.html">GOVERNMENT</a> </li> 
+         <li id="29941" class="id-29941 "> <a class="lvl1" title="SAFETY" href="/som/0,4669,7-192-29941---,00.html">SAFETY</a> </li> 
+        </ul> 
+        <ul id="desktopMobileButton" style="display:none;"> 
+         <li><a aria-haspopup="true" href="#mobile-canvas-menu-container" data-toggle-class="show-mobile-nav" class="toggle-mobile-menu outer-link text-center toggle-mobile-menu-controls"> <span class="fa fa-bars mobile-menu-closed-icon toggle-mobile-menu-controls"></span><span class="fa fa-times mobile-menu-showing-icon toggle-mobile-menu-controls"></span> 
+           <div class="clearfix">
+            MENU
+           </div> </a></li> 
+        </ul> 
+       </nav> 
+      </div> 
+      <!-- End Flyout Navigation -->
+      <!-- Left Links -->
+      <!-- End Left Links -->
+     </div>
+    </div>
+    <div class="siteBannerTxt">
+     State of Michigan 
+    </div> 
+    <div id="horzMenuSubLinksBlock_container" class="container">
+     <div id="horzMenuSubLinksRow">
+      <div id="horzMenuSubLinksBlockBreadCrumb"></div>
+     </div>
+     <div id="horzMenuSubLinksBlock"></div>
+    </div>
+   </div> 
+   <div id="topNavSearch"> 
+    <!-- SEARCH -->
+    <form id="searchform" onsubmit="location.href='https://search.michigan.gov/AppBuilder/search?ctx=SOM&amp;q=' + document.getElementById('query').value;return false;"> 
+     <input accesskey="s" type="TEXT" autocomplete="off" id="query" name="q" placeholder="Search" title="Search"> 
+     <input id="go" type="submit" value="search" name="button" onClick="location.href='https://search.michigan.gov/AppBuilder/search?ctx=SOM&amp;q=' + document.getElementById('query').value;return false;"> 
+    </form>
+    <!-- /SEARCH -->
+   </div>
+   <!-- LEFTNAV agencyCreateLeftNavRD --> 
+   <!-- bodyWrapper --> 
+   <div id="bodyWrapper"> 
+    <!-- contentWrapper --> 
+    <div id="contentWrapper"> 
+     <!-- main -->
+     <div id="main" class="DW page" role="main"> 
+      <div id="breadcrumbContainer">
+       <div id="breadcrumb" role="navigation" aria-label="breadcrumbs">
+        <span style="display: none" id="breadcrumblabel">You are here</span>
+        <ol class="breadcrumb" aria-labelledby="breadcrumblabel">
+         <li><a href="/som/">SOM</a></li>
+        </ol>
+       </div>
+      </div> 
+      <div class="page-header sr-only">
+       <h1>Foreign Languages</h1>
+      </div> 
+      <!-- Body Begin --> 
+      <!-- State Of Michigan - Sat Apr 27 04:02:21 2019 --> 
+      <!-- BEGIN MAIN CONTENT AREA ROW -->
+      <div class="row row-eq-height">
+       <div class="row-eq-height col-sm-12 ">
+        <!-- ID COMPONENT_64437 --> 
+        <!-- BEGIN CDA Categorized List Proc -->
+        <div id="comp_64437" class="comp list  standard-cat-call" style="  ">
+         <span style="float:left"></span>
+         <form name="form"> 
+          <select title="Categorized List" name="CatPullDown"> <option value="">Jump to a category...</option> <option value="#SPANISH">en Español</option><option value="#SALUD_HEALTH">&nbsp;&nbsp;Salud (Health)</option><option value="#BUSINESS_NEGOCIO">&nbsp;&nbsp;Negocio (Business)</option><option value="#LEYES_Y_REGULACIONES_LAWS">&nbsp;&nbsp;Leyes y regulaciones (Laws &amp; Reg)</option><option value="#EDUCACION_EDUCATION">&nbsp;&nbsp;Educación (Education)</option><option value="#EMPLEO_EMPLOYMENT">&nbsp;&nbsp;Empleo (Employment) </option><option value="#AUTOMOVILES_AUTOMOBILES">&nbsp;&nbsp;Automóviles (Automobiles)</option><option value="#HOGAR_Y_FAMILIA_HOMEFAMILY">&nbsp;&nbsp;Hogar y familia (Home &amp; Family)</option><option value="#PROGRAMAPUBLICO_PUBLICASSISTANCE">&nbsp;&nbsp;Programa público de la ayuda( Assistance)</option><option value="#IMPUESTOS_TAXES">&nbsp;&nbsp;Impuestos (Taxes)</option><option value="#ARABIC">Arabic</option><option value="#FORMS_PUBS">&nbsp;&nbsp;Arabic Forms and Publications</option><option value="#MORE">More Languages</option><option value="#POLISH">&nbsp;&nbsp;Polish</option><option value="#ALBANIAN">&nbsp;&nbsp;Albanian</option><option value="#VIETNAMESE">&nbsp;&nbsp;Vietnamese</option><option value="#FRENCH">&nbsp;&nbsp;French</option><option value="#CHINESE">&nbsp;&nbsp;Chinese</option><option value="#HMONG">&nbsp;&nbsp;Hmong</option><option value="#KOREAN">&nbsp;&nbsp;Korean</option><option value="#RUSSIAN">&nbsp;&nbsp;Russian</option><option value="#SERBO_CROATIAN">&nbsp;&nbsp;Serbo-Croatian</option> </select> 
+          <input type="submit" style="background:none!important; border:none; padding:0!important; font: inherit; cursor: pointer;" title="Jump to selected list item" onClick="if (document.form.CatPullDown.selectedIndex != 0) window.location.href=document.form.CatPullDown.options[document.form.CatPullDown.selectedIndex].value;return false;" value="GO"> 
+         </form> 
+         <br>
+         <div class="panel"> 
+          <h2 style="" class="cTitle panel-heading"> <a class="not-active panel-title" data-parent="#comp_64437" href="#SPANISH" onclick="return false;">en Español</a> </h2> 
+          <div id="SPANISH" class="panel-body"> 
+           <!-- displayContent RD 001 -->
+           <!--PAGEWATCH-->
+           <!-- open table RD --> 
+           <ul class="contentList  ">
+            <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/mdcr/miaahc_response_flyer_en_span_final_559563_7.pdf" title="MIAAHC Community Response System - Responding to Victims of Hate (English and Spanish)">MIAAHC Community Response System - Responding to Victims of Hate (English and Spanish) <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+            <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="http://www.usa.gov/gobiernousa/index.shtml" target="_blank" title="GobiernoUSA.gov ofrece información en español oficial y actualizada sobre programas y servicios gubernamentales a nivel federal, estatal y local. GobiernoUSA.gov forma parte de USA.gov, el portal oficial del Gobierno de los Estados Unidos.">GobiernoUSA.gov </a></span></span></li>
+            <li class="contentItem" style=""><span class="inner"><span class="contentBlock "><span class="bodylinks"></span></span></span></li>
+            <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/DHS-3043-SP_165078_7.pdf" target="_blank" title="Asistencia Federal Temporal a Familias Necesitadas (TANF) Determinación de Elegibilidad - DHS-3043-SP">Asistencia Federal Temporal a Familias Necesitadas (TANF) Determinación de Elegibilidad - DHS-3043-SP <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li> 
+           </ul>
+           <!--/PAGEWATCH-->
+           <!-- /displayContent RD 001 -->
+           <div class="panel"> 
+            <h2 style="" class="cTitle panel-heading"> <a class="not-active panel-title" data-parent="#comp_64437" href="#SALUD_HEALTH" onclick="return false;">Salud (Health)</a> </h2> 
+            <div id="SALUD_HEALTH" class="panel-body"> 
+             <!-- displayContent RD 001 -->
+             <!--PAGEWATCH-->
+             <!-- open table RD --> 
+             <ul class="contentList  ">
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/dhs/DHS_Infant_Safe_Sleep_Poster-Spanish3_199267_7.pdf" target="_blank" title=" Infant Safe Sleep Poster - Spanish 
+">Un sueño seguro para su bebé cartel <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/mdcr/Pregnancy_Brochure-Spanish_pgs_394850_7.pdf" target="_blank" title="Embarazo en el Lugar de Trabajo (Pregnancy in the Workplace - Spanish)">Embarazo en el Lugar de Trabajo (Pregnancy in the Workplace - Spanish) <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/emergingdiseases/BB_Pamphlet_Spanish_365265_7.pdf" target="_blank" title="Los Chinches de Cama(Bed Bugs)">Los Chinches de Cama(Bed Bugs) <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/mdch/0,1607,7-132-2941_4871_48558-180856--,00.html" title="What Is Substance Abuse Treatment? A Booklet for Families">What Is Substance Abuse Treatment? A Booklet for Families </a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/mdch/0,1607,7-132-2941_4871_48558-180856--,00.html" title="Motivacion Para El Cambio – Fotonovela">Motivacion Para El Cambio – Fotonovela </a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/mdch/0,1607,7-132-2940_4909-47662--,00.html" target="_blank" title="La ley sobre el Consentimiento Informado para Aborto en Michigan">La ley sobre el Consentimiento Informado para Aborto en Michigan </a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/MDA_Emergency_Action_Plans_Espanol_125827_7.doc" title="Practical guidance for retail grocery and food service establishments to plan and respond to emergencies that create the potential for an imminent health hazard.">Planes de Emergencia para los Establecimientos de que Venden Productos Comestibles al Detalle (Emergency Action Plans for Retail Food Establishments) <img class="docIcon" src="/images/DOC.gif" alt="DOC icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/SPANISH_ES_Discountcards_alert_141398_7.pdf" target="_blank" title="NAIC Alerta para consumidores:  Tengo cuidado al comprar una targeta de descuentos para sevicios medicos">NAIC Alerta para consumidores: Tengo cuidado al comprar una targeta de descuentos para sevicios medicos <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/som/0,4669,7-192-39925-65200--,00.html" title="  MDHHS Privacy Notice document and additional information about MDHHS privacy practices  
+">Privacy Notice for Medicaid &amp; Other Medical Assistance Programs </a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/NAIC_Long_Term_Care_Ins_Spanish_142112_7.pdf" target="_blank" title="NAIC Alerta para consumidores:10 Cosas que debe conocerantes de adquirir seguro de cuidado prolongado de salud">NAIC Alerta para consumidores:10 Cosas que debe conocerantes de adquirir seguro de cuidado prolongado de salud <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/NAIC_Cons_Alert_Buying_LT_Care_Ins_Spanishc_142074_7.pdf" target="_blank" title="NAIC Alerta para consumidores: 10 Cosas que debe conocerantes de adquirir seguro de cuidado prolongado de salud">NAIC Alerta para consumidores: 10 Cosas que debe conocerantes de adquirir seguro de cuidado prolongado de salud <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/NAIC_Medigap_Policy_Spanish_142087_7.pdf" target="_blank" title="NAIC Alerta para consumidores: 10 Cosas que debe Saberal Adquirir una Poliza Complementario de Medicare (&quot;Medigap&quot;)">NAIC Alerta para consumidores: 10 Cosas que debe Saberal Adquirir una Poliza Complementario de Medicare ("Medigap") <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/SPANISH_ES_FFI_Small_Businesses_Alert_141401_7.pdf" target="_blank" title="NAIC Alerta para consumidores:  Como proteger a los pequenos negocios contra planes de salud fraudulentos">NAIC Alerta para consumidores: Como proteger a los pequenos negocios contra planes de salud fraudulentos <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/som/0,4669,7-192-39925-77286--,00.html" title=" USDA and HHS are equal opportunity providers and employers. (USDA y HHS son proveedores y empleadores de oportunidad igual.) 
+">Nondiscrimination Statement<br>(Declaración de No discriminación) </a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/som/0,4669,7-192-39925-16988--,00.html" title=" English, Spanish and Arabic versions of the booklet that explains the safeguards for your rights when you receive mental health services. 
+">Rights Information Handbooks and Podcast </a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/FIA-0114A-SP_74853_7.pdf" target="_blank" title="Informe de Deducible - DHS-114A-SP">Informe de Deducible - DHS-114A-SP <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/dhs/DHS-PUB-0867-SP_376966_7.pdf" target="_blank" title="Un Folleto de Programa, describe la intención de la Entrega Segura de la Ley de Recién Nacidos.">Programma de Entrega Segura Hoja de Hechos - DHS Pub-867-SP <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li> 
+             </ul>
+             <!--/PAGEWATCH-->
+             <!-- /displayContent RD 001 -->
+            </div>
+           </div>
+           <div class="panel"> 
+            <h2 style="" class="cTitle panel-heading"> <a class="not-active panel-title" data-parent="#comp_64437" href="#BUSINESS_NEGOCIO" onclick="return false;">Negocio (Business)</a> </h2> 
+            <div id="BUSINESS_NEGOCIO" class="panel-body"> 
+             <!-- displayContent RD 001 -->
+             <!--PAGEWATCH-->
+             <!-- open table RD --> 
+             <ul class="contentList  ">
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/mdcr/Discrimination_poster_spanish_2017_2_554047_7.pdf" title="La Ley en Michigan Prohibe Discriminacion (Michigan Law Prohibits Discrimination Poster - Spanish)">La Ley en Michigan Prohibe Discriminacion (Michigan Law Prohibits Discrimination Poster - Spanish) <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/emergingdiseases/BB_Pamphlet_Spanish_365265_7.pdf" target="_blank" title="Los Chinches de Cama(Bed Bugs)">Los Chinches de Cama(Bed Bugs) <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="http://michigan.gov/mpsc/0,4639,7-159-16368_55368---,00.html" title="Información al Consumidor (Michigan Public Service Commission)">Información al Consumidor (Michigan Public Service Commission) </a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/som/0,4669,7-192-39925-140691--,00.html" title="Parteles para el lugar de trabajo">Parteles para el lugar de trabajo </a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/MDA_Emergency_Action_Plans_Espanol_125827_7.doc" title="Practical guidance for retail grocery and food service establishments to plan and respond to emergencies that create the potential for an imminent health hazard.">Planes de Emergencia para los Establecimientos de que Venden Productos Comestibles al Detalle (Emergency Action Plans for Retail Food Establishments) <img class="docIcon" src="/images/DOC.gif" alt="DOC icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/spanishmpscnumber_127860_7.pdf" title="Existe Ayuda Disponible con Algunos Problemas del Servicio Publico Llamando al Numero Gratuito de &quot;Michigan Public Service Commission&quot;">Existe Ayuda Disponible con Algunos Problemas del Servicio Publico Llamando al Numero Gratuito de "Michigan Public Service Commission" <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/som/0,4669,7-192-39925-44099--,00.html" title="MIOSHA en Español Publicacion (MIOSHA Spanish Publications)">MIOSHA en Español Publicacion (MIOSHA Spanish Publications) </a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/uia_1156-Spanish_81833_7.pdf" title="UIA 1156-S, Aviso Ha Los Trabajadores de La Designacion de Los Empleadores Como Temporal">UIA 1156-S, Aviso Ha Los Trabajadores de La Designacion de Los Empleadores Como Temporal <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/uia_1158Spanish_81921_7.pdf" title="UIA 1158-S, Aviso De Que Tu Eres Un &quot;Trabajador Temporal&quot;">UIA 1158-S, Aviso De Que Tu Eres Un "Trabajador Temporal" <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/som/0,4669,7-192-39925-77286--,00.html" title=" USDA and HHS are equal opportunity providers and employers. (USDA y HHS son proveedores y empleadores de oportunidad igual.) 
+">Nondiscrimination Statement<br>(Declaración de No discriminación) </a></span></span></li> 
+             </ul>
+             <!--/PAGEWATCH-->
+             <!-- /displayContent RD 001 -->
+            </div>
+           </div>
+           <div class="panel"> 
+            <h2 style="" class="cTitle panel-heading"> <a class="not-active panel-title" data-parent="#comp_64437" href="#LEYES_Y_REGULACIONES_LAWS" onclick="return false;">Leyes y regulaciones (Laws &amp; Reg)</a> </h2> 
+            <div id="LEYES_Y_REGULACIONES_LAWS" class="panel-body"> 
+             <!-- displayContent RD 001 -->
+             <!--PAGEWATCH-->
+             <!-- open table RD --> 
+             <ul class="contentList  ">
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/WebED121_SP_101264_7.pdf" target="_blank" title=" Usted puede usar esta forma para inscribirse para votar en Michigan o cambiar su nombre o dirección en su inscripción para votar. 
+">Solicitud de inscripcion de votantes de Estado de Michigan <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/mdcr/Discrimination_poster_spanish_2017_2_554047_7.pdf" title="La Ley en Michigan Prohibe Discriminacion (Michigan Law Prohibits Discrimination Poster - Spanish)">La Ley en Michigan Prohibe Discriminacion (Michigan Law Prohibits Discrimination Poster - Spanish) <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/mdcr/bill_of_rights_spanish_605490_7.pdf" target="_blank" title="Declaracion de derechos y responsabilidades (Bill of Rights and Responsibilities - Spanish)">Declaracion de derechos y responsabilidades (Bill of Rights and Responsibilities - Spanish) <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/mdcr/VotingRights2010-Spanish_336216_7.pdf " target="_blank" title="Entendiendo su Derecho a Votar (Understanding Your Right to Vote - Spanish)">Entendiendo su Derecho a Votar (Understanding Your Right to Vote - Spanish) <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/driverresponsibility/DRFBrochureEspanol_312913_7.pdf" title="El Programa De Responsabilidad De Manejo De Michigan (Driver Responsibility)">El Programa De Responsabilidad De Manejo De Michigan (Driver Responsibility) <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/MDA_Emergency_Action_Plans_Espanol_125827_7.doc" title="Practical guidance for retail grocery and food service establishments to plan and respond to emergencies that create the potential for an imminent health hazard.">Planes de Emergencia para los Establecimientos de que Venden Productos Comestibles al Detalle (Emergency Action Plans for Retail Food Establishments) <img class="docIcon" src="/images/DOC.gif" alt="DOC icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/SPANISH_ES_FFI_Small_Businesses_Alert_141401_7.pdf" target="_blank" title="NAIC Alerta para consumidores:  Como proteger a los pequenos negocios contra planes de salud fraudulentos">NAIC Alerta para consumidores: Como proteger a los pequenos negocios contra planes de salud fraudulentos <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/som/0,4669,7-192-39925-77286--,00.html" title=" USDA and HHS are equal opportunity providers and employers. (USDA y HHS son proveedores y empleadores de oportunidad igual.) 
+">Nondiscrimination Statement<br>(Declaración de No discriminación) </a></span></span></li> 
+             </ul>
+             <!--/PAGEWATCH-->
+             <!-- /displayContent RD 001 -->
+            </div>
+           </div>
+           <div class="panel"> 
+            <h2 style="" class="cTitle panel-heading"> <a class="not-active panel-title" data-parent="#comp_64437" href="#EDUCACION_EDUCATION" onclick="return false;">Educación (Education)</a> </h2> 
+            <div id="EDUCACION_EDUCATION" class="panel-body">
+             No articles at this time. 
+            </div>
+           </div>
+           <div class="panel"> 
+            <h2 style="" class="cTitle panel-heading"> <a class="not-active panel-title" data-parent="#comp_64437" href="#EMPLEO_EMPLOYMENT" onclick="return false;">Empleo (Employment) </a> </h2> 
+            <div id="EMPLEO_EMPLOYMENT" class="panel-body"> 
+             <!-- displayContent RD 001 -->
+             <!--PAGEWATCH-->
+             <!-- open table RD --> 
+             <ul class="contentList  ">
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/mdcr/Discrimination_poster_spanish_2017_2_554047_7.pdf" title="La Ley en Michigan Prohibe Discriminacion (Michigan Law Prohibits Discrimination Poster - Spanish)">La Ley en Michigan Prohibe Discriminacion (Michigan Law Prohibits Discrimination Poster - Spanish) <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/som/0,4669,7-192-39925-44099--,00.html" title="MIOSHA en Español Publicacion (MIOSHA Spanish Publications)">MIOSHA en Español Publicacion (MIOSHA Spanish Publications) </a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/uia/Claimant_Handbook_-_Spanish_July_2018_Final_Secured_635430_7.pdf" title="  UIA 1901 (Spanish) - Unemployment Benefits in Michigan  
+
+ &nbsp; 
+">UIA 1901-S, Beneficios Del Desempleo En Michigan <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/uia_Seasonal_Worker_-_Spanish_81958_7.pdf" title="Denial of Unemployment Benefits to Seasonal Workers, Information for Employers (Spanish)">Denial of Unemployment Benefits to Seasonal Workers, Information for Employers (Spanish) <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/uia_1156-Spanish_81833_7.pdf" title="UIA 1156-S, Aviso Ha Los Trabajadores de La Designacion de Los Empleadores Como Temporal">UIA 1156-S, Aviso Ha Los Trabajadores de La Designacion de Los Empleadores Como Temporal <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/uia_1158Spanish_81921_7.pdf" title="UIA 1158-S, Aviso De Que Tu Eres Un &quot;Trabajador Temporal&quot;">UIA 1158-S, Aviso De Que Tu Eres Un "Trabajador Temporal" <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/som/0,4669,7-192-39925-77286--,00.html" title=" USDA and HHS are equal opportunity providers and employers. (USDA y HHS son proveedores y empleadores de oportunidad igual.) 
+">Nondiscrimination Statement<br>(Declaración de No discriminación) </a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/sos/SOS428_SP_Como_solicitar_una_licencia_234429_7.pdf " title="¿Cómo Solicitar una Licencia o Identifactión? (SOS-428SP)">¿Cómo Solicitar una Licencia o Identifactión? (SOS-428SP) <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li> 
+             </ul>
+             <!--/PAGEWATCH-->
+             <!-- /displayContent RD 001 -->
+            </div>
+           </div>
+           <div class="panel"> 
+            <h2 style="" class="cTitle panel-heading"> <a class="not-active panel-title" data-parent="#comp_64437" href="#AUTOMOVILES_AUTOMOBILES" onclick="return false;">Automóviles (Automobiles)</a> </h2> 
+            <div id="AUTOMOVILES_AUTOMOBILES" class="panel-body"> 
+             <!-- displayContent RD 001 -->
+             <!--PAGEWATCH-->
+             <!-- open table RD --> 
+             <ul class="contentList  ">
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/BRIEF_EXP_OF_MI_NOFAULT_SPANISH_130271_7.pdf" target="_blank" title="Breve explicación del seguro sin determinación de culpabilidad de Michigan">Breve explicación del seguro sin determinación de culpabilidad de Michigan <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li> 
+             </ul>
+             <!--/PAGEWATCH-->
+             <!-- /displayContent RD 001 -->
+            </div>
+           </div>
+           <div class="panel"> 
+            <h2 style="" class="cTitle panel-heading"> <a class="not-active panel-title" data-parent="#comp_64437" href="#HOGAR_Y_FAMILIA_HOMEFAMILY" onclick="return false;">Hogar y familia (Home &amp; Family)</a> </h2> 
+            <div id="HOGAR_Y_FAMILIA_HOMEFAMILY" class="panel-body"> 
+             <!-- displayContent RD 001 -->
+             <!--PAGEWATCH-->
+             <!-- open table RD --> 
+             <ul class="contentList  ">
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/dhs/DHS_Infant_Safe_Sleep_Poster-Spanish3_199267_7.pdf" target="_blank" title=" Infant Safe Sleep Poster - Spanish 
+">Un sueño seguro para su bebé cartel <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/spanishmpscnumber_127860_7.pdf" title="Existe Ayuda Disponible con Algunos Problemas del Servicio Publico Llamando al Numero Gratuito de &quot;Michigan Public Service Commission&quot;">Existe Ayuda Disponible con Algunos Problemas del Servicio Publico Llamando al Numero Gratuito de "Michigan Public Service Commission" <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/spanishhomeheatinghelp_130700_7.pdf" title="Los ciudadanos de Michigan pueden solicitar ayuda con sus facturas de calefacción">Los ciudadanos de Michigan pueden solicitar ayuda con sus facturas de calefacción <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/spanishlifeline_127337_7.pdf" title="El Programa de Ayuda Telefonica &quot;Lifeline&quot; Puede Proporcionar Ahorros">El Programa de Ayuda Telefonica "Lifeline" Puede Proporcionar Ahorros <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/spanishslamming_127342_7.pdf" title="¡Reglamentos contra el cambio de compañía telefónica sin autorización (slamming) protegen a los consumidores!">¡Reglamentos contra el cambio de compañía telefónica sin autorización (slamming) protegen a los consumidores! <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/spanishhhc2004_127316_7.pdf" title="Califica para el &quot;Home Heating Credit&quot; del 2004">Califica para el "Home Heating Credit" del 2004 <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/HOMEOWNERS_INS_SPANISH_130278_7.pdf" target="_blank" title="Seguro de Propietarios de Vivienda Comparación de las pólizas de costo de reemplazo con las de costo de reparaciones">Seguro de Propietarios de Vivienda Comparación de las pólizas de costo de reemplazo con las de costo de reparaciones <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/NAIC_Cons_Alert_Buying_LT_Care_Ins_Spanishc_142074_7.pdf" target="_blank" title="NAIC Alerta para consumidores: 10 Cosas que debe conocerantes de adquirir seguro de cuidado prolongado de salud">NAIC Alerta para consumidores: 10 Cosas que debe conocerantes de adquirir seguro de cuidado prolongado de salud <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/dhs/DHS-SafeDeliveryof_NewbornsPoster-Spanish_247673_7.pdf" target="_blank" title="Entrega Segura De Recién Nacidos Anuncios">Entrega Segura De Recién Nacidos Anuncios <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/dhs/DHS-PUB-0280-SP_376865_7.pdf" target="_blank" title="Reporting Changes When, How &amp; What to Report (Spanish) - DHS-Pub-280-SP">Reporting Changes When, How &amp; What to Report (Spanish) - DHS-Pub-280-SP <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/dhs/PUB-0460-SP_255157_7.pdf" target="_blank" title="Una Guía de Padres para Trabajar con los Servicios de Protección de sus Hijos - DHS Pub-460-SP">Una Guía de Padres para Trabajar con los Servicios de Protección de sus Hijos - DHS Pub-460-SP <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/FIA-PUB-0716-SP-AR_88893_7.pdf" target="_blank" title="Expedited Food Assistance Benefits (Spanish) DHS-716-SP">Expedited Food Assistance Benefits (Spanish) DHS-716-SP <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/dhs/DHS-PUB-0748-SP_281630_7.pdf" target="_blank" title=" Proporciona una descripción completa del programa de manutención de niños. 
+">Entendiendo El Sostenimiento para Niños Un Manual para Padres - DHS-Pub-748-SP <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/FIA-PUB-0765-SP_88872_7.pdf" target="_blank" title="Derecho de Aplicar - DHS Pub-765-SP">Derecho de Aplicar - DHS Pub-765-SP <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/FIA-PUB-0780-SP_71478_7.pdf" target="_blank" title=" Proporciona una descripción completa de la importancia de la paternidad. 
+">Lo Que Cada Padre Debe Saber Sobre Estableciendo la Paternidad - DHS-Pub-780-SP <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/dhs/DHS-PUB-0864-SP_220644_7.pdf" target="_blank" title="Safe Delivery publication in Spanish">¿qué voy a hacer? - DHS Pub-864-SP <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/dhs/DHS-4820-SP_258721_7.pdf" target="_blank" title="Entega Voluntaria Para Adopcion De Un Recien Nacido Por Parte De Un Padre - DHS-4820-SP">Entega Voluntaria Para Adopcion De Un Recien Nacido Por Parte De Un Padre - DHS-4820-SP <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/FIA-PUB-0788-SP_88888_7.pdf" target="_blank" title="Aviso A Los Recipientes Potenciales Del Credito Para La Calefacción Del Hogar - DHS Pub-788-SP">Aviso A Los Recipientes Potenciales Del Credito Para La Calefacción Del Hogar - DHS Pub-788-SP <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/dhs/DHS-1201-SP_354268_7.pdf" target="_blank" title="Si usted no está recibiendo asistencia pública, rellene este formulario para solicitar los servicios de Mantenimiento de Hijos">Solicitud Para Servicios de Sostenimento de Ninos (IV-D)/Recomendacion - DHS-1201-SP <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/DHS-4819-SP_165580_7.pdf" target="_blank" title="La Forma Voluntaria de Antecedentes Médicos para un Recién Nacido Entregado es llenada por el Proveedor de Servicios de Emergencia.">Forma Voluntaria de Antecedentes Medicos para un Recien Nacido Entregado - DHS-4819-SP <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li> 
+             </ul>
+             <!--/PAGEWATCH-->
+             <!-- /displayContent RD 001 -->
+            </div>
+           </div>
+           <div class="panel"> 
+            <h2 style="" class="cTitle panel-heading"> <a class="not-active panel-title" data-parent="#comp_64437" href="#PROGRAMAPUBLICO_PUBLICASSISTANCE" onclick="return false;">Programa público de la ayuda( Assistance)</a> </h2> 
+            <div id="PROGRAMAPUBLICO_PUBLICASSISTANCE" class="panel-body"> 
+             <!-- displayContent RD 001 -->
+             <!--PAGEWATCH-->
+             <!-- open table RD --> 
+             <ul class="contentList  ">
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/spanishmpscnumber_127860_7.pdf" title="Existe Ayuda Disponible con Algunos Problemas del Servicio Publico Llamando al Numero Gratuito de &quot;Michigan Public Service Commission&quot;">Existe Ayuda Disponible con Algunos Problemas del Servicio Publico Llamando al Numero Gratuito de "Michigan Public Service Commission" <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/spanishhomeheatinghelp_130700_7.pdf" title="Los ciudadanos de Michigan pueden solicitar ayuda con sus facturas de calefacción">Los ciudadanos de Michigan pueden solicitar ayuda con sus facturas de calefacción <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/dhs/DHS-PUB-0280-SP_376865_7.pdf" target="_blank" title="Reporting Changes When, How &amp; What to Report (Spanish) - DHS-Pub-280-SP">Reporting Changes When, How &amp; What to Report (Spanish) - DHS-Pub-280-SP <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/FIA-PUB-0716-SP-AR_88893_7.pdf" target="_blank" title="Expedited Food Assistance Benefits (Spanish) DHS-716-SP">Expedited Food Assistance Benefits (Spanish) DHS-716-SP <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/dhs/Solicitud_Para_Ayuda_De_Emergencia_Del_Estado_-_DHS-1514SP_419865_7.pdf" target="_blank" title="Solicitud Para Ayuda de Emergencia del Estado - DHS-1514-SP">Solicitud Para Ayuda de Emergencia del Estado - DHS-1514-SP <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/FIA-PUB-0478-EN-SP-A_88886_7.pdf" target="_blank" title="Help Is Available (Ayuda es Disponible) - DHS Pub-478-EN/SP/AR">Help Is Available (Ayuda es Disponible) - DHS Pub-478-EN/SP/AR <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/dhs/DHS-1201-SP_354268_7.pdf" target="_blank" title="Si usted no está recibiendo asistencia pública, rellene este formulario para solicitar los servicios de Mantenimiento de Hijos">Solicitud Para Servicios de Sostenimento de Ninos (IV-D)/Recomendacion - DHS-1201-SP <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/DHS-3043-SP_165078_7.pdf" target="_blank" title="Asistencia Federal Temporal a Familias Necesitadas (TANF) Determinación de Elegibilidad - DHS-3043-SP">Asistencia Federal Temporal a Familias Necesitadas (TANF) Determinación de Elegibilidad - DHS-3043-SP <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li> 
+             </ul>
+             <!--/PAGEWATCH-->
+             <!-- /displayContent RD 001 -->
+            </div>
+           </div>
+           <div class="panel"> 
+            <h2 style="" class="cTitle panel-heading"> <a class="not-active panel-title" data-parent="#comp_64437" href="#IMPUESTOS_TAXES" onclick="return false;">Impuestos (Taxes)</a> </h2> 
+            <div id="IMPUESTOS_TAXES" class="panel-body"> 
+             <!-- displayContent RD 001 -->
+             <!--PAGEWATCH-->
+             <!-- open table RD --> 
+             <ul class="contentList  ">
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/cis_ofis_naic_alert_annuities_spanish_142657_7.pdf" target="_blank" title="NAIC Alerta para consumidores: 10 Cosas que debe conocerantes de adquirir anualidades fijas deferidas">NAIC Alerta para consumidores: 10 Cosas que debe conocerantes de adquirir anualidades fijas deferidas <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/DHS-3043-SP_165078_7.pdf" target="_blank" title="Asistencia Federal Temporal a Familias Necesitadas (TANF) Determinación de Elegibilidad - DHS-3043-SP">Asistencia Federal Temporal a Familias Necesitadas (TANF) Determinación de Elegibilidad - DHS-3043-SP <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li> 
+             </ul>
+             <!--/PAGEWATCH-->
+             <!-- /displayContent RD 001 -->
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="panel"> 
+          <h2 style="" class="cTitle panel-heading"> <a class="not-active panel-title" data-parent="#comp_64437" href="#ARABIC" onclick="return false;">Arabic</a> </h2> 
+          <div id="ARABIC" class="panel-body"> 
+           <!-- displayContent RD 001 -->
+           <!--PAGEWATCH-->
+           <!-- open table RD --> 
+           <ul class="contentList  ">
+            <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/mdcr/miaahc_response_flyer_en_arabic_final_559569_7.pdf " title="MIAAHC Community Response System - Responding to Victims of Hate (English and Arabic)">MIAAHC Community Response System - Responding to Victims of Hate (English and Arabic) <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+            <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/mpsc/0,4639,7-159-16368_55369---,00.html" title="Michigan Public Service Commission">Michigan Public Service Commission </a></span></span></li>
+            <li class="contentItem" style=""><span class="inner"><span class="contentBlock "><span class="bodylinks"></span></span></span></li> 
+           </ul>
+           <!--/PAGEWATCH-->
+           <!-- /displayContent RD 001 -->
+           <div class="panel"> 
+            <h2 style="" class="cTitle panel-heading"> <a class="not-active panel-title" data-parent="#comp_64437" href="#FORMS_PUBS" onclick="return false;">Arabic Forms and Publications</a> </h2> 
+            <div id="FORMS_PUBS" class="panel-body"> 
+             <!-- displayContent RD 001 -->
+             <!--PAGEWATCH-->
+             <!-- open table RD --> 
+             <ul class="contentList  ">
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/dhs/DHS-SafeSleepBrochureArabic_221152_7.pdf" target="_blank" title="Infant Safe Sleep Brochure (Arabic)">Infant Safe Sleep Brochure (Arabic) <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/mdcr/Discrimination_poster_arabic_2017_554167_7.pdf" title="?? ??????? ??????? or ?? ????? ???????
+(Michigan Law Prohibits Discrimination Poster - Arabic)">?? ??????? ??????? or ?? ????? ??????? (Michigan Law Prohibits Discrimination Poster - Arabic) <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/mdcr/MDCRBillofRights_arabic_web_605366_7.pdf" title="??????? ???????? ?? ?????? ? ?????????? (Bill of Rights and Responsibilities - Arabic)">??????? ???????? ?? ?????? ? ?????????? (Bill of Rights and Responsibilities - Arabic) <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/mdcr/VotingRights2010-Arabic_336219_7.pdf" title="??? ????? ?? ??????? (Understanding Your Right to Vote - Arabic)">??? ????? ?? ??????? (Understanding Your Right to Vote - Arabic) <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/4_148335_7.pdf" target="_blank" title="Are you Drowning in Debt? (Arabic)">Are you Drowning in Debt? (Arabic) <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/mdcr/pregnancy_arabic_337175_7.pdf" title="???? ?????? ?? ???? ????? (Pregnancy in the Workplace - Arabic)">???? ?????? ?? ???? ????? (Pregnancy in the Workplace - Arabic) <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/cis/MCB-Welcome-Arabic-1-22-07-website.indd.pdf_190382_7.pdf" title="Michigan Commission for the Blind (Arabic)">Michigan Commission for the Blind (Arabic) <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/Arabic_PrivacyNotice_60812_7.pdf" title="Privacy Notice for Medicaid &amp; Other Medical Assistance Programs">Privacy Notice for Medicaid &amp; Other Medical Assistance Programs <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/Arabic_rights_69945_7.pdf" title="Booklet: Your Rights When Receiving Mental Health Services in Michigan">Booklet: Your Rights When Receiving Mental Health Services in Michigan <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/1_148330_7.pdf" target="_blank" title="Brief Explanation of Michigan No-Fault Insurance (Arabic)">Brief Explanation of Michigan No-Fault Insurance (Arabic) <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/3_148332_7.pdf" target="_blank" title="Homeowners Insurance: Replacement Cost vs. Repair Cost (Arabic)">Homeowners Insurance: Replacement Cost vs. Repair Cost (Arabic) <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/FIA-PUB-0716-SP-AR_88893_7.pdf" target="_blank" title="Expedited Food Assistance Benefits (Spanish) DHS-716-SP">Expedited Food Assistance Benefits (Spanish) DHS-716-SP <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/FIA-PUB-0478-EN-SP-A_88886_7.pdf" target="_blank" title="Help Is Available (Ayuda es Disponible) - DHS Pub-478-EN/SP/AR">Help Is Available (Ayuda es Disponible) - DHS Pub-478-EN/SP/AR <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li> 
+             </ul>
+             <!--/PAGEWATCH-->
+             <!-- /displayContent RD 001 -->
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="panel"> 
+          <h2 style="" class="cTitle panel-heading"> <a class="not-active panel-title" data-parent="#comp_64437" href="#MORE" onclick="return false;">More Languages</a> </h2> 
+          <div id="MORE" class="panel-body"> 
+           <!-- displayContent RD 001 -->
+           <!--PAGEWATCH-->
+           <!-- open table RD --> 
+           <ul class="contentList  ">
+            <li class="contentItem" style=""><span class="inner"><span class="contentBlock "><span class="bodylinks"></span></span></span></li> 
+           </ul>
+           <!--/PAGEWATCH-->
+           <!-- /displayContent RD 001 -->
+           <div class="panel"> 
+            <h2 style="" class="cTitle panel-heading"> <a class="not-active panel-title" data-parent="#comp_64437" href="#POLISH" onclick="return false;">Polish</a> </h2> 
+            <div id="POLISH" class="panel-body">
+             No articles at this time. 
+            </div>
+           </div>
+           <div class="panel"> 
+            <h2 style="" class="cTitle panel-heading"> <a class="not-active panel-title" data-parent="#comp_64437" href="#ALBANIAN" onclick="return false;">Albanian</a> </h2> 
+            <div id="ALBANIAN" class="panel-body">
+             No articles at this time. 
+            </div>
+           </div>
+           <div class="panel"> 
+            <h2 style="" class="cTitle panel-heading"> <a class="not-active panel-title" data-parent="#comp_64437" href="#VIETNAMESE" onclick="return false;">Vietnamese</a> </h2> 
+            <div id="VIETNAMESE" class="panel-body"> 
+             <!-- displayContent RD 001 -->
+             <!--PAGEWATCH-->
+             <!-- open table RD --> 
+             <ul class="contentList  ">
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/mdch/0,1607,7-132-2941_4871_48558-180856--,00.html" title="What Is Substance Abuse Treatment? A Booklet for Families">What Is Substance Abuse Treatment? A Booklet for Families </a></span></span></li> 
+             </ul>
+             <!--/PAGEWATCH-->
+             <!-- /displayContent RD 001 -->
+            </div>
+           </div>
+           <div class="panel"> 
+            <h2 style="" class="cTitle panel-heading"> <a class="not-active panel-title" data-parent="#comp_64437" href="#FRENCH" onclick="return false;">French</a> </h2> 
+            <div id="FRENCH" class="panel-body">
+             No articles at this time. 
+            </div>
+           </div>
+           <div class="panel"> 
+            <h2 style="" class="cTitle panel-heading"> <a class="not-active panel-title" data-parent="#comp_64437" href="#CHINESE" onclick="return false;">Chinese</a> </h2> 
+            <div id="CHINESE" class="panel-body"> 
+             <!-- displayContent RD 001 -->
+             <!--PAGEWATCH-->
+             <!-- open table RD --> 
+             <ul class="contentList  ">
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/mdch/0,1607,7-132-2941_4871_48558-180856--,00.html" title="What Is Substance Abuse Treatment? A Booklet for Families">What Is Substance Abuse Treatment? A Booklet for Families </a></span></span></li>
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/MDA_EAP_chinese_125829_7.pdf" title="?????????????
+">Emergency Action Plans for Retail Food Establishments <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li> 
+             </ul>
+             <!--/PAGEWATCH-->
+             <!-- /displayContent RD 001 -->
+            </div>
+           </div>
+           <div class="panel"> 
+            <h2 style="" class="cTitle panel-heading"> <a class="not-active panel-title" data-parent="#comp_64437" href="#HMONG" onclick="return false;">Hmong</a> </h2> 
+            <div id="HMONG" class="panel-body">
+             No articles at this time. 
+            </div>
+           </div>
+           <div class="panel"> 
+            <h2 style="" class="cTitle panel-heading"> <a class="not-active panel-title" data-parent="#comp_64437" href="#KOREAN" onclick="return false;">Korean</a> </h2> 
+            <div id="KOREAN" class="panel-body"> 
+             <!-- displayContent RD 001 -->
+             <!--PAGEWATCH-->
+             <!-- open table RD --> 
+             <ul class="contentList  ">
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/mdch/0,1607,7-132-2941_4871_48558-180856--,00.html" title="What Is Substance Abuse Treatment? A Booklet for Families">What Is Substance Abuse Treatment? A Booklet for Families </a></span></span></li> 
+             </ul>
+             <!--/PAGEWATCH-->
+             <!-- /displayContent RD 001 -->
+            </div>
+           </div>
+           <div class="panel"> 
+            <h2 style="" class="cTitle panel-heading"> <a class="not-active panel-title" data-parent="#comp_64437" href="#RUSSIAN" onclick="return false;">Russian</a> </h2> 
+            <div id="RUSSIAN" class="panel-body"> 
+             <!-- displayContent RD 001 -->
+             <!--PAGEWATCH-->
+             <!-- open table RD --> 
+             <ul class="contentList  ">
+              <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/mdch/0,1607,7-132-2941_4871_48558-180856--,00.html" title="What Is Substance Abuse Treatment? A Booklet for Families">What Is Substance Abuse Treatment? A Booklet for Families </a></span></span></li> 
+             </ul>
+             <!--/PAGEWATCH-->
+             <!-- /displayContent RD 001 -->
+            </div>
+           </div>
+           <div class="panel"> 
+            <h2 style="" class="cTitle panel-heading"> <a class="not-active panel-title" data-parent="#comp_64437" href="#SERBO_CROATIAN" onclick="return false;">Serbo-Croatian</a> </h2> 
+            <div id="SERBO_CROATIAN" class="panel-body">
+             No articles at this time. 
+            </div>
+           </div>
+          </div>
+         </div> 
+        </div>
+        <!-- END CDA Categorized List Proc -->
+        <!-- /ID COMPONENT_64437 -->
+       </div>
+      </div>
+      <!-- END MAIN CONTENT AREA ROW --> 
+      <!-- Body End --> 
+     </div> 
+     <!-- START RIGHT_NAV 26847__26847__39925 ~ 7-192-26847__26847__39925--- ~ 7-192-26847__26847__39925--- --> 
+     <!-- State Of Michigan - Fri Apr 12 15:04:41 2019 --> 
+     <!-- BEGIN RIGHTNAV HTML CODE  --> 
+     <!-- Agency category -->
+     <!-- Begin Global Nav section RD -->
+     <!-- End Global Nav section RD -->
+     <!-- End My Interests/RightNav Links/Related Content/Right Links --> 
+     <!-- Cache Debug Info
+
+--> 
+     <!-- END RIGHT_NAV --> 
+     <!-- /div --> 
+    </div>
+    <!-- /contentWrapper --> 
+   </div>
+   <!-- /bodyWrapper --> 
+   <!-- BOTTOMNAV --> 
+   <!-- BEGIN FOOTER RD --> 
+   <div id="footerArea" role="contentinfo" style="clear: both"> 
+    <!-- begin expanded footer -->
+    <div id="expandedFooter">
+     <div id="cat_72339" class="footer_1">
+      <h2>Michigan.gov logo</h2>
+      <ul>
+       <li><a href="/som"><img src="/images/som/somFooterLogoBOW2015_491229_7.png" alt="Michigan.gov"></a></li>
+      </ul>
+     </div>
+     <div id="agencylinks" class="footer_1">
+      <ul>
+       <li><a href="/som/0,4669,7-192-39925---,00.html">Foreign Languages</a></li>
+       <li><a href="/disabilityresources">Disability Resources</a></li>
+      </ul>
+     </div>
+     <div id="policylinks" class="footer_1">
+      <ul>
+       <li><a href="/">Michigan.gov Home</a></li>
+       <li><a href="/adaform">ADA</a></li>
+       <li><a href="/minewswire">Michigan News</a></li>
+       <li><a href="/som/0,4669,7-192--281460--,00.html">Policies</a></li>
+      </ul>
+     </div>
+    </div>
+    <br>
+    <span class="copyright"><br>Copyright 2019 State of Michigan</span>
+    <!-- end expanded footer -->
+    <script type="text/javascript">
+if (typeof jQuery == 'undefined') {
+    document.querySelector('body').classList.remove('matching-heights-processing');
+	document.getElementById("noAdBlock").style.display = "block";
+}
+</script> 
+   </div> 
+   <!--END DIV CONTAINER--> 
+  </div> 
+  <!-- Mega Menu Block --> 
+  <div id="megaMenuBlock"> 
+   <div id="megaMenuSubLinksBlock_container"> 
+    <div class="container"> 
+     <div class="col-xs-3"> 
+      <div id="megaMenuLogoBlock"> 
+       <a href="/som"> <img src="/images/som/final_logo_migov_white_526452_7.png" class="img-responsive logo" alt="State of Michigan "></a> 
+      </div> 
+     </div> 
+     <div class="col-xs-9"> 
+      <div id="megaMenuSubLinksBlockBreadCrumb"></div> 
+      <div id="megaMenuSubLinksBlock"></div> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="megaMenuSearchBlock"></div> 
+  </div> 
+  <style type="text/css">
+
+</style> 
+  <!-- stmiws102.prdcloud.fms.ibmcloud.com rjp NT -->  
+ </body>
+</html>

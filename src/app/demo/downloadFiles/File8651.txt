@@ -1,0 +1,1077 @@
+<!doctype html>
+<html lang="en" dir="ltr" prefix="fb: //www.facebook.com/2008/fbml">
+ <head> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <!-- Google Tag Manager --> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-WLMC86');</script> 
+  <!-- End Google Tag Manager --> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <link rel="shortcut icon" href="https://www.archives.gov/files/apple-icon.png" type="image/png"> 
+  <meta name="description" content="Featured Exhibits"> 
+  <meta name="generator" content="Drupal 7 (http://drupal.org)"> 
+  <link rel="canonical" href="https://www.archives.gov/exhibits"> 
+  <meta property="og:site_name" content="National Archives"> 
+  <meta property="og:type" content="article"> 
+  <meta property="og:url" content="https://www.archives.gov/exhibits"> 
+  <meta property="og:title" content="Online Exhibits"> 
+  <meta property="og:description" content="Featured Exhibits"> 
+  <meta property="og:updated_time" content="2018-06-28T09:46:20-04:00"> 
+  <meta name="twitter:card" content="summary"> 
+  <meta name="twitter:url" content="https://www.archives.gov/exhibits"> 
+  <meta name="twitter:title" content="Online Exhibits"> 
+  <meta name="twitter:description" content="Featured Exhibits"> 
+  <meta property="article:published_time" content="2015-09-10T10:51:34-04:00"> 
+  <meta property="article:modified_time" content="2018-06-28T09:46:20-04:00"> 
+  <title>Online Exhibits | National Archives</title> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_IjVDL-ZVE5VXwAMiNOtvj8kUoE0ESNenqVTFGzGmD7g.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_9Q-k-fv_k3FHvcs9CSZ2iD5CTqFxrfaej2FCw2mYIoA.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_BTbypzlNYVbptuza8qzKwXCnB4TjuEzUY43Cz2FsXVA.css" media="all"> 
+  <style>.section-theme #title-bar{background:#29393b url("https://www.archives.gov/files/global-images/section-headers/exhibits.png") no-repeat center right;}.section-theme #mega-footer > h2{background:#29393b}.section-theme #title-bar .breadcrumb{background-color:#425E62;}.section-theme th{background-color:#29393b !important;}
+</style> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_NkrvYXS3XFN6HNXLylk-Jr8h6vd7bMQSZUSOsRKtvhE.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_adYIwY5AiFQ05gx1uTxNpkKu9JMeTmi7MedA-D3wWww.css" media="all"> 
+  <!-- HTML5 element support for IE6-8 --> 
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]--> 
+  <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic|Merriweather"> 
+  <script src="https://www.archives.gov/files/js/js_0RyHJ63yYLuaWsodCPCgSD8dcTIA0dqcDf8-7c2XdBw.js"></script> 
+  <script src="https://www.archives.gov/files/js/js_HbE2XwzjmAgINxgddfJIkmp_TqZJiMR223hyz8f84-0.js"></script> 
+  <script src="https://www.archives.gov/files/js/js_0pQJ_xts95IaRyXneDD9tPnYjBy63RQPzNHeLe2LDCg.js"></script> 
+  <script src="https://www.archives.gov/files/js/js_aDzKXDMFUsp-VuWJPPQ1Nft6mt0ptxw8xB5Ngt_-BSE.js"></script> 
+  <script src="https://www.archives.gov/files/js/js_KyGDO1Fxjv5b9iLtei_bvtKprP3C83MXZ8wgYXbj8bA.js"></script> 
+  <script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"nara","theme_token":"rbsWqWY-EYGFg_DTBaPFK-UenSyMra9NZI2GdSf19y8","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/chosen\/chosen.jquery.min.js":1,"sites\/all\/modules\/custom\/archives_ui\/scripts\/helptext.js":1,"sites\/all\/modules\/custom\/argentina\/js\/script.js":1,"sites\/all\/modules\/custom\/nara_catalog\/js\/script.js":1,"sites\/all\/modules\/contrib\/user_alert\/js\/user-alert.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/custom\/nara_custom\/js\/nara_custom.js":1,"sites\/all\/modules\/contrib\/chosen\/chosen.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/affix.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/alert.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/button.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/carousel.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/collapse.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/dropdown.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/modal.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/tooltip.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/popover.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/scrollspy.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/tab.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/transition.js":1,"sites\/all\/themes\/nara\/scripts\/jPanelMenu.js":1,"sites\/all\/themes\/nara\/scripts\/jRespond.js":1,"sites\/all\/themes\/nara\/scripts\/matchHeight.min.js":1,"sites\/all\/themes\/nara\/scripts\/jquery.fancybox.pack.js":1,"sites\/all\/themes\/nara\/scripts\/toc.js":1,"sites\/all\/themes\/nara\/scripts\/scripts.js":1,"sites\/all\/themes\/nara\/scripts\/jquery.scrollTo.js":1,"sites\/all\/themes\/nara\/scripts\/mediagallery.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/libraries\/chosen\/chosen.css":1,"sites\/all\/modules\/contrib\/chosen\/css\/chosen-drupal.css":1,"sites\/all\/modules\/custom\/archives_ui\/css\/font-awesome.min.css":1,"sites\/all\/modules\/custom\/archives_ui\/css\/helptext.css":1,"sites\/all\/modules\/custom\/archives_ui\/css\/ckeditor_custom.css":1,"sites\/all\/modules\/custom\/argentina\/css\/argentina_style.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/custom\/liaisons\/css\/liaisons_style.css":1,"sites\/all\/modules\/custom\/nara_catalog\/css\/nara-api-style.css":1,"sites\/all\/modules\/archive_features\/nara_timeline\/css\/custom.css":1,"sites\/all\/modules\/archive_features\/nara_timeline\/css\/timeline.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/user_alert\/css\/user-alert.css":1,"sites\/all\/modules\/custom\/varnish_purge\/css\/varnishpurge.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"0":1,"sites\/all\/modules\/custom\/nara_custom\/css\/nara_custom.css":1,"sites\/all\/themes\/nara\/css\/jquery.fancybox.css":1,"sites\/all\/themes\/nara\/css\/jquery.fancybox-thumbs.css":1,"sites\/all\/themes\/nara\/css\/do_not_edit.css":1,"sites\/all\/themes\/nara\/css\/bootstrap.min.css":1,"sites\/all\/themes\/nara\/css\/styles.css":1,"sites\/all\/themes\/nara\/css\/vertical-tabs.css":1,"sites\/all\/themes\/nara\/css\/overrides.css":1,"sites\/all\/themes\/nara\/css\/mediagallery.css":1}},"archives_ui":{"trustedDomains":["twitter\\.com","youtube\\.com","youtu\\.be","recordsofrights\\.org","presidentialtimeline\\.org","nationalarchivesstore\\.org","bush41\\.org","nara\\.learn\\.com","bush41\\.org","bushlibrary\\.tamu\\.edu","fdrlibrary\\.marist\\.edu","georgewbushlibrary\\.smu\\.edu","lbjlibrary\\.org","trumanlibrary\\.org","fdrlibrary\\.org","archivesfoundation\\.org","jfklibrary\\.org","Myarchivesstore\\.org","docsteach\\.org","digitalvaults\\.org","jfk50\\.org","reagan\\.utexas\\.edu","clinton\\.presidentiallibraries\\.us","fdrlibrary\\.org","us11\\.campaign-archive.?\\.com","lbjlibrary\\.net","github\\.io","github\\.com","eventbrite\\.com","facebook\\.com","pinterest\\.com","tumblr\\.com","google\\.com","historypin\\.org","giphy\\.com","instagram\\.com","flickr\\.com","foursquare\\.com","addthis\\.com","apple\\.com","georgebushfoundation\\.org","clintonpresidentialcenter\\.org","geraldrfordfoundation\\.org","reaganfoundation\\.org","rooseveltinstitute\\.org","socialarchive\\.iath\\.virginia.edu","s3\\.amazonaws\\.com","surveymonkey\\.com","storify\\.com","constantcontact\\.com","snaccooperative\\.org"]},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"user_alert":{"url_prefix":"","current_path":"exhibits"},"chosen":{"selector":"","minimum_single":20,"minimum_multiple":20,"minimum_width":200,"options":{"allow_single_deselect":false,"disable_search":false,"disable_search_threshold":0,"search_contains":false,"placeholder_text_multiple":"Choose some options","placeholder_text_single":"Choose an option","no_results_text":"No results match","inherit_select_classes":true}},"urlIsAjaxTrusted":{"\/exhibits\/list":true},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script> 
+  <style type="text/css">
+div.form-item-body-und-0-format {
+	display:none;
+}
+div.form-item-field-col-b-und-0-format {
+	display:none;
+}
+div.filter-guidelines {
+	display:none;
+}
+div.filter-help {
+	display:none;
+}
+</style> 
+  <style type="text/css">
+ul.nav-tabs {
+display:none;
+}
+#block-workbench-block {
+display:none;
+}
+</style> 
+ </head> 
+ <body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-39580 node-type-3-col-page "> 
+  <!-- Google Tag Manager (noscript) --> 
+  <noscript>
+   <iframe alt="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-WLMC86" height="0" width="0" style="display:none;visibility:hidden" title="Google Tag Manager"></iframe>
+  </noscript> 
+  <!-- End Google Tag Manager (noscript) --> 
+  <div id="background-gradient"> 
+   <div class="wrapper section-theme "> 
+    <a class="back-to-top" href="#page-header" style="display: none;">Top</a> 
+    <div id="skip-link"> 
+     <a href="#main-col" class="element-invisible element-focusable">Skip to main content</a> 
+    </div> 
+    <div class="wrapper section-theme"> 
+     <header id="page-header"> 
+      <div class="region region-header"> 
+       <section id="block-block-53" class="block block-block clearfix"> 
+        <div class="col-sm-6" id="logo-wrapper"> 
+         <div id="logo">
+          <a href="/">The U.S. National Archives Home</a>
+         </div> 
+         <button id="nav-toggle" class="navbar-toggle" type="button"></button> 
+        </div> 
+        <div class="col-sm-6" id="search-wrapper"> 
+         <div id="top-links"> 
+          <a class="noBorder" href="/social-media/blogs.html">Blogs</a> · 
+          <script type="text/javascript">// <![CDATA[
+        var addthis_pub = "usarchives";
+        var addthis_offset_left = -40;
+        var addthis_brand = "Archives.gov";
+        // ]]></script> 
+          <a class="addthisLink" onclick="return addthis_sendto();" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]');" onmouseout="addthis_close();" onfocus="return addthis_open(this, '', '[URL]', '[TITLE]');" onblur="addthis_close();" href="https://www.addthis.com/bookmark.php?v=250">Bookmark/Share</a> · 
+          <script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js"></script> 
+          <a href="/contact">Contact Us</a> 
+         </div> 
+         <div class="input-group" id="site-search"> 
+          <form action="https://search.archives.gov/search" method="get" name="search"> 
+           <input class="form-control" id="qt" accesskey="s" type="text" name="query" placeholder="Search Archives.gov" title="Search Archives.gov"> 
+           <span class="input-group-btn"> <button class="btn btn-default" id="go" type="submit" name="submit">Search</button> </span> 
+           <input type="hidden" value="" name="utf8"> 
+           <input id="affiliate" type="hidden" value="national-archives" name="affiliate"> 
+          </form> 
+         </div> 
+        </div> 
+       </section> 
+      </div> 
+     </header> 
+     <!-- /#page-header --> 
+     <nav id="main-nav" class="clearfix "> 
+      <h2 class="element-invisible">Main menu</h2>
+      <ul id="main-menu-links" class="links clearfix make-eq">
+       <li class="menu-859 first research"><a href="/research" title="Explore our nation's history through our documents, photographs, and records." id="research">Research Our Records</a></li> 
+       <li class="menu-860 veterans"><a href="/veterans" title="Request military records and learn about other services for yourself or a family member." id="veterans" class="veterans">Veterans' Service Records</a></li> 
+       <li class="menu-861 teachers"><a href="/education" title="Engage students with lesson plans and other classroom materials." id="teachers" class="teachers">Educator Resources</a></li> 
+       <li class="menu-862 locations"><a href="/locations" title="Plan a trip to a facility near you or learn about our national network of locations and services." id="locations" class="locations">Visit Us</a></li> 
+       <li class="menu-367 last shop"><a href="/founding-docs" title="Order books, gift items, photographic prints, and document reproductions online." id="shop" class="shop">America's Founding Documents</a></li> 
+      </ul> 
+     </nav>
+     <!-- /main-nav --> 
+     <div class="page-body-wrapper"> 
+      <div id="page-body" class="no-sidebar"> 
+       <header id="title-bar"> 
+        <p>Online Exhibits</p> 
+        <div class="breadcrumb"> 
+         <a href="/">Home</a> &gt; Exhibits 
+        </div>
+        <!-- /breadcrumbs --> 
+       </header> 
+       <div class="row"> 
+        <nav class="col-sm-2"> 
+         <aside id="sidebar-first"> 
+          <nav id="left-menu" class=""> 
+           <h3>Online Exhibits</h3> 
+           <ul> 
+            <li><a href="/exhibits/index.html">Featured Exhibits</a></li> 
+            <li><a href="/exhibits/exhibits-list.html">More Online Exhibits</a></li> 
+           </ul> 
+           <h3>Live Exhibits</h3> 
+           <ul> 
+            <li><a href="/presidential-libraries/programs/exhibits.html">Presidential Libraries</a></li> 
+            <li><a href="https://museum.archives.gov/exhibits">Washington, DC</a></li> 
+            <li><a href="/exhibits/nates/">Traveling Exhibits</a></li> 
+            <li><a href="/exhibits/loans/">Records on the Road (Loans)</a></li> 
+           </ul> 
+           <h3>Featured Documents</h3> 
+           <ul> 
+            <li><a href="/historical-docs/todays-doc/">Today's Document</a></li> 
+            <li><a href="/exhibits/charters/">Founding Documents </a></li> 
+            <li><a href="/exhibits/featured-documents/magna-carta/">Magna Carta</a></li> 
+            <li><a href="/exhibits/featured-documents/emancipation-proclamation">The Emancipation Proclamation</a></li> 
+            <li><a href="http://www.ourdocuments.gov/">Our Documents</a></li> 
+            <li><a href="/exhibits/featured-documents/">Featured Documents</a></li> 
+           </ul> 
+           <!--
+<div><a href="/presidential-libraries/index.html" class="buttonLink pres-lib-faces">Presidential Libraries</a></div>
+-->
+           <p class="spaceAbove spaceBelow"><a href="https://museum.archives.gov/">National Archives Museum</a> </p>
+           <div>
+            <a class="buttonLink information" href="/global-pages/privacy.html"><span>Permission to Use Images</span></a>
+           </div> 
+           <div class="nwidget nsnippet" data-name="global-pages_snippets_button-dsh-video" data-version="1"> 
+            <div class="widget-placeholder">
+             Snippet
+            </div> 
+            <div class="dynamic-widget"> 
+             <div>
+              <a class="buttonLink dsh-video" href="https://www.youtube.com/watch?v=7n3ZZ-UpiR4"><span>Learn why Democracy Starts Here</span></a>
+             </div> 
+            </div> 
+           </div> 
+          </nav> 
+         </aside> 
+         <!-- /#sidebar-first --> 
+        </nav> 
+        <div id="main-col" class="col-sm-7"> 
+         <p id="print-logo"> <img src="/sites/all/themes/nara/images/nara-print-logo.jpg" alt="National Archives Logo"> </p> 
+         <div class="region region-content"> 
+          <section id="block-views-exhibits-featured" class="block block-views clearfix"> 
+           <div class="view view-exhibits view-id-exhibits view-display-id-featured media-list view-dom-id-bb0774e4e14528ff141dfa5ce1ba7b01"> 
+            <div class="view-content"> 
+             <div id="featured-exhibits" class="row make-eq"> 
+              <article class="secondary-item col-sm-4">
+               <a href="http://www.ija.archives.gov/"><img width="500" height="500" src="https://www.archives.gov/files/exhibits/ija.jpg" alt="Discovery and Recovery: Preserving Iraqi Jewish Heritage"></a> 
+               <div class="news-feature-text" style="height: 333px;"> 
+                <h2><a href="http://www.ija.archives.gov/">Discovery and Recovery: Preserving Iraqi Jewish Heritage</a></h2> 
+                <div class="event-social-media-buttons-teaser"> 
+                 <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=Discovery+and+Recovery%3A+Preserving+Iraqi+Jewish+Heritage&amp;p[summary]=Startling+evidence+of+the+once+vibrant+Jewish+life+in+Iraq+came+to+light+in+May+2003+%E2%80%94+over+2%2C700+books+and+tens+of+thousands+of+documents+were+discovered+in+the+flooded+basement+of+the+Iraqi+intelligence+headquarters+by+a+US+Army+team.&amp;p[url]=http://www.ija.archives.gov/&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                 <a onclick="window.open('//twitter.com/share?text=Discovery+and+Recovery%3A+Preserving+Iraqi+Jewish+Heritage&amp;url=http://www.ija.archives.gov/&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+                </div> Startling evidence of the once vibrant Jewish life in Iraq came to light in May 2003 — over 2,700 books and tens of thousands of documents were discovered in the flooded basement of the Iraqi intelligence headquarters by a US Army team.
+               </div> 
+              </article> 
+              <article class="secondary-item col-sm-4">
+               <a href="http://recordsofrights.org/"><img width="500" height="500" src="https://www.archives.gov/files/exhibits/records-of-rights.jpg" alt="Records of Rights"></a> 
+               <div class="news-feature-text" style="height: 333px;"> 
+                <h2><a href="http://recordsofrights.org/">Records of Rights</a></h2> 
+                <div class="event-social-media-buttons-teaser"> 
+                 <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=Records+of+Rights&amp;p[summary]=Explore+records+of+the+National+Archives+documenting+the+ongoing%0D%0Astruggle+of+Americans+to+define%2C+attain%2C+and+protect+their+rights.&amp;p[url]=http://recordsofrights.org/&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                 <a onclick="window.open('//twitter.com/share?text=Records+of+Rights&amp;url=http://recordsofrights.org/&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+                </div> Explore records of the National Archives documenting the ongoing struggle of Americans to define, attain, and protect their rights.
+               </div> 
+              </article> 
+              <article class="secondary-item col-sm-4">
+               <a href="http://www.archives.gov/exhibits/charters/"><img width="500" height="500" src="https://www.archives.gov/files/exhibits/constitution-home.jpg" alt="The Charters of Freedom"></a> 
+               <div class="news-feature-text" style="height: 333px;"> 
+                <h2><a href="http://www.archives.gov/exhibits/charters/">The Charters of Freedom</a></h2> 
+                <div class="event-social-media-buttons-teaser"> 
+                 <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=The+Charters+of+Freedom&amp;p[summary]=The+Declaration+of+Independence%2C+the+Constitution%2C+%26+the+Bill+of+Rights.+&amp;p[url]=http://www.archives.gov/exhibits/charters/&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                 <a onclick="window.open('//twitter.com/share?text=The+Charters+of+Freedom&amp;url=http://www.archives.gov/exhibits/charters/&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+                </div> The Declaration of Independence, the Constitution, &amp; the Bill of Rights. 
+               </div> 
+              </article> 
+             </div> 
+            </div> 
+           </div> 
+          </section> 
+          <section id="block-system-main" class="block block-system clearfix"> 
+           <h2>Featured Exhibits</h2> 
+          </section> 
+          <section id="block-views-exhibits-block-2" class="block block-views clearfix"> 
+           <h2 class="block-title">View More Online Exhibits</h2> 
+           <div class="view view-exhibits view-id-exhibits view-display-id-block_2 media-list view-dom-id-b034fc2edd2754a7202bd0ecbfa66e08"> 
+            <div class="view-content"> 
+             <ul id="event-list" class="media-list"> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=1906+San+Francisco+Earthquake+and+Fire&amp;p[summary]=+Documents+about+the+earthquake+aftermath%2C+from+our+archives+located+in+San+Francisco.+&amp;p[url]=http://www.archives.gov/exhibits/sf-earthquake-and-fire/&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=1906+San+Francisco+Earthquake+and+Fire&amp;url=http://www.archives.gov/exhibits/sf-earthquake-and-fire/&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="http://www.archives.gov/exhibits/sf-earthquake-and-fire/"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/san-fran-earthquake.jpg?itok=kT-E5IY7" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="http://www.archives.gov/exhibits/sf-earthquake-and-fire/"> 1906 San Francisco Earthquake and Fire </a> </h4> 
+                <p> Documents about the earthquake aftermath, from our archives located in San Francisco. </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=1948%3A+Year+of+Turmoil+%26+Triumph&amp;p[summary]=Links+to+research%2C+activities%2C+and+photographs+related+to+1948.+From+the+Harry+S.+Truman+Library+and+Museum.+&amp;p[url]=http://www.trumanlibrary.org/1948exh.htm&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=1948%3A+Year+of+Turmoil+%26+Triumph&amp;url=http://www.trumanlibrary.org/1948exh.htm&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="http://www.trumanlibrary.org/1948exh.htm"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/1948_year_of_turmoil_and_triumph_60.jpg?itok=jHbyExjE" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="http://www.trumanlibrary.org/1948exh.htm"> 1948: Year of Turmoil &amp; Triumph </a> </h4> 
+                <p> Links to research, activities, and photographs related to 1948. From the Harry S. Truman Library and Museum. </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=A+New+Deal+for+the+Arts&amp;p[summary]=A+unique+selection+of+artwork%2C+documents%2C+and+photographs+highlighting+Depression+era+Federal+arts+projects+&amp;p[url]=http://www.archives.gov/exhibits/new_deal_for_the_arts/index.html&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=A+New+Deal+for+the+Arts&amp;url=http://www.archives.gov/exhibits/new_deal_for_the_arts/index.html&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="http://www.archives.gov/exhibits/new_deal_for_the_arts/index.html"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/a_new_deal_for_the_arts_60.jpg?itok=tu1REpkP" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="http://www.archives.gov/exhibits/new_deal_for_the_arts/index.html"> A New Deal for the Arts </a> </h4> 
+                <p> A unique selection of artwork, documents, and photographs highlighting Depression era Federal arts projects </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=A+People+at+War&amp;p[summary]=The+contributions+of+Americans%2C+both+military+and+civilian%2C+who+served+their+country+during+World+War+II.+&amp;p[url]=http://www.archives.gov/exhibits/a_people_at_war/a_people_at_war.html&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=A+People+at+War&amp;url=http://www.archives.gov/exhibits/a_people_at_war/a_people_at_war.html&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="http://www.archives.gov/exhibits/a_people_at_war/a_people_at_war.html"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/a_people_at_war_60.jpg?itok=amD2aVDA" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="http://www.archives.gov/exhibits/a_people_at_war/a_people_at_war.html"> A People at War </a> </h4> 
+                <p> The contributions of Americans, both military and civilian, who served their country during World War II. </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=Amending+America&amp;p[summary]=2016+marks+the+225th+anniversary+of+the+Bill+of+Rights%2C+one+of+our+nation%26%23039%3Bs+early+attempts+to+form+%26quot%3Ba+more+perfect+union.%26quot%3B+%C2%9D+In+honor+of+this+milestone%2C+the+National+Archives+encourages+the+nation+to+engage+in+thoughtful+debate+and+discussion+of+how+our+ancestors+sought+to+create+a+more+just+society+and+how+we+do+so+today.&amp;p[url]=https://www.archives.gov/amending-america&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=Amending+America&amp;url=https://www.archives.gov/amending-america&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="https://www.archives.gov/amending-america"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/amending-america/images/amending-america-logo-color-s2.png?itok=LfNvKLDX" width="60" height="70" alt="Amending America"></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="https://www.archives.gov/amending-america"> Amending America </a> </h4> 
+                <p> 2016 marks the 225th anniversary of the Bill of Rights, one of our nation's early attempts to form "a more perfect union." ? In honor of this milestone, the National Archives encourages the nation to engage in thoughtful debate and discussion of how our ancestors sought to create a more just society and how we do so today. </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=American+Originals+II&amp;p[summary]=Documents+from+American+history+including+George+Washington%26%23039%3Bs+expense+book%2C+a+Civil+War+telegram+from+Abraham+Lincoln+to+General+Grant%2C+and+John+F.+Kennedy+speech+notes+from+Berlin.+&amp;p[url]=http://www.archives.gov/exhibits/american_originals/origina2.html&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=American+Originals+II&amp;url=http://www.archives.gov/exhibits/american_originals/origina2.html&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="http://www.archives.gov/exhibits/american_originals/origina2.html"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/american_originals_2_60.gif?itok=hzgnbDgV" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="http://www.archives.gov/exhibits/american_originals/origina2.html"> American Originals II </a> </h4> 
+                <p> Documents from American history including George Washington's expense book, a Civil War telegram from Abraham Lincoln to General Grant, and John F. Kennedy speech notes from Berlin. </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=American+Originals%3A+The+Original+Exhibit&amp;p[summary]=Original+documents+are+the+most+precious+artifacts+of+our+national+and+cultural+history+and+they+form+the+record+of+our+nation%2C+written+in+the+hand+of+the+people+who+shaped+it.+Some+of+America%26%23039%3Bs+most+interesting+and+famous+documents+are+presented+here.+&amp;p[url]=http://www.archives.gov/exhibits/american_originals/original.html&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=American+Originals%3A+The+Original+Exhibit&amp;url=http://www.archives.gov/exhibits/american_originals/original.html&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="http://www.archives.gov/exhibits/american_originals/original.html"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/american_originals_1_60.gif?itok=f9ZGlFlj" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="http://www.archives.gov/exhibits/american_originals/original.html"> American Originals: The Original Exhibit </a> </h4> 
+                <p> Original documents are the most precious artifacts of our national and cultural history and they form the record of our nation, written in the hand of the people who shaped it. Some of America's most interesting and famous documents are presented here. </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=American+Originals%3A+Traveling+Exhibit&amp;p[summary]=Records+of+famous%2C+pivotal%2C+ground-breaking%2C+and+even+odd+moments+in+our+history+&amp;p[url]=http://www.archives.gov/exhibits/american_originals_iv/impact.html&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=American+Originals%3A+Traveling+Exhibit&amp;url=http://www.archives.gov/exhibits/american_originals_iv/impact.html&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="http://www.archives.gov/exhibits/american_originals_iv/impact.html"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/american_originals_4_60.jpg?itok=f2ZMox9r" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="http://www.archives.gov/exhibits/american_originals_iv/impact.html"> American Originals: Traveling Exhibit </a> </h4> 
+                <p> Records of famous, pivotal, ground-breaking, and even odd moments in our history </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=American+Women&amp;p[summary]=Artifacts+from+more+than+100+significant+women+in+American+history.+From+the+Herbert+Hoover+Presidential+Library+and+Museum+&amp;p[url]=http://www.hoover.archives.gov/exhibits/AmericanWomen/index.html&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=American+Women&amp;url=http://www.hoover.archives.gov/exhibits/AmericanWomen/index.html&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="http://www.hoover.archives.gov/exhibits/AmericanWomen/index.html"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/american_women_60.jpg?itok=8lH-Tmyg" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="http://www.hoover.archives.gov/exhibits/AmericanWomen/index.html"> American Women </a> </h4> 
+                <p> Artifacts from more than 100 significant women in American history. From the Herbert Hoover Presidential Library and Museum </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=Dear+Bess%3A+Love+Letters+from+the+President&amp;p[summary]=Almost+50+years+of+handwritten+personal+letters+between+Bess+and+Harry+Truman.+From+the+Harry+S.+Truman+Museum+and+Library.+&amp;p[url]=http://www.trumanlibrary.org/dearbess.htm&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=Dear+Bess%3A+Love+Letters+from+the+President&amp;url=http://www.trumanlibrary.org/dearbess.htm&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="http://www.trumanlibrary.org/dearbess.htm"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/dear_bess_60.jpg?itok=1nE_5xox" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="http://www.trumanlibrary.org/dearbess.htm"> Dear Bess: Love Letters from the President </a> </h4> 
+                <p> Almost 50 years of handwritten personal letters between Bess and Harry Truman. From the Harry S. Truman Museum and Library. </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=Designs+for+Democracy&amp;p[summary]=Explore+more+than+100+designs+highlighting+200+years+of+Government+drawings.&amp;p[url]=http://www.archives.gov/exhibits/designs_for_democracy/index.html&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=Designs+for+Democracy&amp;url=http://www.archives.gov/exhibits/designs_for_democracy/index.html&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="http://www.archives.gov/exhibits/designs_for_democracy/index.html"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/designs_for_democracy_60.jpg?itok=LLYgXI9O" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="http://www.archives.gov/exhibits/designs_for_democracy/index.html"> Designs for Democracy </a> </h4> 
+                <p> Explore more than 100 designs highlighting 200 years of Government drawings. </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=Discovering+the+Civil+War&amp;p[summary]=For+150+years%2C+researchers+have+been+finding+new+insights+in+the+records+of+the+Civil+War.+They%26%23039%3Bre+not+finished+yet.+You+can+join+them+in+%26quot%3BDiscovering+the+Civil+War.%26quot%3B+&amp;p[url]=http://www.archives.gov/exhibits/civil-war&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=Discovering+the+Civil+War&amp;url=http://www.archives.gov/exhibits/civil-war&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="http://www.archives.gov/exhibits/civil-war"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/civil-war-60.jpg?itok=w8lx0bw3" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="http://www.archives.gov/exhibits/civil-war"> Discovering the Civil War </a> </h4> 
+                <p> For 150 years, researchers have been finding new insights in the records of the Civil War. They're not finished yet. You can join them in "Discovering the Civil War." </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=Discovery+and+Recovery%3A+Preserving+Iraqi+Jewish+Heritage&amp;p[summary]=Startling+evidence+of+the+once+vibrant+Jewish+life+in+Iraq+came+to+light+in+May+2003+%E2%80%94+over+2%2C700+books+and+tens+of+thousands+of+documents+were+discovered+in+the+flooded+basement+of+the+Iraqi+intelligence+headquarters+by+a+US+Army+team.&amp;p[url]=http://www.ija.archives.gov/&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=Discovery+and+Recovery%3A+Preserving+Iraqi+Jewish+Heritage&amp;url=http://www.ija.archives.gov/&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="http://www.ija.archives.gov/"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/ija-logo-th.jpg?itok=jIUUOUJ4" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="http://www.ija.archives.gov/"> Discovery and Recovery: Preserving Iraqi Jewish Heritage </a> </h4> 
+                <p> Startling evidence of the once vibrant Jewish life in Iraq came to light in May 2003 — over 2,700 books and tens of thousands of documents were discovered in the flooded basement of the Iraqi intelligence headquarters by a US Army team. </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=Every+Four+Years%3A+Electing+a+President&amp;p[summary]=Every+four+years+Americans+go+to+the+polls+to+elect+their+President.+The+campaign+for+President+is+steeped+in+tradition%2C+combining+ritual%2C+celebration%2C+marketing+and+bombast%2C+all+leading+up+to+Election+Day+when+citizens+enter+the+voting+booth+to+exercise+their+solemn+right+to+choose+their+leaders.+&amp;p[url]=http://www.trumanlibrary.org/museum/4years/index.htm&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=Every+Four+Years%3A+Electing+a+President&amp;url=http://www.trumanlibrary.org/museum/4years/index.htm&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="http://www.trumanlibrary.org/museum/4years/index.htm"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/every_four_years_60.jpg?itok=oG4yg2CJ" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="http://www.trumanlibrary.org/museum/4years/index.htm"> Every Four Years: Electing a President </a> </h4> 
+                <p> Every four years Americans go to the polls to elect their President. The campaign for President is steeped in tradition, combining ritual, celebration, marketing and bombast, all leading up to Election Day when citizens enter the voting booth to exercise their solemn right to choose their leaders. </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=Eyewitness&amp;p[summary]=Gripping+eyewitness+accounts%E2%80%94in+the+form+of+letters%2C+diaries%2C+audio+and+film+recordings%E2%80%94chronicle+dramatic+moments+in+U.S.+history.+&amp;p[url]=http://www.archives.gov/exhibits/eyewitness/&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=Eyewitness&amp;url=http://www.archives.gov/exhibits/eyewitness/&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="http://www.archives.gov/exhibits/eyewitness/"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/eyewitness-xs.jpg?itok=lU7k9cmo" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="http://www.archives.gov/exhibits/eyewitness/"> Eyewitness </a> </h4> 
+                <p> Gripping eyewitness accounts—in the form of letters, diaries, audio and film recordings—chronicle dramatic moments in U.S. history. </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=Ford+and+the+U.S.+Space+Program&amp;p[summary]=Artifacts%2C+photographs+and+documents+shown+here+tell+fascinating+stories+about+the+Apollo-Soyuz+Test+Project+program+and+the+possibilities+it+created.&amp;p[url]=https://www.archives.gov/presidential-libraries/events/centennials/ford/exhibit&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=Ford+and+the+U.S.+Space+Program&amp;url=https://www.archives.gov/presidential-libraries/events/centennials/ford/exhibit&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="https://www.archives.gov/presidential-libraries/events/centennials/ford/exhibit"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/presidential-libraries/events/centennials/ford/images/exhibit/467647-hug-th.jpg?itok=NqECyASq" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="https://www.archives.gov/presidential-libraries/events/centennials/ford/exhibit"> Ford and the U.S. Space Program </a> </h4> 
+                <p> Artifacts, photographs and documents shown here tell fascinating stories about the Apollo-Soyuz Test Project program and the possibilities it created. </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=Gerald+%26+Betty+Ford+Historical+Photographs&amp;p[summary]=230+photographs+from+the+Ford+Library%26%23039%3Bs+White+House+Photographic+Office+Collection&amp;p[url]=http://www.fordlibrarymuseum.gov/library/docs.asp#Early&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=Gerald+%26+Betty+Ford+Historical+Photographs&amp;url=http://www.fordlibrarymuseum.gov/library/docs.asp#Early&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="http://www.fordlibrarymuseum.gov/library/docs.asp#Early"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/gerald_and_betty_ford_60.jpg?itok=ajpLgo3S" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="http://www.fordlibrarymuseum.gov/library/docs.asp#Early"> Gerald &amp; Betty Ford Historical Photographs </a> </h4> 
+                <p> 230 photographs from the Ford Library's White House Photographic Office Collection </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=Israel%27s+50th+Anniversary&amp;p[summary]=Documents+and+educational+activities+relating+to+the+creation+of+the+State+of+Israel.+From+the+Harry+S.+Truman+Museum+and+Library.+&amp;p[url]=http://www.trumanlibrary.org/israel/exhibit2.htm&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=Israel%27s+50th+Anniversary&amp;url=http://www.trumanlibrary.org/israel/exhibit2.htm&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="http://www.trumanlibrary.org/israel/exhibit2.htm"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/isreal_exhibit_hall_60.jpg?itok=lNXHLwXj" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="http://www.trumanlibrary.org/israel/exhibit2.htm"> Israel's 50th Anniversary </a> </h4> 
+                <p> Documents and educational activities relating to the creation of the State of Israel. From the Harry S. Truman Museum and Library. </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=John+H.+White%3A+Portrait+of+Black+Chicago&amp;p[summary]=View+Pulitzer-Prize+winning+photographer+John+H.+White%26%23039%3Bs+images+of+1970s+Chicago.+&amp;p[url]=http://www.archives.gov/exhibits/portrait_of_black_chicago/introduction.html&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=John+H.+White%3A+Portrait+of+Black+Chicago&amp;url=http://www.archives.gov/exhibits/portrait_of_black_chicago/introduction.html&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="http://www.archives.gov/exhibits/portrait_of_black_chicago/introduction.html"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/portrait_of_black_chicago_60.jpg?itok=fC9tRzQK" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="http://www.archives.gov/exhibits/portrait_of_black_chicago/introduction.html"> John H. White: Portrait of Black Chicago </a> </h4> 
+                <p> View Pulitzer-Prize winning photographer John H. White's images of 1970s Chicago. </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=Looking+Back+on+the+American+Century&amp;p[summary]=Experience+some+of+the+greatest+events+and+people+of+the+20th+Century+through+the+original+artifacts+they%26%23039%3Bve+left+behind.+&amp;p[url]=http://www.trumanlibrary.org/museum/20th.htm&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=Looking+Back+on+the+American+Century&amp;url=http://www.trumanlibrary.org/museum/20th.htm&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="http://www.trumanlibrary.org/museum/20th.htm"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/looking_back_60.jpg?itok=IqnJdgTJ" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="http://www.trumanlibrary.org/museum/20th.htm"> Looking Back on the American Century </a> </h4> 
+                <p> Experience some of the greatest events and people of the 20th Century through the original artifacts they've left behind. </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=Nixon+and+the+U.S.+Space+Program&amp;p[summary]=Artifacts%2C+photographs+and+documents+shown+here+tell+fascinating+stories+about+the+Apollo+program+and+the+diplomatic+possibilities+it+created.&amp;p[url]=https://www.archives.gov/presidential-libraries/events/centennials/nixon/exhibit&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=Nixon+and+the+U.S.+Space+Program&amp;url=https://www.archives.gov/presidential-libraries/events/centennials/nixon/exhibit&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="https://www.archives.gov/presidential-libraries/events/centennials/nixon/exhibit"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/presidential-libraries/events/centennials/nixon/images/exhibit/e-65-12-s.jpg?itok=4At58M5m" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="https://www.archives.gov/presidential-libraries/events/centennials/nixon/exhibit"> Nixon and the U.S. Space Program </a> </h4> 
+                <p> Artifacts, photographs and documents shown here tell fascinating stories about the Apollo program and the diplomatic possibilities it created. </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=Panoramic+Photography&amp;p[summary]=Fascinating+selections+from+our+vast+holdings+of+panoramic+images+&amp;p[url]=http://www.archives.gov/exhibits/panoramic_photography/panoramic_home.html&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=Panoramic+Photography&amp;url=http://www.archives.gov/exhibits/panoramic_photography/panoramic_home.html&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="http://www.archives.gov/exhibits/panoramic_photography/panoramic_home.html"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/panoramic_photography_60.jpg?itok=O11E4JWs" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="http://www.archives.gov/exhibits/panoramic_photography/panoramic_home.html"> Panoramic Photography </a> </h4> 
+                <p> Fascinating selections from our vast holdings of panoramic images </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=Picturing+the+Century&amp;p[summary]=20th+century+photographs+and+photographers&amp;p[url]=http://www.archives.gov/exhibits/picturing_the_century/home.html&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=Picturing+the+Century&amp;url=http://www.archives.gov/exhibits/picturing_the_century/home.html&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="http://www.archives.gov/exhibits/picturing_the_century/home.html"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/picturing_the_century_60.jpg?itok=ED3eFMHP" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="http://www.archives.gov/exhibits/picturing_the_century/home.html"> Picturing the Century </a> </h4> 
+                <p> 20th century photographs and photographers </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=Powers+of+Persuasion+-+Posters+from+World+War+II&amp;p[summary]=Powerful+wartime+images+that+helped+shape+our+national+memories+of+the+war&amp;p[url]=https://www.archives.gov/exhibits/powers-of-persuasion&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=Powers+of+Persuasion+-+Posters+from+World+War+II&amp;url=https://www.archives.gov/exhibits/powers-of-persuasion&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="https://www.archives.gov/exhibits/powers-of-persuasion"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/powers_of_persuasion_60.jpg?itok=i2KsMzxL" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="https://www.archives.gov/exhibits/powers-of-persuasion"> Powers of Persuasion - Posters from World War II </a> </h4> 
+                <p> Powerful wartime images that helped shape our national memories of the war </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=President%27s+Daily+Diary&amp;p[summary]=Fifty+historically+significant+entries+chronicling+presidential+activities+from+November+22%2C+1963+-+January+20%2C+1969.+From+the+Lyndon+B.+Johnson+Presidential+Library+and+Museum.&amp;p[url]=http://www.lbjlib.utexas.edu/johnson/archives.hom/diary/diarycol.asp&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=President%27s+Daily+Diary&amp;url=http://www.lbjlib.utexas.edu/johnson/archives.hom/diary/diarycol.asp&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="http://www.lbjlib.utexas.edu/johnson/archives.hom/diary/diarycol.asp"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/presidents_daily_diary_60.jpg?itok=zrukMZCJ" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="http://www.lbjlib.utexas.edu/johnson/archives.hom/diary/diarycol.asp"> President's Daily Diary </a> </h4> 
+                <p> Fifty historically significant entries chronicling presidential activities from November 22, 1963 - January 20, 1969. From the Lyndon B. Johnson Presidential Library and Museum. </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=Records+of+Rights&amp;p[summary]=Explore+records+of+the+National+Archives+documenting+the+ongoing%0D%0Astruggle+of+Americans+to+define%2C+attain%2C+and+protect+their+rights.&amp;p[url]=http://recordsofrights.org/&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=Records+of+Rights&amp;url=http://recordsofrights.org/&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="http://recordsofrights.org/"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/records-of-rights-logo2-th.jpg?itok=DCQssxwT" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="http://recordsofrights.org/"> Records of Rights </a> </h4> 
+                <p> Explore records of the National Archives documenting the ongoing struggle of Americans to define, attain, and protect their rights. </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=Remembering+Vietnam&amp;p[summary]=This+exhibition+presents+both+iconic+and+recently+discovered+National+Archives+records+related+to+12+critical+episodes+in+the+Vietnam+War.&amp;p[url]=https://www.archives.gov/exhibits/remembering-vietnam-online-exhibit-home-page&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=Remembering+Vietnam&amp;url=https://www.archives.gov/exhibits/remembering-vietnam-online-exhibit-home-page&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="https://www.archives.gov/exhibits/remembering-vietnam-online-exhibit-home-page"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/remembering-vietnam-logo.jpg?itok=uqPeBu7u" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="https://www.archives.gov/exhibits/remembering-vietnam-online-exhibit-home-page"> Remembering Vietnam </a> </h4> 
+                <p> This exhibition presents both iconic and recently discovered National Archives records related to 12 critical episodes in the Vietnam War. </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=Running+for+Office%3A+Candidates%2C+Campaigns%2C+and+the+Cartoons+of+Clifford+Berryman&amp;p[summary]=Political+cartoons+from+the+first+half+of+the+20th+century+provide+relevant+commentary+and+fascinating+insight+into+the+campaigns+and+elections+of+today.+&amp;p[url]=http://www.archives.gov/exhibits/running-for-office/&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=Running+for+Office%3A+Candidates%2C+Campaigns%2C+and+the+Cartoons+of+Clifford+Berryman&amp;url=http://www.archives.gov/exhibits/running-for-office/&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="http://www.archives.gov/exhibits/running-for-office/"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/berryman-self-portrait.gif?itok=uEbCdOx9" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="http://www.archives.gov/exhibits/running-for-office/"> Running for Office: Candidates, Campaigns, and the Cartoons of Clifford Berryman </a> </h4> 
+                <p> Political cartoons from the first half of the 20th century provide relevant commentary and fascinating insight into the campaigns and elections of today. </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=The+Bill+of+Rights&amp;p[summary]=The+first+10+amendments+of+the+Constitution+are+known+as+the+Bill+of+Rights.&amp;p[url]=http://www.archives.gov/exhibits/charters/bill_of_rights.html&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=The+Bill+of+Rights&amp;url=http://www.archives.gov/exhibits/charters/bill_of_rights.html&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="http://www.archives.gov/exhibits/charters/bill_of_rights.html"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/bill-of-rights-60.jpg?itok=02xzMVHf" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="http://www.archives.gov/exhibits/charters/bill_of_rights.html"> The Bill of Rights </a> </h4> 
+                <p> The first 10 amendments of the Constitution are known as the Bill of Rights. </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=The+Charters+of+Freedom&amp;p[summary]=The+Declaration+of+Independence%2C+the+Constitution%2C+%26amp%3B+the+Bill+of+Rights.+&amp;p[url]=http://www.archives.gov/exhibits/charters/&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=The+Charters+of+Freedom&amp;url=http://www.archives.gov/exhibits/charters/&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="http://www.archives.gov/exhibits/charters/"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/constitution-60.jpg?itok=HbJf-z-l" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="http://www.archives.gov/exhibits/charters/"> The Charters of Freedom </a> </h4> 
+                <p> The Declaration of Independence, the Constitution, &amp; the Bill of Rights. </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=The+Constitution&amp;p[summary]=The+work+of+many+minds%2C+the+Constitution+stands+as+a+model+of+cooperative+statesmanship+and+the+art+of+compromise.+&amp;p[url]=http://www.archives.gov/founding-docs/constitution&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=The+Constitution&amp;url=http://www.archives.gov/founding-docs/constitution&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="http://www.archives.gov/founding-docs/constitution"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/constitution-60.jpg?itok=HbJf-z-l" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="http://www.archives.gov/founding-docs/constitution"> The Constitution </a> </h4> 
+                <p> The work of many minds, the Constitution stands as a model of cooperative statesmanship and the art of compromise. </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=The+Deadly+Virus&amp;p[summary]=The+influenza+epidemic+of+1918+swept+the+world%2C+attacking+one+fifth+of+the+world%26%23039%3Bs+population.+Within+months%2C+it+had+killed+more+people+than+any+other+illness+in+recorded+history.++View+the+epidemic+through+records+selected+from+the+holdings+of+the+National+Archives+regional+archives.&amp;p[url]=https://www.archives.gov/exhibits/influenza-epidemic&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=The+Deadly+Virus&amp;url=https://www.archives.gov/exhibits/influenza-epidemic&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="https://www.archives.gov/exhibits/influenza-epidemic"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/influenza-thumb.jpg?itok=vPu4H2YO" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="https://www.archives.gov/exhibits/influenza-epidemic"> The Deadly Virus </a> </h4> 
+                <p> The influenza epidemic of 1918 swept the world, attacking one fifth of the world's population. Within months, it had killed more people than any other illness in recorded history. View the epidemic through records selected from the holdings of the National Archives regional archives. </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=The+Declaration+of+Independence&amp;p[summary]=The+Declaration+of+Independence+set+forth+a+list+of+grievances+against+the+King+in+order+to+justify+before+the+world+the+breaking+of+ties+between+the+colonies+and+the+mother+country.+&amp;p[url]=https://www.archives.gov/founding-docs/declaration&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=The+Declaration+of+Independence&amp;url=https://www.archives.gov/founding-docs/declaration&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="https://www.archives.gov/founding-docs/declaration"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/declaration-60.jpg?itok=efP6in0g" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="https://www.archives.gov/founding-docs/declaration"> The Declaration of Independence </a> </h4> 
+                <p> The Declaration of Independence set forth a list of grievances against the King in order to justify before the world the breaking of ties between the colonies and the mother country. </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=The+Herbert+Hoover+Galleries&amp;p[summary]=Images+and+captions+from+the+Permanent+Galleries+of+the+Herbert+Hoover+Presidential+Library+and+Museum+&amp;p[url]=http://www.hoover.archives.gov/exhibits&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=The+Herbert+Hoover+Galleries&amp;url=http://www.hoover.archives.gov/exhibits&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="http://www.hoover.archives.gov/exhibits"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/herbert_hoover_galleries_60.jpg?itok=qft5qMfY" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="http://www.hoover.archives.gov/exhibits"> The Herbert Hoover Galleries </a> </h4> 
+                <p> Images and captions from the Permanent Galleries of the Herbert Hoover Presidential Library and Museum </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=The+National+Archives+at+Atlanta&amp;p[summary]=Documents+and+photos+from+the+National+Archives+at+Atlanta+&amp;p[url]=http://www.archives.gov/atlanta/exhibits/exhibits.html&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=The+National+Archives+at+Atlanta&amp;url=http://www.archives.gov/atlanta/exhibits/exhibits.html&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="http://www.archives.gov/atlanta/exhibits/exhibits.html"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/se-region.jpg?itok=kCOfHge-" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="http://www.archives.gov/atlanta/exhibits/exhibits.html"> The National Archives at Atlanta </a> </h4> 
+                <p> Documents and photos from the National Archives at Atlanta </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=The+National+Archives%3A+Documented+Rights&amp;p[summary]=The+exhibit%26%23039%3Bs+selected+documents%2C+photographs%2C+and+original+testimonies+exemplify+the+range+and+depth+of+National+Archives+holdings+chronicling+the+evolution+of+human+and+civil+rights+in+the+United+States.+&amp;p[url]=http://www.archives.gov/exhibits/documented-rights/&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=The+National+Archives%3A+Documented+Rights&amp;url=http://www.archives.gov/exhibits/documented-rights/&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="http://www.archives.gov/exhibits/documented-rights/"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/documented-rights-60.jpg?itok=kSoBH0HW" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="http://www.archives.gov/exhibits/documented-rights/"> The National Archives: Documented Rights </a> </h4> 
+                <p> The exhibit's selected documents, photographs, and original testimonies exemplify the range and depth of National Archives holdings chronicling the evolution of human and civil rights in the United States. </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=The+Special+Relationship&amp;p[summary]=Documents+and+photographs+of+Churchill+and+Roosevelt+describing+the+emergence+of+the+Anglo+-+American+alliance.+1939+-+1945.+From+the+Franklin+D.+Roosevelt+Library+and+Museum.+&amp;p[url]=http://docs.fdrlibrary.marist.edu/ANGLO.HTML&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=The+Special+Relationship&amp;url=http://docs.fdrlibrary.marist.edu/ANGLO.HTML&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="http://docs.fdrlibrary.marist.edu/ANGLO.HTML"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/the_special_relationship_60.jpg?itok=Ry1PRvf1" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="http://docs.fdrlibrary.marist.edu/ANGLO.HTML"> The Special Relationship </a> </h4> 
+                <p> Documents and photographs of Churchill and Roosevelt describing the emergence of the Anglo - American alliance. 1939 - 1945. From the Franklin D. Roosevelt Library and Museum. </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=The+Truman+Chryslers&amp;p[summary]=Images+of+the+Truman%26%23039%3Bs+1950+Lincoln+Cosmopolitan+limousine+and+their+1955+Chrysler.+From+the+Harry+S.+Truman+Museum+and+Library.+&amp;p[url]=http://www.trumanlibrary.org/cars/&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=The+Truman+Chryslers&amp;url=http://www.trumanlibrary.org/cars/&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="http://www.trumanlibrary.org/cars/"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/truman_chryslers_60.jpg?itok=EnePXeh4" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="http://www.trumanlibrary.org/cars/"> The Truman Chryslers </a> </h4> 
+                <p> Images of the Truman's 1950 Lincoln Cosmopolitan limousine and their 1955 Chrysler. From the Harry S. Truman Museum and Library. </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=The+Watergate+Files&amp;p[summary]=The+Watergate+exhibit+at+the+Gerald+R.+Ford+Museum+immerses+the+visitor+in+one+of+the+most+critical+constitutional+crises+in+the+nation%26%23039%3Bs+history.+&amp;p[url]=http://www.fordlibrarymuseum.gov/museum/exhibits/watergate_files/index.html&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=The+Watergate+Files&amp;url=http://www.fordlibrarymuseum.gov/museum/exhibits/watergate_files/index.html&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="http://www.fordlibrarymuseum.gov/museum/exhibits/watergate_files/index.html"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/watergate_files_60.jpg?itok=hgh3efHS" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="http://www.fordlibrarymuseum.gov/museum/exhibits/watergate_files/index.html"> The Watergate Files </a> </h4> 
+                <p> The Watergate exhibit at the Gerald R. Ford Museum immerses the visitor in one of the most critical constitutional crises in the nation's history. </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=Tokens+and+Treasures%3A+Gifts+to+Twelve+Presidents&amp;p[summary]=These+gifts+are+unique+records+of+each+administration+from+Herbert+Hoover+through+Bill+Clinton.+&amp;p[url]=http://www.archives.gov/exhibits/tokens_and_treasures/tokens_and_treasures_home.html&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=Tokens+and+Treasures%3A+Gifts+to+Twelve+Presidents&amp;url=http://www.archives.gov/exhibits/tokens_and_treasures/tokens_and_treasures_home.html&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="http://www.archives.gov/exhibits/tokens_and_treasures/tokens_and_treasures_home.html"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/tokens_and_treasures_60.jpg?itok=5GgNtxw9" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="http://www.archives.gov/exhibits/tokens_and_treasures/tokens_and_treasures_home.html"> Tokens and Treasures: Gifts to Twelve Presidents </a> </h4> 
+                <p> These gifts are unique records of each administration from Herbert Hoover through Bill Clinton. </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=Treasures+of+Congress&amp;p[summary]=Fascinating+documents+highlighting+the+history+of+the+legislative+branch&amp;p[url]=http://www.archives.gov/exhibits/treasures_of_congress/index.html&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=Treasures+of+Congress&amp;url=http://www.archives.gov/exhibits/treasures_of_congress/index.html&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="http://www.archives.gov/exhibits/treasures_of_congress/index.html"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/treasures_of_congress_60.jpg?itok=2xnI95DI" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="http://www.archives.gov/exhibits/treasures_of_congress/index.html"> Treasures of Congress </a> </h4> 
+                <p> Fascinating documents highlighting the history of the legislative branch </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=What%27s+Cooking%2C+Uncle+Sam%3F+The+Government%27s+Effect+on+the+American+Diet&amp;p[summary]=Explore+the+records+that+trace+the+ways+that+food+has+occupied+the+hearts+and+minds+of+Americans+and+their+Government.+From+Revolutionary+War+rations+to+Cold+War+cultural+exchanges%2C+these+documents+and+images+reflect+many+of+our+current+concerns+about+food+safety+and+nutrition.+&amp;p[url]=http://www.archives.gov/exhibits/whats-cooking/&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=What%27s+Cooking%2C+Uncle+Sam%3F+The+Government%27s+Effect+on+the+American+Diet&amp;url=http://www.archives.gov/exhibits/whats-cooking/&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="http://www.archives.gov/exhibits/whats-cooking/"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/teaser-image-th.jpg?itok=pKpxSn4J" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="http://www.archives.gov/exhibits/whats-cooking/"> What's Cooking, Uncle Sam? The Government's Effect on the American Diet </a> </h4> 
+                <p> Explore the records that trace the ways that food has occupied the hearts and minds of Americans and their Government. From Revolutionary War rations to Cold War cultural exchanges, these documents and images reflect many of our current concerns about food safety and nutrition. </p> 
+               </div> </li> 
+              <li class="media"> 
+               <div class="exhibits-social-media-buttons"> 
+                <a onclick="window.open('//www.facebook.com/sharer.php?s=100&amp;p[title]=When+Nixon+Met+Elvis&amp;p[summary]=The+behind-the-scenes+story+of+the+famous+1970+meeting+as+told+through+original+letters%2C+memorandums%2C+and+photographs.+From+the+Nixon+Presidential+Library+&amp;p[url]=http://www.archives.gov/exhibits/nixon-met-elvis/&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="facebook">Facebook</a> 
+                <a onclick="window.open('//twitter.com/share?text=When+Nixon+Met+Elvis&amp;url=http://www.archives.gov/exhibits/nixon-met-elvis/&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" href="javascript: void(0)" class="twitter">Twitter</a> 
+               </div> 
+               <div class="media-left"> 
+                <div class="field-content exhibit-thumbnail">
+                 <a href="http://www.archives.gov/exhibits/nixon-met-elvis/"><img class="img-responsive" src="https://www.archives.gov/files/styles/exhibit-thumbnail/public/exhibits/thumbnails/when_nixon_met_elvis_60.jpg?itok=YGoPwm85" width="60" height="70" alt=""></a>
+                </div> 
+               </div> 
+               <div class="media-body"> 
+                <h4 class="media-heading"> <a href="http://www.archives.gov/exhibits/nixon-met-elvis/"> When Nixon Met Elvis </a> </h4> 
+                <p> The behind-the-scenes story of the famous 1970 meeting as told through original letters, memorandums, and photographs. From the Nixon Presidential Library </p> 
+               </div> </li> 
+             </ul> 
+            </div> 
+           </div> 
+          </section> 
+         </div> 
+        </div> 
+        <a name="sidebar"></a> 
+        <div id="sidebar" class="col-sm-3"> 
+         <aside id="sidebar-second"> 
+          <div class="region region-sidebar-second"> 
+           <section id="block-views-exp-exhibits-page" class="block block-views clearfix"> 
+            <form action="/exhibits/list" method="get" id="views-exposed-form-exhibits-page" accept-charset="UTF-8">
+             <div> 
+              <div class="panel panel-default box box-lg clearfix"> 
+               <div class="panel-heading"> 
+                <h2><i class="fa fa-search"></i>Find an Exhibit</h2> 
+               </div> 
+               <div class="panel-body"> 
+                <div id="edit-body-value-wrapper" class="views-exposed-widget views-widget-filter-body_value"> 
+                 <label for="edit-body-value"> Search By Keyword </label> 
+                 <div class="views-widget"> 
+                  <div class="form-item form-item-body-value form-type-textfield form-group">
+                   <input class="form-control form-text" type="text" id="edit-body-value" name="body_value" value="" size="30" maxlength="128">
+                  </div> 
+                 </div> 
+                </div> 
+                <div id="edit-field-historical-topics-tid-wrapper" class="views-exposed-widget views-widget-filter-field_historical_topics_tid"> 
+                 <label for="edit-field-historical-topics-tid"> Filter By Subject Matter </label> 
+                 <div class="views-widget"> 
+                  <div class="form-item form-item-field-historical-topics-tid form-type-select form-group">
+                   <select class="form-control form-select" id="edit-field-historical-topics-tid" name="field_historical_topics_tid"><option value="All" selected>- Any -</option><option value="10641">America's Founding Documents</option><option value="10654">Americans With Disabilities</option><option value="10656">Ethnic Heritage</option><option value="10651">Foreign Policy</option><option value="10655">Genealogy</option><option value="10653">Intelligence</option><option value="10652">Law Enforcement and Investigations</option><option value="10642">Wars and Military Records</option><option value="10644">-Civil War</option><option value="10647">-Korean War</option><option value="10649">-Other Wars</option><option value="10650">-Veteran's Service Records</option><option value="10648">-Vietnam War</option><option value="10643">-War of 1812</option><option value="10645">-World War I</option><option value="10646">-World War II</option></select>
+                  </div> 
+                 </div> 
+                </div> 
+                <div class="views-exposed-widget views-submit-button"> 
+                 <button id="edit-submit-filter" class="btn btn-primary form-submit form-submit" type="submit" value="Search" name="search">Search</button> 
+                </div> 
+               </div> 
+              </div> 
+             </div>
+            </form> 
+           </section> 
+           <p><a href="/exhibits/remembering-vietnam-online-exhibit-home-page"><img alt="Remembering Vietnam" class="nwidget nimage width60" data-additional-classes="" data-alignment="" data-frame="" data-image_width="60" src="/files/exhibits/remembering-vietnam-logo.jpg"></a></p> 
+           <p><a href="/amending-america/"><img alt="Amending America" border="0" height="172" hspace="5" src="/exhibits/images/amending-america-btn.jpg" width="175"></a></p> 
+           <p><a href="/exhibits/elvis-nixon.html"><img alt="Elvis &amp; Nixon" border="0" height="170" hspace="5" src="/exhibits/images/elvis-nixon-btn.jpg" width="175"></a></p> 
+           <p><a href="/global-pages/exit-internal.html?link=http://recordsofrights.org"><img alt="Records of Rights" border="0" height="168" hspace="5" src="/global-images/logos/records-of-rights-logo-175x168.jpg" width="175"></a></p> 
+           <p>&nbsp;</p> 
+           <p><a href="/exhibits/charters/constitution.html"><img alt="The Constitution" src="/files/exhibits/images/constitution.jpg" style="margin-left: 5px; margin-right: 5px; width: 177px; height: 220px;"></a></p> 
+           <!--
+<p><a href="/exhibits/civil-war/"><img src="/exhibits/images/civil-war2.jpg" alt="Discovering the Civil War" width="188" height="245" hspace="5" border="0" /></a></p>
+
+
+<p><a href="/exhibits/documented-rights/index.html"><img src="/exhibits/images/documented-rights.jpg" alt="Documented Rights Exhibit. ~Click to View~" width="188" height="203" hspace="5" border="0" /></a></p>
+
+<p><a href="/exhibits/eyewitness/"><img src="/exhibits/eyewitness/graphics/eyewitness-main-page.jpg" alt="EYEWITNESS: Gripping Eyewitness Accounts of moments in U.S. History. ~Click to View~" width="188" height="226" hspace="5" border="0" /></a></p>
+
+
+
+<p><a href="/exhibits/twww/"><img src="/exhibits/twww/twww-promo.jpg" alt="The Way We Worked: Click to View" width="188" height="226" hspace="5" border="0" /></a></p>
+--> 
+          </div> 
+         </aside> 
+         <!-- /#sidebar-second --> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <!-- page-body-wrapper --> 
+     <footer id="page-footer"> 
+      <div class="clearfix row last-update-wrapper "> 
+       <p id="last-update"> <span class="glyphicon glyphicon-edit"></span> This page was last reviewed on June 28, 2018.<br> <a href="/contact">Contact us with questions or comments</a>. </p> 
+      </div> 
+      <section id="mega-footer" class="clearfix panel-group"> 
+       <h2 class="footer-title"> Archives.gov</h2> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#info-for">Information For…</a></h2> 
+        </div> 
+        <div id="info-for" class="panel-collapse"> 
+         <ul>
+          <li><a href="/citizen-archivist/">Citizen Archivists</a></li> 
+          <li><a href="/fed-employees/">Federal Employees</a></li> 
+          <li><a href="/research/genealogy/">Genealogists</a></li> 
+          <li><a href="/congress/">Members of Congress</a></li> 
+          <li><a href="/preservation/">Preservation</a></li> 
+          <li><a href="/records-mgmt/">Records Managers</a></li> 
+          <li><a href="/press/">The Press</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#pubs">Publications</a></h2> 
+        </div> 
+        <div id="pubs" class="panel-collapse"> 
+         <ul>
+          <li><a href="/federal-register/">Federal Register</a></li> 
+          <li><a href="/publications/prologue/">Prologue Magazine</a></li> 
+          <li><a href="/publications/ordering/">Purchase Publications</a></li> 
+          <li><a href="/publications/email-newsletters">Subscribe to Email Newsletters</a></li> 
+          <li><a href="/publications/">All Publications</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#orgs">Orgs. &amp; Offices</a></h2> 
+        </div> 
+        <div id="orgs" class="panel-collapse"> 
+         <ul>
+          <li><a href="/legislative/">Center for Legislative Archives</a></li> 
+          <li><a href="/frc/">Federal Records Center</a></li> 
+          <li><a href="/oig/">Office of the Inspector General</a></li> 
+          <li><a href="/presidential-libraries/">Presidential Libraries</a></li> 
+          <li><a href="/about/organization/">Staff Directory</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#about">About Us</a></h2> 
+        </div> 
+        <div id="about" class="panel-collapse"> 
+         <ul>
+          <li><a href="/about/">What is the National Archives?</a></li> 
+          <li><a href="/contracts/">Doing Business with Us</a></li> 
+          <li><a href="/about/plans-reports/">Plans and Reports</a></li> 
+          <li><a href="/open/">Open Government</a></li> 
+          <li><a href="/open/plain-writing/">Our Plain Language Activities</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#i-want-to">I Want To…</a></h2> 
+        </div> 
+        <div id="i-want-to" class="panel-collapse"> 
+         <ul>
+          <li><a href="/veterans/military-service-records/">Get My Military Record</a></li> 
+          <li><a href="/research/start/plan-visit">Plan a Research Visit</a></li> 
+          <li><a href="https://museum.archives.gov/">Visit the Museum</a></li> 
+          <li><a href="/exhibits/">View Online Exhibits</a></li> 
+          <li><a href="/grants/">Apply for a Grant</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#participate">Participate</a></h2> 
+        </div> 
+        <div id="participate" class="panel-collapse"> 
+         <ul>
+          <li><a href="/calendar/">Attend an Event</a></li> 
+          <li><a href="http://www.archivesfoundation.org/">Donate to the Archives</a></li> 
+          <li><a href="/careers/">Work at the Archives</a></li> 
+          <li><a href="/careers/volunteering/">Volunteer at the Archives</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#resources">Resources</a></h2> 
+        </div> 
+        <div id="resources" class="panel-collapse"> 
+         <ul>
+          <li><a href="/global-pages/subject-index.html">A-Z Index</a></li> 
+          <li><a href="/founding-docs/">America's Founding Docs</a></li> 
+          <li><a href="/contact/">Contact Us</a></li> 
+          <li><a href="/espanol/">En Español</a></li> 
+          <li><a href="/faqs/">FAQs</a></li> 
+          <li><a href="/forms/">Forms</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#shop-footer">Shop Online</a></h2> 
+        </div> 
+        <div id="shop-footer" class="panel-collapse"> 
+         <ul>
+          <li><a href="https://www.nationalarchivesstore.org/?utm_campaign=2019eStore&amp;utm_medium=website&amp;utm_source=nara&amp;utm_content=organic">Visit the National Archives Store</a></li> 
+          <li><a href="https://eservices.archives.gov/orderonline/">Buy Reproductions and Microfilm</a></li> 
+         </ul>
+        </div> 
+       </div> 
+      </section> 
+      <section id="sub-footer"> 
+       <div class="region region-footer-bottom"> 
+        <section id="block-block-54" class="block block-block clearfix"> 
+         <h2> <a href="https://www.archives.gov/social-media/">Connect With Us</a></h2> 
+         <ul class="clearfix" id="social-media"> 
+          <li class="facebook" data-original-title="Facebook" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/facebook">Facebook</a></li> 
+          <li class="twitter" data-original-title="Twitter" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/twitter">Twitter</a></li> 
+          <li class="instagram" data-original-title="Instagram" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/instagram">Instagram</a></li> 
+          <li class="tumblr" data-original-title="Tumblr" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/tumblr">Tumblr</a></li> 
+          <li class="youtube" data-original-title="YouTube" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/youtube">YouTube</a></li> 
+          <li class="blogs" data-original-title="Blogs" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/blogs">Blogs</a></li> 
+          <li class="flickr" data-original-title="Flickr" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/flickr">Flickr</a></li> 
+         </ul> 
+         <p> </p> 
+         <p id="footer-links"> <a href="/contact/">Contact Us</a> · <a href="/global-pages/accessibility.html">Accessibility</a> · <a href="/global-pages/privacy.html">Privacy Policy</a> · <a href="/foia/">Freedom of Information Act</a> · <a href="/eeo/policy/complaint-activity.html">No FEAR Act</a> · <a href="http://www.usa.gov/">USA.gov</a></p> 
+         <p id="footer-phone">The U.S. National Archives and Records Administration<br> <a href="tel:1-866-272-6272">1-86-NARA-NARA or 1-866-272-6272</a></p> 
+        </section> 
+       </div> 
+      </section> 
+     </footer>
+     <!-- /page-footer --> 
+    </div> 
+    <script src="/sites/all/themes/nara/scripts/jquery.fancybox.pack.js" type="text/javascript"></script> 
+    <script src="/sites/all/themes/nara/scripts/helpers/jquery.fancybox-media.js" type="text/javascript"></script> 
+    <script src="/sites/all/themes/nara/scripts/helpers/jquery.fancybox-thumbs.js" type="text/javascript"></script> 
+    <script src="https://www.archives.gov/files/js/js_MRdvkC2u4oGsp5wVxBG1pGV5NrCPW3mssHxIn6G9tGE.js"></script> 
+   </div> 
+   <a class="back-to-top" href="#page-header" style="display: inline;">Top</a> 
+   <script>
+(function ($) {
+  // Original JavaScript code.
+$('.toc').toc({
+'selectors': 'h2:not(.element-invisible):not(.toc-block h2),h3',
+'container': '#main-col'
+});
+})(jQuery);
+
+//fix extra timeline object issue
+(function(){            
+  if(typeof Drupal.settings['timelineJS'] !== 'undefined'){      
+    timelinejs_arry = Drupal.settings['timelineJS'];
+    tmptimeline=[];
+    for (i = 0; i < timelinejs_arry.length-1; i++) {       
+      if(typeof timelinejs_arry[i]['processed'] !== 'undefined'){                        
+        tmptimeline.push(timelinejs_arry[i]);  
+      } 
+    }
+    Drupal.settings['timelineJS'] = tmptimeline;
+  }
+}());
+</script> 
+  </div> 
+  <!-- end -->   
+ </body>
+</html>

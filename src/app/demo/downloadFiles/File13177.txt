@@ -1,0 +1,318 @@
+<!doctype html>
+<html lang="en">
+ <head> 
+  <meta charset="utf-8"> 
+  <title>Mississippi State Board of Registered Professional Geologists - Online License
+        Renewal System</title> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta name="description" content=""> 
+  <meta name="author" content=""> 
+  <link href="css/appstyles.css" rel="stylesheet" type="text/css"> 
+  <!-- Le styles --> 
+  <link href="css/bootstrap.css" rel="stylesheet"> 
+  <link href="css/site.css" rel="stylesheet"> 
+  <link href="css/bootstrap-responsive.css" rel="stylesheet"> 
+  <!-- HTML5 shim, for IE6-8 support of HTML5 elements --> 
+  <!--[if lt IE 9]>
+      <script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]--> 
+  <!-- Fav and touch icons --> 
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="../assets/ico/apple-touch-icon-144-precomposed.png"> 
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../assets/ico/apple-touch-icon-114-precomposed.png"> 
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png"> 
+  <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png"> 
+  <link rel="shortcut icon" href="../assets/ico/favicon.png"> 
+  <script type="text/javascript" src="scripts/reportbug.js"></script> 
+  <style type="text/css">
+        .button
+        {
+            font-weight: 700;
+        }
+        input[type="radio"]
+        {
+            vertical-align:top;
+        }
+    </style> 
+ </head> 
+ <body> 
+  <div id="divReportBug" style="position: absolute; top: 16%; left: 6%;"> 
+   <img src="images/reportIssue_bttn.png" id="Button_ReportBug" onclick="javascript: reportBug();" alt="Report Bug"> 
+   <script type="text/javascript">
+            hideBugTool();
+        </script> 
+  </div> 
+  <form method="post" action="./" onsubmit="javascript:return WebForm_OnSubmit();" id="form1"> 
+   <div class="aspNetHidden"> 
+    <input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value=""> 
+    <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="esJnWkBiYYG1Blg/j9snK+aFyGyZPYIyFmpJeTAUgsm6lONBSScNKGlisb2HQrMfIq5RJH2e6NYcj7fsZoApZEoDYMQ="> 
+   </div> 
+   <script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script> 
+   <script src="/msbrpg/registration_payment/WebResource.axd?d=zQoiTf-a8dSjZDmxKIl0UM41B5v0EM7-DrQgBMD5yZmynAAXItYgQNGgEx03DCllzJomGJ3lqzngFeeHhOyO7_qFb541&amp;t=636765211280000000" type="text/javascript"></script> 
+   <script src="/msbrpg/registration_payment/WebResource.axd?d=Q0ojaa8C-2NN0HD9sIGoFo0vOddQlPd_kUVBN5qUgygBP4gE9Ck-29KkUUOTTU-7hRJIVZ0jJMDuIHgkzxcdMToYOys1&amp;t=636765211280000000" type="text/javascript"></script> 
+   <script src="/msbrpg/registration_payment/WebResource.axd?d=Z06QPT5jRcDBN2KVt222avkyh5jxrQhhtSwUSqXJD41fceIGaJsLctB5Hk4R4ZWaJPzhr53X0QMAuNqMBG37zZ17wvE1&amp;t=636765211280000000" type="text/javascript"></script> 
+   <script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script> 
+   <div class="aspNetHidden"> 
+    <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="448096EE"> 
+    <input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0"> 
+    <input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0"> 
+    <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value=""> 
+    <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value=""> 
+    <input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value=""> 
+   </div> 
+   <div class="header-top"> 
+    <div class="container"> 
+     <div class="row"> 
+      <div class="span3"> 
+       <div class="headerContact"> 
+        <p> 777 Harris Street, Suite 103<br> Jackson, MS 39302</p> 
+       </div> 
+      </div> 
+      <div class="span3"> 
+       <div class="headerContact"> 
+        <p> P.O. Box 22742<br> Jackson, MS 39225-2742</p> 
+       </div> 
+      </div> 
+      <div class="span3"> 
+       <div class="headerContact no-trans"> 
+        <p> Phone: 601/354-6370<br> geology@msbrpg.state.ms.us</p> 
+       </div> 
+      </div> 
+      <div class="span3"> 
+       <div class="headerContact no-trans"> 
+        <p> Michael J. Wright, RPG<br> Executive Director</p> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="header"> 
+    <div class="container"> 
+     <div class="row-fluid"> 
+      <div class="span2"> 
+       <div class="logo"> 
+        <img src="img/logo.png" alt="MSBRPG Logo"> 
+       </div> 
+      </div> 
+      <div class="span10"> 
+       <div class="row-fluid"> 
+        <div class="span12"> 
+         <h1> Mississippi State Board of Registered Professional Geologists</h1> 
+        </div> 
+       </div> 
+       <div class="row-fluid"> 
+        <div class="span10"> 
+         <h2> Online License Renewal Application</h2> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="header-img"> 
+    <img src="img/page-img.jpg" alt="" style="width: 100%;"> 
+   </div> 
+   <div class="headContent"> 
+    <div class="container"> 
+     <div style="min-width: 30%; max-width: 73%;"> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="header-bottom"> 
+   </div> 
+   <div id="main" class="container main"> 
+    <!-- Example row of columns --> 
+    <div class="row"> 
+     <div class="span12 mainContent"> 
+      <h1> Log In </h1> 
+      <p> Please select your Registration Type and enter your Identification Number to proceed with your renewals.</p> 
+      <div class="form"> 
+       <label> (<em>Required fields noted by *)</em> </label> 
+       <br> 
+       <br> 
+       <div class="field-block"> 
+        <label> Registration Type*:</label> 
+        <br> 
+        <table> 
+         <tbody>
+          <tr> 
+           <td> <span id="RequiredFieldValidator1" style="color:Red;display:none;">*</span> </td> 
+           <td> 
+            <table id="rblIDType" cellpadding="10"> 
+             <tbody>
+              <tr> 
+               <td><input id="rblIDType_0" type="radio" name="rblIDType" value="RPG"><label for="rblIDType_0"> Registered Professional Geologist (RPG)</label></td>
+               <td><input id="rblIDType_1" type="radio" name="rblIDType" value="GIT"><label for="rblIDType_1"> Geologist-In-Training (GIT)</label></td> 
+              </tr> 
+             </tbody>
+            </table> </td> 
+          </tr> 
+         </tbody>
+        </table> 
+       </div> 
+       <br> 
+       <div class="field-block"> 
+        <label> Registration Number*: (ex. 1234)</label> 
+        <br> 
+        <span id="RequiredFieldValidator2" style="color:Red;display:none;">*</span> 
+        <input name="txtID" type="text" maxlength="10" id="txtID"> 
+       </div> 
+       <div class="field-block"> 
+        <label> Last Name*: (ex. Smith)</label> 
+        <br> 
+        <span id="RequiredFieldValidator3" style="color:Red;display:none;">*</span> 
+        <input name="txtLastName" type="text" maxlength="50" id="txtLastName"> 
+       </div> 
+       <div class="field-block"> 
+        <label> Date of Birth*: (ex. mm/dd/yyyy)</label> 
+        <br> 
+        <span id="RequiredFieldValidator4" style="color:Red;display:none;">*</span> 
+        <input name="txtDOB" type="text" maxlength="10" id="txtDOB"> 
+       </div> 
+       <hr> 
+       <input type="submit" name="btnContinue" value="CONTINUE >>" id="btnContinue" class="button01 button"> 
+       <br> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <!-- /container --> 
+   <br> 
+   <footer> 
+    <div class="container"> 
+     <div class="row-fluid"> 
+      <div class="span12 footerContact"> 
+       <p> 777 HARRIS STREET, SUITE 103<br> JACKSON, MS 39302</p> 
+       <p> P.O. BOX 22742<br> JACKSON, MS 39225-2742</p> 
+       <p> Phone: 601/354-6370<br> geology@msbrpg.state.ms.us</p> 
+       <p> Michael J. Wright, RPG<br> Executive Director</p> 
+       <hr> 
+      </div> 
+     </div> 
+     <div class="row-fluid"> 
+      <div class="span4"> 
+       <ul class="footerNav"> 
+        <li><a href="http://www.msbrpg.ms.gov/pages/contact-Us.aspx">Contact Us</a></li> 
+        <li><a href="http://www.mapquest.com/?version=1.0&amp;hk=3-XvQOk4Vn#e74d01e433e24552775126ce" target="_blank">Our Location</a></li> 
+        <li><a href="https://www.ms.gov/help_portal/" target="_blank">Ms.Gov Help Portal</a></li> 
+        <li><a href="http://www.transparency.ms.gov" target="_blank">Transparency Mississippi</a></li> 
+       </ul> 
+      </div> 
+      <div class="span4"> 
+       <div class="copyright"> 
+        <p> Copyright © 2019 Mississippi State Board of Registered Professional Geologists</p> 
+       </div> 
+      </div> 
+      <div class="span4"> 
+       <div class="footerLogo"> 
+        <p> Mississippi's Official State Website</p> 
+        <a href="http://www.ms.gov/" target="_blank"> <img src="img/MS_Logo-white.png" alt="Mississippi's Official State Website"></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </footer> 
+   <!-- Le javascript
+    ================================================== --> 
+   <!-- Placed at the end of the document so the pages load faster --> 
+   <script type="text/javascript" src="js/jquery.js"></script> 
+   <script type="text/javascript" src="js/bootstrap-transition.js"></script> 
+   <script type="text/javascript" src="js/bootstrap-alert.js"></script> 
+   <script type="text/javascript" src="js/bootstrap-modal.js"></script> 
+   <script type="text/javascript" src="js/bootstrap-dropdown.js"></script> 
+   <script type="text/javascript" src="/js/bootstrap-scrollspy.js"></script> 
+   <script type="text/javascript" src="/js/bootstrap-tab.js"></script> 
+   <script type="text/javascript" src="js/bootstrap-tooltip.js"></script> 
+   <script type="text/javascript" src="js/bootstrap-popover.js"></script> 
+   <script type="text/javascript" src="js/bootstrap-button.js"></script> 
+   <script type="text/javascript" src="js/bootstrap-collapse.js"></script> 
+   <script type="text/javascript" src="/js/bootstrap-carousel.js"></script> 
+   <script type="text/javascript" src="js/bootstrap-typeahead.js"></script> 
+   <script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("RequiredFieldValidator1"), document.getElementById("RequiredFieldValidator2"), document.getElementById("RequiredFieldValidator3"), document.getElementById("RequiredFieldValidator4"));
+//]]>
+</script> 
+   <script type="text/javascript">
+//<![CDATA[
+var RequiredFieldValidator1 = document.all ? document.all["RequiredFieldValidator1"] : document.getElementById("RequiredFieldValidator1");
+RequiredFieldValidator1.controltovalidate = "rblIDType";
+RequiredFieldValidator1.focusOnError = "t";
+RequiredFieldValidator1.errormessage = "Registration Type Required";
+RequiredFieldValidator1.display = "Dynamic";
+RequiredFieldValidator1.validationGroup = "gp1";
+RequiredFieldValidator1.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+RequiredFieldValidator1.initialvalue = "";
+var RequiredFieldValidator2 = document.all ? document.all["RequiredFieldValidator2"] : document.getElementById("RequiredFieldValidator2");
+RequiredFieldValidator2.controltovalidate = "txtID";
+RequiredFieldValidator2.focusOnError = "t";
+RequiredFieldValidator2.errormessage = "Registration Number Required";
+RequiredFieldValidator2.display = "Dynamic";
+RequiredFieldValidator2.validationGroup = "gp1";
+RequiredFieldValidator2.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+RequiredFieldValidator2.initialvalue = "";
+var RequiredFieldValidator3 = document.all ? document.all["RequiredFieldValidator3"] : document.getElementById("RequiredFieldValidator3");
+RequiredFieldValidator3.controltovalidate = "txtLastName";
+RequiredFieldValidator3.focusOnError = "t";
+RequiredFieldValidator3.errormessage = "Last Name Required";
+RequiredFieldValidator3.display = "Dynamic";
+RequiredFieldValidator3.validationGroup = "gp1";
+RequiredFieldValidator3.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+RequiredFieldValidator3.initialvalue = "";
+var RequiredFieldValidator4 = document.all ? document.all["RequiredFieldValidator4"] : document.getElementById("RequiredFieldValidator4");
+RequiredFieldValidator4.controltovalidate = "txtDOB";
+RequiredFieldValidator4.focusOnError = "t";
+RequiredFieldValidator4.errormessage = "Date of Birth Required";
+RequiredFieldValidator4.display = "Dynamic";
+RequiredFieldValidator4.validationGroup = "gp1";
+RequiredFieldValidator4.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+RequiredFieldValidator4.initialvalue = "";
+//]]>
+</script> 
+   <script type="text/javascript">
+//<![CDATA[
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+WebForm_AutoFocus('txtID');//]]>
+</script> 
+  </form>   
+ </body>
+</html>

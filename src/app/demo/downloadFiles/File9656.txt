@@ -1,0 +1,314 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+	Privacy Policy - healthfinder.gov
+</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+  <link rel="canonical" href="https://healthfinder.gov:443/aboutus/privacy.aspx/espanol">
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+  <meta name="verify-v1" content="SGDyDYxOiYbFQAhohrwKuaxwOiCVv2eZij6NzZ678Cg=">
+  <meta name="y_key" content="e1fae57e8f96398e">
+  <link href="/assets/690944eb4f915cededb6058231b8ad4a-fbc25d03ca5c00ed66118ae4ec0471b6-RequestReducedStyle.css" rel="Stylesheet" type="text/css"> 
+  <!--[if (gte IE 6)&(lte IE 8)]>
+        <script type="text/javascript" src="/js/selectivizr-min.js"></script>
+    <![endif]--> 
+  <!--[if IE 7]>
+        <link rel="stylesheet" type="text/css" media="all" href="/css/ie7.css" /><link rel="stylesheet" type="text/css" media="all" href="/css/font-awesome-ie7.css" />
+        <![endif]--> 
+  <!--[if IE 8]><link rel="stylesheet" type="text/css" media="all" href="/css/ie8.css" /><![endif]--> 
+ </head> 
+ <body id="body" class="espanol"> 
+  <!-- Google Tag Manager --> 
+  <noscript>
+   <iframe src="//www.googletagmanager.com/ns.html?id=GTM-5TG7CH&amp;NoJavascriptType=web&amp;NoJavascriptCID=bc40575a-f3f7-54b8-a01d-c41bde30db41&amp;NoJavascriptURL=https%3a%2f%2fhealthfinder.gov%2faboutus%2fprivacy.aspx%2fespanol&amp;NoJavascriptLang=es-ES&amp;NoJavascriptReferrer=&amp;NoJavascriptTitle=Privacy+Policy+-+healthfinder.gov" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript> 
+  <script>(function (w, d, s, l, i) {
+w[l] = w[l] || []; w[l].push({
+'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'AnalyticsLogicLayer', 'GTM-5TG7CH');</script> 
+  <!-- End Google Tag Manager --> 
+  <div id="HideIfWidget1"> 
+   <div class="global-nav"> 
+    <div class="global-nav-odphp">
+     <span>Office of Disease Prevention and Health Promotion</span>
+    </div> 
+    <ul> 
+     <li><a href="https://health.gov/" class="global-nav-healthgov">health.gov</a></li> 
+     <li><a href="https://healthfinder.gov/" class="global-nav-healthfinder global-nav-current">healthfinder.gov</a></li> 
+     <li><a href="https://healthypeople.gov/" class="global-nav-healthypeople">healthypeople.gov</a></li> 
+    </ul> 
+   </div> 
+   <img class="print-logo" src="/images/footer-hf-logo.png" alt="Department of Health and Human Services"> 
+  </div> 
+  <div id="page"> 
+   <div id="HideIfWidget2"> 
+    <a href="https://www.hhs.gov/" class="parent-banner">U.S. Department of Health and Human Services</a> 
+    <div id="header" class="clearfix" role="banner"> 
+     <div id="skip"> 
+      <a class="skipnav" href="#skipnav" tabindex="1">Skip to Content</a> 
+     </div> 
+     <div id="espanol">
+      <a href="/">In English</a>
+     </div> 
+     <div id="mobile-menu-trigger" class="mobile-hide"> 
+      <h2>Menu</h2> 
+     </div> 
+     <div id="logo"> 
+      <a href="/espanol" title="healthfinder.gov"> <img src="/espanol/images/logo.png" alt="healthfinder.gov"> </a> 
+     </div> 
+     <!-- Search --> 
+     <div id="search-box" role="search"> 
+      <form method="get" name="search" id="search" action="/espanol/buscar"> 
+       <label for="searchText">Buscar en healthfinder.gov:</label> 
+       <input name="q" type="search" autocomplete="off" id="searchText" title="Buscar" class="search_text" aria-autocomplete="both" aria-haspopup="true"> 
+       <span class="query-suggestions-wrap"> <span id="query_suggestions" class="query-suggestions" aria-live="off"></span> </span> 
+       <span id="query_status" class="query-status" aria-live="polite"></span> 
+       <input id="searchButton" class="search_button" value="Ir" type="submit"> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="content" class="clearfix"> 
+    <div id="HideIfWidget3"> 
+     <div class="main_menu"> 
+      <div id="espMenu1_mainMenu" role="navigation">
+       <ul class="menu menu-hide"> 
+        <li class="first"> <a href="/espanol/Default.aspx">Página principal</a> </li> 
+        <li> <a href="/espanol/temas/">Temas de salud A-Z</a> </li> 
+        <li> <a href="/espanol/miBuscadorDeSalud/">miBuscador de salud</a> </li> 
+        <li> <a href="/FreeContent/">Contenido gratuito (en inglés)</a> 
+         <ul> 
+          <li> <a href="/FreeContent/HealthTopics/">Health and Wellness Topics</a> </li> 
+          <li> <a href="/FreeContent/PreventiveServices/">Preventive Services Recommendations</a> </li> 
+          <li> <a href="/FreeContent/Developer/">APIs for Developers</a> </li> 
+         </ul> </li> 
+        <li> <a href="/FindServices/">Busque servicios de salud (en inglés)</a> </li> 
+        <li class="last"> <a href="/NHO/">Días dedicados a la salud (en inglés)</a> </li> 
+       </ul>
+      </div> 
+      <div class="connect clearfix"> 
+       <p class="connect-text">Estamos en:</p> 
+       <a class="facebook connect-button" href="https://www.facebook.com/healthfinder" title="Facebook"> <img src="/images/icon-fb.png" alt="Facebook icon"></a> 
+       <a class="twitter connect-button" href="https://www.twitter.com/healthfinder" title="Twitter"> <img src="/images/icon-twitter.png" alt="Twitter icon"></a> 
+       <!--<a class="rss connect-button" href="/espanol/noticias/rss.asp" title="RSS">
+        <img src="/images/icon-rss.png" alt="RSS icon" /></a> --> 
+       <div class="email-updates-container"> 
+        <a id="email-updates" href="https://public.govdelivery.com/accounts/USOPHSODPHPHF/subscriber/new?topic_id=USOPHSODPHPHF_1" target="_blank">Suscríbase</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="main_content" role="main"> 
+     <div id="HideIfWidget4"> 
+      <div id="breadcrumb"> 
+       <span id="espBreadcrumbs1_SiteMapPath1"></span> 
+      </div> 
+      <div id="espBreadcrumbs1_addThisPanel"> 
+       <div id="addThisCode" class="clearfix"> 
+        <!-- AddToAny BEGIN --> 
+        <div class="a2a_kit a2a_kit_size_32 a2a_default_style"> 
+         <a class="a2a_dd" href="https://www.addtoany.com/share"></a> 
+         <a class="a2a_button_facebook"></a> 
+         <a class="a2a_button_twitter"></a> 
+        </div> 
+        <script>
+      var a2a_config = a2a_config || {};
+      a2a_config.onclick = 1;
+      </script> 
+        <script async src="https://static.addtoany.com/menu/page.js"></script> 
+        <!-- AddToAny END --> 
+       </div> 
+      </div> 
+      <span id="skipnav"></span> 
+     </div> 
+     <form method="post" action="./espanol" id="MainForm"> 
+      <div class="aspNetHidden"> 
+       <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgQCAQ9kFgICBg8WAh4EVGV4dAVZPGxpbmsgcmVsPSdjYW5vbmljYWwnIGhyZWY9J2h0dHBzOi8vaGVhbHRoZmluZGVyLmdvdjo0NDMvYWJvdXR1cy9wcml2YWN5LmFzcHgvZXNwYW5vbCcgLz5kAgMPFgIeBWNsYXNzBQdlc3Bhbm9sFggCAQ9kFgICAQ8PFgIeB1Zpc2libGVoZGQCAg9kFgQCAQ8PFgIfAmhkZAIDD2QWAmYPFgIeCWlubmVyaHRtbAXuBjx1bCBjbGFzcz0ibWVudSBtZW51LWhpZGUiPg0KICA8bGkgY2xhc3M9ImZpcnN0Ij4NCiAgICA8YSBocmVmPSIvZXNwYW5vbC9EZWZhdWx0LmFzcHgiPlDDoWdpbmEgcHJpbmNpcGFsPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iL2VzcGFub2wvdGVtYXMvIj5UZW1hcyBkZSBzYWx1ZCBBLVo8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSIvZXNwYW5vbC9taUJ1c2NhZG9yRGVTYWx1ZC8iPm1pQnVzY2Fkb3IgZGUgc2FsdWQ8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSIvRnJlZUNvbnRlbnQvIj5Db250ZW5pZG8gZ3JhdHVpdG8gKGVuIGluZ2zDqXMpPC9hPg0KICAgIDx1bD4NCiAgICAgIDxsaT4NCiAgICAgICAgPGEgaHJlZj0iL0ZyZWVDb250ZW50L0hlYWx0aFRvcGljcy8iPkhlYWx0aCBhbmQgV2VsbG5lc3MgVG9waWNzPC9hPg0KICAgICAgPC9saT4NCiAgICAgIDxsaT4NCiAgICAgICAgPGEgaHJlZj0iL0ZyZWVDb250ZW50L1ByZXZlbnRpdmVTZXJ2aWNlcy8iPlByZXZlbnRpdmUgU2VydmljZXMgUmVjb21tZW5kYXRpb25zPC9hPg0KICAgICAgPC9saT4NCiAgICAgIDxsaT4NCiAgICAgICAgPGEgaHJlZj0iL0ZyZWVDb250ZW50L0RldmVsb3Blci8iPkFQSXMgZm9yIERldmVsb3BlcnM8L2E+DQogICAgICA8L2xpPg0KICAgIDwvdWw+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSIvRmluZFNlcnZpY2VzLyI+QnVzcXVlIHNlcnZpY2lvcyBkZSBzYWx1ZCAoZW4gaW5nbMOpcyk8L2E+DQogIDwvbGk+DQogIDxsaSBjbGFzcz0ibGFzdCI+DQogICAgPGEgaHJlZj0iL05ITy8iPkTDrWFzIGRlZGljYWRvcyBhIGxhIHNhbHVkIChlbiBpbmdsw6lzKTwvYT4NCiAgPC9saT4NCjwvdWw+ZAIDD2QWAgIBDw8WAh8CaGRkAgYPZBYEAgEPDxYCHwJoZGQCAw9kFgICAQ9kFgICAQ8WAh8ABRtTw6FiYWRvIDAxIGRlIGp1bmlvIGRlIDIwMTlkZPjQ+A9OJ8IBHqk9NRDAyWaSi2LrTsgVgWxis5nuvfHd"> 
+      </div> 
+      <div class="aspNetHidden"> 
+       <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="660259DE"> 
+      </div> 
+      <div class="aboutus_content"> 
+       <div class="pageTitle"> 
+        <h1>Privacy Policy</h1> 
+       </div> 
+       <div class="shadow-wide"></div> 
+       <div class="content-page-box"> 
+        <p> healthfinder.gov is a government website offering reliable information and tools to help you and those you care about stay healthy. When you visit our website, we do not collect any personal information about you unless you choose to provide that information to us. </p> 
+        <p> healthfinder.gov links to other websites. Once you leave the healthfinder.gov site to visit a linked site, the privacy policy of that site applies. </p> 
+        <h2>Personal Information</h2> 
+        <p>You do not have to give any personal information to visit this website.</p> 
+        <p> If you choose to give information about yourself in an e-mail message, form, or survey, we will only keep the information as long as needed to respond to your question. </p> 
+        <h2>Information Automatically Collected and Stored in Web Server Logs</h2> 
+        <p> When you browse through any website, some information about you can be collected. Our Web server software automatically collects and temporarily stores the following information about each visit: </p> 
+        <ul> 
+         <li>the name of the domain you use to access the Internet (for example, aol.com, if you are using an America Online account, or stanford.edu, if you are connecting from Stanford University's domain ? we do not collect your full email address); </li> 
+         <li>the date and time of the visit; </li> 
+         <li>the pages visited; and</li> 
+         <li>the address of the website you came from when you came to visit.</li> 
+        </ul> 
+        <p> We use this information for statistical purposes and to help us make our site more useful to visitors. No other information will be collected without your knowledge. </p> 
+        <h2>Disclosure</h2> 
+        <p> The <a href="http://www.hhs.gov" target="_blank">U.S. Department of Health and Human Services</a>, of which the healthfinder.gov website is a part, does not disclose, give, sell, or transfer any personal information about visitors, unless required for law enforcement or by law. </p> 
+        <h2>Intrusion Detection</h2> 
+        <p> This site is maintained by the U.S. Government. It is protected by various provisions of Title 18, U.S. Code. Violations of Title 18 are subject to criminal prosecution in federal court. </p> 
+        <p>For site security purposes and to ensure that this service remains available to all users, we employ software programs to monitor traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. In the event of authorized law enforcement investigations, and pursuant to any required legal process, information from these sources may be used to help identify an individual. </p> 
+        <h2>Systems of Records</h2> 
+        <p>Information originally collected in traditional paper systems can be submitted electronically, i.e., electronic commerce transactions and information updates about eligibility benefits. Electronically submitted information is maintained and destroyed pursuant to the Federal Records Act, and in some cases may be subject to the Privacy Act. If information that you submit is to be used in a Privacy Act system of records, there will be a Privacy Act Notice provided. </p> 
+        <p>You may also wish to review our <a href="Disclaimer.aspx">disclaimers</a>.</p> 
+       </div> 
+       <div class="shadow-wide"></div> 
+      </div> 
+      <div id="resizable_embedded_link"></div> 
+     </form> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+   </div> 
+   <div id="HideIfWidget5"> 
+    <div id="footer" role="complementary"> 
+     <ul class="footer-links-wide"> 
+      <li><a href="/espanol/sobrenosotros/" title="Sobre nosotros">Sobre nosotros</a></li> 
+      <li><a href="/espanol/sobrenosotros/Accesibilidad.aspx" title="Accesibilidad">Accesibilidad</a></li> 
+      <li><a href="/espanol/sobrenosotros/Privacidad.aspx" title="Política de privacidad">Política de privacidad</a></li> 
+      <li><a href="/espanol/sobrenosotros/Libertad.aspx" title="Ley de libertad de lnformación">Ley de Libertad de Información</a></li> 
+      <li><a href="/espanol/sobrenosotros/Descargo.aspx" title="Descargo de responsabilidad">Descargo de responsabilidad</a></li> 
+      <li><a href="/espanol/sobrenosotros/Escribanos.aspx" title="Escríbanos" target="_blank">Escríbanos</a></li> 
+      <li><a href="/espanol/Mapa.aspx" title="Mapa del sitio" target="_blank">Mapa del sitio</a></li> 
+      <li><a href="/espanol/sobrenosotros/Reproductores.aspx" title="Visualizadores y reproductores">Visualizadores y reproductores</a></li> 
+      <li class="last"><a href="https://www.hhs.gov/civil-rights/for-individuals/nondiscrimination/index.html" target="_blank">Aviso sobre la ausencia de discriminación (en inglés)</a></li> 
+      <li class="clear"></li> 
+     </ul> 
+     <div class="clear"></div> 
+     <div class="footer-language"> 
+      <p>Se ofrece asistencia en distintos idiomas</p> 
+      <ul class="footer-links-wide"> 
+       <li><a lang="es" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#spanish" target="_blank">Español</a></li> 
+       <li><a lang="zh" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#chinese" target="_blank">????</a></li> 
+       <li><a lang="vi" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#vietnamese" target="_blank">Ti?ng Vi?t</a></li> 
+       <li><a lang="ko" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#korean" target="_blank">???</a></li> 
+       <li><a lang="fr" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#french" target="_blank">Français</a></li> 
+       <li><a lang="pl" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#polish" target="_blank">Polski</a></li> 
+       <li><a lang="pt" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#portugese" target="_blank">Português</a></li> 
+       <li><a lang="it" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#italian" target="_blank">Italiano</a></li> 
+       <li><a lang="tl" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#tagalog" target="_blank">Tagalog</a></li> 
+       <li><a lang="ru" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#russian" target="_blank">???????</a></li> 
+       <li><a lang="ar" dir="rtl" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#arabic" target="_blank">???????</a></li> 
+       <li><a lang="sg" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#creole" target="_blank">Kreyòl Ayisyen</a></li> 
+       <li><a lang="de" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#german" target="_blank">Deutsch</a></li> 
+       <li><a lang="ja" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#japanese" target="_blank">???</a></li> 
+       <li><a lang="fa" dir="rtl" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#farsi" target="_blank">?????</a></li> 
+       <li class="last"><a href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#english" target="_blank">English</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+     <div id="footer-bottom"> 
+      <div class="footer-text">
+        healthfinder.gov está patrocinado por el Centro Nacional de Información sobre la Salud.
+       <br> 
+       <span id="espFooter1_dateSpan">Última revisión: Sábado 01 de junio de 2019</span>. 
+      </div> 
+      <div class="logo-box"> 
+       <a class="logo-hhs" href="https://www.hhs.gov/" title="Department of Health and Human Services"> <img src="/images/footer-hhs-logo.png" alt="Department of Health and Human Services"></a> 
+       <a class="logo-odphp" href="https://health.gov/" title="Office of Disease Prevention and Health Promotion"> <img src="/images/odphp-logo-black.png" class="odphp-logo" alt="Office of Disease Prevention and Health Promotion"></a> 
+       <a class="logo-healthfinder" href="https://healthfinder.gov" title="healthfinder.gov"> <img src="/images/footer-hf-logo.png" alt="healthfinder.gov logo"></a> 
+      </div> 
+      <div class="clear"></div> 
+     </div> 
+     <!-- /#footer-bottom --> 
+     <div class="clear"></div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="up_scrollable_indicator"></div> 
+  <div id="down_scrollable_indicator"></div> 
+  <script src="/js/jquery-1.8.3.min.js" type="text/javascript"></script> 
+  <script src="/js/jquery-ui-1.8.16.custom.min.js" type="text/javascript"></script> 
+  <script src="/js/jquery.cycle.all.js" type="text/javascript"></script> 
+  <script src="/js/jquery.colorbox-min.js" type="text/javascript"></script> 
+  <script src="/js/jquery.flexslider.modified.js" type="text/javascript"></script> 
+  <script src="/js/jquery.ba-hashchange.min.js" type="text/javascript"></script> 
+  <script src="/js/healthfinder.js" type="text/javascript"></script> 
+  <script src="/js/jquery.ddslick.min.js" type="text/javascript"></script> 
+  <script src="/js/myhealthfinder.js" type="text/javascript"></script> 
+  <script src="/js/global-nav.js" type="text/javascript"></script> 
+  <script src="/js/outlink.js" type="text/javascript"></script> 
+  <script src="/js/search-suggest.js" type="text/javascript"></script> 
+  <!--AddThis code--> 
+  <script type="text/javascript">
+        var addthis_config = {
+            ui_language: "es"
+      };
+    </script> 
+  <script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=xa-50c0b9a52a842762"></script> 
+  <!-- Document Download tracking --> 
+  <script src="/js/ga_download_tracker.js" type="text/javascript"></script> 
+  <!--CrazyEgg tracking code --> 
+  <script type="text/javascript">
+        setTimeout(function () {
+            var a = document.createElement("script");
+            var b = document.getElementsByTagName("script")[0];
+            a.src = document.location.protocol + "//dnn506yrbagrg.cloudfront.net/pages/scripts/0013/7844.js?" + Math.floor(new Date().getTime() / 3600000);
+            a.async = true; a.type = "text/javascript"; b.parentNode.insertBefore(a, b)
+        }, 1);
+    </script> 
+  <!--BEGIN QUALTRICS SITE INTERCEPT sitewide --> 
+  <script type="text/javascript">
+        (function () {
+            var g = function (e, h, f, g) {
+                this.get = function (a) { for (var a = a + "=", c = document.cookie.split(";"), b = 0, e = c.length; b < e; b++) { for (var d = c[b]; " " == d.charAt(0) ;) d = d.substring(1, d.length); if (0 == d.indexOf(a)) return d.substring(a.length, d.length) } return null };
+                this.set = function (a, c) { var b = "", b = new Date; b.setTime(b.getTime() + 6048E5); b = "; expires=" + b.toGMTString(); document.cookie = a + "=" + c + b + "; path=/; " };
+                this.check = function () { var a = this.get(f); if (a) a = a.split(":"); else if (100 != e) "v" == h && (e = Math.random() >= e / 100 ? 0 : 100), a = [h, e, 0], this.set(f, a.join(":")); else return !0; var c = a[1]; if (100 == c) return !0; switch (a[0]) { case "v": return !1; case "r": return c = a[2] % Math.floor(100 / c), a[2]++, this.set(f, a.join(":")), !c } return !0 };
+                this.xgo = function () { if (this.check()) { var a = document.createElement("script"); a.type = "text/javascript"; a.src = g + "&t=" + (new Date()).getTime(); document.body && document.body.appendChild(a) } };
+                this.go = function () { wait_for_session_delay(30, this.xgo, this); };
+                this.start = function () { var a = this; window.addEventListener ? window.addEventListener("load", function () { a.go() }, !1) : window.attachEvent && window.attachEvent("onload", function () { a.go() }) }
+            };
+            try { (new g(100, "r", "QSI_S_SI_eDVjXbuzcR5eE0B", "//znbqj3egyjwfzib9r-communicatehealth.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_eDVjXbuzcR5eE0B&Q_LOC=" + encodeURIComponent(window.location.href))).start() } catch (i) { }
+        })();
+    </script> 
+  <div id="SI_eDVjXbuzcR5eE0B"> 
+   <!--DO NOT REMOVE-CONTENTS PLACED HERE--> 
+  </div> 
+  <!--END SITE INTERCEPT--> 
+  <!--BEGIN QUALTRICS SITE INTERCEPT feedback link --> 
+  <script type="text/javascript">
+        (function () {
+            var g = function (e, h, f, g) {
+                this.get = function (a) { for (var a = a + "=", c = document.cookie.split(";"), b = 0, e = c.length; b < e; b++) { for (var d = c[b]; " " == d.charAt(0) ;) d = d.substring(1, d.length); if (0 == d.indexOf(a)) return d.substring(a.length, d.length) } return null };
+                this.set = function (a, c) { var b = "", b = new Date; b.setTime(b.getTime() + 6048E5); b = "; expires=" + b.toGMTString(); document.cookie = a + "=" + c + b + "; path=/; " };
+                this.check = function () { var a = this.get(f); if (a) a = a.split(":"); else if (100 != e) "v" == h && (e = Math.random() >= e / 100 ? 0 : 100), a = [h, e, 0], this.set(f, a.join(":")); else return !0; var c = a[1]; if (100 == c) return !0; switch (a[0]) { case "v": return !1; case "r": return c = a[2] % Math.floor(100 / c), a[2]++, this.set(f, a.join(":")), !c } return !0 };
+                this.go = function () { if (this.check()) { var a = document.createElement("script"); a.type = "text/javascript"; a.src = g + "&t=" + (new Date()).getTime(); document.body && document.body.appendChild(a) } };
+                this.start = function () { var a = this; window.addEventListener ? window.addEventListener("load", function () { a.go() }, !1) : window.attachEvent && window.attachEvent("onload", function () { a.go() }) }
+            };
+            try { (new g(100, "r", "QSI_S_SI_cXQyslZ7nyPxAbz", "//znbqj3egyjwfzib9r-communicatehealth.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_cXQyslZ7nyPxAbz&Q_LOC=" + encodeURIComponent(window.location.href))).start() } catch (i) { }
+        })();
+    </script> 
+  <div id="SI_cXQyslZ7nyPxAbz"> 
+   <!--DO NOT REMOVE-CONTENTS PLACED HERE--> 
+  </div> 
+  <!--END SITE INTERCEPT--> 
+  <!--BEGIN QUALTRICS SITE INTERCEPT - page level --> 
+  <script type="text/javascript">
+        (function () {
+            var g = function (e, h, f, g) {
+                this.get = function (a) { for (var a = a + "=", c = document.cookie.split(";"), b = 0, e = c.length; b < e; b++) { for (var d = c[b]; " " == d.charAt(0) ;) d = d.substring(1, d.length); if (0 == d.indexOf(a)) return d.substring(a.length, d.length) } return null };
+                this.set = function (a, c) { var b = "", b = new Date; b.setTime(b.getTime() + 6048E5); b = "; expires=" + b.toGMTString(); document.cookie = a + "=" + c + b + "; path=/; " };
+                this.check = function () { var a = this.get(f); if (a) a = a.split(":"); else if (100 != e) "v" == h && (e = Math.random() >= e / 100 ? 0 : 100), a = [h, e, 0], this.set(f, a.join(":")); else return !0; var c = a[1]; if (100 == c) return !0; switch (a[0]) { case "v": return !1; case "r": return c = a[2] % Math.floor(100 / c), a[2]++, this.set(f, a.join(":")), !c } return !0 };
+                this.go = function () { if (this.check()) { var a = document.createElement("script"); a.type = "text/javascript"; a.src = g + "&t=" + (new Date()).getTime(); document.body && document.body.appendChild(a) } };
+                this.start = function () { var a = this; window.addEventListener ? window.addEventListener("load", function () { a.go() }, !1) : window.attachEvent && window.attachEvent("onload", function () { a.go() }) }
+            };
+            try { (new g(100, "r", "QSI_S_SI_abZk2DnPlZAGHjL", "//znbqj3egyjwfzib9r-communicatehealth.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_abZk2DnPlZAGHjL&Q_LOC=" + encodeURIComponent(window.location.href))).start() } catch (i) { }
+        })();
+    </script> 
+  <div id="SI_abZk2DnPlZAGHjL"> 
+   <!--DO NOT REMOVE-CONTENTS PLACED HERE--> 
+  </div> 
+  <!--END SITE INTERCEPT--> 
+  <script src="/assets/5d6be13e9a2ec12d656dffeb22250800-4ffdddc196834cf1eb1c43abce0bbf80-RequestReducedScript.js" type="text/javascript"></script>   
+ </body>
+</html>

@@ -1,0 +1,599 @@
+<!doctype html>
+<html class="no-js" lang="en">
+ <head> 
+  <!-- REQUIRED META INFORMATION --> 
+  <meta charset="UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <meta name="msapplication-tap-highlight" content="no"> 
+  <!-- PAGE TITLE --> 
+  <title>Glossary of Social Security Terms | Social Security Administration</title> 
+  <!-- PAGE META INFORMATION --> 
+  <meta name="DCTERMS:coder" content="csisco"> 
+  <meta name="DCTERMS:coderOffice" content="OCOMM:OSDC"> 
+  <meta name="DCTERMS:contentOffice" content="OCOMM:OSDC"> 
+  <meta name="DCTERMS:contentOwner" content="bdraffin"> 
+  <meta name="DCTERMS:dateCertified" content="2017-01-02"> 
+  <meta name="description" content="Glossary of Social Security Terms"> 
+  <!-- STYLES --> 
+  <link rel="stylesheet" href="/framework/css/ssa.firefly.css"> 
+  <style>
+        td:first-child {
+            font-weight: 500;
+            vertical-align: top;
+        }
+    </style> 
+  <!-- SCRIPTS --> 
+  <script src="/framework/js/ssa.firefly.head.js"></script> 
+ </head> 
+ <body data-spanish-file="/espanol/agencia/glosario/"> 
+  <!-- BANNER --> 
+  <aside class="accessibility" id="accessibility">
+   <a href="#content" id="skip-navigation">Skip to content</a>
+  </aside> 
+  <header class="bg-logo white" id="banner" role="banner"> 
+   <div class="fx fx-jc-sb px2 py0 wrapper"> 
+    <h1 class="fs2 fw4 ma0 l-fs3"><a class="fx fx-ai-c hover-yellow py3 white m-py2" href="/"><img alt="" class="svg3 m-svg5" src="/framework/images/logo.svg"> <span class="pl1 m-pl2">Social Security</span></a></h1> 
+    <nav class="fs1 fx print-dn">
+     <a class="fx fx-ai-c hover-yellow px2 white" href="https://search.ssa.gov/search?affiliate=ssa" id="ssa-search" title="SEARCH">
+      <svg class="svg1" focusable="false" viewbox="0 0 24 24">
+       <path d="M14.182.0q-1.994.0-3.814.78t-3.132 2.092-2.092 3.132-.78 3.814q0 1.713.558 3.281t1.59 2.847l-6.196 6.187q-.315.315-.315.776.0.469.311.78t.78.311q.46.0.776-.315l6.187-6.196q1.278 1.031 2.847 1.59t3.281.558q1.994.0 3.814-.78t3.132-2.092 2.092-3.132.78-3.814-.78-3.814-2.092-3.132-3.132-2.092-3.814-.78zm0 2.182q1.551.0 2.966.605t2.438 1.628 1.628 2.438.605 2.966-.605 2.966-1.628 2.438-2.438 1.628-2.966.605-2.966-.605-2.438-1.628-1.628-2.438-.605-2.966.605-2.966 1.628-2.438 2.438-1.628 2.966-.605z" vector-effect="non-scaling-stroke"></path>
+      </svg><span class="dn m-dib m-pl1">SEARCH</span></a> 
+     <a class="fx fx-ai-c hover-yellow px2 white" href="/site/menu/en/" id="ssa-menu" title="MENU">
+      <svg class="svg1" focusable="false" viewbox="0 0 24 24">
+       <path d="M3 5h18q.414.0.707.293T22 6t-.293.707T21 7H3q-.414.0-.707-.293T2 6t.293-.707T3 5zm0 12h18q.414.0.707.293T22 18t-.293.707T21 19H3q-.414.0-.707-.293T2 18t.293-.707T3 17zm0-6h18q.414.0.707.293T22 12t-.293.707T21 13H3q-.414.0-.707-.293T2 12t.293-.707T3 11z" vector-effect="non-scaling-stroke"></path>
+      </svg><span class="dn m-dib m-pl1">MENU</span></a> 
+     <a class="fx fx-ai-c hover-yellow px2 white" href="/site/languages/en/" id="ssa-languages" title="LANGUAGES">
+      <svg class="svg1" focusable="false" viewbox="0 0 14 16">
+       <path fill-rule="evenodd" d="M7 1C3.14 1 0 4.14.0 8s3.14 7 7 7c.48.0.94-.05 1.38-.14-.17-.08-.2-.73-.02-1.09.19-.41.81-1.45.2-1.8-.61-.35-.44-.5-.81-.91-.37-.41-.22-.47-.25-.58-.08-.34.36-.89.39-.94.02-.06.02-.27.0-.33.0-.08-.27-.22-.34-.23-.06.0-.11.11-.2.13-.09.02-.5-.25-.59-.33-.09-.08-.14-.23-.27-.34-.13-.13-.14-.03-.33-.11s-.8-.31-1.28-.48c-.48-.19-.52-.47-.52-.66-.02-.2-.3-.47-.42-.67-.14-.2-.16-.47-.2-.41-.04.06.25.78.2.81-.05.02-.16-.2-.3-.38-.14-.19.14-.09-.3-.95s.14-1.3.17-1.75c.03-.45.38.17.19-.13-.19-.3.0-.89-.14-1.11-.13-.22-.88.25-.88.25.02-.22.69-.58 1.16-.92.47-.34.78-.06 1.16.05.39.13.41.09.28-.05-.13-.13.06-.17.36-.13.28.05.38.41.83.36.47-.03.05.09.11.22s-.06.11-.38.3c-.3.2.02.22.55.61s.38-.25.31-.55c-.07-.3.39-.06.39-.06.33.22.27.02.5.08.23.06.91.64.91.64-.83.44-.31.48-.17.59.14.11-.28.3-.28.3-.17-.17-.19.02-.3.08-.11.06-.02.22-.02.22-.56.09-.44.69-.42.83.0.14-.38.36-.47.58-.09.2.25.64.06.66-.19.03-.34-.66-1.31-.41-.3.08-.94.41-.59 1.08.36.69.92-.19 1.11-.09.19.1-.06.53-.02.55.04.02.53.02.56.61.03.59.77.53.92.55.17.0.7-.44.77-.45.06-.03.38-.28 1.03.09.66.36.98.31 1.2.47.22.16.08.47.28.58.2.11 1.06-.03 1.28.31.22.34-.88 2.09-1.22 2.28-.34.19-.48.64-.84.92s-.81.64-1.27.91c-.41.23-.47.66-.66.8 3.14-.7 5.48-3.5 5.48-6.84.0-3.86-3.14-7-7-7L7 1zm1.64 6.56c-.09.03-.28.22-.78-.08-.48-.3-.81-.23-.86-.28.0.0-.05-.11.17-.14.44-.05.98.41 1.11.41.13.0.19-.13.41-.05.22.08.05.13-.05.14zM6.34 1.7c-.05-.03.03-.08.09-.14.03-.03.02-.11.05-.14.11-.11.61-.25.52.03-.11.27-.58.3-.66.25zm1.23.89c-.19-.02-.58-.05-.52-.14.3-.28-.09-.38-.34-.38-.25-.02-.34-.16-.22-.19.12-.03.61.02.7.08.08.06.52.25.55.38.02.13.0.25-.17.25zm1.47-.05c-.14.09-.83-.41-.95-.52-.56-.48-.89-.31-1-.41-.11-.1-.08-.19.11-.34.19-.15.69.06 1 .09.3.03.66.27.66.55.02.25.33.5.19.63h-.01z" vector-effect="non-scaling-stroke"></path>
+      </svg><span class="dn m-dib m-pl1">LANGUAGES</span></a> 
+     <a class="fx fx-ai-c hover-yellow px2 white" href="/site/signin/en/" id="ssa-signin" title="SIGN IN/UP">
+      <svg class="svg1" focusable="false" viewbox="0 0 24 24">
+       <path d="M12 17.016q-.797.0-1.406-.61t-.61-1.405.61-1.405 1.406-.61 1.406.61.61 1.406-.61 1.407-1.406.61zm6 3V9.986H6v10.03h12zm-6-17.11q-1.266.0-2.18.914T8.906 6H9v2.016h6.094V6q0-1.266-.914-2.18T12 2.906zm6 5.11q.797.0 1.406.586t.61 1.383v10.03q0 .798-.61 1.384T18 21.984H6q-.797.0-1.406-.586t-.61-1.384V9.986q0-.798.61-1.384T6 8.016h.984V6q0-2.063 1.477-3.54T12 .985t3.54 1.477T17.015 6v2.016H18z" vector-effect="non-scaling-stroke"></path>
+      </svg><span class="dn m-dib m-pl1">SIGN IN/UP</span></a>
+    </nav> 
+   </div> 
+  </header> 
+  <!-- MAIN CONTENT --> 
+  <main class="content" id="content" role="main"> 
+   <!-- TITLE BAR --> 
+   <section class="bg-ivory-200"> 
+    <!-- WRAPPER --> 
+    <div class="py2 wrapper"> 
+     <h2 class="fw4 ma0">Glossary of Social Security Terms</h2> 
+    </div> 
+   </section> 
+   <!-- WRAPPER --> 
+   <section class="wrapper"> 
+    <!-- GRID --> 
+    <div class="m-grid"> 
+     <!-- CELL --> 
+     <article class="print-w-100 m-cell m-w-70"> 
+      <section> 
+       <!-- PAGER --> 
+       <div class="print-dn"> 
+        <a class="dib mb2 ta-c pa1" href="#A">A</a> 
+        <a class="dib mb2 ta-c pa1" href="#B">B</a> 
+        <a class="dib mb2 ta-c pa1" href="#C">C</a> 
+        <a class="dib mb2 ta-c pa1" href="#D">D</a> 
+        <a class="dib mb2 ta-c pa1" href="#E">E</a> 
+        <a class="dib mb2 ta-c pa1" href="#F">F</a> 
+        <a class="dib mb2 ta-c pa1" href="#H">H</a> 
+        <a class="dib mb2 ta-c pa1" href="#I">I</a> 
+        <a class="dib mb2 ta-c pa1" href="#L">L</a> 
+        <a class="dib mb2 ta-c pa1" href="#M">M</a> 
+        <a class="dib mb2 ta-c pa1" href="#N">N</a> 
+        <a class="dib mb2 ta-c pa1" href="#O">O</a> 
+        <a class="dib mb2 ta-c pa1" href="#P">P</a> 
+        <a class="dib mb2 ta-c pa1" href="#Q">Q</a> 
+        <a class="dib mb2 ta-c pa1" href="#R">R</a> 
+        <a class="dib mb2 ta-c pa1" href="#S">S</a> 
+        <a class="dib mb2 ta-c pa1" href="#W">W</a> 
+       </div> 
+       <!-- END PAGER --> 
+       <table class="t-fixed" summary="Listing of Social Security terms"> 
+        <colgroup> 
+         <col width="30%"> 
+         <col width="70%"> 
+        </colgroup> 
+        <thead> 
+         <tr> 
+          <th scope="col" role="columnheader">Term</th> 
+          <th scope="col" role="columnheader">Explanation</th> 
+         </tr> 
+        </thead> 
+        <tbody> 
+         <tr class="bg-teal-500 fw6 ts-stroke white" id="A"> 
+          <td colspan="2"> <strong>A</strong> </td> 
+         </tr> 
+         <tr> 
+          <td> AIME (Average Indexed Monthly Earnings)</td> 
+          <td> <p>The dollar amount used to calculate your Social Security benefit if you attained age 62 or became disabled (or died) after 1978. To arrive at your AIME, we adjust your actual past earnings using an "average wage index," so you won’t lose the value of your past earnings (when money was worth more) in relation to your more recent earnings. If you attained age 62 or became disabled (or died) before 1978, we use Average Monthly Earnings (AME).</p> <p>See: <a href="/OP_Home/handbook/handbook.07/handbook-0701.html"> <i>How are the Average Monthly Earnings (AME) or the Average Indexed Monthly Earnings (AIME) computed?</i> </a> </p> </td> 
+         </tr> 
+         <tr> 
+          <td> AME (Average Monthly Earnings)</td> 
+          <td> <p>The dollar amount used in calculating your monthly Social Security benefit if you attained age 62 or became disabled (or died) before 1978. The AME is determined by dividing the total earnings in the "computation years" by the number of months in those same years. See <a href="/pubs/EN-05-10070.pdf">Your Retirement Benefit: How It Is Figured.</a></p> </td> 
+         </tr> 
+         <tr> 
+          <td>Appeal (Appeal Rights)</td> 
+          <td> <p>You will receive a letter of explanation whenever Social Security makes a decision regarding your eligibility for Social Security or Supplemental Security Income (SSI) benefits. If you disagree with the decision, you have the right to appeal (ask us to review your case). If our decision was wrong, we’ll change it.</p> </td> 
+         </tr> 
+         <tr> 
+          <td>Application for Benefits</td> 
+          <td> <p>To receive Social Security benefits, Supplemental Security Income (SSI) payments, or Medicare, you must complete and sign an application.</p> <p>You can apply for <a href="/applyonline/">retirement</a>, <a href="/applyonline/">disability</a>, <a href="/applyonline/">Medicare</a>, and <a href="/applyonline/">spouse’s benefits</a> online, in person at a local <a href="/locator/">Social Security Office</a>, or by telephone at 1-800-772-1213. Our TTY number is 1-800-325-0778. </p> </td> 
+         </tr> 
+         <tr> 
+          <td>Application for a Social Security Card</td> 
+          <td> <p>The application form you need to complete to obtain a Social Security number, or a replacement card. For more information see <a href="/ssnumber/">Get or Replace a Social Security Card.</a> </p> </td> 
+         </tr> 
+         <tr class="bg-teal-500 fw6 ts-stroke white" id="B"> 
+          <td colspan="2"> <strong>B</strong> </td> 
+         </tr> 
+         <tr> 
+          <td> Baptismal Certificate</td> 
+          <td> <p>An official religious record of your birth or baptism. In some situations we can use a baptismal certificate to establish your age. </p> </td> 
+         </tr> 
+         <tr> 
+          <td>Base Years</td> 
+          <td> <p>In initial computation, a worker's (wage earner's) base years for computing Social Security benefits are the years after 1950 up to the year before entitlement to retirement or disability insurance benefits. For a survivor's claim, the base years include the year of the worker's death. </p> </td> 
+         </tr> 
+         <tr> 
+          <td> Benefit Verification Letter</td> 
+          <td> <p>An official letter from Social Security that verifies the amount an individual receives each month in Social Security benefits and/or Supplemental Security Income (SSI) payments.&nbsp;These letters are normally issued following a request from a person receiving benefits or his/her authorized representative.</p> </td> 
+         </tr> 
+         <tr> 
+          <td> Benefits</td> 
+          <td> <p>Social Security pays five types of benefits: &nbsp; </p> 
+           <ul> 
+            <li>Retirement</li> 
+            <li>Disability </li> 
+            <li>Family (dependents) </li> 
+            <li>Survivors </li> 
+            <li>Medicare</li> 
+           </ul> <p></p> <p>The retirement, family (dependents), survivor, and disability programs pay monthly cash benefits, and Medicare provides medical coverage.</p> </td> 
+         </tr> 
+         <tr> 
+          <td>Benefits – Reduced</td> 
+          <td> <p>You can get the following reduced monthly benefits before reaching full retirement age:</p> 
+           <ul> 
+            <li> <p>Retirement benefits at age 62 through the month before your reach <a href="/planners/reitre/">Full Retirement Age</a>;</p> </li> 
+            <li> <p>Husband’s or wife's benefits at age 62 through the month before you reach full retirement age, provided no child of your deceased spouse either under age 16 or disabled and entitled to benefits is in your care;</p> </li> 
+            <li> <p>Widow's or widower's benefits beginning at any time from age 60 or age 50 if you are disabled through the month before you reach full retirement age; </p> </li> 
+            <li> <p>Widow's or widower's benefits, if your spouse received a retirement benefit before full retirement age; </p> </li> 
+            <li> <p>Disability benefits received after a reduced retirement benefit; or </p> </li> 
+            <li>Retirement or disability benefits received after a reduced widow's or widower's benefit. This applies only if you were born before 1928.</li> 
+           </ul> </td> 
+         </tr> 
+         <tr> 
+          <td> Birth Certificate (Original)</td> 
+          <td>The record maintained by a governmental entity such as a state, county, parish, city, or borough that documents your birth.&nbsp;For additional information on obtaining a birth certificate see the <a href="https://www.cdc.gov/nchs/w2w.htm">NCHS - Alphabetical List</a>.</td> 
+         </tr> 
+         <tr class="bg-teal-500 fw6 ts-stroke white" id="C"> 
+          <td colspan="2"> <strong>C</strong> </td> 
+         </tr> 
+         <tr> 
+          <td> Child</td> 
+          <td> <p>We use the term "Child" to include your biological child or any other child who can inherit your personal property under state law or who meets certain specific requirements under the Social Security Act; such as: </p> 
+           <ul> 
+            <li>a legally adopted child,</li> 
+            <li>an equitably adopted child, </li> 
+            <li>a stepchild, or</li> 
+            <li>a grandchild.</li> 
+           </ul> </td> 
+         </tr> 
+         <tr> 
+          <td> COLA (Cost of Living Adjustment) </td> 
+          <td>Social Security benefits and Supplemental Security Income (SSI) payments may be automatically increased each year to keep pace with increases in the cost-of-living (inflation).</td> 
+         </tr> 
+         <tr> 
+          <td>Computation Years</td> 
+          <td> <p>Computation years are the years with highest earnings selected from the base years.”&nbsp; We add total earnings in the computation years and divide by the number of months in those years to get the AME or the AIME.&nbsp;(We use your 35 highest years of earnings to compute your retirement benefits.)</p> </td> 
+         </tr> 
+         <tr> 
+          <td>CPI-W (Consumer Price Index)</td> 
+          <td> <p>An index prepared by the U. S. Department of Labor that charts the rise in costs for selected goods and services. This index is used to compute <a href="/news/cola/">cost of living adjustments</a>.</p> </td> 
+         </tr> 
+         <tr> 
+          <td id="credits"> Credits (Social Security Credits) </td> 
+          <td> <p>Previously called "Quarters of Coverage." As you work and pay Social Security taxes, you earn credits that count toward your eligibility for future Social Security benefits. You can earn a maximum of four credits each year. Most people need 40 credits to qualify for benefits. Younger people need fewer credits to qualify for disability or survivors benefits. </p> <p>For more information read: <a href="/pubs/EN-05-10072.pdf">How You Earn Credits</a> (05-10072).</p> </td> 
+         </tr> 
+         <tr class="bg-teal-500 fw6 ts-stroke white" id="D"> 
+          <td colspan="2"> <strong>D</strong> </td> 
+         </tr> 
+         <tr> 
+          <td> Decision Notice (Award Letter or Denial Letter)</td> 
+          <td> <p>When you apply for Social Security, we decide if you will receive benefits. We send you an official letter explaining our decision and, if benefits are payable, we tell you the amount you will get each month.</p> </td> 
+         </tr> 
+         <tr> 
+          <td>DRC (Delayed Retirement Credits)</td> 
+          <td> <p>Social Security benefits are increased by a certain percentage (depending on date of birth) if a person delays taking retirement benefits beyond <a href="/planners/retire/">full retirement age</a>. </p> <p> The benefit increase no longer applies after age 70, even if the person continues to delay taking benefits.&nbsp;</p> </td> 
+         </tr> 
+         <tr> 
+          <td>Dependent Benefits</td> 
+          <td> <p>See <a href="#familybenefits">Family Benefits.</a> </p> </td> 
+         </tr> 
+         <tr> 
+          <td>Direct Deposit</td> 
+          <td> <p>The standard way to receive Social Security benefits and Supplemental Security Income (SSI). Your money is sent electronically to an account in a financial institution (bank, trust company, savings and loan association, brokerage agency or credit union). For more information see <a href="/deposit/">Social Security Direct Deposit</a>.</p> </td> 
+         </tr> 
+         <tr> 
+          <td>Disability Benefits</td> 
+          <td> <p>You can get disability benefits if you:</p> 
+           <ul> 
+            <li>are under full retirement age; </li> 
+            <li>have enough Social Security credits; and </li> 
+            <li>have a severe medical impairment (physical or mental) that’s expected to prevent you from doing "substantial" work for a year or more, or have a condition that is expected to result in death. </li> 
+           </ul> <p>For more information see: <a href="/disability/">Disability Programs</a>. </p></td> 
+         </tr> 
+         <tr> 
+          <td>Documents (Proofs)</td> 
+          <td> <p>Forms and papers such as birth certificates, marriage certificates, W2 forms, tax returns, deeds, etc., submitted by individuals applying for benefits and services. We can accept only originals or copies certified by the agency that has the original document. </p> </td> 
+         </tr> 
+         <tr class="bg-teal-500 fw6 ts-stroke white" id="E"> 
+          <td colspan="2"> <strong>E</strong> </td> 
+         </tr> 
+         <tr> 
+          <td> Early Retirement</td> 
+          <td> <p>You can start getting Social Security retirement benefits as early as age 62 if you are insured, but your benefit amount will be less than you would have gotten if you waited until your full retirement age. </p> <p>If you take retirement benefits early, your benefit will remain permanently reduced, based on the number of months you received benefits before you reached full retirement age.</p> </td> 
+         </tr> 
+         <tr> 
+          <td>Early Retirement Age</td> 
+          <td>Age 62. For more information read <a href="/planners/retire/">Retirement benefits by year of birth</a>.</td> 
+         </tr> 
+         <tr> 
+          <td> Earnings Record (lifetime record of earnings)</td> 
+          <td> <p>A chronological history of the amount of money you earned each year during your working lifetime.&nbsp;The credits you earned remain on your Social Security record even when you change jobs or have no earnings. </p> </td> 
+         </tr> 
+         <tr> 
+          <td id="evidence"> Evidence (Proofs) </td> 
+          <td>The documents you must submit to support a factor of entitlement or payment amount. The people in your Social Security office can explain what evidence is required to establish entitlement and help you to get it. For more information see <a href="/OP_Home/handbook/handbook.17/handbook-toc17.html">Evidence Required to Establish Right to Benefits</a>.</td> 
+         </tr> 
+         <tr class="bg-teal-500 fw6 ts-stroke white" id="F"> 
+          <td colspan="2"> <strong>F</strong> </td> 
+         </tr> 
+         <tr> 
+          <td id="familybenefits"> Family Benefits (Dependent Benefits)</td> 
+          <td> <p>When you’re eligible for retirement or disability benefits, the following people may receive benefits on your record:</p> 
+           <ul> 
+            <li>spouse if he or she is at least 62 years old (or any age but caring for an entitled child of the deceased spouce under age 16 or disabled); </li> 
+            <li>children if they are unmarried and under age 18, or under age 19 and a full-time elementary or secondary student;</li> 
+            <li>children age 18 or older but disabled before age 22;</li> 
+            <li>ex-spouses age 62 or older.</li> 
+           </ul> </td> 
+         </tr> 
+         <tr> 
+          <td>Family Maximum</td> 
+          <td> <p>The maximum amount of benefits payable to an entire family on any one worker’s record.</p> </td> 
+         </tr> 
+         <tr> 
+          <td>FICA Tax</td> 
+          <td> <p>FICA stands for "Federal Insurance Contributions Act." It’s the tax withheld from your salary or self-employment income that funds the Social Security and Medicare programs.</p> </td> 
+         </tr> 
+         <tr> 
+          <td id="fullretirementage"> Full Retirement Age</td> 
+          <td> <p>The age at which a person may first become entitled to full or unreduced benefits based on age.&nbsp; </p> <p>For workers and spouses born in 1938 or later and widows/widowers born in 1940 or later, the full retirement age increases gradually from age 65 until it reaches age 67 for: </p>
+           <ul> 
+            <li>Workers and spouses in the year 2027</li> 
+            <li>Widows and widowers in the year 2029. </li> 
+           </ul> This increase affects the amount of the reduction for persons who begin receiving reduced benefits. For information about the year you were born, read <a href="/planners/retire/">Full retirement age</a>. <p></p> </td> 
+         </tr> 
+         <tr class="bg-teal-500 fw6 ts-stroke white" id="H"> 
+          <td colspan="2"> <strong>H</strong> </td> 
+         </tr> 
+         <tr> 
+          <td> Health Insurance (Medicare)</td> 
+          <td> <p>The federal health insurance program for: </p> 
+           <ul> 
+            <li>people 65 years of age or older;</li> 
+            <li>certain younger people with disabilities; and </li> 
+            <li>people with permanent kidney failure with dialysis or a transplant, sometimes called ESRD (End-Stage Renal Disease). </li> 
+           </ul> <p>For more information, see <a href="/medicare/">Medicare Resources</a> and the <a href="https://www.medicare.gov/">Official U.S. Government Site for Medicare.</a> </p></td> 
+         </tr> 
+         <tr class="bg-teal-500 fw6 ts-stroke white" id="I"> 
+          <td colspan="2"> <strong>I</strong> </td> 
+         </tr> 
+         <tr> 
+          <td> Insured Status</td> 
+          <td> <p>If you worked and earned enough Social Security credits to be eligible for retirement or disability benefits or enable your dependents to be eligible for benefits due to your retirement, disability, or death, you have insured status. For more information, see <a href="/pubs/EN-05-10072.pdf">How You Earn Credits</a> (05-10072).</p> </td> 
+         </tr> 
+         <tr class="bg-teal-500 fw6 ts-stroke white" id="L"> 
+          <td colspan="2"> <strong>L</strong> </td> 
+         </tr> 
+         <tr> 
+          <td> Lawful Alien Status </td> 
+          <td> <p>Refers to people admitted to the United States who are granted permanent authorization to work by the <a href="http://www.uscis.gov">United States Citizenship and Immigration Services</a> (USCIS) (formerly INS) or admitted to the United States on a temporary basis with USCIS (INS) authorization to work.</p> </td> 
+         </tr> 
+         <tr> 
+          <td>Lifetime Earnings “Earnings Record”</td> 
+          <td> <p>A chronological history of the amount of money you earned each year during your working lifetime. The credits you earned remain on your Social Security record even when you change jobs or have no earnings. </p> </td> 
+         </tr> 
+         <tr> 
+          <td>Lump Sum Death Payment</td> 
+          <td> <p>A one-time payment of $255 paid in addition to any monthly survivors benefits that are due. This benefit is paid only to your widow/widower or minor children.</p> </td> 
+         </tr> 
+         <tr class="bg-teal-500 fw6 ts-stroke white" id="M"> 
+          <td colspan="2"> <strong>M</strong> </td> 
+         </tr> 
+         <tr> 
+          <td> Maximum Earnings</td> 
+          <td> <p>The maximum amount of earnings we can count in any calendar year when computing your Social Security benefit.</p> </td> 
+         </tr> 
+         <tr> 
+          <td>Medicaid</td> 
+          <td> <p>A joint federal and state program that helps with medical costs for people with low incomes and limited resources. </p> <p>Medicaid programs vary from state to state, but most health care costs are covered if you qualify for both Medicare and Medicaid.&nbsp; For more information see <a href="https://www.cms.gov/home/medicaid.asp">The Centers for Medicare and Medicaid Services.</a> </p> </td> 
+         </tr> 
+         <tr> 
+          <td>Medicare</td> 
+          <td> <p>See Health Insurance. For more information, see <a href="/medicare/">Medicare Resources</a> and the <a href="https://www.medicare.gov">Official U.S. Government Site for Medicare.</a> </p> </td> 
+         </tr> 
+         <tr> 
+          <td>Month of Election</td> 
+          <td> <p>This usually applies to retirement claims. In certain situations, you can choose the month in which your benefits will start. </p> <p>There are <a href="/planners/retire/">many different factors that can affect when you want to begin receiving your payments</a>.</p> </td> 
+         </tr> 
+         <tr class="bg-teal-500 fw6 ts-stroke white" id="N"> 
+          <td colspan="2"> <strong>N</strong> </td> 
+         </tr> 
+         <tr> 
+          <td> Normal Retirement Age</td> 
+          <td> <p>See <a href="#fullretirementage">Full Retirement Age.</a> </p> </td> 
+         </tr> 
+         <tr> 
+          <td> Number Holder</td> 
+          <td> <p>See <a href="#wageearner">Wage Earner.</a> </p> </td> 
+         </tr> 
+         <tr> 
+          <td>Nutrition Assistance Programs</td> 
+          <td> <p>The United States Department of Agriculture program that helps needy families buy food.&nbsp;For more information see: <a href="/pubs/EN-05-10100.pdf">Nutrition Assistance Programs</a> (05-10100). </p> </td> 
+         </tr> 
+         <tr class="bg-teal-500 fw6 ts-stroke white" id="O"> 
+          <td colspan="2"> <strong>O</strong> </td> 
+         </tr> 
+         <tr> 
+          <td> OASDI (Old Age Survivors and Disability Insurance)</td> 
+          <td> <p>The Social Security programs that provide monthly cash benefits to workers and their dependents when they retire, die, or become disabled.</p> </td> 
+         </tr> 
+         <tr class="bg-teal-500 fw6 ts-stroke white" id="P"> 
+          <td colspan="2"> <strong>P</strong> </td> 
+         </tr> 
+         <tr> 
+          <td> Payment Dates for Social Security Benefits</td> 
+          <td> <p>If you applied for Social Security benefits before May 1, 1997, your payments usually are dated and delivered on the 3rd of the month following the month for which the payment is due. For example, payments for January are delivered on February 3rd.</p> <p>If the 3rd of the month is a Saturday, Sunday, or federal holiday, your payments are dated and delivered on the first day before the 3rd of the month which is not a Saturday, Sunday, or federal holiday. For example, if the 3rd is a Saturday or Sunday, payments are delivered on the preceding Friday. </p> <p>If you filed for Social Security benefits May 1, 1997, or later, you are assigned one of three new payment days based on date of birth:</p> 
+           <table class="table table-bordered" summary="This table identifies when Social Security checks will be paid based on date of birth."> 
+            <thead> 
+             <tr> 
+              <th valign="top" id="b1"> If you were born on the… </th> 
+              <th valign="top" id="b2"> Your payment will be delivered on the… </th> 
+             </tr> 
+            </thead> 
+            <tbody> 
+             <tr> 
+              <td valign="top" headers="b1" align="center"> <p>1st through 10th of the month </p> </td> 
+              <td headers="b2" align="center"> <p>Second Wednesday of the month </p> </td> 
+             </tr> 
+             <tr> 
+              <td valign="top" headers="b1" align="center"> <p>11th through 20th of the month </p> </td> 
+              <td headers="b2" align="center"> <p>Third Wednesday of the month </p> </td> 
+             </tr> 
+             <tr> 
+              <td valign="top" headers="b1" align="center"> <p>21st through end of the month</p> </td> 
+              <td headers="b2" align="center"> <p>Fourth Wednesday of the month. </p> </td> 
+             </tr> 
+            </tbody> 
+           </table> <p>If your scheduled Wednesday payment day is a federal holiday, we'll send your payment on the preceding day that is not a federal legal holiday. </p> <p>For a schedule of benefit payment dates, see our <a href="/pubs/calendar.htm">payment calendar</a>.</p> </td> 
+         </tr> 
+         <tr> 
+          <td>Payment Dates for Supplemental Security Income (SSI) Payments</td> 
+          <td> <p>SSI payments are usually dated and delivered on the first day of the month for which they are due. However, if the first falls on a Saturday, Sunday, or federal holiday, they are dated and delivered on the first day preceding the first of the month which is not a Saturday, Sunday, or federal holiday. </p> <p>For a schedule of benefit payment dates, see <a href="/pubs/calendar.htm"> our payment calendar.</a> </p> </td> 
+         </tr> 
+         <tr> 
+          <td>PIA (Primary Insurance Amount)</td> 
+          <td> <p>The monthly amount payable if you are a retired worker who begins receiving benefits at full retirement age or if you're disabled and have never received a retirement benefit reduced for age.</p> </td> 
+         </tr> 
+         <tr> 
+          <td>Proofs</td> 
+          <td> <p>See <a href="#evidence">Evidence.</a> </p> </td> 
+         </tr> 
+         <tr> 
+          <td>Protective Filing Date</td> 
+          <td> <p>The date you first contact us about filing for benefits. It may be used to establish an earlier application date than when we receive your signed application. </p> </td> 
+         </tr> 
+         <tr class="bg-teal-500 fw6 ts-stroke white" id="Q"> 
+          <td colspan="2"> <strong>Q</strong> </td> 
+         </tr> 
+         <tr> 
+          <td> QC (Quarter of Coverage)</td> 
+          <td> <p>See <a href="#credits">Credits (Social Security Credits).</a></p> </td> 
+         </tr> 
+         <tr class="bg-teal-500 fw6 ts-stroke white" id="R"> 
+          <td colspan="2"> <strong>R</strong> </td> 
+         </tr> 
+         <tr> 
+          <td>Reduction Months</td> 
+          <td> <p>Months beginning with the first month you're entitled to reduced benefits up to, but not including, the month in which you reach full retirement age.</p> </td> 
+         </tr> 
+         <tr> 
+          <td>Representative Payee</td> 
+          <td> <p>If you receive Social Security benefits or Supplemental Security Income (SSI) and become unable to handle your own financial affairs, we (after a careful investigation) appoint a relative, a friend, or an interested party to handle your Social Security matters. </p> <p>Representative payees are required to maintain complete accounting records and periodically provide reports to Social Security. For additional information see <a href="/payee/">Representative Payee Program</a>.</p> </td> 
+         </tr> 
+         <tr> 
+          <td>Retirement Age – Full Benefits</td> 
+          <td> <p>Full retirement age was 65 for many years.&nbsp;However, beginning with the year 2000 (for workers and spouses born in 1938 or later, or widows or widowers born in 1940 or later), the retirement age increases gradually from age 65 until it reaches age 67 in the year 2022. </p> <p>For additional information on full retirement ages and benefit amounts, see:</p> 
+           <ul> 
+            <li> <a href="/planners/retire/">Retirement benefits by year of birth</a> or </li> 
+            <li> <a href="/planners/survivors/">Social Security benefits for the surviving spouse by year of birth.</a> </li> 
+           </ul> </td> 
+         </tr> 
+         <tr> 
+          <td> Retirement Age – Minimum</td> 
+          <td> <p>The minimum age for retirement—age 62 for workers, and age 60 for widows or widowers. You can choose a reduced benefit anytime before you reach full retirement age. </p> </td> 
+         </tr> 
+         <tr> 
+          <td>Retirement Earnings Test</td> 
+          <td> <p>If you receive monthly Social Security benefits before your full retirement age and work, your earnings from wages and/or self-employment cannot exceed a certain amount without reducing your monthly benefits. For more information, see <a href="/pubs/EN-05-10069.pdf">How Work Affects Your Benefits</a> (05-10069). </p> </td> 
+         </tr> 
+         <tr> 
+          <td>Retroactive Benefits (Back Pay)</td> 
+          <td> <p>Monthly benefits that you may be entitled to before the month you actually apply, if you meet the requirements. </p> </td> 
+         </tr> 
+         <tr> 
+          <td> Retirement Benefit</td> 
+          <td> <p>Money that is payable to you upon retirement if you have enough Social Security credits. For more information, see <a href="/planners/retire/">Retirement</a>, <a href="/pubs/EN-05-10035.pdf">Retirement Benefits</a> (05-10035) and <a href="/pubs/EN-05-10070.pdf">Your Retirement Benefit: How It Is Figured</a> (05-10070).</p> </td> 
+         </tr> 
+         <tr class="bg-teal-500 fw6 ts-stroke white" id="S"> 
+          <td colspan="2"> <strong>S</strong> </td> 
+         </tr> 
+         <tr> 
+          <td> Self-employment Income</td> 
+          <td> <p>You are self-employed if you operate a trade, business or profession, either individually or as a partner, and have net earnings of $400 or more in a taxable year. For more information, see <a href="/pubs/EN-05-10022.pdf">If You Are Self-Employed</a> (05-10022).</p> </td> 
+         </tr> 
+         <tr> 
+          <td>Social Security</td> 
+          <td> <p>Social Security is based on a simple concept: While you work, you pay taxes into the Social Security system, and when you retire or become disabled, you, your spouse, and your dependent children receive monthly benefits that are based on your reported earnings. Also, your survivors can collect benefits if you die. For more information read <a href="/pubs/EN-05-10006.pdf">A Snapshot</a> (05-10006).</p> </td> 
+         </tr> 
+         <tr> 
+          <td> Social Security Number (Social Security Card)</td> 
+          <td> <p>Your first and continuous link with Social Security is your nine-digit Social Security Number. It helps us to maintain an accurate record of your wages or self-employment earnings that are covered under the Social Security Act, and to monitor your record once you start getting Social Security benefits. </p> <p> For more information, see <a href="/pubs/EN-05-10002.pdf">Your Number and Card</a> (05-10002). </p> </td> 
+         </tr> 
+         <tr> 
+          <td>Social Security Office</td> 
+          <td> <p>You can call our toll-free telephone number, 1-800-772-1213, to receive Social Security services. Our TTY number is 1-800-325-0778. This toll-free telephone number service is available from 7 a.m. to 7 p.m. any business day. All calls are confidential.&nbsp;</p> <p>See our <a href="https://secure.ssa.gov/apps6z/FOLO/fo001.jsp">Social Security Office Locator</a> for the address of your local office. In addition, <a href="/onlineservices/">many services are now available through the internet.</a> </p> <p>There is no charge for any of our services. </p> </td> 
+         </tr> 
+         <tr> 
+          <td>Spouse</td> 
+          <td> <p>You are the spouse of the worker if, when he or she applied for benefits:</p> 
+           <ul> 
+            <li>you and the worker were married; or </li> 
+            <li>you would have the status of a husband or a wife for that person’s personal property if they had no will; or</li> 
+            <li>you went through a marriage ceremony in good faith, which would have been valid except for a legal impediment. </li> 
+           </ul> </td> 
+         </tr> 
+         <tr> 
+          <td>SS-5</td> 
+          <td> <p>See <a href="/forms/ss-5.pdf">Application for a Social Security Card</a>.</p> </td> 
+         </tr> 
+         <tr> 
+          <td>Supplemental Security Income (SSI)</td> 
+          <td> <p>A federal supplemental income program funded by general tax revenues (not Social Security taxes).&nbsp;It helps aged, blind, and disabled people who have limited income and resources by providing monthly cash payments to meet basic needs for food, clothing, and shelter.&nbsp;For more information, see <a href="/ssi/">Supplemental Security Income</a> (SSI).</p> </td> 
+         </tr> 
+         <tr> 
+          <td>Survivors Benefits</td> 
+          <td> <p>Benefits based on your record (if you should die) are paid to your:</p> 
+           <ul> 
+            <li>widow/widower age 60 or older, 50 or older if disabled, or any age if caring for a child under age 16 or disabled before age 22;</li> 
+            <li>children, if they are unmarried and under age 18, under 19 but still in school, or 18 or older but disabled before age 22; and</li> 
+            <li>parents, if you provided at least one-half of their support.</li> 
+           </ul> <p>An ex-spouse could also be eligible for a widow/widower's benefit on your record.</p> <p>A special one-time lump sum payment of $255 may be made to your spouse or minor children. For more information, see <a href="/pubs/EN-05-10084.pdf">Survivors Benefits</a> (05-10084). </p> </td> 
+         </tr> 
+         <tr class="bg-teal-500 fw6 ts-stroke white" id="W"> 
+          <td colspan="2"> <strong>W</strong> </td> 
+         </tr> 
+         <tr> 
+          <td id="wageearner"> Wage Earner</td> 
+          <td> <p>A person who earns Social Security credits while working for wages or self-employment income. Sometimes referred to as the "Number Holder" or "Worker." </p> </td> 
+         </tr> 
+         <tr> 
+          <td>Wages</td> 
+          <td> <p>All payment for services performed for an employer. Wages do not have to be cash. The cash value of all compensation paid to an employee in any form other than cash is also considered wages, unless the form of payment is specifically not covered under the Social Security Act.</p> </td> 
+         </tr> 
+         <tr> 
+          <td id="widow"> Widow</td> 
+          <td> <p>You are the widow/widower of the worker if, at the time he or she died: </p> 
+           <ul> 
+            <li>you and the worker were validly married; or</li> 
+            <li>you would have the status of a husband or a wife for that person’s personal property if he or she had no will; or </li> 
+            <li>you went through a marriage ceremony in good faith that would have been valid except for a legal impediment.</li> 
+           </ul> <p>The minimum age for widows benefits is 60, or 50 if disabled.</p> </td> 
+         </tr> 
+         <tr> 
+          <td>Widower</td> 
+          <td> <p>See <a href="#widow">Widow.</a></p> </td> 
+         </tr> 
+         <tr> 
+          <td>Work Credits</td> 
+          <td> <p>See <a href="#credits">Credits</a>.</p> </td> 
+         </tr> 
+         <tr> 
+          <td> Worker</td> 
+          <td> <p>See <a href="#wageearner">Wage Earner.</a></p> </td> 
+         </tr> 
+        </tbody> 
+       </table> 
+      </section> 
+     </article> 
+     <!-- CELL --> 
+     <aside class="print-dn m-cell m-w-30"> 
+      <h3 class="by">Related Item</h3> 
+      <ul class="list-nb pl0"> 
+       <li> <a class="db" href="english-spanish-glossary.html">English-Spanish Glossary</a> 
+        <div lang="es">
+         (Glosario Español-Inglés)
+        </div> </li> 
+      </ul> 
+     </aside> 
+    </div> 
+   </section> 
+  </main> 
+  <!-- FOOTER --> 
+  <footer class="fs1 pa3 print-dn l-ta-c" id="footer" role="contentinfo">
+   <div class="grid">
+    <div class="cell pt3 w-100 m-w-33 l-pt0 l-w-100">
+     <p class="fw5 mb2 l-dn">Important Information:</p>
+     <ul class="list-nb ma0 pa0">
+      <li class="l-dib"><a class="db l-pr2" href="/agency/">About Us</a></li>
+      <li class="l-dib"><a class="db l-pr2" href="/accessibility/">Accessibility</a></li>
+      <li class="l-dib"><a class="db l-pr2" href="/foia/">FOIA</a></li>
+      <li class="l-dib"><a class="db l-pr2" href="/agency/glossary/">Glossary</a></li>
+      <li class="l-dib"><a class="db l-pr2" href="/open/">Open Government</a></li>
+      <li class="l-dib l-pr2"><a class="db" href="/privacy/">Privacy</a></li>
+      <li class="l-dib"><a class="db" href="https://oig.ssa.gov/">Report Fraud, Waste or Abuse to our Office of the Inspector General</a></li>
+     </ul>
+    </div>
+    <div class="cell pt3 w-100 m-w-33 l-w-100">
+     <p class="fw5 mb2 l-dn">Other Government Websites:</p>
+     <ul class="list-nb ma0 pa0">
+      <li class="l-dib"><a class="db l-pr2" href="//www.benefits.gov">Benefits.gov</a></li>
+      <li class="l-dib"><a class="db l-pr2" href="//www.disability.gov/">Disability.gov</a></li>
+      <li class="l-dib"><a class="db l-pr2" href="//www.mymoney.gov">MyMoney.gov</a></li>
+      <li class="l-dib"><a class="db l-pr2" href="//www.regulations.gov">Regulations.gov</a></li>
+      <li class="l-dib"><a class="db l-pr2" href="//www.usa.gov">USA.gov</a></li>
+      <li class="l-dib"><a class="db" href="https://www.usa.gov/federal-agencies">Other Government Sites</a></li>
+     </ul>
+    </div>
+    <div class="cell pt3 w-100 m-w-33 l-w-100">
+     <p class="fw5 mb2 l-dn">Follow:</p>
+     <ul class="list-nb ma0 pa0">
+      <li class="dib"><a class="bg-twitter br-100 bs1 fx fx-ai-c fx-jc-c hover-bg-blue pa2 white" href="//twitter.com/socialsecurity/" title="Twitter">
+        <svg class="svg1" focusable="false" viewbox="0 0 24 24">
+         <path d="M23.44 4.83c-.8.37-1.5.38-2.22.02.93-.56.98-.96 1.32-2.02-.88.52-1.86.9-2.9 1.1-.82-.88-2-1.43-3.3-1.43-2.5.0-4.55 2.04-4.55 4.54.0.36.03.7.1 1.04-3.77-.2-7.12-2-9.36-4.75-.4.67-.6 1.45-.6 2.3.0 1.56.8 2.95 2 3.77-.74-.03-1.44-.23-2.05-.57v.06c0 2.2 1.56 4.03 3.64 4.44-.67.2-1.37.2-2.06.08.58 1.8 2.26 3.12 4.25 3.16C5.78 18.1 3.37 18.74 1 18.46c2 1.3 4.4 2.04 6.97 2.04 8.35.0 12.92-6.92 12.92-12.93.0-.2.0-.4-.02-.6.9-.63 1.96-1.22 2.56-2.14z" vector-effect="non-scaling-stroke"></path>
+        </svg></a></li>
+      <li class="dib pl1"><a class="bg-facebook br-100 bs1 fx fx-ai-c fx-jc-c hover-bg-blue pa2 white" href="//facebook.com/socialsecurity/" title="Facebook">
+        <svg class="svg1" focusable="false" viewbox="0 0 24 24">
+         <path d="M18.77 7.46H14.5v-1.9c0-.9.6-1.1 1-1.1h3V.5h-4.33C10.24.5 9.5 3.44 9.5 5.32v2.15h-3v4h3v12h5v-12h3.85l.42-4z" vector-effect="non-scaling-stroke"></path>
+        </svg></a></li>
+      <li class="dib pl1"><a class="bg-logo br-100 bs1 fx fx-ai-c fx-jc-c hover-bg-blue pa2 white" href="//instagram.com/socialsecurity/" title="Instagram">
+        <svg class="svg1" focusable="false" viewbox="0 0 90 90">
+         <path d="M44.9 8.091c11.974 0 13.371 0 18.16.3 4.39.199 6.785.899 8.381 1.498 2.096.799 3.592 1.798 5.189 3.396 1.596 1.598 2.494 3.097 3.392 5.194.599 1.599 1.297 3.996 1.497 8.391.199 4.695.299 6.193.299 18.18s0 13.385-.299 18.18c-.2 4.395-.898 6.792-1.497 8.39-.798 2.098-1.796 3.596-3.392 5.195-1.597 1.598-3.093 2.497-5.189 3.396-1.596.599-3.991 1.298-8.381 1.498-4.69.2-6.186.3-18.16.3-11.973 0-13.37 0-18.159-.3-4.391-.2-6.785-.899-8.382-1.498-2.095-.799-3.592-1.798-5.188-3.396-1.597-1.599-2.495-3.097-3.393-5.195-.598-1.598-1.297-3.995-1.496-8.39-.2-4.695-.3-6.193-.3-18.18s0-13.385.3-18.18c.199-4.395.898-6.792 1.496-8.391.798-2.097 1.796-3.596 3.393-5.194 1.596-1.598 3.093-2.497 5.188-3.396 1.597-.599 3.991-1.299 8.382-1.498 4.789-.2 6.186-.3 18.159-.3zM44.9 0C32.727 0 31.131.1 26.341.3c-4.789.199-8.082.999-10.875 2.097-2.994 1.099-5.488 2.697-7.983 5.195-2.494 2.497-3.991 4.994-5.188 7.991C1.197 18.479.399 21.676.2 26.471.1 31.165 0 32.764 0 44.95c0 12.187.1 13.785.299 18.579.2 4.795.998 8.091 2.096 10.888 1.097 2.997 2.694 5.494 5.188 7.991 2.495 2.498 4.989 3.996 7.982 5.195 2.894 1.098 6.087 1.898 10.876 2.097 4.79.2 6.286.3 18.559.3 12.273 0 13.769-.1 18.559-.3 4.789-.199 8.082-.999 10.876-2.097 2.993-1.099 5.487-2.697 7.982-5.195 2.494-2.497 3.991-4.994 5.188-7.991 1.098-2.896 1.896-6.093 2.096-10.888.199-4.794.299-6.293.299-18.579 0-12.286-.1-13.785-.299-18.579-.2-4.795-.998-8.091-2.096-10.888-1.097-2.997-2.694-5.494-5.188-7.991-2.495-2.498-4.989-3.996-7.982-5.195C71.541 1.199 68.348.4 63.559.2 58.67.1 57.073 0 44.9 0z"></path>
+         <path d="M44.9 21.876c-12.771 0-23.049 10.288-23.049 23.074 0 12.786 10.278 23.074 23.049 23.074 12.772 0 23.049-10.288 23.049-23.074 0-12.786-10.277-23.074-23.049-23.074zm0 38.057c-8.281 0-14.967-6.692-14.967-14.983S36.619 29.967 44.9 29.967c8.282 0 14.967 6.692 14.967 14.983S53.182 59.933 44.9 59.933z"></path>
+         <ellipse vector-effect="non-scaling-stroke" cx="68.847" cy="20.977" rx="5.388" ry="5.394"></ellipse>
+        </svg></a></li>
+      <li class="dib pl1"><a class="bg-youtube br-100 bs1 fx fx-ai-c fx-jc-c hover-bg-blue pa2 white" href="//youtube.com/socialsecurityonline/" title="YouTube">
+        <svg class="svg1" focusable="false" viewbox="0 0 38 38">
+         <path d="M26.2 19l-12.6 7.4V11.6L26.2 19zM38 25.8V12.1s.2-6.7-6.4-6.7H6.4S0 5.5.0 12.1v13.8s-.2 6.7 6.4 6.7h25.2s6.4-.1 6.4-6.8" vector-effect="non-scaling-stroke"></path>
+        </svg></a></li>
+      <li class="dib pl1"><a class="bg-blog br-100 bs1 fx fx-ai-c fx-jc-c hover-bg-blue pa2 white" href="//blog.ssa.gov/" title="Blog">
+        <svg class="svg1" focusable="false" viewbox="14 12 102 102">
+         <path d="M49.972 47.715c8.346.0 16.19 3.263 22.085 9.187 5.904 5.932 9.156 13.829 9.156 22.236H94.07c0-24.416-19.783-44.281-44.099-44.281v12.858zm.019-22.794c29.74.0 53.937 24.328 53.937 54.23h12.858c0-36.993-29.965-67.089-66.795-67.089v12.859zm20.753 60.594c0 8.048-2.738 14.939-8.212 20.677-5.476 5.738-12.07 8.607-19.787 8.607-7.783.0-14.412-2.852-19.886-8.558-5.475-5.704-8.211-12.614-8.211-20.727V44.259c0-2.77.829-4.913 2.487-6.431 1.659-1.517 3.616-2.275 5.873-2.275 2.255.0 4.212.76 5.871 2.28s2.489 3.667 2.489 6.44v41.322c0 3.37 1.116 6.227 3.349 8.572 2.232 2.345 4.925 3.517 8.079 3.517 3.085.0 5.761-1.175 8.027-3.527 2.266-2.352 3.399-5.216 3.399-8.596.0-3.377-1.039-5.994-3.116-7.85-2.078-1.854-4.897-2.782-8.459-2.782-2.572.0-4.618-.891-6.134-2.672-1.385-1.516-2.078-3.429-2.078-5.737.0-2.242.725-4.205 2.177-5.887 1.45-1.682 3.463-2.522 6.035-2.522 8.177.0 14.905 2.557 20.183 7.667 5.275 5.112 7.914 11.691 7.914 19.737z" vector-effect="non-scaling-stroke"></path>
+        </svg></a></li>
+      <li class="dib pl1"><a class="bg-black br-100 bs1 fx fx-ai-c fx-jc-c hover-bg-blue pa2 white" href="/socialmedia/" title="More Social Media">
+        <svg class="svg1" focusable="false" viewbox="0 0 32 32">
+         <path d="M16 0c.442.0.818.156 1.131.469.313.312.469.69.469 1.131v12.8h12.8c.441.0.819.156 1.131.469.313.312.469.69.469 1.131.0.442-.156.818-.469 1.131a1.54 1.54.0 0 1-1.131.469H17.6v12.8c0 .441-.156.819-.469 1.131A1.54 1.54.0 0 1 16 32a1.54 1.54.0 0 1-1.131-.469A1.54 1.54.0 0 1 14.4 30.4V17.6H1.6a1.54 1.54.0 0 1-1.131-.469A1.54 1.54.0 0 1 0 16c0-.441.156-.819.469-1.131s.69-.469 1.131-.469h12.8V1.6c0-.441.156-.819.469-1.131S15.559.0 16 0z" vector-effect="non-scaling-stroke"></path>
+        </svg></a></li>
+     </ul>
+    </div>
+   </div>
+   <p class="mt3 m-ta-c">This website is produced and published at U.S. taxpayer expense.</p>
+  </footer> 
+  <!-- SCRIPTS --> 
+  <script src="/framework/js/ssa.firefly.body.js"></script>  
+ </body>
+</html>

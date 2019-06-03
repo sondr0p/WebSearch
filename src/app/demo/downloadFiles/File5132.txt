@@ -1,0 +1,1561 @@
+<!doctype html>
+<!--[if lt IE 7 ]> <html lang="en" class="ie6"> <![endif]-->
+<!--[if IE 7 ]> <html lang="en" class="ie7"> <![endif]-->
+<!--[if IE 8 ]> <html lang="en" class="ie8"> <![endif]-->
+<!--[if IE 9 ]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="en">
+ <!--<![endif]-->
+ <head> 
+  <meta charset="utf-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="HandheldFriendly" content="True"> 
+  <meta name="MobileOptimized" content="320"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <link rel="canonical" href="https://www.va.gov/health-care/get-medical-records"> 
+  <meta name="DC.Date" scheme="W3CDTF" content="2019-04-17"> 
+  <meta content="https://www.va.gov//health-care/get-medical-records" property="og:url"> 
+  <meta content="website" property="og:type"> 
+  <!-- Metatags --> 
+  <title>Get Your VA Medical Records Online | Veterans Affairs</title> 
+  <meta name="twitter:card" content="summary_large_image"> 
+  <meta property="og:site_name" content="Veterans Affairs"> 
+  <meta name="twitter:description" content="Get, organize, and share your VA medical records online through our VA Blue Button tool. This can help you communicate better with your health care team. Plus, share your records with non-VA community providers through the Veterans Health Information Exchange (VLER)."> 
+  <meta name="description" content="Get, organize, and share your VA medical records online through our VA Blue Button tool. This can help you communicate better with your health care team. Plus, share your records with non-VA community providers through the Veterans Health Information Exchange (VLER)."> 
+  <meta name="twitter:title" content="Get your VA medical records online | Veterans Affairs"> 
+  <meta name="twitter:site" content="@DeptVetAffairs"> 
+  <meta property="og:title" content="Get your VA medical records online | Veterans Affairs"> 
+  <meta name="keywords" content="va medical records, blue button"> 
+  <meta property="og:description" content="Get, organize, and share your VA medical records online through our VA Blue Button tool. This can help you communicate better with your health care team. Plus, share your records with non-VA community providers through the Veterans Health Information Exchange (VLER)."> 
+  <!-- Icons --> 
+  <link href="https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/img/design/icons/apple-touch-icon.png" rel="apple-touch-icon-precomposed"> 
+  <link href="https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/img/design/icons/apple-touch-icon-72x72.png" rel="apple-touch-icon-precomposed" sizes="72x72"> 
+  <link href="https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/img/design/icons/apple-touch-icon-114x114.png" rel="apple-touch-icon-precomposed" sizes="114x114"> 
+  <link href="https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/img/design/icons/apple-touch-icon-152x152.png" rel="apple-touch-icon-precomposed" sizes="144x144"> 
+  <link rel="shortcut icon" href="https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/img/design/icons/favicon.ico"> 
+  <meta name="msapplication-TileImage" content="/img/design/icons/apple-touch-icon-114x114"> 
+  <meta name="msapplication-TileColor" content="#144073"> 
+  <!-- CSS --> 
+  <link rel="stylesheet" href="https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/generated/style.5ef5f8714ce3d7dfba842d378cd6e79d-1559333960396.css"> 
+  <link rel="stylesheet" href="https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/generated/static-pages.649682b6eca4bd2f98139e3276066b7e-1559333960396.css"> 
+  <!-- Old IE --> 
+  <!--[if lt IE 9]>
+<link rel='stylesheet' href='/assets/css/ie.css'>
+<![endif]--> 
+  <script src="https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/js/record-event.js"></script> 
+  <script src="https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/js/settings.js"></script> 
+  <script defer nomodule="" src="https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/generated/polyfills.entry.a8b6b8befd78c0be884f-1559333960396.js"></script> 
+  <script defer src="https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/generated/vendor.entry.c3cb701f06e757a324c8-1559333960396.js"></script> 
+  <script defer src="https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/generated/static-pages.entry.cf4ec448091abbf2bafc-1559333960396.js"></script> 
+  <!-- We participate in the US government’s analytics program. See the data at analytics.usa.gov. --> 
+  <script async type="text/javascript" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=VA" id="_fed_an_ua_tag"></script> 
+  <script type="text/javascript" nonce="Anjr2GfqQy5vanC77FJbSjxRf5IckibX">
+  window.VetsGov = window.VetsGov || {};
+  window.VetsGov.headerFooter = {
+    "footerData": [
+        {
+            "column": 1,
+            "href": "https://www.va.gov/homeless/",
+            "order": 1,
+            "target": "",
+            "title": "Homeless Veterans"
+        },
+        {
+            "column": 1,
+            "href": "https://www.va.gov/womenvet/",
+            "order": 2,
+            "target": "",
+            "title": "Women Veterans"
+        },
+        {
+            "column": 1,
+            "href": "https://www.va.gov/centerforminorityveterans/",
+            "order": 3,
+            "target": "",
+            "title": "Minority Veterans"
+        },
+        {
+            "column": 1,
+            "href": "https://www.ptsd.va.gov",
+            "order": 4,
+            "target": "",
+            "title": "PTSD"
+        },
+        {
+            "column": 1,
+            "href": "https://www.mentalhealth.va.gov",
+            "order": 5,
+            "target": "",
+            "title": "Mental health"
+        },
+        {
+            "column": 1,
+            "href": "https://www.va.gov/adaptivesports/",
+            "order": 6,
+            "target": "",
+            "title": "Adaptive sports and special events"
+        },
+        {
+            "column": 1,
+            "href": "https://www.nrd.gov",
+            "order": 7,
+            "target": "_blank",
+            "title": "National Resource Directory"
+        },
+        {
+            "column": 2,
+            "href": "https://www.va.gov/vaforms/",
+            "order": 1,
+            "target": null,
+            "title": "Find a VA form"
+        },
+        {
+            "column": 2,
+            "href": "https://www.mobile.va.gov/appstore/",
+            "order": 2,
+            "target": "_blank",
+            "title": "Get VA mobile apps"
+        },
+        {
+            "column": 2,
+            "href": "https://www.va.gov/jobs/",
+            "order": 3,
+            "target": null,
+            "title": "Careers at VA"
+        },
+        {
+            "column": 2,
+            "href": "https://www.va.gov/landing2_business.htm",
+            "order": 4,
+            "target": null,
+            "title": "Doing business with VA"
+        },
+        {
+            "column": 2,
+            "href": "https://www.va.gov/ogc/accreditation.asp",
+            "order": 5,
+            "target": null,
+            "title": "VA claims accreditation"
+        },
+        {
+            "column": 2,
+            "href": "https://www.accesstocare.va.gov/ourproviders/",
+            "order": 6,
+            "target": "_blank",
+            "title": "Find a VA health care provider"
+        },
+        {
+            "column": 2,
+            "href": "https://www.va.gov/vso/",
+            "order": 7,
+            "target": null,
+            "title": "Veterans Service Organizations (VSOs)"
+        },
+        {
+            "column": 2,
+            "href": "https://www.va.gov/statedva.htm",
+            "order": 8,
+            "target": null,
+            "title": "State Veterans Affairs offices"
+        },
+        {
+            "column": 2,
+            "href": "https://www.va.gov/welcome-kit/",
+            "order": 9,
+            "target": null,
+            "title": "Print your VA welcome kit"
+        },
+        {
+            "column": 3,
+            "href": "https://www.blogs.va.gov/VAntage/",
+            "order": 1,
+            "target": "_blank",
+            "title": "VAntage Point blog"
+        },
+        {
+            "column": 3,
+            "href": "https://public.govdelivery.com/accounts/USVA/subscriber/new/",
+            "order": 2,
+            "target": "_blank",
+            "title": "Email updates"
+        },
+        {
+            "column": 3,
+            "href": "https://www.facebook.com/VeteransAffairs",
+            "order": 3,
+            "target": "_blank",
+            "title": "Facebook"
+        },
+        {
+            "column": 3,
+            "href": "https://www.instagram.com/deptvetaffairs/",
+            "order": 4,
+            "target": "_blank",
+            "title": "Instagram"
+        },
+        {
+            "column": 3,
+            "href": "https://www.twitter.com/DeptVetAffairs/",
+            "order": 5,
+            "target": "_blank",
+            "title": "Twitter"
+        },
+        {
+            "column": 3,
+            "href": "https://www.flickr.com/photos/VeteransAffairs/",
+            "order": 6,
+            "target": "_blank",
+            "title": "Flickr"
+        },
+        {
+            "column": 3,
+            "href": "https://www.youtube.com/user/DeptVetAffairs",
+            "order": 7,
+            "target": "_blank",
+            "title": "YouTube"
+        },
+        {
+            "column": 3,
+            "href": "https://www.va.gov/opa/socialmedia.asp",
+            "order": 8,
+            "target": null,
+            "title": "All VA social media"
+        },
+        {
+            "column": 4,
+            "href": "https://www.va.gov/find-locations/",
+            "order": 1,
+            "target": null,
+            "title": "Find a VA location"
+        },
+        {
+            "column": 4,
+            "href": "https://iris.custhelp.va.gov/app/ask",
+            "order": 2,
+            "target": null,
+            "title": "Ask a question"
+        },
+        {
+            "column": 4,
+            "label": "Call MyVA311:",
+            "href": "tel:18446982311",
+            "order": 3,
+            "target": null,
+            "title": "844-698-2311"
+        },
+        {
+            "column": 4,
+            "order": 4,
+            "title": "TTY: 711"
+        },
+        {
+            "column": "bottom_rail",
+            "href": "https://www.section508.va.gov",
+            "order": 1,
+            "target": null,
+            "title": "Accessibility"
+        },
+        {
+            "column": "bottom_rail",
+            "href": "https://www.va.gov/oig/",
+            "order": 2,
+            "target": null,
+            "title": "Office of Inspector General"
+        },
+        {
+            "column": "bottom_rail",
+            "href": "https://www.va.gov/opa/Plain_Language.asp",
+            "order": 3,
+            "target": null,
+            "title": "Plain language"
+        },
+        {
+            "column": "bottom_rail",
+            "href": "https://www.va.gov/privacy-policy/",
+            "order": 4,
+            "target": null,
+            "title": "Privacy, policies, and legal information"
+        },
+        {
+            "column": "bottom_rail",
+            "href": "https://www.va.gov/privacy/",
+            "order": 5,
+            "target": null,
+            "title": "VA Privacy Service office"
+        },
+        {
+            "column": "bottom_rail",
+            "href": "https://www.va.gov/scorecard/",
+            "order": 6,
+            "target": null,
+            "title": "VA.gov scorecard"
+        },
+        {
+            "column": "bottom_rail",
+            "href": "https://www.va.gov/veterans-portrait-project/",
+            "order": 7,
+            "target": null,
+            "title": "Veterans Portrait Project"
+        }
+    ],
+    "megaMenuData": [
+        {
+            "title": "VA Benefits and Health Care",
+            "menuSections": [
+                {
+                    "title": "Health care",
+                    "links": {
+                        "columnOne": {
+                            "title": "Get health care benefits",
+                            "links": [
+                                {
+                                    "text": "About VA health benefits",
+                                    "href": "https://www.va.gov/health-care/about-va-health-benefits/"
+                                },
+                                {
+                                    "text": "How to apply",
+                                    "href": "https://www.va.gov/health-care/how-to-apply/"
+                                },
+                                {
+                                    "text": "Family and caregiver health benefits",
+                                    "href": "https://www.va.gov/health-care/family-caregiver-benefits/"
+                                },
+                                {
+                                    "text": "Apply now for health care",
+                                    "href": "https://www.va.gov/health-care/apply/application"
+                                }
+                            ]
+                        },
+                        "columnTwo": {
+                            "title": "Manage your health",
+                            "links": [
+                                {
+                                    "text": "Refill and track your prescriptions",
+                                    "href": "https://www.va.gov/health-care/refill-track-prescriptions"
+                                },
+                                {
+                                    "text": "Send a secure message to your health care team",
+                                    "href": "https://www.va.gov/health-care/secure-messaging"
+                                },
+                                {
+                                    "text": "Schedule and view VA appointments",
+                                    "href": "https://www.va.gov/health-care/schedule-view-va-appointments/"
+                                },
+                                {
+                                    "text": "View your lab and test results",
+                                    "href": "https://www.va.gov/health-care/view-test-and-lab-results/"
+                                },
+                                {
+                                    "text": "Order hearing aid batteries and prosthetic socks",
+                                    "href": "https://www.va.gov/health-care/order-hearing-aid-batteries-prosthetic-socks/"
+                                }
+                            ]
+                        },
+                        "seeAllLink": {
+                            "text": "health care",
+                            "href": "https://www.va.gov/health-care/"
+                        },
+                        "columnThree": {
+                            "img": {
+                                "src": "https://www.va.gov/img/hub-illustrations/health-care.png",
+                                "alt": "VA Telehealth Services"
+                            },
+                            "link": {
+                                "text": "VA Telehealth Services",
+                                "href": "https://www.telehealth.va.gov/"
+                            },
+                            "description": "Find out how we use telehealth technologies to provide specialty care and health monitoring to Veterans at their local VA clinic or in their own home."
+                        }
+                    }
+                },
+                {
+                    "title": "Disability",
+                    "links": {
+                        "columnOne": {
+                            "title": "Get disability benefits",
+                            "links": [
+                                {
+                                    "text": "Eligibility",
+                                    "href": "https://www.va.gov/disability/eligibility/"
+                                },
+                                {
+                                    "text": "How to file a claim",
+                                    "href": "https://www.va.gov/disability/how-to-file-claim/"
+                                },
+                                {
+                                    "text": "Survivor and dependent compensation (DIC)",
+                                    "href": "https://www.va.gov/burials-memorials/dependency-indemnity-compensation/"
+                                }
+                            ]
+                        },
+                        "columnTwo": {
+                            "title": "Manage your benefits",
+                            "links": [
+                                {
+                                    "text": "Check your claim or appeal status",
+                                    "href": "https://www.va.gov/claim-or-appeal-status/"
+                                },
+                                {
+                                    "text": "View your VA payment history",
+                                    "href": "https://www.va.gov/va-payment-history/"
+                                },
+                                {
+                                    "text": "Upload evidence to support your claim",
+                                    "href": "https://www.va.gov/disability/upload-supporting-evidence/"
+                                },
+                                {
+                                    "text": "File for a VA disability increase",
+                                    "href": "https://www.va.gov/disability/how-to-file-claim/"
+                                },
+                                {
+                                    "text": "File an appeal",
+                                    "href": "https://www.va.gov/disability/file-an-appeal/"
+                                }
+                            ]
+                        },
+                        "seeAllLink": {
+                            "text": "disability",
+                            "href": "https://www.va.gov/disability/"
+                        },
+                        "columnThree": {
+                            "img": {
+                                "src": "https://www.va.gov/img/hub-illustrations/disability.png",
+                                "alt": "Fully Developed Claims Program"
+                            },
+                            "link": {
+                                "text": "Fully Developed Claims Program",
+                                "href": "https://www.va.gov/disability/how-to-file-claim/evidence-needed/fully-developed-claims/"
+                            },
+                            "description": "Use this program to get a faster decision by submitting evidence along with your claim."
+                        }
+                    }
+                },
+                {
+                    "title": "Education and training",
+                    "links": {
+                        "columnOne": {
+                            "title": "Get education benefits",
+                            "links": [
+                                {
+                                    "text": "About GI Bill benefits",
+                                    "href": "https://www.va.gov/education/about-gi-bill-benefits/"
+                                },
+                                {
+                                    "text": "Eligibility",
+                                    "href": "https://www.va.gov/education/eligibility/"
+                                },
+                                {
+                                    "text": "How to apply",
+                                    "href": "https://www.va.gov/education/how-to-apply/"
+                                },
+                                {
+                                    "text": "Vocational Rehabilitation and Employment",
+                                    "href": "https://www.va.gov/careers-employment/vocational-rehabilitation/"
+                                },
+                                {
+                                    "text": "Survivor and dependent education benefits",
+                                    "href": "https://www.va.gov/education/survivor-dependent-benefits/"
+                                }
+                            ]
+                        },
+                        "columnTwo": {
+                            "title": "Manage your benefits",
+                            "links": [
+                                {
+                                    "text": "View your VA payment history",
+                                    "href": "https://www.va.gov/va-payment-history/"
+                                },
+                                {
+                                    "text": "Check your Post-9/11 GI Bill benefits",
+                                    "href": "https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/"
+                                },
+                                {
+                                    "text": "Transfer your Post-9/11 GI Bill benefits",
+                                    "href": "https://www.va.gov/education/transfer-post-9-11-gi-bill-benefits/"
+                                },
+                                {
+                                    "text": "Change your GI Bill school or program",
+                                    "href": "https://www.va.gov/education/change-gi-bill-benefits/"
+                                },
+                                {
+                                    "text": "Change your direct deposit information",
+                                    "href": "https://www.va.gov/change-direct-deposit/"
+                                }
+                            ]
+                        },
+                        "seeAllLink": {
+                            "text": "education",
+                            "href": "https://www.va.gov/education/"
+                        },
+                        "columnThree": {
+                            "img": {
+                                "src": "https://www.va.gov/img/hub-illustrations/education.png",
+                                "alt": "GI Bill School Feedback"
+                            },
+                            "link": {
+                                "text": "GI Bill® Comparison Tool",
+                                "href": "/gi-bill-comparison-tool"
+                            },
+                            "description": "Learn about education programs and compare benefits by school."
+                        }
+                    }
+                },
+                {
+                    "title": "Careers and employment",
+                    "links": {
+                        "columnOne": {
+                            "title": "Get employment benefits",
+                            "links": [
+                                {
+                                    "text": "About Vocational Rehabilitation and Employment",
+                                    "href": "https://www.va.gov/careers-employment/vocational-rehabilitation/"
+                                },
+                                {
+                                    "text": "How to apply",
+                                    "href": "https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply/"
+                                },
+                                {
+                                    "text": "Veteran-owned small business support",
+                                    "href": "https://www.va.gov/careers-employment/veteran-owned-business-support/"
+                                }
+                            ]
+                        },
+                        "columnTwo": {
+                            "title": "Manage your career",
+                            "links": [
+                                {
+                                    "text": "VA transition assistance",
+                                    "href": "https://www.benefits.va.gov/tap/"
+                                },
+                                {
+                                    "text": "CareerScope assessment",
+                                    "href": "https://www.va.gov/careers-employment/careerscope-skills-assessment/"
+                                },
+                                {
+                                    "text": "Find a job",
+                                    "href": "https://www.dol.gov/veterans/findajob/",
+                                    "target": "_blank"
+                                },
+                                {
+                                    "text": "Find VA careers and support",
+                                    "href": "https://www.va.gov/jobs/"
+                                },
+                                {
+                                    "text": "Print your civil service preference letter",
+                                    "href": "https://www.va.gov/records/download-va-letters/"
+                                }
+                            ]
+                        },
+                        "seeAllLink": {
+                            "text": "careers and employment",
+                            "href": "https://www.va.gov/careers-employment/"
+                        },
+                        "columnThree": {
+                            "img": {
+                                "src": "https://www.va.gov/img/hub-illustrations/careers.png",
+                                "alt": "VA for Vets"
+                            },
+                            "link": {
+                                "text": "VA for Vets",
+                                "href": "https://www.vaforvets.va.gov/"
+                            },
+                            "description": "Get help transitioning to a civilian career and matching your skills and experiences to VA job opportunities."
+                        }
+                    }
+                },
+                {
+                    "title": "Pension",
+                    "links": {
+                        "columnOne": {
+                            "title": "Get pension benefits",
+                            "links": [
+                                {
+                                    "text": "Veterans Pension eligibility",
+                                    "href": "https://www.va.gov/pension/eligibility/"
+                                },
+                                {
+                                    "text": "How to apply",
+                                    "href": "https://www.va.gov/pension/how-to-apply/"
+                                },
+                                {
+                                    "text": "Aid and attendance benefits and housebound allowance",
+                                    "href": "https://www.va.gov/pension/aid-attendance-housebound/"
+                                },
+                                {
+                                    "text": "Survivors Pension",
+                                    "href": "https://www.va.gov/pension/survivors-pension/"
+                                },
+                                {
+                                    "text": "Apply now for a Veterans Pension",
+                                    "href": "https://www.va.gov/pension/application/527EZ"
+                                }
+                            ]
+                        },
+                        "columnTwo": {
+                            "title": "Manage your benefits",
+                            "links": [
+                                {
+                                    "text": "Check your claim or appeal status",
+                                    "href": "https://www.va.gov/claim-or-appeal-status/"
+                                },
+                                {
+                                    "text": "View your VA payment history",
+                                    "href": "https://www.va.gov/va-payment-history/"
+                                },
+                                {
+                                    "text": "Change your address",
+                                    "href": "https://www.va.gov/change-address/"
+                                },
+                                {
+                                    "text": "Change your direct deposit information",
+                                    "href": "https://www.va.gov/change-direct-deposit/"
+                                }
+                            ]
+                        },
+                        "seeAllLink": {
+                            "text": "pension",
+                            "href": "https://www.va.gov/pension/"
+                        },
+                        "columnThree": {
+                            "img": {
+                                "src": "https://www.va.gov/img/hub-illustrations/pension.png",
+                                "alt": "Electronic Pension Payments"
+                            },
+                            "link": {
+                                "text": "Get your pension payments electronically",
+                                "href": "https://www.godirect.gov/gpw",
+                                "target": "_blank"
+                            },
+                            "description": "Sign up for direct deposit or a pre-paid debit card."
+                        }
+                    }
+                },
+                {
+                    "title": "Housing assistance",
+                    "links": {
+                        "columnOne": {
+                            "title": "Get home loan benefits",
+                            "links": [
+                                {
+                                    "text": "About VA home loan types",
+                                    "href": "https://www.va.gov/housing-assistance/home-loans/loan-types/"
+                                },
+                                {
+                                    "text": "Check your appeal status",
+                                    "href": "https://www.va.gov/claim-or-appeal-status/"
+                                },
+                                {
+                                    "text": "How to apply for your COE",
+                                    "href": "https://www.va.gov/housing-assistance/home-loans/how-to-apply/"
+                                }
+                            ]
+                        },
+                        "columnTwo": {
+                            "title": "Get Veterans housing grants",
+                            "links": [
+                                {
+                                    "text": "About disability housing grants",
+                                    "href": "https://www.va.gov/housing-assistance/disability-housing-grants/"
+                                },
+                                {
+                                    "text": "Check your SAH claim status",
+                                    "href": "https://www.va.gov/claim-or-appeal-status/"
+                                },
+                                {
+                                    "text": "How to apply for an SAH grant",
+                                    "href": "https://www.va.gov/housing-assistance/disability-housing-grants/how-to-apply/"
+                                }
+                            ]
+                        },
+                        "seeAllLink": {
+                            "text": "housing assistance",
+                            "href": "https://www.va.gov/housing-assistance/"
+                        },
+                        "columnThree": {
+                            "img": {
+                                "src": "https://www.va.gov/img/hub-illustrations/housing.png",
+                                "alt": "National Call Center for Homeless Veterans"
+                            },
+                            "link": {
+                                "text": "National call center for homeless Veterans",
+                                "href": "https://www.va.gov/homeless/nationalcallcenter.asp"
+                            },
+                            "description": "Find out how we can help you or a Veteran you care about connect with VA and local resources 24 hours a day, 7 days a week."
+                        }
+                    }
+                },
+                {
+                    "title": "Life insurance",
+                    "links": {
+                        "columnOne": {
+                            "title": "Get life insurance",
+                            "links": [
+                                {
+                                    "text": "About life insurance options",
+                                    "href": "https://www.va.gov/life-insurance/options-eligibility/"
+                                },
+                                {
+                                    "text": "Benefits for totally disabled or terminally ill policyholders",
+                                    "href": "https://www.va.gov/life-insurance/totally-disabled-or-terminally-ill/"
+                                },
+                                {
+                                    "text": "Beneficiary financial counseling and online will preparation",
+                                    "href": "https://www.benefits.va.gov/insurance/bfcs.asp"
+                                }
+                            ]
+                        },
+                        "columnTwo": {
+                            "title": "Manage your life insurance",
+                            "links": [
+                                {
+                                    "text": "Access your policy online",
+                                    "href": "https://www.va.gov/life-insurance/manage-your-policy/"
+                                },
+                                {
+                                    "text": "Update your beneficiaries",
+                                    "href": "https://www.benefits.va.gov/INSURANCE/updatebene.asp"
+                                },
+                                {
+                                    "text": "File a claim for insurance benefits",
+                                    "href": "https://www.benefits.va.gov/INSURANCE/sglivgli.asp"
+                                },
+                                {
+                                    "text": "Check your appeal status",
+                                    "href": "https://www.va.gov/claim-or-appeal-status/"
+                                }
+                            ]
+                        },
+                        "seeAllLink": {
+                            "text": "life insurance",
+                            "href": "https://www.va.gov/life-insurance/"
+                        },
+                        "columnThree": {
+                            "img": {
+                                "src": "https://www.va.gov/img/hub-illustrations/life-insurance.png",
+                                "alt": "SGLI Online Enrollment System (SOES)"
+                            },
+                            "link": {
+                                "text": "SGLI Online Enrollment System (SOES)",
+                                "href": "https://www.benefits.va.gov/INSURANCE/SOES.asp"
+                            },
+                            "description": "Learn about our new online enrollment system for Servicemembers' Group Life Insurance."
+                        }
+                    }
+                },
+                {
+                    "title": "Burials and memorials",
+                    "links": {
+                        "columnOne": {
+                            "title": "Get burial benefits",
+                            "links": [
+                                {
+                                    "text": "Eligibility",
+                                    "href": "https://www.va.gov/burials-memorials/eligibility/"
+                                },
+                                {
+                                    "text": "Pre-need burial eligibility determination",
+                                    "href": "https://www.va.gov/burials-memorials/pre-need-eligibility/"
+                                },
+                                {
+                                    "text": "Veteran burial allowance",
+                                    "href": "https://www.va.gov/burials-memorials/veterans-burial-allowance/"
+                                },
+                                {
+                                    "text": "Memorial items",
+                                    "href": "https://www.va.gov/burials-memorials/memorial-items/"
+                                },
+                                {
+                                    "text": "Survivor and dependent compensation (DIC)",
+                                    "href": "https://www.va.gov/burials-memorials/dependency-indemnity-compensation/"
+                                }
+                            ]
+                        },
+                        "columnTwo": {
+                            "title": "Plan a burial",
+                            "links": [
+                                {
+                                    "text": "Plan a burial for a family member",
+                                    "href": "https://www.va.gov/burials-memorials/plan-a-burial/"
+                                },
+                                {
+                                    "text": "Schedule a burial in a VA national cemetery",
+                                    "href": "https://www.cem.va.gov/cem/burial_benefits/need.asp"
+                                },
+                                {
+                                    "text": "Find a cemetery",
+                                    "href": "https://www.cem.va.gov/cems/listcem.asp"
+                                },
+                                {
+                                    "text": "Request military records (DD214)",
+                                    "href": "https://www.va.gov/records/get-military-service-records/"
+                                }
+                            ]
+                        },
+                        "seeAllLink": {
+                            "text": "burials and memorials",
+                            "href": "https://www.va.gov/burials-memorials/"
+                        },
+                        "columnThree": {
+                            "img": {
+                                "src": "https://www.va.gov/img/hub-illustrations/burials.png",
+                                "alt": "National Cemetery Administration Mobile Site"
+                            },
+                            "link": {
+                                "text": "National Cemetery Administration mobile site",
+                                "href": "https://m.va.gov/"
+                            },
+                            "description": "Locate a grave, search for cemeteries, and find benefits information and resources from your mobile phone or tablet."
+                        }
+                    }
+                },
+                {
+                    "title": "Records",
+                    "links": {
+                        "columnOne": {
+                            "title": "Get your records",
+                            "links": [
+                                {
+                                    "text": "Get your VA medical records (Blue Button)",
+                                    "href": "https://www.va.gov/health-care/get-medical-records/"
+                                },
+                                {
+                                    "text": "Download your VA benefit letters",
+                                    "href": "https://www.va.gov/records/download-va-letters/"
+                                },
+                                {
+                                    "text": "Learn how to apply for a home loan COE",
+                                    "href": "https://www.va.gov/housing-assistance/home-loans/how-to-apply/"
+                                },
+                                {
+                                    "text": "Get Veteran ID cards",
+                                    "href": "https://www.va.gov/records/get-veteran-id-cards/"
+                                }
+                            ]
+                        },
+                        "columnTwo": {
+                            "title": "Manage your records",
+                            "links": [
+                                {
+                                    "text": "Request your military records (DD214)",
+                                    "href": "https://www.va.gov/records/get-military-service-records/"
+                                },
+                                {
+                                    "text": "Change your address",
+                                    "href": "https://www.va.gov/change-address/"
+                                },
+                                {
+                                    "text": "How to apply for a discharge upgrade",
+                                    "href": "https://www.va.gov/discharge-upgrade-instructions"
+                                },
+                                {
+                                    "text": "View your VA payment history",
+                                    "href": "https://www.va.gov/va-payment-history/"
+                                },
+                                {
+                                    "text": "Search historical military records (National Archives)",
+                                    "href": "https://www.archives.gov/",
+                                    "target": "_blank"
+                                }
+                            ]
+                        },
+                        "seeAllLink": {
+                            "text": "records",
+                            "href": "https://www.va.gov/records/"
+                        },
+                        "columnThree": {
+                            "img": {
+                                "src": "https://www.va.gov/img/hub-illustrations/records.png",
+                                "alt": "Veteran ID Card"
+                            },
+                            "link": {
+                                "text": "Confirm your VA benefit status",
+                                "href": "https://www.va.gov/records/download-va-letters/"
+                            },
+                            "description": "Download letters like your eligibility or award letter for certain benefits."
+                        }
+                    }
+                },
+                {
+                    "title": "Service member benefits",
+                    "text": "Service member benefits",
+                    "href": "https://www.va.gov/service-member-benefits/"
+                },
+                {
+                    "title": "Family member benefits",
+                    "text": "Family member benefits",
+                    "href": "https://www.va.gov/family-member-benefits/"
+                }
+            ]
+        },
+        {
+            "title": "About VA",
+            "menuSections": {
+                "mainColumn": {
+                    "title": "VA organizations",
+                    "links": [
+                        {
+                            "text": "Veterans Health Administration",
+                            "href": "https://www.va.gov/health/"
+                        },
+                        {
+                            "text": "Veterans Benefits Administration",
+                            "href": "https://www.benefits.va.gov/benefits/"
+                        },
+                        {
+                            "text": "National Cemetery Administration",
+                            "href": "https://www.cem.va.gov"
+                        },
+                        {
+                            "text": "VA Leadership",
+                            "href": "https://www.va.gov/opa/bios/index.asp"
+                        },
+                        {
+                            "text": "Public Affairs",
+                            "href": "https://www.va.gov/OPA/index.asp"
+                        },
+                        {
+                            "text": "Congressional Affairs",
+                            "href": "https://www.va.gov/oca/index.asp"
+                        },
+                        {
+                            "text": "All VA offices and organizations",
+                            "href": "https://www.va.gov/landing_organizations.htm"
+                        }
+                    ]
+                },
+                "columnOne": {
+                    "title": "Innovation at VA",
+                    "links": [
+                        {
+                            "text": "Health research",
+                            "href": "https://www.research.va.gov"
+                        },
+                        {
+                            "text": "Public health",
+                            "href": "https://www.publichealth.va.gov"
+                        },
+                        {
+                            "text": "Veterans Choice Program",
+                            "href": "https://www.va.gov/COMMUNITYCARE/programs/veterans/VCP/index.asp"
+                        },
+                        {
+                            "text": "VA open data",
+                            "href": "https://www.data.va.gov",
+                            "target": "_blank"
+                        },
+                        {
+                            "text": "Veterans analysis and statistics",
+                            "href": "https://www.va.gov/VETDATA/index.asp"
+                        },
+                        {
+                            "text": "Appeals modernization",
+                            "href": "https://www.benefits.va.gov/benefits/appeals.asp"
+                        },
+                        {
+                            "text": "VA Innovation Center",
+                            "href": "https://www.innovation.va.gov"
+                        },
+                        {
+                            "text": "Recovery Act",
+                            "href": "https://www.va.gov/recovery/"
+                        }
+                    ]
+                },
+                "columnTwo": {
+                    "title": "Learn about VA",
+                    "links": [
+                        {
+                            "text": "VA mission, vision, and values",
+                            "href": "https://www.va.gov/ABOUT_VA/index.asp"
+                        },
+                        {
+                            "text": "History of VA",
+                            "href": "https://www.va.gov/about_va/vahistory.asp"
+                        },
+                        {
+                            "text": "VA plans, budget, and performance",
+                            "href": "https://www.va.gov/performance/"
+                        },
+                        {
+                            "text": "National cemetery history program",
+                            "href": "https://www.cem.va.gov/cem/history/index.asp"
+                        },
+                        {
+                            "text": "Veterans legacy program",
+                            "href": "https://www.cem.va.gov/cem/legacy/index.asp"
+                        },
+                        {
+                            "text": "Volunteer or donate",
+                            "href": "https://www.volunteer.va.gov/index.asp"
+                        }
+                    ]
+                },
+                "columnThree": {
+                    "img": {
+                        "src": "https://www.va.gov/img/va-financial-report-fy2018.jpeg",
+                        "alt": "Agency Financial Report"
+                    },
+                    "link": {
+                        "text": "Agency financial report",
+                        "href": "https://www.va.gov/finance/afr/index.asp"
+                    },
+                    "description": "View the 2018 report on VA’s progress in providing benefits and health care."
+                }
+            }
+        },
+        {
+            "title": "Find a VA Location",
+            "href": "https://www.va.gov/find-locations/"
+        }
+    ]
+};
+</script> 
+ </head> 
+ <body class=" merger"> 
+  <a class="show-on-focus" href="#content">Skip to Content</a> 
+  <header class="header"> 
+   <div class="incompatible-browser-warning"> 
+    <div class="row full"> 
+     <div class="small-12">
+       Your browser is out of date. To use this website, please 
+      <a href="https://browsehappy.com/" target="_blank" rel="noopener ">update your browser</a> or use a different device. 
+     </div> 
+    </div> 
+   </div> 
+   <div class="va-notice--banner"> 
+    <div class="va-notice--banner-inner"> 
+     <div class="usa-banner"> 
+      <div class="usa-accordion"> 
+       <div class="usa-banner-header"> 
+        <div class="usa-grid usa-banner-inner"> 
+         <img src="https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/img/tiny-usa-flag.png" alt="U.S. flag"> 
+         <p>An official website of the United States government</p> 
+         <button id="usa-banner-toggle" class="usa-accordion-button usa-banner-button" aria-expanded="false" aria-controls="gov-banner"> <span class="usa-banner-button-text">Here’s how you know</span> </button> 
+        </div> 
+       </div> 
+       <div class="usa-banner-content usa-grid usa-accordion-content" id="gov-banner" aria-hidden="true"> 
+        <div class="usa-banner-guidance-gov usa-width-one-half"> 
+         <img class="usa-banner-icon usa-media_block-img" src="https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/img/icon-dot-gov.svg" alt="Dot gov"> 
+         <div class="usa-media_block-body"> 
+          <p> <strong>The .gov means it’s official.</strong> <br> Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site. </p> 
+         </div> 
+        </div> 
+        <div class="usa-banner-guidance-ssl usa-width-one-half"> 
+         <img class="usa-banner-icon usa-media_block-img" src="https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/img/icon-https.svg" alt="SSL"> 
+         <div class="usa-media_block-body"> 
+          <p> <strong>The site is secure.</strong> <br> The <strong>https://</strong> ensures that you're connecting to the official website and that any information you provide is encrypted and sent securely. </p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="va-crisis-line-container"> 
+     <button data-show="#modal-crisisline" class="va-crisis-line va-overlay-trigger" id="nslnvzj"> 
+      <div class="va-crisis-line-inner"> 
+       <span class="va-crisis-line-icon" aria-hidden="true"></span> 
+       <span class="va-crisis-line-text">Talk to the <strong>Veterans Crisis Line</strong> now</span> 
+       <img class="va-crisis-line-arrow" src="https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/img/arrow-right-white.svg" aria-hidden="true"> 
+      </div> </button> 
+    </div> 
+   </div> 
+   <!-- /header alert box --> 
+   <div class="row va-flex usa-grid usa-grid-full" id="va-header-logo-menu"> 
+    <div class="va-header-logo-wrapper"> 
+     <a href="/" class="va-header-logo"> <img src="https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/img/header-logo.png" alt="Go to VA.gov"> </a> 
+    </div> 
+    <div id="va-nav-controls"></div> 
+    <div id="login-root" class="vet-toolbar"></div> 
+   </div> 
+   <div class="usa-grid usa-grid-full"> 
+    <div id="menu-rule" class="usa-one-whole"></div> 
+    <div id="mega-menu"></div> 
+    <!-- for the mega-menu, but if you add the ID the css breaks rn --> 
+   </div> 
+  </header> 
+  <script async src="https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/js/incompatible-browser.js"></script> 
+  <nav aria-label="Breadcrumb" aria-live="polite" class="va-nav-breadcrumbs" id="va-breadcrumbs"> 
+   <ul class="row va-nav-breadcrumbs-list columns" id="va-breadcrumbs-list"> 
+    <li> <a href="/" id="nzopejoq">Home</a> </li> 
+    <li><a href="/health-care">Health care</a></li> 
+    <li><a aria-current="page" href="/health-care/get-medical-records">Get medical records</a></li> 
+   </ul> 
+  </nav> 
+  <div id="content" class="interior"> 
+   <main class="va-l-detail-page"> 
+    <div class="usa-grid usa-grid-full"> 
+     <nav id="va-detailpage-sidebar" data-drupal-sidebar="true" class="va-drupal-sidebarnav usa-width-one-fourth va-sidebarnav"> 
+      <div> 
+       <button class="va-btn-close-icon va-sidebarnav-close" type="button" aria-label="Close this menu"></button> 
+       <div class="left-side-nav-title"> 
+        <i class="icon-small white hub-icon-health-care hub-background-health-care"></i> 
+        <h4>Health care</h4> 
+       </div> 
+       <ul class="usa-accordion"> 
+        <li> <button class="usa-accordion-button" aria-expanded="false" aria-controls="a1">Get benefits</button> 
+         <div id="a1" class="usa-accordion-content" aria-hidden="false"> 
+          <ul class="usa-sidenav-list"> 
+           <li> <a href="/health-care/about-va-health-benefits" id="guwgruk">About VA health benefits</a> 
+            <ul class="usa-sidenav-sub_list"> 
+             <li> <a href="/health-care/about-va-health-benefits/your-care-team" id="gdkfdol">Your care team</a> </li> 
+             <li> <a href="/health-care/about-va-health-benefits/where-you-go-for-care" id="sqpfsxo">Where you'll go for care</a> </li> 
+             <li> <a href="/HEALTHBENEFITS/cost/index.asp" id="eccddoj">Cost of care</a> </li> 
+             <li> <a href="/health-care/about-va-health-benefits/va-health-care-and-other-insurance" id="zkpemjvpa">VA health care and other insurance</a> </li> 
+             <li> <a href="/health-care/about-va-health-benefits/long-term-care" id="iagnbpvlm">Long-term care</a> </li> 
+             <li> <a href="/health-care/about-va-health-benefits/dental-care" id="tqxye">Dental care</a> </li> 
+             <li> <a href="/health-care/about-va-health-benefits/vision-care" id="gqqtjlbm">Vision care</a> 
+              <ul class="usa-sidenav-sub_list"> 
+               <li> <a href="/health-care/about-va-health-benefits/vision-care/blind-low-vision-rehab-services" id="rcwfqcgwf">Blind and low-vision services</a> </li> 
+              </ul> </li> 
+            </ul> </li> 
+           <li> <a href="/health-care/eligibility" id="lspzhlpiqc">Eligibility</a> 
+            <ul class="usa-sidenav-sub_list"> 
+             <li> <a href="/HEALTHBENEFITS/apply/active_duty.asp" id="jjasxhqp">Active-duty service members</a> </li> 
+             <li> <a href="/HEALTHBENEFITS/apply/returning_servicemembers.asp" id="vwelxlagq">Returning service members</a> </li> 
+            </ul> </li> 
+           <li> <a href="/health-care/how-to-apply" id="qbxjcxbpa">How to apply</a> </li> 
+           <li> <a href="/health-care/apply/application" id="ilgzxs">Apply now</a> </li> 
+           <li> <a href="/health-care/after-you-apply" id="ehrukcsko">After you apply</a> </li> 
+           <li> <a href="/health-care/family-caregiver-benefits" id="zuhgcnqs">Family health benefits</a> 
+            <ul class="usa-sidenav-sub_list"> 
+             <li> <a href="/health-care/family-caregiver-benefits/champva" id="oludynxbc">CHAMPVA benefits</a> </li> 
+             <li> <a href="/health-care/family-caregiver-benefits/comprehensive-assistance" id="fkqwuyjkn">Comprehensive assistance for family caregivers</a> </li> 
+            </ul> </li> 
+          </ul> 
+         </div> </li> 
+        <li> <button class="usa-accordion-button" aria-expanded="false" aria-controls="a2">Manage benefits</button> 
+         <div id="a2" class="usa-accordion-content" aria-hidden="false"> 
+          <ul class="usa-sidenav-list"> 
+           <li> <a href="/health-care/refill-track-prescriptions" id="xuetnk">Refill and track prescriptions</a> </li> 
+           <li> <a href="/health-care/secure-messaging" id="xtzwwxgv">Use secure messaging</a> </li> 
+           <li> <a href="/health-care/schedule-view-va-appointments" id="ufikcmgcl">Schedule and view appointments</a> </li> 
+           <li> <a href="/health-care/view-test-and-lab-results" id="gusrfdv">View lab and test results</a> </li> 
+           <li> <a href="/health-care/order-hearing-aid-batteries-prosthetic-socks" id="asfomizdzb">Order hearing aid batteries and prosthetic socks</a> </li> 
+           <li class="active-level"> <a class="usa-current" href="/health-care/get-medical-records" id="ntjsnpuxqt">Get medical records</a> </li> 
+           <li> <a href="/health-care/update-health-information" id="vrisyab">Update health benefits info</a> </li> 
+           <li> <a href="/HEALTHBENEFITS/vtp/Beneficiary_Travel.asp" id="vyljqecn">Get travel pay</a> </li> 
+           <li> <a href="https://www.pay.gov/public/form/start/25987221" id="bsyhfkkxl" target="_blank" rel="noopener ">Make a payment</a> </li> 
+           <li> <a href="/claim-or-appeal-status" id="tkuazijbm">Check appeal status</a> </li> 
+           <li> <a href="/HEALTHBENEFITS/vhic/index.asp" id="wygelyk">Request a health ID card</a> </li> 
+          </ul> 
+         </div> </li> 
+        <li> <button class="usa-accordion-button" aria-expanded="false" aria-controls="a3">More resources</button> 
+         <div id="a3" class="usa-accordion-content" aria-hidden="false"> 
+          <ul class="usa-sidenav-list"> 
+           <li> <a href="/HEALTHBENEFITS/cost/index.asp" id="eqlghmo">Cost of care</a> </li> 
+           <li> <a href="/health-care/health-needs-conditions" id="gusxuw">Health needs and conditions</a> 
+            <ul class="usa-sidenav-sub_list"> 
+             <li> <a href="/health-care/health-needs-conditions/health-issues-related-to-service-era" id="lpqpnik">Health issues related to service era</a> 
+              <ul class="usa-sidenav-sub_list"> 
+               <li> <a href="/health-care/health-needs-conditions/health-issues-related-to-service-era/operation-enduring-freedom" id="vpryifydue">Operation Enduring Freedom</a> </li> 
+               <li> <a href="/health-care/health-needs-conditions/health-issues-related-to-service-era/iraq-war" id="wkdkkdxjf">Iraq War</a> </li> 
+               <li> <a href="/health-care/health-needs-conditions/health-issues-related-to-service-era/gulf-war" id="falspme">Gulf War</a> </li> 
+               <li> <a href="/health-care/health-needs-conditions/health-issues-related-to-service-era/cold-war" id="xkfjatkkf">Cold War Era</a> </li> 
+               <li> <a href="/health-care/health-needs-conditions/health-issues-related-to-service-era/vietnam-war" id="lklyjyvgxi">Vietnam War</a> </li> 
+               <li> <a href="/health-care/health-needs-conditions/health-issues-related-to-service-era/korean-war" id="oyjhzc">Korean War</a> </li> 
+               <li> <a href="/health-care/health-needs-conditions/health-issues-related-to-service-era/world-war-ii" id="zmnzlwc">World War II</a> </li> 
+              </ul> </li> 
+             <li> <a href="/health-care/health-needs-conditions/mental-health" id="eltgc">Mental health</a> 
+              <ul class="usa-sidenav-sub_list"> 
+               <li> <a href="/health-care/health-needs-conditions/mental-health/ptsd" id="kwownf">PTSD</a> </li> 
+               <li> <a href="/health-care/health-needs-conditions/mental-health/depression" id="ptjzbiok">Depression</a> </li> 
+               <li> <a href="/health-care/health-needs-conditions/mental-health/suicide-prevention" id="nmsxqsbfsb">Suicide prevention</a> </li> 
+              </ul> </li> 
+             <li> <a href="/health-care/health-needs-conditions/military-sexual-trauma" id="jrgpjukef">Military sexual trauma</a> </li> 
+             <li> <a href="/health-care/health-needs-conditions/substance-use-problems" id="pxpztd">Substance use problems</a> </li> 
+             <li> <a href="/health-care/health-needs-conditions/chemical-hazardous-materials-exposure" id="knclhdwqho">Exposure to hazardous materials</a> </li> 
+             <li> <a href="/health-care/health-needs-conditions/womens-health-needs" id="ruiddeaj">Women’s health care needs</a> </li> 
+             <li> <a href="/health/topics/index.asp" id="grlbshmyh">Health topics A-Z</a> </li> 
+            </ul> </li> 
+           <li> <a href="https://www.va.gov/healthbenefits/apps/explorer" id="ovvthpugg">Health Benefits Explorer</a> </li> 
+           <li> <a href="/health-care/wellness-programs" id="gmouqq">Wellness programs</a> </li> 
+           <li> <a href="https://www.va.gov/COMMUNITYCARE/programs/veterans/index.asp" id="vbljpvz">Community care</a> </li> 
+           <li> <a href="/health-care/about-affordable-care-act" id="sgwdwno">Affordable Care Act</a> </li> 
+           <li> <a href="https://www.research.va.gov/mvp/" id="kaawyyt">Million Veteran Program</a> </li> 
+           <li> <a href="https://www.accesstocare.va.gov/" id="bmfbzpjw" target="_blank" rel="noopener ">Access and quality in VA health care</a> </li> 
+           <li> <a href="/health/rights/patientrights.asp" id="emwumctcs">Patient rights and responsibilities</a> </li> 
+          </ul> 
+         </div> </li> 
+       </ul> 
+      </div> 
+     </nav> 
+     <div class="usa-width-three-fourths"> 
+      <button type="button" class="va-btn-sidebarnav-trigger" aria-controls="va-detailpage-sidebar"> <span> <b>More in this section</b> 
+        <svg xmlns="http://www.w3.org/2000/svg" width="444.819" height="444.819" viewbox="0 0 444.819 444.819">
+         <path fill="#ffffff" d="M352.025 196.712L165.885 10.848C159.028 3.615 150.468 0 140.185 0s-18.84 3.62-25.696 10.848l-21.7 21.416c-7.045 7.043-10.567 15.604-10.567 25.692 0 9.897 3.52 18.56 10.566 25.98L231.544 222.41 92.785 361.168c-7.04 7.043-10.563 15.604-10.563 25.693 0 9.9 3.52 18.566 10.564 25.98l21.7 21.417c7.043 7.043 15.612 10.564 25.697 10.564 10.09 0 18.656-3.52 25.697-10.564L352.025 248.39c7.046-7.423 10.57-16.084 10.57-25.98.002-10.09-3.524-18.655-10.57-25.698z"></path>
+        </svg> </span> </button> 
+      <script type="text/javascript" nonce="Anjr2GfqQy5vanC77FJbSjxRf5IckibX">
+    var mobileMediaQuery = window.matchMedia('(max-width: 767px)');
+    var element = document.getElementsByClassName("va-btn-sidebarnav-trigger")[0];
+    var offset;
+
+    if (mobileMediaQuery.matches) {
+      offset = element.offsetTop;
+    }
+
+    window.addEventListener("resize", function() {
+      if (mobileMediaQuery.matches) {
+        offset = element.offsetTop;
+      }
+    }, false);
+
+    window.addEventListener("scroll", function() {
+      if (mobileMediaQuery.matches) {
+        if (offset < window.pageYOffset) {
+          element.classList.add("fixed-trigger");
+        } else {
+          element.classList.remove("fixed-trigger");
+        }
+      }
+    }, false);
+</script> 
+      <article class="usa-content"> 
+       <h1>Get your VA medical records online</h1> 
+       <div class="va-introtext"> 
+        <p>Our online tools can help you view, organize, and share your VA medical records and personal health information. Find out if you’re eligible and how to sign in to start using these tools.</p> 
+       </div> 
+       <div class="usa-alert usa-alert-info" role="alert"> 
+        <div class="usa-alert-body"> 
+         <h3 class="usa-alert-heading"> You'll need to go to eBenefits to authorize us to share your health information through the Veterans Health Information Exchange. </h3> 
+        </div> 
+       </div> 
+       <h2>VA Blue Button</h2> 
+       <div class="cta-widget" data-widget-type="cta" data-app-id="health-records"></div> 
+       <h2>More about VA Blue Button</h2> 
+       <div itemscope itemtype="http://schema.org/Question"> 
+        <h3 itemprop="name">What is VA Blue Button, and how can it help me manage my health care?</h3> 
+        <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer"> 
+         <div itemprop="text"> 
+          <p>VA Blue Button is a feature of the health management portal within My HealtheVet. It lets you view, print, save, download, and share information from your VA medical record and personal health record. With this tool, you can better manage your health needs and communicate with your health care team.</p> 
+          <p><strong>With VA Blue Button, you can:</strong></p> 
+          <ul>
+           <li>Download a customized Blue Button report with information from your VA medical records, personal health record, and in some cases your military service record</li> 
+           <li>Download a Health Summary that includes specific information from your VA medical record (like your known allergies, medications, and recent lab results)</li> 
+           <li>Build your own personal health record that includes information like your self-entered medical history, emergency contacts, and medicines</li> 
+           <li>Monitor your vital signs and track your diet and exercise with our online journals</li> 
+           <li>Share a digital copy of the personal health information you entered yourself with your VA health care team through Secure Messaging</li> 
+          </ul> 
+         </div> 
+        </div> 
+       </div> 
+       <div itemscope itemtype="http://schema.org/Question"> 
+        <h3 itemprop="name">Am I eligible to use all the features of VA Blue Button?</h3> 
+        <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer"> 
+         <div itemprop="text"> 
+          <p>You can use all the features of this tool if you meet all of the requirements listed below.</p> 
+          <p><strong>Both of these must be true. You’re:</strong></p> 
+          <ul>
+           <li>Enrolled in VA health care, <strong>and</strong></li> 
+           <li>Registered as a patient in a VA health facility</li> 
+          </ul>
+          <p><a href="/health-care/how-to-apply/">Find out how to apply for VA health care</a></p> 
+          <p><strong>And you must have one of these free accounts:</strong></p> 
+          <ul>
+           <li>An Advanced or Premium <strong>My HealtheVet</strong> account, <strong>or</strong></li> 
+           <li>A Premium <strong>DS Logon</strong> account (used for eBenefits and milConnect), <strong>or</strong></li> 
+           <li>A verified <strong>ID.me</strong> account that you can create here on VA.gov</li> 
+          </ul>
+          <p><a href="https://www.myhealth.va.gov/mhv-portal-web/my-healthevet-offers-three-account-types" target="_blank" rel="noopener ">Learn about the 3 different My HealtheVet account types</a></p> 
+         </div> 
+        </div> 
+       </div> 
+       <div itemscope itemtype="http://schema.org/Question"> 
+        <h3 itemprop="name">Once I’m signed in, how do I get to my medical records?</h3> 
+        <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer"> 
+         <div itemprop="text"> 
+          <p>Go to your Welcome page dashboard, and click on “Health Records.” You’ll go to a new page.</p> 
+          <p>From here, you can choose to access your VA Blue Button report, your VA Health Summary, or your VA Medical Images and Reports.</p> 
+          <p>If you’d like to add information to your personal health record, click on “Track Health” in the blue navigation menu at the top of the page. You’ll go to a new page where you can choose to record information like your vital signs, health history, goals, and food and exercise efforts.</p> 
+         </div> 
+        </div> 
+       </div> 
+       <div itemscope itemtype="http://schema.org/Question"> 
+        <h3 itemprop="name">Will my personal health information be protected?</h3> 
+        <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer"> 
+         <div itemprop="text"> 
+          <p>Yes. This is a secure website. We follow strict security policies and practices to protect your personal health information.</p> 
+          <p>If you print or download anything from the website, you’ll need to take responsibility for protecting that information.<br><a href="https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/protecting-your-personal-health-information" target="_blank" rel="noopener ">Get tips for protecting your personal health information</a></p> 
+         </div> 
+        </div> 
+       </div> 
+       <div itemscope itemtype="http://schema.org/Question"> 
+        <h3 itemprop="name">What if I have more questions?</h3> 
+        <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer"> 
+         <div itemprop="text"> 
+          <p>You can get answers to frequently asked questions about VA Blue Button and related tools within My HealtheVet.<br><a href="https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/faqs#bbtop" target="_blank" rel="noopener ">Read VA Blue Button FAQs</a><br><a href="https://www.myhealth.va.gov/mhv-portal-web/faqs#CCD" target="_blank" rel="noopener ">Read VA Health Summary FAQs</a><br><a href="https://www.myhealth.va.gov/mhv-portal-web/faqs#VAMIR" target="_blank" rel="noopener ">Read VA Medical Images and Reports FAQs</a></p> 
+          <p>You can also contact the My HealtheVet help desk.<br><a href="https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/contact-mhv" target="_blank" rel="noopener ">Find out how to contact us online</a><br> Or call us at <a href="tel:+18773270022">877-327-0022</a> (TTY: <a href="tel:+18008778339">800-877-8339</a>). We’re here Monday through Friday, 7:00 a.m. to 7:00 p.m. CT.</p> 
+         </div> 
+        </div> 
+       </div> 
+       <h2>The Veterans Health Information Exchange</h2> 
+       <div itemscope itemtype="http://schema.org/Question"> 
+        <h3 itemprop="name">What is the Veterans Health Information Exchange, and how can it help me manage my health care?</h3> 
+        <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer"> 
+         <div itemprop="text"> 
+          <p>The Veterans Health Information Exchange (also called the “Virtual Lifetime Electronic Record” or VLER) is a program that lets us share Veteran health information electronically with non-VA community health care providers who are part of our approved trust network.</p> 
+          <p><strong>This can help to:</strong></p> 
+          <ul>
+           <li>Keep your personal health information more secure</li> 
+           <li>Improve your care by helping your providers make more informed decisions</li> 
+           <li>Keep you safe by making sure your providers have up-to-date information, like your current medications and allergies</li> 
+           <li>Save you time and money</li> 
+           <li>Improve how your VA and non-VA providers coordinate your care</li> 
+          </ul>
+          <p>This program is completely voluntary. You decide if we can share your information, and who we can share it with. And you can update your preferences as your needs change.</p> 
+         </div> 
+        </div> 
+       </div> 
+       <div itemscope itemtype="http://schema.org/Question"> 
+        <h3 itemprop="name">Am I eligible to sign up for the Health Information Exchange online?</h3> 
+        <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer"> 
+         <div itemprop="text"> 
+          <p>You can sign up for this service online if you meet all of the requirements listed below.</p> 
+          <p><strong>Both of these must be true. You’re:</strong></p> 
+          <ul>
+           <li>Enrolled in VA health care, <strong>and</strong></li> 
+           <li>Registered as a patient in a VA health facility</li> 
+          </ul>
+          <p><a href="/health-care/how-to-apply/">Find out how to apply for VA health care</a></p> 
+          <p><strong>And you’ll need to have a Premium DS Logon account</strong> (used for eBenefits and milConnect).</p> 
+          <p>If you don’t have a Premium DS Logon account, find out how to create or upgrade an account on eBenefits.<br><a href="https://www.ebenefits.va.gov/ebenefits/vapii" target="_blank" rel="noopener ">Go to eBenefits</a></p> 
+          <p><strong>Note:</strong> We can share information only with participating community care providers who are in our approved trust network.<br><a href="https://www.va.gov/VLER/vler-health-your-area.asp">See the list of our current partners</a></p> 
+         </div> 
+        </div> 
+       </div> 
+       <div itemscope itemtype="http://schema.org/Question"> 
+        <h3 itemprop="name">Once I have a premium eBenefits account, how do I sign up for this service?</h3> 
+        <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer"> 
+         <div itemprop="text"> 
+          <div class="process schemaform-process"> 
+           <ol> 
+            <li class="process-step list-one"> <p>Sign in to eBenefits with your premium account.</p> </li> 
+            <li class="process-step list-two"> <p>Go to “Manage Health.”</p> </li> 
+            <li class="process-step list-three"> <p>Select “Share your VA Medical Records.”</p> </li> 
+            <li class="process-step list-four"> <p>Select “Login to Manage My Consent (Authorizations) and Preferences.” Then select “Start Consent (Authorization).”</p> </li> 
+            <li class="process-step list-five"> <p>Select "Accept the terms and conditions." You must click “Yes” to continue. Then, select “Save and Continue.”</p> </li> 
+            <li class="process-step list-six"> <p>Mark the box and select “Sign.” Then, you'll be asked to re-enter your username and password.</p> </li> 
+            <li class="process-step list-seven"> <p>Click “Reauthenticate.” Note that this next step may take a couple minutes to process.</p> </li> 
+           </ol> 
+          </div> 
+          <p>If you need help, call the eBenefits help desk at <a href="tel:+18009830937">800-983-0937</a>. We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.</p> 
+          <p><strong>Please note:</strong> Signing up may not be the last step in the process. Some providers and states request another consent form to exchange information with us. Please contact your provider or the Release of Information office at your nearest VA medical center to ask about any other consent forms you may need.<br><a href="/find-locations/">Find your nearest VA medical center</a></p> 
+         </div> 
+        </div> 
+       </div> 
+       <div itemscope itemtype="http://schema.org/Question"> 
+        <h3 itemprop="name">Can I sign up for the VA Health Exchange by mail or in person?</h3> 
+        <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer"> 
+         <div itemprop="text"> 
+          <p>Yes. If you’ve received care at a VA health facility, follow the steps below to sign up by mail or in person.</p> 
+          <h3>To sign up by mail</h3> 
+          <p>Fill out, sign, and date a Request for and Authorization to Release Protected Health Information to Health Information Exchanges (VA Form 10-0485).<br><a href="https://www.va.gov/vaforms/medical/pdf/10-0485-fill.pdf">Download VA Form 10-0485</a></p> 
+          <p>Send the completed form to the Release of Information Office at your nearest VA medical center.<br><a href="/find-locations/">Find the address for your nearest VA medical center</a></p> 
+          <h3>To sign up in person</h3> 
+          <p>Visit your nearest VA medical center’s Release of Information Office.</p> 
+          <p>Bring a completed VA Form 10-0485 with you, or ask for a copy to fill out in the office. Give your completed, signed form to an office staff member.</p> 
+         </div> 
+        </div> 
+       </div> 
+       <div itemscope itemtype="http://schema.org/Question"> 
+        <h3 itemprop="name">Will my personal health information be protected?</h3> 
+        <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer"> 
+         <div itemprop="text"> 
+          <p>Yes. The VLER Veterans Health Information Exchange uses secure technology to share information between VA and community health care providers. We share information only with community care providers and organizations that have partnership agreements with us and are part of our approved, trusted network.</p> 
+         </div> 
+        </div> 
+       </div> 
+       <div itemscope itemtype="http://schema.org/Question"> 
+        <h3 itemprop="name">Can I change my mind and ask VA to stop sharing my information?</h3> 
+        <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer"> 
+         <div itemprop="text"> 
+          <p>Yes. You can ask us online, by mail, or in person to stop sharing your information.</p> 
+          <h3>To make your request online</h3> 
+          <div class="process schemaform-process"> 
+           <ol> 
+            <li class="process-step list-one"> <p><a href="https://www.ebenefits.va.gov/" target="_blank" rel="noopener ">Sign in to eBenefits</a></p> </li> 
+            <li class="process-step list-two"> <p>Click “Manage Health.”</p> </li> 
+            <li class="process-step list-three"> <p>Go to “Share your VA Health Record.”</p> </li> 
+            <li class="process-step list-four"> <p>Click “Manage My Authorizations and Preferences.”</p> </li> 
+            <li class="process-step list-five"> <p>Click “Revoke Authorization.”</p> </li> 
+           </ol> 
+          </div> 
+          <h3>To make your request by mail or in person</h3> 
+          <p>Fill out a Revocation for Release of Individually-Identifiable Health Information Through eHealth Exchange (VA Form 10-0484). This is also called a “Stop Sharing” form.<br><a href="https://www.va.gov/VLER/docs/vha100484fillStopSharing.pdf">Download VA Form 10-0484</a></p> 
+          <p>Mail or take this form in person to your nearest VA medical center’s Release of Information Office.<br><a href="/find-locations/">Find your nearest VA medical center</a></p> 
+          <p>You can also ask the office for a copy of this form to fill out. Or you can call our toll-free VLER Health Information line at <a href="tel:+18777718537">877-771-VLER (8537)</a>, Monday through Friday, 7:00 a.m. to&nbsp;7:00 p.m. CT&nbsp;to request a form.</p> 
+         </div> 
+        </div> 
+       </div> 
+       <div itemscope itemtype="http://schema.org/Question"> 
+        <h3 itemprop="name">What if I have more questions?</h3> 
+        <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer"> 
+         <div itemprop="text"> 
+          <p>Call us at <a href="tel:+18777718537">877-771-VLER (8537)</a>. We’re here Monday through Friday, 7:00 a.m. to 7:00 p.m. CT.</p> 
+         </div> 
+        </div> 
+       </div> 
+      </article> 
+      <div class="last-updated usa-content">
+        Last updated: 
+       <time datetime="2019-04-17">April 17, 2019</time> 
+      </div> 
+     </div> 
+    </div> 
+   </main> 
+   <div id="announcement-root"></div> 
+   <footer class="footer" role="contentinfo"> 
+    <div id="footerNav"></div> 
+    <!-- let's try this React thing --> 
+   </footer> 
+   <!-- Begin generic overlay modal --> 
+   <!-- htmllint attr-bans="[]" --> 
+   <!-- Google Tag Manager --> 
+   <script nonce="Anjr2GfqQy5vanC77FJbSjxRf5IckibX">
+    // Always use push with GTM: https://www.simoahava.com/gtm-tips/datalayer-declaration-vs-push/
+    recordEvent({ environment: 'vagovprod' });
+    // We want to know if we are being iframed
+    if ( self !== top ) {
+      recordEvent({ event: 'iframed', embeddedIn: document.referrer});
+    }
+  </script> 
+   <noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WFJWBD" height="0" width="0" class="csp-inline-patch-footer"></iframe>
+   </noscript> 
+   <script async src="https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/js/google-analytics.js"></script> 
+   <!-- End Google Tag Manager --> 
+   <!-- htmllint attr-bans="$previous" --> 
+   <!--
+“To care for him who shall have borne the battle and for his widow, and his orphan.”
+- Abraham Lincoln
+--> 
+   <script type="text/javascript" nonce="Anjr2GfqQy5vanC77FJbSjxRf5IckibX">
+  function footerNavClick(elem) {
+    var eventLabel = 'nav-' + elem.parentElement.parentElement.id;
+    recordEvent({
+      event: eventLabel,
+      navlabel: elem.innerText
+    });
+  }
+</script> 
+   <script type="text/javascript" nonce="Anjr2GfqQy5vanC77FJbSjxRf5IckibX">
+(function() {
+  var widgets = [];
+  var module = {};
+function mountWidgets(widgets, isProduction) {
+  widgets
+    .filter(function (widget) {
+      if (widget.production === false && isProduction) {
+        return false;
+      }
+
+      return true;
+    })
+    .forEach(function (widget) {
+      var root = document.getElementById(widget.root);
+      var timeout = (widget.timeout || 0) * 1000;
+      var slowLoadingThreshold = (widget.slowLoadingThreshold || 6) * 1000;
+      var slowMessage = widget.slowMessage || 'Sorry, this is taking longer than expected.';
+
+      if (!widget.showSpinnerUnauthed) {
+        root.innerHTML = '<div class="loading-indicator-container">' +
+          '<div class="loading-indicator" role="progressbar" aria-valuetext="' + widget.loadingMessage + '"></div>' +
+          '<span class="loading-indicator-message">' + widget.loadingMessage + '</span>' +
+        '</div><span class="static-content"/>';
+      }
+
+      if (timeout > slowLoadingThreshold) {
+        setTimeout(function() {
+          var replacedWithWidget = !root.querySelector('.static-content');
+          if (!replacedWithWidget) {
+            root.querySelector('.loading-indicator-message').innerHTML = slowMessage;
+          }
+        }, slowLoadingThreshold);
+      }
+
+      if (timeout > 0) {
+        setTimeout(function() {
+          var replacedWithWidget = !root.querySelector('.static-content');
+          if (!replacedWithWidget && widget.errorMessage) {
+            root.innerHTML = '<div class="usa-alert usa-alert-error sip-application-error">' +
+              '<div class="usa-alert-body">' + widget.errorMessage + '</div>' +
+            '</div>';
+          } else if (!replacedWithWidget) {
+            root.innerHTML = '';
+          }
+        }, timeout);
+      }
+
+      root.classList.remove('static-page-widget');
+  });
+}
+
+if (module) {
+  module.exports = mountWidgets;
+}
+  mountWidgets(widgets);
+})();
+</script> 
+   <script type="text/javascript" src="https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/js/foresee/vagovprod.js"></script> 
+  </div>
+  <script nonce="Anjr2GfqQy5vanC77FJbSjxRf5IckibX">
+      (function() {
+        document.getElementById('nslnvzj').addEventListener('click', function(ev) { recordEvent({ event: 'nav-crisis-header' }) });
+document.getElementById('nzopejoq').addEventListener('click', function(ev) { recordEvent({ event: 'nav-breadcrumb', 'nav-breadcrumb-section': 'home' }); });
+document.getElementById('guwgruk').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('gdkfdol').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('sqpfsxo').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('eccddoj').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('zkpemjvpa').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('iagnbpvlm').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('tqxye').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('gqqtjlbm').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('rcwfqcgwf').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('lspzhlpiqc').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('jjasxhqp').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('vwelxlagq').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('qbxjcxbpa').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('ilgzxs').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('ehrukcsko').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('zuhgcnqs').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('oludynxbc').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('fkqwuyjkn').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('xuetnk').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('xtzwwxgv').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('ufikcmgcl').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('gusrfdv').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('asfomizdzb').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('ntjsnpuxqt').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('vrisyab').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('vyljqecn').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('bsyhfkkxl').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('tkuazijbm').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('wygelyk').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('eqlghmo').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('gusxuw').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('lpqpnik').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('vpryifydue').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('wkdkkdxjf').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('falspme').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('xkfjatkkf').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('lklyjyvgxi').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('oyjhzc').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('zmnzlwc').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('eltgc').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('kwownf').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('ptjzbiok').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('nmsxqsbfsb').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('jrgpjukef').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('pxpztd').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('knclhdwqho').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('ruiddeaj').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('grlbshmyh').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('ovvthpugg').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('gmouqq').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('vbljpvz').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('sgwdwno').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('kaawyyt').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('bmfbzpjw').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+document.getElementById('emwumctcs').addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); });
+      })();</script>
+ </body>
+</html>

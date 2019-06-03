@@ -1,0 +1,898 @@
+<!doctype html>
+<html lang="en" dir="ltr" prefix="fb: //www.facebook.com/2008/fbml">
+ <head> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <!-- Google Tag Manager --> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-WLMC86');</script> 
+  <!-- End Google Tag Manager --> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <link rel="shortcut icon" href="https://www.archives.gov/files/apple-icon.png" type="image/png"> 
+  <meta name="description" content="Snippet [get-content name=&quot;a-z-index&quot; include-tag=&quot;false&quot; /] AAD (Access to Archival Databases) Abilene, Kansas (Dwight D. Eisenhower Library) About"> 
+  <meta name="generator" content="Drupal 7 (http://drupal.org)"> 
+  <link rel="canonical" href="https://www.archives.gov/global-pages/subject-index.html"> 
+  <meta property="og:site_name" content="National Archives"> 
+  <meta property="og:type" content="article"> 
+  <meta property="og:url" content="https://www.archives.gov/global-pages/subject-index.html"> 
+  <meta property="og:title" content="Subject Index"> 
+  <meta property="og:description" content="Snippet [get-content name=&quot;a-z-index&quot; include-tag=&quot;false&quot; /] AAD (Access to Archival Databases) Abilene, Kansas (Dwight D. Eisenhower Library) About"> 
+  <meta property="og:updated_time" content="2019-05-24T14:52:42-04:00"> 
+  <meta name="twitter:card" content="summary"> 
+  <meta name="twitter:url" content="https://www.archives.gov/global-pages/subject-index.html"> 
+  <meta name="twitter:title" content="Subject Index"> 
+  <meta name="twitter:description" content="Snippet [get-content name=&quot;a-z-index&quot; include-tag=&quot;false&quot; /] AAD (Access to Archival Databases) Abilene, Kansas (Dwight D. Eisenhower Library) About"> 
+  <meta property="article:published_time" content="2019-05-24T14:50:59-04:00"> 
+  <meta property="article:modified_time" content="2019-05-24T14:52:42-04:00"> 
+  <title>Subject Index | National Archives</title> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_9Q-k-fv_k3FHvcs9CSZ2iD5CTqFxrfaej2FCw2mYIoA.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_BTbypzlNYVbptuza8qzKwXCnB4TjuEzUY43Cz2FsXVA.css" media="all"> 
+  <style>.section-theme #title-bar{background:#29393b url("") no-repeat center right;}.section-theme #mega-footer > h2{background:#29393b}.section-theme #title-bar .breadcrumb{background-color:rgba(93,131,138,0.5);}.section-theme th{background-color:#29393b !important;}
+</style> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_NkrvYXS3XFN6HNXLylk-Jr8h6vd7bMQSZUSOsRKtvhE.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_adYIwY5AiFQ05gx1uTxNpkKu9JMeTmi7MedA-D3wWww.css" media="all"> 
+  <!-- HTML5 element support for IE6-8 --> 
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]--> 
+  <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic|Merriweather"> 
+  <script src="https://www.archives.gov/files/js/js_0RyHJ63yYLuaWsodCPCgSD8dcTIA0dqcDf8-7c2XdBw.js"></script> 
+  <script src="https://www.archives.gov/files/js/js_0pQJ_xts95IaRyXneDD9tPnYjBy63RQPzNHeLe2LDCg.js"></script> 
+  <script src="https://www.archives.gov/files/js/js_4DGuaDZ5Ckd4u9axaS2f90X-RYp7QlC5RWbsjSLu2-8.js"></script> 
+  <script src="https://www.archives.gov/files/js/js_KyGDO1Fxjv5b9iLtei_bvtKprP3C83MXZ8wgYXbj8bA.js"></script> 
+  <script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"nara","theme_token":"uHQ93b6pdw_4K3NyXNvuQvbNVNCNN0i_JMq8E7FeH1s","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/custom\/archives_ui\/scripts\/helptext.js":1,"sites\/all\/modules\/custom\/argentina\/js\/script.js":1,"sites\/all\/modules\/custom\/nara_catalog\/js\/script.js":1,"sites\/all\/modules\/contrib\/user_alert\/js\/user-alert.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/custom\/nara_custom\/js\/nara_custom.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/affix.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/alert.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/button.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/carousel.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/collapse.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/dropdown.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/modal.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/tooltip.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/popover.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/scrollspy.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/tab.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/transition.js":1,"sites\/all\/themes\/nara\/scripts\/jPanelMenu.js":1,"sites\/all\/themes\/nara\/scripts\/jRespond.js":1,"sites\/all\/themes\/nara\/scripts\/matchHeight.min.js":1,"sites\/all\/themes\/nara\/scripts\/jquery.fancybox.pack.js":1,"sites\/all\/themes\/nara\/scripts\/toc.js":1,"sites\/all\/themes\/nara\/scripts\/scripts.js":1,"sites\/all\/themes\/nara\/scripts\/jquery.scrollTo.js":1,"sites\/all\/themes\/nara\/scripts\/mediagallery.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/custom\/archives_ui\/css\/font-awesome.min.css":1,"sites\/all\/modules\/custom\/archives_ui\/css\/helptext.css":1,"sites\/all\/modules\/custom\/archives_ui\/css\/ckeditor_custom.css":1,"sites\/all\/modules\/custom\/argentina\/css\/argentina_style.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/custom\/liaisons\/css\/liaisons_style.css":1,"sites\/all\/modules\/custom\/nara_catalog\/css\/nara-api-style.css":1,"sites\/all\/modules\/archive_features\/nara_timeline\/css\/custom.css":1,"sites\/all\/modules\/archive_features\/nara_timeline\/css\/timeline.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/user_alert\/css\/user-alert.css":1,"sites\/all\/modules\/custom\/varnish_purge\/css\/varnishpurge.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"0":1,"sites\/all\/modules\/custom\/nara_custom\/css\/nara_custom.css":1,"sites\/all\/themes\/nara\/css\/jquery.fancybox.css":1,"sites\/all\/themes\/nara\/css\/jquery.fancybox-thumbs.css":1,"sites\/all\/themes\/nara\/css\/do_not_edit.css":1,"sites\/all\/themes\/nara\/css\/bootstrap.min.css":1,"sites\/all\/themes\/nara\/css\/styles.css":1,"sites\/all\/themes\/nara\/css\/vertical-tabs.css":1,"sites\/all\/themes\/nara\/css\/overrides.css":1,"sites\/all\/themes\/nara\/css\/mediagallery.css":1}},"archives_ui":{"trustedDomains":["twitter\\.com","youtube\\.com","youtu\\.be","recordsofrights\\.org","presidentialtimeline\\.org","nationalarchivesstore\\.org","bush41\\.org","nara\\.learn\\.com","bush41\\.org","bushlibrary\\.tamu\\.edu","fdrlibrary\\.marist\\.edu","georgewbushlibrary\\.smu\\.edu","lbjlibrary\\.org","trumanlibrary\\.org","fdrlibrary\\.org","archivesfoundation\\.org","jfklibrary\\.org","Myarchivesstore\\.org","docsteach\\.org","digitalvaults\\.org","jfk50\\.org","reagan\\.utexas\\.edu","clinton\\.presidentiallibraries\\.us","fdrlibrary\\.org","us11\\.campaign-archive.?\\.com","lbjlibrary\\.net","github\\.io","github\\.com","eventbrite\\.com","facebook\\.com","pinterest\\.com","tumblr\\.com","google\\.com","historypin\\.org","giphy\\.com","instagram\\.com","flickr\\.com","foursquare\\.com","addthis\\.com","apple\\.com","georgebushfoundation\\.org","clintonpresidentialcenter\\.org","geraldrfordfoundation\\.org","reaganfoundation\\.org","rooseveltinstitute\\.org","socialarchive\\.iath\\.virginia.edu","s3\\.amazonaws\\.com","surveymonkey\\.com","storify\\.com","constantcontact\\.com","snaccooperative\\.org"]},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"user_alert":{"url_prefix":"","current_path":"global-pages\/subject-index.html"},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script> 
+  <style type="text/css">
+div.form-item-body-und-0-format {
+	display:none;
+}
+div.form-item-field-col-b-und-0-format {
+	display:none;
+}
+div.filter-guidelines {
+	display:none;
+}
+div.filter-help {
+	display:none;
+}
+</style> 
+  <style type="text/css">
+ul.nav-tabs {
+display:none;
+}
+#block-workbench-block {
+display:none;
+}
+</style> 
+ </head> 
+ <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-70281 node-type-3-col-page "> 
+  <!-- Google Tag Manager (noscript) --> 
+  <noscript>
+   <iframe alt="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-WLMC86" height="0" width="0" style="display:none;visibility:hidden" title="Google Tag Manager"></iframe>
+  </noscript> 
+  <!-- End Google Tag Manager (noscript) --> 
+  <div id="background-gradient"> 
+   <div class="wrapper section-theme "> 
+    <a class="back-to-top" href="#page-header" style="display: none;">Top</a> 
+    <div id="skip-link"> 
+     <a href="#main-col" class="element-invisible element-focusable">Skip to main content</a> 
+    </div> 
+    <div class="wrapper section-theme"> 
+     <header id="page-header"> 
+      <div class="region region-header"> 
+       <section id="block-block-53" class="block block-block clearfix"> 
+        <div class="col-sm-6" id="logo-wrapper"> 
+         <div id="logo">
+          <a href="/">The U.S. National Archives Home</a>
+         </div> 
+         <button id="nav-toggle" class="navbar-toggle" type="button"></button> 
+        </div> 
+        <div class="col-sm-6" id="search-wrapper"> 
+         <div id="top-links"> 
+          <a class="noBorder" href="/social-media/blogs.html">Blogs</a> · 
+          <script type="text/javascript">// <![CDATA[
+        var addthis_pub = "usarchives";
+        var addthis_offset_left = -40;
+        var addthis_brand = "Archives.gov";
+        // ]]></script> 
+          <a class="addthisLink" onclick="return addthis_sendto();" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]');" onmouseout="addthis_close();" onfocus="return addthis_open(this, '', '[URL]', '[TITLE]');" onblur="addthis_close();" href="https://www.addthis.com/bookmark.php?v=250">Bookmark/Share</a> · 
+          <script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js"></script> 
+          <a href="/contact">Contact Us</a> 
+         </div> 
+         <div class="input-group" id="site-search"> 
+          <form action="https://search.archives.gov/search" method="get" name="search"> 
+           <input class="form-control" id="qt" accesskey="s" type="text" name="query" placeholder="Search Archives.gov" title="Search Archives.gov"> 
+           <span class="input-group-btn"> <button class="btn btn-default" id="go" type="submit" name="submit">Search</button> </span> 
+           <input type="hidden" value="" name="utf8"> 
+           <input id="affiliate" type="hidden" value="national-archives" name="affiliate"> 
+          </form> 
+         </div> 
+        </div> 
+       </section> 
+      </div> 
+     </header> 
+     <!-- /#page-header --> 
+     <nav id="main-nav" class="clearfix "> 
+      <h2 class="element-invisible">Main menu</h2>
+      <ul id="main-menu-links" class="links clearfix make-eq">
+       <li class="menu-859 first research"><a href="/research" title="Explore our nation's history through our documents, photographs, and records." id="research">Research Our Records</a></li> 
+       <li class="menu-860 veterans"><a href="/veterans" title="Request military records and learn about other services for yourself or a family member." id="veterans" class="veterans">Veterans' Service Records</a></li> 
+       <li class="menu-861 teachers"><a href="/education" title="Engage students with lesson plans and other classroom materials." id="teachers" class="teachers">Educator Resources</a></li> 
+       <li class="menu-862 locations"><a href="/locations" title="Plan a trip to a facility near you or learn about our national network of locations and services." id="locations" class="locations">Visit Us</a></li> 
+       <li class="menu-367 last shop"><a href="/founding-docs" title="Order books, gift items, photographic prints, and document reproductions online." id="shop" class="shop">America's Founding Documents</a></li> 
+      </ul> 
+     </nav>
+     <!-- /main-nav --> 
+     <div class="page-body-wrapper"> 
+      <div id="page-body" class="no-sidebar"> 
+       <header id="title-bar"> 
+        <p>U.S. National Archives and Records Administration</p> 
+        <div class="breadcrumb"> 
+         <a href="/">Home</a> &gt; Subject Index 
+        </div>
+        <!-- /breadcrumbs --> 
+       </header> 
+       <div class="row"> 
+        <nav class="col-sm-2"> 
+         <aside id="sidebar-first"> 
+          <nav id="left-menu" class=""> 
+           <h3>Using our Website</h3> 
+           <ul> 
+            <li><a href="/contact/index.html">Contact Us</a></li> 
+            <li><a href="/global-pages/accessibility.html">Accessibility</a></li> 
+            <li><a href="/global-pages/privacy.html">Privacy &amp; Use</a></li> 
+           </ul> 
+          </nav> 
+         </aside> 
+         <!-- /#sidebar-first --> 
+        </nav> 
+        <div id="main-col" class="col-sm-10"> 
+         <p id="print-logo"> <img src="/sites/all/themes/nara/images/nara-print-logo.jpg" alt="National Archives Logo"> </p> 
+         <div class="region region-content"> 
+          <section id="block-system-main" class="block block-system clearfix"> 
+           <h1>Subject Index</h1> 
+           <div class="nwidget nsnippet" data-name="a-z-index" data-version="1"> 
+            <div class="widget-placeholder">
+             Snippet
+            </div> 
+            <div class="dynamic-widget"> 
+             <ul class="pagination a-z-index"> 
+              <li> <a href="#A" title="A">A</a></li> 
+              <li> <a href="#B" title="B">B</a></li> 
+              <li> <a href="#C" title="C">C</a></li> 
+              <li> <a href="#D" title="D">D</a></li> 
+              <li> <a href="#E" title="E">E</a></li> 
+              <li> <a href="#F" title="F">F</a></li> 
+              <li> <a href="#G" title="G">G</a></li> 
+              <li> <a href="#H" title="H">H</a></li> 
+              <li> <a href="#I" title="I">I</a></li> 
+              <li> <a href="#J" title="J">J</a></li> 
+              <li> <a href="#K" title="K">K</a></li> 
+              <li> <a href="#L" title="L">L</a></li> 
+              <li> <a href="#M" title="M">M</a></li> 
+              <li> <a href="#N" title="N">N</a></li> 
+              <li> <a href="#O" title="O">O</a></li> 
+              <li> <a href="#P" title="P">P</a></li> 
+              <li> <a href="#Q" title="Q">Q</a></li> 
+              <li> <a href="#R" title="R">R</a></li> 
+              <li> <a href="#S" title="S">S</a></li> 
+              <li> <a href="#T" title="T">T</a></li> 
+              <li> <a href="#U" title="U">U</a></li> 
+              <li> <a href="#V" title="V">V</a></li> 
+              <li> <a href="#W" title="W">W</a></li> 
+              <li> <a href="#X" title="W">X</a></li> 
+              <li> <a href="#Y" title="Y">Y</a></li> 
+              <li> <a href="#Z" title="Z">Z</a></li> 
+             </ul> 
+            </div> 
+           </div> 
+           <p><a href="http://aad.archives.gov/aad/" id="A"><strong>AAD</strong></a> (Access to Archival Databases)</p> 
+           <p><strong>Abilene, Kansas (<a href="http://www.eisenhower.archives.gov/">Dwight D. Eisenhower Library</a>) </strong></p> 
+           <p><strong>About</strong></p> 
+           <p class="indent"><a href="http://aad.archives.gov/aad/">Access to Archival Databases</a> (AAD)<br> <a href="/research/alic/">Archives Library Information Center</a> (ALIC)<br> <a href="/legislative/cla/">Center for Legislative Archives</a> (CLA)<br> <a href="/congress/contact.html">Congressional Affairs Office</a><br> <a href="/era/">Electronic Records Archives</a> (ERA)<br> <a href="/frc/">Federal Records Centers</a> (FRC)<br> <a href="/legal/">General Counsel</a><br> <a href="/research/genealogy/index.html">Genealogy Research</a><br> <a href="/isoo/">Information Security Oversight Office</a> (ISOO)<br> <a href="/iwg/">Interagency Working Group</a> (IWG)<br> <a href="/about/">National Archives</a><br> <a href="/locations/">Nationwide Locations</a><br> <a href="/nhprc/">NHPRC</a> (National Historical Publications and Records Commission)<br> <a href="http://www.nixonlibrary.gov/">Nixon Presidential Materials</a><br> <a href="/oig/">Office of the Inspector General</a> (OIG)<br> <a href="/research/catalog/">National Archives Catalog</a> (OPA)<br> <a href="/preservation/">Preservation</a><br> <a href="/presidential-libraries/">Presidential Library System</a><br> <a href="/press/">Public Affairs</a><br> <a href="/publications/">Publications</a><br> <a href="/congress/">Services to Members of Congress</a></p> 
+           <p><a href="/about/"><strong>About Us</strong></a></p> 
+           <p><a href="/global-pages/accessibility.html"><strong>Accessibility</strong></a></p> 
+           <p><a href="http://aad.archives.gov/aad/"><strong>Access to Archival Databases</strong></a><strong> (AAD)</strong></p> 
+           <p><a href="/research/accessions/index.html"><strong>Accessions and Openings of Records</strong></a></p> 
+           <p><a href="/frc/acct-reps.html"><strong>Account Representatives</strong></a></p> 
+           <p><a href="/locations/affiliated-archives.html"><strong>Affiliated Archives</strong></a></p> 
+           <p class="indent"><a href="/locations/affiliated-archives.html#library-of-congress">Library of Congress, Prints and Photographs Division</a> (Washington, DC)<br> <a href="/locations/affiliated-archives.html#national-park-service">National Park Service, HABS/HAER Division</a> (Washington, DC)<br> <a href="/locations/affiliated-archives.html#santa-fe">New Mexico State Records Center and Archives</a> (Santa Fe, NM)<br> <a href="/locations/affiliated-archives.html#oklahoma">Oklahoma Historical Society</a> (Oklahoma City, OK)<br> <a href="/locations/affiliated-archives.html#pennsylvania-state-archives">Pennsylvania State Archives, Bureau of Archives and History</a> (Harrisburg, PA)<br> <a href="/locations/affiliated-archives.html#gpo">U.S. Government Printing Office</a> (Washington, DC)<br> <a href="/locations/affiliated-archives.html#us-military-academy">U.S. Military Academy Archives</a> (West Point, NY)<br> <a href="/locations/affiliated-archives.html#us-naval-ac%09ademy">U.S. Naval Academy Archives - William W. Jeffries Memorial Archives</a> (Annapolis, MD)<br> <a href="/locations/affiliated-archives.html#yellowstone">Yellowstone National Park Archives</a> (Yellowstone National Park, WY)</p> 
+           <p><a href="/eeo/policy/affirmative-employment-program.html"><strong>Affirmative Employment Program Plan</strong></a></p> 
+           <p><a href="/research/african-americans/"><strong>African American Records</strong></a></p> 
+           <p><strong><a href="/research/alic/">ALIC</a> (Archives Library Information Center)</strong></p> 
+           <p><a href="/amending-america/"><strong>Amending America</strong></a></p> 
+           <p><strong>American Indian Records</strong> (<em>see</em> <a href="/research/native-americans/">Native American Records</a>)</p> 
+           <p><strong><a href="/seattle/anchorage-project">National Archives at Anchorage, Alaska</a> </strong></p> 
+           <p><strong>Annapolis, Maryland ( <a href="/locations/affiliated-archives.html#us-naval-academy">U.S. Naval Academy Archives - William W. Jeffries Memorial Archives</a>)</strong></p> 
+           <p><strong>Ann Arbor, Michigan</strong> <strong>( <a href="http://www.fordlibrarymuseum.gov/">Gerald R. Ford Library</a>)</strong></p> 
+           <p><strong><a href="/nhprc/annotation/">Annotation</a> (NHPRC newsletter)</strong></p> 
+           <p><a href="/about/plans-reports/performance-plan/"><strong>Annual Performance Plans</strong></a></p> 
+           <p><a href="/about/plans-reports/performance-accountability/"><strong>Annual Performance Reports</strong></a></p> 
+           <p><strong>Annual Reports</strong></p> 
+           <p class="indent"><a href="/about/plans-reports/fair-act/">FAIR Act Report</a><br> <a href="/about/plans-reports/fair-act/oig.html">Inspector General's FAIR Act Report</a><br> <a href="/isoo/reports/">ISOO Annual Reports</a><br> <a href="/about/plans-reports/performance-accountability/">National Archives Annual Reports</a></p> 
+           <p><a href="/oig/"><strong>Annual Work Plan</strong></a></p> 
+           <p><a href="/grants/"><strong>Apply for a Grant</strong></a></p> 
+           <p><a href="/careers/"><strong>Apply for a Job</strong></a></p> 
+           <p><strong>Appraisal</strong> (<em>see</em> <a href="/preservation/">Preservation</a> and <a href="/records-mgmt/">Records Management</a>)</p> 
+           <p><a href="/research/start/by-format.html#maps"><strong>Architectural Records</strong></a></p> 
+           <p><a href="http://aad.archives.gov/aad/"><strong>Archival Databases</strong></a></p> 
+           <p><strong>Archival Storage</strong> (<em>see</em> <a href="/frc/">Federal Records Center</a> and <a href="/preservation/">Preservation</a>)</p> 
+           <p><strong><a href="/research/alic/reference/archives-resources/">Archival Training</a></strong></p> 
+           <p><strong><a href="/research/alic/">Archives Library Information Center</a> (ALIC)</strong></p> 
+           <p><a href="/about/history/archivists/"><strong>Archivist of the United States</strong></a></p> 
+           <p><a href="/about/speeches/"><strong>Archivist's Speeches</strong></a></p> 
+           <p><strong>Arkansas, Little Rock</strong> (<em>see</em> <a href="http://www.clintonlibrary.gov/">William J. Clinton Presidential Library and Museum</a>)</p> 
+           <p><strong>Art Looting</strong> (<em>see</em> <a href="/research/holocaust/">Holocaust-Era Assets</a>)</p> 
+           <p><strong>Art Provenance</strong> (<em>see</em> <a href="/research/holocaust/">Holocaust-Era Assets</a>)</p> 
+           <p><a href="/research/jfk/"><strong>Assassination Records</strong></a> (John Fitzgerald Kennedy)</p> 
+           <p><strong>Assets</strong> (<em>see</em> <a href="/research/holocaust/">Holocaust-Era Assets</a>)</p> 
+           <p><strong><a href="/atlanta/index.html">National Archives at Atlanta, Georgia</a> </strong></p> 
+           <p><strong>Audio</strong> (<em>see</em> <a href="/preservation/">Preservation</a>)</p> 
+           <p><strong><a href="/publications/av-records.html">Audiovisual Records</a></strong></p> 
+           <p><a href="/oig/audits.html"><strong>Audits</strong></a></p> 
+           <p><strong>Authorities</strong> (<em>see</em> <a href="/about/laws/">Basic Laws and Authorities</a>)</p> 
+           <p>&nbsp;</p> 
+           <p><a href="/research/court-records/bankruptcy.html" id="B"><strong>Bankruptcy Records</strong></a></p> 
+           <p><a href="/about/laws/"><strong>Basic Laws and Authorities</strong></a></p> 
+           <p><strong>Best Practices</strong> (<em>see</em> <a href="/records-mgmt/">Records Management</a> and <a href="/isoo/">ISOO</a>)</p> 
+           <p><strong>Bibliographies</strong></p> 
+           <p class="indent"><a href="/research/alic/reference/pathfinders.html">General</a><br> <a href="/research/holocaust/bibliographies/">Holocaust-Era Assets</a><br> <a href="/research/holocaust/bibliographies/">Interagency Working Group</a> (IWG)</p> 
+           <p><a href="/exhibits/charters/bill_of_rights.html"><strong>Bill of Rights</strong></a></p> 
+           <p><a href="/records-mgmt/meetings/"><strong>Bimonthly Records and Information Discussion Group</strong></a> <strong>(BRIDG)</strong></p> 
+           <p><a href="/faqs/#borrowing"><strong>Borrowing National Archives Materials</strong></a></p> 
+           <p><strong>Boston, Massachusetts</strong> <strong>( <a href="http://www.jfklibrary.org/">John Fitzgerald Kennedy Library and Museum</a>)</strong></p> 
+           <p><a href="/boston/index.html"><strong>National Archives at Boston</strong></a></p> 
+           <p><strong>Bound volumes</strong> (<em>see</em> <a href="/preservation/">Preservation</a>)</p> 
+           <p><a href="/records-mgmt/meetings/"><strong>BRIDG</strong></a> <strong>(Bimonthly Records and Information Discussion Group)</strong></p> 
+           <!--<p><strong>Briefing Booklet</strong> (<em>see</em> )</p>--> 
+           <p><strong>Bush, George H. W.</strong> (<em>see</em> <a href="http://bushlibrary.tamu.edu/">George Bush Presidential Library and Museum</a>)</p> 
+           <p>&nbsp;</p> 
+           <p><a href="/calendar/" id="C"><strong>Calendar of Events</strong></a></p> 
+           <p><a href="/san-francisco/index.html"><strong>California, San Francisco</strong></a></p> 
+           <p><a href="/careers/"><strong>Careers at the National Archives</strong></a></p> 
+           <p><strong>Carter, Jimmy</strong> (<em>see</em> <a href="http://www.jimmycarterlibrary.gov/">Jimmy Carter Library and Museum</a>)</p> 
+           <p><a href="/research/start/by-format.html#maps"><strong>Cartographic Records</strong></a></p> 
+           <p><strong>Catalog, Online</strong> (<em>see</em> <a href="/research/catalog/">National Archives Catalog (OPA)</a>)</p> 
+           <p><strong>Catalog, Library</strong> (<em>see</em> <a href="/research/alic/">ALIC</a>)</p> 
+           <p><strong><a href="/publications/microfilm-catalogs.html">Catalog, Microfilm</a></strong></p> 
+           <p><strong>Catalogs of Publications </strong>(<em>see</em> <a href="/publications/">Publications</a>)</p> 
+           <p><strong>CCC</strong> (<em>see</em> <a href="/research/guide-fed-records/groups/035.html">Civilian Conservation Corps</a>)</p> 
+           <p><a href="/research/census/"><strong>Census</strong></a></p> 
+           <p><a href="/philadelphia/index.html"><strong>Center City Philadelphia, Pennsylvania</strong></a></p> 
+           <p><strong><a href="/legislative/cla/">Center for Legislative Archives</a> (CLA)</strong> (<em>see also</em> <a href="/congress/">Services for Members of Congress</a>)</p> 
+           <!--<p><strong>Centers Information Processing System</strong> (<em>see</em> <strong><a href="/frc/cips/">CIPS</a></strong>) </p> --> 
+           <p><strong>CFR</strong> (<em>see</em> <a href="/federal-register/cfr/">Code of Federal Regulations</a>)</p> 
+           <p><a href="/exhibits/charters/charters.html"><strong>Charters of Freedom</strong></a></p> 
+           <p><strong><a href="/chicago/contact/directions-il.html">Chicago, Illinois</a></strong></p> 
+           <p><strong>Citing</strong></p> 
+           <p class="indent"><a href="/publications/general-info-leaflets/17-citing-records.html">Primary Sources</a><br> <a href="/legislative/research/citation.html">Congressional Records</a></p> 
+           <p><a href="/research/military/civil-war/"><strong>Civil War, (American)</strong></a></p> 
+           <p><a href="/research/guide-fed-records/groups/035.html"><strong>Civilian Conservation Corps</strong></a></p> 
+           <p><a href="/st-louis/civilian-personnel/"><strong>Civilian Personnel Records</strong></a></p> 
+           <p><strong>CLA</strong> (<em>see</em> <a href="/legislative/cla/">Center for Legislative Archives</a>)</p> 
+           <p><strong>Claims</strong> (<em>see</em> <a href="/research/holocaust/">Holocaust-Era Assets</a>)</p> 
+           <p><strong><a href="/isoo/policy-documents/eo-12958-amendment.html">Classified National Security Information Directive</a></strong></p> 
+           <p><a href="/iwg/"><strong>Classified Records</strong></a> <strong>(IWG)</strong></p> 
+           <p><strong><a href="http://www.clintonlibrary.gov/archivesearch.html">Clinton White House Websites</a></strong></p> 
+           <p><strong>Clinton, William J.</strong> (<em>see</em> William J. Clinton Presidential Library and Museum)</p> 
+           <p><a href="/federal-register/cfr/"><strong>Code of Federal Regulations</strong></a> <strong>(CFR)</strong></p> 
+           <p><strong>Collaborations</strong> (<em>see</em> <a href="/digitization/digitized-by-partners.html">Partnerships</a> and <a href="/nae/education/collaboration.html">Digital Classroom</a>)</p> 
+           <p><strong>College Park, Maryland</strong> <strong>( <a href="/dc-metro/college-park/">National Archives</a>)</strong></p> 
+           <p><strong><a href="/rocky-mountain/">Colorado, Denver</a></strong> <strong>(Rocky Mountain Region)</strong></p> 
+           <p><strong>Comments</strong> (<em>see</em> <a href="/comment/">Opportunities for Public Comment</a> and <a href="/contact/inquire-form.html">Main Inquire Form</a>)</p> 
+           <p><a href="/legislative/finding-aids/reference/index.html"><strong>Committee Resource Guides</strong></a></p> 
+           <p><a href="/eeo/policy/complaint-process.html"><strong>Complaint Process</strong></a> <strong>(EEO)</strong></p> 
+           <p><a href="/contact/inquire-form.html"><strong>Complaints</strong></a></p> 
+           <p><a href="/contact/inquire-form.html"><strong>Compliments</strong></a></p> 
+           <p><strong>Conferences</strong></p> 
+           <p class="indent"><a href="/preservation/conferences/">Preservation</a></p> 
+           <p><strong>Congress</strong> (<em>see</em> <a href="/congress/">Services to Members of Congress</a>)</p> 
+           <p><a href="/legislative/"><strong>Congressional Records</strong></a></p> 
+           <p><strong>Conservation</strong> (<em>see</em> <a href="/preservation/">Preservation</a>)</p> 
+           <p><strong><a href="/exhibits/charters/constitution.html">Constitution</a></strong></p> 
+           <!-- <p><a href="/education/constitution-community.html"><strong>Constitution Community</strong></a></p> --> 
+           <p><a href="/education/lessons/constitution-day/"><strong>Constitution Day</strong></a></p> 
+           <p><strong>Contact Information</strong> (Use the National Archives' <a href="/contact/inquire-form.html">Main Inquire Form</a> to contact us by email.)</p> 
+           <p class="indent"><a href="/research/catalog/">National Archives Catalog</a> (OPA)<br> <a href="/research/alic/">Archives Library Information Center</a> (ALIC)<br> <a href="/legislative/cla/contact.html">Center for Legislative Archives</a> (CLA)<br> <a href="/education/">Digital Classroom</a><br> <a href="/eeo/contact/">Equal Employment Opportunity</a> (EEO)<br> <a href="/legal/contact.html">General Counsel</a><br> <a href="/federal-register/contact.html">Federal Register</a><br> <a href="/isoo/contact/">Information Security Oversight Office</a> (ISOO)<br> <a href="/research/holocaust/contact.html">Holocaust-Era Assets</a><br> <a href="/nhprc/contact.html">NHPRC</a><br> <a href="http://www.nixonlibrary.gov/visit/index.php">Nixon Library</a><br> <a href="/oig/contact.html">Office of the Inspector General</a> (OIG)<br> <a href="/preservation/contact.html">Preservation</a><br> <a href="/presidential-libraries/contact/">Presidential Libraries</a><br> <a href="/press/contact.html">Public Affairs</a><br> <a href="/records-mgmt/contact.html">Records Management</a></p> 
+           <p><a href="/research/order/"><strong>Copies, How to Order</strong></a></p> 
+           <p><a href="/faqs/#copyright"><strong>Copyright</strong></a></p> 
+           <p><a href="/research/court-records/"><strong>Court Records</strong></a></p> 
+           <p class="indent"><a href="/research/alic/customer-service-center.html">ALIC Customer Service</a><br> <a href="/st-louis/military-personnel/">National Personnel Records Center Customer Service</a></p> 
+           <p><a href="/about/customer-service/standards.html"><strong>Customer Service Standards</strong></a></p> 
+           <p><a id="D"></a></p> 
+           <p><strong>Databases</strong> (<em>see</em> <a href="http://aad.archives.gov/aad/">AAD</a> <a href="/research/alic/tools/online-public-access-catalog.html">—</a> <a href="http://aad.archives.gov/aad/">Access to Archival Databases</a> and <a href="/research/alic/tools/online-public-access-catalog.html">Online Public Access Catalog—Library</a>)</p> 
+           <p><a href="/veterans/military-service-records/about-service-records.html"><strong>DD Form 214</strong></a></p> 
+           <p><a href="/exhibits/charters/declaration.html"><strong>Declaration of Independence</strong></a></p> 
+           <p><strong><a href="/declassification/ndc/index.html">Declassification</a></strong></p> 
+           <p><strong>Declassified Records</strong> (<em>see</em> <a href="/iwg/declassified-records/">IWG</a> and <a href="/research/holocaust/">Holocaust-Era Assets</a>)</p> 
+           <p><strong><a href="/denver/">National Archives at Denver</a></strong></p> 
+           <p><a href="/education/"><strong>Digital Classroom</strong></a> (<em>see also</em> <a href="/global-pages/subject-index.html#e">Education</a>)</p> 
+           <p><strong>Digital Copies of Documents and Photos</strong> (<em>see</em> <a href="/research/catalog/">National Archives Catalog</a>)</p> 
+           <p><strong>Digital Images</strong> (<em>see</em> <a href="/preservation/">Preservation</a> and <a href="/research/catalog/">National Archives Catalog</a>)</p> 
+           <p class="indent"><a href="/research/african-art/">Contemporary African Art</a><br> <a href="/research/military/american-revolution/pictures/">Revolutionary War</a><br> <a href="/research/military/navy-ships/">U.S. Navy Ships (1775-1941)</a></p> 
+           <p><strong><a href="/digitization/">Digitization</a></strong></p> 
+           <p class="indent"><a href="/digitization/partnerships.html">Digitization Partnerships</a><br> <a href="/digitization/plan.html">Digitization Plan and Strategies</a><br> <a href="/digitization/resources.html">Additional Digitization Resources</a></p> 
+           <p><a href="/iwg/declassified-records/"><strong>Disclosure</strong></a></p> 
+           <p><strong>Disposition</strong> (<em>see</em> <a href="/records-mgmt/">Records Management</a>)</p> 
+           <p><strong>District of Columbia</strong> (<em>see</em> <strong> <a href="/dc-metro/washington/">National Archives</a> and <a href="/federal-register/contact.html">The Federal Register</a> and <a href="/locations/affiliated-archives.html#library-of-congress">Library of Congress, Prints and Photographs Division</a> and <a href="/locations/affiliated-archives.html#national-park-service">National Park Service, HABS/HAER Division</a> and <a href="/locations/affiliated-archives.html#gpo">U. S. Government Printing Office</a>)</strong></p> 
+           <p><a href="/eeo/policy/diversity-program.html"><strong>Diversity Policy</strong></a></p> 
+           <p><a href="/federal-register/write/handbook/"><strong>Document Drafting Handbook</strong></a></p> 
+           <p><strong><a href="/records-mgmt/publications/documenting-your-public-service.html">Documenting Your Public Service</a></strong></p> 
+           <p><a href="/historical-docs/"><strong>Documents, Historical</strong></a></p> 
+           <p><a href="http://www.archivesfoundation.org/"><strong>Donations</strong></a></p> 
+           <p><a href="http://www.eisenhower.archives.gov/"><strong>Dwight D. Eisenhower Library</strong></a></p> 
+           <p><a id="E"></a></p> 
+           <p><strong>Education</strong> (<em>see</em> <a href="/education/">For Educators and Students</a>)</p> 
+           <p><strong>Education</strong></p> 
+           <p class="indent"><a href="http://www.ed.gov/free/" rel="gb_page_center[640, 510]">Federal Resources</a><br> Materials (<em>see</em> <a href="/isoo/">ISOO</a>)<br> <a href="/presidential-libraries/programs/">Programs at Presidential Libraries</a></p> 
+           <p><a href="/eeo/"><strong>EEO</strong></a> <strong>(Equal Employment Opportunity)</strong></p> 
+           <p><a href="/records-mgmt/initiatives/erm-overview.html"><strong>E-Government</strong></a></p> 
+           <p><strong>Eisenhower, Dwight D.</strong> (<em>see</em> <a href="http://www.eisenhower.utexas.edu/">Dwight D. Eisenhower Library</a>)</p> 
+           <p><a href="/federal-register/electoral-college/"><strong>Electoral College</strong></a></p> 
+           <p><a href="/research/electronic-records/"><strong>Electronic Records</strong></a></p> 
+           <p><a href="/era/"><strong>Electronic Records Archives</strong></a> <strong>(ERA) </strong></p> 
+           <p><a href="/records-mgmt/initiatives/erm-overview.html"><strong>Electronic Records Management</strong></a></p> 
+           <p><a href="/records-mgmt/policy/electronic-signature-technology.html"><strong>Electronic Signatures</strong></a></p> 
+           <p><a href="/nae/education/workshops/video.html"><strong>Electronic (Video) Workshops</strong></a></p> 
+           <p><a href="/exhibits/featured-documents/emancipation-proclamation"><strong>Emancipation Proclamation</strong></a></p> 
+           <p><a href="/preservation/records-emergency"><strong>Emergency Preparedness</strong></a></p> 
+           <p><a href="/about/organization/employee-locator.html"><strong>Employee Locator</strong></a></p> 
+           <p><a href="/careers/"><strong>Employment at the National Archives</strong></a></p> 
+           <p><a href="/eeo/laws/"><strong>Equal Employment Opportunity Laws</strong></a></p> 
+           <p><strong><a href="/eeo/policy/">Equal Employment Opportunity Policy</a></strong></p> 
+           <p><a href="/eeo/about-eeo.html"><strong>Equal Employment Opportunity Program</strong></a></p> 
+           <p><a href="/era/"><strong>ERA</strong></a> <strong>(Electronic Records Archives)</strong></p> 
+           <p><a href="/veterans/military-service-records/"><strong><em>e</em>VetRecs</strong></a> <strong>(Request Copies of Military Personnel Records)</strong></p> 
+           <p><a href="/research/start/by-organization.html"><strong>Executive Agency Records</strong></a></p> 
+           <p><a href="/federal-register/executive-orders/"><strong>Executive Orders</strong></a></p> 
+           <p><a href="/exhibits/"><strong>Exhibit Hall</strong></a></p> 
+           <p><a id="F"></a></p> 
+           <p><a href="/locations/"><strong>Facilities</strong></a></p> 
+           <p class="indent"><a href="/locations/">Records Centers Facilities</a><br> <a href="/locations/">Records Management Facilities</a><br> <a href="/locations/">Regional Archives</a></p> 
+           <p><a href="/press/factsheet.html"><strong>Factsheet on the National Archives</strong></a></p> 
+           <p><strong>Family Archives</strong> (<em>see</em> <a href="/preservation/">Preservation</a>)</p> 
+           <p><strong>Family History</strong> (<em>see</em> <a href="/research/genealogy/index.html">Genealogy</a>)</p> 
+           <p><strong><a href="/faqs/">FAQs</a> (Frequently Asked Questions)</strong></p> 
+           <p class="indent"><a href="/federal-register/publications/faqs.html">Federal Register</a><br> <a href="/research/genealogy/start-research/faqs.html">Genealogy</a><br> <a href="/faqs/">NARA</a><br> <a href="/nhprc/apply/faqs.html">NHPRC</a><br> <a href="/presidential-libraries/faqs/">Presidential Libraries</a><br> <a href="/records-mgmt/">Records Management</a></p> 
+           <p><a href="/records-mgmt/policy/fast-track.html"><strong>Fast Track Guidance Development Project</strong></a></p> 
+           <p><a href="/frc/"><strong>Federal Records Centers</strong></a> <strong>(FRC)</strong></p> 
+           <p><a href="/federal-register/"><strong>Federal Register</strong></a></p> 
+           <p><a href="/records-mgmt/policy/web-harvest-snapshot.html"><strong>Federal Website Snapshots</strong></a></p> 
+           <p><a href="/research/guides/catalog-film-sound-video.html"><strong>Film</strong></a></p> 
+           <p><strong>Finding Aids</strong> (<em>see</em> <a href="/publications/finding-aids.html">Publications</a> and <a href="/iwg/finding-aids/">IWG</a>)</p> 
+           <p><a href="/faqs/#finding-people"><strong>Finding People</strong></a></p> 
+           <p><a href="/foia/"><strong>FOIA</strong></a> <strong>(Freedom of Information Act)</strong></p> 
+           <p><strong>Ford, Gerald R.</strong> (<em>see</em> <a href="/presidential-libraries/visit/ford.html">Gerald R. Ford Library and Museum</a>)</p> 
+           <p><a href="/faqs/#formats"><strong>Formats of Records</strong></a></p> 
+           <p><strong>Forms</strong></p> 
+           <p class="indent"><a href="/veterans/military-service-records/about-service-records.html">DD Form 214</a><br> <a href="/contact/inquire-form.html">Inquire Form</a> ( <a href="/contact/">Contact the National Archives</a>)<br> <a href="/veterans/military-service-records/standard-form-180.html">Standard Form 180</a> (SF 180, Military Records Requests)<br> <a href="/isoo/security-forms/">Standard Security Forms</a></p> 
+           <p>&nbsp;</p> 
+           <p><strong><a href="/fort-worth/index.html">National Archives at Fort Worth, Texas</a> </strong></p> 
+           <p><strong>Forum</strong> (<em>see</em> <a href="/frc/">Records Center Program</a>)</p> 
+           <p><a href="http://www.archivesfoundation.org/"><strong>National Archives Foundation</strong></a></p> 
+           <p><strong><a href="/exhibits/charters/">Founding Documents</a></strong></p> 
+           <p><a href="http://www.fdrlibrary.marist.edu/"><strong>Franklin D. Roosevelt Library and Digital Archives</strong></a></p> 
+           <p><a href="/frc/"><strong>FRC</strong></a> <strong>(Federal Records Centers)</strong></p> 
+           <p><a href="/frc/acct-reps.html"><strong>FRC Account Representatives</strong></a></p> 
+           <p><strong>Freedom of Information Act</strong> (<em>see</em> <a href="/foia/">FOIA</a>)</p> 
+           <p><strong>Frequently Asked Questions</strong> (<em>see</em> <a href="/faqs/">FAQs</a>)</p> 
+           <p><a id="G"></a></p> 
+           <p><a href="/research/genealogy"><strong>Genealogy</strong></a></p> 
+           <p class="indent"><a href="/research/african-americans/">African American Records</a><br> <a href="/research/immigration/">Immigration Records and Passenger Lists</a><br> <a href="/research/military/genealogy.html">Military Records</a><br> <a href="/research/native-americans/">Native American Records</a><br> <a href="/research/naturalization/">Naturalization Records</a></p> 
+           <p><strong><a href="/legal/">General Counsel</a></strong></p> 
+           <p><a href="/publications/general-info-leaflets/"><strong>General Information Leaflets</strong></a> <strong>(GILs)</strong></p> 
+           <p><strong>General Records Schedules</strong> (<em>see</em> <a href="/records-mgmt/grs/">GRS</a>)</p> 
+           <p><strong><a href="http://bushlibrary.tamu.edu/">George Bush Presidential Library and Museum</a></strong></p> 
+           <p><strong><a href="/atlanta/index.html">Georgia, Atlanta</a> (Southeast Region)</strong></p> 
+           <p><a href="http://www.fordlibrarymuseum.gov/"><strong>Gerald R. Ford Library and Museum</strong></a></p> 
+           <p><a href="/research/holocaust/articles-and-papers/german-administration-of-american-companies.html"><strong>German Administration of American Companies</strong></a></p> 
+           <p><strong>GILS</strong> (<em>see</em> <a href="/publications/general-info-leaflets/">General Information Leaflets</a> and <a href="/records-mgmt/policy/gils.html">Government Information Locator Service</a>)</p> 
+           <p><a href="/st-louis/civilian-personnel/"><strong>Government Employment Records</strong></a></p> 
+           <p><a href="http://www.access.gpo.gov/su_docs/gils/gils.html" rel="gb_page_center[640, 510]"><strong>Government Information Locator Service</strong></a> <strong>(GILS) </strong></p> 
+           <p><a href="/research/alic/reference/govt-docs.html"><strong>Government Publications</strong></a></p> 
+           <p><strong>Grand Rapids, Michigan </strong> <strong>( <a href="http://www.fordlibrarymuseum.gov/">Gerald R. Ford Museum</a>)</strong></p> 
+           <!-- <p><a href="/nhprc/apply/program.html"><strong>Grant Programs</strong></a></p> --> 
+           <p><strong><a href="/grants/">Grants</a></strong> (<em>see</em> <a href="/nhprc/">NHPRC</a> and <a href="/presidential-libraries/about/grants.html">Presidential Libraries</a>)</p> 
+           <p><a href="/records-mgmt/grs/"><strong>GRS</strong></a> <strong>(General Records Schedules)</strong></p> 
+           <p><a href="/presidential-libraries/research/guide.html"><strong>Guide to Presidential Documents on National Archives Websites</strong></a></p> 
+           <p><strong>Guides</strong> (<em>see</em> <a href="/publications/">Publications</a>)</p> 
+           <p><a id="H"></a></p> 
+           <p><strong>HABS (Historic American Buildings Survey)</strong> (<em>see</em> <a href="/locations/affiliated-archives.html#national-park-service">HABS/HAER</a>)</p> 
+           <p><a href="/locations/affiliated-archives.html#national-park-service"><strong>HABS/HAER Division, National Park Service</strong></a> <strong>(Affiliated Archives, Washington, DC)</strong></p> 
+           <p><strong>HAER (Historic American Engineering Record)</strong> (<em>see</em> <a href="/locations/affiliated-archives.html#national-park-service">HABS/HAER</a>)</p> 
+           <p><strong>Harrisburg, Pennsylvania ( <a href="/locations/affiliated-archives.html#pennsylvania-state-archives">Pennsylvania State Archives, Bureau of Archives and History</a>)</strong></p> 
+           <p><a href="http://hoover.archives.gov/"><strong>Herbert Hoover Library</strong></a></p> 
+           <p><a href="http://www.nationalhistoryday.org/" rel="gb_page_center[640, 510]"><strong>History Day</strong></a></p> 
+           <p><strong><a href="/about/history/building.html">History of the National Archives building, Washington, DC</a></strong></p> 
+           <p><strong>“ <a href="/education/research/history-in-the-raw.html">History in the Raw</a>”</strong></p> 
+           <p><a href="/research/"><strong>Holdings, National Archives´</strong></a></p> 
+           <p><a href="/research/holocaust/"><strong>Holocaust-Era Assets</strong></a></p> 
+           <p><strong>Homeland Security</strong> (<em>see</em> <a href="/research/notices/access-and-terrorism.html">Records of Concern</a>)</p> 
+           <p><a href="/publications/general-info-leaflets/67-land-entry-files.html"><strong>Homestead Application</strong></a></p> 
+           <p><strong>Hoover, Herbert</strong> (<em>see</em> <a href="http://hoover.archives.gov/">Herbert Hoover Library</a>)</p> 
+           <p><strong>Hotline</strong> (<em>see</em> <a href="/oig/hotline.html">OIG Hotline</a>)</p> 
+           <p><strong>Hours</strong> (<em>see</em> <a href="/locations/">National Archives Facilities</a>)</p> 
+           <p><strong>Hyde Park, New York </strong> <strong>( <a href="http://www.fdrlibrary.marist.edu/">Franklin D. Roosevelt Presidential Library and Museum</a>)</strong></p> 
+           <p><a id="I"></a></p> 
+           <p><a href="/research/guide-fed-records/groups/134.html"><strong>ICC</strong></a> <strong>(Interstate Commerce Commission)</strong></p> 
+           <p><strong><a href="/chicago/contact/directions-il.html">Illinois, Chicago</a> (Great Lakes Region)</strong></p> 
+           <p><a href="/global-pages/privacy.html#copyright"><strong>Images, Permission to Use</strong></a></p> 
+           <p><a href="/research/immigration/"><strong>Immigration</strong></a> (Records and Passenger Lists)</p> 
+           <p><strong>Independence, Missouri </strong> <strong>( <a href="https://www.trumanlibrary.org/">Truman Presidential Library and Museum</a>)</strong></p> 
+           <p><a href="/research/investigations/special-prosecutors-indept-counsels.html"><strong>Independent Counsels</strong></a></p> 
+           <p><strong>Indexes</strong> (<em>see</em> <a href="/publications/">Publications</a>)</p> 
+           <p><a href="/about/info-qual/"><strong>Information Quality</strong></a></p> 
+           <p><a href="/about/info-qual/guidelines.html"><strong>Information Quality Guidelines</strong></a></p> 
+           <p><a href="/isoo/"><strong>Information Security Oversight Office</strong></a> <strong>(ISOO) </strong></p> 
+           <p><strong>Inspector General</strong> (<em>see</em> <a href="/oig/">OIG</a>)</p> 
+           <p><strong>Interagency Security Classification Appeals Panel</strong> (<em>see</em> <a href="/isoo/iscap/">ISCAP</a>)</p> 
+           <p><strong><a href="/iwg/">Interagency Working Group</a> (IWG)</strong></p> 
+           <p><strong><a href="/careers/internships/">Internships</a></strong></p> 
+           <p><a href="/research/guide-fed-records/groups/134.html"><strong>Interstate Commerce Commission</strong></a> <strong>(ICC) </strong></p> 
+           <p><strong>Inventories</strong> (<em>see</em> <a href="/publications/">Publications</a>)</p> 
+           <p><a href="/oig/investigations.html"><strong>Investigations</strong></a></p> 
+           <p><strong>Iowa, West Branch ( <a href="http://hoover.archives.gov/">Herbert Hoover Library</a>)</strong></p> 
+           <p><a href="/research/investigations/walsh.html"><strong>Iran/Contra</strong></a></p> 
+           <p><strong><a href="/isoo/iscap/">ISCAP</a> (Interagency Security Classification Appeals Panel)</strong></p> 
+           <p><a href="/isoo/"><strong>ISOO</strong></a> <strong>(Information Security Oversight Office) </strong></p> 
+           <p><a href="/iwg/"><strong>IWG</strong></a> <strong>(Interagency Working Group)</strong></p> 
+           <p><a id="J"></a></p> 
+           <p><a href="/iwg/"><strong>Japanese Imperial Government Records</strong></a></p> 
+           <p><a href="http://www.jimmycarterlibrary.gov/"><strong>Jimmy Carter Library and Museum</strong></a></p> 
+           <p><a href="http://www.jfklibrary.org/"><strong>John Fitzgerald Kennedy Library and Museum</strong></a></p> 
+           <p><strong>Johnson, Lyndon Baines</strong> (<em>see</em> <a href="http://www.lbjlib.utexas.edu/">Lyndon Baines Johnson Library and Museum</a>)</p> 
+           <p><strong><a href="/exhibits/charters/declaration_join_the_signers.html">Join the Signers!</a></strong></p> 
+           <p><a id="K"></a></p> 
+           <p><strong>Kansas, Abilene ( <a href="http://www.eisenhower.utexas.edu/">Dwight D. Eisenhower Library</a>) </strong></p> 
+           <p><a href="/frc/lenexa"><strong>Kansas, Lenexa</strong></a></p> 
+           <p><a href="/kansas-city/"><strong>National Archives at Kansas City, Missouri</strong></a></p> 
+           <p><strong>Kennedy, John F.</strong> (<em>see</em> <a href="http://www.jfklibrary.org/">John Fitzgerald Kennedy Library and Museum</a> and <a href="/research/jfk/">Assassination Records</a>)</p> 
+           <p><a id="L"></a></p> 
+           <p><strong>Laws</strong></p> 
+           <p class="indent"><a href="/about/laws/">Basic Laws and Authorities</a><br> <a href="/federal-register/">Federal Laws and Regulations</a><br> <a href="/federal-register/laws/">Public Laws</a></p> 
+           <p><a href="/about/"><strong>Learn about the National Archives</strong></a></p> 
+           <p><a href="/frc/lees-summit/"><strong>Lee's Summit, Missouri </strong></a></p> 
+           <p><strong>Legislation</strong> (<em>see</em> <a href="/research/holocaust/">Holocaust-Era Assets</a>)</p> 
+           <p><strong>Legislative Archives</strong> (<em>see</em> <a href="/legislative/cla/">Center for Legislative Archives</a>)</p> 
+           <p><a href="/frc/lenexa/"><strong>Lenexa, Kansas</strong></a>)</p> 
+           <p><strong>Library</strong> (<em>see</em> <a href="/research/alic/">ALIC</a> and <a href="/presidential-libraries/">Presidential Libraries</a> and <a href="/research/alic/reference/virtual-library.html">Virtual Library</a>)</p> 
+           <p><a href="/research/alic/tools/online-public-access-catalog.html"><strong>Library Catalog</strong></a></p> 
+           <p><a href="/locations/affiliated-archives.html#library-of-congress"><strong>Library of Congress, Prints and Photographs Division</strong></a><strong> (Affiliated Archives, Washington, DC)</strong></p> 
+           <p><strong>Little Rock, Arkansas</strong> (<em>see</em> <a href="http://www.clintonlibrary.gov/">William J. Clinton Presidential Library and Museum</a>)</p> 
+           <p><strong><a href="/locations/">Locations and Hours</a></strong></p> 
+           <p class="indent"><a href="/research/alic/visit/index.html">ALIC</a> (Archives Library Information Center)<br> <a href="/federal-register/contact.html">Federal Register</a><br> <a href="/presidential-libraries/visit/">Presidential Libraries</a></p> 
+           <p><strong>Locator</strong> (<em>see</em> <a href="/about/organization/employee-locator.html">Employee Locator</a>)</p> 
+           <p><strong>Locator, Microfilm</strong> (<em>see</em> <a href="/research/start/by-format.html#microfilm">Microfilm Locator</a>)</p> 
+           <p><a href="http://www.lbjlib.utexas.edu/"><strong>Lyndon Baines Johnson Library and Museum</strong></a></p> 
+           <p><a id="M"></a><br> 
+            <!-- <p><a href="/research/alic/reference/archives-resources/"><strong>Management Resources</strong></a></p> --></p> 
+           <p><a class="pdfImage" href="/files/isoo/training/marking-booklet.pdf"><strong>Marking Booklet</strong></a></p> 
+           <p><strong>Maryland, Annapolis ( <a href="/locations/affiliated-archives.html#us-naval-academy">U.S. Naval Academy Archives - William W. Jeffries Memorial Archives</a>)</strong></p> 
+           <p><strong>Maryland, College Park</strong> <strong>( <a href="/dc-metro/college-park/">National Archives</a>)</strong></p> 
+           <p><strong>Maryland, Suitland</strong> <strong>( <a href="/dc-metro/suitland/">Washington National Records Center</a>)</strong></p> 
+           <p><strong>Massachusetts, Boston</strong> <strong>( <a href="http://www.jfklibrary.org/">John Fitzgerald Kennedy Library and Museum</a>)</strong></p> 
+           <p><strong><a href="/frc/pittsfield/">Massachusetts, Pittsfield</a> </strong></p> 
+           <p><strong><a href="/boston/index.html">Massachusetts, Waltham</a></strong></p> 
+           <p><strong>Materials</strong> (<em>see</em> <a href="/preservation/">Preservation</a>)</p> 
+           <p><a href="/research/alic/policies.html"><strong>Memorial Books</strong></a></p> 
+           <p><strong>Michigan, Ann Arbor</strong> <strong>( <a href="http://www.fordlibrarymuseum.gov/">Gerald R. Ford Library</a>)</strong></p> 
+           <p><strong>Michigan, Grand Rapids </strong> <strong>( <a href="http://www.fordlibrarymuseum.gov/">Gerald R. Ford Museum</a>)</strong></p> 
+           <p><strong>Microfilm</strong> (<em>see</em> <a href="/preservation/">Preservation</a>)</p> 
+           <p><strong><a href="/publications/microfilm-catalogs.html">Microfilm Catalog</a></strong></p> 
+           <p><a href="/research/start/by-format.html#microfilm"><strong>Microfilm Locator</strong></a></p> 
+           <p><strong><a href="/publications/">Milestone Documents</a></strong></p> 
+           <p><strong><a href="/st-louis/military-personnel/">Military Personnel Records</a></strong></p> 
+           <p><a href="/research/military/genealogy.html"><strong>Military Records</strong></a><strong> </strong>(Research)</p> 
+           <p><a href="/research/order/order-vets-records.html"><strong>Military Service Records</strong></a> (<em>see</em> also <a href="/veterans/military-service-records/standard-form-180.html">Standard Form 180</a>)</p> 
+           <p><strong>Mission</strong> (<em>see</em> the National Archives' <a href="/about/info/mission.html">Vision, Mission, Values</a>)</p> 
+           <p><strong>Missouri, Independence </strong> <strong>( <a href="http://www.trumanlibrary.org/">Truman Presidential Library and Museum</a>)</strong></p> 
+           <p><a href="/kansas-city/"><strong>Missouri, Kansas City</strong></a> <strong>National Archives at Kansas City</strong></p> 
+           <p><a href="/frc/lees-summit/"><strong>Missouri, Lee's Summit</strong></a></p> 
+           <p><strong>Missouri, St. Louis </strong> <strong>( <a href="/st-louis/">National Personnel Records Center</a>)</strong></p> 
+           <p><a href="/research/start/by-format.html#film"><strong>Motion Pictures</strong></a></p> 
+           <p><a id="N"></a></p> 
+           <p><a href="/about/laws/nara-trust-fund-board.html"><strong>NATF</strong></a> (National Archives Trust Fund)</p> 
+           <p><a href="/contact/inquire-form.html"><strong>NATF</strong></a> (order forms)</p> 
+           <p><strong><a href="/dc-metro/washington/">National Archives Building</a> - Information for Researchers<br> <a href="http://www.archives.gov/about/history/building.html">National Archives Building</a> - Interesting Facts </strong></p> 
+           <p><a href="/nae/"><strong>National Archives Experience</strong></a></p> 
+           <p><strong>National Declassification Center </strong> (<em>see</em> <a href="/declassification/ndc/">NDC</a>)</p> 
+           <p><strong>National Historical Publications and Records Commission</strong> (<em>see</em> <a href="/nhprc/">NHPRC</a>)</p> 
+           <p><a href="http://www.nationalhistoryday.org/" rel="gb_page_center[640, 510]"><strong>National History Day</strong></a></p> 
+           <!-- Commented out by MD 03/30/04.  
+Can't find on new design completed by PM <p><a href="/isoo/oversight-groups/nisppac.html"><strong>National 
+Industrial Security Program 
+Operating Manual</strong></a> 
+<strong>(NISPOM)</strong></p> 
+--> 
+           <p><a href="/isoo/oversight-groups/nisppac/"><strong>National Industrial Security Program Policy Advisory Committee</strong></a></p> 
+           <p><a href="http://www.cr.nps.gov/habshaer/" rel="gb_page_center[640, 510]"><strong>National Park Service, HABS/HAER Division</strong></a> <strong>(Affiliated Archives, Washington, DC)</strong></p> 
+           <p><a href="/st-louis/"><strong>National Personnel Records Center</strong></a></p> 
+           <p><a href="/research/native-americans/"><strong>Native American Records</strong></a></p> 
+           <p><a href="/research/naturalization/"><strong>Naturalization Records</strong></a></p> 
+           <p><a href="/iwg/"><strong>Nazi War Crimes Records</strong></a></p> 
+           <p><a href="/research/alic/books/"><strong>New Books Shelf</strong></a></p> 
+           <p><strong>New Mexico, Santa Fe</strong> <strong> ( <a href="/locations/affiliated-archives.html#santa-fe">New Mexico State Records Center and Archives</a>)</strong></p> 
+           <p><a href="/locations/affiliated-archives.html#santa-fe"><strong>New Mexico State Records Center and Archives</strong></a> <strong>(Affiliated Archives, Santa Fe, NM)</strong></p> 
+           <p><a href="/news/"><strong>News</strong></a></p> 
+           <p><strong>Newsletters</strong></p> 
+           <p class="indent"><a href="/nhprc/annotation/">Annotation</a><br> <a href="/iwg/about/disclosure-newsletter/index.html">Disclosure</a></p> 
+           <p><strong>New York, Hyde Park </strong> <strong>( <a href="http://www.fdrlibrary.marist.edu/">Franklin D. Roosevelt Presidential Library and Museum</a>)</strong></p> 
+           <p><strong><a href="/nyc/index.html">New York, New York</a> </strong></p> 
+           <p><strong>New York, West Point </strong> <strong>( <a href="/locations/affiliated-archives.html#us-military-academy">U.S. Military Academy Archives</a>)</strong></p> 
+           <p><a href="/nhprc/"><strong>NHPRC</strong></a> <strong> (National Historical Publications and Records Commission) </strong></p> 
+           <p><a href="http://www.nixonlibrary.gov/"><strong>Nixon Library</strong></a></p> 
+           <p><strong>Northeast Region (<strong> <a href="/nyc/index.html">New York, NY</a></strong> and <a href="/frc/pittsfield/">Pittsfield, MA</a> and <a href="/boston/index.html">Waltham, MA</a>)</strong></p> 
+           <p><a id="O"></a></p> 
+           <p><strong>Objects </strong>(<em>see</em> <a href="/preservation/">Preservation</a>)</p> 
+           <p><a href="/about/organization/office-of-records-services-dc.html"><strong>Office of Records Services</strong></a></p> 
+           <p><strong>Office of Government Information Services </strong> (<em>see</em> <a href="/ogis/">OGIS</a>)</p> 
+           <p><strong>Office of the Inspector General</strong> (<em>see</em> <a href="/oig/">OIG</a>)</p> 
+           <p><a href="/oig/"><strong>OIG</strong></a> <strong> (Office of the Inspector General) </strong></p> 
+           <p><a href="/oig/hotline.html"><strong>OIG Hotline</strong></a></p> 
+           <p><a href="/locations/affiliated-archives.html#oklahoma"><strong>Oklahoma City, Oklahoma</strong></a><strong> (Oklahoma Historical Society)</strong></p> 
+           <p><a href="/locations/affiliated-archives.html#oklahoma"><strong>Oklahoma Historical Society</strong></a><strong> (Affiliated Archives, Oklahoma City, OK)</strong></p> 
+           <p><a href="/research/holocaust/art/key-series-descriptions/omgus-cultural-property-claims.html"><strong>OMGUS Cultural Property Claims Index</strong></a></p> 
+           <p><strong><a href="/research/catalog/">National Archives Catalog</a></strong></p> 
+           <p><strong>Online Databases</strong> (<em>see</em> <a href="http://aad.archives.gov/aad/">AAD</a> <a href="/research/alic/tools/online-public-access-catalog.html">—</a> <a href="http://aad.archives.gov/aad/">Access to Archival Databases</a> and <a href="/research/alic/tools/online-public-access-catalog.html">Online Public Access Catalog—Library</a>)</p> 
+           <p><strong>Online Exhibits</strong> (<em>see</em> <a href="/exhibits/">Exhibit Hall</a>)</p> 
+           <p><a href="/research/alic/tools/online-public-access-catalog.html"><strong>Online Public Access Catalog—Library</strong></a></p> 
+           <p><a href="/research/alic/reference/"><strong>Online Reference</strong></a></p> 
+           <p><a href="/comment/"><strong>Opportunities for Comment</strong></a></p> 
+           <p><strong>Order Copies</strong> (<em>see</em> <a href="/research/order/">Copies, How to Order</a>)</p> 
+           <p><strong><a href="/contact/inquire-form.html">Order Forms</a></strong> (To request order forms electronically, use the <strong> <a href="/contact/inquire-form.html">National Archives' Inquire Form</a></strong>.)</p> 
+           <p><a href="https://eservices.archives.gov/orderonline"><strong>Order Online</strong></a></p> 
+           <p><a href="/about/organization/"><strong>Organization Chart</strong></a></p> 
+           <p><a href="http://www.ourdocuments.gov"><strong>Our Documents</strong> (100 Milestone Documents of American History)</a></p> 
+           <p><a id="P"></a></p> 
+           <p><strong>Paper </strong>(<em>see</em> <a href="/preservation/">Preservation</a>)</p> 
+           <p><strong>Parchment </strong>(<em>see</em> <a href="/preservation/">Preservation</a>)</p> 
+           <p><a href="/research/immigration/"><strong>Passenger Lists</strong></a> (and Immigration Records)</p> 
+           <p><a href="/contracts/"><strong>Partnerships</strong></a></p> 
+           <p><a href="/research/alic/reference/pathfinders.html"><strong>Pathfinders</strong></a></p> 
+           <p><strong>Pennsylvania, Harrisburg ( <a href="/locations/affiliated-archives.html#pennsylvania-state-archives">Pennsylvania State Archives, Bureau of Archives and History</a>)</strong></p> 
+           <p><a href="/philadelphia/index.html"><strong>National Archives at Philadelphia, Pennsylvania</strong></a></p> 
+           <p><a href="/frc/philadelphia/"><strong>Federal Records Center in Philadelphia (Northeast)</strong></a></p> 
+           <p><a href="/locations/affiliated-archives.html#pennsylvania-state-archives"><strong>Pennsylvania State Archives, Bureau of Archives and History</strong></a> <strong>(Affiliated Archives, Harrisburg, PA)</strong></p> 
+           <p><a href="/research/order/order-vets-records.html"><strong>Pension Records</strong></a></p> 
+           <p><a href="/about/plans-reports/performance-plan/"><strong>Performance Plans</strong></a></p> 
+           <p><a href="/about/plans-reports/performance-accountability/"><strong>Performance Reports</strong></a></p> 
+           <p><a href="/research/alic/periodicals/"><strong>Periodicals</strong></a></p> 
+           <p><a href="/global-pages/privacy.html#copyright"><strong>Permission to Use Images</strong></a></p> 
+           <p><a href="/philadelphia/index.html"><strong>Philadelphia (Center City), Pennsylvania</strong></a></p> 
+           <p><a href="/frc/philadelphia/"><strong>Philadelphia (Northeast), Pennsylvania</strong></a></p> 
+           <p><a href="/faqs/#photocopies"><strong>Photocopies</strong></a></p> 
+           <p><a href="/research/start/by-format.html#photos"><strong>Photographs</strong></a> (<em>see</em> also <a href="/preservation/">Preservation</a> and <a href="/research/catalog/">National Archives Catalog</a>)</p> 
+           <p class="indent"><a href="/research/african-americans/ww2-pictures/">African Americans During WWII</a><br> <a href="/research/american-cities/">American Cities</a><br> <a href="/research/native-americans/pictures/">American Indians</a><br> <a href="/research/american-west/">American West: 1861-1912</a><br> <a href="/research/ansel-adams/">Ansel Adams</a><br> <a href="/research/military/civil-war/photos/">Civil War</a><br> <a href="/research/military/ww2/photos/">World War II</a></p> 
+           <p><a href="/frc/pittsfield/"><strong>Pittsfield, Massachusetts</strong></a><strong> </strong></p> 
+           <p><strong>Policies</strong></p> 
+           <p class="indent"><a href="/global-pages/accessibility.html">Accessibility</a><br> <a href="/research/alic/policies.html">ALIC</a><br> <a href="/foia/">FOIA</a><br> <a href="/global-pages/privacy.html">Privacy and Use</a><br> <a href="/records-mgmt/policy/">Records Management</a></p> 
+           <p><a href="/preservation/"><strong>Preservation</strong></a></p> 
+           <p><strong>Preservation Programs</strong> (<em>see</em> <a href="/preservation/">Preservation</a>)</p> 
+           <p><strong><a href="/presidential-libraries/research/guide.html">Presidential Documents</a></strong></p> 
+           <p><a href="/presidential-libraries/"><strong>Presidential Libraries</strong></a></p> 
+           <p><a href="/presidential-libraries/programs/education.html"><strong>Presidential Libraries, Education Programs at</strong></a></p> 
+           <p><a href="/presidential-libraries/research/"><strong>Presidential Materials</strong></a></p> 
+           <p><a href="/press/press-kits/"><strong>Press Kits</strong></a></p> 
+           <p><a href="/press/"><strong>Press Releases</strong></a></p> 
+           <p class="indent"><a href="/press/press-releases/">Current National Archives</a><br> <a href="/iwg/about/press-releases/">IWG</a> (Interagency Working Group)<br> <a href="/nhprc/press-releases/">NHPRC</a> (National Historical Publications and Records Commission)<br> <a href="/press/press-releases/subjects/nixon.html">Nixon Presidential Materials</a> (<em>see</em> <a href="http://www.nixonlibrary.gov/newsandevents/press_releases.php">Nixon Press Releases</a>)</p> 
+           <p><a href="/eeo/policy/harassment-prevention.html"><strong>Prevention of Sexual Harassment Policy</strong></a></p> 
+           <p><a href="/publications/general-info-leaflets/17-citing-records.html"><strong>Primary Sources, Citing</strong></a></p> 
+           <p><strong><a href="/global-pages/privacy.html">Privacy and Use Policy</a></strong></p> 
+           <p><a href="/careers/resources/index.html"><strong>Professional Development</strong></a></p> 
+           <p><strong><a href="/nae/education/training.html">Professional Development</a></strong> (Teachers)</p> 
+           <p><strong><a href="/publications/prologue/">Prologue Magazine</a></strong></p> 
+           <p><a href="/press/"><strong>Public Affairs</strong></a></p> 
+           <p><a href="/publications/"><strong>Publications</strong></a></p> 
+           <p><a href="/federal-register/public-inspection/"><strong>Public Inspection List</strong></a></p> 
+           <p><strong>Public Interest Declassification Board</strong> (<em>see</em> <a href="/declassification/pidb/">PIDB</a>)</p> 
+           <p><a href="/about/laws/treasury.html"><strong>Public Law 106-58</strong></a></p> 
+           <p><a href="/federal-register/laws/"><strong>Public Laws</strong></a></p> 
+           <p><a id="Q"></a></p> 
+           <p><strong><a href="/about/info-qual/guidelines.html">Quality Guidelines, Information</a></strong></p> 
+           <p><strong><a href="/about/info-qual/">Quality, Information</a></strong></p> 
+           <p><strong>Questions</strong></p> 
+           <p class="indent"><a href="/faqs/">Frequently Asked Questions</a> (FAQs)<br> <a href="/contact/inquire-form.html">Use the National Archives' Inquire Form to Ask the National Archives a Question</a><br> (<em>see</em> also <a href="/comment/"> Opportunities for Public Comment</a>)</p> 
+           <p><a id="R"></a></p> 
+           <p><strong>Reagan, Ronald</strong> (<em>see</em> <a href="https://reaganlibrary.gov">Ronald Reagan Presidential Library</a>)</p> 
+           <p><strong>Records</strong> (<em>see</em> <a href="/research/">Research</a>)</p> 
+           <p><strong>Records Center Program</strong> (<em>see</em> <a href="/frc/">Federal Records Centers</a>)</p> 
+           <p><strong>Records Centers </strong>(<em>see</em> <a href="/locations/">Federal Records Centers</a>)</p> 
+           <p><a href="/records-mgmt/"><strong>Records Management</strong></a></p> 
+           <p><a href="/locations/records-management.html"><strong>Records Management Facilities</strong></a> (Provide records management assistance to Federal Government agencies)</p> 
+           <p><a href="/publications/records-mgmt.html"><strong>Records Management Materials</strong></a></p> 
+           <p><a href="/records-mgmt/training/"><strong>Records Management Training</strong></a></p> 
+           <p><strong><a href="/research/notices/access-and-terrorism.html">Records of Concern</a></strong></p> 
+           <p><strong>Records Services</strong> (<em>see</em> <a href="/about/organization/office-of-records-services-dc.html">Office of Records Services</a>)</p> 
+           <p><strong><a href="/research/recover/">Recover Lost and Stolen Documents</a></strong></p> 
+           <p><a href="/research/alic/reference/"><strong>Reference At Your Desk</strong></a></p> 
+           <p><strong>Reference Information Papers</strong> (<em>see</em> <a href="/publications/">Publications</a>)</p> 
+           <p><a href="/locations/"><strong>Regional Archives</strong></a> (Research Centers open to the public for archival research)</p> 
+           <p><a href="/locations/"><strong>Regional Locations</strong></a> (All National Archives Archives, Records Centers, and Records Management Facilities)</p> 
+           <p><a href="/locations/"><strong>Regional Records Centers</strong></a> (Store records that belong to Federal Government agencies)</p> 
+           <p><a href="/federal-register/cfr/"><strong>Regulations</strong></a></p> 
+           <p><strong>Reimbursement</strong></p> 
+           <p><strong>Reports</strong></p> 
+           <p class="indent"><a href="/about/plans-reports/performance-accountability/">Annual Performance Reports</a><br> <a href="/about/plans-reports/performance-accountability/">Annual Reports</a><br> <a href="/research/alic/reference/staff-pubs/index.html">Current Staff Writings</a><br> <a href="/about/plans-reports/fair-act/">FAIR Act Reports</a><br> <a href="/research/holocaust/articles-and-papers/">Holocaust-Era Assets Conference and Symposium Papers and Proceedings</a><br> <a href="/isoo/reports/">ISOO Annual Reports</a><br> <a href="/iwg/research-papers/">IWG Research Papers</a><br> <a href="/oig/reports/">OIG Semi-Annual Reports to Congress</a><br> <a href="/research/holocaust/articles-and-papers/unpublished-papers.html">Unpublished Research Papers</a></p> 
+           <p><strong>Research</strong></p> 
+           <p class="indent"><a href="/research/">Information</a><br> <a href="/research/start/">Getting Started</a><br> <a href="/research/start/online-tools.html">Online</a></p> 
+           <p><strong>Research Centers</strong> (<em>see</em> <a href="/locations/">Regional Archives</a>)</p> 
+           <p><strong>Research Locations Nationwide</strong> (<em>see</em> <a href="/locations/">Regional Archives</a>)</p> 
+           <p><a href="/research/"><strong>Research Room</strong></a> <strong>(online)</strong></p> 
+           <p><a href="/research/alic/reference/archives-resources/"><strong>Resources, Management</strong></a></p> 
+           <p><a href="/riverside/index.html"><strong>National Archivesat Riverside, California</strong></a></p> 
+           <p><a href="reaganlibrary.gov"><strong>Ronald Reagan Presidential Library</strong></a></p> 
+           <p><strong>Roosevelt, Franklin D.</strong> (<em>see</em> <a href="http://www.fdrlibrary.marist.edu/">Franklin D. Roosevelt Library and Digital Archives</a>)</p> 
+           <p><a id="S"></a></p> 
+           <p><strong><a href="/faqs/#sales">Sales Catalog</a></strong></p> 
+           <p><a href="/san-francisco/index.html"><strong>National Archives at San Francisco, California</strong></a></p> 
+           <p><a href="/locations/affiliated-archives.html#santa-fe"><strong>Santa Fe, New Mexico</strong></a> <strong>(New Mexico State Records Center and Archives)</strong></p> 
+           <p><strong>Scanners</strong> (<em>see</em> <a href="/faqs/#photocopies">Photocopies</a>)</p> 
+           <p><a href="/about/history/building.html/"><strong>Archives, Building a</strong></a></p> 
+           <p><a href="/nae/visit/reserved-visits.html"><strong>School Tours</strong></a></p> 
+           <p><a href="/nae/education/workshops/index.html"><strong>School Workshops</strong></a></p> 
+           <p><strong>Scrapbooks</strong> (<em>see</em> <a href="/preservation/family-archives/">Preservation</a>)</p> 
+           <p><strong>Search</strong></p> 
+           <p class="indent"><a href="http://aad.archives.gov/aad/">AAD</a> (Access to Archival Databases)<br> <a href="/research/catalog/">National Archives Catalog</a> (OPA)<br> <a href="/federal-register/publications/">Federal Register</a><br> <a href="/research/genealogy/online-catalog-guide.html">Genealogical Data in the National Archives Catalog</a><br> <a href="http://search.archives.gov/">National Archives Website</a></p> 
+           <p><a href="/seattle/index.html"><strong>The National Archives at Seattle</strong></a></p> 
+           <p><strong>Security Forms</strong> (<em>see</em> <a href="/isoo/security-forms/">Standard Security Forms</a>)</p> 
+           <p><a href="/eeo/policy/harassment-prevention.html"><strong>Sexual Harassment Prevention Policy</strong></a></p> 
+           <p><a href="/about/info-qual/significant-guidance.html"><strong>Significant Guidance</strong></a></p> 
+           <p><strong>Snapshots, Website</strong> (<em>see</em> <a href="/records-mgmt/policy/web-harvest-snapshot.html">Federal Website Snapshots</a>)</p> 
+           <p><a href="/publications/general-info-leaflets/55-census.html"><strong>Soundex</strong></a></p> 
+           <p><a href="/research/alic/special-collections/"><strong>Special Collections</strong></a></p> 
+           <p><strong>Speeches</strong> (<em>see</em> <a href="/about/speeches/">Messages from the Archivist</a>)</p> 
+           <p><strong>Staff</strong> (<em>see</em> <a href="/about/organization/employee-locator.html">National Archives Employee Locator</a>)<br> <br> <a href="/veterans/military-service-records/standard-form-180.html"><strong>Standard Form 180</strong></a> <strong>(SF 180)</strong><br> <br> <a href="/isoo/training/standard-form-312.html"><strong>Standard Form 312 Briefing Booklet</strong></a></p> 
+           <p><a href="/isoo/security-forms/"><strong>Standard Security Forms</strong></a></p> 
+           <p><a href="/research/foreign-policy/state-dept/index.html"><strong>State Department Records</strong></a></p> 
+           <p><strong>St. Louis, Missouri </strong> <strong>( <a href="/st-louis/">National Personnel Records Center</a>)</strong></p> 
+           <p><strong><a href="/research/recover/">Stolen Documents</a></strong></p> 
+           <p><strong>Storage</strong> (<em>see</em> <a href="/preservation/storage/">Preservation</a>)</p> 
+           <p><strong>Strategic Plan </strong></p> 
+           <p class="indent"><a href="/about/plans-reports/strategic-plan/">National Archives</a><br> <a href="/oig/strategic-plan.html">Office of the Inspector General</a> (OIG)</p> 
+           <p><a href="/about/plans-reports/strategic-plan/"><strong>Strategic Planning and Reporting</strong></a></p> 
+           <p><a href="/global-pages/subject-index.html"><strong>Subject Index</strong></a></p> 
+           <p><a href="/press/email-signup.html"><strong>Subscribe to Press Releases by Email</strong></a></p> 
+           <p><strong>Suggestions</strong> (Use the <a href="/contact/inquire-form.html">National Archives' Inquire Form</a> to make a suggestion.)</p> 
+           <p><strong>Suitland, Maryland</strong> <strong>( <a href="/dc-metro/suitland/">Washington National Records Center</a>)</strong></p> 
+           <p><a href="http://www.archivesfoundation.org/"><strong>Support the National Archives</strong></a></p> 
+           <p><a id="T"></a></p> 
+           <p><strong>Tapes</strong> (<em>see</em> <a href="http://www.nixonlibrary.gov/forresearchers/find/tapes/index.php">White House Tapes</a>)</p> 
+           <p><strong>Teaching</strong> (<em>see</em> <a href="/education/">Digital Classroom</a>)</p> 
+           <p><a href="/education/lessons/"><strong>Teaching with Documents</strong></a></p> 
+           <p><strong>Terrorism </strong>(<em>see</em> <a href="/research/notices/access-and-terrorism.html">Records of Concern</a>)</p> 
+           <p><strong>Texas, Austin (</strong> <a href="http://www.lbjlib.utexas.edu/"><strong>Lyndon Baines Johnson Library and Museum</strong></a><strong>)</strong></p> 
+           <p><strong>Texas, College Station ( <a href="http://bushlibrary.tamu.edu/">George Bush Presidential Library and Museum</a>)</strong></p> 
+           <p><a href="/fort-worth/index.html"><strong>Texas, Fort Worth</strong></a> <strong>(Southwest Region)</strong></p> 
+           <p><strong>Training</strong></p> 
+           <p class="indent"><a href="/isoo/training/">ISOO</a><br> <a href="/records-mgmt/training/">Records Management</a><br> <a href="/careers/resources/training.html">Resources</a></p> 
+           <p><a href="http://www.trumanlibrary.org"><strong>Truman Presidential Museum and Library</strong></a></p> 
+           <p><a id="U"></a></p> 
+           <p><a href="/research/holocaust/notice-on-unavailability-of-records.html"><strong>Unavailability of Records</strong></a></p> 
+           <p><a href="/faqs/#us-code"><strong>U.S. Code</strong></a></p> 
+           <p><a href="/locations/affiliated-archives.html#gpo"><strong>U.S. Government Printing Office</strong></a> <strong>(Affiliated Archives, Washington, DC)</strong></p> 
+           <p><a href="/locations/affiliated-archives.html#us-military-academy"><strong>U.S. Military Academy Archives</strong></a> <strong>(Affiliated Archives, West Point, NY)</strong></p> 
+           <p><a href="/locations/affiliated-archives.html#us-naval-academy"><strong>U.S. Naval Academy Archives - William W. Jeffries Memorial Archives</strong></a><strong> (Affiliated Archives, Annapolis, MD)</strong></p> 
+           <p><a id="V"></a></p> 
+           <p><strong>Values</strong> (<em>see</em> the National Archives' <a href="/about/info/mission.html">Vision, Mission, Values</a>)</p> 
+           <p><a href="/research/order/order-vets-records.html"><strong>Veterans´ Service Records</strong></a> (<em>see</em> also <a href="/veterans/military-service-records/"><em>e</em>VetRecs</a>)</p> 
+           <p><strong>Video</strong> (<em>see</em> <a href="/preservation/formats/">Preservation</a> and <a href="/research/guides/catalog-film-sound-video.html">Research Room</a>)</p> 
+           <p><a href="/nae/education/workshops/video.html"><strong>Video Workshops</strong></a></p> 
+           <p><strong>Vision</strong> (<em>see</em> the National Archives' <a href="/about/info/mission.html">Vision, Mission, Values</a>)</p> 
+           <p><strong><a href="/museum/">Visit the National Archives</a> in <a href="/dc-metro/">DC</a> or see <a href="/locations/">all locations</a></strong></p> 
+           <p><a href="/faqs/#vital-records"><strong>Vital Records</strong></a></p> 
+           <p><a href="/careers/volunteering/"><strong>Volunteers at the National Archives</strong></a></p> 
+           <p><a id="W"></a></p> 
+           <p><a href="/boston/index.html"><strong>Waltham, Massachusetts</strong></a></p> 
+           <p><strong>War Crimes</strong> (<em>see</em> <a href="/iwg/">IWG</a>)</p> 
+           <p><strong>Wars</strong></p> 
+           <p class="indent"><a href="/research/military/american-revolution/index.html">American Revolution</a><br> 
+            <!-- <a href="/publications/prologue/1999/winter/boxer-rebellion-1.html">Boxer Rebellion</a></strong>
+  U.S. Marines in the Boxer Rebellion, an article in <em>Prologue</em> magazine --> <a href="/research/military/civil-war/index.html">Civil War</a><br> <a href="/research/military/korean-war/index.html">Korean War</a><br> <a href="/research/alic/reference/military/mexican-war.html">Mexican War</a><br> 
+            <!-- <a href="/publications/prologue/2000/summer/philippine-insurrection.html">Philippine Insurrection</a> 
+  U.S. Army Service During the Philippine Insurrection, an article in <em>Prologue</em> magazine --> <a href="/research/military/veterans/online.html#spanish-american-war">Spanish American War</a><br> <a href="/research/military/vietnam-war/">Vietnam War</a><br> <a href="/research/military/war-of-1812/">War of 1812</a><br> <a href="/research/military/ww1/">World War I</a><br> <a href="/research/military/ww2/">World War II</a></p> 
+           <p><strong>Washington, DC</strong> <strong>( <a href="/dc-metro/washington/">National Archives</a> and <a href="/federal-register/contact.html">The Federal Register</a> and <a href="/locations/affiliated-archives.html#library-of-congress">Library of Congress, Prints and Photographs Division</a> and <a href="/locations/affiliated-archives.html#national-park-service">National Park Service, HABS/HAER Division</a> and <a href="/locations/affiliated-archives.html#gpo">U. S. Government Printing Office</a>)</strong></p> 
+           <p><strong><a href="/dc-metro/suitland/">Washington National Records Center</a></strong> <strong>(Suitland, MD)</strong></p> 
+           <p><strong><a href="/seattle/index.html">Washington, Seattle</a></strong> <strong>(Pacific Alaska Region)</strong></p> 
+           <p><a href="/research/investigations/watergate/index.html"><strong>Watergate</strong></a></p> 
+           <!--<p><a href="/frc/cips/"><strong>Web-CIPS</strong></a><strong> (Records Center Program)</strong></p> --> 
+           <p><strong>Website Snapshots</strong> (<em>see</em> <a href="/records-mgmt/policy/web-harvest-snapshot.html">Federal Website Snapshots</a>)</p> 
+           <p><strong>Websites, Related</strong></p> 
+           <p class="indent"><a href="/era/">Electronic Records Archives</a><br> <a href="/eeo/related-websites/">Equal Employment Opportunity Program</a> - Related Websites<br> <a href="/research/genealogy/other-websites/related-websites.html">Genealogy</a><br> <a href="/research/holocaust/related-websites.html">Holocaust-Era Assets</a><br> <a href="/iwg/related-websites.html">IWG</a><br> <a href="http://www.ignet.gov/related1.html" rel="gb_page_center[640, 510]">OIG</a><br> <a href="/congress/">Services to Members of Congress</a></p> 
+           <!-- <p><a href="/about/welcome/"><strong>Welcome</strong></a></p> --> 
+           <p><strong>West Point, New York </strong> <strong>( <a href="/locations/affiliated-archives.html#us-military-academy">U.S. Military Academy Archives</a>)</strong></p> 
+           <p><strong>What´s New</strong></p> 
+           <p class="indent"><a href="/research/alic/new.html">ALIC</a><br> <a href="/federal-register/news.html">Federal Register</a><br> <a href="/nhprc/">NHPRC</a><br> <a href="/news/">On the Website</a><br> <a href="/records-mgmt/">Records Management</a><br> <a href="/research/news.html">Research Room</a></p> 
+           <p><a href="http://www.nixonlibrary.gov/forresearchers/find/tapes/index.php"><strong>White House Tapes</strong></a></p> 
+           <p><a href="http://www.clintonlibrary.gov"><strong>William J. Clinton Presidential Library and Museum</strong></a></p> 
+           <p><a href="/locations/affiliated-archives.html#us-naval-academy"><strong>William W. Jeffries Memorial Archives</strong></a><strong> - U.S. Naval Academy Archives (Affiliated Archives, Annapolis, MD)</strong></p> 
+           <p><strong>Workshops </strong></p> 
+           <p class="indent"><a href="/nae/education/workshops/">All Topics</a><br> <a href="/education/lessons/constitution-workshop/">Constitution</a><br> <a href="/nae/education/workshops/index.html">Digital Classroom</a><br> <a href="/research/genealogy/events/index.html">Genealogy</a></p> 
+           <p><strong><a href="/research/military/ww1/">World War I</a></strong></p> 
+           <p><strong><a href="/research/military/ww2/">World War II</a></strong></p> 
+           <p><strong>Wyoming, Yellowstone National Park ( <a href="/locations/affiliated-archives.html#yellowstone">Yellowstone National Park Archives</a>)</strong></p> 
+           <p><a id="Y"></a></p> 
+           <p><a href="/locations/affiliated-archives.html#yellowstone"><strong>Yellowstone National Park Archives</strong></a><strong> (Affiliated Archives, Yellowstone National Park, WY) </strong></p> 
+           <p><strong>Yellowstone National Park, Wyoming ( <a href="/locations/affiliated-archives.html#yellowstone">Yellowstone National Park Archives</a>)</strong></p> 
+          </section> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <!-- page-body-wrapper --> 
+     <footer id="page-footer"> 
+      <div class="clearfix row last-update-wrapper "> 
+       <p id="last-update"> <span class="glyphicon glyphicon-edit"></span> This page was last reviewed on May 24, 2019.<br> <a href="/contact">Contact us with questions or comments</a>. </p> 
+      </div> 
+      <section id="mega-footer" class="clearfix panel-group"> 
+       <h2 class="footer-title"> Archives.gov</h2> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#info-for">Information For…</a></h2> 
+        </div> 
+        <div id="info-for" class="panel-collapse"> 
+         <ul>
+          <li><a href="/citizen-archivist/">Citizen Archivists</a></li> 
+          <li><a href="/fed-employees/">Federal Employees</a></li> 
+          <li><a href="/research/genealogy/">Genealogists</a></li> 
+          <li><a href="/congress/">Members of Congress</a></li> 
+          <li><a href="/preservation/">Preservation</a></li> 
+          <li><a href="/records-mgmt/">Records Managers</a></li> 
+          <li><a href="/press/">The Press</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#pubs">Publications</a></h2> 
+        </div> 
+        <div id="pubs" class="panel-collapse"> 
+         <ul>
+          <li><a href="/federal-register/">Federal Register</a></li> 
+          <li><a href="/publications/prologue/">Prologue Magazine</a></li> 
+          <li><a href="/publications/ordering/">Purchase Publications</a></li> 
+          <li><a href="/publications/email-newsletters">Subscribe to Email Newsletters</a></li> 
+          <li><a href="/publications/">All Publications</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#orgs">Orgs. &amp; Offices</a></h2> 
+        </div> 
+        <div id="orgs" class="panel-collapse"> 
+         <ul>
+          <li><a href="/legislative/">Center for Legislative Archives</a></li> 
+          <li><a href="/frc/">Federal Records Center</a></li> 
+          <li><a href="/oig/">Office of the Inspector General</a></li> 
+          <li><a href="/presidential-libraries/">Presidential Libraries</a></li> 
+          <li><a href="/about/organization/">Staff Directory</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#about">About Us</a></h2> 
+        </div> 
+        <div id="about" class="panel-collapse"> 
+         <ul>
+          <li><a href="/about/">What is the National Archives?</a></li> 
+          <li><a href="/contracts/">Doing Business with Us</a></li> 
+          <li><a href="/about/plans-reports/">Plans and Reports</a></li> 
+          <li><a href="/open/">Open Government</a></li> 
+          <li><a href="/open/plain-writing/">Our Plain Language Activities</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#i-want-to">I Want To…</a></h2> 
+        </div> 
+        <div id="i-want-to" class="panel-collapse"> 
+         <ul>
+          <li><a href="/veterans/military-service-records/">Get My Military Record</a></li> 
+          <li><a href="/research/start/plan-visit">Plan a Research Visit</a></li> 
+          <li><a href="https://museum.archives.gov/">Visit the Museum</a></li> 
+          <li><a href="/exhibits/">View Online Exhibits</a></li> 
+          <li><a href="/grants/">Apply for a Grant</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#participate">Participate</a></h2> 
+        </div> 
+        <div id="participate" class="panel-collapse"> 
+         <ul>
+          <li><a href="/calendar/">Attend an Event</a></li> 
+          <li><a href="http://www.archivesfoundation.org/">Donate to the Archives</a></li> 
+          <li><a href="/careers/">Work at the Archives</a></li> 
+          <li><a href="/careers/volunteering/">Volunteer at the Archives</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#resources">Resources</a></h2> 
+        </div> 
+        <div id="resources" class="panel-collapse"> 
+         <ul>
+          <li><a href="/global-pages/subject-index.html">A-Z Index</a></li> 
+          <li><a href="/founding-docs/">America's Founding Docs</a></li> 
+          <li><a href="/contact/">Contact Us</a></li> 
+          <li><a href="/espanol/">En Español</a></li> 
+          <li><a href="/faqs/">FAQs</a></li> 
+          <li><a href="/forms/">Forms</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#shop-footer">Shop Online</a></h2> 
+        </div> 
+        <div id="shop-footer" class="panel-collapse"> 
+         <ul>
+          <li><a href="https://www.nationalarchivesstore.org/?utm_campaign=2019eStore&amp;utm_medium=website&amp;utm_source=nara&amp;utm_content=organic">Visit the National Archives Store</a></li> 
+          <li><a href="https://eservices.archives.gov/orderonline/">Buy Reproductions and Microfilm</a></li> 
+         </ul>
+        </div> 
+       </div> 
+      </section> 
+      <section id="sub-footer"> 
+       <div class="region region-footer-bottom"> 
+        <section id="block-block-54" class="block block-block clearfix"> 
+         <h2> <a href="https://www.archives.gov/social-media/">Connect With Us</a></h2> 
+         <ul class="clearfix" id="social-media"> 
+          <li class="facebook" data-original-title="Facebook" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/facebook">Facebook</a></li> 
+          <li class="twitter" data-original-title="Twitter" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/twitter">Twitter</a></li> 
+          <li class="instagram" data-original-title="Instagram" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/instagram">Instagram</a></li> 
+          <li class="tumblr" data-original-title="Tumblr" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/tumblr">Tumblr</a></li> 
+          <li class="youtube" data-original-title="YouTube" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/youtube">YouTube</a></li> 
+          <li class="blogs" data-original-title="Blogs" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/blogs">Blogs</a></li> 
+          <li class="flickr" data-original-title="Flickr" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/flickr">Flickr</a></li> 
+         </ul> 
+         <p> </p> 
+         <p id="footer-links"> <a href="/contact/">Contact Us</a> · <a href="/global-pages/accessibility.html">Accessibility</a> · <a href="/global-pages/privacy.html">Privacy Policy</a> · <a href="/foia/">Freedom of Information Act</a> · <a href="/eeo/policy/complaint-activity.html">No FEAR Act</a> · <a href="http://www.usa.gov/">USA.gov</a></p> 
+         <p id="footer-phone">The U.S. National Archives and Records Administration<br> <a href="tel:1-866-272-6272">1-86-NARA-NARA or 1-866-272-6272</a></p> 
+        </section> 
+       </div> 
+      </section> 
+     </footer>
+     <!-- /page-footer --> 
+    </div> 
+    <script src="/sites/all/themes/nara/scripts/jquery.fancybox.pack.js" type="text/javascript"></script> 
+    <script src="/sites/all/themes/nara/scripts/helpers/jquery.fancybox-media.js" type="text/javascript"></script> 
+    <script src="/sites/all/themes/nara/scripts/helpers/jquery.fancybox-thumbs.js" type="text/javascript"></script> 
+    <script src="https://www.archives.gov/files/js/js_MRdvkC2u4oGsp5wVxBG1pGV5NrCPW3mssHxIn6G9tGE.js"></script> 
+   </div> 
+   <a class="back-to-top" href="#page-header" style="display: inline;">Top</a> 
+   <script>
+(function ($) {
+  // Original JavaScript code.
+$('.toc').toc({
+'selectors': 'h2:not(.element-invisible):not(.toc-block h2),h3',
+'container': '#main-col'
+});
+})(jQuery);
+
+//fix extra timeline object issue
+(function(){            
+  if(typeof Drupal.settings['timelineJS'] !== 'undefined'){      
+    timelinejs_arry = Drupal.settings['timelineJS'];
+    tmptimeline=[];
+    for (i = 0; i < timelinejs_arry.length-1; i++) {       
+      if(typeof timelinejs_arry[i]['processed'] !== 'undefined'){                        
+        tmptimeline.push(timelinejs_arry[i]);  
+      } 
+    }
+    Drupal.settings['timelineJS'] = tmptimeline;
+  }
+}());
+</script> 
+  </div> 
+  <!-- end -->   
+ </body>
+</html>

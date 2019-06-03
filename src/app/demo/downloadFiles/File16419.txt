@@ -1,0 +1,354 @@
+<!doctype html>
+<html class="no-js tn-html" lang="en">
+ <head> 
+  <title>TN.gov - Accessibility Statement</title> 
+  <meta charset="utf-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="keywords"> 
+  <meta name="description" content="The Tennessee State Government website's statement of intent regarding the formatting of TN.gov web content to provide accessibility support for assistive technologies as per federal guidelines."> 
+  <meta name="url" content="https://www.tn.gov/web-policies/accessibility.html"> 
+  <meta name="lastModified" content="20 Feb 2019 10:01:23 CST"> 
+  <meta name="pageType"> 
+  <meta name="pageDepartment" content="web-policies"> 
+  <meta name="pageDivision"> 
+  <meta name="newsDateTimeString"> 
+  <meta name="eventDateTimeString"> 
+  <meta name="searchType"> 
+  <meta name="pagePath" content="/content/tn/web-policies/accessibility"> 
+  <meta name="category"> 
+  <meta property="og:title" content="TN.gov - Accessibility Statement"> 
+  <meta property="og:description" content="The Tennessee State Government website's statement of intent regarding the formatting of TN.gov web content to provide accessibility support for assistive technologies as per federal guidelines."> 
+  <meta property="og:url" content="https://www.tn.gov/web-policies/accessibility.html"> 
+  <meta property="og:image"> 
+  <meta name="twitter:card" content="summary"> 
+  <meta name="twitter:title" content="TN.gov - Accessibility Statement"> 
+  <meta name="twitter:description" content="The Tennessee State Government website's statement of intent regarding the formatting of TN.gov web content to provide accessibility support for assistive technologies as per federal guidelines."> 
+  <meta name="twitter:url" content="https://www.tn.gov/web-policies/accessibility.html"> 
+  <meta name="twitter:image"> 
+  <link rel="shortcut icon" href="/etc/clientlibs/tncore/main/img/favicon.ico"> 
+  <link rel="canonical" href="https://www.tn.gov/web-policies/accessibility.html"> 
+  <link rel="stylesheet" href="/etc/clientlibs/tncore/main.min.7b7f24489495d82cdd3b7a88107b9f76.css" type="text/css"> 
+  <link rel="stylesheet" href="/etc/clientlibs/tn-sites/tngov.min.de4d4402ec2138999b5540dbe08724b4.css" type="text/css"> 
+  <script src="//assets.adobedtm.com/046dcefde06052c1522b33b00453f0592c8031e1/satelliteLib-0eaceea9a3f6b60d158884d8c7daf5435071c1e5.js"></script> 
+ </head> 
+ <body class="tngov" data-selectors="[]" data-template="leftNav"> 
+  <div class="sr-only sr-only-focusable"> 
+   <p><a href="#main">Skip to Main Content</a></p> 
+  </div> 
+  <noindex> 
+   <div> 
+   </div> 
+   <div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+      <div class="tn_header tn-header">
+       <header id="header"> 
+        <div class="row center-block top-nav"> 
+         <a class="logo" href="https://www.tn.gov/" data-logo="state-government" style="background-image: url('/etc/clientlibs/tncore/main/img/logos/tn-logo.png')"> 
+          <div>
+           Home
+          </div> </a> 
+         <a class="search-all icon-home-1" href="https://www.tn.gov/">Go to TN.gov</a> 
+        </div> 
+        <div class="row center-block agency"> 
+         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 columns title"> 
+          <a href="/content/tn.html"> <img src="/content/dam/headers/state-government.png" alt="  State of Tennessee" id="entity-name" data-pin-nopin="true"> </a> 
+         </div> 
+         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 columns text-right"> 
+          <div class="tn-headersearch">
+           <div class="search"> 
+            <form method="get" action="/search-results.html"> 
+             <input type="text" class="search-box" name="q" placeholder="Search All Tennessee Government" aria-label="Search All Tennessee Government"> 
+             <input type="submit" value="Search" class="search-button"> 
+             <i class="icon-search"></i> 
+            </form> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="backdrop" style="background-image:url(/content/dam/headers/test.jpg)"></div> 
+        <div class="backdrop-color" style="background-color: rgba(110,112,115,0.20)"></div> 
+       </header> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="tn-topnav">
+    <nav id="nav"> 
+     <div class="row center-block"> 
+      <div class="col-lg-12"> 
+       <div class="logo-small tn-logo"> 
+        <a href="/content/tn.html"><span class="sr-only">Go to TN.gov</span></a> 
+       </div> 
+       <div class="mobile-show icon-menu mobile-menu">
+        Section
+       </div> 
+       <ul class="inline-list nav-items"> 
+        <li> <a href="/content/tn.html" class="icon-home"><span class="sr-only">Go to TN.gov</span></a> </li> 
+        <li class="dropdown"> <a href="/residents.html">Residents<i class="icon-down-dir"></i></a> 
+         <ul> 
+          <li><a href="/residents/cars-driving.html">Cars &amp; Driving</a></li> 
+          <li><a href="/residents/communities-mp-residents-btc.html">Communities</a></li> 
+          <li><a href="/residents/education.html">Education</a></li> 
+          <li><a href="/residents/children-and-families.html">Children and Families</a></li> 
+         </ul> </li> 
+        <li class="dropdown"> <a href="/business.html">Business<i class="icon-down-dir"></i></a> 
+         <ul> 
+          <li><a href="/business/existing-businesses.html">Existing Businesses</a></li> 
+          <li><a href="/business/new-businesses-mp-business-btc.html">New Businesses</a></li> 
+          <li><a href="/business/licenses-permits.html">Licenses &amp; Permits</a></li> 
+          <li><a href="/business/doing-business.html">Doing Business</a></li> 
+         </ul> </li> 
+        <li class="dropdown"> <a href="/government.html">Government<i class="icon-down-dir"></i></a> 
+         <ul> 
+          <li><a href="/government/public-and-private-acts-and-resolutions.html">Public and Private Acts and Resolutions</a></li> 
+          <li><a href="/government/tennessee-rules-and-regulations.html">Tennessee Rules and Regulations</a></li> 
+          <li><a href="/government/legislative-bill-search0.html">Legislative Bill Search</a></li> 
+          <li><a href="/government/state-employees-.html">State Employees </a></li> 
+          <li><a href="/government/federal.html">Federal</a></li> 
+          <li><a href="/government/governor.html">Governor </a></li> 
+          <li><a href="/government/redirect-first-lady-crissy-haslam.html">First Lady </a></li> 
+          <li><a href="/government/elected-officials.html">Elected Officials</a></li> 
+         </ul> </li> 
+        <li> <a href="/employment.html">Employment</a> </li> 
+        <li class="dropdown"> <a href="/directory.html">Directory<i class="icon-down-dir"></i></a> 
+         <ul> 
+          <li><a href="/directory/department-directory.html">Department Directory</a></li> 
+          <li><a href="/directory/state-phone-directory.html">State Phone Directory</a></li> 
+          <li><a href="/directory/county-city-web-sites.html">County &amp; City Web Sites</a></li> 
+          <li><a href="/directory/county-officials-listing.html">County Officials Listing</a></li> 
+          <li><a href="/directory/city-officials-listing.html">City Officials Listing</a></li> 
+          <li><a href="/directory/local-law-enforcement.html">Local Law Enforcement</a></li> 
+          <li><a href="/directory/find-your-legislator.html">Find Your Legislator</a></li> 
+         </ul> </li> 
+        <li> <a href="/help.html">Help</a> </li> 
+       </ul> 
+       <div class="right primary-print"> 
+        <a href="javascript:window.print();" class="icon-print"><span class="sr-only">Print This Page</span></a> 
+       </div> 
+       <div class="right secondary-print"> 
+        <a href="javascript:window.print();" class="icon-print"><span class="sr-only">Print This Page</span></a> 
+       </div> 
+       <div class="right secondary-search"> 
+        <a class="icon-search"><span class="sr-only">Go to Search</span></a> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="config hidden" data-config="{&quot;closeMenuText&quot;:&quot;Close Menu&quot;,&quot;menuText&quot;:&quot;Section&quot;}"></div> 
+    </nav> 
+   </div> 
+   <div class="tn-alerts"> 
+   </div> 
+  </noindex> 
+  <div id="main" tabindex="-1"> 
+   <div class="row center-block"> 
+    <div class="template-left-nav tn-leftnav"> 
+     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
+      <nav class="side expander"> 
+       <h2 class="border-red"> <a href="/web-policies.html">Web Policies</a> </h2> 
+       <ul class="block-list"> 
+        <li> <a href="/web-policies/privacy-statement.html">Privacy Statement</a> </li> 
+        <li class="active"> <a href="/web-policies/accessibility.html">Accessibility Statement</a> </li> 
+        <li> <a href="/web-policies/linking-policy.html">Linking Policy</a> </li> 
+        <li> <a href="/web-policies/security-statement.html">Security Statement</a> </li> 
+        <li> <a href="/web-policies/dmca.html">Digital Millennium Copyright Act (DMCA)</a> </li> 
+        <li> <a href="/web-policies/child-online-privacy-protection-act--coppa-.html">Child Online Privacy Protection Act (COPPA)</a> </li> 
+       </ul> 
+      </nav> 
+     </div> 
+    </div> 
+    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 content"> 
+     <article> 
+      <div class="tn-pagetitle show" aria-hidden="false"> 
+       <h1>Accessibility Statement</h1> 
+      </div> 
+      <div> 
+       <div class="tn-rte parbase"> 
+        <p>Accessible Web design provides benefits to both those using assistive technology, as well as others. It provides benefit to users with text-based browsers, low-end processors, slow modem connections, or users who do not have state-of-the-art computer equipment. It also allows for easier access to the Internet via technologies such as internet-enabled phones or personal digital assistants.</p> 
+        <p>Tennessee executive branch agency Web sites are subject to the same accessible Web standards as federal agencies. Section 508 of the Rehabilitation Act of 1973 (29 U.S.C.&nbsp; § 794(d), as amended) establishes requirements for federal electronic and information technology, and the federal Access Board has issued the standards to meet those requirements.</p> 
+        <p>We are committed to making TN.gov accessible to all users and we have included several features designed to improve accessibility for all users. We welcome comments on how to improve the site's accessibility for users with disabilities.</p> 
+        <p>If you use assistive technology and the format of any material prevents your ability to access the information, please contact us for assistance. In order to respond in a manner most helpful to you, please note the nature of your accessibility concern, the preferred format in which to receive the online material, the Web page address of the requested material, and the best way to contact you.</p> 
+        <p>Hard copy documents are available for those unable to access or view the downloadable files on this Web site. Simply contact us by phone or e-mail to make your request.</p> 
+        <p><strong>Web Help &amp; Application Management</strong><br> Phone: (629) 888-5870<br> Toll Free: (888) 890-8183<br> E-mail: <a title="Support email address for TN.gov's Web Help &amp; Application Management Team." href="mailto:apps.support.tn.gov">Apps.Support@tn.gov</a></p> 
+       </div> 
+       <div class="tn-hr">
+        <hr> 
+       </div> 
+       <div class="tn-rte parbase"> 
+        <p>To file a complaint you can follow the steps below:</p> 
+        <ul> 
+         <li>Complete the form here to submit a compliant to the&nbsp;Web Help &amp; Application Management Team.</li> 
+        </ul> 
+       </div> 
+       <div class="tn-accordion parbase"> 
+        <div class="panel-group" id="accordion-a23dda6e4dd94f888dfff2c4df33014d"> 
+         <div class="panel"> 
+          <div class="panel-heading"> 
+           <h4 class="panel-title"> <a class="icon-angle-right collapsed" data-toggle="collapse" data-parent="#accordion-a23dda6e4dd94f888dfff2c4df33014d" href="#collapsea23dda6e4dd94f888dfff2c4df33014d-1">Compliant Form</a> </h4> 
+          </div> 
+          <div id="collapsea23dda6e4dd94f888dfff2c4df33014d-1" class="panel-collapse collapse"> 
+           <div class="panel-body"> 
+            <div> 
+             <div class="tn-formstack"> 
+              <script type="text/javascript" src="https://stateoftennessee.formstack.com/forms/js.php/508_tn_gov_complaint"></script> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tn-rte parbase"> 
+        <ul> 
+         <li>E-mail: the Web Help &amp; Application Management Team at&nbsp;&nbsp;<a title="Support email contact for TN.gov's Web Help &amp; Application Manangement Team" href="mailto:apps.support@tn.gov" style="background-color: rgb(255,255,255);">Apps.Support@tn.gov</a>, please include the web address or URL along with a detailed description of the problems you have encountered.<br> </li> 
+         <li>Mail the complaint to:<br> Attn: Portal Solutions Team<br> Tennessee Tower 20th Floor<br> 312 Rosa L. Parks Avenue<br> Nashville, TN 37243</li> 
+        </ul> 
+       </div> 
+       <div class="tn-panel">
+        <div class="panel"> 
+         <div> 
+          <div class="tn-rte parbase"> 
+           <h4 style="font-size: 18.0px;line-height: 24.0px;margin-bottom: 0.0px;">IMPORTANT: Only messages regarding technical accessibility will be answered at this e-mail address. All other questions should be sent to the <a href="/content/tn/directory.html">appropriate state agency</a>.</h4> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </article> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="tn-backtotop">
+   <a href="#header" class="page-top icon-up"></a> 
+  </div> 
+  <noindex> 
+   <div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+     </div> 
+    </div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+     </div> 
+    </div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+      <div class="tn_footer tn-footer parbase"> 
+       <footer id="footer"> 
+        <div id="footer-top"> 
+         <div class="row"> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns"> 
+           <ul class="inline-list"> 
+            <li> <a href="/about-tn/flag-status.html" class="icon-flag" data-resource-path="/_jcr_content/footer/tn_footer"> </a> </li> 
+            <li id="footer-livechat" class="offline"> <a href="#" class="icon-chat" onclick="openFooterChat()" target="_blank"> Live Chat </a> 
+             <div class="livechat"> 
+              <script type="text/javascript">
+                                function openFooterChat() {
+                                    window.open ("https://help.tn.gov/sn_customerservice_tn_chat_selector.do", "popup", "width=900, height=600"); 
+                                 };
+                            </script> 
+             </div> </li> 
+           </ul> 
+          </div> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns text-right"> 
+           <ul class="inline-list"> 
+            <li> <a href="/help.html" class="icon-help-circled">Help</a> </li> 
+            <li id="footer-share"><a href="#" class="icon-export">Share</a> 
+             <div class="drop right"> 
+              <div class="box"> 
+               <span class="st_sharethis_large" displaytext="ShareThis"></span> 
+               <span class="st_facebook_large" displaytext="Facebook"></span> 
+               <span class="st_twitter_large" displaytext="Tweet"></span> 
+               <span class="st_googleplus_large" displaytext="Google +"></span> 
+               <span class="st_linkedin_large" displaytext="LinkedIn"></span> 
+               <script type="text/javascript">
+                                    var switchTo5x = true;
+                                </script> 
+               <script type="text/javascript" src="//ws.sharethis.com/button/buttons.js"></script> 
+               <script type="text/javascript">
+                                    if (typeof stLight !== 'undefined') {
+                                        stLight.options({
+                                            publisher : "5dc356bf-5442-455c-b483-ab8ca7d8cd15",
+                                            doNotHash : false,
+                                            doNotCopy : false,
+                                            hashAddressBar : false
+                                        });
+                                    }
+                                </script> 
+              </div> 
+             </div></li> 
+            <li id="footer-translate"><a href="#" class="icon-book">Translate</a> 
+             <div class="drop right"> 
+              <div class="box"> 
+               <div id="google_translate_element"></div> 
+              </div> 
+             </div></li> 
+            <li id="footer-fontsize"><a href="#" class="icon-font">Font Size</a> 
+             <div class="drop right"> 
+              <div class="box"> 
+               <ul class="inline-list"> 
+                <li><a class="button" data-font-size="small">a-</a></li> 
+                <li><a class="button active" data-font-size="normal">Normal</a></li> 
+                <li><a class="button" data-font-size="large">A+</a></li> 
+               </ul> 
+              </div> 
+             </div></li> 
+           </ul> 
+          </div> 
+         </div> 
+         <a class="starball"> <img src="/etc/clientlibs/tncore/main/img/footer-starball.png" alt="Tristar" width="100%"> </a> 
+        </div> 
+        <div id="footer-bottom"> 
+         <div class="row"> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns"> 
+           <ul class="inline-list"> 
+            <li> <a href="/state-services.html" class="first">TN.gov Services</a> <a href="/directory.html">TN.gov Directory</a> <a href="/transparenttn.html">Transparent TN</a> <a href="/web-policies/privacy-statement.html">Web Policies</a> </li> 
+           </ul> 
+          </div> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns text-right"> 
+           <ul class="inline-list"> 
+            <li> <a href="/about-tn/state-symbols.html">About Tennessee</a> <a href="/humanrights/file-a-discrimination-complaint/title-vi1/title-vi-disclaimer.html">Title VI</a> <a href="/web-policies/accessibility.html">Accessibility</a> <a href="/help.html">Help &amp; Contact</a> <a href="/survey.html">Survey</a> </li> 
+           </ul> 
+          </div> 
+         </div> 
+        </div> 
+       </footer> 
+       <div id="modal-footer"></div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <script type="text/javascript" src="/etc/clientlibs/tncore/main.min.73d9ee3d42191396dd2a3447bf54bab7.js"></script> 
+   <script type="text/javascript">_satellite.pageBottom();</script> 
+  </noindex> 
+  <div id="overlay"></div> 
+  <!-- Begin Dynamic Modal for Videos --> 
+  <div class="tn-videoModal modal fade" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="videoModal" aria-hidden="true"> 
+   <div class="modal-dialog"> 
+    <div class="modal-content"> 
+     <div class="modal-body"> 
+      <a href="#" data-dismiss="modal" class="close-video icon-cancel text-button">Close</a> 
+      <div class="videoWrapper"> 
+       <iframe src=""></iframe> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- End Dynamic Modal for Videos --> 
+  <!-- DTM Analytics Datalayer --> 
+  <script>
+            var digitalData = { pageInfo: {} };
+            digitalData.pageInfo.pageName = "web-policies:accessibility";
+        </script>   
+ </body>
+</html>

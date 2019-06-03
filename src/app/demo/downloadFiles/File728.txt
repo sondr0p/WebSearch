@@ -1,0 +1,506 @@
+<!doctype html>
+<html lang="en" dir="ltr" prefix="fb: //www.facebook.com/2008/fbml">
+ <head> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <!-- Google Tag Manager --> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-WLMC86');</script> 
+  <!-- End Google Tag Manager --> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <link rel="shortcut icon" href="https://www.archives.gov/files/apple-icon.png" type="image/png"> 
+  <meta name="description" content="The Administrative Committee of the Federal Register (ACFR) oversees the functions of the Federal Register publications system. &nbsp; Learn More &nbsp;"> 
+  <meta name="generator" content="Drupal 7 (http://drupal.org)"> 
+  <link rel="canonical" href="https://www.archives.gov/federal-register/publications"> 
+  <meta property="og:site_name" content="National Archives"> 
+  <meta property="og:type" content="article"> 
+  <meta property="og:url" content="https://www.archives.gov/federal-register/publications"> 
+  <meta property="og:title" content="Federal Register Publications"> 
+  <meta property="og:description" content="The Administrative Committee of the Federal Register (ACFR) oversees the functions of the Federal Register publications system. &nbsp; Learn More &nbsp;"> 
+  <meta property="og:updated_time" content="2018-04-26T17:13:06-04:00"> 
+  <meta name="twitter:card" content="summary"> 
+  <meta name="twitter:url" content="https://www.archives.gov/federal-register/publications"> 
+  <meta name="twitter:title" content="Federal Register Publications"> 
+  <meta name="twitter:description" content="The Administrative Committee of the Federal Register (ACFR) oversees the functions of the Federal Register publications system. &nbsp; Learn More &nbsp;"> 
+  <meta property="article:published_time" content="2016-08-15T17:31:26-04:00"> 
+  <meta property="article:modified_time" content="2018-04-26T17:13:06-04:00"> 
+  <title>Federal Register Publications | National Archives</title> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_9Q-k-fv_k3FHvcs9CSZ2iD5CTqFxrfaej2FCw2mYIoA.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_BTbypzlNYVbptuza8qzKwXCnB4TjuEzUY43Cz2FsXVA.css" media="all"> 
+  <style>.section-theme #title-bar{background:#8d7e46 url("https://www.archives.gov/files/global-images/section-headers/federal-register1.png") no-repeat center right;}.section-theme #mega-footer > h2{background:#8d7e46}.section-theme #title-bar .breadcrumb{background-color:rgba(187,167,93,0.5);}.section-theme th{background-color:#8d7e46 !important;}
+</style> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_NkrvYXS3XFN6HNXLylk-Jr8h6vd7bMQSZUSOsRKtvhE.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_adYIwY5AiFQ05gx1uTxNpkKu9JMeTmi7MedA-D3wWww.css" media="all"> 
+  <!-- HTML5 element support for IE6-8 --> 
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]--> 
+  <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic|Merriweather"> 
+  <script src="https://www.archives.gov/files/js/js_0RyHJ63yYLuaWsodCPCgSD8dcTIA0dqcDf8-7c2XdBw.js"></script> 
+  <script src="https://www.archives.gov/files/js/js_0pQJ_xts95IaRyXneDD9tPnYjBy63RQPzNHeLe2LDCg.js"></script> 
+  <script src="https://www.archives.gov/files/js/js_4DGuaDZ5Ckd4u9axaS2f90X-RYp7QlC5RWbsjSLu2-8.js"></script> 
+  <script src="https://www.archives.gov/files/js/js_KyGDO1Fxjv5b9iLtei_bvtKprP3C83MXZ8wgYXbj8bA.js"></script> 
+  <script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"nara","theme_token":"GtU-LPe81ssdTbL1HtzuX9u2vJy-mY0Utx6PgY__zLc","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/custom\/archives_ui\/scripts\/helptext.js":1,"sites\/all\/modules\/custom\/argentina\/js\/script.js":1,"sites\/all\/modules\/custom\/nara_catalog\/js\/script.js":1,"sites\/all\/modules\/contrib\/user_alert\/js\/user-alert.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/custom\/nara_custom\/js\/nara_custom.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/affix.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/alert.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/button.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/carousel.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/collapse.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/dropdown.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/modal.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/tooltip.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/popover.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/scrollspy.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/tab.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/transition.js":1,"sites\/all\/themes\/nara\/scripts\/jPanelMenu.js":1,"sites\/all\/themes\/nara\/scripts\/jRespond.js":1,"sites\/all\/themes\/nara\/scripts\/matchHeight.min.js":1,"sites\/all\/themes\/nara\/scripts\/jquery.fancybox.pack.js":1,"sites\/all\/themes\/nara\/scripts\/toc.js":1,"sites\/all\/themes\/nara\/scripts\/scripts.js":1,"sites\/all\/themes\/nara\/scripts\/jquery.scrollTo.js":1,"sites\/all\/themes\/nara\/scripts\/mediagallery.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/custom\/archives_ui\/css\/font-awesome.min.css":1,"sites\/all\/modules\/custom\/archives_ui\/css\/helptext.css":1,"sites\/all\/modules\/custom\/archives_ui\/css\/ckeditor_custom.css":1,"sites\/all\/modules\/custom\/argentina\/css\/argentina_style.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/custom\/liaisons\/css\/liaisons_style.css":1,"sites\/all\/modules\/custom\/nara_catalog\/css\/nara-api-style.css":1,"sites\/all\/modules\/archive_features\/nara_timeline\/css\/custom.css":1,"sites\/all\/modules\/archive_features\/nara_timeline\/css\/timeline.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/user_alert\/css\/user-alert.css":1,"sites\/all\/modules\/custom\/varnish_purge\/css\/varnishpurge.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"0":1,"sites\/all\/modules\/custom\/nara_custom\/css\/nara_custom.css":1,"sites\/all\/themes\/nara\/css\/jquery.fancybox.css":1,"sites\/all\/themes\/nara\/css\/jquery.fancybox-thumbs.css":1,"sites\/all\/themes\/nara\/css\/do_not_edit.css":1,"sites\/all\/themes\/nara\/css\/bootstrap.min.css":1,"sites\/all\/themes\/nara\/css\/styles.css":1,"sites\/all\/themes\/nara\/css\/vertical-tabs.css":1,"sites\/all\/themes\/nara\/css\/overrides.css":1,"sites\/all\/themes\/nara\/css\/mediagallery.css":1}},"archives_ui":{"trustedDomains":["twitter\\.com","youtube\\.com","youtu\\.be","recordsofrights\\.org","presidentialtimeline\\.org","nationalarchivesstore\\.org","bush41\\.org","nara\\.learn\\.com","bush41\\.org","bushlibrary\\.tamu\\.edu","fdrlibrary\\.marist\\.edu","georgewbushlibrary\\.smu\\.edu","lbjlibrary\\.org","trumanlibrary\\.org","fdrlibrary\\.org","archivesfoundation\\.org","jfklibrary\\.org","Myarchivesstore\\.org","docsteach\\.org","digitalvaults\\.org","jfk50\\.org","reagan\\.utexas\\.edu","clinton\\.presidentiallibraries\\.us","fdrlibrary\\.org","us11\\.campaign-archive.?\\.com","lbjlibrary\\.net","github\\.io","github\\.com","eventbrite\\.com","facebook\\.com","pinterest\\.com","tumblr\\.com","google\\.com","historypin\\.org","giphy\\.com","instagram\\.com","flickr\\.com","foursquare\\.com","addthis\\.com","apple\\.com","georgebushfoundation\\.org","clintonpresidentialcenter\\.org","geraldrfordfoundation\\.org","reaganfoundation\\.org","rooseveltinstitute\\.org","socialarchive\\.iath\\.virginia.edu","s3\\.amazonaws\\.com","surveymonkey\\.com","storify\\.com","constantcontact\\.com","snaccooperative\\.org"]},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"user_alert":{"url_prefix":"","current_path":"federal-register\/publications"},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script> 
+  <style type="text/css">
+div.form-item-body-und-0-format {
+	display:none;
+}
+div.form-item-field-col-b-und-0-format {
+	display:none;
+}
+div.filter-guidelines {
+	display:none;
+}
+div.filter-help {
+	display:none;
+}
+</style> 
+  <style type="text/css">
+ul.nav-tabs {
+display:none;
+}
+#block-workbench-block {
+display:none;
+}
+</style> 
+ </head> 
+ <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-49597 node-type-3-col-page "> 
+  <!-- Google Tag Manager (noscript) --> 
+  <noscript>
+   <iframe alt="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-WLMC86" height="0" width="0" style="display:none;visibility:hidden" title="Google Tag Manager"></iframe>
+  </noscript> 
+  <!-- End Google Tag Manager (noscript) --> 
+  <div id="background-gradient"> 
+   <div class="wrapper section-theme "> 
+    <a class="back-to-top" href="#page-header" style="display: none;">Top</a> 
+    <div id="skip-link"> 
+     <a href="#main-col" class="element-invisible element-focusable">Skip to main content</a> 
+    </div> 
+    <div class="wrapper section-theme"> 
+     <header id="page-header"> 
+      <div class="region region-header"> 
+       <section id="block-block-53" class="block block-block clearfix"> 
+        <div class="col-sm-6" id="logo-wrapper"> 
+         <div id="logo">
+          <a href="/">The U.S. National Archives Home</a>
+         </div> 
+         <button id="nav-toggle" class="navbar-toggle" type="button"></button> 
+        </div> 
+        <div class="col-sm-6" id="search-wrapper"> 
+         <div id="top-links"> 
+          <a class="noBorder" href="/social-media/blogs.html">Blogs</a> · 
+          <script type="text/javascript">// <![CDATA[
+        var addthis_pub = "usarchives";
+        var addthis_offset_left = -40;
+        var addthis_brand = "Archives.gov";
+        // ]]></script> 
+          <a class="addthisLink" onclick="return addthis_sendto();" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]');" onmouseout="addthis_close();" onfocus="return addthis_open(this, '', '[URL]', '[TITLE]');" onblur="addthis_close();" href="https://www.addthis.com/bookmark.php?v=250">Bookmark/Share</a> · 
+          <script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js"></script> 
+          <a href="/contact">Contact Us</a> 
+         </div> 
+         <div class="input-group" id="site-search"> 
+          <form action="https://search.archives.gov/search" method="get" name="search"> 
+           <input class="form-control" id="qt" accesskey="s" type="text" name="query" placeholder="Search Archives.gov" title="Search Archives.gov"> 
+           <span class="input-group-btn"> <button class="btn btn-default" id="go" type="submit" name="submit">Search</button> </span> 
+           <input type="hidden" value="" name="utf8"> 
+           <input id="affiliate" type="hidden" value="national-archives" name="affiliate"> 
+          </form> 
+         </div> 
+        </div> 
+       </section> 
+      </div> 
+     </header> 
+     <!-- /#page-header --> 
+     <nav id="main-nav" class="clearfix "> 
+      <h2 class="element-invisible">Main menu</h2>
+      <ul id="main-menu-links" class="links clearfix make-eq">
+       <li class="menu-859 first research"><a href="/research" title="Explore our nation's history through our documents, photographs, and records." id="research">Research Our Records</a></li> 
+       <li class="menu-860 veterans"><a href="/veterans" title="Request military records and learn about other services for yourself or a family member." id="veterans" class="veterans">Veterans' Service Records</a></li> 
+       <li class="menu-861 teachers"><a href="/education" title="Engage students with lesson plans and other classroom materials." id="teachers" class="teachers">Educator Resources</a></li> 
+       <li class="menu-862 locations"><a href="/locations" title="Plan a trip to a facility near you or learn about our national network of locations and services." id="locations" class="locations">Visit Us</a></li> 
+       <li class="menu-367 last shop"><a href="/founding-docs" title="Order books, gift items, photographic prints, and document reproductions online." id="shop" class="shop">America's Founding Documents</a></li> 
+      </ul> 
+     </nav>
+     <!-- /main-nav --> 
+     <div class="page-body-wrapper"> 
+      <div id="page-body" class="no-sidebar"> 
+       <header id="title-bar"> 
+        <p>Federal Register</p> 
+        <div class="breadcrumb"> 
+         <a href="/">Home</a> &gt; 
+         <a href="/federal-register">Federal Register</a> &gt; Federal Register Publications 
+        </div>
+        <!-- /breadcrumbs --> 
+       </header> 
+       <div class="row"> 
+        <nav class="col-sm-2"> 
+         <aside id="sidebar-first"> 
+          <nav id="left-menu" class=""> 
+           <h3>About Federal Register Publications</h3> 
+           <ul> 
+            <li><a href="/federal-register/cfr/about.html">Code of Federal Regulations (CFR)</a></li> 
+            <!--<li><a href="http://www.gpo.gov/fdsys/browse/collection.action?collectionCode=LSA">List of CFR Sections Affected (LSA)</a></li>--> 
+            <li><a href="/federal-register/the-federal-register/about.html">The <em>Federal Register</em></a></li> 
+            <li><a href="/federal-register/publications/privacy-act.html">Privacy Act Issuances</a></li> 
+            <li><a href="/federal-register/laws/about.html">Public and Private Laws</a></li> 
+            <li><a href="/federal-register/publications/presidential-papers.html">Public Papers of the Presidents of the United States</a></li> 
+            <li><a href="/federal-register/publications/laws.html#slip">Slip Laws</a></li> 
+            <!--<li><a href="/federal-register/publications/index.html#agenda">Unified Agenda</a></li>--> 
+            <li><a href="/federal-register/publications/government-manual.html">U.S. Government Manual</a></li> 
+            <li><a href="/federal-register/publications/statutes.html">U.S. Statutes at Large</a></li> 
+            <li><a href="/federal-register/publications/presidential-compilation.html">Compilation of Presidential Documents</a></li> 
+            <div class="nwidget nsnippet" data-name="print-page-left" data-version="1"> 
+             <h3>Federal Register</h3> 
+             <ul> 
+              <li> <a href="/federal-register/news.html">Hot off the Presses</a> </li> 
+              <li> <a href="/federal-register/publications/index.html">Find a Document</a> </li> 
+              <li> <a href="/federal-register/write/">For Federal Agencies</a> </li> 
+              <li> <a href="/federal-register/publications/faqs.html">Need More Information?</a> </li> 
+              <li> <a href="/federal-register/contact.html">Contact Us</a> </li> 
+             </ul> 
+             <div id="shared-search"> 
+              <a class="buttonLink bigger-image" href="/federal-register/publications/"><span>Search our Publications</span></a> 
+             </div> 
+            </div> 
+           </ul> 
+          </nav> 
+         </aside> 
+         <!-- /#sidebar-first --> 
+        </nav> 
+        <div id="main-col" class="col-sm-7"> 
+         <p id="print-logo"> <img src="/sites/all/themes/nara/images/nara-print-logo.jpg" alt="National Archives Logo"> </p> 
+         <div class="region region-content"> 
+          <section id="block-system-main" class="block block-system clearfix"> 
+           <h1>Federal Register Publications</h1> 
+           <div id="shared"> 
+            <p>The Administrative Committee of the Federal Register (ACFR) oversees the functions of the Federal Register publications system. &nbsp; <a class="moreLink" href="/federal-register/acfr/">Learn More</a></p> 
+           </div> 
+           <!--
+<h2>
+
+<p><i class="fa fa-book"></i> Our Publications--> 
+           <p>&nbsp;</p> 
+           <h2><a name="updates"></a>Stay Updated</h2> 
+           <blockquote>
+            Sign up for Electronic Mailing Lists to receive up-to-date information by e-mail.
+           </blockquote> 
+           <h3>Daily Federal Register</h3> 
+           <p><a href="https://go.usa.gov/xNmzp" target="_blank">Today's Issue</a>&nbsp;|&nbsp;<a href="https://go.usa.gov/xNmz7" target="_blank">Subscriptions and RSS Feeds</a>&nbsp;|&nbsp;<a href="https://go.usa.gov/xNmzA" target="_blank">Search Online</a></p> 
+           <blockquote>
+            The official daily publication for rules, proposed rules, and notices of Federal agencies and organizations, as well as executive orders and other Presidential documents.&nbsp;
+            <a href="https://go.usa.gov/xNmSU" target="_blank">Learn More</a>
+           </blockquote> 
+           <h3>Code of Federal Regulations (CFR)</h3> 
+           <blockquote>
+            The codification of the general and permanent rules published in the Federal Register by the executive departments and agencies of the Federal Government. It is divided into 50 titles that represent broad areas subject to Federal regulation. Each volume of the CFR is updated once each calendar year and is issued on a quarterly basis.&nbsp;
+            <a _blank="" href="https://go.usa.gov/xNmSP">Learn More</a>&nbsp;| 
+            <a href="https://go.usa.gov/xNmSQ" target="_blank">Search Online</a>
+           </blockquote> 
+           <h3>Electronic Code of Federal Regulations (e-CFR)</h3> 
+           <blockquote>
+            The Electronic Code of Federal Regulations (e-CFR) is a currently updated version of the Code of Federal Regulations (CFR). The e-CFR is an editorial compilation of CFR material and Federal Register amendments, not an official legal edition of the CFR. The OFR updates the material in the e-CFR on a daily basis. The current update status appears at the top of all e-CFR web pages.&nbsp;
+            <a href="/federal-register/cfr/about.html" target="_blank">Learn More</a>&nbsp;| 
+            <a href="https://go.usa.gov/xNmSV" target="_blank">Search Online</a>
+           </blockquote> 
+           <h3>Compilation of Presidential Documents</h3> 
+           <blockquote>
+            The official publication of presidential statements, messages, remarks, and other materials released by the White House Press Secretary. 
+            <a href="/federal-register/publications/presidential-compilation.html" target="_blank">Learn More</a>&nbsp;|&nbsp;
+            <a href="https://go.usa.gov/xNmsq" target="_blank">Search Online</a>
+           </blockquote> 
+           <h3>Federal Register Index</h3> 
+           <blockquote>
+            This index provides descriptive entries and Federal Register page numbers for documents published in the daily Federal Register. It includes entries, with select metadata for all documents published in a&nbsp;calendar year. 
+            <a href="https://go.usa.gov/xNmt6" target="_blank">Search Online</a>
+           </blockquote> 
+           <h3>List of CFR Sections Affected (LSA)</h3> 
+           <blockquote>
+            Lists proposed, new, and amended Federal regulations that have been published in the Federal Register since the most recent revision date of a CFR title. Each LSA issue is cumulative and contains the CFR part and section numbers, a description of its status, and the Federal Register page number where the change(s) may be found.&nbsp;
+            <a href="https://go.usa.gov/xNmuT" target="_blank">Learn More</a>&nbsp;| 
+            <a href="https://go.usa.gov/xNmAb" target="_blank">Search Online</a>
+           </blockquote> 
+           <h3>Privacy Act Issuances</h3> 
+           <blockquote>
+            Contains descriptions of Federal agency systems of records maintained on individuals and procedures Federal agencies follow to assist individuals who request information about their records. The categories of documents in this database are: individual Privacy Act system descriptions, computer matching program notices, and agency record keeping policies and practices.&nbsp;
+            <a href="/federal-register/publications/privacy-act.html" target="_blank">Learn More</a>&nbsp;|&nbsp;
+            <a href="https://go.usa.gov/xNmSG" target="_blank">Search Online</a>
+           </blockquote> 
+           <h3>Public &amp; Private Laws</h3> 
+           <p><a href="/federal-register/laws/updates.html" target="_blank">Recent Public Laws</a>&nbsp;|&nbsp;<a href="/federal-register/laws/updates.html" target="_blank">Receive E-mail Updates</a></p> 
+           <blockquote>
+            Contains laws signed by the President. The database for the current session of Congress is updated when the publication of a slip law is authorized by OFR. Laws signed by the President become known as "slip laws." At the end of every session of Congress, "slip laws" are compiled in to the Statutes at Large and are know as "session laws." Every six years, the "session laws" are incorporated into the United States Code, the codification of all general and permanent laws of the United States.&nbsp;
+            <a href="/federal-register/laws/index.html" target="_blank">Learn More</a>&nbsp;| 
+            <a href="https://go.usa.gov/xNmA8" target="_blank">Search Online</a>
+           </blockquote> 
+           <h3>Public Papers of the Presidents</h3> 
+           <blockquote>
+            Official series of Presidential writings, addresses, and remarks of a public nature. Volumes covering the administrations of Presidents Hoover, Truman, Eisenhower, Kennedy, Johnson, Nixon, Ford, Carter, Reagan, Bush, and Clinton are included in the Public Papers series, though they are not all available online at this time. 
+            <a href="/files/federal-register/publications/presidential-papers.html" target="_blank">Learn More</a>&nbsp;| 
+            <a href="https://go.usa.gov/xNmAz" target="_blank">Search Online</a>
+           </blockquote> 
+           <h3>United States Government Manual</h3> 
+           <blockquote>
+            Provides comprehensive information on the agencies of the legislative, judicial, and executive branches. It also includes information on quasi-official agencies, international organizations in which the United States participates, and boards, commissions, and committees. 
+            <a href="/federal-register/publications/government-manual.html">Learn More</a>&nbsp;| 
+            <a href="https://go.usa.gov/xNmAS" target="_blank">Search Online</a>
+           </blockquote> 
+           <h3>United States Statutes at Large</h3> 
+           <blockquote>
+            The United States Statutes at Large, typically referred to as the Statutes at Large, is the permanent collection of all laws and resolutions enacted during each session of Congress. The Statutes at Large is prepared and published by the Office of the Federal Register (OFR), National Archives and Records Administration (NARA). GPO Access contains the statutes enacted in the 108th Congress, first session, Volume 117, with future volumes to be added as they become available.&nbsp;
+            <a href="/federal-register/publications/laws.html#statutes" target="_blank">Learn More</a>&nbsp;|&nbsp;
+            <a href="https://go.usa.gov/xNmsc" target="_blank">Search Online</a>
+           </blockquote> 
+           <h3>Document Drafting Handbook.&nbsp;<a href="/federal-register/write/handbook/" target="_blank">Read Online</a></h3> 
+           <h3>Unified Agenda</h3> 
+           <blockquote>
+            Summarizes the rules and proposed rules that each Federal agency expects to issue during the next six months. The Unified Agenda is published twice a year (usually in April and October) in the Federal Register (FR).
+            <br> 
+            <a href="/federal-register/publications/privacy-act.html" target="_blank">Learn More</a>&nbsp;|&nbsp;
+            <a href="https://go.usa.gov/xNmsX" target="_blank">Search Online</a>
+           </blockquote> 
+           <blockquote> 
+            <div class="nwidget nsocial-link block title-box " data-additional-classes="" data-facebook="ssc" data-flickr="" data-googleplus="" data-instagram="" data-pinterest="" data-rss="" data-title="OFR Social Media" data-tumblr="" data-twitter="ddd" data-version="1" data-youtube="sdad"> 
+             <h2>OFR Social Media</h2> 
+             <ul> 
+              <li class="facebook"><a href="https://www.facebook.com/FederalRegister/" target="_blank">Facebook</a></li> 
+              <li class="twitter"><a href="https://twitter.com/FedRegister?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">Twitter</a></li> 
+              <li class="youtube"><a href="https://www.youtube.com/channel/UCy8Kt0krukch1c6u6qB6wHA" target="_blank">YouTube</a></li> 
+             </ul> 
+            </div> 
+            <p>&nbsp;</p> 
+           </blockquote> 
+          </section> 
+         </div> 
+        </div> 
+        <a name="sidebar"></a> 
+        <div id="sidebar" class="col-sm-3"> 
+         <aside id="sidebar-second"> 
+          <div>
+           <!-- Begin Shared Publications Shortcuts --> 
+           <div id="shared-pubs">
+            <div class="block title-box">
+             <h2>Shortcuts to Federal Register Publications</h2> 
+             <ul> 
+              <li><a href="/federal-register/public-inspection/">Tomorrow's <em>Federal Register</em></a></li> 
+              <li><a href="/federal-register/executive-orders/">Executive Orders</a></li> 
+              <li><a href="/federal-register/public-inspection/">Public Inspection List</a></li> 
+              <li><a href="/federal-register/laws/">Public Laws</a><br> &nbsp;</li> 
+             </ul> 
+             <ul> 
+              <li><a href="http://www.gpo.gov/fdsys/search/getfrtoc.action">Today's <em>Federal Register</em></a></li> 
+              <li><a href="http://www.gpo.gov/fdsys/browse/collectionCfr.action?collectionCode=CFR">Electronic CFR</a></li> 
+              <li><a href="http://www.gpo.gov/fdsys/search/searchresults.action?st=federal+register">Search our Publications</a></li> 
+             </ul> 
+             <hr> 
+             <ul class="lines"> 
+              <li><a class="" href="/federal-register/publications/access.html"> <i class="fa fa-binoculars">&nbsp;</i>Where to Find Publications </a></li> 
+              <li><a class="" href="/federal-register/publications/index.html#updates"> <i class="fa fa-fire">&nbsp;</i>Stay Updated </a></li> 
+              <li><a class="" href="/federal-register/publications/faqs.html"> <i class="fa fa-question-circle">&nbsp;</i>Frequently Asked Questions </a></li> 
+             </ul> 
+            </div>
+           </div> 
+           <!-- End Publications Shortcuts --> 
+           <div>
+            <img alt="Federal Register Publications" height="245" src="/files/federal-register/images/fedreg-pubs.jpg" width="175">
+           </div> 
+           <div class="spaceAbove">
+            <div class="block title-box">
+             <h2>GPO Describes Federal Register Publications</h2> 
+             <ul> 
+              <li><a href="http://www.gpo.gov/fdsys/browse/collectionCfr.action?collectionCode=CFR">Code of Federal Regulations</a></li> 
+              <li><a href="http://www.gpo.gov/fdsys/browse/collection.action?collectionCode=LSA">List of CFR Sections Affected</a></li> 
+              <li><a href="http://www.gpo.gov/fdsys/browse/collection.action?collectionCode=FR">Federal Register</a></li> 
+              <li><a href="http://www.gpo.gov/fdsys/browse/collection.action?collectionCode=PAI">Privacy Act Issuances</a></li> 
+              <li><a href="http://www.gpo.gov/fdsys/browse/collection.action?collectionCode=PLAW">Public and Private Laws</a></li> 
+              <li><a href="http://www.gpo.gov/fdsys/browse/collection.action?collectionCode=PPP">Public Papers of the Presidents of the United States</a></li> 
+              <li><a href="http://www.gpo.gov/fdsys/browse/collection.action?collectionCode=GPO&amp;browsePath=Unified+Agenda&amp;isCollapsed=false&amp;leafLevelBrowse=false&amp;ycord=0">Unified Agenda</a></li> 
+              <li><a href="http://www.gpo.gov/fdsys/browse/collection.action?collectionCode=GOVMAN">U.S. Government Manual</a></li> 
+              <li><a href="http://www.gpo.gov/fdsys/browse/collection.action?collectionCode=CPD">Weekly Compilation of Presidential Documents</a></li> 
+             </ul> 
+            </div>
+           </div> 
+          </div> 
+         </aside> 
+         <!-- /#sidebar-second --> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <!-- page-body-wrapper --> 
+     <footer id="page-footer"> 
+      <div class="clearfix row last-update-wrapper "> 
+       <p id="last-update"> <span class="glyphicon glyphicon-edit"></span> This page was last reviewed on April 26, 2018.<br> <a href="/contact">Contact us with questions or comments</a>. </p> 
+      </div> 
+      <section id="mega-footer" class="clearfix panel-group"> 
+       <h2 class="footer-title"> Archives.gov</h2> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#info-for">Information For…</a></h2> 
+        </div> 
+        <div id="info-for" class="panel-collapse"> 
+         <ul>
+          <li><a href="/citizen-archivist/">Citizen Archivists</a></li> 
+          <li><a href="/fed-employees/">Federal Employees</a></li> 
+          <li><a href="/research/genealogy/">Genealogists</a></li> 
+          <li><a href="/congress/">Members of Congress</a></li> 
+          <li><a href="/preservation/">Preservation</a></li> 
+          <li><a href="/records-mgmt/">Records Managers</a></li> 
+          <li><a href="/press/">The Press</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#pubs">Publications</a></h2> 
+        </div> 
+        <div id="pubs" class="panel-collapse"> 
+         <ul>
+          <li><a href="/federal-register/">Federal Register</a></li> 
+          <li><a href="/publications/prologue/">Prologue Magazine</a></li> 
+          <li><a href="/publications/ordering/">Purchase Publications</a></li> 
+          <li><a href="/publications/email-newsletters">Subscribe to Email Newsletters</a></li> 
+          <li><a href="/publications/">All Publications</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#orgs">Orgs. &amp; Offices</a></h2> 
+        </div> 
+        <div id="orgs" class="panel-collapse"> 
+         <ul>
+          <li><a href="/legislative/">Center for Legislative Archives</a></li> 
+          <li><a href="/frc/">Federal Records Center</a></li> 
+          <li><a href="/oig/">Office of the Inspector General</a></li> 
+          <li><a href="/presidential-libraries/">Presidential Libraries</a></li> 
+          <li><a href="/about/organization/">Staff Directory</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#about">About Us</a></h2> 
+        </div> 
+        <div id="about" class="panel-collapse"> 
+         <ul>
+          <li><a href="/about/">What is the National Archives?</a></li> 
+          <li><a href="/contracts/">Doing Business with Us</a></li> 
+          <li><a href="/about/plans-reports/">Plans and Reports</a></li> 
+          <li><a href="/open/">Open Government</a></li> 
+          <li><a href="/open/plain-writing/">Our Plain Language Activities</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#i-want-to">I Want To…</a></h2> 
+        </div> 
+        <div id="i-want-to" class="panel-collapse"> 
+         <ul>
+          <li><a href="/veterans/military-service-records/">Get My Military Record</a></li> 
+          <li><a href="/research/start/plan-visit">Plan a Research Visit</a></li> 
+          <li><a href="https://museum.archives.gov/">Visit the Museum</a></li> 
+          <li><a href="/exhibits/">View Online Exhibits</a></li> 
+          <li><a href="/grants/">Apply for a Grant</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#participate">Participate</a></h2> 
+        </div> 
+        <div id="participate" class="panel-collapse"> 
+         <ul>
+          <li><a href="/calendar/">Attend an Event</a></li> 
+          <li><a href="http://www.archivesfoundation.org/">Donate to the Archives</a></li> 
+          <li><a href="/careers/">Work at the Archives</a></li> 
+          <li><a href="/careers/volunteering/">Volunteer at the Archives</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#resources">Resources</a></h2> 
+        </div> 
+        <div id="resources" class="panel-collapse"> 
+         <ul>
+          <li><a href="/global-pages/subject-index.html">A-Z Index</a></li> 
+          <li><a href="/founding-docs/">America's Founding Docs</a></li> 
+          <li><a href="/contact/">Contact Us</a></li> 
+          <li><a href="/espanol/">En Español</a></li> 
+          <li><a href="/faqs/">FAQs</a></li> 
+          <li><a href="/forms/">Forms</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#shop-footer">Shop Online</a></h2> 
+        </div> 
+        <div id="shop-footer" class="panel-collapse"> 
+         <ul>
+          <li><a href="https://www.nationalarchivesstore.org/?utm_campaign=2019eStore&amp;utm_medium=website&amp;utm_source=nara&amp;utm_content=organic">Visit the National Archives Store</a></li> 
+          <li><a href="https://eservices.archives.gov/orderonline/">Buy Reproductions and Microfilm</a></li> 
+         </ul>
+        </div> 
+       </div> 
+      </section> 
+      <section id="sub-footer"> 
+       <div class="region region-footer-bottom"> 
+        <section id="block-block-54" class="block block-block clearfix"> 
+         <h2> <a href="https://www.archives.gov/social-media/">Connect With Us</a></h2> 
+         <ul class="clearfix" id="social-media"> 
+          <li class="facebook" data-original-title="Facebook" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/facebook">Facebook</a></li> 
+          <li class="twitter" data-original-title="Twitter" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/twitter">Twitter</a></li> 
+          <li class="instagram" data-original-title="Instagram" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/instagram">Instagram</a></li> 
+          <li class="tumblr" data-original-title="Tumblr" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/tumblr">Tumblr</a></li> 
+          <li class="youtube" data-original-title="YouTube" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/youtube">YouTube</a></li> 
+          <li class="blogs" data-original-title="Blogs" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/blogs">Blogs</a></li> 
+          <li class="flickr" data-original-title="Flickr" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/flickr">Flickr</a></li> 
+         </ul> 
+         <p> </p> 
+         <p id="footer-links"> <a href="/contact/">Contact Us</a> · <a href="/global-pages/accessibility.html">Accessibility</a> · <a href="/global-pages/privacy.html">Privacy Policy</a> · <a href="/foia/">Freedom of Information Act</a> · <a href="/eeo/policy/complaint-activity.html">No FEAR Act</a> · <a href="http://www.usa.gov/">USA.gov</a></p> 
+         <p id="footer-phone">The U.S. National Archives and Records Administration<br> <a href="tel:1-866-272-6272">1-86-NARA-NARA or 1-866-272-6272</a></p> 
+        </section> 
+       </div> 
+      </section> 
+     </footer>
+     <!-- /page-footer --> 
+    </div> 
+    <script src="/sites/all/themes/nara/scripts/jquery.fancybox.pack.js" type="text/javascript"></script> 
+    <script src="/sites/all/themes/nara/scripts/helpers/jquery.fancybox-media.js" type="text/javascript"></script> 
+    <script src="/sites/all/themes/nara/scripts/helpers/jquery.fancybox-thumbs.js" type="text/javascript"></script> 
+    <script src="https://www.archives.gov/files/js/js_MRdvkC2u4oGsp5wVxBG1pGV5NrCPW3mssHxIn6G9tGE.js"></script> 
+   </div> 
+   <a class="back-to-top" href="#page-header" style="display: inline;">Top</a> 
+   <script>
+(function ($) {
+  // Original JavaScript code.
+$('.toc').toc({
+'selectors': 'h2:not(.element-invisible):not(.toc-block h2),h3',
+'container': '#main-col'
+});
+})(jQuery);
+
+//fix extra timeline object issue
+(function(){            
+  if(typeof Drupal.settings['timelineJS'] !== 'undefined'){      
+    timelinejs_arry = Drupal.settings['timelineJS'];
+    tmptimeline=[];
+    for (i = 0; i < timelinejs_arry.length-1; i++) {       
+      if(typeof timelinejs_arry[i]['processed'] !== 'undefined'){                        
+        tmptimeline.push(timelinejs_arry[i]);  
+      } 
+    }
+    Drupal.settings['timelineJS'] = tmptimeline;
+  }
+}());
+</script> 
+  </div> 
+  <!-- end -->   
+ </body>
+</html>

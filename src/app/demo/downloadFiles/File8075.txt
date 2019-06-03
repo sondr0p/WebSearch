@@ -1,0 +1,209 @@
+<!doctype html>
+<html lang="en">
+ <head> 
+  <meta charset="utf-8"> 
+  <title>Mississippi Secretary of State - One Stop</title> 
+  <meta name="apple-mobile-web-app-capable" content="yes"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta name="apple-mobile-web-app-status-bar-style" content="black"> 
+  <meta name="apple-mobile-web-app-title" content="MS Boss"> 
+  <link rel="apple-touch-icon" href="/sos/onestopshop/Content/static/icons/ios/Icon.png"> 
+  <link rel="apple-touch-icon" sizes="57x57" href="/sos/onestopshop/Content/static/icons/ios/Icon-60.png"> 
+  <link rel="apple-touch-icon" sizes="72x72" href="/sos/onestopshop/Content/static/icons/ios/Icon-72.png"> 
+  <link rel="shortcut icon" href="/sos/onestopshop/Content/static/icons/ios/AppIcon.appiconset/Icon-Small.png"> 
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"> 
+  <link href="/sos/onestopshop/bundles/css/flat-ui?v=DJtiwmCTGU4fl6QBjfSYYPdbiq5emYReL5VlX4PGepE1" rel="stylesheet"> 
+  <link href="/sos/onestopshop/bundles/css/common-files?v=CwvfpMGC-mfOPUUMMd_BuLdB0wqklz6VwqRcx8CeNvw1" rel="stylesheet"> 
+  <link href="/sos/onestopshop/bundles/css/styles?v=GhNbwzQkQdNrIp-xN5xB4_rQsr8p_Wy6gzwuzc1l3Hs1" rel="stylesheet"> 
+  <link href="/sos/onestopshop/bundles/css/startup?v=xVQplBWggwc9ZnsajIR27AXyqzdd-3oy3IRuMUH2Ppw1" rel="stylesheet"> 
+ </head> 
+ <body> 
+  <div id="divReportBug" style="position: fixed; top: 30%; left: 2%;"> 
+   <img id="Button_ReportBug" runat="server" src="/sos/onestopshop/Content/static/images/reportIssue_bttn.png" onclick=" javascript: reportBug(); " alt="Report Bug"> 
+  </div> 
+  <div id="body-wrapper"> 
+   <div class="page-wrapper" id="page-wrapper"> 
+    <section class="header  background-bossBlue"> 
+     <div class="hidden-xs hidden-sm"> 
+      <div id="header" class="background backgroundPic">
+       &nbsp;
+      </div> 
+     </div> 
+     <div class="container"> 
+      <div class="row"> 
+       <div class="col-xs-12 col-md-8 mobile-center"> 
+        <div class="visible-xs"> 
+         <img src="/sos/onestopshop/Content/static/Images/SOS.png" alt="" width="75" height="75"> 
+         <img src="/sos/onestopshop/Content/static/images/logo.outlines.white.svg" width="280" height="100" alt=""> 
+        </div> 
+        <div class="visible-sm"> 
+         <img src="/sos/onestopshop/Content/static/Images/SOS.png" alt="" width="85" height="85"> 
+         <img src="/sos/onestopshop/Content/static/images/logo.outlines.white.svg" width="400" height="100" alt=""> 
+        </div> 
+        <div class="visible-md"> 
+         <img src="/sos/onestopshop/Content/static/Images/SOS.png" alt="" width="50" height="90"> 
+         <img src="/sos/onestopshop/Content/static/images/logo.outlines.svg" width="200" height="90" alt="" style="padding-left: 10px;"> 
+        </div> 
+        <div class="visible-lg"> 
+         <img src="/sos/onestopshop/Content/static/Images/SOS.png" alt="" width="90" height="90"> 
+         <img src="/sos/onestopshop/Content/static/images/logo.outlines.svg" width="325" height="90" alt="" style="padding-left: 10px;"> 
+        </div> 
+       </div> 
+       <div class="col-xs-12 col-md-4 mobile-center"> 
+        <div class="visible-xs"> 
+         <img src="/sos/onestopshop/Content/static/images/callout2.white.png" width="300" height="253" alt=""> 
+        </div> 
+        <div class="visible-sm"> 
+         <img src="/sos/onestopshop/Content/static/images/callout2.white.png" alt=""> 
+        </div> 
+        <div class="visible-md"> 
+         <img src="/sos/onestopshop/Content/static/images/callout2.png" width="400" height="400" alt=""> 
+        </div> 
+        <div class="visible-lg" style="float: right;"> 
+         <img src="/sos/onestopshop/Content/static/images/callout2.png" width="400" height="400" alt=""> 
+        </div> 
+       </div> 
+       <div id="stepButton" class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2"> 
+        <div class="visible-xs"> 
+         <a class="btn btn-danger btn-block white" href="/sos/onestopshop/Steps">Start Your Business</a> 
+        </div> 
+        <div class="visible-sm"> 
+         <a class="btn btn-danger btn-block white" href="/sos/onestopshop/Steps">Start Your Business</a> 
+        </div> 
+       </div> 
+       <div class="hidden-md hidden-lg mobile-quote"> 
+        <p class="quote">"Build your own dreams, or someone else will hire you to build theirs."</p> 
+        <p class="quote-author">- Farrah Gray</p> 
+       </div> 
+      </div> 
+     </div> 
+    </section> 
+    <div class="bannerRow hidden-xs hidden-sm"> 
+     <div class="banner"> 
+      <div class="container"> 
+       <div class="row"> 
+        <div class="col-md-3"> 
+         <a class="btn btn-danger btn-block white stepsButton" href="/sos/onestopshop/Steps">Start Your Business</a> 
+        </div> 
+        <div class="col-md-4 col-md-offset-1"> 
+         <p class="quote">"Build your own dreams, or someone else will hire you to build theirs."</p> 
+         <p class="quote-author">- Farrah Gray</p> 
+        </div> 
+        <div class="col-md-2 col-md-offset-2 col-lg-2 col-lg-offset-2"> 
+         <div class="col-lg-11 col-lg-offset-1 delbert"> 
+          <img src="/sos/onestopshop/Content/static/images/Secretary-Hoseman.png" width="130"> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="footer"> 
+     <div class="container"> 
+      <div class="row"> 
+       <div class="col-md-4 col-lg-4 hidden-xs hidden-sm"> 
+        <div class="col-md-1"> 
+         <a href="https://www.facebook.com/MississippiSecretaryofState" target="_blank"> <i class="fa fa-facebook fa-4x"></i> </a> 
+        </div> 
+        <div class="col-md-1"> 
+         <a href="https://twitter.com/MississippiSOS" target="_blank"> <i class="fa fa-twitter  fa-4x"></i> </a> 
+        </div> 
+        <div class="col-md-1"> 
+         <a href="http://www.sos.ms.gov/About/Pages/Press-Releases.aspx" target="_blank"> <i class="fa fa-rss fa-4x"></i> </a> 
+        </div> 
+        <div class="col-md-1"> 
+         <a href="mailto:business@sos.ms.gov" target="_blank"> <i class="fa fa-envelope fa-4x "></i> </a> 
+        </div> 
+        <div class="col-md-3 mobile-center"> 
+         <a href="http://www.sos.ms.gov/About/Pages/Press-Release.aspx?pr=708" target="_blank"> <img src="/sos/onestopshop/Content/static/images/2016-Gold-Site-bug.png" alt="hermes award"> </a> 
+        </div> 
+       </div> 
+       <div id="footerSeal" class="col-xs-12 col-md-2 col-md-offset-1 col-lg-4 col-lg-offset-0 mobile-center"> 
+        <a href="http://www.sos.ms.gov/" target="_blank" class="mobile-center"> <img src="/sos/onestopshop/Content/static/Images/SOS.png" alt="sos seal" width="120" height="120"> </a> 
+       </div> 
+       <div class="col-xs-12 col-md-3 col-md-offset-2  col-lg-2 col-lg-offset-2 mobile-center"> 
+        <a href="http://www.sos.ms.gov" target="_blank"> <img src="/sos/onestopshop/Content/static/Images/SOS_Type.png" alt="sos"> </a> 
+       </div> 
+       <div class="col-xs-12  hidden-md hidden-lg mobile-center"> 
+        <nav> 
+         <a href="https://www.facebook.com/MississippiSecretaryofState" target="_blank"> <i class="fa fa-facebook fa-3x"></i> </a>
+         <a href="https://twitter.com/MississippiSOS" target="_blank"> <i class="fa fa-twitter  fa-3x"></i> </a> 
+         <a href="http://www.sos.ms.gov/About/Pages/Press-Releases.aspx" target="_blank"> <i class="fa fa-rss fa-3x"></i> </a>
+         <a href="mailto:business@sos.ms.gov" target="_blank"> <i class="fa fa-envelope fa-3x "></i> </a> 
+         <a href="http://www.sos.ms.gov/About/Pages/Press-Release.aspx?pr=708" target="_blank"> <img src="/sos/onestopshop/Content/static/images/2016-Gold-Site-bug.png" alt="hermes award"> </a> 
+        </nav> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="/sos/onestopshop/bundles/js/jquery?v=P61uB-Lg-K2HQFNNft8F0kaYpNnMyWTY0R9gq29hGZs1"></script> 
+  <script src="/sos/onestopshop/bundles/js/flat-ui?v=KWZnA8USa9aPFYgmyIgO2E4GCXFfyIXP-XbcOMV0NfI1"></script> 
+  <script src="/sos/onestopshop/bundles/js/common-files?v=6PyYjtfVsiEk0BtSqlNbNoRHwp86j4WfpZ-k5iTS2xs1"></script> 
+  <script src="/sos/onestopshop/bundles/js/styles?v=F1hnuduaCSO4kDwiBhlRSk7A5vvaL0aHCyOwGQI3eX01"></script> 
+  <script type="text/javascript">
+        $(document).ready(function() {
+            hideBugTool("DEV");
+
+            function Randomize() {
+                var images = new Array('/sos/onestopshop/Content/static/images/cafe.jpg',
+                    '/sos/onestopshop/Content/static/images/coffee.jpg',
+                    '/sos/onestopshop/Content/static/images/market.jpg');
+
+                var imageNum = Math.floor(Math.random() * images.length);
+                document.getElementById("page-wrapper").style.backgroundImage = "url('" + images[imageNum] + "')";
+            }
+
+            window.onload = Randomize;
+
+            function autoResizeDiv() {
+                document.getElementById('body-wrapper').style.height = window.innerHeight + 'px';
+            }
+
+            window.onresize = autoResizeDiv;
+            autoResizeDiv();
+        });
+    </script> 
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ 
+  ga('create', 'UA-69282397-1', 'auto');
+  ga('create', 'UA-46906531-3', 'auto', {'name': 'msi'});
+  ga('send', 'pageview');
+  ga('msi.send', 'pageview');
+ 
+</script> 
+  <div class="modal fade" id="emailModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
+   <div class="modal-dialog"> 
+    <div class="modal-content"> 
+     <div class="modal-header">
+       &nbsp; 
+      <button type="button" class="close" data-dismiss="modal" aria-hidden="true" style="margin: 0px;">×</button> 
+     </div> 
+     <div class="modal-body"> 
+      <div class="row"> 
+       <div class="col-sm-12"> 
+        <p>Enter your email address below to receive a copy of this information for easy reference.</p> 
+       </div> 
+      </div> 
+      <div class="row"> 
+       <div class="col-lg-6"> 
+        <div class="input-group"> 
+         <input id="txtEmail" type="text" class="form-control" placeholder="enter email address"> 
+         <span class="input-group-btn"> <button id="btnEmailSubmit" class="btn btn-default" data-dismiss="modal" type="button">SEND</button> </span> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="modal-footer">
+       &nbsp; 
+     </div> 
+    </div> 
+   </div> 
+  </div>   
+ </body>
+</html>

@@ -1,0 +1,664 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+	Quit Smoking - healthfinder.gov
+</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+  <meta name="keywords" content="Quit Smoking Help, Stop Smoking Guide, Help to Stop Smoking, Quit Smoking, lung cancer">
+  <meta name="description" content="Share this guide to help people quit smoking and get back on the road to healthy living.">
+  <link rel="canonical" href="https://healthfinder.gov:443/HealthTopics/Dispatch.aspx?q1=parenting/safety/steps-to-prevent-skin-cancer/HealthTopics/Category/health-conditions-and-diseases&amp;q2=diabetes&amp;q3=quit-smoking">
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+  <meta name="verify-v1" content="SGDyDYxOiYbFQAhohrwKuaxwOiCVv2eZij6NzZ678Cg=">
+  <meta name="y_key" content="e1fae57e8f96398e">
+  <link href="/css/reset.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/styles.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/styles-esp.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/font-awesome.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/flexslider.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/jquery.tweet.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/colorbox/colorbox.css" rel="stylesheet" media="all">
+  <link href="/css/redmond/jquery-ui-1.8.20.custom.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/jquery.dataTables.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/jquery.dataTables_themeroller.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/quickguide.css" rel="stylesheet" media="all">
+  <link href="/css/myhealthfinder.css" rel="stylesheet" media="all">
+  <link href="/css/ecards.css" rel="stylesheet" media="all">
+  <link href="/css/quiz.css" rel="stylesheet" media="all">
+  <link href="/css/surveys.css" rel="stylesheet" media="screen">
+  <link href="/css/odphp-global-nav.css" rel="stylesheet" media="all"> 
+  <!--[if (gte IE 6)&(lte IE 8)]>
+        <script type="text/javascript" src="/js/selectivizr-min.js"></script>
+    <![endif]--> 
+  <!--[if IE 7]>
+        <link rel="stylesheet" type="text/css" media="all" href="/css/ie7.css" /><link rel="stylesheet" type="text/css" media="all" href="/css/font-awesome-ie7.css" />
+        <![endif]--> 
+  <!--[if IE 8]><link rel="stylesheet" type="text/css" media="all" href="/css/ie8.css" /><![endif]--> 
+  <link type="text/css" rel="stylesheet" href="/css/search-suggest.css">
+  <link type="text/css" rel="stylesheet" href="/css/print.css" media="print"> 
+ </head> 
+ <body id="body" class="english"> 
+  <!-- Google Tag Manager --> 
+  <noscript>
+   <iframe src="//www.googletagmanager.com/ns.html?id=GTM-5TG7CH&amp;NoJavascriptType=web&amp;NoJavascriptCID=83590907-3a4f-50fe-9937-39b4705b9128&amp;NoJavascriptURL=https%3a%2f%2fhealthfinder.gov%2fhealthtopics%2fcategory%2fparenting%2fsafety%2fsteps-to-prevent-skin-cancer%2fHealthTopics%2fCategory%2fhealth-conditions-and-diseases%2fdiabetes%2fquit-smoking&amp;NoJavascriptLang=en-US&amp;NoJavascriptReferrer=&amp;NoJavascriptTitle=" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript> 
+  <script>(function (w, d, s, l, i) {
+w[l] = w[l] || []; w[l].push({
+'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'AnalyticsLogicLayer', 'GTM-5TG7CH');</script> 
+  <!-- End Google Tag Manager --> 
+  <div id="HideIfWidget1"> 
+   <div class="global-nav"> 
+    <div class="global-nav-odphp">
+     <span>Office of Disease Prevention and Health Promotion</span>
+    </div> 
+    <ul> 
+     <li><a href="https://health.gov/" class="global-nav-healthgov">health.gov</a></li> 
+     <li><a href="https://healthfinder.gov/" class="global-nav-healthfinder global-nav-current">healthfinder.gov</a></li> 
+     <li><a href="https://healthypeople.gov/" class="global-nav-healthypeople">healthypeople.gov</a></li> 
+    </ul> 
+   </div> 
+   <img class="print-logo" src="/images/footer-hf-logo.png" alt="Department of Health and Human Services"> 
+  </div> 
+  <div id="page"> 
+   <div id="HideIfWidget2"> 
+    <a href="https://www.hhs.gov/" class="parent-banner">U.S. Department of Health and Human Services</a> 
+    <div id="header" class="clearfix" role="banner"> 
+     <div id="skip"> 
+      <a class="skipnav" href="#skipnav" tabindex="1">Skip to Content</a> 
+     </div> 
+     <div id="espanol">
+      <a href="/espanol">En español</a>
+     </div> 
+     <div id="mobile-menu-trigger" class="mobile-hide"> 
+      <h2>Menu</h2> 
+     </div> 
+     <div id="logo"> 
+      <a href="/"> <img src="/images/logo.png" alt="healthfinder.gov"> </a> 
+     </div> 
+     <div id="search-box" role="search"> 
+      <form action="/search" method="get"> 
+       <label for="searchText">Search healthfinder.gov:</label> 
+       <input id="searchText" aria-autocomplete="both" aria-haspopup="true" autocomplete="off" class="search_text" type="search" name="q"> 
+       <span class="query-suggestions-wrap"> <span id="query_suggestions" class="query-suggestions" aria-live="off"></span> </span> 
+       <span id="query_status" class="query-status" aria-live="polite"></span> 
+       <input id="searchButton" class="search_button" value="Go" type="submit"> 
+      </form> 
+     </div> 
+     <!-- /#search-box --> 
+     <div class="clear"></div> 
+    </div> 
+   </div> 
+   <div id="content" class="clearfix"> 
+    <div id="HideIfWidget3"> 
+     <div class="main_menu"> 
+      <div id="engMenu1_mainMenu" role="navigation">
+       <ul class="menu menu-hide"> 
+        <li data-path="/healthtopics/topic.aspx"> <a href="/Default.aspx">Home</a> </li> 
+        <li data-path="/healthtopics/topic.aspx" class="active"> <a href="/HealthTopics/">Health Topics A to Z</a> </li> 
+        <li data-path="/healthtopics/topic.aspx"> <a href="/myhealthfinder/">myhealthfinder</a> </li> 
+        <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/">Free Web Content</a> 
+         <ul> 
+          <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/HealthTopics/">Health and Wellness Topics</a> </li> 
+          <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/PreventiveServices/">myhealthfinder: Preventive Services Recommendations</a> </li> 
+          <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/Videos/">Videos</a> </li> 
+          <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/HealthWidgets/">Health Widgets and Badges</a> </li> 
+          <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/Developer/">APIs for Developers</a> </li> 
+         </ul> </li> 
+        <li data-path="/healthtopics/topic.aspx"> <a href="/FindServices/">Find Services Near&nbsp;You</a> </li> 
+        <li data-path="/healthtopics/topic.aspx"> <a href="/NHO/">National Health Observances</a> </li> 
+        <li class="mobile-hide espanol" data-path="/healthtopics/topic.aspx"> <a href="/espanol">En español</a> </li> 
+       </ul>
+      </div> 
+      <div class="connect clearfix"> 
+       <p class="connect-text">Find us on:</p> 
+       <a class="facebook connect-button" href="https://www.facebook.com/healthfinder" title="Facebook"> <img src="/images/icon-fb.png" alt="Facebook icon"></a> 
+       <a class="twitter connect-button" href="https://www.twitter.com/healthfinder" title="Twitter"> <img src="/images/icon-twitter.png" alt="Twitter icon"></a> 
+       <!-- <a class="rss connect-button" href="/News/rss.asp" title="RSS">
+        <img src="/images/icon-rss.png" alt="RSS icon" /></a> --> 
+       <div class="email-updates-container"> 
+        <a id="email-updates" href="https://public.govdelivery.com/accounts/USOPHSODPHPHF/subscriber/new?topic_id=USOPHSODPHPHF_1" target="_blank">Get Email Updates</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="main_content" role="main"> 
+     <div id="HideIfWidget4"> 
+      <div id="breadcrumb"> 
+       <span id="engBreadcrumbs1_SiteMapPath1"><span><a href="/Default.aspx">Home</a></span><span> &gt; </span><span><a href="/HealthTopics/Default.aspx">Health Topics A to Z</a></span><span> &gt; </span><span><a href="/HealthTopics/Category/health-conditions-and-diseases">Health Conditions and Diseases</a></span><span> &gt; </span><span><a href="/HealthTopics/Category/health-conditions-and-diseases/diabetes">Diabetes</a></span><span> &gt; </span><span>Quit Smoking</span></span> 
+      </div> 
+      <div id="engBreadcrumbs1_addThisPanel"> 
+       <div id="addThisCode" class="clearfix"> 
+        <!-- AddToAny BEGIN --> 
+        <div class="a2a_kit a2a_kit_size_32 a2a_default_style"> 
+         <a class="a2a_dd" href="https://www.addtoany.com/share"></a> 
+         <a class="a2a_button_facebook"></a> 
+         <a class="a2a_button_twitter"></a> 
+        </div> 
+        <script>
+      var a2a_config = a2a_config || {};
+      a2a_config.onclick = 1;
+      </script> 
+        <script async src="https://static.addtoany.com/menu/page.js"></script> 
+        <!-- AddToAny END --> 
+       </div> 
+      </div> 
+      <span id="skipnav"></span> 
+     </div> 
+     <form method="post" action="../../../../../../../../Topic.aspx?id=24&amp;type=topic&amp;noredirect=1&amp;category=8" id="MainForm"> 
+      <div class="aspNetHidden"> 
+       <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzIwMTkxNzIzD2QWAmYPZBYEAgEPZBYGAgIPFgIeBFRleHQFeTxtZXRhIG5hbWU9ImtleXdvcmRzIiBjb250ZW50PSJRdWl0IFNtb2tpbmcgSGVscCwgU3RvcCBTbW9raW5nIEd1aWRlLCBIZWxwIHRvIFN0b3AgU21va2luZywgUXVpdCBTbW9raW5nLCBsdW5nIGNhbmNlciIgLz5kAgMPFgIfAAV+PG1ldGEgbmFtZT0iZGVzY3JpcHRpb24iIGNvbnRlbnQ9IlNoYXJlIHRoaXMgZ3VpZGUgdG8gaGVscCBwZW9wbGUgcXVpdCBzbW9raW5nIGFuZCBnZXQgYmFjayBvbiB0aGUgcm9hZCB0byBoZWFsdGh5IGxpdmluZy4iIC8+ZAIGDxYCHwAF2QE8bGluayByZWw9J2Nhbm9uaWNhbCcgaHJlZj0naHR0cHM6Ly9oZWFsdGhmaW5kZXIuZ292OjQ0My9IZWFsdGhUb3BpY3MvRGlzcGF0Y2guYXNweD9xMT1wYXJlbnRpbmcvc2FmZXR5L3N0ZXBzLXRvLXByZXZlbnQtc2tpbi1jYW5jZXIvSGVhbHRoVG9waWNzL0NhdGVnb3J5L2hlYWx0aC1jb25kaXRpb25zLWFuZC1kaXNlYXNlcyZxMj1kaWFiZXRlcyZxMz1xdWl0LXNtb2tpbmcnIC8+ZAIDDxYCHgVjbGFzcwUHZW5nbGlzaBYKAgEPZBYCAgUPDxYCHgdWaXNpYmxlaGRkAgIPZBYEAgEPZBYCZg8WAh4JaW5uZXJodG1sBecLPHVsIGNsYXNzPSJtZW51IG1lbnUtaGlkZSI+DQogIDxsaSBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgPGEgaHJlZj0iL0RlZmF1bHQuYXNweCI+SG9tZTwvYT4NCiAgPC9saT4NCiAgPGxpIGRhdGEtcGF0aD0iL2hlYWx0aHRvcGljcy90b3BpYy5hc3B4IiBjbGFzcz0iYWN0aXZlIj4NCiAgICA8YSBocmVmPSIvSGVhbHRoVG9waWNzLyI+SGVhbHRoIFRvcGljcyBBIHRvIFo8L2E+DQogIDwvbGk+DQogIDxsaSBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgPGEgaHJlZj0iL215aGVhbHRoZmluZGVyLyI+bXloZWFsdGhmaW5kZXI8L2E+DQogIDwvbGk+DQogIDxsaSBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgPGEgaHJlZj0iL0ZyZWVDb250ZW50LyI+RnJlZSBXZWIgQ29udGVudDwvYT4NCiAgICA8dWw+DQogICAgICA8bGkgZGF0YS1wYXRoPSIvaGVhbHRodG9waWNzL3RvcGljLmFzcHgiPg0KICAgICAgICA8YSBocmVmPSIvRnJlZUNvbnRlbnQvSGVhbHRoVG9waWNzLyI+SGVhbHRoIGFuZCBXZWxsbmVzcyBUb3BpY3M8L2E+DQogICAgICA8L2xpPg0KICAgICAgPGxpIGRhdGEtcGF0aD0iL2hlYWx0aHRvcGljcy90b3BpYy5hc3B4Ij4NCiAgICAgICAgPGEgaHJlZj0iL0ZyZWVDb250ZW50L1ByZXZlbnRpdmVTZXJ2aWNlcy8iPm15aGVhbHRoZmluZGVyOiBQcmV2ZW50aXZlIFNlcnZpY2VzIFJlY29tbWVuZGF0aW9uczwvYT4NCiAgICAgIDwvbGk+DQogICAgICA8bGkgZGF0YS1wYXRoPSIvaGVhbHRodG9waWNzL3RvcGljLmFzcHgiPg0KICAgICAgICA8YSBocmVmPSIvRnJlZUNvbnRlbnQvVmlkZW9zLyI+VmlkZW9zPC9hPg0KICAgICAgPC9saT4NCiAgICAgIDxsaSBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgICAgIDxhIGhyZWY9Ii9GcmVlQ29udGVudC9IZWFsdGhXaWRnZXRzLyI+SGVhbHRoIFdpZGdldHMgYW5kIEJhZGdlczwvYT4NCiAgICAgIDwvbGk+DQogICAgICA8bGkgZGF0YS1wYXRoPSIvaGVhbHRodG9waWNzL3RvcGljLmFzcHgiPg0KICAgICAgICA8YSBocmVmPSIvRnJlZUNvbnRlbnQvRGV2ZWxvcGVyLyI+QVBJcyBmb3IgRGV2ZWxvcGVyczwvYT4NCiAgICAgIDwvbGk+DQogICAgPC91bD4NCiAgPC9saT4NCiAgPGxpIGRhdGEtcGF0aD0iL2hlYWx0aHRvcGljcy90b3BpYy5hc3B4Ij4NCiAgICA8YSBocmVmPSIvRmluZFNlcnZpY2VzLyI+RmluZCBTZXJ2aWNlcyBOZWFywqBZb3U8L2E+DQogIDwvbGk+DQogIDxsaSBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgPGEgaHJlZj0iL05ITy8iPk5hdGlvbmFsIEhlYWx0aCBPYnNlcnZhbmNlczwvYT4NCiAgPC9saT4NCiAgPGxpIGNsYXNzPSJtb2JpbGUtaGlkZSBlc3Bhbm9sIiBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgPGEgaHJlZj0iL2VzcGFub2wiPkVuIGVzcGHDsW9sPC9hPg0KICA8L2xpPg0KPC91bD5kAgMPDxYCHwJoZGQCAw9kFgICAw8PFgIfAmhkZAIFD2QWAmYPZBYOAgEPZBYCAgEPDxYEHgtOYXZpZ2F0ZVVybAVcL2VzcGFub2wvdGVtYXMvQ2F0ZWdvcnkvZW5mZXJtZWRhZGVzLXktcHJvYmxlbWFzLWRlLXNhbHVkL2RpYWJldGVzL2NvbW8tcHVlZG8tZGVqYXItZGUtZnVtYXIfAmdkZAIDDxYCHwAFDFF1aXQgU21va2luZ2QCBw8PFgIeCEltYWdlVXJsBSsvSGVhbHRoVG9waWNzL2dsbWVkaWEvaWNvbnMvcXVpdHNtb2tpbmcuanBnFgIeA2FsdGVkAgkPZBYCZg8WAh4LXyFJdGVtQ291bnQCAhYEZg9kFgRmDxUBClRoZSBCYXNpY3NkAgEPFgIfBwIFFgpmD2QWAmYPFQMKdGhlLWJhc2ljcwExCE92ZXJ2aWV3ZAIBD2QWAmYPFQMKdGhlLWJhc2ljcwEyEFNlY29uZGhhbmQgU21va2VkAgIPZBYCZg8VAwp0aGUtYmFzaWNzATMPSG93IENhbiBJIFF1aXQ/ZAIDD2QWAmYPFQMKdGhlLWJhc2ljcwE0D0hlYWx0aCBCZW5lZml0c2QCBA9kFgJmDxUDCnRoZS1iYXNpY3MBNQ5XZWlnaHQgQ29udHJvbGQCAQ9kFgRmDxUBDFRha2UgQWN0aW9uIWQCAQ8WAh8HAgUWCmYPZBYCZg8VAwt0YWtlLWFjdGlvbgExC01ha2UgYSBQbGFuZAIBD2QWAmYPFQMLdGFrZS1hY3Rpb24BMg9DaGFuZ2UgUm91dGluZXNkAgIPZBYCZg8VAwt0YWtlLWFjdGlvbgEzE1N0cmVzcyBhbmQgQ3JhdmluZ3NkAgMPZBYCZg8VAwt0YWtlLWFjdGlvbgE0CEdldCBIZWxwZAIED2QWAmYPFQMLdGFrZS1hY3Rpb24BNQ1TdGljayB3aXRoIEl0ZAILDxYCHwcCAhYEZg9kFgRmDxUCCnRoZS1iYXNpY3MKVGhlIEJhc2ljc2QCAQ8WAh8HAgUWCmYPZBYEZg8VBAMxMTIKVGhlIEJhc2ljcwhPdmVydmlld+0GPHA+UXVpdHRpbmcgc21va2luZyBpcyBvbmUgb2YgdGhlIG1vc3QgaW1wb3J0YW50IHRoaW5ncyB5b3UgY2FuIGRvIGZvciB5b3VyIGhlYWx0aC4gVGhlIHNvb25lciB5b3UgcXVpdCwgdGhlIHNvb25lciB5b3VyIGJvZHkgY2FuIHN0YXJ0IHRvIGhlYWwuJm5ic3A7WW91IHdpbGwgZmVlbCBiZXR0ZXIgYW5kIGhhdmUgbW9yZSBlbmVyZ3kgdG8gYmUgYWN0aXZlIHdpdGggeW91ciBmYW1pbHkgYW5kIGZyaWVuZHMuPC9wPjxoMz5TbW9raW5nIGh1cnRzIGFsbW9zdCBldmVyeSBwYXJ0IG9mIHRoZSBib2R5LjwvaDM+PHA+U21va2luZyBpcyB0aGUgbGVhZGluZyBjYXVzZSBvZiBwcmV2ZW50YWJsZSBkZWF0aCBhbmQgZGlzZWFzZSBpbiB0aGUgVW5pdGVkIFN0YXRlcy48L3A+PHA+U21va2luZyBjYXVzZXM6PC9wPjx1bD48bGk+THVuZyBjYW5jZXImbmJzcDthbmQgbWFueSBvdGhlciB0eXBlcyBvZiBjYW5jZXI8L2xpPjxsaT5IZWFydCBkaXNlYXNlPC9saT48bGk+U3Ryb2tlPC9saT48bGk+Q2hyb25pYyBvYnN0cnVjdGl2ZSBwdWxtb25hcnkgZGlzZWFzZSAoQ09QRCkgYW5kIG90aGVyIGx1bmcgZGlzZWFzZXM8L2xpPjxsaT5QcmVnbmFuY3kgcHJvYmxlbXM8L2xpPjxsaT5HdW0gZGlzZWFzZTwvbGk+PGxpPlZpc2lvbiBsb3NzPC9saT48bGk+VHlwZSAyIGRpYWJldGVzJm5ic3A7PC9saT48bGk+UmhldW1hdG9pZCBhcnRocml0aXM8L2xpPjwvdWw+PHA+TGVhcm4gbW9yZSBhYm91dCA8YSBocmVmPSJodHRwczovL3Ntb2tlZnJlZS5nb3YvcXVpdHRpbmctc21va2luZy9yZWFzb25zLXF1aXQvaGVhbHRoLWVmZmVjdHMiIHRhcmdldD0iX2JsYW5rIj5ob3cgc21va2luZyBhZmZlY3RzIGRpZmZlcmVudCBwYXJ0cyBvZiB0aGUgYm9keTwvYT4uPC9wPmQCAQ9kFgYCAQ8PFgIfAmdkZAIDDw8WBB8ABRBTZWNvbmRoYW5kIFNtb2tlHwJnFgIeBGhyZWYFDSN0aGUtYmFzaWNzXzJkAgkPDxYCHwAFEDEgb2YgMTAgc2VjdGlvbnNkZAIBD2QWBGYPFQQDODI5ClRoZSBCYXNpY3MQU2Vjb25kaGFuZCBTbW9rZccEPGgzPlNtb2tpbmcgaHVydHMgb3RoZXIgcGVvcGxlLCB0b28uPC9oMz48cD5TZWNvbmRoYW5kIHNtb2tlIGlzIGEgbWl4IG9mIHRoZSBzbW9rZSB0aGF0IGNvbWVzIGZyb20geW91ciBjaWdhcmV0dGUgYW5kIHRoZSBzbW9rZSB0aGF0IHlvdSBicmVhdGhlIG91dC4mbmJzcDtTZWNvbmRoYW5kIHNtb2tlIGlzIGRhbmdlcm91cyBhbmQgY2FuIGNhdXNlIGhlYWx0aCBwcm9ibGVtcyBmb3IgdGhlIHBlb3BsZSBhcm91bmQgeW91LjwvcD48cD5JbiBiYWJpZXMgYW5kIGNoaWxkcmVuLCBicmVhdGhpbmcgaW4gc2Vjb25kaGFuZCBzbW9rZSBjYW4gY2F1c2U6PC9wPjx1bD48bGk+U3VkZGVuIGluZmFudCBkZWF0aCBzeW5kcm9tZSAoU0lEUyk8L2xpPjxsaT5QbmV1bW9uaWE8L2xpPjxsaT5Ccm9uY2hpdGlzPC9saT48bGk+U2V2ZXJlIGFzdGhtYSBhdHRhY2tzPC9saT48bGk+RWFyIGluZmVjdGlvbnM8L2xpPjwvdWw+PHA+SW4gYWR1bHRzLCBicmVhdGhpbmcgaW4gc2Vjb25kaGFuZCBzbW9rZSBjYW4gY2F1c2U6PC9wPjx1bD48bGk+SGVhcnQgZGlzZWFzZTwvbGk+PGxpPlN0cm9rZTwvbGk+PGxpPkx1bmcgY2FuY2VyPC9saT48L3VsPmQCAQ9kFgoCAQ8PFgIfAmdkZAIDDw8WBB8ABQ9Ib3cgQ2FuIEkgUXVpdD8fAmcWAh8IBQ0jdGhlLWJhc2ljc18zZAIFDw8WAh8CZ2RkAgcPDxYEHwAFCE92ZXJ2aWV3HwJnFgIfCAUNI3RoZS1iYXNpY3NfMWQCCQ8PFgIfAAUQMiBvZiAxMCBzZWN0aW9uc2RkAgIPZBYEZg8VBAMxMzIKVGhlIEJhc2ljcw9Ib3cgQ2FuIEkgUXVpdD+MCjxoMz5Zb3UgY2FuIHF1aXQgc21va2luZy48L2gzPjxwPlF1aXR0aW5nIHNtb2tpbmcgaXMgaGFyZCwgYnV0IG1pbGxpb25zIG9mIHBlb3BsZSBoYXZlIGRvbmUgaXQgc3VjY2Vzc2Z1bGx5LiBJbiBmYWN0LCBtb3JlIHRoYW4gaGFsZiBvZiBBbWVyaWNhbnMgd2hvJm5ic3A7ZXZlciBzbW9rZWQgaGF2ZSBxdWl0LiBZb3UgY291bGQgYmUgb25lIG9mIHRoZW0hPC9wPjxwPk5pY290aW5lICZuZGFzaDsgdGhlIGRydWcgZm91bmQgaW4gYWxsIHRvYmFjY28gcHJvZHVjdHMgJm5kYXNoOyBpcyBhcyBhZGRpY3RpdmUgYXMgaGVyb2luIG9yIGNvY2FpbmUuIEl0JnJzcXVvO3MgdGhlIG5pY290aW5lIGluIGNpZ2FyZXR0ZXMgdGhhdCBjYXVzZXMgdGhlIHN0cm9uZyBmZWVsaW5nIHRoYXQgeW91IHdhbnQgdG8gc21va2UgKGNyYXZpbmcpLiBSZW1lbWJlciAmbmRhc2g7IHF1aXR0aW5nIGlzbiZyc3F1bzt0IGVhc3ksIGJ1dCBpdCBpcyBwb3NzaWJsZSE8L3A+PHA+VGFrZSB0aGVzZSBzdGVwcyZuYnNwO3RvIGhlbHAgeW91IHF1aXQ6PC9wPjx1bD48bGk+PGEgaHJlZj0iaHR0cDovL3Ntb2tlZnJlZS5nb3YvcmVhc29ucy10by1xdWl0IiB0YXJnZXQ9Il9ibGFuayI+TWFrZSBhIGxpc3Qgb2YgdGhlIHJlYXNvbnMgeW91IHdhbnQgdG8gcXVpdDwvYT4uPC9saT48bGk+U2V0IGEgcXVpdCBkYXRlIGFuZCBtYWtlIGEgcGxhbiB0byBkZWFsIHdpdGggY3JhdmluZ3MuPC9saT48bGk+QXNrIHlvdXIgZmFtaWx5LCBmcmllbmRzLCBhbmQgY293b3JrZXJzIGZvciBzdXBwb3J0LjwvbGk+PGxpPlRhbGsgdG8geW91ciBkb2N0b3IgYWJvdXQgY291bnNlbGluZyBhbmQgbWVkaWNpbmVzJm5ic3A7dGhhdCBjYW4gaGVscCB5b3UgcXVpdC48L2xpPjxsaT5DYWxsIDEtODAwLVFVSVQtTk9XICgxLTgwMC03ODQtODY2OSkgb3IgdmlzaXQgPGEgaHJlZj0iaHR0cDovL3Ntb2tlZnJlZS5nb3YvIiB0YXJnZXQ9Il9ibGFuayI+U21va2VmcmVlLmdvdjwvYT4mbmJzcDtmb3IgZnJlZSBoZWxwLjwvbGk+PGxpPkRvd25sb2FkIHRoZXNlIDxhIGhyZWY9Imh0dHBzOi8vc21va2VmcmVlLmdvdi90b29scy10aXBzL2FwcHMiIHRhcmdldD0iX3NlbGYiPmZyZWUgYXBwczwvYT4gZm9yIDI0Lzcgc3VwcG9ydCBhbmQgZW5jb3VyYWdlbWVudC48L2xpPjwvdWw+PHA+RmluZCBvdXQgbW9yZSBhYm91dCA8YSBocmVmPSJodHRwOi8vc21va2VmcmVlLmdvdi9zdGVwcy10by1wcmVwYXJlIiB0YXJnZXQ9Il9ibGFuayI+c3RlcHMgeW91IGNhbiB0YWtlIGFzIHlvdSBnZXQgcmVhZHkgdG8gcXVpdCBzbW9raW5nPC9hPi48L3A+ZAIBD2QWCgIBDw8WAh8CZ2RkAgMPDxYEHwAFD0hlYWx0aCBCZW5lZml0cx8CZxYCHwgFDSN0aGUtYmFzaWNzXzRkAgUPDxYCHwJnZGQCBw8PFgQfAAUQU2Vjb25kaGFuZCBTbW9rZR8CZxYCHwgFDSN0aGUtYmFzaWNzXzJkAgkPDxYCHwAFEDMgb2YgMTAgc2VjdGlvbnNkZAIDD2QWBGYPFQQDNDA4ClRoZSBCYXNpY3MPSGVhbHRoIEJlbmVmaXRz0wk8aDM+WW91IHdpbGwgZmVlbCBiZXR0ZXIgYWZ0ZXIgeW91IHF1aXQuPC9oMz48cD5Zb3VyIGJvZHkgYmVnaW5zIHRvIGhlYWwgYXMgc29vbiBhcyB5b3UgcXVpdCBzbW9raW5nLiBIZXJlIGFyZSBzb21lIHdheXMgeW91IHdpbGwgZmVlbCBiZXR0ZXI6PC9wPjx1bD48bGk+WW91IHdpbGwgYnJlYXRoZSBtb3JlIGVhc2lseS48L2xpPjxsaT5Zb3VyIHNlbnNlcyBvZiB0YXN0ZSBhbmQgc21lbGwgd2lsbCBpbXByb3ZlLjwvbGk+PGxpPllvdSB3aWxsIGhhdmUgbW9yZSBlbmVyZ3kuPC9saT48bGk+WW91ciBsdW5ncyB3aWxsIGJlY29tZSBzdHJvbmdlciwgbWFraW5nIGl0IGVhc2llciBmb3IgeW91IHRvIGJlIGFjdGl2ZS48L2xpPjxsaT5Zb3Ugd2lsbCBjb3VnaCBhbmQgd2hlZXplIChzdHJ1Z2dsZSB0byBicmVhdGhlKSBsZXNzLiZuYnNwOzwvbGk+PC91bD48cD5GaW5kIG91dCBtb3JlIGFib3V0IDxhIGhyZWY9Imh0dHBzOi8vd3d3LmNkYy5nb3YvdG9iYWNjby9kYXRhX3N0YXRpc3RpY3MvZmFjdF9zaGVldHMvY2Vzc2F0aW9uL3F1aXR0aW5nL2luZGV4Lmh0bSI+aG93IHF1aXR0aW5nIHNtb2tpbmcgd2lsbCBoZWxwIHlvdXIgaGVhbHRoPC9hPi48L3A+PGgzPlF1aXR0aW5nIHNtb2tpbmcgd2lsbCBoZWxwIHlvdSBsaXZlIGEgbG9uZ2VyLCBoZWFsdGhpZXIgbGlmZS48L2gzPjxwPkFmdGVyIHlvdSBxdWl0IHNtb2tpbmc6PC9wPjx1bD48bGk+WW91ciByaXNrIG9mIGhhdmluZyBhIGhlYXJ0IGF0dGFjayBvciBzdHJva2UgZ29lcyBkb3duLjwvbGk+PGxpPllvdXIgcmlzayBvZiBkeWluZyBmcm9tIGNhbmNlciBnb2VzIGRvd24uPC9saT48bGk+VGhlIGxldmVscyBvZiBveHlnZW4gYW5kIGNhcmJvbiBtb25veGlkZSBpbiB5b3VyIGJsb29kIHJldHVybiB0byBub3JtYWwuPC9saT48bGk+SWYgeW91IGhhdmUgY2hpbGRyZW4sIHlvdSBjYW4gaGVscCB0aGVtIGJlIGhlYWx0aGllciBieSBxdWl0dGluZyBzbW9raW5nLiBDaGlsZHJlbiB3aG9zZSBwYXJlbnRzIHNtb2tlIGFyb3VuZCB0aGVtIGFyZSBhdCBoaWdoZXIgcmlzayBmb3IgbHVuZyBhbmQgZWFyIGluZmVjdGlvbnMuJm5ic3A7PC9saT48L3VsPjxwPkNoZWNrIG91dCB0aGVzZSA8YSBocmVmPSJodHRwOi8vd3d3LmNkYy5nb3YvdG9iYWNjby9jYW1wYWlnbi90aXBzL3N0b3JpZXMvIiB0YXJnZXQ9Il9ibGFuayI+cmVhbCBzdG9yaWVzIG9mIHBlb3BsZSB3aG8gaGF2ZSBiZWVuIGh1cnQgYnkgc21va2luZzwvYT4uPC9wPmQCAQ9kFgoCAQ8PFgIfAmdkZAIDDw8WBB8ABQ5XZWlnaHQgQ29udHJvbB8CZxYCHwgFDSN0aGUtYmFzaWNzXzVkAgUPDxYCHwJnZGQCBw8PFgQfAAUPSG93IENhbiBJIFF1aXQ/HwJnFgIfCAUNI3RoZS1iYXNpY3NfM2QCCQ8PFgIfAAUQNCBvZiAxMCBzZWN0aW9uc2RkAgQPZBYEZg8VBAM0MTAKVGhlIEJhc2ljcw5XZWlnaHQgQ29udHJvbPYIPGgzPldpbGwgcXVpdHRpbmcgbWFrZSBtZSBnYWluIHdlaWdodD88L2gzPjxwPlNvbWUgcGVvcGxlIHdvcnJ5IGFib3V0IGdhaW5pbmcgd2VpZ2h0IHdoZW4gdGhleSBxdWl0IHNtb2tpbmcuIEl0JiMzOTtzIHRydWUgdGhhdCBzb21lIHBlb3BsZSBnYWluIHdlaWdodCBhZnRlciBxdWl0dGluZywgYnV0IHlvdSBjYW4gcHJldmVudCB3ZWlnaHQgZ2FpbiBieSBtYWtpbmcgaGVhbHRoeSBjaG9pY2VzLiBGb3IgZXhhbXBsZTo8L3A+PHVsPjxsaT48YSBocmVmPSJodHRwczovL2hlYWx0aGZpbmRlci5nb3YvSGVhbHRoVG9waWNzL0NhdGVnb3J5L2hlYWx0aC1jb25kaXRpb25zLWFuZC1kaXNlYXNlcy9vYmVzaXR5L2dldC1hY3RpdmUiPkdldCBhY3RpdmU8L2E+LiBBaW0gZm9yIDIgaG91cnMgYW5kIDMwIG1pbnV0ZXMgYSB3ZWVrIG9mIG1vZGVyYXRlIGFlcm9iaWMgYWN0aXZpdHksIGxpa2Ugd2Fsa2luZyBmYXN0IG9yIGRhbmNpbmcuPC9saT48bGk+RWF0IGhlYWx0aHkgc25hY2tzLCBsaWtlIHZlZ2V0YWJsZXMgb3IgZnJ1aXQuPC9saT48bGk+VGFsayB3aXRoIHlvdXIgZG9jdG9yIGFib3V0IHdheXMgdG8gPGEgaHJlZj0iaHR0cHM6Ly9oZWFsdGhmaW5kZXIuZ292L0hlYWx0aFRvcGljcy9DYXRlZ29yeS9oZWFsdGgtY29uZGl0aW9ucy1hbmQtZGlzZWFzZXMvb2Jlc2l0eS93YXRjaC15b3VyLXdlaWdodCI+Y29udHJvbCB5b3VyIHdlaWdodDwvYT4uPC9saT48bGk+PGEgaHJlZj0iaHR0cHM6Ly9zbW9rZWZyZWUuZ292L3Rvb2xzLXRpcHMvdGV4dC1wcm9ncmFtcy9oZWFsdGh5eW91dHh0IiB0YXJnZXQ9Il9ibGFuayI+VXNlIHRoaXMgdGV4dCBtZXNzYWdpbmcgcHJvZ3JhbTwvYT4gZnJvbSBTbW9rZWZyZWUuZ292IHRvIGdldCB0aXBzIGFuZCBzdXBwb3J0IG9uIGxvc2luZyB3ZWlnaHQsIGVhdGluZyBoZWFsdGh5LCBhbmQgZ2V0dGluZyBhY3RpdmUuPC9saT48L3VsPjxwPlRvIGxlYXJuIG1vcmUgd2F5cyB0byB3YXRjaCB5b3VyIHdlaWdodCBhZnRlciBxdWl0dGluZywgPGEgaHJlZj0iaHR0cHM6Ly9zbW9rZWZyZWUuZ292L2NoYWxsZW5nZXMtd2hlbi1xdWl0dGluZy9kZWFsaW5nLXdlaWdodC1nYWluLWFmdGVyLXF1aXR0aW5nIiB0YXJnZXQ9Il9ibGFuayI+Y2hlY2sgb3V0IHRoZXNlIHRpcHM8L2E+LjwvcD5kAgEPZBYKAgEPDxYCHwJnZGQCAw8PFgQfAAULTWFrZSBhIFBsYW4fAmcWAh8IBQ4jdGFrZS1hY3Rpb25fMWQCBQ8PFgIfAmdkZAIHDw8WBB8ABQ9IZWFsdGggQmVuZWZpdHMfAmcWAh8IBQ0jdGhlLWJhc2ljc180ZAIJDw8WAh8ABRA1IG9mIDEwIHNlY3Rpb25zZGQCAQ9kFgRmDxUCC3Rha2UtYWN0aW9uDFRha2UgQWN0aW9uIWQCAQ8WAh8HAgUWCmYPZBYEZg8VBAM1OTkLVGFrZSBBY3Rpb24LTWFrZSBhIFBsYW70CTxwPlRha2UgdGhlc2Ugc3RlcHMgdG8gcXVpdCBzbW9raW5nLjwvcD48aDM+V3JpdGUgZG93biB5b3VyIHJlYXNvbnMgdG8gcXVpdC48L2gzPjxwPk1ha2UgYSBsaXN0IG9mIGFsbCB0aGUgcmVhc29ucyA8c3Ryb25nPnlvdTwvc3Ryb25nPiB3YW50IHRvIHF1aXQuIEZvciBleGFtcGxlLCB5b3VyIHJlYXNvbnMgdG8gcXVpdCBtaWdodCBiZSB0byBzZXQgYSBoZWFsdGh5IGV4YW1wbGUgZm9yIHlvdXIgY2hpbGRyZW4gYW5kIHRvIHNhdmUgbW9uZXkuIEtlZXAgdGhlIGxpc3Qgd2l0aCB5b3UgdG8gcmVtaW5kIHlvdXJzZWxmIHdoeSBxdWl0dGluZyBpcyB3b3J0aCBpdC48L3A+PGgzPlNldCBhIHF1aXQgZGF0ZS48L2gzPjx1bD48bGk+UGljayBhIGRhdGUgdGhhdCBnaXZlcyB5b3UgZW5vdWdoIHRpbWUgdG8gZ2V0IHJlYWR5IHRvIHF1aXQuIEJ1dCBtYWtlIHN1cmUgaXQmcnNxdW87cyBzb29uIGVub3VnaCB0aGF0IHlvdSBkb24mcnNxdW87dCBsb3NlIHlvdXIgbW90aXZhdGlvbi48L2xpPjxsaT5UZWxsIHlvdXIgZmFtaWx5LCBmcmllbmRzLCBhbmQgY293b3JrZXJzIGFib3V0IHlvdXIgcXVpdCBkYXRlIHNvIHRoZXkgY2FuIHN1cHBvcnQgeW91LjwvbGk+PC91bD48aDM+TWFrZSBhIHF1aXQgcGxhbi48L2gzPjx1bD48bGk+VGhpbmsgYWJvdXQgc2l0dWF0aW9ucyB0aGF0IG1pZ2h0Jm5ic3A7dHJpZ2dlciZuYnNwO3lvdSB0byBzbW9rZS4gUGxhbiBob3cgeW91IHdpbGwgaGFuZGxlIHRoZW0gd2l0aG91dCBzbW9raW5nLjwvbGk+PGxpPlJpZ2h0IGJlZm9yZSB5b3VyIHF1aXQgZGF0ZSwgZ28gdGhyb3VnaCB5b3VyIGhvdXNlLCBjYXIsIGFuZCB3b3JrcGxhY2UgdG8gZ2V0IHJpZCBvZiBhbnl0aGluZyB0aGF0IGhhcyB0byBkbyB3aXRoIHNtb2tpbmcuIFRocm93IGF3YXkgYWxsIHlvdXIgY2lnYXJldHRlcywmbmJzcDthc2h0cmF5cywgbGlnaHRlcnMsIGFuZCBtYXRjaGVzLjwvbGk+PGxpPkNsZWFuIHlvdXIgY2xvdGhlcyBzbyB0aGV5IGRvbiZyc3F1bzt0IHNtZWxsIGxpa2Ugc21va2UuPC9saT48L3VsPjxwPjxhIGhyZWY9Imh0dHA6Ly9zbW9rZWZyZWUuZ292L2J1aWxkLXlvdXItcXVpdC1wbGFuIiB0YXJnZXQ9Il9ibGFuayI+Q2hlY2sgb3V0IHRoaXMgb25saW5lIHF1aXQgcGxhbiB0b29sPC9hPiZuYnNwO29yJm5ic3A7Y2FsbCB0aGUgdG9iYWNjbyBxdWl0bGluZSBhdCAxLTgwMC1RVUlULU5PVyAoMS04MDAtNzg0LTg2NjkpIGZvciBmcmVlIHN1cHBvcnQgYW5kIGhlbHAgc2V0dGluZyB1cCB5b3VyIHF1aXQgcGxhbi48L3A+ZAIBD2QWCgIBDw8WAh8CZ2RkAgMPDxYEHwAFD0NoYW5nZSBSb3V0aW5lcx8CZxYCHwgFDiN0YWtlLWFjdGlvbl8yZAIFDw8WAh8CZ2RkAgcPDxYEHwAFDldlaWdodCBDb250cm9sHwJnFgIfCAUNI3RoZS1iYXNpY3NfNWQCCQ8PFgIfAAUQNiBvZiAxMCBzZWN0aW9uc2RkAgEPZBYEZg8VBAMxMTYLVGFrZSBBY3Rpb24PQ2hhbmdlIFJvdXRpbmVz0Ag8aDM+Q2hhbmdlIHlvdXIgZGFpbHkgcm91dGluZS48L2gzPjxwPkNoYW5naW5nIHlvdXIgcm91dGluZSBvbiZuYnNwO3lvdXIgcXVpdCBkYXRlIGFuZCBhZnRlcndhcmQgY2FuIGhlbHAgeW91IGJyZWFrIGhhYml0cyByZWxhdGVkIHRvIHNtb2tpbmcuPC9wPjx1bD48bGk+VHJ5IHRha2luZyBhIGRpZmZlcmVudCByb3V0ZSB0byB3b3JrLjwvbGk+PGxpPkZvciB0aGUgZmlyc3QgZmV3IHdlZWtzLCBhdm9pZCBhY3Rpdml0aWVzIGFuZCBwbGFjZXMgeW91IGNvbm5lY3Qgd2l0aCBzbW9raW5nLjwvbGk+PGxpPkRvIHRoaW5ncyBhbmQgZ28gcGxhY2VzIHdoZXJlIHNtb2tpbmcgaXNuJnJzcXVvO3QgYWxsb3dlZC48L2xpPjxsaT5NYWtlJm5ic3A7PGEgaHJlZj0iaHR0cHM6Ly9oZWFsdGhmaW5kZXIuZ292L0hlYWx0aFRvcGljcy9DYXRlZ29yeS9oZWFsdGgtY29uZGl0aW9ucy1hbmQtZGlzZWFzZXMvb2Jlc2l0eS9nZXQtYWN0aXZlIj5nZXR0aW5nIGFjdGl2ZTwvYT4mbmJzcDthbmQmbmJzcDs8YSBocmVmPSJodHRwczovL2hlYWx0aGZpbmRlci5nb3YvSGVhbHRoVG9waWNzL0NhdGVnb3J5L2hlYWx0aC1jb25kaXRpb25zLWFuZC1kaXNlYXNlcy9vYmVzaXR5L2VhdC1oZWFsdGh5Ij5lYXRpbmcgaGVhbHRoeTwvYT4mbmJzcDtwYXJ0IG9mIHlvdXIgcXVpdCBwbGFuLiBJbnN0ZWFkIG9mIHNtb2tpbmc6IGVhdCBoZWFsdGh5IHNuYWNrcywgZ28gZm9yIHdhbGtzLCBhbmQgZHJpbmsgbG90cyBvZiB3YXRlci48L2xpPjwvdWw+PGgzPkJyZWFrIHRoZSBjb25uZWN0aW9uIGJldHdlZW4gZWF0aW5nIGFuZCBzbW9raW5nLiZuYnNwOzwvaDM+PHA+TWFueSBwZW9wbGUgbGlrZSB0byBzbW9rZSB3aGVuIHRoZXkgZmluaXNoIGEgbWVhbC4gSGVyZSBhcmUgc29tZSB3YXlzIHRvIGJyZWFrIHRoZSBjb25uZWN0aW9uOjwvcD48dWw+PGxpPkdldCB1cCBmcm9tIHRoZSB0YWJsZSBhcyBzb29uIGFzIHlvdSBhcmUgZG9uZSBlYXRpbmcuPC9saT48bGk+QnJ1c2ggeW91ciB0ZWV0aCBhbmQgdGhpbmsgYWJvdXQgdGhlIGZyZXNoLCBjbGVhbiBmZWVsaW5nIGluIHlvdXIgbW91dGguPC9saT48bGk+R28mbmJzcDtmb3IgYSB3YWxrIGFmdGVyIG1lYWxzLjwvbGk+PC91bD5kAgEPZBYKAgEPDxYCHwJnZGQCAw8PFgQfAAUTU3RyZXNzIGFuZCBDcmF2aW5ncx8CZxYCHwgFDiN0YWtlLWFjdGlvbl8zZAIFDw8WAh8CZ2RkAgcPDxYEHwAFC01ha2UgYSBQbGFuHwJnFgIfCAUOI3Rha2UtYWN0aW9uXzFkAgkPDxYCHwAFEDcgb2YgMTAgc2VjdGlvbnNkZAICD2QWBGYPFQQDMTM0C1Rha2UgQWN0aW9uE1N0cmVzcyBhbmQgQ3JhdmluZ3P/DDxoMz5EZWFsIHdpdGggc3RyZXNzLjwvaDM+PHA+U29tZSBwZW9wbGUgc21va2UgdG8gZGVhbCB3aXRoIHN0cmVzcy4gQnV0IHRoZXJlIGFyZSB3YXlzIHRvIGRlYWwgd2l0aCBzdHJlc3Mgd2l0aG91dCBzbW9raW5nLiZuYnNwOzwvcD48cD48YSBocmVmPSIvSGVhbHRoVG9waWNzL0NhdGVnb3J5L2hlYWx0aC1jb25kaXRpb25zLWFuZC1kaXNlYXNlcy9oZWFydC1oZWFsdGgvbWFuYWdlLXN0cmVzcyI+TWFuYWdlIHN0cmVzczwvYT4gYnkgY3JlYXRpbmcgcGVhY2VmdWwgdGltZXMgaW4geW91ciBkYWlseSBzY2hlZHVsZS4gVHJ5IHJlbGF4YXRpb24gbWV0aG9kcyBsaWtlIGRlZXAgYnJlYXRoaW5nLCBzaG9ydCB3YWxrcywgYW5kIG1lZGl0YXRpb24uPC9wPjxwPllvdSBjYW4gYWxzbyBjaGVjayBvdXQgdGhlc2U8YSBocmVmPSJodHRwczovL3Ntb2tlZnJlZS5nb3YvY2hhbGxlbmdlcy13aGVuLXF1aXR0aW5nL3N0cmVzcy9jb3Bpbmctd2l0aC1zdHJlc3MiIHRhcmdldD0iX2JsYW5rIj4gPC9hPjxhIGhyZWY9Imh0dHBzOi8vc21va2VmcmVlLmdvdi9jaGFsbGVuZ2VzLXdoZW4tcXVpdHRpbmcvc3RyZXNzIiB0YXJnZXQ9Il9ibGFuayI+dGlwcyBmb3IgZGVhbGluZyB3aXRoIHN0cmVzcyBhcyB5b3UgcXVpdDwvYT4uPC9wPjxoMz5NYW5hZ2UgY3JhdmluZ3MuPC9oMz48cD5XaGVuIHlvdSBxdWl0IHNtb2tpbmcsIHRoZSB1cmdlIHRvIHNtb2tlIHdpbGwgY29tZSBhbmQgZ28sIGJ1dCBpdCB3aWxsIGdyYWR1YWxseSBkZWNyZWFzZSZuYnNwO292ZXIgdGltZS4gTW9zdCBjcmF2aW5ncyBvbmx5IGxhc3QgYSBzaG9ydCB0aW1lLiZuYnNwOzwvcD48cD5IZXJlIGFyZSBzb21lIHdheXMgdG8gbWFuYWdlJm5ic3A7Y3JhdmluZ3M6PC9wPjx1bD48bGk+S2VlcCB5b3VyIGhhbmRzIGJ1c3kuIFRyeSBicnVzaGluZyB5b3VyIHRlZXRoLCB3YXNoaW5nIHlvdXIgaGFuZHMsIHNvcnRpbmcgdGhlIG1haWwsIG9yIGRvaW5nIHRoZSBkaXNoZXMuJm5ic3A7PC9saT48bGk+SGF2ZSBoZWFsdGh5IHNuYWNrcyByZWFkeSwgbGlrZSBiYWJ5IGNhcnJvdHMsIGFwcGxlcywgd2hvbGUtZ3JhaW4gY3JhY2tlcnMsIG9yIHN1Z2FyLWZyZWUgZ3VtLjwvbGk+PGxpPkRpc3RyYWN0IHlvdXJzZWxmIHdpdGggYSBuZXcgYWN0aXZpdHkuJm5ic3A7VHJ5IHBsYXlpbmcgYSBnYW1lIG9uIHlvdXIgcGhvbmUsIGNoYXR0aW5nIHdpdGggYSBmcmllbmQsIG9yIGRvaW5nIGNyb3Nzd29yZHMgb3Igb3RoZXIgcHV6emxlcy48L2xpPjxsaT5JZiB5b3UgdXNlZCB0byBzbW9rZSB3aGlsZSBkcml2aW5nLCB0cnkgc29tZXRoaW5nIG5ldy4gVGFrZSBwdWJsaWMgdHJhbnNwb3J0YXRpb24gb3IgcmlkZSB3aXRoIGEgZnJpZW5kLjwvbGk+PGxpPlRha2Ugc2V2ZXJhbCBkZWVwIGJyZWF0aHMgdG8gaGVscCB5b3UgcmVsYXguPC9saT48bGk+V3JpdGUgZG93biB5b3VyIGxpc3Qgb2YgcmVhc29ucyBmb3IgcXVpdHRpbmcuPC9saT48L3VsPjxwPlJlbWVtYmVyLCBxdWl0dGluZyBtYXkgYmUgaGFyZCAmbmRhc2g7IHNvIHByZXBhcmUgeW91cnNlbGYuJm5ic3A7PGEgaHJlZj0iaHR0cDovL3Ntb2tlZnJlZS5nb3Yvd2l0aGRyYXdhbC1xdWl6IiB0YXJnZXQ9Il9ibGFuayI+VGFrZSB0aGlzIHdpdGhkcmF3YWwgcXVpeiBldmVyeSBkYXk8L2E+IHRvIHNlZSB5b3VyIHByb2dyZXNzLjwvcD5kAgEPZBYKAgEPDxYCHwJnZGQCAw8PFgQfAAUIR2V0IEhlbHAfAmcWAh8IBQ4jdGFrZS1hY3Rpb25fNGQCBQ8PFgIfAmdkZAIHDw8WBB8ABQ9DaGFuZ2UgUm91dGluZXMfAmcWAh8IBQ4jdGFrZS1hY3Rpb25fMmQCCQ8PFgIfAAUQOCBvZiAxMCBzZWN0aW9uc2RkAgMPZBYEZg8VBAM2MzcLVGFrZSBBY3Rpb24IR2V0IEhlbHCtCzxoMz5UYWxrIHdpdGggYSBkb2N0b3IsIG51cnNlLCBvciBwaGFybWFjaXN0LjwvaDM+PHA+QXNrIGFib3V0OjwvcD48dWw+PGxpPlN0cmF0ZWdpZXMgZm9yIHF1aXR0aW5nIHNtb2tpbmcgdGhhdCBhcmUgbGlrZWx5IHRvIHdvcmsgYmVzdCBmb3IgeW91LjwvbGk+PGxpPk1lZGljaW5lcyB0aGF0IGNhbiBpbXByb3ZlIHlvdXIgY2hhbmNlcyBvZiBxdWl0dGluZyAmbmRhc2g7IGFuZCBob3cgdG8gdXNlIHRoZXNlIG1lZGljaW5lcyB0aGUgcmlnaHQgd2F5LjwvbGk+PC91bD48cD5XaGVuIHlvdSBzdG9wIHNtb2tpbmcsIHlvdXIgYm9keSBnb2VzIHRocm91Z2ggd2l0aGRyYXdhbCBmcm9tIG5pY290aW5lLiBUaGlzIG1lYW5zIHlvdSZuYnNwO21heSBmZWVsIGlycml0YWJsZSwgYW54aW91cywgcmVzdGxlc3MsIG9yIGh1bmdyeS4gWW91IG1heSBldmVuIGhhdmUgdHJvdWJsZSBjb25jZW50cmF0aW5nIG9yIHNsZWVwaW5nLiA8YSBocmVmPSJodHRwOi8vc21va2VmcmVlLmdvdi9leHBsb3JlLW1lZGljYXRpb25zIiB0YXJnZXQ9Il9ibGFuayI+RmluZCBvdXQgYWJvdXQgbWVkaWNpbmVzIHRoYXQgY2FuIGhlbHAgd2l0aCB3aXRoZHJhd2FsPC9hPi48L3A+PGg0PldoYXQgYWJvdXQgY29zdD88L2g0PjxwPllvdSBjYW4gZ2V0IGZyZWUgaGVscCB3aXRoIHF1aXR0aW5nIGJ5IGNhbGxpbmcgMS04MDAtUVVJVC1OT1cgKDEtODAwLTc4NC04NjY5KSBhbmQgYnkgdmlzaXRpbmcgPGEgaHJlZj0iaHR0cDovL3d3dy5zbW9rZWZyZWUuZ292LyIgdGFyZ2V0PSJfYmxhbmsiPlNtb2tlZnJlZS5nb3Y8L2E+LjwvcD48cD5BcyBhIHJlc3VsdCBvZiB0aGUmbmJzcDs8YSBocmVmPSJodHRwczovL3d3dy5oZWFsdGhjYXJlLmdvdi9oZWFsdGgtY2FyZS1sYXctcHJvdGVjdGlvbnMvIiB0YXJnZXQ9Il9ibGFuayI+QWZmb3JkYWJsZSBDYXJlIEFjdDwvYT4sIHRoZSBoZWFsdGggY2FyZSByZWZvcm0gbGF3IHBhc3NlZCBpbiAyMDEwLCBpbnN1cmFuY2UgcGxhbnMgbXVzdCBjb3ZlciBzb21lIHNlcnZpY2VzIHRvIGhlbHAgcGVvcGxlIHF1aXQgc21va2luZy4gRGVwZW5kaW5nIG9uIHlvdXIgaW5zdXJhbmNlLCB5b3UgbWF5IGJlIGFibGUgdG8gZ2V0IHRoZXNlIHNlcnZpY2VzIGF0IG5vIGNvc3QgdG8geW91LjwvcD48cD5DaGVjayB3aXRoIHlvdXIgaW5zdXJhbmNlIGNvbXBhbnkmbmJzcDt0byBmaW5kIG91dCB3aGF0IGtpbmQgb2YgY291bnNlbGluZyBhbmQgbWVkaWNpbmVzJm5ic3A7YXJlJm5ic3A7aW5jbHVkZWQgaW4geW91ciBwbGFuLiBGb3IgaW5mb3JtYXRpb24gYWJvdXQgb3RoZXIgc2VydmljZXMgY292ZXJlZCBieSB0aGUgQWZmb3JkYWJsZSBDYXJlIEFjdCwgPGEgaHJlZj0iaHR0cHM6Ly93d3cuaGVhbHRoY2FyZS5nb3YvY292ZXJhZ2UvcHJldmVudGl2ZS1jYXJlLWJlbmVmaXRzLyIgdGFyZ2V0PSJfYmxhbmsiPnZpc2l0Jm5ic3A7SGVhbHRoQ2FyZS5nb3Y8L2E+LjwvcD5kAgEPZBYKAgEPDxYCHwJnZGQCAw8PFgQfAAUNU3RpY2sgd2l0aCBJdB8CZxYCHwgFDiN0YWtlLWFjdGlvbl81ZAIFDw8WAh8CZ2RkAgcPDxYEHwAFE1N0cmVzcyBhbmQgQ3JhdmluZ3MfAmcWAh8IBQ4jdGFrZS1hY3Rpb25fM2QCCQ8PFgIfAAUQOSBvZiAxMCBzZWN0aW9uc2RkAgQPZBYEZg8VBAM1NjMLVGFrZSBBY3Rpb24NU3RpY2sgd2l0aCBJdJ4GPGgzPkRvbiZyc3F1bzt0IGdpdmUgdXAhPC9oMz48cD5SZW1lbWJlciwgaXQgdGFrZXMgdGltZSB0byBvdmVyY29tZSBhZGRpY3Rpb24uJm5ic3A7PGEgaHJlZj0iaHR0cDovL3Ntb2tlZnJlZS5nb3Yvc3RheWluZy1zbW9rZWZyZWUiIHRhcmdldD0iX2JsYW5rIj5DaGVjayBvdXQgdGhlc2UgdGlwcyBmb3ImbmJzcDtzdGF5aW5nIHNtb2tlZnJlZTwvYT4uPC9wPjxoMz5MZWFybiBmcm9tIHRoZSBwYXN0LjwvaDM+PHA+TWFueSBwZW9wbGUgdHJ5IHRvIHF1aXQgbW9yZSB0aGFuIG9uY2UgYmVmb3JlIHRoZXkgc3VjY2VlZC4gTW9zdCBwZW9wbGUgd2hvIHN0YXJ0IHNtb2tpbmcgYWdhaW4gZG8gc28gaW4gdGhlIGZpcnN0IDMgbW9udGhzIGFmdGVyIHF1aXR0aW5nLiBJZiB5b3UmcnNxdW87dmUgdHJpZWQgdG8gcXVpdCBiZWZvcmUsIHRoaW5rIGFib3V0IHdoYXQgd29ya2VkIGZvciB5b3UgYW5kIHdoYXQgZGlkbiZyc3F1bzt0LjwvcD48cD5CZWluZyBhcm91bmQgb3RoZXIgc21va2VycyBjYW4gbWFrZSBpdCBoYXJkZXIgdG8gcXVpdC4gU28gY2FuIGRyaW5raW5nIGFsY29ob2wuPC9wPjxwPklmIHlvdSBhcmUgaGF2aW5nIGEgaGFyZCB0aW1lICZxdW90O3N0YXlpbmcgcXVpdCwmcXVvdDsmbmJzcDt0YWxrIHdpdGggeW91ciBkb2N0b3IgYWJvdXQgd2hhdCB0eXBlcyBvZiBjb3Vuc2VsaW5nIG9yIG1lZGljaW5lcyBtaWdodCBoZWxwIHlvdS4gUmVtZW1iZXIsIHF1aXR0aW5nIGlzIG9uZSBvZiB0aGUgbW9zdCBpbXBvcnRhbnQgdGhpbmdzIHlvdSBjYW4gZG8gdG8gcHJvdGVjdCB5b3VyIGhlYWx0aC48L3A+ZAIBD2QWBgIFDw8WAh8CZ2RkAgcPDxYEHwAFCEdldCBIZWxwHwJnFgIfCAUOI3Rha2UtYWN0aW9uXzRkAgkPDxYCHwAFETEwIG9mIDEwIHNlY3Rpb25zZGQCDw9kFghmDxYEHwAFEUZlYnJ1YXJ5IDI3LCAyMDE5HwJnZAIBDw8WBB8EBR0vSGVhbHRoVG9waWNzL1NvdXJjZXMuYXNweCMyNB8CZ2RkAgIPDxYCHwJnZGQCAw8PFgQfBAUqL0ZpbmRTZXJ2aWNlcy9TZWFyY2hDb250ZXh0LmFzcHg/dG9waWM9ODAxHwJnZGQCEQ8PFgIfAmdkFgJmDxYCHwcCAxYGZg9kFgQCAQ8PFgIfBAVUL0hlYWx0aFRvcGljcy9DYXRlZ29yeS9kb2N0b3ItdmlzaXRzL3NjcmVlbmluZy10ZXN0cy9nZXQteW91ci1ibG9vZC1wcmVzc3VyZS1jaGVja2VkZBYCZg8PFgIfBQU7L0hlYWx0aFRvcGljcy9nbG1lZGlhL2ljb25zL2dldHlvdXJibG9vZHByZXNzdXJlY2hlY2tlZC5qcGcWAh8GBR9HZXQgWW91ciBCbG9vZCBQcmVzc3VyZSBDaGVja2VkZAIDDw8WBB8ABR9HZXQgWW91ciBCbG9vZCBQcmVzc3VyZSBDaGVja2VkHwQFVC9IZWFsdGhUb3BpY3MvQ2F0ZWdvcnkvZG9jdG9yLXZpc2l0cy9zY3JlZW5pbmctdGVzdHMvZ2V0LXlvdXItYmxvb2QtcHJlc3N1cmUtY2hlY2tlZGRkAgEPZBYEAgEPDxYCHwQFay9IZWFsdGhUb3BpY3MvQ2F0ZWdvcnkvZG9jdG9yLXZpc2l0cy90YWxraW5nLXdpdGgtdGhlLWRvY3Rvci9sdW5nLWNhbmNlci1zY3JlZW5pbmctcXVlc3Rpb25zLWZvci10aGUtZG9jdG9yZBYCZg8PFgIfBQU/L0hlYWx0aFRvcGljcy9nbG1lZGlhL3Rvb2xzX2ljb25zLzQ1NDk0X2x1bmdjYW5jZXJzY3JlZW5pbmcuanBnFgIfBgUvTHVuZyBDYW5jZXIgU2NyZWVuaW5nOiBRdWVzdGlvbnMgZm9yIHRoZSBkb2N0b3JkAgMPDxYEHwAFL0x1bmcgQ2FuY2VyIFNjcmVlbmluZzogUXVlc3Rpb25zIGZvciB0aGUgZG9jdG9yHwQFay9IZWFsdGhUb3BpY3MvQ2F0ZWdvcnkvZG9jdG9yLXZpc2l0cy90YWxraW5nLXdpdGgtdGhlLWRvY3Rvci9sdW5nLWNhbmNlci1zY3JlZW5pbmctcXVlc3Rpb25zLWZvci10aGUtZG9jdG9yZGQCAg9kFgQCAQ8PFgIfBAVlL0hlYWx0aFRvcGljcy9DYXRlZ29yeS9oZWFsdGgtY29uZGl0aW9ucy1hbmQtZGlzZWFzZXMvaGVhcnQtaGVhbHRoL2hlYXJ0LWhlYWx0aC1jb252ZXJzYXRpb24tc3RhcnRlcnNkFgJmDw8WAh8FBUUvSGVhbHRoVG9waWNzL2dsbWVkaWEvdG9vbHNfaWNvbnMvaGVhcnRoZWFsdGhjb252ZXJzYXRpb25zdGFydGVycy5qcGcWAh8GBSNIZWFydCBIZWFsdGg6IENvbnZlcnNhdGlvbiBzdGFydGVyc2QCAw8PFgQfAAUjSGVhcnQgSGVhbHRoOiBDb252ZXJzYXRpb24gc3RhcnRlcnMfBAVlL0hlYWx0aFRvcGljcy9DYXRlZ29yeS9oZWFsdGgtY29uZGl0aW9ucy1hbmQtZGlzZWFzZXMvaGVhcnQtaGVhbHRoL2hlYXJ0LWhlYWx0aC1jb252ZXJzYXRpb24tc3RhcnRlcnNkZAIGD2QWBAIBD2QWAgIBDxYCHwAFF1NhdHVyZGF5LCBKdW5lIDAxLCAyMDE5ZAIDDw8WAh8CaGRkZFsQNKHh0N7BySLDVfHj30qXdYbXWF0+PBrjbhoO3i+d"> 
+      </div> 
+      <div class="aspNetHidden"> 
+       <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="942D1C1E"> 
+      </div> 
+      <div class="health_topic_content health-topic-topic"> 
+       <div id="content_utilities" class="utilities"> 
+        <div class="helpers"> 
+         <div class="print"> 
+          <a href="javascript:window.print()" class="button print-button"> Print This Topic </a> 
+         </div> 
+         <div class="espanol"> 
+          <a id="content_translationLink" class="button" href="/espanol/temas/Category/enfermedades-y-problemas-de-salud/diabetes/como-puedo-dejar-de-fumar">En español</a> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="health_topic_content_inner_wrap clearfix"> 
+        <div class="pageTitle"> 
+         <h1 class="syndicate"> Quit Smoking </h1> 
+         <img id="content_contentImage" class="icon-image" alt="" src="/HealthTopics/glmedia/icons/quitsmoking.jpg"> 
+        </div> 
+        <div id="content_quickguide_select_wrap_bg" class="quickguide_select_wrap-bg"> 
+         <div id="quickguide_select_wrap" class="quickguide_select_wrap"> 
+          <p id="quickguide-menu-trigger" class="quickguide-menu-trigger menu-hide">Browse Sections</p> 
+          <ul id="quickguide_select" class="quickguide_select menu-hide"> 
+           <li><span>The Basics</span> 
+            <ul> 
+             <li> <a href="#the-basics_1">Overview</a> </li> 
+             <li> <a href="#the-basics_2">Secondhand Smoke</a> </li> 
+             <li> <a href="#the-basics_3">How Can I Quit?</a> </li> 
+             <li> <a href="#the-basics_4">Health Benefits</a> </li> 
+             <li> <a href="#the-basics_5">Weight Control</a> </li> 
+            </ul> </li> 
+           <li><span>Take Action!</span> 
+            <ul> 
+             <li> <a href="#take-action_1">Make a Plan</a> </li> 
+             <li> <a href="#take-action_2">Change Routines</a> </li> 
+             <li> <a href="#take-action_3">Stress and Cravings</a> </li> 
+             <li> <a href="#take-action_4">Get Help</a> </li> 
+             <li> <a href="#take-action_5">Stick with It</a> </li> 
+            </ul> </li> 
+          </ul> 
+         </div> 
+        </div> 
+        <!-- /quickguide_select_wrap-bg --> 
+        <div class="content-page-box quickguide_tabbed_content"> 
+         <div class="quickguide_content"> 
+          <div class="quickguide_areas"> 
+           <div id="the-basics" class="topic_area"> 
+            <h2 class="topic_area_title syndicate">The Basics</h2> 
+            <div class="pages"> 
+             <div class="page" id="page_112"> 
+              <h2 class="topic_page_title">The Basics: <span>Overview</span></h2> 
+              <div class="syndicate"> 
+               <p>Quitting smoking is one of the most important things you can do for your health. The sooner you quit, the sooner your body can start to heal.&nbsp;You will feel better and have more energy to be active with your family and friends.</p>
+               <h3>Smoking hurts almost every part of the body.</h3>
+               <p>Smoking is the leading cause of preventable death and disease in the United States.</p>
+               <p>Smoking causes:</p>
+               <ul>
+                <li>Lung cancer&nbsp;and many other types of cancer</li>
+                <li>Heart disease</li>
+                <li>Stroke</li>
+                <li>Chronic obstructive pulmonary disease (COPD) and other lung diseases</li>
+                <li>Pregnancy problems</li>
+                <li>Gum disease</li>
+                <li>Vision loss</li>
+                <li>Type 2 diabetes&nbsp;</li>
+                <li>Rheumatoid arthritis</li>
+               </ul>
+               <p>Learn more about <a href="https://smokefree.gov/quitting-smoking/reasons-quit/health-effects" target="_blank">how smoking affects different parts of the body</a>.</p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_0_topic_navigation_0" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_0_pageNextLabel_0" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_0_pageNext_0" class="button next" href="#the-basics_2">Secondhand Smoke</a> </span> 
+                <span class="content_page_link left"> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_0_pageRange_0" class="content_page_range">1 of 10 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+             <div class="page" id="page_829"> 
+              <h2 class="topic_page_title">The Basics: <span>Secondhand Smoke</span></h2> 
+              <div class="syndicate"> 
+               <h3>Smoking hurts other people, too.</h3>
+               <p>Secondhand smoke is a mix of the smoke that comes from your cigarette and the smoke that you breathe out.&nbsp;Secondhand smoke is dangerous and can cause health problems for the people around you.</p>
+               <p>In babies and children, breathing in secondhand smoke can cause:</p>
+               <ul>
+                <li>Sudden infant death syndrome (SIDS)</li>
+                <li>Pneumonia</li>
+                <li>Bronchitis</li>
+                <li>Severe asthma attacks</li>
+                <li>Ear infections</li>
+               </ul>
+               <p>In adults, breathing in secondhand smoke can cause:</p>
+               <ul>
+                <li>Heart disease</li>
+                <li>Stroke</li>
+                <li>Lung cancer</li>
+               </ul> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_0_topic_navigation_1" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_0_pageNextLabel_1" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_0_pageNext_1" class="button next" href="#the-basics_3">How Can I Quit?</a> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_0_pagePrevLabel_1" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_0_pagePrev_1" class="button previous" href="#the-basics_1">Overview</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_0_pageRange_1" class="content_page_range">2 of 10 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+             <div class="page" id="page_132"> 
+              <h2 class="topic_page_title">The Basics: <span>How Can I Quit?</span></h2> 
+              <div class="syndicate"> 
+               <h3>You can quit smoking.</h3>
+               <p>Quitting smoking is hard, but millions of people have done it successfully. In fact, more than half of Americans who&nbsp;ever smoked have quit. You could be one of them!</p>
+               <p>Nicotine – the drug found in all tobacco products – is as addictive as heroin or cocaine. It’s the nicotine in cigarettes that causes the strong feeling that you want to smoke (craving). Remember – quitting isn’t easy, but it is possible!</p>
+               <p>Take these steps&nbsp;to help you quit:</p>
+               <ul>
+                <li><a href="http://smokefree.gov/reasons-to-quit" target="_blank">Make a list of the reasons you want to quit</a>.</li>
+                <li>Set a quit date and make a plan to deal with cravings.</li>
+                <li>Ask your family, friends, and coworkers for support.</li>
+                <li>Talk to your doctor about counseling and medicines&nbsp;that can help you quit.</li>
+                <li>Call 1-800-QUIT-NOW (1-800-784-8669) or visit <a href="http://smokefree.gov/" target="_blank">Smokefree.gov</a>&nbsp;for free help.</li>
+                <li>Download these <a href="https://smokefree.gov/tools-tips/apps" target="_self">free apps</a> for 24/7 support and encouragement.</li>
+               </ul>
+               <p>Find out more about <a href="http://smokefree.gov/steps-to-prepare" target="_blank">steps you can take as you get ready to quit smoking</a>.</p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_0_topic_navigation_2" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_0_pageNextLabel_2" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_0_pageNext_2" class="button next" href="#the-basics_4">Health Benefits</a> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_0_pagePrevLabel_2" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_0_pagePrev_2" class="button previous" href="#the-basics_2">Secondhand Smoke</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_0_pageRange_2" class="content_page_range">3 of 10 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+             <div class="page" id="page_408"> 
+              <h2 class="topic_page_title">The Basics: <span>Health Benefits</span></h2> 
+              <div class="syndicate"> 
+               <h3>You will feel better after you quit.</h3>
+               <p>Your body begins to heal as soon as you quit smoking. Here are some ways you will feel better:</p>
+               <ul>
+                <li>You will breathe more easily.</li>
+                <li>Your senses of taste and smell will improve.</li>
+                <li>You will have more energy.</li>
+                <li>Your lungs will become stronger, making it easier for you to be active.</li>
+                <li>You will cough and wheeze (struggle to breathe) less.&nbsp;</li>
+               </ul>
+               <p>Find out more about <a href="https://www.cdc.gov/tobacco/data_statistics/fact_sheets/cessation/quitting/index.htm">how quitting smoking will help your health</a>.</p>
+               <h3>Quitting smoking will help you live a longer, healthier life.</h3>
+               <p>After you quit smoking:</p>
+               <ul>
+                <li>Your risk of having a heart attack or stroke goes down.</li>
+                <li>Your risk of dying from cancer goes down.</li>
+                <li>The levels of oxygen and carbon monoxide in your blood return to normal.</li>
+                <li>If you have children, you can help them be healthier by quitting smoking. Children whose parents smoke around them are at higher risk for lung and ear infections.&nbsp;</li>
+               </ul>
+               <p>Check out these <a href="http://www.cdc.gov/tobacco/campaign/tips/stories/" target="_blank">real stories of people who have been hurt by smoking</a>.</p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_0_topic_navigation_3" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_0_pageNextLabel_3" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_0_pageNext_3" class="button next" href="#the-basics_5">Weight Control</a> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_0_pagePrevLabel_3" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_0_pagePrev_3" class="button previous" href="#the-basics_3">How Can I Quit?</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_0_pageRange_3" class="content_page_range">4 of 10 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+             <div class="page" id="page_410"> 
+              <h2 class="topic_page_title">The Basics: <span>Weight Control</span></h2> 
+              <div class="syndicate"> 
+               <h3>Will quitting make me gain weight?</h3>
+               <p>Some people worry about gaining weight when they quit smoking. It's true that some people gain weight after quitting, but you can prevent weight gain by making healthy choices. For example:</p>
+               <ul>
+                <li><a href="https://healthfinder.gov/HealthTopics/Category/health-conditions-and-diseases/obesity/get-active">Get active</a>. Aim for 2 hours and 30 minutes a week of moderate aerobic activity, like walking fast or dancing.</li>
+                <li>Eat healthy snacks, like vegetables or fruit.</li>
+                <li>Talk with your doctor about ways to <a href="https://healthfinder.gov/HealthTopics/Category/health-conditions-and-diseases/obesity/watch-your-weight">control your weight</a>.</li>
+                <li><a href="https://smokefree.gov/tools-tips/text-programs/healthyyoutxt" target="_blank">Use this text messaging program</a> from Smokefree.gov to get tips and support on losing weight, eating healthy, and getting active.</li>
+               </ul>
+               <p>To learn more ways to watch your weight after quitting, <a href="https://smokefree.gov/challenges-when-quitting/dealing-weight-gain-after-quitting" target="_blank">check out these tips</a>.</p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_0_topic_navigation_4" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_0_pageNextLabel_4" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_0_pageNext_4" class="button next" href="#take-action_1">Make a Plan</a> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_0_pagePrevLabel_4" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_0_pagePrev_4" class="button previous" href="#the-basics_4">Health Benefits</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_0_pageRange_4" class="content_page_range">5 of 10 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+            </div> 
+            <div class="clear"></div> 
+           </div> 
+           <div id="take-action" class="topic_area"> 
+            <h2 class="topic_area_title syndicate">Take Action!</h2> 
+            <div class="pages"> 
+             <div class="page" id="page_599"> 
+              <h2 class="topic_page_title">Take Action: <span>Make a Plan</span></h2> 
+              <div class="syndicate"> 
+               <p>Take these steps to quit smoking.</p>
+               <h3>Write down your reasons to quit.</h3>
+               <p>Make a list of all the reasons <strong>you</strong> want to quit. For example, your reasons to quit might be to set a healthy example for your children and to save money. Keep the list with you to remind yourself why quitting is worth it.</p>
+               <h3>Set a quit date.</h3>
+               <ul>
+                <li>Pick a date that gives you enough time to get ready to quit. But make sure it’s soon enough that you don’t lose your motivation.</li>
+                <li>Tell your family, friends, and coworkers about your quit date so they can support you.</li>
+               </ul>
+               <h3>Make a quit plan.</h3>
+               <ul>
+                <li>Think about situations that might&nbsp;trigger&nbsp;you to smoke. Plan how you will handle them without smoking.</li>
+                <li>Right before your quit date, go through your house, car, and workplace to get rid of anything that has to do with smoking. Throw away all your cigarettes,&nbsp;ashtrays, lighters, and matches.</li>
+                <li>Clean your clothes so they don’t smell like smoke.</li>
+               </ul>
+               <p><a href="http://smokefree.gov/build-your-quit-plan" target="_blank">Check out this online quit plan tool</a>&nbsp;or&nbsp;call the tobacco quitline at 1-800-QUIT-NOW (1-800-784-8669) for free support and help setting up your quit plan.</p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_1_topic_navigation_0" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_1_pageNextLabel_0" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pageNext_0" class="button next" href="#take-action_2">Change Routines</a> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_1_pagePrevLabel_0" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pagePrev_0" class="button previous" href="#the-basics_5">Weight Control</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_1_pageRange_0" class="content_page_range">6 of 10 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+             <div class="page" id="page_116"> 
+              <h2 class="topic_page_title">Take Action: <span>Change Routines</span></h2> 
+              <div class="syndicate"> 
+               <h3>Change your daily routine.</h3>
+               <p>Changing your routine on&nbsp;your quit date and afterward can help you break habits related to smoking.</p>
+               <ul>
+                <li>Try taking a different route to work.</li>
+                <li>For the first few weeks, avoid activities and places you connect with smoking.</li>
+                <li>Do things and go places where smoking isn’t allowed.</li>
+                <li>Make&nbsp;<a href="https://healthfinder.gov/HealthTopics/Category/health-conditions-and-diseases/obesity/get-active">getting active</a>&nbsp;and&nbsp;<a href="https://healthfinder.gov/HealthTopics/Category/health-conditions-and-diseases/obesity/eat-healthy">eating healthy</a>&nbsp;part of your quit plan. Instead of smoking: eat healthy snacks, go for walks, and drink lots of water.</li>
+               </ul>
+               <h3>Break the connection between eating and smoking.&nbsp;</h3>
+               <p>Many people like to smoke when they finish a meal. Here are some ways to break the connection:</p>
+               <ul>
+                <li>Get up from the table as soon as you are done eating.</li>
+                <li>Brush your teeth and think about the fresh, clean feeling in your mouth.</li>
+                <li>Go&nbsp;for a walk after meals.</li>
+               </ul> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_1_topic_navigation_1" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_1_pageNextLabel_1" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pageNext_1" class="button next" href="#take-action_3">Stress and Cravings</a> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_1_pagePrevLabel_1" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pagePrev_1" class="button previous" href="#take-action_1">Make a Plan</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_1_pageRange_1" class="content_page_range">7 of 10 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+             <div class="page" id="page_134"> 
+              <h2 class="topic_page_title">Take Action: <span>Stress and Cravings</span></h2> 
+              <div class="syndicate"> 
+               <h3>Deal with stress.</h3>
+               <p>Some people smoke to deal with stress. But there are ways to deal with stress without smoking.&nbsp;</p>
+               <p><a href="/HealthTopics/Category/health-conditions-and-diseases/heart-health/manage-stress">Manage stress</a> by creating peaceful times in your daily schedule. Try relaxation methods like deep breathing, short walks, and meditation.</p>
+               <p>You can also check out these<a href="https://smokefree.gov/challenges-when-quitting/stress/coping-with-stress" target="_blank"> </a><a href="https://smokefree.gov/challenges-when-quitting/stress" target="_blank">tips for dealing with stress as you quit</a>.</p>
+               <h3>Manage cravings.</h3>
+               <p>When you quit smoking, the urge to smoke will come and go, but it will gradually decrease&nbsp;over time. Most cravings only last a short time.&nbsp;</p>
+               <p>Here are some ways to manage&nbsp;cravings:</p>
+               <ul>
+                <li>Keep your hands busy. Try brushing your teeth, washing your hands, sorting the mail, or doing the dishes.&nbsp;</li>
+                <li>Have healthy snacks ready, like baby carrots, apples, whole-grain crackers, or sugar-free gum.</li>
+                <li>Distract yourself with a new activity.&nbsp;Try playing a game on your phone, chatting with a friend, or doing crosswords or other puzzles.</li>
+                <li>If you used to smoke while driving, try something new. Take public transportation or ride with a friend.</li>
+                <li>Take several deep breaths to help you relax.</li>
+                <li>Write down your list of reasons for quitting.</li>
+               </ul>
+               <p>Remember, quitting may be hard – so prepare yourself.&nbsp;<a href="http://smokefree.gov/withdrawal-quiz" target="_blank">Take this withdrawal quiz every day</a> to see your progress.</p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_1_topic_navigation_2" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_1_pageNextLabel_2" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pageNext_2" class="button next" href="#take-action_4">Get Help</a> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_1_pagePrevLabel_2" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pagePrev_2" class="button previous" href="#take-action_2">Change Routines</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_1_pageRange_2" class="content_page_range">8 of 10 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+             <div class="page" id="page_637"> 
+              <h2 class="topic_page_title">Take Action: <span>Get Help</span></h2> 
+              <div class="syndicate"> 
+               <h3>Talk with a doctor, nurse, or pharmacist.</h3>
+               <p>Ask about:</p>
+               <ul>
+                <li>Strategies for quitting smoking that are likely to work best for you.</li>
+                <li>Medicines that can improve your chances of quitting – and how to use these medicines the right way.</li>
+               </ul>
+               <p>When you stop smoking, your body goes through withdrawal from nicotine. This means you&nbsp;may feel irritable, anxious, restless, or hungry. You may even have trouble concentrating or sleeping. <a href="http://smokefree.gov/explore-medications" target="_blank">Find out about medicines that can help with withdrawal</a>.</p>
+               <h4>What about cost?</h4>
+               <p>You can get free help with quitting by calling 1-800-QUIT-NOW (1-800-784-8669) and by visiting <a href="http://www.smokefree.gov/" target="_blank">Smokefree.gov</a>.</p>
+               <p>As a result of the&nbsp;<a href="https://www.healthcare.gov/health-care-law-protections/" target="_blank">Affordable Care Act</a>, the health care reform law passed in 2010, insurance plans must cover some services to help people quit smoking. Depending on your insurance, you may be able to get these services at no cost to you.</p>
+               <p>Check with your insurance company&nbsp;to find out what kind of counseling and medicines&nbsp;are&nbsp;included in your plan. For information about other services covered by the Affordable Care Act, <a href="https://www.healthcare.gov/coverage/preventive-care-benefits/" target="_blank">visit&nbsp;HealthCare.gov</a>.</p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_1_topic_navigation_3" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_1_pageNextLabel_3" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pageNext_3" class="button next" href="#take-action_5">Stick with It</a> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_1_pagePrevLabel_3" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pagePrev_3" class="button previous" href="#take-action_3">Stress and Cravings</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_1_pageRange_3" class="content_page_range">9 of 10 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+             <div class="page" id="page_563"> 
+              <h2 class="topic_page_title">Take Action: <span>Stick with It</span></h2> 
+              <div class="syndicate"> 
+               <h3>Don’t give up!</h3>
+               <p>Remember, it takes time to overcome addiction.&nbsp;<a href="http://smokefree.gov/staying-smokefree" target="_blank">Check out these tips for&nbsp;staying smokefree</a>.</p>
+               <h3>Learn from the past.</h3>
+               <p>Many people try to quit more than once before they succeed. Most people who start smoking again do so in the first 3 months after quitting. If you’ve tried to quit before, think about what worked for you and what didn’t.</p>
+               <p>Being around other smokers can make it harder to quit. So can drinking alcohol.</p>
+               <p>If you are having a hard time "staying quit,"&nbsp;talk with your doctor about what types of counseling or medicines might help you. Remember, quitting is one of the most important things you can do to protect your health.</p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_1_topic_navigation_4" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_1_pagePrevLabel_4" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pagePrev_4" class="button previous" href="#take-action_4">Get Help</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_1_pageRange_4" class="content_page_range">10 of 10 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+            </div> 
+            <div class="clear"></div> 
+           </div> 
+           <div id="content_pageDisplayToggleWrap" class="pageDisplayToggleWrap"> 
+            <a href="#" id="pageDisplayToggle" class="pageDisplayToggle">View All</a> 
+           </div> 
+           <div id="content_resourceLinks"> 
+            <div class="resource-links clearfix"> 
+             <p class="last-updated"> <strong>Content last updated on:</strong> February 27, 2019 </p> 
+             <p class="source-links"> <a id="content_contentReviewLink" href="/HealthTopics/Sources.aspx#24">Reviewer Information</a> <span id="content_breakBetweenLinks">&nbsp;|&nbsp;</span> <a id="content_moreResourcesLink" href="/FindServices/SearchContext.aspx?topic=801">Find More Resources</a> </p> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="clear"></div> 
+         </div> 
+         <!-- /.quickguide_content --> 
+         <div class="clear"></div> 
+        </div> 
+        <!-- /.content-page-box --> 
+       </div> 
+       <!-- /.health_topic_content_inner_wrap --> 
+       <div class="shadow-wide"></div> 
+       <div class="content-page-box health-topics-also-interested clearfix"> 
+        <div id="content_interestsPanel" class="topic_interests"> 
+         <h2>You may also be interested in:</h2> 
+         <ul> 
+          <li> <a id="content_interestsRepeater_imageLink_0" class="image_link" href="/HealthTopics/Category/doctor-visits/screening-tests/get-your-blood-pressure-checked"><img id="content_interestsRepeater_image_0" alt="Get Your Blood Pressure Checked" src="/HealthTopics/glmedia/icons/getyourbloodpressurechecked.jpg"></a> <a id="content_interestsRepeater_titleLink_0" class="title_link" href="/HealthTopics/Category/doctor-visits/screening-tests/get-your-blood-pressure-checked">Get Your Blood Pressure Checked</a> </li> 
+          <li> <a id="content_interestsRepeater_imageLink_1" class="image_link" href="/HealthTopics/Category/doctor-visits/talking-with-the-doctor/lung-cancer-screening-questions-for-the-doctor"><img id="content_interestsRepeater_image_1" alt="Lung Cancer Screening: Questions for the doctor" src="/HealthTopics/glmedia/tools_icons/45494_lungcancerscreening.jpg"></a> <a id="content_interestsRepeater_titleLink_1" class="title_link" href="/HealthTopics/Category/doctor-visits/talking-with-the-doctor/lung-cancer-screening-questions-for-the-doctor">Lung Cancer Screening: Questions for the doctor</a> </li> 
+          <li> <a id="content_interestsRepeater_imageLink_2" class="image_link" href="/HealthTopics/Category/health-conditions-and-diseases/heart-health/heart-health-conversation-starters"><img id="content_interestsRepeater_image_2" alt="Heart Health: Conversation starters" src="/HealthTopics/glmedia/tools_icons/hearthealthconversationstarters.jpg"></a> <a id="content_interestsRepeater_titleLink_2" class="title_link" href="/HealthTopics/Category/health-conditions-and-diseases/heart-health/heart-health-conversation-starters">Heart Health: Conversation starters</a> </li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="shadow health-topics-also-interested"></div> 
+       <!-- ./box-left --> 
+      </div> 
+      <!-- /.health-topic-tool --> 
+      <div id="resizable_embedded_link"></div> 
+     </form> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+   </div> 
+   <div id="HideIfWidget5"> 
+    <div id="footer" role="complementary"> 
+     <ul class="footer-links-wide"> 
+      <li><a href="/aboutus/">About Us</a></li> 
+      <li><a href="/aboutus/accessibility.aspx">Accessibility</a></li> 
+      <li><a href="/aboutus/contactus.aspx">Contact Us</a></li> 
+      <li><a href="/Developer">Developers</a></li> 
+      <li><a href="/aboutus/disclaimer.aspx">Disclaimers</a></li> 
+      <li><a href="/aboutus/foia.aspx">Freedom of Information Act</a></li> 
+      <li><a href="https://www.hhs.gov/civil-rights/for-individuals/nondiscrimination/index.html" target="_blank">Nondiscrimination Notice</a></li> 
+      <li><a href="/aboutus/privacy.aspx">Privacy Policy</a></li> 
+      <li><a href="/sitemap.aspx">Site Map</a></li> 
+      <li class="last"><a href="/aboutus/plugins.aspx">Viewers &amp; Players</a></li> 
+      <li class="clear"></li> 
+     </ul> 
+     <div class="clear"></div> 
+     <div class="footer-language"> 
+      <p>Language Assistance Available</p> 
+      <ul class="footer-links-wide"> 
+       <li><a lang="es" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#spanish" target="_blank">Español</a></li> 
+       <li><a lang="zh" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#chinese" target="_blank">????</a></li> 
+       <li><a lang="vi" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#vietnamese" target="_blank">Ti?ng Vi?t</a></li> 
+       <li><a lang="ko" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#korean" target="_blank">???</a></li> 
+       <li><a lang="fr" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#french" target="_blank">Français</a></li> 
+       <li><a lang="pl" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#polish" target="_blank">Polski</a></li> 
+       <li><a lang="pt" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#portugese" target="_blank">Português</a></li> 
+       <li><a lang="it" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#italian" target="_blank">Italiano</a></li> 
+       <li><a lang="tl" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#tagalog" target="_blank">Tagalog</a></li> 
+       <li><a lang="ru" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#russian" target="_blank">???????</a></li> 
+       <li><a lang="ar" dir="rtl" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#arabic" target="_blank">???????</a></li> 
+       <li><a lang="sg" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#creole" target="_blank">Kreyòl Ayisyen</a></li> 
+       <li><a lang="de" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#german" target="_blank">Deutsch</a></li> 
+       <li><a lang="ja" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#japanese" target="_blank">???</a></li> 
+       <li><a lang="fa" dir="rtl" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#farsi" target="_blank">?????</a></li> 
+       <li class="last"><a href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#english" target="_blank">English</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+     <div id="footer-bottom"> 
+      <div class="footer-text">
+        A Federal Government website managed by the 
+       <a class="hhs-text-link" href="https://www.hhs.gov/">U.S. Department of Health and Human Services</a> 
+       <br class="hidden-mobile-break"> healthfinder.gov is sponsored by the National Health Information Center 
+       <span class="address-block">200 Independence Avenue, S.W., Washington, DC 20201</span> 
+       <span class="page-updated">Page last updated: Saturday, June 01, 2019</span> 
+      </div> 
+      <div class="logo-box"> 
+       <a class="logo-hhs" href="https://www.hhs.gov/" title="Department of Health and Human Services"> <img src="/images/footer-hhs-logo.png" alt="Department of Health and Human Services"></a> 
+       <a class="logo-odphp" href="https://health.gov/" title="Office of Disease Prevention and Health Promotion"> <img src="/images/odphp-logo-black.png" class="odphp-logo" alt="Office of Disease Prevention and Health Promotion"></a> 
+       <a class="logo-healthfinder" href="https://healthfinder.gov" title="healthfinder.gov"> <img src="/images/footer-hf-logo.png" alt="healthfinder.gov logo"></a> 
+      </div> 
+      <div class="clear"></div> 
+     </div> 
+     <!-- /#footer-bottom --> 
+     <div class="clear"></div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="up_scrollable_indicator"></div> 
+  <div id="down_scrollable_indicator"></div> 
+  <script src="/js/jquery-1.8.3.min.js" type="text/javascript"></script> 
+  <script src="/js/jquery-ui-1.8.16.custom.min.js" type="text/javascript"></script> 
+  <script src="/js/jquery.cycle.all.js" type="text/javascript"></script> 
+  <script src="/js/jquery.colorbox-min.js" type="text/javascript"></script> 
+  <script src="/js/jquery.flexslider.modified.js" type="text/javascript"></script> 
+  <script src="/js/jquery.ba-hashchange.min.js" type="text/javascript"></script> 
+  <script src="/js/healthfinder.js" type="text/javascript"></script> 
+  <script src="/js/jquery.ddslick.min.js" type="text/javascript"></script> 
+  <script src="/js/myhealthfinder.js" type="text/javascript"></script> 
+  <script src="/js/global-nav.js" type="text/javascript"></script> 
+  <script src="/js/outlink.js" type="text/javascript"></script> 
+  <script src="/js/search-suggest.js" type="text/javascript"></script> 
+  <!--AddThis code--> 
+  <script type="text/javascript">
+        var addthis_config = {
+            ui_language: "en"
+      };
+    </script> 
+  <script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=xa-50c0b9a52a842762"></script> 
+  <!-- Document Download tracking --> 
+  <script src="/js/ga_download_tracker.js" type="text/javascript"></script> 
+  <!--CrazyEgg tracking code --> 
+  <script type="text/javascript">
+        setTimeout(function () {
+            var a = document.createElement("script");
+            var b = document.getElementsByTagName("script")[0];
+            a.src = document.location.protocol + "//dnn506yrbagrg.cloudfront.net/pages/scripts/0013/7844.js?" + Math.floor(new Date().getTime() / 3600000);
+            a.async = true; a.type = "text/javascript"; b.parentNode.insertBefore(a, b)
+        }, 1);
+    </script> 
+  <!--BEGIN QUALTRICS SITE INTERCEPT sitewide --> 
+  <script type="text/javascript">
+        (function () {
+            var g = function (e, h, f, g) {
+                this.get = function (a) { for (var a = a + "=", c = document.cookie.split(";"), b = 0, e = c.length; b < e; b++) { for (var d = c[b]; " " == d.charAt(0) ;) d = d.substring(1, d.length); if (0 == d.indexOf(a)) return d.substring(a.length, d.length) } return null };
+                this.set = function (a, c) { var b = "", b = new Date; b.setTime(b.getTime() + 6048E5); b = "; expires=" + b.toGMTString(); document.cookie = a + "=" + c + b + "; path=/; " };
+                this.check = function () { var a = this.get(f); if (a) a = a.split(":"); else if (100 != e) "v" == h && (e = Math.random() >= e / 100 ? 0 : 100), a = [h, e, 0], this.set(f, a.join(":")); else return !0; var c = a[1]; if (100 == c) return !0; switch (a[0]) { case "v": return !1; case "r": return c = a[2] % Math.floor(100 / c), a[2]++, this.set(f, a.join(":")), !c } return !0 };
+                this.xgo = function () { if (this.check()) { var a = document.createElement("script"); a.type = "text/javascript"; a.src = g + "&t=" + (new Date()).getTime(); document.body && document.body.appendChild(a) } };
+                this.go = function () { wait_for_session_delay(30, this.xgo, this); };
+                this.start = function () { var a = this; window.addEventListener ? window.addEventListener("load", function () { a.go() }, !1) : window.attachEvent && window.attachEvent("onload", function () { a.go() }) }
+            };
+            try { (new g(100, "r", "QSI_S_SI_eDVjXbuzcR5eE0B", "//znbqj3egyjwfzib9r-communicatehealth.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_eDVjXbuzcR5eE0B&Q_LOC=" + encodeURIComponent(window.location.href))).start() } catch (i) { }
+        })();
+    </script> 
+  <div id="SI_eDVjXbuzcR5eE0B"> 
+   <!--DO NOT REMOVE-CONTENTS PLACED HERE--> 
+  </div> 
+  <!--END SITE INTERCEPT--> 
+  <!--BEGIN QUALTRICS SITE INTERCEPT feedback link --> 
+  <script type="text/javascript">
+        (function () {
+            var g = function (e, h, f, g) {
+                this.get = function (a) { for (var a = a + "=", c = document.cookie.split(";"), b = 0, e = c.length; b < e; b++) { for (var d = c[b]; " " == d.charAt(0) ;) d = d.substring(1, d.length); if (0 == d.indexOf(a)) return d.substring(a.length, d.length) } return null };
+                this.set = function (a, c) { var b = "", b = new Date; b.setTime(b.getTime() + 6048E5); b = "; expires=" + b.toGMTString(); document.cookie = a + "=" + c + b + "; path=/; " };
+                this.check = function () { var a = this.get(f); if (a) a = a.split(":"); else if (100 != e) "v" == h && (e = Math.random() >= e / 100 ? 0 : 100), a = [h, e, 0], this.set(f, a.join(":")); else return !0; var c = a[1]; if (100 == c) return !0; switch (a[0]) { case "v": return !1; case "r": return c = a[2] % Math.floor(100 / c), a[2]++, this.set(f, a.join(":")), !c } return !0 };
+                this.go = function () { if (this.check()) { var a = document.createElement("script"); a.type = "text/javascript"; a.src = g + "&t=" + (new Date()).getTime(); document.body && document.body.appendChild(a) } };
+                this.start = function () { var a = this; window.addEventListener ? window.addEventListener("load", function () { a.go() }, !1) : window.attachEvent && window.attachEvent("onload", function () { a.go() }) }
+            };
+            try { (new g(100, "r", "QSI_S_SI_cXQyslZ7nyPxAbz", "//znbqj3egyjwfzib9r-communicatehealth.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_cXQyslZ7nyPxAbz&Q_LOC=" + encodeURIComponent(window.location.href))).start() } catch (i) { }
+        })();
+    </script> 
+  <div id="SI_cXQyslZ7nyPxAbz"> 
+   <!--DO NOT REMOVE-CONTENTS PLACED HERE--> 
+  </div> 
+  <!--END SITE INTERCEPT--> 
+  <!--BEGIN QUALTRICS SITE INTERCEPT - page level --> 
+  <script type="text/javascript">
+        (function () {
+            var g = function (e, h, f, g) {
+                this.get = function (a) { for (var a = a + "=", c = document.cookie.split(";"), b = 0, e = c.length; b < e; b++) { for (var d = c[b]; " " == d.charAt(0) ;) d = d.substring(1, d.length); if (0 == d.indexOf(a)) return d.substring(a.length, d.length) } return null };
+                this.set = function (a, c) { var b = "", b = new Date; b.setTime(b.getTime() + 6048E5); b = "; expires=" + b.toGMTString(); document.cookie = a + "=" + c + b + "; path=/; " };
+                this.check = function () { var a = this.get(f); if (a) a = a.split(":"); else if (100 != e) "v" == h && (e = Math.random() >= e / 100 ? 0 : 100), a = [h, e, 0], this.set(f, a.join(":")); else return !0; var c = a[1]; if (100 == c) return !0; switch (a[0]) { case "v": return !1; case "r": return c = a[2] % Math.floor(100 / c), a[2]++, this.set(f, a.join(":")), !c } return !0 };
+                this.go = function () { if (this.check()) { var a = document.createElement("script"); a.type = "text/javascript"; a.src = g + "&t=" + (new Date()).getTime(); document.body && document.body.appendChild(a) } };
+                this.start = function () { var a = this; window.addEventListener ? window.addEventListener("load", function () { a.go() }, !1) : window.attachEvent && window.attachEvent("onload", function () { a.go() }) }
+            };
+            try { (new g(100, "r", "QSI_S_SI_abZk2DnPlZAGHjL", "//znbqj3egyjwfzib9r-communicatehealth.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_abZk2DnPlZAGHjL&Q_LOC=" + encodeURIComponent(window.location.href))).start() } catch (i) { }
+        })();
+    </script> 
+  <div id="SI_abZk2DnPlZAGHjL"> 
+   <!--DO NOT REMOVE-CONTENTS PLACED HERE--> 
+  </div> 
+  <!--END SITE INTERCEPT--> 
+  <script src="https://health.gov/ui/js/lib/survey-wrapper.js"></script> 
+  <script src="/js/quickguide.js" type="text/javascript"></script>   
+ </body>
+</html>

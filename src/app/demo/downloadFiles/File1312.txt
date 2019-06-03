@@ -1,0 +1,165 @@
+<!doctype html>
+<html class="no-js" lang="en">
+ <head> 
+  <!-- REQUIRED META INFORMATION --> 
+  <meta charset="UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <meta name="msapplication-tap-highlight" content="no"> 
+  <!-- PAGE TITLE --> 
+  <title>Benefits Planner: Calculators | Social Security Administration</title> 
+  <!-- PAGE META INFORMATION --> 
+  <meta name="DCTERMS:contentOffice" content="OCOMM:OSDC"> 
+  <meta name="DCTERMS:contentOwner" content="vronda"> 
+  <meta name="DCTERMS:coderOffice" content="OCOMM:OSDC"> 
+  <meta name="DCTERMS:coder" content="csisco"> 
+  <meta name="DCTERMS:dateCertified" content="2019-04-12"> 
+  <meta name="description" content="Provides a listing of the calculators you can use to figure your retirement, disability and survivors benefits."> 
+  <!-- STYLES --> 
+  <link rel="stylesheet" href="/framework/css/ssa.firefly.css"> 
+  <!-- SCRIPTS --> 
+  <script src="/framework/js/ssa.firefly.head.js"></script> 
+ </head> 
+ <body data-spanish-file="/espanol/plan/cal-benef.htm"> 
+  <!-- BANNER --> 
+  <aside class="accessibility" id="accessibility">
+   <a href="#content" id="skip-navigation">Skip to content</a>
+  </aside> 
+  <header class="bg-logo white" id="banner" role="banner"> 
+   <div class="fx fx-jc-sb px2 py0 wrapper"> 
+    <h1 class="fs2 fw4 ma0 l-fs3"><a class="fx fx-ai-c hover-yellow py3 white m-py2" href="/"><img alt="" class="svg3 m-svg5" src="/framework/images/logo.svg"> <span class="pl1 m-pl2">Social Security</span></a></h1> 
+    <nav class="fs1 fx print-dn">
+     <a class="fx fx-ai-c hover-yellow px2 white" href="https://search.ssa.gov/search?affiliate=ssa" id="ssa-search" title="SEARCH">
+      <svg class="svg1" focusable="false" viewbox="0 0 24 24">
+       <path d="M14.182.0q-1.994.0-3.814.78t-3.132 2.092-2.092 3.132-.78 3.814q0 1.713.558 3.281t1.59 2.847l-6.196 6.187q-.315.315-.315.776.0.469.311.78t.78.311q.46.0.776-.315l6.187-6.196q1.278 1.031 2.847 1.59t3.281.558q1.994.0 3.814-.78t3.132-2.092 2.092-3.132.78-3.814-.78-3.814-2.092-3.132-3.132-2.092-3.814-.78zm0 2.182q1.551.0 2.966.605t2.438 1.628 1.628 2.438.605 2.966-.605 2.966-1.628 2.438-2.438 1.628-2.966.605-2.966-.605-2.438-1.628-1.628-2.438-.605-2.966.605-2.966 1.628-2.438 2.438-1.628 2.966-.605z" vector-effect="non-scaling-stroke"></path>
+      </svg><span class="dn m-dib m-pl1">SEARCH</span></a> 
+     <a class="fx fx-ai-c hover-yellow px2 white" href="/site/menu/en/" id="ssa-menu" title="MENU">
+      <svg class="svg1" focusable="false" viewbox="0 0 24 24">
+       <path d="M3 5h18q.414.0.707.293T22 6t-.293.707T21 7H3q-.414.0-.707-.293T2 6t.293-.707T3 5zm0 12h18q.414.0.707.293T22 18t-.293.707T21 19H3q-.414.0-.707-.293T2 18t.293-.707T3 17zm0-6h18q.414.0.707.293T22 12t-.293.707T21 13H3q-.414.0-.707-.293T2 12t.293-.707T3 11z" vector-effect="non-scaling-stroke"></path>
+      </svg><span class="dn m-dib m-pl1">MENU</span></a> 
+     <a class="fx fx-ai-c hover-yellow px2 white" href="/site/languages/en/" id="ssa-languages" title="LANGUAGES">
+      <svg class="svg1" focusable="false" viewbox="0 0 14 16">
+       <path fill-rule="evenodd" d="M7 1C3.14 1 0 4.14.0 8s3.14 7 7 7c.48.0.94-.05 1.38-.14-.17-.08-.2-.73-.02-1.09.19-.41.81-1.45.2-1.8-.61-.35-.44-.5-.81-.91-.37-.41-.22-.47-.25-.58-.08-.34.36-.89.39-.94.02-.06.02-.27.0-.33.0-.08-.27-.22-.34-.23-.06.0-.11.11-.2.13-.09.02-.5-.25-.59-.33-.09-.08-.14-.23-.27-.34-.13-.13-.14-.03-.33-.11s-.8-.31-1.28-.48c-.48-.19-.52-.47-.52-.66-.02-.2-.3-.47-.42-.67-.14-.2-.16-.47-.2-.41-.04.06.25.78.2.81-.05.02-.16-.2-.3-.38-.14-.19.14-.09-.3-.95s.14-1.3.17-1.75c.03-.45.38.17.19-.13-.19-.3.0-.89-.14-1.11-.13-.22-.88.25-.88.25.02-.22.69-.58 1.16-.92.47-.34.78-.06 1.16.05.39.13.41.09.28-.05-.13-.13.06-.17.36-.13.28.05.38.41.83.36.47-.03.05.09.11.22s-.06.11-.38.3c-.3.2.02.22.55.61s.38-.25.31-.55c-.07-.3.39-.06.39-.06.33.22.27.02.5.08.23.06.91.64.91.64-.83.44-.31.48-.17.59.14.11-.28.3-.28.3-.17-.17-.19.02-.3.08-.11.06-.02.22-.02.22-.56.09-.44.69-.42.83.0.14-.38.36-.47.58-.09.2.25.64.06.66-.19.03-.34-.66-1.31-.41-.3.08-.94.41-.59 1.08.36.69.92-.19 1.11-.09.19.1-.06.53-.02.55.04.02.53.02.56.61.03.59.77.53.92.55.17.0.7-.44.77-.45.06-.03.38-.28 1.03.09.66.36.98.31 1.2.47.22.16.08.47.28.58.2.11 1.06-.03 1.28.31.22.34-.88 2.09-1.22 2.28-.34.19-.48.64-.84.92s-.81.64-1.27.91c-.41.23-.47.66-.66.8 3.14-.7 5.48-3.5 5.48-6.84.0-3.86-3.14-7-7-7L7 1zm1.64 6.56c-.09.03-.28.22-.78-.08-.48-.3-.81-.23-.86-.28.0.0-.05-.11.17-.14.44-.05.98.41 1.11.41.13.0.19-.13.41-.05.22.08.05.13-.05.14zM6.34 1.7c-.05-.03.03-.08.09-.14.03-.03.02-.11.05-.14.11-.11.61-.25.52.03-.11.27-.58.3-.66.25zm1.23.89c-.19-.02-.58-.05-.52-.14.3-.28-.09-.38-.34-.38-.25-.02-.34-.16-.22-.19.12-.03.61.02.7.08.08.06.52.25.55.38.02.13.0.25-.17.25zm1.47-.05c-.14.09-.83-.41-.95-.52-.56-.48-.89-.31-1-.41-.11-.1-.08-.19.11-.34.19-.15.69.06 1 .09.3.03.66.27.66.55.02.25.33.5.19.63h-.01z" vector-effect="non-scaling-stroke"></path>
+      </svg><span class="dn m-dib m-pl1">LANGUAGES</span></a> 
+     <a class="fx fx-ai-c hover-yellow px2 white" href="/site/signin/en/" id="ssa-signin" title="SIGN IN/UP">
+      <svg class="svg1" focusable="false" viewbox="0 0 24 24">
+       <path d="M12 17.016q-.797.0-1.406-.61t-.61-1.405.61-1.405 1.406-.61 1.406.61.61 1.406-.61 1.407-1.406.61zm6 3V9.986H6v10.03h12zm-6-17.11q-1.266.0-2.18.914T8.906 6H9v2.016h6.094V6q0-1.266-.914-2.18T12 2.906zm6 5.11q.797.0 1.406.586t.61 1.383v10.03q0 .798-.61 1.384T18 21.984H6q-.797.0-1.406-.586t-.61-1.384V9.986q0-.798.61-1.384T6 8.016h.984V6q0-2.063 1.477-3.54T12 .985t3.54 1.477T17.015 6v2.016H18z" vector-effect="non-scaling-stroke"></path>
+      </svg><span class="dn m-dib m-pl1">SIGN IN/UP</span></a>
+    </nav> 
+   </div> 
+  </header> 
+  <!-- MAIN CONTENT --> 
+  <main class="content" id="content" role="main"> 
+   <!-- TITLE BAR --> 
+   <section class="bg-ivory-200"> 
+    <!-- WRAPPER --> 
+    <div class="py2 wrapper"> 
+     <h2 class="fw4 ma0">Benefits Planner: Calculators</h2> 
+    </div> 
+   </section> 
+   <!-- WRAPPER --> 
+   <section class="wrapper py0 m-pb3"> 
+    <!-- GRID --> 
+    <div class="grid mx0"> 
+     <!-- CELL --> 
+     <div class="cell cell-last print-dn w-100 m-cell-first m-pb4"> 
+      <!-- MENU (BASE) --> 
+      <nav class="bg-ocean-blue-500 break-wrapper white" role="navigation"> 
+       <div class="wrapper pa0 m-px3"> 
+        <ul class="list-nb ma0 pa0 m-fx"> 
+         <li> <a class="bb cc db hover-teal pa3 m-bw0" href="/planners/" title="Benefits Planner Home Page">Home</a> </li> 
+         <li> <a class="bb cc db hover-teal pa3 m-bw0" href="/planners/retire/">Retirement</a> </li> 
+         <li> <a class="bb cc db hover-teal pa3 m-bw0" href="/planners/disability/">Disability</a> </li> 
+         <li> <a class="bb cc db hover-teal pa3  m-bw0" href="/planners/survivors/">Survivors</a> </li> 
+         <li> <a class="bb cc db hover-teal pa3 teal m-bw1" href="/planners/calculators/">Calculators</a> </li> 
+        </ul> 
+       </div> 
+      </nav> 
+     </div> 
+     <!-- CELL --> 
+     <article class="cell py3 print-w-100 w-100 m-pt0 m-w-100"> 
+      <section> 
+       <p>The best way to start planning for your future is by <a href="/myaccount/">creating a <span class="my">my </span> <span class="ssa">Social Security</span> account</a> online. With <a href="/myaccount/"> <span class="my">my </span> <span class="ssa">Social Security</span></a>, you can verify your earnings, get your <em>Social Security Statement</em>, and much more – all from the comfort of your home or office.</p> 
+       <p>We have a variety of calculators to help you plan for the future and for what you may need now.</p> 
+       <div class="m-fx m-fx-jc-sb m-fx-w-w"> 
+        <a class="bg-teal-500 bb bc-white db js-ga-event hover-bg-blue pa2 white m-ba m-w-33" data-event-label="Retirement Age Calculator" href="/planners/retire/ageincrease.html"> <p> <strong>Retirement Age Calculator</strong> </p> <p>Find your full retirement age and learn how your monthly benefits may be reduced if you retire before your full retirement age.</p> </a> 
+        <a class="bg-teal-500 bb bc-white db js-ga-event hover-bg-blue pa2 white m-ba m-w-34" data-event-label="Retirement Estimator" href="/benefits/retirement/estimator.html"> <p> <strong>Retirement Estimator</strong> </p> <p>Estimate monthly benefits based on your Social Security earnings record. </p> </a> 
+        <a class="bg-teal-500 bb bc-white db js-ga-event hover-bg-blue pa2 white m-ba m-w-33" data-event-label="WEP Calculator" href="/planners/retire/anyPiaWepjs04.html"> <p> <strong>Windfall Elimination Provision (WEP) Calculator</strong> </p> <p>Estimate if you are eligible for a pension based on work that was not covered by Social Security.</p> </a> 
+        <a class="bg-teal-500 bb bc-white db js-ga-event hover-bg-blue pa2 white m-ba m-w-50" data-event-label="GPO Calculator" href="/planners/retire/gpo-calc.html"> <p> <strong>GPO Calculator</strong> </p> <p>Estimate of spouse benefits for yourself if you receive a pension from a government job in which you did not pay Social Security taxes. Your benefit may be offset by the Government Pension Offset (GPO).</p> </a> 
+        <a class="bg-teal-500 bb bc-white db js-ga-event hover-bg-blue pa2 white m-ba m-w-50" data-event-label="Detailed Calculator" href="/OACT/anypia/anypia.html"> <p> <strong>Detailed Calculator</strong> </p> <p>Get the most precise estimate of your retirement, disability, and survivors benefits. The estimate includes WEP reduction. Must be downloaded and installed on your computer. </p> </a> 
+        <a class="bg-teal-500 bb bc-white db js-ga-event hover-bg-blue pa2 white m-ba m-w-50" data-event-label="Early or Late Retirement Calculator" href="/OACT/quickcalc/early_late.html"> <p> <strong>Early or Late Retirement Calculator</strong> </p> <p>Compute the effect on your benefit amount if you file for early or delayed retirement benefits.</p> </a> 
+        <a class="bg-teal-500 bb bc-white db js-ga-event hover-bg-blue pa2 white m-ba m-w-50" data-event-label="Earnings Test Calculator" href="/OACT/COLA/RTeffect.html"> <p> <strong>Earnings Test Calculator</strong> </p> <p>Learn how your earnings may affect your benefit payments if you are currently working and are eligible for retirement or survivors benefits this year. </p> </a> 
+        <a class="bg-teal-500 bb bc-white db js-ga-event hover-bg-blue pa2 white m-ba m-w-50" data-event-label="Benefits for Spouses Calculator" href="/OACT/quickcalc/spouse.html"> <p> <strong>Benefits for Spouses Calculator</strong> </p> <p>Compute the effect on your wife's or husband's benefits if you file for early retirement.</p> </a> 
+        <a class="bg-teal-500 bb bc-white db js-ga-event hover-bg-blue pa2 white m-ba m-w-50" data-event-label="Life Expectancy Calculator" href="/OACT/population/longevity.html"> <p> <strong>Life Expectancy Calculator</strong> </p> <p>Estimate of how long you (or your spouse) may live.</p> </a> 
+        <a class="bg-teal-500 bb bc-white db js-ga-event hover-bg-blue pa2 white m-ba m-w-50" data-event-label="Online  Calculator" href="/planners/retire/AnypiaApplet.html"> <p> <strong>Online Calculator</strong> </p> <p>Estimate your retirement, disability, and survivors benefits.</p> </a> 
+        <a class="bg-teal-500 bb bc-white db js-ga-event hover-bg-blue pa2 white m-ba m-w-50" data-event-label="Quick Calculator" href="/OACT/quickcalc/"> <p> <strong>Quick Calculator</strong> </p> <p>Estimate of your benefits in today's dollars or future dollars when you input your date of birth and this year's earnings. The estimate does not include WEP reduction.</p> </a> 
+       </div> 
+      </section> 
+     </article> 
+    </div> 
+   </section> 
+  </main> 
+  <!-- FOOTER --> 
+  <footer class="fs1 pa3 print-dn l-ta-c" id="footer" role="contentinfo">
+   <div class="grid">
+    <div class="cell pt3 w-100 m-w-33 l-pt0 l-w-100">
+     <p class="fw5 mb2 l-dn">Important Information:</p>
+     <ul class="list-nb ma0 pa0">
+      <li class="l-dib"><a class="db l-pr2" href="/agency/">About Us</a></li>
+      <li class="l-dib"><a class="db l-pr2" href="/accessibility/">Accessibility</a></li>
+      <li class="l-dib"><a class="db l-pr2" href="/foia/">FOIA</a></li>
+      <li class="l-dib"><a class="db l-pr2" href="/agency/glossary/">Glossary</a></li>
+      <li class="l-dib"><a class="db l-pr2" href="/open/">Open Government</a></li>
+      <li class="l-dib l-pr2"><a class="db" href="/privacy/">Privacy</a></li>
+      <li class="l-dib"><a class="db" href="https://oig.ssa.gov/">Report Fraud, Waste or Abuse to our Office of the Inspector General</a></li>
+     </ul>
+    </div>
+    <div class="cell pt3 w-100 m-w-33 l-w-100">
+     <p class="fw5 mb2 l-dn">Other Government Websites:</p>
+     <ul class="list-nb ma0 pa0">
+      <li class="l-dib"><a class="db l-pr2" href="//www.benefits.gov">Benefits.gov</a></li>
+      <li class="l-dib"><a class="db l-pr2" href="//www.disability.gov/">Disability.gov</a></li>
+      <li class="l-dib"><a class="db l-pr2" href="//www.mymoney.gov">MyMoney.gov</a></li>
+      <li class="l-dib"><a class="db l-pr2" href="//www.regulations.gov">Regulations.gov</a></li>
+      <li class="l-dib"><a class="db l-pr2" href="//www.usa.gov">USA.gov</a></li>
+      <li class="l-dib"><a class="db" href="https://www.usa.gov/federal-agencies">Other Government Sites</a></li>
+     </ul>
+    </div>
+    <div class="cell pt3 w-100 m-w-33 l-w-100">
+     <p class="fw5 mb2 l-dn">Follow:</p>
+     <ul class="list-nb ma0 pa0">
+      <li class="dib"><a class="bg-twitter br-100 bs1 fx fx-ai-c fx-jc-c hover-bg-blue pa2 white" href="//twitter.com/socialsecurity/" title="Twitter">
+        <svg class="svg1" focusable="false" viewbox="0 0 24 24">
+         <path d="M23.44 4.83c-.8.37-1.5.38-2.22.02.93-.56.98-.96 1.32-2.02-.88.52-1.86.9-2.9 1.1-.82-.88-2-1.43-3.3-1.43-2.5.0-4.55 2.04-4.55 4.54.0.36.03.7.1 1.04-3.77-.2-7.12-2-9.36-4.75-.4.67-.6 1.45-.6 2.3.0 1.56.8 2.95 2 3.77-.74-.03-1.44-.23-2.05-.57v.06c0 2.2 1.56 4.03 3.64 4.44-.67.2-1.37.2-2.06.08.58 1.8 2.26 3.12 4.25 3.16C5.78 18.1 3.37 18.74 1 18.46c2 1.3 4.4 2.04 6.97 2.04 8.35.0 12.92-6.92 12.92-12.93.0-.2.0-.4-.02-.6.9-.63 1.96-1.22 2.56-2.14z" vector-effect="non-scaling-stroke"></path>
+        </svg></a></li>
+      <li class="dib pl1"><a class="bg-facebook br-100 bs1 fx fx-ai-c fx-jc-c hover-bg-blue pa2 white" href="//facebook.com/socialsecurity/" title="Facebook">
+        <svg class="svg1" focusable="false" viewbox="0 0 24 24">
+         <path d="M18.77 7.46H14.5v-1.9c0-.9.6-1.1 1-1.1h3V.5h-4.33C10.24.5 9.5 3.44 9.5 5.32v2.15h-3v4h3v12h5v-12h3.85l.42-4z" vector-effect="non-scaling-stroke"></path>
+        </svg></a></li>
+      <li class="dib pl1"><a class="bg-logo br-100 bs1 fx fx-ai-c fx-jc-c hover-bg-blue pa2 white" href="//instagram.com/socialsecurity/" title="Instagram">
+        <svg class="svg1" focusable="false" viewbox="0 0 90 90">
+         <path d="M44.9 8.091c11.974 0 13.371 0 18.16.3 4.39.199 6.785.899 8.381 1.498 2.096.799 3.592 1.798 5.189 3.396 1.596 1.598 2.494 3.097 3.392 5.194.599 1.599 1.297 3.996 1.497 8.391.199 4.695.299 6.193.299 18.18s0 13.385-.299 18.18c-.2 4.395-.898 6.792-1.497 8.39-.798 2.098-1.796 3.596-3.392 5.195-1.597 1.598-3.093 2.497-5.189 3.396-1.596.599-3.991 1.298-8.381 1.498-4.69.2-6.186.3-18.16.3-11.973 0-13.37 0-18.159-.3-4.391-.2-6.785-.899-8.382-1.498-2.095-.799-3.592-1.798-5.188-3.396-1.597-1.599-2.495-3.097-3.393-5.195-.598-1.598-1.297-3.995-1.496-8.39-.2-4.695-.3-6.193-.3-18.18s0-13.385.3-18.18c.199-4.395.898-6.792 1.496-8.391.798-2.097 1.796-3.596 3.393-5.194 1.596-1.598 3.093-2.497 5.188-3.396 1.597-.599 3.991-1.299 8.382-1.498 4.789-.2 6.186-.3 18.159-.3zM44.9 0C32.727 0 31.131.1 26.341.3c-4.789.199-8.082.999-10.875 2.097-2.994 1.099-5.488 2.697-7.983 5.195-2.494 2.497-3.991 4.994-5.188 7.991C1.197 18.479.399 21.676.2 26.471.1 31.165 0 32.764 0 44.95c0 12.187.1 13.785.299 18.579.2 4.795.998 8.091 2.096 10.888 1.097 2.997 2.694 5.494 5.188 7.991 2.495 2.498 4.989 3.996 7.982 5.195 2.894 1.098 6.087 1.898 10.876 2.097 4.79.2 6.286.3 18.559.3 12.273 0 13.769-.1 18.559-.3 4.789-.199 8.082-.999 10.876-2.097 2.993-1.099 5.487-2.697 7.982-5.195 2.494-2.497 3.991-4.994 5.188-7.991 1.098-2.896 1.896-6.093 2.096-10.888.199-4.794.299-6.293.299-18.579 0-12.286-.1-13.785-.299-18.579-.2-4.795-.998-8.091-2.096-10.888-1.097-2.997-2.694-5.494-5.188-7.991-2.495-2.498-4.989-3.996-7.982-5.195C71.541 1.199 68.348.4 63.559.2 58.67.1 57.073 0 44.9 0z"></path>
+         <path d="M44.9 21.876c-12.771 0-23.049 10.288-23.049 23.074 0 12.786 10.278 23.074 23.049 23.074 12.772 0 23.049-10.288 23.049-23.074 0-12.786-10.277-23.074-23.049-23.074zm0 38.057c-8.281 0-14.967-6.692-14.967-14.983S36.619 29.967 44.9 29.967c8.282 0 14.967 6.692 14.967 14.983S53.182 59.933 44.9 59.933z"></path>
+         <ellipse vector-effect="non-scaling-stroke" cx="68.847" cy="20.977" rx="5.388" ry="5.394"></ellipse>
+        </svg></a></li>
+      <li class="dib pl1"><a class="bg-youtube br-100 bs1 fx fx-ai-c fx-jc-c hover-bg-blue pa2 white" href="//youtube.com/socialsecurityonline/" title="YouTube">
+        <svg class="svg1" focusable="false" viewbox="0 0 38 38">
+         <path d="M26.2 19l-12.6 7.4V11.6L26.2 19zM38 25.8V12.1s.2-6.7-6.4-6.7H6.4S0 5.5.0 12.1v13.8s-.2 6.7 6.4 6.7h25.2s6.4-.1 6.4-6.8" vector-effect="non-scaling-stroke"></path>
+        </svg></a></li>
+      <li class="dib pl1"><a class="bg-blog br-100 bs1 fx fx-ai-c fx-jc-c hover-bg-blue pa2 white" href="//blog.ssa.gov/" title="Blog">
+        <svg class="svg1" focusable="false" viewbox="14 12 102 102">
+         <path d="M49.972 47.715c8.346.0 16.19 3.263 22.085 9.187 5.904 5.932 9.156 13.829 9.156 22.236H94.07c0-24.416-19.783-44.281-44.099-44.281v12.858zm.019-22.794c29.74.0 53.937 24.328 53.937 54.23h12.858c0-36.993-29.965-67.089-66.795-67.089v12.859zm20.753 60.594c0 8.048-2.738 14.939-8.212 20.677-5.476 5.738-12.07 8.607-19.787 8.607-7.783.0-14.412-2.852-19.886-8.558-5.475-5.704-8.211-12.614-8.211-20.727V44.259c0-2.77.829-4.913 2.487-6.431 1.659-1.517 3.616-2.275 5.873-2.275 2.255.0 4.212.76 5.871 2.28s2.489 3.667 2.489 6.44v41.322c0 3.37 1.116 6.227 3.349 8.572 2.232 2.345 4.925 3.517 8.079 3.517 3.085.0 5.761-1.175 8.027-3.527 2.266-2.352 3.399-5.216 3.399-8.596.0-3.377-1.039-5.994-3.116-7.85-2.078-1.854-4.897-2.782-8.459-2.782-2.572.0-4.618-.891-6.134-2.672-1.385-1.516-2.078-3.429-2.078-5.737.0-2.242.725-4.205 2.177-5.887 1.45-1.682 3.463-2.522 6.035-2.522 8.177.0 14.905 2.557 20.183 7.667 5.275 5.112 7.914 11.691 7.914 19.737z" vector-effect="non-scaling-stroke"></path>
+        </svg></a></li>
+      <li class="dib pl1"><a class="bg-black br-100 bs1 fx fx-ai-c fx-jc-c hover-bg-blue pa2 white" href="/socialmedia/" title="More Social Media">
+        <svg class="svg1" focusable="false" viewbox="0 0 32 32">
+         <path d="M16 0c.442.0.818.156 1.131.469.313.312.469.69.469 1.131v12.8h12.8c.441.0.819.156 1.131.469.313.312.469.69.469 1.131.0.442-.156.818-.469 1.131a1.54 1.54.0 0 1-1.131.469H17.6v12.8c0 .441-.156.819-.469 1.131A1.54 1.54.0 0 1 16 32a1.54 1.54.0 0 1-1.131-.469A1.54 1.54.0 0 1 14.4 30.4V17.6H1.6a1.54 1.54.0 0 1-1.131-.469A1.54 1.54.0 0 1 0 16c0-.441.156-.819.469-1.131s.69-.469 1.131-.469h12.8V1.6c0-.441.156-.819.469-1.131S15.559.0 16 0z" vector-effect="non-scaling-stroke"></path>
+        </svg></a></li>
+     </ul>
+    </div>
+   </div>
+   <p class="mt3 m-ta-c">This website is produced and published at U.S. taxpayer expense.</p>
+  </footer> 
+  <!-- SCRIPTS --> 
+  <script src="/framework/js/ssa.firefly.body.js"></script>  
+ </body>
+</html>

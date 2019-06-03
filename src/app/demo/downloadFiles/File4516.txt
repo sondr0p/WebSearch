@@ -1,0 +1,107 @@
+<html lang="en">
+ <head runat="server"> 
+  <meta charset="utf-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge"> 
+  <meta name="description" content=""> 
+  <meta name="author" content=""> 
+  <link rel="stylesheet" type="text/css" href="/its/invoice_payment/Styles/bootstrap.css" runat="server"> 
+  <link rel="stylesheet" type="text/css" href="/its/invoice_payment/Styles/jquery-ui.css" runat="server"> 
+  <link rel="stylesheet" type="text/css" href="/its/invoice_payment/Styles/bootstrap-responsive.css" runat="server"> 
+  <link rel="stylesheet" type="text/css" href="/its/invoice_payment/Styles/styles.css" runat="server"> 
+  <script type="text/javascript" src="/its/invoice_payment/Scripts/jquery-1.9.1.js" runat="server"></script> 
+  <script type="text/javascript" src="/its/invoice_payment/Scripts/jquery-ui.js" runat="server"></script> 
+  <script type="text/javascript" src="/its/invoice_payment/Scripts/InvoicePayment.js" runat="server"></script> 
+  <!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="/its/invoice_payment/Styles/ie7.css" runat="server" />
+<![endif]--> 
+  <!--[if IE 8]>
+<link rel="stylesheet" type="text/css" href="/its/invoice_payment/Styles/ie8.css" runat="server" />
+<![endif]--> 
+  <!--[if IE]>
+<link rel="stylesheet" type="text/css" href="/its/invoice_payment/Styles/ie.css" runat="server" />
+<![endif]--> 
+  <!--[if lt IE 9]>
+<script src="https://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+<![endif]--> 
+  <link href="https://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css"> 
+  <link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow:regular,bold" rel="stylesheet" type="text/css"> 
+  <link href="https://fonts.googleapis.com/css?family=PT+Sans+Caption:regular,bold" rel="stylesheet" type="text/css"> 
+  <title>ITS Invoice Payment System</title> 
+ </head> 
+ <body> 
+  <div id="page" class="container"> 
+   <div id="globals"> 
+    <div class="globalText">
+     <a href="/its/invoice_payment/Home/Login">Login</a> &nbsp; &nbsp; 
+    </div>
+    <div class="msGovGlobal">
+     <a href="http://www.ms.gov" target="_blank"><img src="/its/invoice_payment/Images/msGovGlobal.png" width="65" height="26" alt="ms.gov" runat="server"></a>
+    </div>
+   </div> 
+   <header id="banner">
+    <img src="/its/invoice_payment/Images/its_logo.png" runat="server">
+   </header> 
+   <div class="row-fluid"> 
+    <div id="main" class="span9"> 
+     <div class="ShowNav"> 
+      <a href="#nav"><img src="/its/invoice_payment/Images/viewMenu.png" width="165" height="44" alt="View Menu" runat="server"></a> 
+     </div> 
+     <h2>Welcome</h2> 
+     <div id="PageProcessMessage" style="display: none;"> 
+      <p>&nbsp;</p> 
+      <div class="form"> 
+       <p><img src="/its/invoice_payment/Images/ajax-circle-loader.gif" alt="Processing request" runat="server"> &nbsp; <strong>Processing request</strong></p> 
+       <p>One moment please..</p> 
+      </div> 
+      <p>&nbsp;</p> 
+      <p>&nbsp;</p> 
+      <p>&nbsp;</p> 
+      <p>&nbsp;</p> 
+     </div> 
+     <div id="PageContentBody"> 
+      <!-- main content goes here --> 
+      <p>Please provide an invoice number below then click Next.</p> 
+      <p><i>*Denotes a required field.</i></p> 
+      <div class="form"> 
+       <form action="/its/invoice_payment/" method="post"> 
+        <div class="row-fluid"> 
+         <div class="field"> 
+          <label for="InvoiceNumber"><strong>*Invoice Number:</strong> <span class="field-validation-valid" data-valmsg-for="Number" data-valmsg-replace="true"></span> <span class="field-validation-valid" data-valmsg-for="Message" data-valmsg-replace="true"></span></label> 
+          <input data-val="true" data-val-length="Length must be 20 characters or less" data-val-length-max="20" data-val-regex="Invalid" data-val-regex-pattern="[a-zA-Z0-9]{1,20}" data-val-required="Required" id="Number" maxlength="11" name="Number" size="20" type="text" value=""> 
+         </div> 
+        </div> 
+        <hr> 
+        <input type="submit" class="button01 button" value="Next >>"> 
+       </form>
+      </div> 
+     </div> 
+    </div> 
+    <div id="side" class="span3">
+     <a name="nav"></a> 
+     <div class="ShowBackTop"> 
+      <a href="#top"><img src="/its/invoice_payment/Images/backTop.png" alt="Back to Top" runat="server"></a> 
+     </div> 
+     <h2>Navigate</h2> 
+     <ul> 
+      <li><a href="/its/invoice_payment/">Home</a></li> 
+      <li><a href="/its/invoice_payment/Home/Login">Login</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+   <footer id="footer"> 
+    <div class="msGovLogo">
+     <a href="http://www.ms.gov" target="_blank"><img src="/its/invoice_payment/Images/msGov.png" alt="visit the ms.gov website" runat="server"></a>
+    </div> ITS Invoice Payment System, ms.gov, copyright ©2019
+    <br> 
+    <br> For questions about charges on this invoice please contact 601-432-8179 or 
+    <a href="mailto: finance@its.ms.gov">finance@its.ms.gov</a>.
+    <br> For assistance with paying this invoice please contact 601-432-8000.
+    <br> For technical support with the site, please contact: 
+    <a href="mailto:appsupport@msegov.com">appsupport@msegov.com </a>
+    <br> 
+    <a href="http://www.transparency.mississippi.gov" target="_blank">Transparency Mississippi</a> 
+   </footer> 
+  </div>   
+ </body>
+</html>

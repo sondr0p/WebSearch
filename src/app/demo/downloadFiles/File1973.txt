@@ -1,0 +1,2267 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+ <head> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <base href="https://www.fdlp.gov/classification-guidelines/introduction-to-the-classification-guidelines"> 
+  <meta http-equiv="content-type" content="text/html; charset=utf-8"> 
+  <meta name="keywords" content="FDLP, Federal Depository Library Program"> 
+  <meta name="author" content="Jamie Philpotts"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta name="description" content="Federal Depository Library Program"> 
+  <title>Introduction to the Classification Guidelines</title> 
+  <link href="/templates/fdlp/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"> 
+  <link href="/media/com_hikashop/css/hikashop.css?v=403" rel="stylesheet" type="text/css"> 
+  <link href="/media/com_hikashop/css/frontend_custom1.css?t=1555002915" rel="stylesheet" type="text/css"> 
+  <link href="/media/com_hikashop/css/font-awesome.css?v=5.2.0" rel="stylesheet" type="text/css"> 
+  <link href="/cache/widgetkit/widgetkit-ba38d738.css" rel="stylesheet" type="text/css"> 
+  <link href="/templates/fdlp/css/template.css" rel="stylesheet" type="text/css"> 
+  <link href="/modules/mod_miniteklivesearch/assets/css/style.css" rel="stylesheet" type="text/css"> 
+  <link href="https://netdna.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.css" rel="stylesheet" type="text/css"> 
+  <link href="https://www.fdlp.gov/modules/mod_aikon_scroll_top/assets/css/scrolltop.css" rel="stylesheet" type="text/css"> 
+  <link href="/templates/fdlp/css/djmegamenu.css?v=4.0.0.free" rel="stylesheet" type="text/css"> 
+  <link href="/modules/mod_djmegamenu/assets/css/animations.css?v=4.0.0.free" rel="stylesheet" type="text/css"> 
+  <link href="/modules/mod_djmegamenu/assets/css/offcanvas.css?v=4.0.0.free" rel="stylesheet" type="text/css"> 
+  <link href="/modules/mod_djmegamenu/mobilethemes/light/djmobilemenu.css?v=4.0.0.free" rel="stylesheet" type="text/css"> 
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"> 
+  <link href="/modules/mod_djmegamenu/themes/default/css/djmegamenu.css?v=4.0.0.free" rel="stylesheet" type="text/css"> 
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400%7C&amp;subset=latin" rel="stylesheet" type="text/css"> 
+  <link href="https://www.fdlp.gov/media/nextend/cache/css/n1559388600/1859907f8a871dc9430ba008630d78f5.css" rel="stylesheet" type="text/css"> 
+  <style type="text/css">
+		.dj-hideitem, li.item-2831 { display: none !important; }
+.nextend-accordion-menu-inner dl.level1 dd{
+   display: none;
+}
+
+.nextend-accordion-menu-inner dl.level1 dd.opened{
+   display: block;
+}
+
+#aSt-module-376.aikonScrollTop {
+	background-color: #205493;
+	border-radius: 3px;
+	width: 50px;
+	height: 50px;
+	color: #ffffff;
+	bottom: 35px;
+	transition: all 0.2s ease;
+	-webkit-transition: all 0.2s ease;
+	
+/* Echo the left / right attributes and apply side animation */
+	right: 35px; left: auto;	
+} 
+	
+#aSt-module-376.aikonScrollTop:hover {
+	background-color: #4773aa;
+	transition: all 0.2s ease;
+	-webkit-transition: all 0.2s ease;
+}
+		
+#aSt-module-376.aikonScrollTop:active {
+	background-color: #4773aa;
+	transition: all 0.2s ease;
+	-webkit-transition: all 0.2s ease;
+}
+	
+#aSt-module-376.aikonScrollTop i#the-ast-arrow {
+	color: #ffffff;
+	font-size: 35px;
+}
+	
+#aSt-module-376.aikonScrollTop:hover i#the-ast-arrow {
+	color: #ffffff;
+	transition: all 0.2s ease;
+	-webkit-transition: all 0.2s ease;
+}
+	
+	/* Hide module on mobile or tablet */
+	
+
+#aSt-module-376.aikonScrollTop.ast-visible {
+
+right: 35px; left: auto;	
+}
+	
+#aSt-module-376.aikonScrollTop.astBottomFade.ast-visible {
+	bottom: 35px;
+}
+
+	
+	
+#aSt-module-376.aikonScrollTop.astBottomFade {
+	bottom: -150px;
+}
+	
+#aSt-module-376.aikonScrollTop.astFadeIn {
+	opacity: 0; 
+}
+		
+#aSt-module-376.aikonScrollTop.astFadeIn.ast-visible {
+	opacity: 1;
+}
+	
+	
+
+		@media (min-width: 980px) {	
+			#dj-megamenu336mobile { display: none; }
+		}
+		@media (max-width: 979px) {
+			#dj-megamenu336, #dj-megamenu336sticky, #dj-megamenu336placeholder { display: none !important; }
+		}
+	
+		@media (min-width: 980px) {	
+			#dj-megamenu339mobile { display: none; }
+		}
+		@media (max-width: 979px) {
+			#dj-megamenu339, #dj-megamenu339sticky, #dj-megamenu339placeholder { display: none !important; }
+		}
+	
+	</style> 
+  <script type="application/json" class="joomla-script-options new">{"csrf.token":"baeb94f7804fdd92dcf27938db0ef9df","system.paths":{"root":"","base":""},"system.keepalive":{"interval":300000,"uri":"\/component\/ajax\/?format=json"}}</script> 
+  <script src="/media/jui/js/jquery.min.js?2651ce3e7e7a83dbda58587663e47859" type="text/javascript"></script> 
+  <script src="/media/jui/js/jquery-noconflict.js?2651ce3e7e7a83dbda58587663e47859" type="text/javascript"></script> 
+  <script src="/media/com_hikashop/js/hikashop.js?v=403" type="text/javascript"></script> 
+  <script src="/media/jui/js/jquery-migrate.min.js?2651ce3e7e7a83dbda58587663e47859" type="text/javascript"></script> 
+  <script src="/cache/widgetkit/widgetkit-836c59ce.js" type="text/javascript"></script> 
+  <script src="/plugins/system/maximenuckmobile/assets/maximenuckmobile.js" type="text/javascript"></script> 
+  <script src="/media/jui/js/bootstrap.min.js?2651ce3e7e7a83dbda58587663e47859" type="text/javascript"></script> 
+  <script src="/templates/fdlp/js/fdlp.js" type="text/javascript"></script> 
+  <script src="/templates/fdlp/js/bootstrap-tooltip.js" type="text/javascript"></script> 
+  <script src="/templates/fdlp/js/bootstrap-popover.js" type="text/javascript"></script> 
+  <script src="/templates/fdlp/js/bootstrap-clickover.js" type="text/javascript"></script> 
+  <script src="/templates/fdlp/js/bootstrap-affix.js" type="text/javascript"></script> 
+  <script src="/templates/fdlp/js/respond.min.js" type="text/javascript"></script> 
+  <script src="https://www.fdlp.gov/modules/mod_aikon_scroll_top/assets/js/scrolltop.js" type="text/javascript"></script> 
+  <script src="/modules/mod_djmegamenu/assets/js/jquery.djmegamenu.js?v=4.0.0.free" type="text/javascript" defer></script> 
+  <script src="/modules/mod_djmegamenu/assets/js/jquery.djmobilemenu.js?v=4.0.0.free" type="text/javascript" defer></script> 
+  <script src="/media/system/js/mootools-core.js?2651ce3e7e7a83dbda58587663e47859" type="text/javascript"></script> 
+  <script src="/media/system/js/core.js?2651ce3e7e7a83dbda58587663e47859" type="text/javascript"></script> 
+  <script src="/media/com_finder/js/autocompleter.js" type="text/javascript"></script> 
+  <!--[if lt IE 9]><script src="/media/system/js/polyfill.event.js?2651ce3e7e7a83dbda58587663e47859" type="text/javascript"></script><![endif]--> 
+  <script src="/media/system/js/keepalive.js?2651ce3e7e7a83dbda58587663e47859" type="text/javascript"></script> 
+  <script src="https://www.fdlp.gov/media/nextend/cache/js/n1559388600/7c0d18dc7e1644330c3b551c842d5704.js" type="text/javascript"></script> 
+  <script type="text/javascript">
+var CKTEXT_PLG_MAXIMENUCK_MENU = 'Menu';jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });Browser.Engine = new Object();
+Browser.Engine.presto = false;(function($) {
+			$(function(){  
+				
+				var ajax_request;
+				var types_model = {"mls_22_ja":"1","mls_22_jc":"0"};
+				var types_model_js = encodeURIComponent(JSON.stringify(types_model));
+				var moduleid = 434;
+				
+				// Instance selector function
+				jQuery("#instance-selector-mls_mod_434 .subinstance").on("click", function(event) {	
+					
+					jQuery("#mls-results-cont-mls_mod_434").removeClass("expanded");
+					jQuery("#mls-results-mls_mod_434").empty();
+					
+					if (jQuery(this).find("i").hasClass("fa-check-square-o")) {
+						var this_subinstance = jQuery(this).attr("id");
+							types_model[this_subinstance] = "0";
+							
+						jQuery(this).find("i").removeClass("fa-check-square-o");
+						jQuery(this).find("i").addClass("fa-square-o");
+						jQuery(this).addClass("not-selected");
+						
+					} else {
+						var this_subinstance = jQuery(this).attr("id");
+							types_model[this_subinstance] = "1";
+							
+						jQuery(this).find("i").addClass("fa-check-square-o");
+						jQuery(this).find("i").removeClass("fa-square-o");
+						jQuery(this).removeClass("not-selected");
+					}
+					// Encode types
+					types_model_js = encodeURIComponent(JSON.stringify(types_model));
+				});
+												
+				// Search input function
+				jQuery("#mod-mls-searchword-mls_mod_434").bind("input", function(e) { 
+					var this_val = jQuery("#mod-mls-searchword-mls_mod_434").val();
+					this_val = encodeURIComponent(this_val);
+				
+					// Close mls-results-cont if input is empty
+					if ((jQuery.trim(this_val)).length == 0) {
+						ajax_request.abort();
+						jQuery("#close-results-mls_mod_434").hide();
+						var container = jQuery("#mls-results-cont-mls_mod_434");
+						if (!container.is(e.target)
+							&& container.has(e.target).length === 0)
+						{
+							jQuery("#mls-results-cont-mls_mod_434").removeClass("expanded");
+							jQuery("#mls-loading-mls_mod_434 .mls-module-spinner").hide();
+						}
+					}
+			
+					if ((jQuery.trim(this_val)).length > 2) {
+						
+						// Check if there is a pending ajax request
+						if(typeof ajax_request !== "undefined")
+							ajax_request.abort();
+							
+						// Spinner
+						if (!jQuery("#mls-loading-mls_mod_434 .mls-module-spinner .spinner").length)
+							createSpinner("#mls-loading-mls_mod_434 .mls-module-spinner");
+						jQuery("#mls-loading-mls_mod_434 .mls-module-spinner").css("display", "inline-block");
+						
+						// Execute new ajax request
+						ajax_request = jQuery.ajax({
+							type: "POST",
+							async: true,
+							cache: false,
+							url: "https://www.fdlp.gov/index.php?option=com_miniteklivesearch&task=search.getContent&mlsmodule=8&lang=en&word=" + this_val + "&moduleid=" + moduleid + "&itemid=4169",
+							data: "types=" + types_model_js,
+							beforeSend: function() {
+									jQuery("#mls-results-cont-mls_mod_434").removeClass("expanded");
+									jQuery("#instance-selector-cont-mls_mod_434").removeClass("expanded");
+									jQuery("#close-results-mls_mod_434").hide();
+									chosen = "";
+									jQuery("#mls-results-mls_mod_434 li").removeClass("selected");
+							},
+							success: function(msg) {
+									jQuery("#mls-loading-mls_mod_434 .mls-module-spinner").hide();
+									jQuery("#mls-loading-mls_mod_434 .mls-module-spinner .spinner").remove();
+									jQuery("#close-results-mls_mod_434").show();
+									if(msg.length > 2) {
+										jQuery("#mls-results-cont-mls_mod_434").addClass("expanded");
+										jQuery("#mls-results-mls_mod_434").html(msg);
+									} else {
+										jQuery("#mls-results-cont-mls_mod_434").removeClass("expanded");
+										jQuery("#mls-results-mls_mod_434").empty();
+									}
+							}
+						})	
+						
+					}
+				
+				});	
+				// End input function
+				
+				// Search input mouseup
+				jQuery("#mod-mls-searchword-mls_mod_434").bind("mouseup", function() {
+					
+					jQuery("#mls-tooltip-cont-mls_mod_434").addClass("expanded");
+					jQuery("#instance-selector-cont-mls_mod_434").removeClass("expanded");
+					
+					var this_val = jQuery("#mod-mls-searchword-mls_mod_434").val();
+					this_val = encodeURIComponent(this_val);
+					
+					// Cancel ajax on submit form
+					jQuery(document).on("submit","#mls-form-mls_mod_434",function() {
+						ajax_request.abort();
+						jQuery("#mls-loading-mls_mod_434 .mls-module-spinner").hide();
+						jQuery("#mls-loading-mls_mod_434 .mls-module-spinner .spinner").remove();
+					});
+										
+					if ((jQuery.trim(this_val)).length > 2) {
+						if( !jQuery("#mls-results-mls_mod_434").is(":empty") ) {
+							jQuery("#mls-results-cont-mls_mod_434").addClass("expanded");	
+						} else {
+							
+							// Check if there is a pending ajax request
+							if(typeof ajax_request !== "undefined")
+							ajax_request.abort();
+							
+							// Spinner
+							if (!jQuery("#mls-loading-mls_mod_434 .mls-module-spinner .spinner").length)
+								createSpinner("#mls-loading-mls_mod_434 .mls-module-spinner");
+							jQuery("#mls-loading-mls_mod_434 .mls-module-spinner").css("display", "inline-block");
+						
+							// Execute new ajax request
+							ajax_request = jQuery.ajax({
+								type: "POST",
+								async: true,
+								cache: false,
+								url: "https://www.fdlp.gov/index.php?option=com_miniteklivesearch&task=search.getContent&mlsmodule=8&lang=en&word=" + this_val + "&moduleid=" + moduleid + "&itemid=4169",
+								data: "types=" + types_model_js,
+								beforeSend: function() {
+										jQuery("#mls-results-cont-mls_mod_434").removeClass("expanded");
+										jQuery("#instance-selector-cont-mls_mod_434").removeClass("expanded");
+										jQuery("#close-results-mls_mod_434").hide();
+										chosen = "";
+										jQuery("#mls-results-mls_mod_434 li").removeClass("selected");
+								},
+								success: function(msg) {
+										jQuery("#mls-loading-mls_mod_434 .mls-module-spinner").hide();
+										jQuery("#mls-loading-mls_mod_434 .mls-module-spinner .spinner").remove();
+										jQuery("#close-results-mls_mod_434").show();
+										if(msg.length > 2) {
+											jQuery("#mls-results-cont-mls_mod_434").addClass("expanded");
+											jQuery("#mls-results-mls_mod_434").html(msg);
+										} else {
+											jQuery("#mls-results-cont-mls_mod_434").removeClass("expanded");
+											jQuery("#mls-results-mls_mod_434").empty();
+										}
+								}
+							})
+								
+						}
+					}
+				});
+				
+				// Close mls-results-cont on click outside
+				jQuery(document).mouseup(function (e) {
+					var container = jQuery(".mls-results-cont");
+					if ( !container.is(e.target) && container.has(e.target).length === 0 
+						&&  !jQuery("#mod-mls-searchword-mls_mod_434").is(e.target) )
+					{
+						jQuery(".mls-results-cont").removeClass("expanded");
+						chosen = "";
+						jQuery("#mls-results-mls_mod_434 li").removeClass("selected");
+					}
+				});
+								
+				// Close button function
+				jQuery("#close-results-mls_mod_434").on("click", function(event) {	
+					jQuery("#mod-mls-searchword-mls_mod_434").val("");
+					jQuery(this).hide();
+					jQuery("#instance-selector-cont-mls_mod_434").removeClass("expanded");
+				});
+				
+				// Selector button function
+				jQuery("#selector-button-mls_mod_434").on("click", function(event) {	
+					jQuery("#instance-selector-cont-mls_mod_434").toggleClass("expanded");
+				});
+				
+				// Close instance-selector-cont on click outside
+				jQuery(document).mouseup(function (e) {
+					var container = jQuery("#instance-selector-cont-mls_mod_434");
+					if ( (!container.is(e.target) && container.has(e.target).length === 0)
+						&& (!jQuery("#mls-parent-mls_mod_434").is(e.target) && jQuery("#mls-parent-mls_mod_434").has(e.target).length === 0)					
+					   )
+					{
+						jQuery("#instance-selector-cont-mls_mod_434").removeClass("expanded");
+					}
+				});
+				
+				// Escape key
+				jQuery(document).keyup(function(e) {
+  					if (e.keyCode == 27) {
+						jQuery("#mls-results-cont-mls_mod_434").removeClass("expanded");
+						jQuery("#instance-selector-cont-mls_mod_434").removeClass("expanded");
+						chosen = "";
+						jQuery("#mls-results-mls_mod_434 li").removeClass("selected");
+					}
+				});
+				
+				// Enter key
+				jQuery("#mls-form-mls_mod_434").keypress(function(e) {
+					if(e.which == 13) {
+						if (jQuery("#mls-results-mls_mod_434 li.selected")[0]){
+							window.location.href = jQuery("#mls-results-mls_mod_434 li.selected a").attr("href");
+							e.preventDefault();
+    						return false;
+						} else {
+							return true;
+						}
+					}
+				});
+				
+				// Blur input
+				jQuery("#mod-mls-searchword-mls_mod_434").bind("blur", function() {
+					jQuery("#mls-tooltip-cont-mls_mod_434").removeClass("expanded");
+				});
+				
+				// Initialize spinner
+				var createSpinner = function(divIdentifier)
+				{ 
+					var spinner_options = {
+					  lines: 9,
+					  length: 3,
+					  width: 2,
+					  radius: 3,
+					  corners: 1,
+					  rotate: 0,
+					  direction: 1,
+					  color: "#058ec4",
+					  speed: 1,
+					  trail: 52,
+					  shadow: false,
+					  hwaccel: false,
+					  className: "spinner",
+					  zIndex: 2e9,
+					  top: "50%",
+					  left: "50%"
+					};
+					$(divIdentifier).html(new Spinner(spinner_options).spin().el);
+					
+					return;
+				}
+	
+			})
+		})(jQuery);
+		
+	(function(){
+		var cb = function() {
+			var add = function(css, id) {
+				if(document.getElementById(id)) return;
+				
+				var l = document.createElement('link'); l.rel = 'stylesheet'; l.id = id; l.href = css;
+				var h = document.getElementsByTagName('head')[0]; h.appendChild(l);
+			}
+			add('/media/djextensions/css/animate.min.css', 'animate_min_css');
+			add('/media/djextensions/css/animate.ext.css', 'animate_ext_css');
+		};
+		var raf = requestAnimationFrame || mozRequestAnimationFrame || webkitRequestAnimationFrame || msRequestAnimationFrame;
+		if (raf) raf(cb);
+		else window.addEventListener('load', cb);
+	})();
+	(function(){
+		var cb = function() {
+			var add = function(css, id) {
+				if(document.getElementById(id)) return;
+				
+				var l = document.createElement('link'); l.rel = 'stylesheet'; l.id = id; l.href = css;
+				var h = document.getElementsByTagName('head')[0]; h.appendChild(l);
+			}
+			add('/media/djextensions/css/animate.min.css', 'animate_min_css');
+			add('/media/djextensions/css/animate.ext.css', 'animate_ext_css');
+		};
+		var raf = requestAnimationFrame || mozRequestAnimationFrame || webkitRequestAnimationFrame || msRequestAnimationFrame;
+		if (raf) raf(cb);
+		else window.addEventListener('load', cb);
+	})();
+	</script> 
+  <link href="/component/obrss/news-and-events" rel="alternate" type="application/rss+xml" title="News &amp; Events (rss2.0)"> 
+  <link href="/component/obrss/news-events-test" rel="alternate" type="application/atom+xml" title="News &amp; Events (ATOM 0.3)"> 
+  <script src="/components/com_miniteklivesearch/assets/js/spin.min.js" type="text/javascript"></script> 
+  <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet" type="text/css"> 
+  <style type="text/css">
+      h1,h2,h3,h4,h5,h6,.site-title, div.header-search ul.nav.menu li a, div#topnav span.titreck, ul.featuredbuttons li a {
+        font-family: 'Open Sans', Helvetica, sans-serif;
+        font-weight: 300;
+      }
+    </style> 
+  <!--[if lt IE 9]>
+    <script src="/media/jui/js/html5.js"></script>
+  <![endif]--> 
+  <script type="text/javascript">
+    jQuery(document).ready(function() {
+        jQuery('[rel="clickover"]').clickover();
+
+
+    });
+</script> 
+  <link rel="stylesheet" href="https://www.fdlp.gov/templates/fdlp/css/updated.css" type="text/css"> 
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-58540512-1', 'www.fdlp.gov');
+  ga('send', 'pageview');
+
+</script> 
+  <!-- Universal Google Analytics Plugin by PB Web Development --> 
+ </head> 
+ <body class="site com_content view-article layout- task- itemid-3190  ">
+  <div class="dj-offcanvas-wrapper">
+   <div class="dj-offcanvas-pusher">
+    <div class="dj-offcanvas-pusher-in"> 
+     <!--Top Navigation --> 
+     <div class="visible-phone navigation"> 
+     </div> 
+     <div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
+      <div class="modal-header"> 
+       <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button> 
+       <h3 id="myModalLabel">Welcome</h3> 
+      </div> 
+      <div class="modal-body row-fluid"> 
+       <div class="span6">
+        <form action="https://www.fdlp.gov/classification-guidelines/introduction-to-the-classification-guidelines" method="post" id="login-form" class="form-inline"> 
+         <div class="pretext"> 
+          <p>Enter your library number and GPO-issued password to access exclusive FDLP features.</p> 
+         </div> 
+         <div class="userdata"> 
+          <div id="form-login-username" class="control-group"> 
+           <div class="controls"> 
+            <div class="input-prepend input-append"> 
+             <span class="add-on"><i class="icon-user tip" title="Username"></i><label for="modlgn-username" class="element-invisible">Username</label></span>
+             <input id="modlgn-username" type="text" name="username" class="input-small" tabindex="1" size="18" placeholder="Username">
+             <a href="/component/users/?view=remind&amp;Itemid=101" class="btn hasTooltip" title="Forgot your username?"><i class="icon-question-sign"></i></a> 
+            </div> 
+           </div> 
+          </div> 
+          <div id="form-login-password" class="control-group"> 
+           <div class="controls"> 
+            <div class="input-prepend input-append"> 
+             <span class="add-on"><i class="icon-lock tip" title="Password"></i><label for="modlgn-passwd" class="element-invisible">Password</label></span>
+             <input id="modlgn-passwd" type="password" name="password" class="input-small" tabindex="2" size="18" placeholder="Password"> 
+            </div> 
+           </div> 
+          </div> 
+          <div id="form-login-remember" class="control-group checkbox"> 
+           <label for="modlgn-remember" class="control-label">Remember Me</label> 
+           <input id="modlgn-remember" type="checkbox" name="remember" class="inputbox" value="yes"> 
+          </div> 
+          <div id="form-login-submit" class="control-group"> 
+           <div class="controls"> 
+            <button type="submit" tabindex="3" name="Submit" class="btn btn-primary btn">Log in</button> 
+           </div> 
+          </div> 
+          <input type="hidden" name="option" value="com_users"> 
+          <input type="hidden" name="task" value="user.login"> 
+          <input type="hidden" name="return" value="aHR0cHM6Ly93d3cuZmRscC5nb3YvY2xhc3NpZmljYXRpb24tZ3VpZGVsaW5lcy9pbnRyb2R1Y3Rpb24tdG8tdGhlLWNsYXNzaWZpY2F0aW9uLWd1aWRlbGluZXM="> 
+          <input type="hidden" name="baeb94f7804fdd92dcf27938db0ef9df" value="1"> 
+         </div> 
+         <div class="posttext"> 
+          <p>Lost your library password or having technical difficulties?<br> Contact <a href="http://www.gpo.gov/askgpo/">askGPO </a>for help.</p> 
+         </div> 
+        </form> 
+       </div> 
+       <div class="span5"></div> 
+      </div> 
+      <div class="modal-footer"> 
+       <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button> 
+      </div> 
+     </div> 
+     <div id="topbar" class="navbar navbar-fixed-top navbar-inverse"> 
+      <div class="navbar-inner"> 
+       <div class="dashboard-login rel visible-phone">
+        <a href="#myModal" role="button" data-toggle="modal">Login</a> &nbsp;|&nbsp; 
+        <a href="https://www.gpo.gov/askgpo/">Contact Us</a>
+       </div> 
+       <div class="container"> 
+        <div class="pull-left"> 
+         <div class="dj-megamenu-wrapper"> 
+          <ul id="dj-megamenu339" class="dj-megamenu dj-megamenu-default horizontalMenu " data-options="{&quot;wrap&quot;:null,&quot;animIn&quot;:&quot;fadeInUp&quot;,&quot;animOut&quot;:&quot;zoomOut&quot;,&quot;animSpeed&quot;:&quot;normal&quot;,&quot;openDelay&quot;:0,&quot;closeDelay&quot;:&quot;500&quot;,&quot;event&quot;:&quot;mouseenter&quot;,&quot;fixed&quot;:0,&quot;offset&quot;:0,&quot;theme&quot;:&quot;default&quot;,&quot;direction&quot;:&quot;ltr&quot;,&quot;wcag&quot;:&quot;1&quot;}" data-trigger="979"> 
+           <li class="dj-up itemid2831 first dj-hideitem"><a class="dj-up_a  home" href="/" title="Homepage"><span>Home</span></a></li>
+           <li class="dj-up itemid102 parent"><a class="dj-up_a   collect" href="#"><span class="dj-drop">Collection Tools<em class="arrow" aria-hidden="true"></em></span></a>
+            <div class="dj-subwrap  multiple_cols subcols3" style="">
+             <div class="dj-subwrap-in" style="width:900px;">
+              <div class="dj-subcol" style="width:300px">
+               <ul class="dj-submenu">
+                <li class="itemid163 first"><a href="/collection-tools/claims" title="Submit a request within 60 days for any publication in your depository shipment that is missing, misprinted or damaged.">Claims</a></li>
+                <li class="itemid160"><a href="https://selections.fdlp.gov" target="_blank" title="Manage your item selection profile."><em class="dj-icon fa fa-lock " aria-hidden="true"></em><span class="image-title">DSIMS</span></a></li>
+                <li class="itemid164"><a href="https://selections.fdlp.gov/itemlister" target="_blank" title="View both selected and non-selected item numbers for any Federal depository library."><em class="dj-icon  fa fa-external-link" aria-hidden="true"></em><span class="image-title">Item Lister</span></a></li>
+                <li class="itemid168"><a href="/file-repository/collection-management/list-of-classes" title="Browse the list of Federal information products that are available for selection by depository libraries.">List of Classes</a></li>
+                <li class="itemid165"><a href="/collection-tools/lostdocs" title="Report fugitive documents or other Federal information products that have not been cataloged by GPO.">LostDocs</a></li>
+               </ul>
+              </div>
+              <div class="dj-subcol" style="width:300px">
+               <ul class="dj-submenu">
+                <li class="itemid166 first"><a href="/collection-tools/fdlp-exchange" title="Post or review lists of withdrawn or needed publications from Federal depository libraries.">FDLP eXchange</a></li>
+                <li class="itemid162"><a href="http://purlreferrals.fdlp.gov" target="_blank" title="Find statistical information derived from your library¹s PURL traffic to measure usage of online resources."><em class="dj-icon fa fa-lock" aria-hidden="true"></em><span class="image-title">PURL Usage Reporting Tool</span></a></li>
+                <li class="itemid167"><a href="/collection-tools/shipping-lists" title="View shipping lists included in depository distribution boxes.">Shipping Lists</a></li>
+                <li class="itemid635"><a href="/collection-tools/shipping-list-this-week">Shipping List This Week</a></li>
+               </ul>
+              </div>
+              <div class="dj-subcol" style="width:300px">
+               <ul class="dj-submenu">
+                <li class="itemid169 first"><a href="/file-repository/collection-management/union-list-of-item-selections" title="View all item number selections of all depositories at once; this is typically used to compare your depository's selection profile against others in your state or region.">UNION-L</a></li>
+                <li class="itemid3287"><a href="https://github.com/usgpo/cataloging-records" target="_blank"><em class="dj-icon  fa fa-external-link" aria-hidden="true"></em><span class="image-title">CGP on GitHub</span></a></li>
+                <li class="itemid3291"><a href="https://libguides.fdlp.gov/" target="_blank"><em class="dj-icon  fa fa-external-link" aria-hidden="true"></em><span class="image-title">FDLP LibGuides</span></a></li>
+                <li class="itemid170"><a href="/webtech-notes" title="Search and view updates to the List of Classes and corrections to information found on shipping lists.">WEBTech Notes</a></li>
+               </ul>
+              </div>
+              <div style="clear:both;height:0"></div>
+             </div>
+            </div></li>
+           <li class="dj-up itemid103 parent"><a class="dj-up_a    reqguide" href="#"><span class="dj-drop">Requirements &amp; Guidance<em class="arrow" aria-hidden="true"></em></span></a>
+            <div class="dj-subwrap  multiple_cols subcols2" style="">
+             <div class="dj-subwrap-in" style="width:600px;">
+              <div class="dj-subcol" style="width:300px">
+               <ul class="dj-submenu">
+                <li class="itemid171 first"><a href="/requirements-guidance/legal-requirements" title="Full-text of the Federal depository library obligations that govern FDLP member libraries.">Legal Requirements</a></li>
+                <li class="itemid172"><a href="/requirements-guidance/guidance" title="Contains advice on how to comply with the FDLP regulations.">Guidance</a></li>
+                <li class="itemid173"><a href="/requirements-guidance/instructions" title="Provides an overview of FDLP-related tools and services. Also includes information on the features, functionality, and usage.">Instructions</a></li>
+               </ul>
+              </div>
+              <div class="dj-subcol" style="width:300px">
+               <ul class="dj-submenu">
+                <li class="itemid174 first"><a href="/requirements-guidance/collections-and-databases" title="Describes the various products and services that are uniquely available to Federal depository libraries.">Collections &amp; Databases</a></li>
+                <li class="itemid2124"><a href="/promotion">Promotion</a></li>
+               </ul>
+              </div>
+              <div style="clear:both;height:0"></div>
+             </div>
+            </div></li>
+           <li class="dj-up itemid3185 parent"><a class="dj-up_a  " href="#"><span class="dj-drop">Preservation<em class="arrow" aria-hidden="true"></em></span></a>
+            <div class="dj-subwrap  single_column subcols1" style="">
+             <div class="dj-subwrap-in" style="width:300px;">
+              <div class="dj-subcol" style="width:300px">
+               <ul class="dj-submenu">
+                <li class="itemid3186 first"><a href="/preservation/preservation-at-gpo">Preservation at GPO</a></li>
+                <li class="itemid3533"><a href="/preservation/trusted-digital-repository-iso-16363-2012-audit-and-certification">Trusted Digital Repository ISO 16363:2012 Audit and Certification </a></li>
+               </ul>
+              </div>
+              <div style="clear:both;height:0"></div>
+             </div>
+            </div></li>
+           <li class="dj-up itemid104 parent"><a class="dj-up_a   about" href="#"><span class="dj-drop">About the FDLP<em class="arrow" aria-hidden="true"></em></span></a>
+            <div class="dj-subwrap  multiple_cols subcols3" style="">
+             <div class="dj-subwrap-in" style="width:900px;">
+              <div class="dj-subcol" style="width:300px">
+               <ul class="dj-submenu">
+                <li class="itemid182 first"><a href="/about-the-fdlp/supdocs" title="The Superintendent of Documents (SuDocs) is in charge of the dissemination of information at the U.S. Government Printing Office (GPO).">Superintendent of Documents</a></li>
+                <li class="itemid183"><a href="/about-the-fdlp/federal-depository-libraries" title="Federal depository libraries are located throughout the United States and its territories. They provide local, no-fee access to Government information and professional assistance for Federal information products.">Federal Depository Libraries</a></li>
+                <li class="itemid184"><a href="/about-the-fdlp/depository-library-council" title="The Depository Library Council (DLC) serves as an advisory committee to the Public Printer of the United States and the Superintendent of Documents.">Depository Library Council</a></li>
+                <li class="itemid1015"><a href="/about-the-fdlp/fdlp-academy">FDLP Academy</a></li>
+               </ul>
+              </div>
+              <div class="dj-subcol" style="width:300px">
+               <ul class="dj-submenu">
+                <li class="itemid1008 first"><a href="/about-the-fdlp/events-and-conferences">Events and Conferences</a></li>
+                <li class="itemid859"><a href="/about-the-fdlp/fdlp-events-calendar">FDLP Events Calendar</a></li>
+                <li class="itemid188"><a href="/about-the-fdlp/partnerships" title="Through agreements with Federal depository libraries and Federal agencies, both the American public and Federal depository libraries have enhanced access to a variety of Federal information products and services.">Partnerships</a></li>
+                <li class="itemid187"><a href="/about-the-fdlp/projects" title="Outlines current and previous efforts to improve the products and services of the FDLP.">Projects</a></li>
+               </ul>
+              </div>
+              <div class="dj-subcol" style="width:300px">
+               <ul class="dj-submenu">
+                <li class="itemid637 first"><a href="/file-repository">File Repository</a></li>
+                <li class="itemid181"><a href="/about-the-fdlp/mission-and-history" title="Learn about the FDLP¹s mission, vision, and core values.">Mission &amp; History</a></li>
+                <li class="itemid2136"><a href="/about-the-fdlp/gpo-on-the-go">GPO on the Go</a></li>
+               </ul>
+              </div>
+              <div style="clear:both;height:0"></div>
+             </div>
+            </div></li>
+           <li class="dj-up itemid524 parent"><a class="dj-up_a  catindex" href="#"><span class="dj-drop">Cataloging &amp; Classification<em class="arrow" aria-hidden="true"></em></span></a>
+            <div class="dj-subwrap  single_column subcols1" style="">
+             <div class="dj-subwrap-in" style="width:300px;">
+              <div class="dj-subcol" style="width:300px">
+               <ul class="dj-submenu">
+                <li class="itemid525 first"><a href="/cataloging-guidelines">Cataloging Guidelines</a></li>
+                <li class="itemid3201"><a href="https://www.fdlp.gov/classification-guidelines/introduction-to-the-classification-guidelines">Superintendent of Documents Classification Guidelines</a></li>
+                <li class="itemid530"><a href="/catalogingandclassification/cataloging-articles">Cataloging &amp; Indexing</a></li>
+                <li class="itemid2970"><a href="/catalogingandclassification/regional-depositories-oclc-holding-symbols-to-gpo-cataloging">Regional Depositories’ OCLC Holding Symbols to GPO Cataloging</a></li>
+                <li class="itemid630"><a href="http://catalog.gpo.gov/" target="_blank"><em class="dj-icon fa fa-external-link" aria-hidden="true"></em><span class="image-title">Catalog of U.S. Government Publications</span></a></li>
+                <li class="itemid3289"><a href="/catalogingandclassification/sources-of-gpo-cataloging-records">Sources of GPO Cataloging Records</a></li>
+                <li class="itemid3418"><a href="/catalogingandclassification/cataloging-record-distribution-program">Cataloging Record Distribution Program</a></li>
+               </ul>
+              </div>
+              <div style="clear:both;height:0"></div>
+             </div>
+            </div></li>
+          </ul> 
+          <div id="dj-megamenu339mobile" class="dj-megamenu-offcanvas dj-megamenu-offcanvas-light "> 
+           <a href="#" class="dj-mobile-open-btn" aria-label="Open mobile menu"><span class="fa fa-bars" aria-hidden="true"></span></a> 
+           <aside id="dj-megamenu339offcanvas" class="dj-offcanvas dj-offcanvas-light " data-effect="3"> 
+            <div class="dj-offcanvas-top"> 
+             <a href="#" class="dj-offcanvas-close-btn" aria-label="Close mobile menu"><span class="fa fa-close" aria-hidden="true"></span></a> 
+            </div> 
+            <div class="dj-offcanvas-content"> 
+             <ul class="dj-mobile-nav dj-mobile-light "> 
+              <li class="dj-mobileitem itemid-2831"><a class=" home" href="/" title="Homepage">Home</a></li>
+              <li class="dj-mobileitem itemid-102 deeper parent"><a class="  collect" href="#">Collection Tools</a>
+               <ul class="dj-mobile-nav-child">
+                <li class="dj-mobileitem itemid-163"><a href="/collection-tools/claims" title="Submit a request within 60 days for any publication in your depository shipment that is missing, misprinted or damaged.">Claims</a></li>
+                <li class="dj-mobileitem itemid-160"><a href="https://selections.fdlp.gov" target="_blank" title="Manage your item selection profile."><em class="fa fa-lock " aria-hidden="true"></em><span class="image-title">DSIMS</span></a></li>
+                <li class="dj-mobileitem itemid-164"><a href="https://selections.fdlp.gov/itemlister" target="_blank" title="View both selected and non-selected item numbers for any Federal depository library."><em class=" fa fa-external-link" aria-hidden="true"></em><span class="image-title">Item Lister</span></a></li>
+                <li class="dj-mobileitem itemid-168"><a href="/file-repository/collection-management/list-of-classes" title="Browse the list of Federal information products that are available for selection by depository libraries.">List of Classes</a></li>
+                <li class="dj-mobileitem itemid-165"><a href="/collection-tools/lostdocs" title="Report fugitive documents or other Federal information products that have not been cataloged by GPO.">LostDocs</a></li>
+                <li class="dj-mobileitem itemid-166"><a href="/collection-tools/fdlp-exchange" title="Post or review lists of withdrawn or needed publications from Federal depository libraries.">FDLP eXchange</a></li>
+                <li class="dj-mobileitem itemid-162"><a href="http://purlreferrals.fdlp.gov" target="_blank" title="Find statistical information derived from your library¹s PURL traffic to measure usage of online resources."><em class="fa fa-lock" aria-hidden="true"></em><span class="image-title">PURL Usage Reporting Tool</span></a></li>
+                <li class="dj-mobileitem itemid-167"><a href="/collection-tools/shipping-lists" title="View shipping lists included in depository distribution boxes.">Shipping Lists</a></li>
+                <li class="dj-mobileitem itemid-635"><a href="/collection-tools/shipping-list-this-week">Shipping List This Week</a></li>
+                <li class="dj-mobileitem itemid-169"><a href="/file-repository/collection-management/union-list-of-item-selections" title="View all item number selections of all depositories at once; this is typically used to compare your depository's selection profile against others in your state or region.">UNION-L</a></li>
+                <li class="dj-mobileitem itemid-3287"><a href="https://github.com/usgpo/cataloging-records" target="_blank"><em class=" fa fa-external-link" aria-hidden="true"></em><span class="image-title">CGP on GitHub</span></a></li>
+                <li class="dj-mobileitem itemid-3291"><a href="https://libguides.fdlp.gov/" target="_blank"><em class=" fa fa-external-link" aria-hidden="true"></em><span class="image-title">FDLP LibGuides</span></a></li>
+                <li class="dj-mobileitem itemid-170"><a href="/webtech-notes" title="Search and view updates to the List of Classes and corrections to information found on shipping lists.">WEBTech Notes</a></li>
+               </ul></li>
+              <li class="dj-mobileitem itemid-103 deeper parent"><a class="   reqguide" href="#">Requirements &amp; Guidance</a>
+               <ul class="dj-mobile-nav-child">
+                <li class="dj-mobileitem itemid-171"><a href="/requirements-guidance/legal-requirements" title="Full-text of the Federal depository library obligations that govern FDLP member libraries.">Legal Requirements</a></li>
+                <li class="dj-mobileitem itemid-172"><a href="/requirements-guidance/guidance" title="Contains advice on how to comply with the FDLP regulations.">Guidance</a></li>
+                <li class="dj-mobileitem itemid-173"><a href="/requirements-guidance/instructions" title="Provides an overview of FDLP-related tools and services. Also includes information on the features, functionality, and usage.">Instructions</a></li>
+                <li class="dj-mobileitem itemid-174"><a href="/requirements-guidance/collections-and-databases" title="Describes the various products and services that are uniquely available to Federal depository libraries.">Collections &amp; Databases</a></li>
+                <li class="dj-mobileitem itemid-2124"><a href="/promotion">Promotion</a></li>
+               </ul></li>
+              <li class="dj-mobileitem itemid-3185 deeper parent"><a href="#">Preservation</a>
+               <ul class="dj-mobile-nav-child">
+                <li class="dj-mobileitem itemid-3186"><a href="/preservation/preservation-at-gpo">Preservation at GPO</a></li>
+                <li class="dj-mobileitem itemid-3533"><a href="/preservation/trusted-digital-repository-iso-16363-2012-audit-and-certification">Trusted Digital Repository ISO 16363:2012 Audit and Certification </a></li>
+               </ul></li>
+              <li class="dj-mobileitem itemid-104 deeper parent"><a class="  about" href="#">About the FDLP</a>
+               <ul class="dj-mobile-nav-child">
+                <li class="dj-mobileitem itemid-182"><a href="/about-the-fdlp/supdocs" title="The Superintendent of Documents (SuDocs) is in charge of the dissemination of information at the U.S. Government Printing Office (GPO).">Superintendent of Documents</a></li>
+                <li class="dj-mobileitem itemid-183"><a href="/about-the-fdlp/federal-depository-libraries" title="Federal depository libraries are located throughout the United States and its territories. They provide local, no-fee access to Government information and professional assistance for Federal information products.">Federal Depository Libraries</a></li>
+                <li class="dj-mobileitem itemid-184"><a href="/about-the-fdlp/depository-library-council" title="The Depository Library Council (DLC) serves as an advisory committee to the Public Printer of the United States and the Superintendent of Documents.">Depository Library Council</a></li>
+                <li class="dj-mobileitem itemid-1015"><a href="/about-the-fdlp/fdlp-academy">FDLP Academy</a></li>
+                <li class="dj-mobileitem itemid-1008"><a href="/about-the-fdlp/events-and-conferences">Events and Conferences</a></li>
+                <li class="dj-mobileitem itemid-859"><a href="/about-the-fdlp/fdlp-events-calendar">FDLP Events Calendar</a></li>
+                <li class="dj-mobileitem itemid-188"><a href="/about-the-fdlp/partnerships" title="Through agreements with Federal depository libraries and Federal agencies, both the American public and Federal depository libraries have enhanced access to a variety of Federal information products and services.">Partnerships</a></li>
+                <li class="dj-mobileitem itemid-187"><a href="/about-the-fdlp/projects" title="Outlines current and previous efforts to improve the products and services of the FDLP.">Projects</a></li>
+                <li class="dj-mobileitem itemid-637"><a href="/file-repository">File Repository</a></li>
+                <li class="dj-mobileitem itemid-181"><a href="/about-the-fdlp/mission-and-history" title="Learn about the FDLP¹s mission, vision, and core values.">Mission &amp; History</a></li>
+                <li class="dj-mobileitem itemid-2136"><a href="/about-the-fdlp/gpo-on-the-go">GPO on the Go</a></li>
+               </ul></li>
+              <li class="dj-mobileitem itemid-524 deeper parent"><a class=" catindex" href="#">Cataloging &amp; Classification</a>
+               <ul class="dj-mobile-nav-child">
+                <li class="dj-mobileitem itemid-525"><a href="/cataloging-guidelines">Cataloging Guidelines</a></li>
+                <li class="dj-mobileitem itemid-3201"><a href="https://www.fdlp.gov/classification-guidelines/introduction-to-the-classification-guidelines">Superintendent of Documents Classification Guidelines</a></li>
+                <li class="dj-mobileitem itemid-530"><a href="/catalogingandclassification/cataloging-articles">Cataloging &amp; Indexing</a></li>
+                <li class="dj-mobileitem itemid-2970"><a href="/catalogingandclassification/regional-depositories-oclc-holding-symbols-to-gpo-cataloging">Regional Depositories’ OCLC Holding Symbols to GPO Cataloging</a></li>
+                <li class="dj-mobileitem itemid-630"><a href="http://catalog.gpo.gov/" target="_blank"><em class="fa fa-external-link" aria-hidden="true"></em><span class="image-title">Catalog of U.S. Government Publications</span></a></li>
+                <li class="dj-mobileitem itemid-3289"><a href="/catalogingandclassification/sources-of-gpo-cataloging-records">Sources of GPO Cataloging Records</a></li>
+                <li class="dj-mobileitem itemid-3418"><a href="/catalogingandclassification/cataloging-record-distribution-program">Cataloging Record Distribution Program</a></li>
+               </ul></li>
+             </ul> 
+            </div> 
+            <div class="dj-offcanvas-end" tabindex="0"></div> 
+           </aside> 
+          </div> 
+         </div>
+         <ul class="nav menu "> 
+          <li class="item-152 deeper parent dropdown"><a class="dropdown-toggle" href="#" title="The U.S Government Publishing Office (GPO) provides publishing and dissemination services for the official and authentic Government publications to Congress, Federal agencies, Federal depository libraries, and the American public." data-toggle="dropdown"> <span>Other GPO Sites</span></a>
+           <ul class="nav-child unstyled small dropdown-menu">
+            <li class="item-269"><a href="http://www.gpo.gov"> <span>U.S. Government Publishing Office</span></a></li>
+            <li class="item-1972"><a href="https://www.gpo.gov/fdsys/"> <span>Federal Digital System (FDsys)</span></a></li>
+            <li class="item-151"><a href="https://www.govinfo.gov/"> <span>govinfo</span></a></li>
+            <li class="item-161"><a href="http://bookstore.gpo.gov"> <span>U.S. Government Bookstore</span></a></li>
+            <li class="item-150"><a href="http://bensguide.gpo.gov"> <span>Ben's Guide to the U.S. Government</span></a></li>
+           </ul></li>
+         </ul> 
+        </div> 
+        <div class="dashboard-login hidden-phone">
+         <a href="#myModal" role="button" data-toggle="modal">Login</a>
+        </div> 
+        <div class="pull-right"> 
+         <ul class="nav menu iconmenu"> 
+          <li class="item-153"><a class="fa fa-envelope-o hasTooltip tt-bottom" href="/news-and-events" title="Subscribe to Our Email Alerts" data-placement="bottom"> <span>Subscribe to Our Email Alerts</span></a></li>
+          <li class="item-156"><a class="fa fa-rss hasTooltip tt-bottom" href="/rss" title="Grab our RSS" data-placement="bottom"><span>RSS</span></a></li>
+          <li class="item-308"><a class="fa fa-newspaper-o hasTooltip tt-bottom" href="/fdlp-connection" title="Subscribe to our Newsletter" data-placement="bottom"><span>Subscribe to our Newsletter</span></a></li>
+         </ul> 
+         <div class="custom"> 
+          <div class="font-resize hidden-phone">
+           <a id="jfontsize-minus" class="smaller" href="#" title="Font Size: Smaller">A</a> 
+           <a id="jfontsize-plus" class="larger" title="Font Size: Larger" href="#">A</a>
+          </div>
+         </div> 
+         <ul class="nav menu "> 
+          <li class="item-2829"><a href="/contact-us"><span>Contact Us</span></a></li>
+          <li class="item-2830"><a class="myModalLogin" role="button" data-toggle="modal" href="#myModal"> <span>Login</span></a></li>
+         </ul> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <!-- Header --> 
+     <div class="header"> 
+      <div class="header-inner"> 
+       <a class="brand pull-left" href="/"> <img src="https://www.fdlp.gov/images/fdlp_logo.png" alt="FDLP"> </a> 
+       <div class="header-search pull-right"> 
+        <div class="moduletable"> 
+         <script type="text/javascript">
+//<![CDATA[
+	window.addEvent('domready', function() {
+		var value;
+
+		// Set the input value if not already set.
+		if (!document.id('appendedDropdownButton').getProperty('value')) {
+			document.id('appendedDropdownButton').setProperty('value', 'Search ...');
+		}
+
+		// Get the current value.
+		value = document.id('appendedDropdownButton').getProperty('value');
+
+		// If the current value equals the default value, clear it.
+		document.id('appendedDropdownButton').addEvent('focus', function() {
+			if (this.getProperty('value') == 'Search ...') {
+				this.setProperty('value', '');
+			}
+		});
+
+		// If the current value is empty, set the previous value.
+		document.id('appendedDropdownButton').addEvent('blur', function() {
+			if (!this.getProperty('value')) {
+				this.setProperty('value', value);
+			}
+		});
+
+		document.id('mod-finder-searchform').addEvent('submit', function(e){
+			e = new Event(e);
+			e.stop();
+
+			// Disable select boxes with no value selected.
+			if (document.id('mod-finder-advanced') != null) {
+				document.id('mod-finder-advanced').getElements('select').each(function(s){
+					if (!s.getProperty('value')) {
+						s.setProperty('disabled', 'disabled');
+					}
+				});
+			}
+
+			document.id('mod-finder-searchform').submit();
+		});
+
+		/*
+		 * This segment of code sets up the autocompleter.
+		 */
+								var url = '/component/finder/?task=suggestions.display&format=json&tmpl=component';
+			var ModCompleter = new Autocompleter.Request.JSON(document.id('appendedDropdownButton'), url, {'postVar': 'q'});
+			});
+//]]>
+</script> 
+         <div class="search"> 
+          <form id="mod-finder-searchform" action="/search" method="get" class="form-inline"> 
+           <div class="input-append"> 
+            <input name="q" class="span2" id="appendedDropdownButton" type="text"> 
+            <div class="btn-group"> 
+             <button class="btn dropdown-toggle" data-toggle="dropdown">Search <span class="caret"></span></button> 
+             <ul class="dropdown-menu"> 
+              <li><a href="javascript:void(0);" onclick="searchSubmit('site');">Site</a></li> 
+              <li><a href="javascript:void(0);" onclick="searchSubmit('news');">News</a></li> 
+              <li class="divider"></li> 
+              <li><a href="javascript:void(0);" onclick="searchSubmit('cgp');">CGP</a></li> 
+              <li><a href="javascript:void(0);" onclick="searchSubmit('fdsys');">govinfo</a></li> 
+             </ul> 
+            </div>
+            <!-- /btn-group --> 
+           </div>
+           <!-- /input-append --> 
+           <input type="hidden" id="st" name="st" value=""> 
+           <input type="hidden" name="f" id="filter" value=""> 
+           <input type="hidden" id="ordering" name="ordering" value="0"> 
+          </form> 
+          <form class="form-inline" style="margin: 0;" action="//catalog.gpo.gov/F" method="post" id="cgpSearchForm"> 
+           <input type="hidden" id="req" name="request" value=""> 
+           <input type="hidden" name="func" value="find-b"> 
+          </form> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="clearfix"></div> 
+      </div> 
+     </div> 
+     <div class="nohidden-phone"> 
+      <div id="navigation" class="navigation" data-spy="affix" data-offset-top="150"> 
+       <div class="container"> 
+        <div class="dj-megamenu-wrapper"> 
+         <ul id="dj-megamenu336" class="dj-megamenu dj-megamenu-override horizontalMenu " data-options="{&quot;wrap&quot;:null,&quot;animIn&quot;:&quot;fadeIn&quot;,&quot;animOut&quot;:&quot;fadeOut&quot;,&quot;animSpeed&quot;:&quot;fast&quot;,&quot;openDelay&quot;:0,&quot;closeDelay&quot;:&quot;0&quot;,&quot;event&quot;:&quot;mouseenter&quot;,&quot;fixed&quot;:0,&quot;offset&quot;:0,&quot;theme&quot;:&quot;override&quot;,&quot;direction&quot;:&quot;ltr&quot;,&quot;wcag&quot;:&quot;1&quot;}" data-trigger="979"> 
+          <li class="dj-up itemid2831 first dj-hideitem"><a class="dj-up_a  home" href="/" title="Homepage"><span>Home</span></a></li>
+          <li class="dj-up itemid102 parent"><a class="dj-up_a   collect" href="#"><span class="dj-drop">Collection Tools<em class="arrow" aria-hidden="true"></em></span></a>
+           <div class="dj-subwrap  multiple_cols subcols3" style="">
+            <div class="dj-subwrap-in" style="width:903px;">
+             <div class="dj-subcol" style="width:301px">
+              <ul class="dj-submenu">
+               <li class="itemid163 first"><a href="/collection-tools/claims" title="Submit a request within 60 days for any publication in your depository shipment that is missing, misprinted or damaged.">Claims</a></li>
+               <li class="itemid160"><a href="https://selections.fdlp.gov" target="_blank" title="Manage your item selection profile."><em class="dj-icon fa fa-lock " aria-hidden="true"></em><span class="image-title">DSIMS</span></a></li>
+               <li class="itemid164"><a href="https://selections.fdlp.gov/itemlister" target="_blank" title="View both selected and non-selected item numbers for any Federal depository library."><em class="dj-icon  fa fa-external-link" aria-hidden="true"></em><span class="image-title">Item Lister</span></a></li>
+               <li class="itemid168"><a href="/file-repository/collection-management/list-of-classes" title="Browse the list of Federal information products that are available for selection by depository libraries.">List of Classes</a></li>
+               <li class="itemid165"><a href="/collection-tools/lostdocs" title="Report fugitive documents or other Federal information products that have not been cataloged by GPO.">LostDocs</a></li>
+              </ul>
+             </div>
+             <div class="dj-subcol" style="width:301px">
+              <ul class="dj-submenu">
+               <li class="itemid166 first"><a href="/collection-tools/fdlp-exchange" title="Post or review lists of withdrawn or needed publications from Federal depository libraries.">FDLP eXchange</a></li>
+               <li class="itemid162"><a href="http://purlreferrals.fdlp.gov" target="_blank" title="Find statistical information derived from your library¹s PURL traffic to measure usage of online resources."><em class="dj-icon fa fa-lock" aria-hidden="true"></em><span class="image-title">PURL Usage Reporting Tool</span></a></li>
+               <li class="itemid167"><a href="/collection-tools/shipping-lists" title="View shipping lists included in depository distribution boxes.">Shipping Lists</a></li>
+               <li class="itemid635"><a href="/collection-tools/shipping-list-this-week">Shipping List This Week</a></li>
+              </ul>
+             </div>
+             <div class="dj-subcol" style="width:301px">
+              <ul class="dj-submenu">
+               <li class="itemid169 first"><a href="/file-repository/collection-management/union-list-of-item-selections" title="View all item number selections of all depositories at once; this is typically used to compare your depository's selection profile against others in your state or region.">UNION-L</a></li>
+               <li class="itemid3287"><a href="https://github.com/usgpo/cataloging-records" target="_blank"><em class="dj-icon  fa fa-external-link" aria-hidden="true"></em><span class="image-title">CGP on GitHub</span></a></li>
+               <li class="itemid3291"><a href="https://libguides.fdlp.gov/" target="_blank"><em class="dj-icon  fa fa-external-link" aria-hidden="true"></em><span class="image-title">FDLP LibGuides</span></a></li>
+               <li class="itemid170"><a href="/webtech-notes" title="Search and view updates to the List of Classes and corrections to information found on shipping lists.">WEBTech Notes</a></li>
+              </ul>
+             </div>
+             <div style="clear:both;height:0"></div>
+            </div>
+           </div></li>
+          <li class="dj-up itemid103 parent"><a class="dj-up_a    reqguide" href="#"><span class="dj-drop">Requirements &amp; Guidance<em class="arrow" aria-hidden="true"></em></span></a>
+           <div class="dj-subwrap  multiple_cols subcols2" style="">
+            <div class="dj-subwrap-in" style="width:602px;">
+             <div class="dj-subcol" style="width:301px">
+              <ul class="dj-submenu">
+               <li class="itemid171 first"><a href="/requirements-guidance/legal-requirements" title="Full-text of the Federal depository library obligations that govern FDLP member libraries.">Legal Requirements</a></li>
+               <li class="itemid172"><a href="/requirements-guidance/guidance" title="Contains advice on how to comply with the FDLP regulations.">Guidance</a></li>
+               <li class="itemid173"><a href="/requirements-guidance/instructions" title="Provides an overview of FDLP-related tools and services. Also includes information on the features, functionality, and usage.">Instructions</a></li>
+              </ul>
+             </div>
+             <div class="dj-subcol" style="width:301px">
+              <ul class="dj-submenu">
+               <li class="itemid174 first"><a href="/requirements-guidance/collections-and-databases" title="Describes the various products and services that are uniquely available to Federal depository libraries.">Collections &amp; Databases</a></li>
+               <li class="itemid2124"><a href="/promotion">Promotion</a></li>
+              </ul>
+             </div>
+             <div style="clear:both;height:0"></div>
+            </div>
+           </div></li>
+          <li class="dj-up itemid3185 parent"><a class="dj-up_a  " href="#"><span class="dj-drop">Preservation<em class="arrow" aria-hidden="true"></em></span></a>
+           <div class="dj-subwrap  single_column subcols1" style="">
+            <div class="dj-subwrap-in" style="width:301px;">
+             <div class="dj-subcol" style="width:301px">
+              <ul class="dj-submenu">
+               <li class="itemid3186 first"><a href="/preservation/preservation-at-gpo">Preservation at GPO</a></li>
+               <li class="itemid3533"><a href="/preservation/trusted-digital-repository-iso-16363-2012-audit-and-certification">Trusted Digital Repository ISO 16363:2012 Audit and Certification </a></li>
+              </ul>
+             </div>
+             <div style="clear:both;height:0"></div>
+            </div>
+           </div></li>
+          <li class="dj-up itemid104 parent"><a class="dj-up_a   about" href="#"><span class="dj-drop">About the FDLP<em class="arrow" aria-hidden="true"></em></span></a>
+           <div class="dj-subwrap  multiple_cols subcols3" style="">
+            <div class="dj-subwrap-in" style="width:903px;">
+             <div class="dj-subcol" style="width:301px">
+              <ul class="dj-submenu">
+               <li class="itemid182 first"><a href="/about-the-fdlp/supdocs" title="The Superintendent of Documents (SuDocs) is in charge of the dissemination of information at the U.S. Government Printing Office (GPO).">Superintendent of Documents</a></li>
+               <li class="itemid183"><a href="/about-the-fdlp/federal-depository-libraries" title="Federal depository libraries are located throughout the United States and its territories. They provide local, no-fee access to Government information and professional assistance for Federal information products.">Federal Depository Libraries</a></li>
+               <li class="itemid184"><a href="/about-the-fdlp/depository-library-council" title="The Depository Library Council (DLC) serves as an advisory committee to the Public Printer of the United States and the Superintendent of Documents.">Depository Library Council</a></li>
+               <li class="itemid1015"><a href="/about-the-fdlp/fdlp-academy">FDLP Academy</a></li>
+              </ul>
+             </div>
+             <div class="dj-subcol" style="width:301px">
+              <ul class="dj-submenu">
+               <li class="itemid1008 first"><a href="/about-the-fdlp/events-and-conferences">Events and Conferences</a></li>
+               <li class="itemid859"><a href="/about-the-fdlp/fdlp-events-calendar">FDLP Events Calendar</a></li>
+               <li class="itemid188"><a href="/about-the-fdlp/partnerships" title="Through agreements with Federal depository libraries and Federal agencies, both the American public and Federal depository libraries have enhanced access to a variety of Federal information products and services.">Partnerships</a></li>
+               <li class="itemid187"><a href="/about-the-fdlp/projects" title="Outlines current and previous efforts to improve the products and services of the FDLP.">Projects</a></li>
+              </ul>
+             </div>
+             <div class="dj-subcol" style="width:301px">
+              <ul class="dj-submenu">
+               <li class="itemid637 first"><a href="/file-repository">File Repository</a></li>
+               <li class="itemid181"><a href="/about-the-fdlp/mission-and-history" title="Learn about the FDLP¹s mission, vision, and core values.">Mission &amp; History</a></li>
+               <li class="itemid2136"><a href="/about-the-fdlp/gpo-on-the-go">GPO on the Go</a></li>
+              </ul>
+             </div>
+             <div style="clear:both;height:0"></div>
+            </div>
+           </div></li>
+          <li class="dj-up itemid524 parent"><a class="dj-up_a  catindex" href="#"><span class="dj-drop">Cataloging &amp; Classification<em class="arrow" aria-hidden="true"></em></span></a>
+           <div class="dj-subwrap  single_column subcols1" style="">
+            <div class="dj-subwrap-in" style="width:301px;">
+             <div class="dj-subcol" style="width:301px">
+              <ul class="dj-submenu">
+               <li class="itemid525 first"><a href="/cataloging-guidelines">Cataloging Guidelines</a></li>
+               <li class="itemid3201"><a href="https://www.fdlp.gov/classification-guidelines/introduction-to-the-classification-guidelines">Superintendent of Documents Classification Guidelines</a></li>
+               <li class="itemid530"><a href="/catalogingandclassification/cataloging-articles">Cataloging &amp; Indexing</a></li>
+               <li class="itemid2970"><a href="/catalogingandclassification/regional-depositories-oclc-holding-symbols-to-gpo-cataloging">Regional Depositories’ OCLC Holding Symbols to GPO Cataloging</a></li>
+               <li class="itemid630"><a href="http://catalog.gpo.gov/" target="_blank"><em class="dj-icon fa fa-external-link" aria-hidden="true"></em><span class="image-title">Catalog of U.S. Government Publications</span></a></li>
+               <li class="itemid3289"><a href="/catalogingandclassification/sources-of-gpo-cataloging-records">Sources of GPO Cataloging Records</a></li>
+               <li class="itemid3418"><a href="/catalogingandclassification/cataloging-record-distribution-program">Cataloging Record Distribution Program</a></li>
+              </ul>
+             </div>
+             <div style="clear:both;height:0"></div>
+            </div>
+           </div></li>
+         </ul> 
+         <div id="dj-megamenu336mobile" class="dj-megamenu-offcanvas dj-megamenu-offcanvas-light "> 
+          <a href="#" class="dj-mobile-open-btn" aria-label="Open mobile menu"><span class="fa fa-bars" aria-hidden="true"></span></a> 
+          <aside id="dj-megamenu336offcanvas" class="dj-offcanvas dj-offcanvas-light " data-effect="3"> 
+           <div class="dj-offcanvas-top"> 
+            <a href="#" class="dj-offcanvas-close-btn" aria-label="Close mobile menu"><span class="fa fa-close" aria-hidden="true"></span></a> 
+           </div> 
+           <div class="dj-offcanvas-content"> 
+            <ul class="dj-mobile-nav dj-mobile-light "> 
+             <li class="dj-mobileitem itemid-2831"><a class=" home" href="/" title="Homepage">Home</a></li>
+             <li class="dj-mobileitem itemid-102 deeper parent"><a class="  collect" href="#">Collection Tools</a>
+              <ul class="dj-mobile-nav-child">
+               <li class="dj-mobileitem itemid-163"><a href="/collection-tools/claims" title="Submit a request within 60 days for any publication in your depository shipment that is missing, misprinted or damaged.">Claims</a></li>
+               <li class="dj-mobileitem itemid-160"><a href="https://selections.fdlp.gov" target="_blank" title="Manage your item selection profile."><em class="fa fa-lock " aria-hidden="true"></em><span class="image-title">DSIMS</span></a></li>
+               <li class="dj-mobileitem itemid-164"><a href="https://selections.fdlp.gov/itemlister" target="_blank" title="View both selected and non-selected item numbers for any Federal depository library."><em class=" fa fa-external-link" aria-hidden="true"></em><span class="image-title">Item Lister</span></a></li>
+               <li class="dj-mobileitem itemid-168"><a href="/file-repository/collection-management/list-of-classes" title="Browse the list of Federal information products that are available for selection by depository libraries.">List of Classes</a></li>
+               <li class="dj-mobileitem itemid-165"><a href="/collection-tools/lostdocs" title="Report fugitive documents or other Federal information products that have not been cataloged by GPO.">LostDocs</a></li>
+               <li class="dj-mobileitem itemid-166"><a href="/collection-tools/fdlp-exchange" title="Post or review lists of withdrawn or needed publications from Federal depository libraries.">FDLP eXchange</a></li>
+               <li class="dj-mobileitem itemid-162"><a href="http://purlreferrals.fdlp.gov" target="_blank" title="Find statistical information derived from your library¹s PURL traffic to measure usage of online resources."><em class="fa fa-lock" aria-hidden="true"></em><span class="image-title">PURL Usage Reporting Tool</span></a></li>
+               <li class="dj-mobileitem itemid-167"><a href="/collection-tools/shipping-lists" title="View shipping lists included in depository distribution boxes.">Shipping Lists</a></li>
+               <li class="dj-mobileitem itemid-635"><a href="/collection-tools/shipping-list-this-week">Shipping List This Week</a></li>
+               <li class="dj-mobileitem itemid-169"><a href="/file-repository/collection-management/union-list-of-item-selections" title="View all item number selections of all depositories at once; this is typically used to compare your depository's selection profile against others in your state or region.">UNION-L</a></li>
+               <li class="dj-mobileitem itemid-3287"><a href="https://github.com/usgpo/cataloging-records" target="_blank"><em class=" fa fa-external-link" aria-hidden="true"></em><span class="image-title">CGP on GitHub</span></a></li>
+               <li class="dj-mobileitem itemid-3291"><a href="https://libguides.fdlp.gov/" target="_blank"><em class=" fa fa-external-link" aria-hidden="true"></em><span class="image-title">FDLP LibGuides</span></a></li>
+               <li class="dj-mobileitem itemid-170"><a href="/webtech-notes" title="Search and view updates to the List of Classes and corrections to information found on shipping lists.">WEBTech Notes</a></li>
+              </ul></li>
+             <li class="dj-mobileitem itemid-103 deeper parent"><a class="   reqguide" href="#">Requirements &amp; Guidance</a>
+              <ul class="dj-mobile-nav-child">
+               <li class="dj-mobileitem itemid-171"><a href="/requirements-guidance/legal-requirements" title="Full-text of the Federal depository library obligations that govern FDLP member libraries.">Legal Requirements</a></li>
+               <li class="dj-mobileitem itemid-172"><a href="/requirements-guidance/guidance" title="Contains advice on how to comply with the FDLP regulations.">Guidance</a></li>
+               <li class="dj-mobileitem itemid-173"><a href="/requirements-guidance/instructions" title="Provides an overview of FDLP-related tools and services. Also includes information on the features, functionality, and usage.">Instructions</a></li>
+               <li class="dj-mobileitem itemid-174"><a href="/requirements-guidance/collections-and-databases" title="Describes the various products and services that are uniquely available to Federal depository libraries.">Collections &amp; Databases</a></li>
+               <li class="dj-mobileitem itemid-2124"><a href="/promotion">Promotion</a></li>
+              </ul></li>
+             <li class="dj-mobileitem itemid-3185 deeper parent"><a href="#">Preservation</a>
+              <ul class="dj-mobile-nav-child">
+               <li class="dj-mobileitem itemid-3186"><a href="/preservation/preservation-at-gpo">Preservation at GPO</a></li>
+               <li class="dj-mobileitem itemid-3533"><a href="/preservation/trusted-digital-repository-iso-16363-2012-audit-and-certification">Trusted Digital Repository ISO 16363:2012 Audit and Certification </a></li>
+              </ul></li>
+             <li class="dj-mobileitem itemid-104 deeper parent"><a class="  about" href="#">About the FDLP</a>
+              <ul class="dj-mobile-nav-child">
+               <li class="dj-mobileitem itemid-182"><a href="/about-the-fdlp/supdocs" title="The Superintendent of Documents (SuDocs) is in charge of the dissemination of information at the U.S. Government Printing Office (GPO).">Superintendent of Documents</a></li>
+               <li class="dj-mobileitem itemid-183"><a href="/about-the-fdlp/federal-depository-libraries" title="Federal depository libraries are located throughout the United States and its territories. They provide local, no-fee access to Government information and professional assistance for Federal information products.">Federal Depository Libraries</a></li>
+               <li class="dj-mobileitem itemid-184"><a href="/about-the-fdlp/depository-library-council" title="The Depository Library Council (DLC) serves as an advisory committee to the Public Printer of the United States and the Superintendent of Documents.">Depository Library Council</a></li>
+               <li class="dj-mobileitem itemid-1015"><a href="/about-the-fdlp/fdlp-academy">FDLP Academy</a></li>
+               <li class="dj-mobileitem itemid-1008"><a href="/about-the-fdlp/events-and-conferences">Events and Conferences</a></li>
+               <li class="dj-mobileitem itemid-859"><a href="/about-the-fdlp/fdlp-events-calendar">FDLP Events Calendar</a></li>
+               <li class="dj-mobileitem itemid-188"><a href="/about-the-fdlp/partnerships" title="Through agreements with Federal depository libraries and Federal agencies, both the American public and Federal depository libraries have enhanced access to a variety of Federal information products and services.">Partnerships</a></li>
+               <li class="dj-mobileitem itemid-187"><a href="/about-the-fdlp/projects" title="Outlines current and previous efforts to improve the products and services of the FDLP.">Projects</a></li>
+               <li class="dj-mobileitem itemid-637"><a href="/file-repository">File Repository</a></li>
+               <li class="dj-mobileitem itemid-181"><a href="/about-the-fdlp/mission-and-history" title="Learn about the FDLP¹s mission, vision, and core values.">Mission &amp; History</a></li>
+               <li class="dj-mobileitem itemid-2136"><a href="/about-the-fdlp/gpo-on-the-go">GPO on the Go</a></li>
+              </ul></li>
+             <li class="dj-mobileitem itemid-524 deeper parent"><a class=" catindex" href="#">Cataloging &amp; Classification</a>
+              <ul class="dj-mobile-nav-child">
+               <li class="dj-mobileitem itemid-525"><a href="/cataloging-guidelines">Cataloging Guidelines</a></li>
+               <li class="dj-mobileitem itemid-3201"><a href="https://www.fdlp.gov/classification-guidelines/introduction-to-the-classification-guidelines">Superintendent of Documents Classification Guidelines</a></li>
+               <li class="dj-mobileitem itemid-530"><a href="/catalogingandclassification/cataloging-articles">Cataloging &amp; Indexing</a></li>
+               <li class="dj-mobileitem itemid-2970"><a href="/catalogingandclassification/regional-depositories-oclc-holding-symbols-to-gpo-cataloging">Regional Depositories’ OCLC Holding Symbols to GPO Cataloging</a></li>
+               <li class="dj-mobileitem itemid-630"><a href="http://catalog.gpo.gov/" target="_blank"><em class="fa fa-external-link" aria-hidden="true"></em><span class="image-title">Catalog of U.S. Government Publications</span></a></li>
+               <li class="dj-mobileitem itemid-3289"><a href="/catalogingandclassification/sources-of-gpo-cataloging-records">Sources of GPO Cataloging Records</a></li>
+               <li class="dj-mobileitem itemid-3418"><a href="/catalogingandclassification/cataloging-record-distribution-program">Cataloging Record Distribution Program</a></li>
+              </ul></li>
+            </ul> 
+           </div> 
+           <div class="dj-offcanvas-end" tabindex="0"></div> 
+          </aside> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <!-- Body --> 
+     <div class="body" id="page-body"> 
+      <div class="container"> 
+       <div id="system-message-container"> 
+       </div> 
+       <div class="row-fluid"> 
+        <div id="content" class="span9"> 
+         <!-- Begin Content --> 
+         <!--  --> 
+         <ul class="breadcrumb "> 
+          <li><a href="/classification-guidelines" class="pathway">Superintendent of Documents Classification Guidelines</a></li>
+          <li></li>
+          <li></li>
+          <li></li>
+         </ul> 
+         <article class="item-page"> 
+          <h1> Introduction to the Classification Guidelines </h1> 
+          <ul class="actions"> 
+           <li class="print-icon"> <a href="/classification-guidelines/introduction-to-the-classification-guidelines?tmpl=component&amp;print=1" title="Print article < Introduction to the Classification Guidelines >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"> <img src="/media/system/images/printButton.png" alt="Print"> </a> </li> 
+           <li class="email-icon"> <a href="/component/mailto/?tmpl=component&amp;template=fdlp&amp;link=815a695bcb50957053a1fdefc054660b1322b677" title="Email this link to a friend" onclick="window.open(this.href,'win2','width=400,height=450,menubar=yes,resizable=yes'); return false;" rel="nofollow"> <img src="/media/system/images/emailButton.png" alt="Email"> </a> </li> 
+          </ul> 
+          <dl class="article-info"> 
+           <dt class="article-info-term">
+            Details
+           </dt> 
+           <dd class="modified">
+             Last Updated: October 15 2018 
+           </dd> 
+           <dd class="published">
+             Published: September 18 2017 
+           </dd> 
+          </dl> 
+          <p>The <a href="http://www.fdlp.gov/about-the-fdlp/supdocs" title="Link to Superintendent of Documents">Superintendent of Documents</a> Classification Guidelines were developed by staff in the <a href="https://www.gpo.gov/" title="Link to U.S. Government Publishing Office" target="_blank" rel="noopener">U.S. Government Publishing Office</a> (GPO), Library Services and Content Management (LSCM), Library Technical Services section with assistance from staff throughout LSCM. These guidelines are a revision of the 1993 <a href="https://www.gpo.gov/fdsys/pkg/GOVPUB-GP3-803b10596f64810f505754f10095d01f/pdf/GOVPUB-GP3-803b10596f64810f505754f10095d01f.pdf" title="Link to GPO Classification Manual" target="_blank" rel="noopener">GPO Classification Manual</a>. The ongoing maintenance and revision of the Superintendent of Documents Classification Guidelines are the responsibility of the Cataloging Policy and Documentation Committee, Superintendent of Documents Classification Subcommittee. The Subcommittee operates within LSCM’s Library Technical Services section.</p> 
+          <p>GPO uses the Superintendent of Documents (SuDocs) classification system to classify Federal Government publications. The SuDocs Classification Guidelines describe how to apply that system to classify and organize Federal Government publications. The purpose of these guidelines is to convey the current policies for assigning SuDocs classification numbers. The principles of the SuDocs system apply to all U.S. Government publications, regardless of format.</p> 
+          <p>The U. S. Government disseminates a large number of publications each year. These may be issued as books, serials, pamphlets, maps, or other document type and may be in paper, microfiche, tangible electronic (CDs, DVDs), digital and online, or other format. Under U.S.C. 44, all of these publications, with certain exceptions, are included in the <a href="http://www.fdlp.gov/fdlp-basics" title="Link to Federal Depository Library Program">Federal Depository Library Program</a> (FDLP). All U.S. documents that are identified, acquired, and processed through the <a href="/catalogingandclassification/cataloging-articles" title="Link to Cataloging &amp; Indexing (C&amp;I) Program">Cataloging &amp; Indexing (C&amp;I) Program</a> or the FDLP are assigned a unique SuDocs classification number and cataloged, whether or not they are distributed to Federal depository libraries.</p> 
+          <p>The SuDocs system groups together the publications of all Government authors, with the various agencies, bureaus, and departments being considered the authors. It is based on the current organizational structure of the Federal Government; subordinate bureaus and divisions are grouped with the parent organization. Since the SuDocs system was introduced, new agencies have formed, older agencies have ceased, and organizational responsibilities have moved across agencies. Over time, the SuDocs system has been revised and expanded. As a result, publications of some issuing agencies may be located in multiple places in the scheme.</p> 
+          <p>Guidelines covering the formation and structure of SuDocs classification numbers have also changed over time. Publications have been assigned SuDocs classification numbers based upon the guidelines in effect at the time of cataloging. The <a href="https://catalog.gpo.gov/" title="Link to Catalog of U.S. Government Publications" target="_blank" rel="noopener">Catalog of U.S. Government Publications</a> contains classification numbers created under different guidelines at different times.</p> 
+          <p><span style="font-size: 11pt; font-family: Calibri, sans-serif;">The current SuDocs&nbsp;</span>Classification Guidelines will be published online only. Each section will include the date published and date last updated for reference. If you choose to print individual sections, keep in mind that the online version remains the most current and authoritative source for classification policies. Select prior guidelines are available in the Resources section under ‘Superseded Guidance.’ The Resources section is available from the menu on every page of the Guidelines.</p> 
+         </article> 
+         <!-- End Content --> 
+        </div> 
+        <div id="aside" class="span3 pull-right hidden-phone"> 
+         <div data-spy="affix-none" class="span2 rightside" data-offset-top="10"> 
+          <!-- Begin Right Sidebar --> 
+          <div class="moduletable"> 
+           <form action="/classification-guidelines/introduction-to-the-classification-guidelines" method="post" id="mls-form-mls_mod_434" class="form-inline mls-form default-theme fade-effect blue-skin" target="_blank"> 
+            <div class="mls-form-inner"> 
+             <div id="mls-parent-mls_mod_434" class="mls-parent">
+              <input name="searchword" id="mod-mls-searchword-mls_mod_434" maxlength="50" class="inputbox mls-query no-selector" type="text" placeholder="Search" autocomplete="off" onblur="if (this.value=='') this.value='Search';" onfocus="if (this.value=='Search') this.value='';" value="">
+              <div id="mls-loading-mls_mod_434" class="mls-loading">
+               <div class="mls-loading-cont"></div>
+              </div>
+              <div id="close-results-mls_mod_434" class="close-results">
+               <i class="fa fa-times"></i>
+              </div>
+             </div>
+             <button class="button btn btn-primary mod-mls-btn" onclick="this.form.searchword.focus();"><span>Go</span></button>
+             <div id="mls-results-cont-mls_mod_434" class="mls-results-cont">
+              <div id="mls-results-mls_mod_434" class="mls-results"></div>
+             </div> 
+             <input type="hidden" name="task" value="modSearch"> 
+             <input type="hidden" name="option" value="com_miniteklivesearch"> 
+             <input type="hidden" name="Itemid" value="4169"> 
+            </div> 
+           </form> 
+          </div> 
+          <div class="moduletable"> 
+           <div id="nextend-accordion-menu-373" class=""> 
+            <div class="nextend-accordion-menu-inner "> 
+             <div class="title"> 
+              <h3>Superintendent of Documents Classification Guidelines</h3> 
+             </div> 
+             <div class="nextend-accordion-menu-inner-container"> 
+              <dl class="level1 "> 
+               <dt class="level1 nextend-nav-3190 notparent opened active first" data-menuid="3190"> 
+                <span class="outer"> <span class="inner"> <a href="/classification-guidelines/introduction-to-the-classification-guidelines"><span>Introduction to the Classification Guidelines</span></a> </span> </span> 
+               </dt> 
+               <dd class="level1 nextend-nav-3190 notparent opened active first"> 
+               </dd> 
+               <dt class="level1 nextend-nav-3191 notparent  " data-menuid="3191"> 
+                <span class="outer"> <span class="inner"> <a href="/classification-guidelines/the-classification-system-a-brief-history"><span>The Classification System: A Brief History</span></a> </span> </span> 
+               </dt> 
+               <dd class="level1 nextend-nav-3191 notparent  "> 
+               </dd> 
+               <dt class="level1 nextend-nav-3192 parent  " data-menuid="3192"> 
+                <span class="outer"> <span class="inner"> <a href="/classification-guidelines/structure-of-the-classification-number"><span>Structure of the Classification Number</span></a> </span> </span> 
+               </dt> 
+               <dd class="level1 nextend-nav-3192 parent  "> 
+                <dl class="level2 "> 
+                 <dt class="level2 nextend-nav-3422 parent   first last" data-menuid="3422"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/structure-of-the-classification-number#scnsorting"><span>Sorting in SuDocs Order</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3422 parent   first last"> 
+                  <dl class="level3 "> 
+                   <dt class="level3 nextend-nav-3423 notparent   first last" data-menuid="3423"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/structure-of-the-classification-number#scnexample"><span>Example of a SuDocs Sort</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3423 notparent   first last"> 
+                   </dd>
+                  </dl>
+                 </dd>
+                </dl>
+               </dd> 
+               <dt class="level1 nextend-nav-3193 parent  " data-menuid="3193"> 
+                <span class="outer"> <span class="inner"> <a href="/classification-guidelines/class-stem-structure"><span>Class Stems </span></a> </span> </span> 
+               </dt> 
+               <dd class="level1 nextend-nav-3193 parent  "> 
+                <dl class="level2 "> 
+                 <dt class="level2 nextend-nav-3202 notparent   first" data-menuid="3202"> 
+                  <span class="outer"> <span class="inner"> <a href="/classification-guidelines/class-stem-structure/letter-author-symbols"><span>Letter Author Symbols</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3202 notparent   first"> 
+                 </dd> 
+                 <dt class="level2 nextend-nav-3203 notparent  " data-menuid="3203"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/class-stem-structure#cssnew"><span>New Agency Classes</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3203 notparent  "> 
+                 </dd> 
+                 <dt class="level2 nextend-nav-3204 notparent  " data-menuid="3204"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/class-stem-structure#cssjoint"><span>Joint Publications from Different Agencies</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3204 notparent  "> 
+                 </dd> 
+                 <dt class="level2 nextend-nav-3205 notparent  " data-menuid="3205"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/class-stem-structure#csspublications"><span>Publications Prepared by One Agency for Another</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3205 notparent  "> 
+                 </dd> 
+                 <dt class="level2 nextend-nav-3206 notparent  " data-menuid="3206"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/class-stem-structure#cssserial"><span>Serials with Changing Publishers</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3206 notparent  "> 
+                 </dd> 
+                 <dt class="level2 nextend-nav-3207 notparent  " data-menuid="3207"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/class-stem-structure#cssseries"><span>Joint Publications Issued in Series</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3207 notparent  "> 
+                 </dd> 
+                 <dt class="level2 nextend-nav-3208 parent   last" data-menuid="3208"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/class-stem-structure#csssubordinate"><span>Subordinate Offices</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3208 parent   last"> 
+                  <dl class="level3 "> 
+                   <dt class="level3 nextend-nav-3228 notparent   first" data-menuid="3228"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/class-stem-structure#cssfirst"><span>First and Second Levels</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3228 notparent   first"> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3229 notparent  " data-menuid="3229"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/class-stem-structure#cssassignment"><span>Assignment of Classes</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3229 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3230 notparent  " data-menuid="3230"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/class-stem-structure#cssthird"><span>Third and Fourth Levels</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3230 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3231 notparent  " data-menuid="3231"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/class-stem-structure#cssjointpubs"><span>Joint Publications from Different Subagencies</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3231 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3232 notparent   last" data-menuid="3232"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/class-stem-structure#cssname"><span>Name Changes and Reorganizations</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3232 notparent   last"> 
+                   </dd>
+                  </dl>
+                 </dd>
+                </dl>
+               </dd> 
+               <dt class="level1 nextend-nav-3194 parent  " data-menuid="3194"> 
+                <span class="outer"> <span class="inner"> <a href="/classification-guidelines/category-classes"><span>Category Classes</span></a> </span> </span> 
+               </dt> 
+               <dd class="level1 nextend-nav-3194 parent  "> 
+                <dl class="level2 "> 
+                 <dt class="level2 nextend-nav-3209 parent   first" data-menuid="3209"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/category-classes#ccmost"><span>Most Frequently Used Category Classes</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3209 parent   first"> 
+                  <dl class="level3 "> 
+                   <dt class="level3 nextend-nav-3233 notparent   first" data-menuid="3233"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/category-classes#cc1"><span>.1 - Annual reports</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3233 notparent   first"> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3234 notparent  " data-menuid="3234"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/category-classes#cc2"><span>.2 - General publications</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3234 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3235 notparent  " data-menuid="3235"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/category-classes#cc8"><span>.8 - Handbooks, manuals, and guides</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3235 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3236 notparent  " data-menuid="3236"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/category-classes#cc11"><span>.11 - Maps and Charts</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3236 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3237 notparent   last" data-menuid="3237"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/category-classes#cc12"><span>.12 - Posters</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3237 notparent   last"> 
+                   </dd>
+                  </dl>
+                 </dd> 
+                 <dt class="level2 nextend-nav-3210 parent   last" data-menuid="3210"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/category-classes#ccless"><span>Less Frequent Category Classes</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3210 parent   last"> 
+                  <dl class="level3 "> 
+                   <dt class="level3 nextend-nav-3238 notparent   first" data-menuid="3238"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/category-classes#cc3"><span>.3 - Bulletins</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3238 notparent   first"> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3239 notparent  " data-menuid="3239"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/category-classes#cc4"><span>.4 - Circulars</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3239 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3240 notparent  " data-menuid="3240"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/category-classes#cc5"><span>.5 - Laws</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3240 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3241 notparent  " data-menuid="3241"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/category-classes#cc6"><span>.6 - Regulations, rules, and instructions</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3241 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3242 notparent  " data-menuid="3242"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/category-classes#cc7"><span>.7 - Press releases</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3242 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3243 notparent  " data-menuid="3243"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/category-classes#cc9"><span>.9 - Bibliographies and Lists of Publications</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3243 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3244 notparent  " data-menuid="3244"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/category-classes#cc10"><span>.10 - Directories</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3244 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3245 notparent  " data-menuid="3245"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/category-classes#cc13"><span>.13 - Forms</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3245 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3246 notparent   last" data-menuid="3246"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/category-classes#cc14"><span>.14 - Addresses</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3246 notparent   last"> 
+                   </dd>
+                  </dl>
+                 </dd>
+                </dl>
+               </dd> 
+               <dt class="level1 nextend-nav-3426 parent  " data-menuid="3426"> 
+                <span class="outer"> <span class="inner"> <a href="/classification-guidelines/cutters-numbers"><span>Cutter Numbers</span></a> </span> </span> 
+               </dt> 
+               <dd class="level1 nextend-nav-3426 parent  "> 
+                <dl class="level2 "> 
+                 <dt class="level2 nextend-nav-3427 parent   first" data-menuid="3427"> 
+                  <span class="outer"> <span class="inner"> <a href="/classification-guidelines/cutters-numbers/book-numbers"><span>Cutter Table and Its Use</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3427 parent   first"> 
+                  <dl class="level3 "> 
+                   <dt class="level3 nextend-nav-3902 notparent   first" data-menuid="3902"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/cutters-numbers#cnfiling"><span>Filing Order for Cutter Numbers </span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3902 notparent   first"> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3903 notparent  " data-menuid="3903"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/cutters-numbers#cnslash"><span>Slash Numbers </span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3903 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3904 notparent  " data-menuid="3904"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/cutters-numbers#cnselecting"><span>Selecting Cutter Words </span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3904 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3905 notparent  " data-menuid="3905"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/cutters-numbers#cnwords"><span>Words to Avoid when Cuttering </span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3905 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3906 notparent  " data-menuid="3906"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/cutters-numbers#cnsets"><span>Sets With a Collective Title </span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3906 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3907 notparent  " data-menuid="3907"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/cutters-numbers#cnforeign"><span>Foreign Language Editions </span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3907 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3908 notparent  " data-menuid="3908"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/cutters-numbers#cnnumbers"><span>Numbers in Titles </span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3908 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3909 notparent   last" data-menuid="3909"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/cutters-numbers#cncuttering"><span>Cuttering Acronyms and Initialisms </span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3909 notparent   last"> 
+                   </dd>
+                  </dl>
+                 </dd> 
+                 <dt class="level2 nextend-nav-3915 parent   last" data-menuid="3915"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/cutters-numbers#cngeotopics"><span>Cuttering: Geographic Topics</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3915 parent   last"> 
+                  <dl class="level3 "> 
+                   <dt class="level3 nextend-nav-3910 notparent   first" data-menuid="3910"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/cutters-numbers#cnrelated"><span>Cuttering Related Documents Covering the Same Subject but Different </span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3910 notparent   first"> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3911 notparent  " data-menuid="3911"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/cutters-numbers#cngeneral"><span>General Subjects and Geographic Terms </span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3911 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3912 notparent  " data-menuid="3912"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/cutters-numbers#cngeo"><span>Cuttering Geographic Terms Using Personal Names </span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3912 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3913 notparent  " data-menuid="3913"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/cutters-numbers#cnmaps"><span>Maps</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3913 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3914 notparent  " data-menuid="3914"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/cutters-numbers#cnmulti"><span>Cuttering Multi-Part Geographic Names </span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3914 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3429 parent   last" data-menuid="3429"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/cutters-numbers#cnstatecn"><span>State Cutter Numbers</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3429 parent   last"> 
+                    <dl class="level4 "> 
+                     <dt class="level4 nextend-nav-3916 notparent   first last" data-menuid="3916"> 
+                      <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/cutters-numbers#cnstates"><span>State Cutter Numbers Table</span></a> </span> </span> 
+                     </dt> 
+                     <dd class="level4 nextend-nav-3916 notparent   first last"> 
+                     </dd>
+                    </dl>
+                   </dd>
+                  </dl>
+                 </dd>
+                </dl>
+               </dd> 
+               <dt class="level1 nextend-nav-3199 parent  " data-menuid="3199"> 
+                <span class="outer"> <span class="inner"> <a href="/classification-guidelines/additions-to-book-numbers"><span>Additions to Book Numbers</span></a> </span> </span> 
+               </dt> 
+               <dd class="level1 nextend-nav-3199 parent  "> 
+                <dl class="level2 "> 
+                 <dt class="level2 nextend-nav-3971 parent   first" data-menuid="3971"> 
+                  <span class="outer"> <span class="inner"> <a href="/classification-guidelines/additions-to-book-numbers/dates"><span>Dates</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3971 parent   first"> 
+                  <dl class="level3 "> 
+                   <dt class="level3 nextend-nav-3972 notparent   first" data-menuid="3972"> 
+                    <span class="outer"> <span class="inner"> <a href="/classification-guidelines/additions-to-book-numbers/dates/year-format"><span>Year Format</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3972 notparent   first"> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3973 notparent  " data-menuid="3973"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/additions-to-book-numbers#addrevised"><span>Dates for Revised Editions</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3973 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3974 notparent   last" data-menuid="3974"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/additions-to-book-numbers#addpunctuation"><span>Punctuation in Dates or Date Ranges</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3974 notparent   last"> 
+                   </dd>
+                  </dl>
+                 </dd> 
+                 <dt class="level2 nextend-nav-3975 parent  " data-menuid="3975"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/additions-to-book-numbers#addvolume"><span>Volume, Part, Chapter, and Section Numbers</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3975 parent  "> 
+                  <dl class="level3 "> 
+                   <dt class="level3 nextend-nav-3976 parent   first last" data-menuid="3976"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/additions-to-book-numbers#addvolno"><span>Volume Number and Date: Which Comes First?</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3976 parent   first last"> 
+                    <dl class="level4 "> 
+                     <dt class="level4 nextend-nav-3977 notparent   first" data-menuid="3977"> 
+                      <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/additions-to-book-numbers#addfollowed "><span>Volume Number Followed by Date</span></a> </span> </span> 
+                     </dt> 
+                     <dd class="level4 nextend-nav-3977 notparent   first"> 
+                     </dd> 
+                     <dt class="level4 nextend-nav-3978 notparent   last" data-menuid="3978"> 
+                      <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/additions-to-book-numbers#aaddate"><span>Date Followed by Volume Number</span></a> </span> </span> 
+                     </dt> 
+                     <dd class="level4 nextend-nav-3978 notparent   last"> 
+                     </dd>
+                    </dl>
+                   </dd>
+                  </dl>
+                 </dd> 
+                 <dt class="level2 nextend-nav-3979 parent  " data-menuid="3979"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/additions-to-book-numbers#addwords"><span>Words and Abbreviations</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3979 parent  "> 
+                  <dl class="level3 "> 
+                   <dt class="level3 nextend-nav-3224 notparent   first" data-menuid="3224"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/additions-to-book-numbers#addforeign"><span>Foreign-language Publications</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3224 notparent   first"> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3419 notparent  " data-menuid="3419"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/additions-to-book-numbers#addmultiple"><span>Multiple Word Phrases in a Suffix</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3419 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3225 notparent  " data-menuid="3225"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/additions-to-book-numbers#addformat"><span>Multiple Versions of a Publication</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3225 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3980 notparent   last" data-menuid="3980"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/additions-to-book-numbers#addcorrect"><span>Corrected Copies of Numbered Volumes</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3980 notparent   last"> 
+                   </dd>
+                  </dl>
+                 </dd> 
+                 <dt class="level2 nextend-nav-3226 notparent  " data-menuid="3226"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/additions-to-book-numbers#addstandard"><span>Standard Abbreviations and Words</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3226 notparent  "> 
+                 </dd> 
+                 <dt class="level2 nextend-nav-3227 notparent   last" data-menuid="3227"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/additions-to-book-numbers#addstate"><span>State Abbreviations</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3227 notparent   last"> 
+                 </dd>
+                </dl>
+               </dd> 
+               <dt class="level1 nextend-nav-3195 parent  " data-menuid="3195"> 
+                <span class="outer"> <span class="inner"> <a href="/classification-guidelines/classes-by-publication-type"><span>Classes by Publication Type</span></a> </span> </span> 
+               </dt> 
+               <dd class="level1 nextend-nav-3195 parent  "> 
+                <dl class="level2 "> 
+                 <dt class="level2 nextend-nav-3211 notparent   first" data-menuid="3211"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/classes-by-publication-type#cptcorrections"><span>Corrections</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3211 notparent   first"> 
+                 </dd> 
+                 <dt class="level2 nextend-nav-3212 notparent  " data-menuid="3212"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/classes-by-publication-type#cptcerrata"><span>Errata</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3212 notparent  "> 
+                 </dd> 
+                 <dt class="level2 nextend-nav-3213 notparent  " data-menuid="3213"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/classes-by-publication-type#cptpreliminary"><span>Preliminary, Draft, and Final Reports</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3213 notparent  "> 
+                 </dd> 
+                 <dt class="level2 nextend-nav-3214 notparent  " data-menuid="3214"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/classes-by-publication-type#cptreprints"><span>Reprints</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3214 notparent  "> 
+                 </dd> 
+                 <dt class="level2 nextend-nav-3215 notparent  " data-menuid="3215"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/classes-by-publication-type#cptpreprints"><span>Preprints and Separates</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3215 notparent  "> 
+                 </dd> 
+                 <dt class="level2 nextend-nav-3216 notparent  " data-menuid="3216"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/classes-by-publication-type#cptsummaries"><span>Summaries and Executive Summaries</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3216 notparent  "> 
+                 </dd> 
+                 <dt class="level2 nextend-nav-3217 notparent  " data-menuid="3217"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/classes-by-publication-type#cptelectronic"><span>Electronic Products</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3217 notparent  "> 
+                 </dd> 
+                 <dt class="level2 nextend-nav-3218 notparent   last" data-menuid="3218"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/classes-by-publication-type#cptsets"><span>Sets with Multiple Publication Types</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3218 notparent   last"> 
+                 </dd>
+                </dl>
+               </dd> 
+               <dt class="level1 nextend-nav-3516 parent  " data-menuid="3516"> 
+                <span class="outer"> <span class="inner"> <a href="/classification-guidelines/monographic-series"><span>Monographic Series</span></a> </span> </span> 
+               </dt> 
+               <dd class="level1 nextend-nav-3516 parent  "> 
+                <dl class="level2 "> 
+                 <dt class="level2 nextend-nav-3517 notparent   first" data-menuid="3517"> 
+                  <span class="outer"> <span class="inner"> <a href="/classification-guidelines/monographic-series/monographic-series-2"><span>Identifying a Monographic Series</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3517 notparent   first"> 
+                 </dd> 
+                 <dt class="level2 nextend-nav-3518 parent  " data-menuid="3518"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/monographic-series#msassign"><span>Assigning New Series Classes</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3518 parent  "> 
+                  <dl class="level3 "> 
+                   <dt class="level3 nextend-nav-3967 notparent   first last" data-menuid="3967"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/monographic-series#msseries"><span>Series Related to Existing Classes by Subject</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3967 notparent   first last"> 
+                   </dd>
+                  </dl>
+                 </dd> 
+                 <dt class="level2 nextend-nav-3969 notparent  " data-menuid="3969"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/monographic-series#msstructure"><span>Structure of the Series Class</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3969 notparent  "> 
+                 </dd> 
+                 <dt class="level2 nextend-nav-3968 notparent  " data-menuid="3968"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/monographic-series#msdept"><span>Departmental Series vs. Bureau Series </span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3968 notparent  "> 
+                 </dd> 
+                 <dt class="level2 nextend-nav-3519 parent  " data-menuid="3519"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/monographic-series#msnumbering"><span>Series Book Numbers</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3519 parent  "> 
+                  <dl class="level3 "> 
+                   <dt class="level3 nextend-nav-3525 notparent   first" data-menuid="3525"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/monographic-series#msbook"><span>Series Numbering</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3525 notparent   first"> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3523 notparent  " data-menuid="3523"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/monographic-series#msunusal"><span>Unusual Series Numbering</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3523 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3524 notparent  " data-menuid="3524"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/monographic-series#msrevised"><span>Series Numbering and Revised Editions</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3524 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3526 notparent  " data-menuid="3526"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/monographic-series#mssystem"><span>Numbering system changes</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3526 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3527 notparent  " data-menuid="3527"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/monographic-series#mstwo"><span>Two series on one publication</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3527 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3528 notparent   last" data-menuid="3528"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/monographic-series#mscontrol"><span>Series number vs. Agency control number</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3528 notparent   last"> 
+                   </dd>
+                  </dl>
+                 </dd> 
+                 <dt class="level2 nextend-nav-3520 notparent  " data-menuid="3520"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/monographic-series#msdesignations"><span>Letters and Phrases Appearing on Publications</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3520 notparent  "> 
+                 </dd> 
+                 <dt class="level2 nextend-nav-3522 notparent  " data-menuid="3522"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/monographic-series#msvolumes"><span>Volumes, Parts, or Sections</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3522 notparent  "> 
+                 </dd> 
+                 <dt class="level2 nextend-nav-3521 parent   last" data-menuid="3521"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/monographic-series#mspublications"><span>Publications Which Are Not Serials or Series</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3521 parent   last"> 
+                  <dl class="level3 "> 
+                   <dt class="level3 nextend-nav-3587 notparent   first" data-menuid="3587"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/monographic-series#msmulti"><span>Multipart Monographs versus Series</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3587 notparent   first"> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3588 notparent   last" data-menuid="3588"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/monographic-series#msother"><span>Other Situations</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3588 notparent   last"> 
+                   </dd>
+                  </dl>
+                 </dd>
+                </dl>
+               </dd> 
+               <dt class="level1 nextend-nav-3592 parent  " data-menuid="3592"> 
+                <span class="outer"> <span class="inner"> <a href="/classification-guidelines/continuing-resources"><span>Continuing Resources</span></a> </span> </span> 
+               </dt> 
+               <dd class="level1 nextend-nav-3592 parent  "> 
+                <dl class="level2 "> 
+                 <dt class="level2 nextend-nav-3593 notparent   first" data-menuid="3593"> 
+                  <span class="outer"> <span class="inner"> <a href="/classification-guidelines/continuing-resources/identifying-a-continuing-resource"><span>Identifying a Continuing Resource</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3593 notparent   first"> 
+                 </dd> 
+                 <dt class="level2 nextend-nav-3594 notparent  " data-menuid="3594"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/continuing-resources#crserials"><span>Serials </span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3594 notparent  "> 
+                 </dd> 
+                 <dt class="level2 nextend-nav-3595 notparent  " data-menuid="3595"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/continuing-resources#crintegrating"><span>Integrating Resources </span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3595 notparent  "> 
+                 </dd> 
+                 <dt class="level2 nextend-nav-3596 parent  " data-menuid="3596"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/continuing-resources#crassign"><span>Assigning New Continuing Resource Classes </span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3596 parent  "> 
+                  <dl class="level3 "> 
+                   <dt class="level3 nextend-nav-3597 notparent   first" data-menuid="3597"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/continuing-resources#crcategory"><span>Works Related to Category Classes </span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3597 notparent   first"> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3598 notparent  " data-menuid="3598"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/continuing-resources#crsubject"><span>Works Related to Existing Classes by Subject </span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3598 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3599 notparent  " data-menuid="3599"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/continuing-resources#crnew"><span>New Classes to Reflect Changes for Existing Serials</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3599 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3962 notparent  " data-menuid="3962"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/continuing-resources#crseparate"><span>Serials within Series: Separate Class Approach</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3962 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3963 notparent   last" data-menuid="3963"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/continuing-resources#crconstant"><span>Serials with a Constant Series Number</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3963 notparent   last"> 
+                   </dd>
+                  </dl>
+                 </dd> 
+                 <dt class="level2 nextend-nav-3600 parent  " data-menuid="3600"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/continuing-resources#crcuttering"><span>Cuttering a Serial or, When Not to Establish a New Class Stem for a Serial</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3600 parent  "> 
+                  <dl class="level3 "> 
+                   <dt class="level3 nextend-nav-3601 notparent   first" data-menuid="3601"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/continuing-resources#crnapproach"><span>Serials within Series: Cuttering Approach</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3601 notparent   first"> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3964 notparent  " data-menuid="3964"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/continuing-resources#crpubs"><span>Publications of Short Duration </span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3964 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3965 notparent   last" data-menuid="3965"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/continuing-resources#crcases"><span>Other cases for Cuttering</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3965 notparent   last"> 
+                   </dd>
+                  </dl>
+                 </dd> 
+                 <dt class="level2 nextend-nav-3602 parent  " data-menuid="3602"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/continuing-resources#crdesignation"><span>Serials Designation </span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3602 parent  "> 
+                  <dl class="level3 "> 
+                   <dt class="level3 nextend-nav-3603 notparent   first" data-menuid="3603"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/continuing-resources#number1"><span>Number 1 for First Month Appears Annually </span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3603 notparent   first"> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3604 notparent  " data-menuid="3604"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/continuing-resources#crndateinc"><span>Date incorporated in Series Number </span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3604 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3605 notparent   last" data-menuid="3605"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/continuing-resources#crvolume"><span>Volume and Number </span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3605 notparent   last"> 
+                   </dd>
+                  </dl>
+                 </dd> 
+                 <dt class="level2 nextend-nav-3606 parent  " data-menuid="3606"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/continuing-resources#crdate"><span>Date</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3606 parent  "> 
+                  <dl class="level3 "> 
+                   <dt class="level3 nextend-nav-3607 notparent   first" data-menuid="3607"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/continuing-resources#crannual"><span>Annual Publications </span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3607 notparent   first"> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3608 notparent  " data-menuid="3608"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/continuing-resources#crsemiannual"><span>Semiannual Publications </span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3608 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3609 notparent  " data-menuid="3609"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/continuing-resources#crissued"><span>Publications Issued Three or More Times a Year </span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3609 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3610 notparent  " data-menuid="3610"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/continuing-resources#crvariations"><span>Variations in Publication Cycles </span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3610 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3611 notparent   last" data-menuid="3611"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/continuing-resources#crrelease"><span>Release Date vs. Coverage Date </span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3611 notparent   last"> 
+                   </dd>
+                  </dl>
+                 </dd> 
+                 <dt class="level2 nextend-nav-3612 parent  " data-menuid="3612"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/continuing-resources#crspecial"><span>Special Issues of Serials </span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3612 parent  "> 
+                  <dl class="level3 "> 
+                   <dt class="level3 nextend-nav-3613 notparent   first" data-menuid="3613"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/continuing-resources#crsupplements"><span>Supplements</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3613 notparent   first"> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3614 parent   last" data-menuid="3614"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/continuing-resources#crindexes"><span>Indexes</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3614 parent   last"> 
+                    <dl class="level4 "> 
+                     <dt class="level4 nextend-nav-3615 notparent   first last" data-menuid="3615"> 
+                      <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/continuing-resources#crnumbers"><span>Numbers </span></a> </span> </span> 
+                     </dt> 
+                     <dd class="level4 nextend-nav-3615 notparent   first last"> 
+                     </dd>
+                    </dl>
+                   </dd>
+                  </dl>
+                 </dd> 
+                 <dt class="level2 nextend-nav-3616 notparent   last" data-menuid="3616"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/continuing-resources#crfrequently"><span>Frequently Revised Monographs Cataloged as Serials</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3616 notparent   last"> 
+                 </dd>
+                </dl>
+               </dd> 
+               <dt class="level1 nextend-nav-3197 parent  " data-menuid="3197"> 
+                <span class="outer"> <span class="inner"> <a href="/classification-guidelines/presidential-publications"><span>Presidential Publications</span></a> </span> </span> 
+               </dt> 
+               <dd class="level1 nextend-nav-3197 parent  "> 
+                <dl class="level2 "> 
+                 <dt class="level2 nextend-nav-3220 notparent   first" data-menuid="3220"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/presidential-publications#pppresidentialcommittees"><span>Presidential Committees and Commissions</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3220 notparent   first"> 
+                 </dd> 
+                 <dt class="level2 nextend-nav-3221 notparent  " data-menuid="3221"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/presidential-publications#pppresidentialcommissions"><span>Presidential Commissions vs Presidential Initiatives</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3221 notparent  "> 
+                 </dd> 
+                 <dt class="level2 nextend-nav-3222 notparent  " data-menuid="3222"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/presidential-publications#pppermanentagencies"><span>Permanent Agencies Reporting to the President</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3222 notparent  "> 
+                 </dd> 
+                 <dt class="level2 nextend-nav-3223 notparent   last" data-menuid="3223"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/presidential-publications#ppvicepresident"><span>Vice President of the United States</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3223 notparent   last"> 
+                 </dd>
+                </dl>
+               </dd> 
+               <dt class="level1 nextend-nav-3196 parent  " data-menuid="3196"> 
+                <span class="outer"> <span class="inner"> <a href="/classification-guidelines/congressional-and-legislative-branch-publications"><span>Congressional and Legislative Branch Publications</span></a> </span> </span> 
+               </dt> 
+               <dd class="level1 nextend-nav-3196 parent  "> 
+                <dl class="level2 "> 
+                 <dt class="level2 nextend-nav-3247 parent   first" data-menuid="3247"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/congressional-and-legislative-branch-publications#clbpy4"><span>Y 4. - Congressional Committee Publications</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3247 parent   first"> 
+                  <dl class="level3 "> 
+                   <dt class="level3 nextend-nav-3259 notparent   first" data-menuid="3259"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/congressional-and-legislative-branch-publications#clbpconstructing"><span>Constructing the Committee Designation</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3259 notparent   first"> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3260 parent  " data-menuid="3260"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/congressional-and-legislative-branch-publications#clbpreorganized"><span>Reorganized Committees and Name Changes</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3260 parent  "> 
+                    <dl class="level4 "> 
+                     <dt class="level4 nextend-nav-3261 notparent   first last" data-menuid="3261"> 
+                      <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/congressional-and-legislative-branch-publications#clbpy4committee"><span>Y 4. Committee Print or Y 1. Report?</span></a> </span> </span> 
+                     </dt> 
+                     <dd class="level4 nextend-nav-3261 notparent   first last"> 
+                     </dd>
+                    </dl>
+                   </dd> 
+                   <dt class="level3 nextend-nav-3262 notparent  " data-menuid="3262"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/congressional-and-legislative-branch-publications#clbpjoint"><span>Joint Hearings</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3262 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3263 notparent  " data-menuid="3263"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/congressional-and-legislative-branch-publications#clbppublications"><span>Publications Prepared by One Committee for the Use of Another</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3263 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3264 parent   last" data-menuid="3264"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/congressional-and-legislative-branch-publications#clbpindividual"><span>Individual Book Numbers</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3264 parent   last"> 
+                    <dl class="level4 "> 
+                     <dt class="level4 nextend-nav-3265 parent   first" data-menuid="3265"> 
+                      <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/congressional-and-legislative-branch-publications#clbphouse"><span>House Book Numbers</span></a> </span> </span> 
+                     </dt> 
+                     <dd class="level4 nextend-nav-3265 parent   first"> 
+                      <dl class="level5 "> 
+                       <dt class="level5 nextend-nav-3266 notparent   first last" data-menuid="3266"> 
+                        <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/congressional-and-legislative-branch-publications#clbpnumbered"><span>Numbered and Unnumbered Documents in One Class</span></a> </span> </span> 
+                       </dt> 
+                       <dd class="level5 nextend-nav-3266 notparent   first last"> 
+                       </dd>
+                      </dl>
+                     </dd> 
+                     <dt class="level4 nextend-nav-3268 notparent  " data-menuid="3268"> 
+                      <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/congressional-and-legislative-branch-publications#clbpsenate"><span>Senate Book Numbers</span></a> </span> </span> 
+                     </dt> 
+                     <dd class="level4 nextend-nav-3268 notparent  "> 
+                     </dd> 
+                     <dt class="level4 nextend-nav-3269 notparent  " data-menuid="3269"> 
+                      <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/congressional-and-legislative-branch-publications#clbpcutter"><span>Cutter Numbers</span></a> </span> </span> 
+                     </dt> 
+                     <dd class="level4 nextend-nav-3269 notparent  "> 
+                     </dd> 
+                     <dt class="level4 nextend-nav-3270 notparent  " data-menuid="3270"> 
+                      <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/congressional-and-legislative-branch-publications#clbpmultipart"><span>Multipart Works</span></a> </span> </span> 
+                     </dt> 
+                     <dd class="level4 nextend-nav-3270 notparent  "> 
+                     </dd> 
+                     <dt class="level4 nextend-nav-3271 notparent   last" data-menuid="3271"> 
+                      <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/congressional-and-legislative-branch-publications#clbperrors"><span>Errors in Numbering on Publications</span></a> </span> </span> 
+                     </dt> 
+                     <dd class="level4 nextend-nav-3271 notparent   last"> 
+                     </dd>
+                    </dl>
+                   </dd>
+                  </dl>
+                 </dd> 
+                 <dt class="level2 nextend-nav-3253 parent  " data-menuid="3253"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/congressional-and-legislative-branch-publications#clbpy1congress"><span>Y 1.-: - Congress as a Whole, House and Senate as a Whole</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3253 parent  "> 
+                  <dl class="level3 "> 
+                   <dt class="level3 nextend-nav-3272 notparent   first" data-menuid="3272"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/congressional-and-legislative-branch-publications#clbpindividual"><span>Individual Book Numbers</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3272 notparent   first"> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3273 notparent  " data-menuid="3273"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/congressional-and-legislative-branch-publications#clbpnumberedh"><span>House and Senate Documents and Reports</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3273 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3274 notparent  " data-menuid="3274"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/congressional-and-legislative-branch-publications#clbpy112us"><span>Y 1.1/2: - U. S. Congressional Serial Set</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3274 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3275 notparent   last" data-menuid="3275"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/congressional-and-legislative-branch-publications#clbpy125united"><span>Y 1.2/5: - United States Code</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3275 notparent   last"> 
+                   </dd>
+                  </dl>
+                 </dd> 
+                 <dt class="level2 nextend-nav-4481 parent  " data-menuid="4481"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/congressional-and-legislative-branch-publications#clbpbci"><span>Boards, Commissions, and Independent or Temporary Committees Established by Congress</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-4481 parent  "> 
+                  <dl class="level3 "> 
+                   <dt class="level3 nextend-nav-4482 parent   first" data-menuid="4482"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/congressional-and-legislative-branch-publications#clbpexec"><span> Boards, Commissions, and Committees Established within the Executive Branch</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-4482 parent   first"> 
+                    <dl class="level4 "> 
+                     <dt class="level4 nextend-nav-4483 notparent   first last" data-menuid="4483"> 
+                      <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/congressional-and-legislative-branch-publications#clbp12"><span>Executive Branch Independent Agencies with Limited Duration or Publishing Output</span></a> </span> </span> 
+                     </dt> 
+                     <dd class="level4 nextend-nav-4483 notparent   first last"> 
+                     </dd>
+                    </dl>
+                   </dd> 
+                   <dt class="level3 nextend-nav-3254 parent   last" data-menuid="3254"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/congressional-and-legislative-branch-publications#clbpboards"><span>Y 3. - Boards, Commissions, and Independent or Temporary Committees</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3254 parent   last"> 
+                    <dl class="level4 "> 
+                     <dt class="level4 nextend-nav-3276 notparent   first" data-menuid="3276"> 
+                      <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/congressional-and-legislative-branch-publications#clbpagency"><span>Agency Designations</span></a> </span> </span> 
+                     </dt> 
+                     <dd class="level4 nextend-nav-3276 notparent   first"> 
+                     </dd> 
+                     <dt class="level4 nextend-nav-3277 notparent  " data-menuid="3277"> 
+                      <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/congressional-and-legislative-branch-publications#clbpcategory"><span>Category and Series Designations</span></a> </span> </span> 
+                     </dt> 
+                     <dd class="level4 nextend-nav-3277 notparent  "> 
+                     </dd> 
+                     <dt class="level4 nextend-nav-3278 notparent  " data-menuid="3278"> 
+                      <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/congressional-and-legislative-branch-publications#clbprelated"><span>Related Series or Subjects</span></a> </span> </span> 
+                     </dt> 
+                     <dd class="level4 nextend-nav-3278 notparent  "> 
+                     </dd> 
+                     <dt class="level4 nextend-nav-3279 notparent  " data-menuid="3279"> 
+                      <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/congressional-and-legislative-branch-publications#clbpindividualb"><span>Individual Book Numbers</span></a> </span> </span> 
+                     </dt> 
+                     <dd class="level4 nextend-nav-3279 notparent  "> 
+                     </dd> 
+                     <dt class="level4 nextend-nav-3280 notparent   last" data-menuid="3280"> 
+                      <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/congressional-and-legislative-branch-publications#clbpy32"><span>Y 3.2: - Limited Boards, Commissions, and Independent Committees</span></a> </span> </span> 
+                     </dt> 
+                     <dd class="level4 nextend-nav-3280 notparent   last"> 
+                     </dd>
+                    </dl>
+                   </dd>
+                  </dl>
+                 </dd> 
+                 <dt class="level2 nextend-nav-4498 notparent  " data-menuid="4498"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/congressional-and-legislative-branch-publications#clbpy42"><span>Y 4.2: and Y 4.3: - Select and Special Committees (As Appointed) </span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-4498 notparent  "> 
+                 </dd> 
+                 <dt class="level2 nextend-nav-4499 notparent  " data-menuid="4499"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/congressional-and-legislative-branch-publications#clbpspeech"><span>Y 9. - Speeches </span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-4499 notparent  "> 
+                 </dd> 
+                 <dt class="level2 nextend-nav-3255 notparent  " data-menuid="3255"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/congressional-and-legislative-branch-publications#clbpy10y11"><span>Y 10: and Y 11: - Subordinate Offices</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3255 notparent  "> 
+                 </dd> 
+                 <dt class="level2 nextend-nav-3256 notparent  " data-menuid="3256"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/congressional-and-legislative-branch-publications#clbpx11"><span>X 1.1: - Congressional Record</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3256 notparent  "> 
+                 </dd> 
+                 <dt class="level2 nextend-nav-3257 notparent  " data-menuid="3257"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/congressional-and-legislative-branch-publications#clbpxjh"><span>XJH: and XJS: - House and Senate Journals</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3257 notparent  "> 
+                 </dd> 
+                 <dt class="level2 nextend-nav-3258 parent   last" data-menuid="3258"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/congressional-and-legislative-branch-publications#clbpyx"><span>Y and X General Issues</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3258 parent   last"> 
+                  <dl class="level3 "> 
+                   <dt class="level3 nextend-nav-3282 notparent   first" data-menuid="3282"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/congressional-and-legislative-branch-publications#clbpyx"><span>Serial Publications</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3282 notparent   first"> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3283 notparent  " data-menuid="3283"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/congressional-and-legislative-branch-publications#clbpstar"><span>Star Prints</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3283 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3284 notparent   last" data-menuid="3284"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/congressional-and-legislative-branch-publications#clbperrata"><span>Erratum/Errata</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3284 notparent   last"> 
+                   </dd>
+                  </dl>
+                 </dd>
+                </dl>
+               </dd> 
+               <dt class="level1 nextend-nav-3198 notparent  " data-menuid="3198"> 
+                <span class="outer"> <span class="inner"> <a href="/classification-guidelines/u-s-participation-in-international-organizations"><span>U.S. Participation in International Organizations</span></a> </span> </span> 
+               </dt> 
+               <dd class="level1 nextend-nav-3198 notparent  "> 
+               </dd> 
+               <dt class="level1 nextend-nav-3617 parent  " data-menuid="3617"> 
+                <span class="outer"> <span class="inner"> <a href="/classification-guidelines/cartographic-resources"><span>Cartographic Resources</span></a> </span> </span> 
+               </dt> 
+               <dd class="level1 nextend-nav-3617 parent  "> 
+                <dl class="level2 "> 
+                 <dt class="level2 nextend-nav-3618 notparent   first" data-menuid="3618"> 
+                  <span class="outer"> <span class="inner"> <a href="/classification-guidelines/cartographic-resources/category-classes-for-maps-and-charts"><span>Category Classes for Maps and Charts</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3618 notparent   first"> 
+                 </dd> 
+                 <dt class="level2 nextend-nav-3619 notparent  " data-menuid="3619"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/cartographic-resources#crrgeneral"><span>General Rules</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3619 notparent  "> 
+                 </dd> 
+                 <dt class="level2 nextend-nav-3620 parent  " data-menuid="3620"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/cartographic-resources#crrgeo"><span>U.S. Geological Survey Maps</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3620 parent  "> 
+                  <dl class="level3 "> 
+                   <dt class="level3 nextend-nav-3621 notparent   first" data-menuid="3621"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/cartographic-resources#crrcoordinates"><span>Coordinates</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3621 notparent   first"> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3622 parent  " data-menuid="3622"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/cartographic-resources#crrreference"><span>Map Reference Numbers</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3622 parent  "> 
+                    <dl class="level4 "> 
+                     <dt class="level4 nextend-nav-3623 notparent   first" data-menuid="3623"> 
+                      <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/cartographic-resources#crrnorthwest"><span>Northwest (NW) Quadrant</span></a> </span> </span> 
+                     </dt> 
+                     <dd class="level4 nextend-nav-3623 notparent   first"> 
+                     </dd> 
+                     <dt class="level4 nextend-nav-3624 notparent  " data-menuid="3624"> 
+                      <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/cartographic-resources#crrnortheast"><span>Northeast (NE) Quadrant</span></a> </span> </span> 
+                     </dt> 
+                     <dd class="level4 nextend-nav-3624 notparent  "> 
+                     </dd> 
+                     <dt class="level4 nextend-nav-3625 notparent  " data-menuid="3625"> 
+                      <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/cartographic-resources#crrsouthwest"><span>Southwest (SW) Quadrant</span></a> </span> </span> 
+                     </dt> 
+                     <dd class="level4 nextend-nav-3625 notparent  "> 
+                     </dd> 
+                     <dt class="level4 nextend-nav-3626 notparent   last" data-menuid="3626"> 
+                      <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/cartographic-resources#crrsoutheast"><span>Southeast (SE) Quadrant</span></a> </span> </span> 
+                     </dt> 
+                     <dd class="level4 nextend-nav-3626 notparent   last"> 
+                     </dd>
+                    </dl>
+                   </dd> 
+                   <dt class="level3 nextend-nav-3627 notparent  " data-menuid="3627"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/cartographic-resources#crrscale"><span>Scale</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3627 notparent  "> 
+                   </dd> 
+                   <dt class="level3 nextend-nav-3628 notparent   last" data-menuid="3628"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/cartographic-resources#crredition"><span>Edition Date</span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3628 notparent   last"> 
+                   </dd>
+                  </dl>
+                 </dd> 
+                 <dt class="level2 nextend-nav-3629 notparent  " data-menuid="3629"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/cartographic-resources#crrbureau"><span>Bureau of Land Management Maps</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3629 notparent  "> 
+                 </dd> 
+                 <dt class="level2 nextend-nav-3630 parent  " data-menuid="3630"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/cartographic-resources#crrforest"><span>U.S. Forest Service Maps</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3630 parent  "> 
+                  <dl class="level3 "> 
+                   <dt class="level3 nextend-nav-3631 notparent   first last" data-menuid="3631"> 
+                    <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/cartographic-resources#crrrevision"><span>Revision Dates </span></a> </span> </span> 
+                   </dt> 
+                   <dd class="level3 nextend-nav-3631 notparent   first last"> 
+                   </dd>
+                  </dl>
+                 </dd> 
+                 <dt class="level2 nextend-nav-3632 notparent  " data-menuid="3632"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/cartographic-resources#crrocean"><span>National Ocean Service Nautical Charts</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3632 notparent  "> 
+                 </dd> 
+                 <dt class="level2 nextend-nav-3633 notparent   last" data-menuid="3633"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/cartographic-resources#crrtypes"><span>Map Types</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3633 notparent   last"> 
+                 </dd>
+                </dl>
+               </dd> 
+               <dt class="level1 nextend-nav-3392 parent   last" data-menuid="3392"> 
+                <span class="outer"> <span class="inner"> <a href="/classification-guidelines/classification-guidelines-for-digital-reproductions"><span>Classification Guidelines for Digital Reproductions</span></a> </span> </span> 
+               </dt> 
+               <dd class="level1 nextend-nav-3392 parent   last"> 
+                <dl class="level2 "> 
+                 <dt class="level2 nextend-nav-3393 notparent   first last" data-menuid="3393"> 
+                  <span class="outer"> <span class="inner"> <a href="https://www.fdlp.gov/classification-guidelines/classification-guidelines-for-digital-reproductions#cgct"><span>Classification by Type of Digital Reproduction</span></a> </span> </span> 
+                 </dt> 
+                 <dd class="level2 nextend-nav-3393 notparent   first last"> 
+                 </dd>
+                </dl>
+               </dd> 
+              </dl> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="moduletable-rounded"> 
+           <h3>Classification Guidelines Resources</h3> 
+           <div class="custom-rounded"> 
+            <p><span style="font-size: 9pt;"><a href="http://catalog.gpo.gov/F" title="Link to Catalog of U.S. <br />Government Publications (CGP)" target="_blank" rel="noopener noreferrer">Catalog of U.S. Government<br>&nbsp; &nbsp;Publications (CGP)<br></a><strong><a href="https://www.govinfo.gov/" title="Link to govinfo" target="_blank" rel="noopener noreferrer">govinfo<br></a></strong><a href="http://www.fdlp.gov/file-repository/collection-management/list-of-classes" title="Link to List of Classes of United States Publications Available for Selection by Depository Libraries">List of Classes&nbsp;<br></a><a href="http://www.fdlp.gov/collection-tools/lostdocs" title="Link to Lost Docs">Lost Docs<br></a><a href="http://www.usgovernmentmanual.gov/" title="Link to U.S. Government Manual" target="_blank" rel="noopener noreferrer">U.S. Government Manual<br></a><a href="http://www.fdlp.gov/webtech-notes" title="Link to WEBTech Notes">WEBTech Notes</a><br><a href="http://login.icohere.com/public/topics.cfm?cseq=1172" title="Link to Webinars and Webcasts" target="_blank" rel="noopener noreferrer">Webinars and Webcasts</a></span></p> 
+            <p><span style="font-size: 9pt;"><strong>Superseded Guidance&nbsp;<br></strong><a href="https://www.gpo.gov/fdsys/pkg/GOVPUB-GP3-803b10596f64810f505754f10095d01f/pdf/GOVPUB-GP3-803b10596f64810f505754f10095d01f.pdf" title="Link to GPO Classification Manual" target="_blank" rel="noopener noreferrer">GPO Classification Manual</a>&nbsp;(1993)<br><a href="https://www.gpo.gov/fdsys/pkg/GOVPUB-GP3-22ad735b483ae7d709649569171ca677/pdf/GOVPUB-GP3-22ad735b483ae7d709649569171ca677.pdf" title="Link to An Explanation of the Superintendent of Documents Classification System" target="_blank" rel="noopener noreferrer">An Explanation of the <br>&nbsp; &nbsp;Superintendent of Documents <br>&nbsp; &nbsp;Classification System</a>&nbsp;(1990)</span></p>
+           </div> 
+          </div> 
+          <div class="moduletable-rounded"> 
+           <div class="custom-rounded"> 
+            <p><img src="/images/cataloging-items/yellow-question-mark-flat.png" alt="yellow question mark flat" style="margin: 0px 10px 0px 0px; float: left;" height="35" width="35"></p> 
+            <p><span style="color: #212121;"><span style="font-family: arial, helvetica, sans-serif; font-size: 9pt; line-height: 16pt;">Questions on the GPO-specific practices outlined in the guidelines should be submitted via <a target="_blank" href="http://www.gpo.gov/askgpo/" rel="noopener noreferrer">askGPO</a>. Please indicate "Classification Guidelines" in the subject area.</span></span></p>
+           </div> 
+          </div> 
+          <div class="moduletable"> 
+           <div id="aSt-module-376" class="aikonScrollTop astFadeIn"> 
+            <a id="aSt" href="#"></a> 
+            <i id="the-ast-arrow" class="ast-icon icon-chevron-circle-up"></i> 
+           </div> 
+          </div> 
+          <!-- End Right Sidebar --> 
+         </div> 
+        </div> 
+        <!--Bottom Three --> 
+        <div class="row-fluid"> 
+         <div class="span12"> 
+          <div class="span9"></div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <!-- Footer --> 
+      <div class="footer"> 
+       <div class="container"> 
+        <div class="row-fluid"> 
+         <div class="row-fluid"> 
+          <div class="span3"> 
+           <div class="moduletable-red"> 
+            <h3>Collection Tools</h3> 
+            <ul class="nav menu "> 
+             <li class="item-117"><a href="/collection-tools/claims" title="Submit a request within 60 days for any publication in your depository shipment that is missing, misprinted or damaged."> <span>Claims</span></a></li>
+             <li class="item-121"><a href="http://selections.fdlp.gov" title="Manage your item selection profile"> <span>DSIMS</span></a></li>
+             <li class="item-123"><a href="http://selections.fdlp.gov/itemlister" title="View both selected and non-selected item numbers for any Federal depository library."> <span>Item Lister</span></a></li>
+             <li class="item-124"><a href="/file-repository/collection-management/list-of-classes" title="Browse the list of Federal information products that are available for selection by depository libraries. "> <span>List of Classes</span></a></li>
+             <li class="item-125"><a href="/collection-tools/lostdocs" title="Report fugitive documents or other Federal information products that have not been cataloged by GPO."> <span>LostDocs</span></a></li>
+             <li class="item-126"><a href="/fdlp-exchange-page" title="Post or review lists of withdrawn or needed publications from Federal depository libraries."><span>FDLP eXchange</span></a></li>
+             <li class="item-127"><a href="http://purlreferrals.fdlp.gov" target="_blank" title="Find statistical information derived from your library¹s PURL traffic to measure usage of online resources."> <span>PURL Usage Reporting Tool</span></a></li>
+             <li class="item-128"><a href="/collection-tools/shipping-lists" title="View shipping lists included in depository distribution boxes."> <span>Shipping Lists</span></a></li>
+             <li class="item-636"><a href="/collection-tools/shipping-list-this-week"> <span>Shipping List This Week</span></a></li>
+             <li class="item-129"><a href="/file-repository/collection-management/union-list-of-item-selections" title="View all item number selections of all depositories at once; this is typically used to compare your depository's selection profile against others in your state or region."> <span>Union-L</span></a></li>
+             <li class="item-633"><a href="/webtech-notes"><span>WEBTech Notes</span></a></li>
+             <li class="item-3286"><a href="https://github.com/usgpo/cataloging-records"> <span>CGP on GitHub</span></a></li>
+             <li class="item-3292"><a href="https://libguides.fdlp.gov/" target="_blank"> <span>FDLP LibGuides</span></a></li>
+            </ul> 
+           </div> 
+          </div> 
+          <div class="span3"> 
+           <div class="moduletable-blue"> 
+            <h3>Requirements &amp; Guidance</h3> 
+            <ul class="nav menu "> 
+             <li class="item-131"><a href="/requirements-guidance/legal-requirements" title="Full-text of the Federal depository library obligations that govern FDLP member libraries."> <span>Legal Requirements</span></a></li>
+             <li class="item-132"><a href="/requirements-guidance/guidance" title="Contains advice on how to comply with the FDLP regulations."> <span>Guidance</span></a></li>
+             <li class="item-134"><a href="/requirements-guidance/collections-and-databases" title="Describes the various products and services that are uniquely available to Federal depository libraries."> <span>Collections &amp; Databases</span></a></li>
+             <li class="item-2129"><a href="/promotion"> <span>Promotion</span></a></li>
+             <li class="item-4684 parent dropdown"><a href="/requirements-guidance-2/guidance"> <span>Requirements &amp; Guidance</span></a></li>
+            </ul> 
+           </div> 
+           <div class="moduletable-gpoish"> 
+            <h3 class="-red2">GPO Websites</h3> 
+            <ul class="nav menu "> 
+             <li class="item-648"><a href="https://www.gpo.gov" target="_blank"> <span>U.S. Government Publishing Office</span></a></li>
+             <li class="item-649"><a href="http://www.fdsys.gov" target="_blank"> <span>Federal Digital System (FDsys)</span></a></li>
+             <li class="item-1971"><a href="https://govinfo.gov/"> <span>govinfo</span></a></li>
+             <li class="item-650"><a href="http://bookstore.gpo.gov/" target="_blank"> <span>U.S. Government Bookstore</span></a></li>
+             <li class="item-651"><a href="http://bensguide.gpo.gov/" target="_blank"> <span>Ben's Guide to U.S. Government</span></a></li>
+            </ul> 
+           </div> 
+          </div> 
+          <div class="span3"> 
+           <div class="moduletable-peri"> 
+            <h3>Preservation</h3> 
+            <ul class="nav menu "> 
+             <li class="item-3187"><a href="/preservation/preservation-at-gpo"> <span>Preservation at GPO</span></a></li>
+             <li class="item-3532"><a href="/preservation/trusted-digital-repository-iso-16363-2012-audit-and-certification"> <span>Trusted Digital Repository ISO 16363:2012 Audit and Certification</span></a></li>
+            </ul> 
+           </div> 
+           <div class="moduletable-green"> 
+            <h3>About the FDLP</h3> 
+            <ul class="nav menu "> 
+             <li class="item-138"><a href="/about-the-fdlp/supdocs" title="The Superintendent of Documents (SuDocs) is in charge of the dissemination of information at the U.S. Government Printing Office (GPO)."> <span>Superintendent of Documents</span></a></li>
+             <li class="item-139"><a href="/about-the-fdlp/federal-depository-libraries" title="Federal depository libraries are located throughout the United States and its territories. They provide local, no-fee access to Government information and professional assistance for Federal information products."> <span>Federal Depository Libraries</span></a></li>
+             <li class="item-140"><a href="/about-the-fdlp/depository-library-council" title="The Depository Library Council (DLC) serves as an advisory committee to the Public Printer of the United States and the Superintendent of Documents."> <span>Depository Library Council</span></a></li>
+             <li class="item-1012"><a href="/about-the-fdlp/fdlp-academy"> <span>FDLP Academy</span></a></li>
+             <li class="item-1013"><a href="/about-the-fdlp/events-and-conferences"> <span>Events and Conferences</span></a></li>
+             <li class="item-1014"><a href="/about-the-fdlp/fdlp-events-calendar"> <span>FDLP Events Calendar</span></a></li>
+             <li class="item-144"><a href="/about-the-fdlp/partnerships" title="Through agreements with Federal depository libraries and Federal agencies, both the American public and Federal depository libraries have enhanced access to a variety of Federal information products and services."> <span>Partnerships</span></a></li>
+             <li class="item-143 parent dropdown"><a href="/about-the-fdlp/projects" title="Outlines current and previous efforts to improve the products and services of the FDLP."> <span>Projects</span></a></li>
+             <li class="item-577"><a href="/file-repository"><span>File Repository</span></a></li>
+             <li class="item-137"><a href="/about-the-fdlp/mission-and-history" title="Learn about the FDLP¹s mission, vision, and core values."> <span>Mission &amp; History</span></a></li>
+            </ul> 
+           </div> 
+          </div> 
+          <div class="span3"> 
+           <div class="moduletable-gold"> 
+            <h3>Cataloging &amp; Classification</h3> 
+            <ul class="nav menu "> 
+             <li class="item-584"><a href="/cataloging-guidelines"> <span>Cataloging Guidelines</span></a></li>
+             <li class="item-3200 active"><a href="/classification-guidelines/introduction-to-the-classification-guidelines"> <span>Superintendent of Documents Classification Guidelines</span></a></li>
+             <li class="item-634"><a href="/catalogingandclassification/cataloging-articles"> <span>Cataloging and Indexing</span></a></li>
+             <li class="item-2971"><a href="/catalogingandclassification/regional-depositories-oclc-holding-symbols-to-gpo-cataloging"> <span>Regional Depositories’ OCLC Holding Symbols to GPO Cataloging</span></a></li>
+             <li class="item-631"><a href="http://catalog.gpo.gov/" target="_blank"> <span>Catalog of U.S. Government Publications</span></a></li>
+             <li class="item-3417"><a href="/catalogingandclassification/cataloging-record-distribution-program"> <span>Cataloging Record Distribution Program</span></a></li>
+             <li class="item-3288"><a href="/catalogingandclassification/sources-of-gpo-cataloging-records"> <span>Sources of GPO Cataloging Records</span></a></li>
+            </ul> 
+           </div> 
+           <div class="moduletable-gpoish"> 
+            <h3>FDLP Home</h3> 
+            <ul class="nav menu "> 
+             <li class="item-145"><a href="/news-and-events"><span>News &amp; Events</span></a></li>
+             <li class="item-147"><a href="/fdlp-basics" title="View an overview of the Federal Depository Library Program."> <span>FDLP Basics</span></a></li>
+             <li class="item-148"><a href="/govdocs-quickstart-guide" target="_blank" title="View a beginner's guide for getting started in the world of govdocs."> <span>New to GovDocs?</span></a></li>
+             <li class="item-149"><a href="/join-the-fdlp" title="Learn about how to become a Federal depository library."> <span>Join the FDLP</span></a></li>
+             <li class="item-380"><a href="/standards-and-best-practices"><span>Standards &amp; Best Practices</span></a></li>
+            </ul> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="navbar navbar-inverse"> 
+        <div class="navbar-inner"> 
+         <div class="container"> 
+          <div> 
+           <div class="custom"> 
+            <p class="pagination-centered">Federal Depository Library Program (FDLP) • 732 N Capitol Street, NW, Washington, DC 20401 | <a href="/privacy-policy">Privacy Policy</a></p>
+           </div> 
+          </div> 
+          <div class="pull-right"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div>
+    </div>
+   </div>
+   <script type="text/javascript">/*joomlatools job scheduler*/
+!function(){function e(e,t,n,o){try{o=new(this.XMLHttpRequest||ActiveXObject)("MSXML2.XMLHTTP.3.0"),o.open("POST",e,1),o.setRequestHeader("X-Requested-With","XMLHttpRequest"),o.setRequestHeader("Content-type","application/x-www-form-urlencoded"),o.onreadystatechange=function(){o.readyState>3&&t&&t(o.responseText,o)},o.send(n)}catch(c){}}function t(n){e(n,function(e,o){try{if(200==o.status){var c=JSON.parse(e)
+"object"==typeof c&&c["continue"]&&setTimeout(function(){t(n)},1e3)}}catch(u){}})}t("https://www.fdlp.gov/index.php?option=com_joomlatools&controller=scheduler")}()</script>  
+  </div>
+ </body>
+</html>

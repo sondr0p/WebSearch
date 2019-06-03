@@ -1,0 +1,246 @@
+<!doctype html>
+<html>
+ <head> 
+  <title>MISSISSIPPI PUBLIC MEETING NOTICES</title> 
+  <link href="/dfa/pmn/Content/bootstrap.css" rel="stylesheet" type="text/css"> 
+  <link href="/dfa/pmn/Content/styles_sub.css" rel="stylesheet" type="text/css"> 
+  <link href="/dfa/pmn/Content/responsive.css" rel="stylesheet" type="text/css"> 
+  <link href="/dfa/pmn/Content/Site.css" rel="stylesheet" type="text/css"> 
+  <link href="/dfa/pmn/Content/themes/base/jquery.ui.all.css" rel="stylesheet" type="text/css"> 
+  <!--[if IE 8]>
+        <link rel="stylesheet" type="text/css" href="/dfa/pmn/Content/ie8.css" />
+    <![endif]--> 
+  <script src="/dfa/pmn/Scripts/jquery-1.10.0.min.js" type="text/javascript"></script> 
+  <script src="/dfa/pmn/Scripts/jquery-migrate-1.1.1.min.js" type="text/javascript"></script> 
+  <script src="/dfa/pmn/Scripts/jquery.validate.min.js" type="text/javascript"></script> 
+  <script src="/dfa/pmn/Scripts/jquery.validate.unobtrusive.min.js" type="text/javascript"></script> 
+  <script src="/dfa/pmn/Scripts/jquery.unobtrusive-ajax.js" type="text/javascript"></script> 
+  <script src="/dfa/pmn/Scripts/jquery-ui-1.10.3.min.js" type="text/javascript"></script> 
+  <script src="/dfa/pmn/Scripts/jquery-ui-timepicker-addon.js" type="text/javascript"></script> 
+  <script src="/dfa/pmn/Scripts/bootstrap.min.js" type="text/javascript"></script> 
+  <script src="/dfa/pmn/Scripts/MicrosoftAjax.js" type="text/javascript"></script> 
+  <script src="/dfa/pmn/Scripts/MicrosoftMvcAjax.js" type="text/javascript"></script> 
+  <script src="/dfa/pmn/Scripts/emailDeobfuscator.js" type="text/javascript"></script> 
+  <script src="/dfa/pmn/Scripts/helpers.js" type="text/javascript"></script> 
+  <script src="/dfa/pmn/Scripts/googleanalytics.js" type="text/javascript"></script> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+ </head> 
+ <body onpageshow="reenableSubmits()"> 
+  <nav id="regNav"> 
+   <div class="navbar"> 
+    <div class="navbar-inner"> 
+     <div class="container"> 
+      <a class="btn btn-navbar" data-toggle="collapse" data-target=".navbar-responsive-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </a> 
+      <div class="nav-collapse collapse navbar-responsive-collapse"> 
+       <ul class="nav"> 
+        <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Search</a> 
+         <ul class="dropdown-menu"> 
+          <li><a href="/dfa/pmn/">Find a Notice</a></li> 
+         </ul> </li> 
+        <li><a href="/dfa/pmn/Home/Login">Login</a></li> 
+       </ul> 
+      </div>
+      <!-- /.nav-collapse --> 
+     </div> 
+    </div>
+    <!-- /navbar-inner --> 
+   </div> 
+  </nav> 
+  <!-- Start Regular Header --> 
+  <header id="regHeader"> 
+   <div id="header-row" class="row-fluid"> 
+    <div id="col1" class="span3 bx-logo ht-100"> 
+     <a href="/dfa/pmn/"> <img src="/dfa/pmn/Content/images/logo.png" alt="app name"> </a> 
+    </div> 
+    <div id="col3" class="span9 ht-100 bx-photo"> 
+    </div> 
+   </div> 
+   <div class="row-fluid" id="breadcrumb-area"> 
+    <div class="span12 bx-breadcrumbs"> 
+     <a href="/dfa/pmn/">Mississippi Public Meeting Notices</a> 
+    </div> 
+   </div> 
+  </header> 
+  <!-- End Regular Header --> 
+  <!-- page content area --> 
+  <div class="row-fluid" id="page-content"> 
+   <div class="container"> 
+    <div class="span12 bx-mainContent"> 
+     <div class="row-fluid"> 
+      <div class="span12 bx-pageTitle"> 
+       <h1> MISSISSIPPI PUBLIC MEETING NOTICES </h1> 
+      </div> 
+     </div> 
+     <div class="pageContentWrap"> 
+      <p class="intro"> Welcome to the Mississippi Public Meeting Notice Website: Your central source for all public meeting notice information in Mississippi </p> 
+      <h2> Find a Notice</h2> 
+      <div class="row-fluid bx-special formBox"> 
+       <div class="span6"> 
+        <p> <input class="button01 button" onclick="location.href='/dfa/pmn/Home/AdvancedSearch'" type="button" value="Advanced Search"> </p> 
+       </div> 
+       <div class="span6"> 
+        <p style="text-align: center"> <input class="button01 button" onclick="location.href='/dfa/pmn/Home/AdvancedSearchThisWeekShortcut'" type="button" value="Meetings This Week"> </p> 
+       </div> 
+       <p> First select your state agency, and then the public body. Results will appear below.</p> 
+       <div class="span6"> 
+        <h3> State Agency</h3> 
+        <div class="roundedBox"> 
+         <ul class="box-fixed findANoticeBox"> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=5a4f7db8-39d6-41af-bb8c-a5a2cbc70456" onclick="clearDiv('noticeSearchResults')">Agricultural Aviation Board </a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=5eaf4391-6298-46ba-aa66-c754b0062bfc" onclick="clearDiv('noticeSearchResults')">Architecture Board of</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=3c81a49e-6683-4de4-96e4-e6255389ca62" onclick="clearDiv('noticeSearchResults')">Arts Commission </a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=c111641c-b951-4623-bcec-c5b26f5068fd" onclick="clearDiv('noticeSearchResults')">Athletic Commission </a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=d24eb004-f964-4b47-9b01-93d7da78d952" onclick="clearDiv('noticeSearchResults')">Attorney General</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=335fb355-b76c-4c84-9d0a-41b41aa34fa0" onclick="clearDiv('noticeSearchResults')">Auctioneers Commission </a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=7ea0b25c-4772-4816-99c4-1add8a8b8b6d" onclick="clearDiv('noticeSearchResults')">Barber Examiners Board </a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=5e30b706-ef8f-49d7-948e-a44486a3c9ca" onclick="clearDiv('noticeSearchResults')">Board of Animal Health</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=929f1b1d-6e34-4965-9c4f-b260ee15d9d9" onclick="clearDiv('noticeSearchResults')">Board of Bar Admissions</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=a8fa1f4a-1232-4177-868a-308e43df4d28" onclick="clearDiv('noticeSearchResults')">Board of Contractors</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=af42f64f-8bd8-4e69-a463-b7ab6345b214" onclick="clearDiv('noticeSearchResults')">Board of Education</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=b8e2bb4b-cc48-4502-9df0-5cabf760431d" onclick="clearDiv('noticeSearchResults')">Board of Examiners for Social Workers and Marriage and Family Therapists</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=1cd9077a-79ae-457b-93ce-401513776ccf" onclick="clearDiv('noticeSearchResults')">Board of Licensure for Professional Engineers and Land Surveyors </a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=1384c1ca-ed30-475d-9fc3-522b4d2b00be" onclick="clearDiv('noticeSearchResults')">Board of Massage Therapy </a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=09ed5887-9c4a-4b9d-84a7-58e9d1ea3c41" onclick="clearDiv('noticeSearchResults')">Board of Nursing </a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=6f15277a-3bd1-4225-9956-7a1c70db58db" onclick="clearDiv('noticeSearchResults')">Board of Nursing Home Administrators</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=c0ce3f0e-d551-4b68-9863-35a38643a856" onclick="clearDiv('noticeSearchResults')">Board of Physical Therapy </a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=51e04e76-43c4-4d93-be7c-6614011a6f97" onclick="clearDiv('noticeSearchResults')">Board of Psychology </a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=da9c63bd-79aa-4a93-9ac2-b6c0906dd1bf" onclick="clearDiv('noticeSearchResults')">Board of Registered Professional Geologists </a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=03f6426d-8c7d-4671-a804-9f58db954c37" onclick="clearDiv('noticeSearchResults')">Board of Registration For Foresters </a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=da0fd26f-2dd9-4320-a090-f97ad9f3ebf7" onclick="clearDiv('noticeSearchResults')">Board of Tax Appeals</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=befb8d0e-c2a5-4107-82a7-7bd5087e8f79" onclick="clearDiv('noticeSearchResults')">Census LUCA Committee</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=36d7b0ab-136f-40f7-823b-c9a09d6f6bc8" onclick="clearDiv('noticeSearchResults')">Chancery and Circuit Judges</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=8aadb707-9625-455e-92d4-8013b64935bc" onclick="clearDiv('noticeSearchResults')">Charter School Authorizer Board</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=b1ac71fb-b6ff-4f88-81aa-28c042d3be84" onclick="clearDiv('noticeSearchResults')">Chiropractic Examiners Board </a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=3d2534fe-4109-4d84-86ee-9eb2b8ed7c1f" onclick="clearDiv('noticeSearchResults')">Commercial Mobile Radio Service Board</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=79c91351-f107-4a91-a78f-d6fdc367ab98" onclick="clearDiv('noticeSearchResults')">Commission on the Status of Women </a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=aa4faa02-f84a-4b87-b04d-74e1cc6b84e4" onclick="clearDiv('noticeSearchResults')">Committee on Continuing Legal Education</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=8444dbb0-30ae-440d-b320-d0ee3d505b6d" onclick="clearDiv('noticeSearchResults')">Cosmetology Board </a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=36646cf1-954d-4939-9562-2643c5a9546f" onclick="clearDiv('noticeSearchResults')">Dental Examiners Board </a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=939a3f60-e8b5-40d1-801a-46bbf617977f" onclick="clearDiv('noticeSearchResults')">Department of Agriculture and Commerece</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=23aa5880-349c-4fd6-8031-60ed5283fc7f" onclick="clearDiv('noticeSearchResults')">Department of Archives and History</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=52e20337-2191-422f-9c80-71caaaa553d5" onclick="clearDiv('noticeSearchResults')">Department of Banking and Consumer Finance</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=b09c21b3-676e-47bc-904d-2106dfa4ccb2" onclick="clearDiv('noticeSearchResults')">Department of Corrections</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=6bc5e88a-46c5-4a8f-adeb-f0a8a7cb5bd4" onclick="clearDiv('noticeSearchResults')">Department of Education</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=20b5d569-52c9-4447-9d19-be95ecfd3a03" onclick="clearDiv('noticeSearchResults')">Department of Employment Security</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=622a16f7-eec2-4bbb-a109-d0c73e5456f1" onclick="clearDiv('noticeSearchResults')">Department of Finance and Administration</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=b24eedee-0722-4032-8f74-d6e51a132201" onclick="clearDiv('noticeSearchResults')">Department of Health</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=4938e956-5cbb-4cf7-b298-5e44c178f7bb" onclick="clearDiv('noticeSearchResults')">Department of Human Services </a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=3c3af63c-ff76-4409-8713-584752a22b7c" onclick="clearDiv('noticeSearchResults')">Department of Mental Health</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=337fa672-8797-4860-8f36-7e1a6e95370f" onclick="clearDiv('noticeSearchResults')">Department of Public Safety</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=6c36b41a-23a6-472a-b875-0509486dd138" onclick="clearDiv('noticeSearchResults')">Department of Rehabilitation Services</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=4fa6a43d-19b1-47ef-ad3b-3ffa4aaea8cf" onclick="clearDiv('noticeSearchResults')">Department of Revenue</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=a04f3c7b-148e-4512-b968-4114053ac383" onclick="clearDiv('noticeSearchResults')">Department of Transportation</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=b7b17bf7-9a3b-4a2f-819b-938f659a6cf6" onclick="clearDiv('noticeSearchResults')">Department of Wildlife Fisheries and Parks</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=86adf45a-2c02-43bb-b830-c5d2a1da9d0a" onclick="clearDiv('noticeSearchResults')">District Attorneys Office Support </a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=693235d7-0f39-40c9-9248-cf6e6625c3b8" onclick="clearDiv('noticeSearchResults')">Division of Medicaid</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=a643a26c-6160-450b-ba32-b33b62b7d668" onclick="clearDiv('noticeSearchResults')">Educational Television Authority</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=febada4f-de6c-4a20-96cc-4cbdd9d79ae1" onclick="clearDiv('noticeSearchResults')">Emergency Management Agency </a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=757ea988-5a5f-4612-b608-38ab2f33523f" onclick="clearDiv('noticeSearchResults')">Environmental Quality</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=dbbbfead-28b8-4915-abdd-3e4b81a3cfd7" onclick="clearDiv('noticeSearchResults')">Ethics Commission</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=3c319f9e-3e9a-4861-92e3-b2763e0c0737" onclick="clearDiv('noticeSearchResults')">Fair Commission</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=8d7d88bf-57f1-490a-a976-37b5546751c3" onclick="clearDiv('noticeSearchResults')">Forestry Commission</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=4cb94844-c5b2-48c3-88d9-6b902aa89a87" onclick="clearDiv('noticeSearchResults')">Funeral Services Board </a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=592698ab-2199-48d5-97b7-3b9f1888cbde" onclick="clearDiv('noticeSearchResults')">Gaming Commission</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=ac8c8b25-c52c-4766-ba3a-af5bf6eefa17" onclick="clearDiv('noticeSearchResults')">Governors Mansion Support</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=d5bf0c56-975c-4d8e-8ec3-e6c6909016fb" onclick="clearDiv('noticeSearchResults')">Governors Office Support</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=dcfbc9e9-4f3e-43ab-820c-6aca0b647708" onclick="clearDiv('noticeSearchResults')">Grand Gulf Military Monument Commission</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=b05a7646-f3d5-47d1-80f5-b8374cbd13ef" onclick="clearDiv('noticeSearchResults')">Health Information Network </a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=f1335b50-8426-450f-b83e-1d62eecd642d" onclick="clearDiv('noticeSearchResults')">House of Representatives</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=b31a4bbb-4461-4963-8a39-eb418b35808a" onclick="clearDiv('noticeSearchResults')">Information Tech Services</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=027017bb-4d17-4a0b-afe5-cc4981e5cd10" onclick="clearDiv('noticeSearchResults')">Insurance Department</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=1a6b2e59-2138-48ca-9b41-21a5e0c63ce2" onclick="clearDiv('noticeSearchResults')">Joint Legislative Operations</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=ce7817f6-e1e1-4d20-a48f-89a642ddcc88" onclick="clearDiv('noticeSearchResults')">Joint Legislative Reapportionment </a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=a6261518-e3cc-4adc-82b9-27b90fe7ff7a" onclick="clearDiv('noticeSearchResults')">Judicial Performance Commission</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=2803425b-58f8-4ee3-8837-6b661b027c43" onclick="clearDiv('noticeSearchResults')">Legislative Budget Office </a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=bfa116b4-6f44-4792-9b42-0b7565a98da6" onclick="clearDiv('noticeSearchResults')">Library Commission</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=d52e3a6c-55f8-433f-91ad-ebb95e60e9fd" onclick="clearDiv('noticeSearchResults')">Marine Resources</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=ea9ba2aa-225c-4eef-bd59-53b66ac61675" onclick="clearDiv('noticeSearchResults')">Medical Licensure Board </a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=7bada246-67ab-4afa-92c9-1e7e4bcadd36" onclick="clearDiv('noticeSearchResults')">Military Department</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=d1a22596-c21a-4e32-8579-1ea20bfb7e98" onclick="clearDiv('noticeSearchResults')">Mississippi Community College Board</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=d7f4e4f8-8e06-4826-b6fa-ffd49b2ae0d2" onclick="clearDiv('noticeSearchResults')">Mississippi Development Authority</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=01d8276f-36d0-4a1b-8779-9842ef062e6f" onclick="clearDiv('noticeSearchResults')">Mississippi Underground Facilities Damage Prevention Board</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=4f26cb80-a64b-4a6c-86bd-d54f2250a1d8" onclick="clearDiv('noticeSearchResults')">Motor Vehicle Commission </a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=7b21f0d5-b2ee-45ae-93c4-39a369638a2b" onclick="clearDiv('noticeSearchResults')">MS Board of Autism</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=a3f8a79b-999f-4527-9fc5-b1483aec2a1e" onclick="clearDiv('noticeSearchResults')">MS Industries for the Blind</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=fde0a4de-c5d2-4910-a60b-0c625bf13363" onclick="clearDiv('noticeSearchResults')">MS Institute for Forest Inventory</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=619dacd1-0527-477f-9a70-397fce994cd6" onclick="clearDiv('noticeSearchResults')">MS Prison Industries Corporation</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=2e4af904-ba2d-4dbb-8c1c-ca5d7848400e" onclick="clearDiv('noticeSearchResults')">Office of Capital Post Conviction Counsel</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=5e62d8be-d046-4c29-ba6f-672010d6776f" onclick="clearDiv('noticeSearchResults')">Office of State Auditor</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=17c7cdbb-6fcc-42ab-b608-8a035eb833ec" onclick="clearDiv('noticeSearchResults')">Office of State Public Defender</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=188e35ed-4fc2-422b-9fea-9fc9ad490645" onclick="clearDiv('noticeSearchResults')">Oil and Gas Board</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=23830d3f-724c-4bac-b271-160c7070357c" onclick="clearDiv('noticeSearchResults')">Optometry Board</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=326798fc-a5e7-4b68-87b6-fc1eac1954e0" onclick="clearDiv('noticeSearchResults')">Pat Harrison Waterway District</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=12aeb944-d45c-4615-80d5-f39bcc90c18a" onclick="clearDiv('noticeSearchResults')">Pearl River Basin Development District</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=7519e869-8d3a-4f89-ad0d-0c816b8ac585" onclick="clearDiv('noticeSearchResults')">Pearl River Valley Water Supply District</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=1c220fcd-3d11-4629-846e-6eee0f8678b7" onclick="clearDiv('noticeSearchResults')">Peer Committee</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=77c85528-04c4-4a12-90cb-03cb05528be4" onclick="clearDiv('noticeSearchResults')">Pharmacy Board </a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=a25bdd38-1fce-4741-8743-cc56e7f6b381" onclick="clearDiv('noticeSearchResults')">Port Authority</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=1b6686c4-a706-4a76-a52c-e946dc4e05d2" onclick="clearDiv('noticeSearchResults')">Professional Counselor Licensing Board </a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=7696c645-bb41-4325-89fa-0c1ed29a645c" onclick="clearDiv('noticeSearchResults')">Public Accountancy Board </a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=788f2d8e-cf36-4b91-b724-c80e0db44a77" onclick="clearDiv('noticeSearchResults')">Public Employees Retirement System</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=4684ec27-0d93-4100-b767-8b423563950f" onclick="clearDiv('noticeSearchResults')">Public Service Commission</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=a6b74671-f934-4031-ad44-7594ff704a3f" onclick="clearDiv('noticeSearchResults')">Public Utilities Staff </a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=6c79e3d0-9855-474f-a0c1-637c526a0640" onclick="clearDiv('noticeSearchResults')">Real Estate Appraiser Licensing and Certification Board</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=c463fdb6-d7a4-4719-a576-9381e79a8aa1" onclick="clearDiv('noticeSearchResults')">Real Estate Commission </a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=cf2685d3-5c0c-4cca-b0d6-7b097b92c90f" onclick="clearDiv('noticeSearchResults')">Secretary of State</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=ba5ba2ab-b7fe-47cc-98bc-6af165caa8ab" onclick="clearDiv('noticeSearchResults')">Senate</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=547caf22-c6a4-4968-9ca1-b2a02048dfd4" onclick="clearDiv('noticeSearchResults')">Soil and Water Conservation Commission</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=ee38f91a-9ddf-4ae1-8622-d36775e1da25" onclick="clearDiv('noticeSearchResults')">State Aid Road Construction Division </a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=612d3940-12a9-4c05-b2af-9c209d7847ea" onclick="clearDiv('noticeSearchResults')">State Fire Academy </a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=b68c1988-2ae9-479d-9bee-658053ae07a1" onclick="clearDiv('noticeSearchResults')">State Personnel Board</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=ac6aa676-7510-4e8d-b34e-32fe20fc5740" onclick="clearDiv('noticeSearchResults')">State Workforce Investment Board</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=ae448006-f064-44c3-820a-8384e779fbbf" onclick="clearDiv('noticeSearchResults')">Supreme Court</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=dc20673d-f576-4d79-8862-c3d8103065dd" onclick="clearDiv('noticeSearchResults')">Tag Commission</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=7f7e2180-4edb-4c72-8bd9-a051cd4c154e" onclick="clearDiv('noticeSearchResults')">Tombigbee River Valley Water Management</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=785a1c8c-e542-4923-837c-ee43f2f844cf" onclick="clearDiv('noticeSearchResults')">Treasury</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=b45e14d8-0a6b-4534-a00b-17cf5a009110" onclick="clearDiv('noticeSearchResults')">Veterans Affairs Board </a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=03b6004a-df1c-4e48-869e-4ff055b3ac15" onclick="clearDiv('noticeSearchResults')">Veterans Home Purchase Board </a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=3d73f378-fb51-4321-af5d-9695259bbc63" onclick="clearDiv('noticeSearchResults')">Veterinary Medicine Board </a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=9380f38a-3917-41c5-8859-34cc285f6413" onclick="clearDiv('noticeSearchResults')">Wireless Communication Commission</a> </li> 
+          <li> <a data-ajax="true" data-ajax-mode="replace" data-ajax-update="#publicBodiesContainer" href="/dfa/pmn/Home/PublicBodies?stateAgencyId=65e678f3-816e-43ea-864c-15837a6df9cd" onclick="clearDiv('noticeSearchResults')">Worker's Compensation Commission</a> </li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="span6"> 
+        <h3> Public Body(s)</h3> 
+        <div id="publicBodiesContainer" class="roundedBox"> 
+         <p class="box-fixed findANoticeBox"> Choose State Agency</p> 
+        </div> 
+       </div> 
+      </div> 
+      <div id="noticeSearchResults"> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <footer class="container"> 
+    <div class="row-fluid"> 
+     <div class="span12 footer-content"> 
+      <div class="row-fluid"> 
+       <div class="span6 footerBox"> 
+        <h4>ABOUT</h4> 
+        <p>Mississippi's State Agencies are required to post notices of regular meetings on the Mississippi Public Meeting Notices Website. The statute establishing this website is in Mississippi Code Section A 025-0041-0013 and may be viewed by clicking <a href="http://billstatus.ls.state.ms.us/2013/pdf/history/SB/SB2070.xml">here</a>.</p> 
+        <a href="http://billstatus.ls.state.ms.us/2013/pdf/history/SB/SB2070.xml" class="btn">Legislation</a> 
+       </div> 
+      </div> 
+      <div class="row-fluid" id="footerBox"> 
+       <div class="span4"> 
+        <div class="row-fluid" id="footerLinks"> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="row-fluid" id="footer-bttm"> 
+       <div class="span10"> 
+        <p>Copyright © 2013 Mississippi Interactive | <a href="http://www.transparency.ms.gov/">Transparency Mississippi</a></p> 
+       </div> 
+       <div class="span2" id="footerLogo"> 
+        <a href="http://www.ms.gov"><img src="/dfa/pmn/Content/images/msGov_smLogo.png" alt="Visit ms.gov, the official website for the State of Mississippi"></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </footer> 
+   <!-- end page-content --> 
+  </div>   
+ </body>
+</html>

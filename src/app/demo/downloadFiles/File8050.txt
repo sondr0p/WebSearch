@@ -1,0 +1,507 @@
+<!doctype html>
+<html lang="en" ng-app="mapp">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <!-- State Of Michigan - Mon May 06 12:24:13 2019 --> 
+  <!-- e-Michigan Portal - Process #6, Server www --> 
+  <link rel="canonical" href="https://www.michigan.gov/som/0,4669,7-192--281460--,00.html"> 
+  <title>SOM - Michigan Policies</title> 
+  <meta name="DESCRIPTION" content="State of Michigan - "> 
+  <meta name="KEYWORDS" content="Michigan Policies"> 
+  <base target="_top"> 
+  <!-- global scripts BOOTSTRAP --> 
+  <!-- bow-scripts include --> 
+  <!-- CSS --> 
+  <link type="text/css" rel="stylesheet" href="/css/fullcalendar.css"> 
+  <link type="text/css" rel="stylesheet" href="/font-som-icons/css/somicons.min.css?20170525090940"> 
+  <link type="text/css" rel="stylesheet" href="/font-awesome/css/font-awesome.min.css"> 
+  <link type="text/css" rel="stylesheet" href="/css/jquery.bxslider.css"> 
+  <!-- javascript --> 
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script> 
+  <script src="/bootstrap/js/bootstrap.min.js"></script> 
+  <script src="/js/fullcalendar.js" type="text/javascript"></script> 
+  <script src="/js/jquery.bxslider.js"></script> 
+  <script src="/js/jquery.rwdImageMaps.js"></script> 
+  <script src="/js/jquery.validate.js"></script> 
+  <script src="/js/additional-methods.js"></script> 
+  <script src="/js/responsiveComponents.js"></script> 
+  <script src="/js/jquery.matchHeight-min.js"></script> 
+  <!--[if (lt IE 9)]>
+<script>
+document.createElement('header');
+document.createElement('nav');
+document.createElement('section');
+document.createElement('article');
+document.createElement('aside');
+document.createElement('footer');
+document.createElement('time');
+</script>
+<script src="/js/respond.js"></script>
+<link href="/css/migov_ie8_OLD.css" rel="stylesheet" media="all" />
+<![endif]--> 
+  <script type="text/javascript" src="/js/bow-general.js?v=1526047680"></script> 
+  <link href="/css/body-theme-som.css?v=1551121888" type="text/css" rel="stylesheet"> 
+  <!-- Agency Header do not include the globalcss file -->
+  <!--/ Agency Header-->
+  <script src="/js/underscorejslib.js?v=1493914450"></script> 
+  <script src="/js/angular_1_6.js?v=1493914427"></script> 
+  <script src="/js/angular_1_6_sanitize.js?v=1493914426"></script> 
+  <script src="/js/angular_1_6_animate.js?v=1493914426"></script> 
+  <script src="/js/angular_1_6_aria.js?v=1493914426"></script> 
+  <script src="/js/angular_1_6_touch.js?v=1493914427"></script> 
+  <script src="/js/angucomplete-alt.js?v=1545075608"></script> 
+  <script src="/js/bootstrapUIangular.js?v=1493914448"></script> 
+  <script type="text/javascript">
+window.navPath = '/agency/leftFullNav/0,,192,00.html';
+window.loadedData = [];
+$('body').addClass('matching-heights-processing');
+var mapp = angular.module('mapp',['ngSanitize','ngAnimate','ui.bootstrap','ngAria','angucomplete-alt','ngTouch']);
+mapp.run(['$location', function($location) {
+			var pathCurrent = $location.path();
+			var searchCurrent = $location.search();
+			$('body').on('click','a[href^="#"]',function(e){
+				e.preventDefault();
+			    var hrefDest = $(this).attr('href');
+				//asses if ID or Anchor
+				hrefDest_clean = hrefDest.replace('#','');
+				var anchorCount = $('a[name="'+hrefDest_clean+'"]').length;
+				var idCount = $(''+hrefDest).length;
+				var destObj;
+				if(anchorCount > 0)
+			    {
+					destObj = $('a[name="'+hrefDest_clean+'"]').filter(':first');
+			    }
+				else if(idCount > 0)
+			    {
+					destObj = $(''+hrefDest);
+			    }
+				var offsetVal = $(destObj).offset().top - 150;
+				// change the path
+				$location.path('/'+hrefDest_clean);
+				//Moving focus and page:
+				$('a[href^="#"]').removeAttr('tabindex');
+				$('html,body').animate({scrollTop:offsetVal}, 500);
+				$(destObj).attr('tabindex',-1).focus();
+			});
+		}]);
+</script> 
+  <script src="/js/angular_custom_factories.js?v=1502904335"></script> 
+  <script src="/js/angular_custom_filters.js?v=1506702035"></script> 
+  <script src="/js/SearchComponentAngular.js?v=1545075601"></script> 
+  <script src="/js/angularSelectList.js?v=1544218134"></script> 
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js"></script> 
+  <script src="/js/gtm.js?v=1501512057"></script> 
+ </head> 
+ <body class="agy-som has-offcanvas-menu off-canvas-center  bow-theme-1 horz-menu body-theme-som matching-heights-processing"> 
+  <div role="navigation" aria-label="skip nav"> 
+   <noscript> 
+    <div class="alert bg bg-accent-1 text-center"> 
+     <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> Browsers that can not handle javascript will not be able to access some features of this site. 
+     <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> 
+    </div> 
+    <style type="text/css">
+body.matching-heights-processing:before,body.matching-heights-processing:after {
+content:'';
+height:0px;
+width:0px;
+}
+</style> 
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WTW7M9" height="0" width="0" style="display:none;visibility:hidden"></iframe> 
+   </noscript> 
+   <div id="noAdBlock" style="display:none;" class="alert bg bg-accent-1 text-center"> 
+    <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> Some functions of this site are disabled for browsers blocking jQuery. 
+    <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> 
+   </div> 
+   <div id="_TopOfPage"></div> 
+   <script>
+			function doAnalyticsGo(sndx) {
+				var dest = sndx.options[sndx.selectedIndex].value;
+				if (dest == 0) {
+					alert('Please make a selection.');
+					return false;
+				} else {
+					document.location.href=dest;
+					return false;
+				}
+			}
+		</script>
+   <a href="#main" data-target-id="main" class="sr-only sr-only-focusable jump-to-id">Skip to main content</a> 
+  </div> 
+  <!--START DIV CONTAINER--> 
+  <div id="main-mobile-canvas-container" class=""> 
+   <div id="temp-toggler-mobile-menu" class="text-center toggle-mobile-menu-controls"> 
+    <a href="#mobile-canvas-menu-container" data-toggle-class="show-mobile-nav" class="toggle-mobile-menu outer-link text-center toggle-mobile-menu-controls"> <span class="fa fa-3x fa-bars mobile-menu-closed-icon toggle-mobile-menu-controls"></span><span class="fa fa-3x fa-times mobile-menu-showing-icon toggle-mobile-menu-controls"></span>MENU </a> 
+   </div> 
+   <div class="offcanvas-left toggle-mobile-menu-controls" id="mobile-canvas-menu-container"> 
+    <div class="mobile-canvas-nav-header"> 
+     <div class="mobile-canvas-menu-logo-block"> 
+      <div id="mobileLogoBlock"> 
+       <a href="/som"> <img class="img-responsive" src="/images/som/final_logo_migov_white_526452_7.png" alt="State of Michigan "> </a> 
+      </div> 
+      <div id="mobileSiteTitle"> 
+       <a href="/som"> 
+        <div class="page-site-header">
+         <div class="bannerLgTxt"></div>
+        </div> </a> 
+      </div> 
+     </div> 
+     <div class="inner-mobile-menu-toggle"> 
+      <a href="#mobile-canvas-menu-container" data-toggle-class="show-mobile-nav" class="toggle-mobile-menu outer-link btn btn-accent-black"><span class="fa fa-2x fa-bars mobile-menu-closed-icon"></span><span class="fa fa-2x fa-times mobile-menu-showing-icon"></span></a> 
+     </div> 
+    </div> 
+    <div class="site-extra-text bg bg-primary-1">
+     State of Michigan 
+    </div> 
+    <div class="mobile-search-block bg bg-primary-1 padding-bottom-10"> 
+     <div class="searchComponentDiv" id="searchComponentDiv_9910101010101" ng-controller="searchComponentController" ng-init="init(9910101010101)"> 
+      <div ng-if="loadedData"> 
+       <form ng-submit="submitFormLocal()" class="submit-override"> 
+        <div class="clearfix"> 
+         <div class="" angucomplete-alt id="searchInput_9910101010101" placeholder="" pause="10" selected-object="optionChanged" local-data="people" local-search="localSearch" title-field="name" description-field="twitter" minlength="1" input-class="form-control form-control" input-changed="inputChanged" match-class="highlight"> 
+         </div> 
+        </div> 
+       </form> 
+      </div> 
+     </div> 
+     <script>		
+				window.loadedData[9910101010101] = [];
+				window.loadedData[9910101010101]["GSA_COLLECTION"] = "som";
+				
+				window.loadedData[9910101010101]["gsaAgencyText"] = "State~of~Michigan";
+				window.loadedData[9910101010101]["subcategories"] = [];			
+			</script> 
+    </div> 
+    <div id="containerMainMobileLinks"></div> 
+    <div class="branding-bar-links-block"> 
+     <nav class="mobile-branding-links" aria-label="mobile global menu"> 
+      <ul id="m_bannerLinks">
+       <li><a href="/departments" title="State Departments">State Departments</a></li>
+       <li><a href="/services" title="Online Services">Online Services</a></li>
+       <li><a href="/socialmedia" title="Social Media">Social Media</a></li>
+       <li><a href="/somhelp" title="Help Center">Help Center</a></li>
+      </ul> 
+     </nav> 
+    </div> 
+   </div> 
+   <script type="text/javascript">
+	window.agencySitePathCSS = 'som';
+	//window.agencySitePathCSS = window.location.pathname;
+	window.agencyText = 'State~of~Michigan';
+	//window.agencyText = document.getElementsByTagName("title")[0].innerHTML;
+	window.siteClient = window.agencySitePathCSS;
+	// Task 44300 - WEX
+	 
+	window.default_collection = 'som';
+	 window.gsasearch = true;
+	window.usagovCollection = 'mi-'+window.agencySitePathCSS;
+
+	$('document').ready(function(){
+		$('.site-search-form').submit(function(e){
+			e.preventDefault();
+			siteSearchForm($(this));
+		});
+		$('#noAdBlock').hide();
+	});
+	</script> 
+  </div> 
+  <div id="container" class="container-fluid"> 
+   <div id="topMenuSearchContainer bg bg-accent-black" class="search-extended"> 
+    <div class="searchComponentDiv padding-top-20 padding-bottom-20" id="searchComponentDiv_10101010101" ng-controller="searchComponentController" ng-init="init(10101010101)"> 
+     <div ng-if="loadedData"> 
+      <form ng-submit="submitFormLocal()" class="submit-override"> 
+       <div class="container"> 
+        <div class="col-xs-11" angucomplete-alt id="searchInput_10101010101" placeholder="" pause="10" selected-object="optionChanged" local-data="people" local-search="localSearch" title-field="name" description-field="twitter" minlength="1" input-class="form-control form-control" input-changed="inputChanged" match-class="highlight"> 
+        </div> 
+        <div class="col-xs-1 bg bg-accent-black"> 
+         <a href="#" onclick="$('body').removeClass('show-search-form');$('#top-right-search-bar').focus();" title="Close Search Panel" class="fa-2x"> <span class="fa fa-remove"></span> <span class="sr-only">Close Search Box</span> </a> 
+        </div> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+    <script>		
+		window.loadedData[10101010101] = [];
+		window.loadedData[10101010101]["GSA_COLLECTION"] = "som";
+		window.loadedData[10101010101]["gsaAgencyText"] = "State~of~Michigan";
+		window.loadedData[10101010101]["subcategories"] = [];
+	</script> 
+   </div> 
+   <!-- agencyHeaderNavPath agencyCreateHeaderNavP3 --> 
+   <!--div id="bannerArea" role='banner'-->
+   <!-- HEADER 1.1 Live -->
+   <div id="bannerArea" role="banner">
+    <div id="superTop">
+     <!-- SOM banner text --> 
+     <ul id="bannerLinks">
+      <li><a href="/departments" title="State Departments">State Departments</a></li>
+      <li><a href="/services" title="Online Services">Online Services</a></li>
+      <li><a href="/socialmedia" title="Social Media">Social Media</a></li>
+      <li><a href="/somhelp" title="Help Center">Help Center</a></li>
+      <li id="top-right-search-bar" style="display:none;"> <a href="#topMenuSearchContainer" aria-haspopup="true" title="Search Mi.gov" class="top-header-search-link" data-search-field-id=""> <span>Search</span> </a> </li>
+     </ul>
+    </div>
+    <div id="siteBanner">
+     <!-- SOM banner text --> 
+     <div id="headerRow"> 
+      <div class="header-site-title-text"> 
+       <a class="AGENCY_HEADER_L" accesskey="1" href="/som/"><img class="AGENCY_HEADER_L" src="/images/som/mobileSOM_346956_7_398113_7.png" alt="SOM - State of Michigan "></a> 
+      </div> 
+      <div class="header-nav-block">
+       <nav class="main-navigation" role="navigation" aria-label="main navigation">
+        <ul id="nav" class="nav-main"> 
+         <!-- State Of Michigan - Wed May 29 17:25:54 2019 --> 
+         <!-- e-Michigan Portal - Process #1 --> 
+         <!-- Begin Global Nav section -->
+         <!-- End Global Nav section --> 
+         <!-- Begin Responsive Navigation --> 
+         <li id="29943" class="id-29943 "> <a class="lvl1" title="BUSINESS" href="/som/0,4669,7-192-29943---,00.html">BUSINESS</a> </li> 
+         <li id="29939" class="id-29939 "> <a class="lvl1" title="EDUCATION" href="/som/0,4669,7-192-29939---,00.html">EDUCATION</a> </li> 
+         <li id="29942" class="id-29942 "> <a class="lvl1" title="HEALTH" href="/som/0,4669,7-192-29942---,00.html">HEALTH</a> </li> 
+         <li id="29701" class="id-29701 "> <a class="lvl1" title="GOVERNMENT" href="/som/0,4669,7-192-29701---,00.html">GOVERNMENT</a> </li> 
+         <li id="29941" class="id-29941 "> <a class="lvl1" title="SAFETY" href="/som/0,4669,7-192-29941---,00.html">SAFETY</a> </li> 
+        </ul> 
+        <ul id="desktopMobileButton" style="display:none;"> 
+         <li><a aria-haspopup="true" href="#mobile-canvas-menu-container" data-toggle-class="show-mobile-nav" class="toggle-mobile-menu outer-link text-center toggle-mobile-menu-controls"> <span class="fa fa-bars mobile-menu-closed-icon toggle-mobile-menu-controls"></span><span class="fa fa-times mobile-menu-showing-icon toggle-mobile-menu-controls"></span> 
+           <div class="clearfix">
+            MENU
+           </div> </a></li> 
+        </ul> 
+       </nav> 
+      </div> 
+      <!-- End Flyout Navigation -->
+      <!-- Left Links -->
+      <!-- End Left Links -->
+     </div>
+    </div>
+    <div class="siteBannerTxt">
+     State of Michigan 
+    </div> 
+    <div id="horzMenuSubLinksBlock_container" class="container">
+     <div id="horzMenuSubLinksRow">
+      <div id="horzMenuSubLinksBlockBreadCrumb"></div>
+     </div>
+     <div id="horzMenuSubLinksBlock"></div>
+    </div>
+   </div> 
+   <div id="topNavSearch"> 
+    <!-- SEARCH -->
+    <form id="searchform" onsubmit="location.href='https://search.michigan.gov/AppBuilder/search?ctx=SOM&amp;q=' + document.getElementById('query').value;return false;"> 
+     <input accesskey="s" type="TEXT" autocomplete="off" id="query" name="q" placeholder="Search" title="Search"> 
+     <input id="go" type="submit" value="search" name="button" onClick="location.href='https://search.michigan.gov/AppBuilder/search?ctx=SOM&amp;q=' + document.getElementById('query').value;return false;"> 
+    </form>
+    <!-- /SEARCH -->
+   </div>
+   <!-- LEFTNAV agencyCreateLeftNavRD --> 
+   <!-- bodyWrapper --> 
+   <div id="bodyWrapper"> 
+    <!-- contentWrapper --> 
+    <div id="contentWrapper"> 
+     <!-- main -->
+     <div id="main" class="DW page" role="main"> 
+      <div id="breadcrumbContainer">
+       <div id="breadcrumb" role="navigation" aria-label="breadcrumbs">
+        <span style="display: none" id="breadcrumblabel">You are here</span>
+        <ol class="breadcrumb" aria-labelledby="breadcrumblabel">
+         <li><a href="/som/">SOM</a></li>
+        </ol>
+       </div>
+      </div> 
+      <div class="page-header sr-only">
+       <h1>Michigan Policies</h1>
+      </div> 
+      <!-- Body Begin --> 
+      <!-- State Of Michigan - Fri Apr 26 14:18:27 2019 --> 
+      <!-- Begin CDA Create Content HTML --> 
+      <div class="fullContent">
+       <h2 id="TITLETXT_281460" class="TITLETEXT">Michigan Policies</h2>
+       <!-- BODY --> 
+       <h2>Terms of Use</h2> 
+       <p>The Michigan.gov portal is provided as a public service and is owned and operated by the State of Michigan (the State).</p> 
+       <p>If you visit Michigan.gov, you agree to these terms and policies.</p> 
+       <p>All content on Michigan.gov is the property of the State or its content suppliers and is protected by intellectual property laws.</p> 
+       <p>Michigan.gov is for personal and non-commercial use only. You may not modify, copy, distribute, display, reproduce, publish, license, create derivative works from, sell, or transfer information, products, or services obtained from Michigan.gov unless the law otherwise provides or the State gives you prior written permission.</p> 
+       <p>Use of content, images, designs, or logos from Michigan.gov on another website or on a networked computer environment is prohibited, except as permitted under the Linking Policy, or if the State gives you prior written permission.</p> 
+       <p>You may not use Michigan.gov or any of its content for any purpose that is unlawful or to solicit the performance of any illegal activity or other activity that infringes upon the rights of the State or others.</p> 
+       <p>The State does not promise that Michigan.gov or any content, service, or feature of the website will be error-free or uninterrupted. Information is provided on an "as is" and "as available" basis.</p> 
+       <p>We may amend these terms and policies from time to time.</p> 
+       <p><a name="accessibility"></a></p> 
+       <h2>Accessibility Policy</h2> 
+       <p>Michigan recognizes the importance of making its digital government services available to the largest possible audience and has attempted to design the Michigan.gov website to be accessible by everyone. &nbsp;This website was coded to comply with both the Americans With Disabilities Act and conformance level AA of the World Wide Web Consortium (W3C) Web Content Accessibility Guidelines 2.0. &nbsp;Users who wish to view these specifications can do so at: <a href="http://www.w3.org/TR/WCAG20/" target="_new">Web Content Accessibility Guidelines 2.0</a>.</p> 
+       <p>Along with conformance level AA compliance, efforts have been made to ensure compatibility with common technologies utilized by the adaptive community. This site has been tested for compliance with screen magnification software, screen-reading software, and text-only browsers.</p> 
+       <p>Michigan will continue to test future releases of this site and remains committed to maintaining its compliance and serving the widest possible audience for Michigan's digital government services.</p> 
+       <p>To help ensure usability and accessibility, Michigan has adopted formal <a href="/somlookandfeelstandards" target="_new">Look and Feel Standards</a>. All Michigan.gov websites are required to be built within the guidelines of these standards.</p> 
+       <p>If you cannot fully access the information on any web page of this site, please <a href="http://www.michigan.gov/som/0,4669,7-192-63493-352839--,00.html">contact us</a> and let us know the accessibility issue you are having.&nbsp; We will try to provide the information to you in an alternate format or make the necessary improvements to make the information accessible.</p> 
+       <!-- ################### insert MDE extra policies here ################# --> 
+       <div id="MDE-pol" style="display: none;"> 
+        <p>STATEMENT OF COMPLIANCE WITH FEDERAL LAW</p> 
+        <p>The Michigan Department of Education complies with all Federal laws and regulations prohibiting discrimination, and with all requirements of the U.S. Department of Education and U.S. Department of Agriculture.</p> 
+        <p>The Michigan Department of Education does not discriminate on the basis of race, color, national origin, sex, disability, or age in its programs and activities and provides equal access to the Boy Scouts and other designated youth groups.</p> 
+        <p>USDA NON-DISCRIMINATION</p> 
+        <p>The U.S. Department of Agriculture prohibits discrimination against its customers, employees, and applicants for employment on the bases of race, color, national origin, age, disability, sex, gender identity, religion, reprisal, and where applicable, political beliefs, marital status, familial or parental status, sexual orientation, or all or part of an individual’s income is derived from any public assistance program, or protected genetic information in employment or in any program or activity conducted or funded by the Department. (Not all prohibited bases will apply to all programs and/or employment activities.)</p> 
+        <p>If you wish to file a Civil Rights program complaint of discrimination, complete the USDA Program Discrimination Complaint Form, found online at http://www.ascr.usda.gov/complaint_filing_cust.html, or at any USDA office, or call (866) 632-9992 to request the form. You may also write a letter containing all of the information requested in the form. Send your completed complaint form or letter to us by mail at U.S. Department of Agriculture, Director, Office of Adjudication, 1400 Independence Avenue, S.W., Washington, D.C. 20250-9410, by fax (202) 690-7442 or email at <a href="mailto:program.intake@usda.gov">program.intake@usda.gov</a>.</p> 
+        <p>Individuals who are deaf, hard of hearing or have speech disabilities may contact USDA through the Federal Relay Service at (800) 877-8339; or (800) 845-6136 (Spanish).</p> 
+        <p>USDA is an equal opportunity provider and employer.</p> 
+        <p>The following persons have been designated to handle inquiries regarding the non-discrimination policies:</p> 
+        <p>Title II and Section 504 Coordinator<br> Hannah Collins<br> Michigan Department of Education<br> 608 West Allegan Street<br> P.O. Box 30008<br> Lansing, Michigan 48909<br> 517-241-1253?<br> <a href="mailto:collinsH3@michigan.gov">collinsH3@michigan.gov</a></p> 
+        <p>&nbsp;</p> 
+        <p>Title IX Coordinator<br> Elizabeth Collins<br> Michigan Department of Education<br> 608 West Allegan<br> P.O. Box 30008<br> Lansing, Michigan 48909<br> 517-241-2091<br> <a href="mailto:CollinsE2@michigan.gov">CollinsE2@michigan.gov</a></p> 
+        <p>&nbsp;</p> 
+        <p>Web Accessibility Coordinator<br> Mike Flaminio<br> Michigan Department of Education<br> 608 West Allegan Street<br> P.O. Box 30008<br> Lansing, Michigan 48909<br> 517-241-2326<br> <a href="mailto:flaminiom@michigan.gov">flaminiom@michigan.gov</a></p> 
+        <p>The MDE has a&nbsp;plan to ensure that the Accessibility Policy is fully implemented for its website. If you would like a copy of this plan, please contact the MDE Web Accessibility Coordinator Mike Flaminio.</p> 
+        <p>&nbsp;</p> 
+       </div> 
+       <!-- ################### End MDE extra policies ################# --> 
+       <p><a name="privacy"></a></p> 
+       <h2>Privacy Policy</h2> 
+       <p>When you access Michigan.gov, we may gather information in the following ways:</p> 
+       <ul> 
+        <li><strong>Information collected automatically</strong>.&nbsp;Michigan.gov uses Google Analytics to collect and process some of your information.&nbsp;This may include information about how you linked to Michigan.gov, when you accessed our website, the searches you initiated, things you clicked on, your IP address, the type of browser and operating system you used, and the pages you requested and visited.&nbsp;This information is aggregated and is used to improve the website. For more information, please visit Google's website to <a href="https://www.google.com/policies/privacy/partners/" target="_blank">learn how Google uses data when you use our websites or applications</a>.</li> 
+       </ul> 
+       <ul> 
+        <li><strong>Information voluntarily submitted</strong>.&nbsp;The State (or our third party vendors) may collect additional information if you voluntarily provide it (e.g., in connection with an online transaction).&nbsp;The type of information varies by transaction and may include: your name, address, phone number, email address, social security or federal identification number, credit card number, driver license number, username, and password.</li> 
+       </ul> 
+       <p><strong>Emails from us</strong></p> 
+       <p>If you provide us with your email address, we may use it to email you newsletters and announcements.</p> 
+       <p>You may unsubscribe to these services by following the instructions contained in the email.</p> 
+       <p><strong>Information on third party provided by user</strong></p> 
+       <p>If you provide us with information about a third party, we may retain that information to provide the service requested. For example, users may share articles on Michigan.gov with a third party through the "mail to a friend" option.</p> 
+       <p><strong>Cookies</strong><br> <br> Michigan.gov uses "cookies" to customize your browsing experience. A cookie is a small text file that is saved on your computer when you visit a website.</p> 
+       <p>Session cookies allow you to move through many pages of a website quickly and easily without having to authenticate or reprocess each new area you visit. Session cookies are destroyed after successful completion of a transaction, after a few minutes of inactivity, or when the browser is closed.</p> 
+       <p>Persistent cookies help websites remember your information and settings when you visit them in the future. They continue to exist after a few minutes of inactivity, after the browser is closed, or after a user completes a single session. Persistent cookies generated by Michigan.gov expire within five years.</p> 
+       <p>Michigan.gov uses cookies in the following ways:</p> 
+       <ul> 
+        <li>To help you to conduct online transactions.</li> 
+        <li>To perform statistical analyses on website usage to understand how people are using the website and how we can improve it.</li> 
+       </ul> 
+       <p>If you choose to do so, you can configure your browser to notify you when a new cookie is received.&nbsp;You can also view and delete existing cookies, prevent your browser from accepting new cookies, and disable cookies altogether.&nbsp;If you disable cookies, you can still use Michigan.gov, but your ability to use some areas or functions of the website may be limited.</p> 
+       <p><strong>Sharing information</strong></p> 
+       <p>We will only share personal information about you with others if:</p> 
+       <ul> 
+        <li>We have your consent to share the information, or</li> 
+        <li>We need to share your information to provide the product or service you have requested, or</li> 
+        <li>We are authorized to do so by law. E.g., to respond to subpoenas, court orders, legal process, or to requests pursuant to a statute requiring or permitting disclosure such as the Michigan Freedom of Information Act, MCL 15.231, <em>et seq</em>.</li> 
+       </ul> 
+       <p>We limit access to personally identifiable information gathered through Michigan.gov to employees and agents who need access to perform a specific job. Security measures have been integrated into the design, implementation, and day-to-day operations of this website as part of our continuing commitment to the security of electronic content as well as the electronic transmission of information.</p> 
+       <p>Michigan.gov uses Secure Sockets Layer (SSL) technology to encrypt and protect your personal financial information during Internet transmissions.</p> 
+       <p><strong>Outside links</strong></p> 
+       <p>We provide links to other organizations through Michigan.gov. These links provide are for informational purposes only. In providing these links, we do not endorse the content, products, services, or viewpoints of these external websites. Once you leave Michigan.gov and link to an external website, Michigan.gov terms and policies no longer apply.</p> 
+       <p><strong>Children's Online Privacy Protection Act</strong></p> 
+       <p>Individuals under the age of 13 are not eligible to use services that require submission of personal information and should not submit any personal information to Michigan.gov. This includes submitting personal information to Michigan.gov as part of a user profile or personalization profile. If you are an individual under the age of 13, you may use these services only if used with your parent or legal guardian.</p> 
+       <p><a name="security"></a></p> 
+       <h2>Security Policy</h2> 
+       <p>The State of Michigan, as developer and manager of the Michigan portal has taken a number of steps to safeguard the integrity of its data and prevent unauthorized access to information that is maintained in agency computer systems. These measures are designed and intended to prevent corruption of data, block unknown or unauthorized access to our systems and information, ensure the integrity of information that is transmitted between users of e-government applications and the State, and to provide reasonable protection of private information that is in our possession.</p> 
+       <p>For security purposes and to make sure this service remains available to all users, the State of Michigan uses special software programs for monitoring and auditing network traffic to identify unauthorized attempts to upload or change information, or otherwise to cause damage to this government computer system. The State of Michigan also uses industry-standard software tools to control access to specific applications and services and to protect data that is transmitted electronically between users and the State. These programs help us identify someone attempting to tamper with this Web site.</p> 
+       <p><strong>WARNING</strong> -- If security monitoring reveals possible evidence of criminal activity, information pertaining to such activity may be provided to law enforcement officials.</p> 
+       <p>Unauthorized attempts to upload information and/or change information on the Michigan portal or its composite web sites are strictly prohibited and are subject to prosecution under the Computer Fraud and Abuse Act of 1986 and Title 18 U.S.C. Sec.1001 and 1030.</p> 
+       <p>The information contained in this policy statement should not be construed in any way as giving business, legal, or other advice, or warranting as fail proof, the security of information provided via the Michigan portal or the web sites of individual state agencies.</p> 
+       <p><a name="link"></a></p> 
+       <h2>Link Policy</h2> 
+       <p>Linking to Michigan.gov is permitted under limited conditions.</p> 
+       <p>If you link to Michigan.gov, you must not: (1) portray any person, entity, or subject in a false or misleading light; (2) visually alter Michigan.gov pages being linked to; or (3) imply that the State endorses your products or services.</p> 
+       <p>To link to Michigan.gov, use the following HTML code:</p> 
+       <p style="text-align: center;">&lt;a href="http://www.michigan.gov"&gt;Michigan.Gov&lt;/a&gt;</p> 
+       <p>You may also link to individual State department or agency websites by creating a text link to a specific State department or agency. You are not, however, permitted to use the individual State department or agency logo for linking purposes.</p> 
+       <h3>Mobile Application License Terms of Use</h3> 
+       <p>Please see the <a href="http://www.michigan.gov/som/0,4669,7-192--285832--,00.html">State of Michigan Mobile Application License Terms of Use</a> for Mobile Application Terms and Conditions.</p> 
+       <p>Effective Date: August 2015</p> 
+       <script>
+//alert(location.pathname.indexOf('/mde'));
+if (location.pathname.indexOf('/mde') == 0 || location.pathname.indexOf('/safeschools') == 0 || location.pathname.indexOf('/libraryofmichigan') == 0) {
+	document.getElementById('MDE-pol').style.display='block';
+}
+</script> 
+      </div>
+      <!-- /End CDA Create Content--> 
+      <!-- Body End --> 
+     </div> 
+     <!-- START RIGHT_NAV 7-192--281460-- ~ 7-192--281460-- ~ 7-192--281460-- --> 
+     <!-- State Of Michigan - Fri Apr 12 14:33:08 2019 --> 
+     <!-- BEGIN RIGHTNAV HTML CODE  --> 
+     <!-- Agency category -->
+     <!-- Begin Global Nav section RD -->
+     <!-- End Global Nav section RD --> 
+     <!-- Begin RightNav RD section --> 
+     <div id="globalQuicklinks">
+      <div class="qltitleglobal">
+       Related Content
+      </div>
+      <ul class="DISC">
+       <li><a href="/adaform">ADA</a></li>
+       <li><a href="/som/0,4669,7-192--285832--,00.html">State of Michigan Mobile Application License Terms of Use</a></li>
+      </ul>
+     </div>
+     <!-- Local Quicklinks RD --> 
+     <!-- End RightNav RD section --> 
+     <!-- End My Interests/RightNav Links/Related Content/Right Links --> 
+     <!-- Cache Debug Info
+
+--> 
+     <!-- END RIGHT_NAV --> 
+     <!-- /div --> 
+    </div>
+    <!-- /contentWrapper --> 
+   </div>
+   <!-- /bodyWrapper --> 
+   <!-- BOTTOMNAV --> 
+   <!-- BEGIN FOOTER RD --> 
+   <div id="footerArea" role="contentinfo" style="clear: both"> 
+    <!-- begin expanded footer -->
+    <div id="expandedFooter">
+     <div id="cat_72339" class="footer_1">
+      <h2>Michigan.gov logo</h2>
+      <ul>
+       <li><a href="/som"><img src="/images/som/somFooterLogoBOW2015_491229_7.png" alt="Michigan.gov"></a></li>
+      </ul>
+     </div>
+     <div id="agencylinks" class="footer_1">
+      <ul>
+       <li><a href="/som/0,4669,7-192-39925---,00.html">Foreign Languages</a></li>
+       <li><a href="/disabilityresources">Disability Resources</a></li>
+      </ul>
+     </div>
+     <div id="policylinks" class="footer_1">
+      <ul>
+       <li><a href="/">Michigan.gov Home</a></li>
+       <li><a href="/adaform">ADA</a></li>
+       <li><a href="/minewswire">Michigan News</a></li>
+       <li><a href="/som/0,4669,7-192--281460--,00.html">Policies</a></li>
+      </ul>
+     </div>
+    </div>
+    <br>
+    <span class="copyright"><br>Copyright 2019 State of Michigan</span>
+    <!-- end expanded footer -->
+    <script type="text/javascript">
+if (typeof jQuery == 'undefined') {
+    document.querySelector('body').classList.remove('matching-heights-processing');
+	document.getElementById("noAdBlock").style.display = "block";
+}
+</script> 
+   </div> 
+   <!--END DIV CONTAINER--> 
+  </div> 
+  <!-- Mega Menu Block --> 
+  <div id="megaMenuBlock"> 
+   <div id="megaMenuSubLinksBlock_container"> 
+    <div class="container"> 
+     <div class="col-xs-3"> 
+      <div id="megaMenuLogoBlock"> 
+       <a href="/som"> <img src="/images/som/final_logo_migov_white_526452_7.png" class="img-responsive logo" alt="State of Michigan "></a> 
+      </div> 
+     </div> 
+     <div class="col-xs-9"> 
+      <div id="megaMenuSubLinksBlockBreadCrumb"></div> 
+      <div id="megaMenuSubLinksBlock"></div> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="megaMenuSearchBlock"></div> 
+  </div> 
+  <style type="text/css">
+
+</style> 
+  <!-- stmiws102.prdcloud.fms.ibmcloud.com rjp NT -->  
+ </body>
+</html>

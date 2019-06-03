@@ -1,0 +1,416 @@
+<!doctype html>
+<html lang="en" dir="ltr" prefix="fb: //www.facebook.com/2008/fbml">
+ <head> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <!-- Google Tag Manager --> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-WLMC86');</script> 
+  <!-- End Google Tag Manager --> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <link rel="shortcut icon" href="https://www.archives.gov/files/apple-icon.png" type="image/png"> 
+  <meta name="description" content="Integrated Acquisition Environment  See our initial inventory of all service contracts awarded by the National Archives:"> 
+  <meta name="generator" content="Drupal 7 (http://drupal.org)"> 
+  <link rel="canonical" href="https://www.archives.gov/contracts"> 
+  <meta property="og:site_name" content="National Archives"> 
+  <meta property="og:type" content="article"> 
+  <meta property="og:url" content="https://www.archives.gov/contracts"> 
+  <meta property="og:title" content="Doing Business With The National Archives"> 
+  <meta property="og:description" content="Integrated Acquisition Environment  See our initial inventory of all service contracts awarded by the National Archives:"> 
+  <meta property="og:updated_time" content="2019-03-18T16:41:58-04:00"> 
+  <meta name="twitter:card" content="summary"> 
+  <meta name="twitter:url" content="https://www.archives.gov/contracts"> 
+  <meta name="twitter:title" content="Doing Business With The National Archives"> 
+  <meta name="twitter:description" content="Integrated Acquisition Environment  See our initial inventory of all service contracts awarded by the National Archives:"> 
+  <meta property="article:published_time" content="2016-08-15T17:40:34-04:00"> 
+  <meta property="article:modified_time" content="2019-03-18T16:41:58-04:00"> 
+  <title>Doing Business With The National Archives | National Archives</title> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_9Q-k-fv_k3FHvcs9CSZ2iD5CTqFxrfaej2FCw2mYIoA.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_BTbypzlNYVbptuza8qzKwXCnB4TjuEzUY43Cz2FsXVA.css" media="all"> 
+  <style>.section-theme #title-bar{background:#7e2d29 url("https://www.archives.gov/files/global-images/section-headers/about.png") no-repeat center right;}.section-theme #mega-footer > h2{background:#7e2d29}.section-theme #title-bar .breadcrumb{background-color:rgba(207,74,67,0.5);}.section-theme th{background-color:#7e2d29 !important;}
+</style> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_NkrvYXS3XFN6HNXLylk-Jr8h6vd7bMQSZUSOsRKtvhE.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_adYIwY5AiFQ05gx1uTxNpkKu9JMeTmi7MedA-D3wWww.css" media="all"> 
+  <!-- HTML5 element support for IE6-8 --> 
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]--> 
+  <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic|Merriweather"> 
+  <script src="https://www.archives.gov/files/js/js_0RyHJ63yYLuaWsodCPCgSD8dcTIA0dqcDf8-7c2XdBw.js"></script> 
+  <script src="https://www.archives.gov/files/js/js_0pQJ_xts95IaRyXneDD9tPnYjBy63RQPzNHeLe2LDCg.js"></script> 
+  <script src="https://www.archives.gov/files/js/js_4DGuaDZ5Ckd4u9axaS2f90X-RYp7QlC5RWbsjSLu2-8.js"></script> 
+  <script src="https://www.archives.gov/files/js/js_KyGDO1Fxjv5b9iLtei_bvtKprP3C83MXZ8wgYXbj8bA.js"></script> 
+  <script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"nara","theme_token":"YxY1jWgIvqiCP4rpS81HUiP3bQc2bQaDTFZjYDSwxew","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/custom\/archives_ui\/scripts\/helptext.js":1,"sites\/all\/modules\/custom\/argentina\/js\/script.js":1,"sites\/all\/modules\/custom\/nara_catalog\/js\/script.js":1,"sites\/all\/modules\/contrib\/user_alert\/js\/user-alert.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/custom\/nara_custom\/js\/nara_custom.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/affix.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/alert.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/button.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/carousel.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/collapse.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/dropdown.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/modal.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/tooltip.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/popover.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/scrollspy.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/tab.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/transition.js":1,"sites\/all\/themes\/nara\/scripts\/jPanelMenu.js":1,"sites\/all\/themes\/nara\/scripts\/jRespond.js":1,"sites\/all\/themes\/nara\/scripts\/matchHeight.min.js":1,"sites\/all\/themes\/nara\/scripts\/jquery.fancybox.pack.js":1,"sites\/all\/themes\/nara\/scripts\/toc.js":1,"sites\/all\/themes\/nara\/scripts\/scripts.js":1,"sites\/all\/themes\/nara\/scripts\/jquery.scrollTo.js":1,"sites\/all\/themes\/nara\/scripts\/mediagallery.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/custom\/archives_ui\/css\/font-awesome.min.css":1,"sites\/all\/modules\/custom\/archives_ui\/css\/helptext.css":1,"sites\/all\/modules\/custom\/archives_ui\/css\/ckeditor_custom.css":1,"sites\/all\/modules\/custom\/argentina\/css\/argentina_style.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/custom\/liaisons\/css\/liaisons_style.css":1,"sites\/all\/modules\/custom\/nara_catalog\/css\/nara-api-style.css":1,"sites\/all\/modules\/archive_features\/nara_timeline\/css\/custom.css":1,"sites\/all\/modules\/archive_features\/nara_timeline\/css\/timeline.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/user_alert\/css\/user-alert.css":1,"sites\/all\/modules\/custom\/varnish_purge\/css\/varnishpurge.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"0":1,"sites\/all\/modules\/custom\/nara_custom\/css\/nara_custom.css":1,"sites\/all\/themes\/nara\/css\/jquery.fancybox.css":1,"sites\/all\/themes\/nara\/css\/jquery.fancybox-thumbs.css":1,"sites\/all\/themes\/nara\/css\/do_not_edit.css":1,"sites\/all\/themes\/nara\/css\/bootstrap.min.css":1,"sites\/all\/themes\/nara\/css\/styles.css":1,"sites\/all\/themes\/nara\/css\/vertical-tabs.css":1,"sites\/all\/themes\/nara\/css\/overrides.css":1,"sites\/all\/themes\/nara\/css\/mediagallery.css":1}},"archives_ui":{"trustedDomains":["twitter\\.com","youtube\\.com","youtu\\.be","recordsofrights\\.org","presidentialtimeline\\.org","nationalarchivesstore\\.org","bush41\\.org","nara\\.learn\\.com","bush41\\.org","bushlibrary\\.tamu\\.edu","fdrlibrary\\.marist\\.edu","georgewbushlibrary\\.smu\\.edu","lbjlibrary\\.org","trumanlibrary\\.org","fdrlibrary\\.org","archivesfoundation\\.org","jfklibrary\\.org","Myarchivesstore\\.org","docsteach\\.org","digitalvaults\\.org","jfk50\\.org","reagan\\.utexas\\.edu","clinton\\.presidentiallibraries\\.us","fdrlibrary\\.org","us11\\.campaign-archive.?\\.com","lbjlibrary\\.net","github\\.io","github\\.com","eventbrite\\.com","facebook\\.com","pinterest\\.com","tumblr\\.com","google\\.com","historypin\\.org","giphy\\.com","instagram\\.com","flickr\\.com","foursquare\\.com","addthis\\.com","apple\\.com","georgebushfoundation\\.org","clintonpresidentialcenter\\.org","geraldrfordfoundation\\.org","reaganfoundation\\.org","rooseveltinstitute\\.org","socialarchive\\.iath\\.virginia.edu","s3\\.amazonaws\\.com","surveymonkey\\.com","storify\\.com","constantcontact\\.com","snaccooperative\\.org"]},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"user_alert":{"url_prefix":"","current_path":"contracts"},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script> 
+  <style type="text/css">
+div.form-item-body-und-0-format {
+	display:none;
+}
+div.form-item-field-col-b-und-0-format {
+	display:none;
+}
+div.filter-guidelines {
+	display:none;
+}
+div.filter-help {
+	display:none;
+}
+</style> 
+  <style type="text/css">
+ul.nav-tabs {
+display:none;
+}
+#block-workbench-block {
+display:none;
+}
+</style> 
+ </head> 
+ <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-47504 node-type-3-col-page "> 
+  <!-- Google Tag Manager (noscript) --> 
+  <noscript>
+   <iframe alt="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-WLMC86" height="0" width="0" style="display:none;visibility:hidden" title="Google Tag Manager"></iframe>
+  </noscript> 
+  <!-- End Google Tag Manager (noscript) --> 
+  <div id="background-gradient"> 
+   <div class="wrapper section-theme "> 
+    <a class="back-to-top" href="#page-header" style="display: none;">Top</a> 
+    <div id="skip-link"> 
+     <a href="#main-col" class="element-invisible element-focusable">Skip to main content</a> 
+    </div> 
+    <div class="wrapper section-theme"> 
+     <header id="page-header"> 
+      <div class="region region-header"> 
+       <section id="block-block-53" class="block block-block clearfix"> 
+        <div class="col-sm-6" id="logo-wrapper"> 
+         <div id="logo">
+          <a href="/">The U.S. National Archives Home</a>
+         </div> 
+         <button id="nav-toggle" class="navbar-toggle" type="button"></button> 
+        </div> 
+        <div class="col-sm-6" id="search-wrapper"> 
+         <div id="top-links"> 
+          <a class="noBorder" href="/social-media/blogs.html">Blogs</a> · 
+          <script type="text/javascript">// <![CDATA[
+        var addthis_pub = "usarchives";
+        var addthis_offset_left = -40;
+        var addthis_brand = "Archives.gov";
+        // ]]></script> 
+          <a class="addthisLink" onclick="return addthis_sendto();" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]');" onmouseout="addthis_close();" onfocus="return addthis_open(this, '', '[URL]', '[TITLE]');" onblur="addthis_close();" href="https://www.addthis.com/bookmark.php?v=250">Bookmark/Share</a> · 
+          <script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js"></script> 
+          <a href="/contact">Contact Us</a> 
+         </div> 
+         <div class="input-group" id="site-search"> 
+          <form action="https://search.archives.gov/search" method="get" name="search"> 
+           <input class="form-control" id="qt" accesskey="s" type="text" name="query" placeholder="Search Archives.gov" title="Search Archives.gov"> 
+           <span class="input-group-btn"> <button class="btn btn-default" id="go" type="submit" name="submit">Search</button> </span> 
+           <input type="hidden" value="" name="utf8"> 
+           <input id="affiliate" type="hidden" value="national-archives" name="affiliate"> 
+          </form> 
+         </div> 
+        </div> 
+       </section> 
+      </div> 
+     </header> 
+     <!-- /#page-header --> 
+     <nav id="main-nav" class="clearfix "> 
+      <h2 class="element-invisible">Main menu</h2>
+      <ul id="main-menu-links" class="links clearfix make-eq">
+       <li class="menu-859 first research"><a href="/research" title="Explore our nation's history through our documents, photographs, and records." id="research">Research Our Records</a></li> 
+       <li class="menu-860 veterans"><a href="/veterans" title="Request military records and learn about other services for yourself or a family member." id="veterans" class="veterans">Veterans' Service Records</a></li> 
+       <li class="menu-861 teachers"><a href="/education" title="Engage students with lesson plans and other classroom materials." id="teachers" class="teachers">Educator Resources</a></li> 
+       <li class="menu-862 locations"><a href="/locations" title="Plan a trip to a facility near you or learn about our national network of locations and services." id="locations" class="locations">Visit Us</a></li> 
+       <li class="menu-367 last shop"><a href="/founding-docs" title="Order books, gift items, photographic prints, and document reproductions online." id="shop" class="shop">America's Founding Documents</a></li> 
+      </ul> 
+     </nav>
+     <!-- /main-nav --> 
+     <div class="page-body-wrapper"> 
+      <div id="page-body" class="no-sidebar"> 
+       <header id="title-bar"> 
+        <p>Doing Business with NARA</p> 
+        <div class="breadcrumb"> 
+         <a href="/">Home</a> &gt; Doing Business With The National Archives 
+        </div>
+        <!-- /breadcrumbs --> 
+       </header> 
+       <div class="row"> 
+        <nav class="col-sm-2"> 
+         <aside id="sidebar-first"> 
+          <nav id="left-menu" class=""> 
+           <div class="nwidget nsnippet" data-name="print-page-left" data-version="1"> 
+            <div id="shared-home-menu"> 
+             <div id="shared-home-about"> 
+              <h3>What We Do</h3> 
+              <ul> 
+               <li><a href="/about/">About the National Archives</a></li> 
+               <li><a href="/locations/">Locations/Visit Us</a></li> 
+               <li><a href="/calendar/">Calendar of Events</a></li> 
+               <li><a href="/news/">National Archives News</a></li> 
+               <li><a href="/nae/support/">Support the Archives</a></li> 
+              </ul> 
+             </div> 
+             <div id="shared-home-explore"> 
+              <h3>Explore &amp; Interact</h3> 
+              <ul> 
+               <li><a href="/nae/">National Archives Experience</a></li> 
+               <li><a href="/historical-docs/">America's Historical Documents</a></li> 
+               <li><a href="/exhibits/">Online Exhibits</a></li> 
+               <li><a href="/presidential-libraries/">Presidential Libraries</a></li> 
+              </ul> 
+             </div> 
+             <div id="shared-home-research"> 
+              <h3>Research &amp; Order</h3> 
+              <ul> 
+               <li><a href="/research/">Start Your Research</a></li> 
+               <li><a href="/research/order/">Obtain Copies</a></li> 
+               <li> <a href="/shop/">Order Online</a> </li> 
+               <li><a href="/publications/">Publications</a></li> 
+               <li><a href="/forms/">Forms</a></li> 
+              </ul> 
+             </div> 
+             <h3>Federal Records</h3> 
+             <ul> 
+              <li><a href="/legislative/">Legislative Branch</a></li> 
+              <li><a href="/executive/">Executive Branch</a></li> 
+              <li><a href="/judicial/">Judicial Branch</a></li> 
+             </ul> 
+             <h3>Participate in Government</h3> 
+             <ul> 
+              <li><a href="/federal-register/">Federal Register</a></li> 
+              <li><a href="/federal-register/electoral-college/">Electoral College</a></li> 
+              <li><a href="/comment/">Your Voice Matters</a></li> 
+              <li><a href="/oig/">Inspector General</a></li> 
+             </ul> 
+             <h3>Apply For...</h3> 
+             <ul> 
+              <li><a href="/careers/">Jobs, Internships &amp; Volunteering</a></li> 
+              <li><a href="/grants/">Grants</a></li> 
+             </ul> 
+            </div> 
+           </div> 
+          </nav> 
+         </aside> 
+         <!-- /#sidebar-first --> 
+        </nav> 
+        <div id="main-col" class="col-sm-10"> 
+         <p id="print-logo"> <img src="/sites/all/themes/nara/images/nara-print-logo.jpg" alt="National Archives Logo"> </p> 
+         <div class="region region-content"> 
+          <section id="block-system-main" class="block block-system clearfix"> 
+           <h1>Doing Business With The National Archives</h1> 
+           <h3>Integrated Acquisition Environment</h3> 
+           <div class="smaller floatRight width45 spaceAbove spaceLeft outline">
+            <!--   <h4>Service Contract Inventory</h4>--> 
+            <p>See our initial inventory of all service contracts awarded by the National Archives:</p> 
+            <ul class="smaller"> 
+             <li class="spaceAbove spaceBelow"><a href="/files/2015-service-contract-inventory.pdf">2015</a> <a class="pdfImage" href="/files/2015-service-contract-inventory.pdf"> </a><br> <a href="/files/2015-appendix-b.pdf">Appendix B</a> <a class="pdfImage" href="/files/2015-appendix-b.pdf"> </a><br> <a href="/files/2015-appendix-c.pdf">Appendix C</a> <a class="pdfImage" href="/files/2015-appendix-c.pdf"> </a><br> <br> <strong>Archive of Previous Reports</strong></li> 
+             <li class="spaceAbove spaceBelow"><a class="pdfImage" href="/files/contracts/2014-final.pdf">2014 </a><br> <a class="pdfImage" href="/files/contracts/2014-appendix-b.pdf">Appendix B</a><br> <a class="pdfImage" href="/files/contracts/2014-appendix-c.pdf">Appendix C</a><br> <a class="pdfImage" href="/files/contracts/2014-contract-type.pdf">Contract Type</a></li> 
+             <li class="spaceAbove spaceBelow">Service Contract Inventory<br> <a class="pdfImage" href="/files/contracts/service-contract-inventory-2010.pdf">2010</a> <a class="pdfImage" href="/files/contracts/service-contract-inventory-2011.pdf">2011</a> <a class="pdfImage" href="/files/contracts/service-contract-inventory-2012.pdf">2012</a> <a class="pdfImage" href="/files/contracts/service-contract-inventory-2013.pdf">2013</a></li> 
+             <li class="spaceAbove spaceBelow">Service Contract Inventory Summary<br> <a class="pdfImage" href="/files/contracts/service-contract-inventory-summary-2010.pdf">2010</a> <a class="pdfImage" href="/files/contracts/service-contract-inventory-summary-2011.pdf">2011</a> <a class="pdfImage" href="/files/contracts/service-contract-inventory-summary-2012.pdf">2012</a></li> 
+             <li class="spaceAbove spaceBelow">Service Contract Inventory Analysis<br> <a class="pdfImage" href="/files/contracts/service-contract-inventory-analysis-2011.pdf">2011</a> <a class="pdfImage" href="/files/contracts/service-contract-inventory-analysis-2012.pdf">2012</a> <a class="pdfImage" href="/files/contracts/service-contract-inventory-analysis-2013.pdf">2013</a></li> 
+            </ul> 
+            <div class="smallest">
+             (Provided as required by the FY2010 Consolidated Appropriations Act, P.L. 111-117)
+            </div> 
+            <!-- <hr />
+  <p><strong> Questions or Comments?
+   </strong></p>
+   <ul>
+     <li>   Contact <a href="mailto:allen.edgar@nara.gov">Allen Edgar</a><br />
+301-837-1489</li>
+   </ul>-->
+           </div> 
+           <p>GSA's <a href="http://www.bpn.gov">Business Partner Network (BPN)</a><br> We currently participate in all but two of these portals. The Business Partner Network is the single source for vendor data for the Federal Government. The BPN is a search mechanism that provides unprecedented views into several key data bases across Federal Agencies. These are all useful websites that generally save much time and money. The portals we commonly use follow:</p> 
+           <p><a href="https://www.sam.gov/portal/SAM/##11">Central Contract Registration (CCR)</a><br> Central Contract Registration is the single registration point for all of industry for Government contracts. If a firm does not register at this site, they will not be eligible for Federal Government awards.</p> 
+           <p><a href="http://www.fedbizopps.gov/">Federal Business Opportunities (FedBizOpps)</a><br> FedBizOpps is the single point for industry to view Government requirements. Vendors can search by a number of different categories, go in and see what each Federal Agency or Defense Agency intends to buy, and industry can also register for notification of requirements at FedBizOpps.</p> 
+           <!--<p>NARA postings by office on the Federal Business Opportunities page: <a href="http://www.fbo.gov/spg/NARA/index.html">http://www.fbo.gov/spg/NARA/index.html</a></p>--> 
+           <p><a href="http://www.sba.gov">Small Business Administration (SBA)</a><br> The SBA Home Page provides a myriad of information to and for small businesses, in addition to providing useful information on small businesses to Government Agencies.</p> 
+           <p><a href="https://www.sam.gov/sam/transcript/Quick_Guide_for_Changes_From_EPLS.pdf">Excluded Parties Listing System (EPLS)</a><br> The EPLS is checked prior to each contract award to ensure that no award goes to a vendor which is currently on the Excluded Parties List.</p> 
+           <p><a href="https://ofccp.dol-esa.gov/preaward/pa_reg.html">EEO Pre-Award Clearance </a><br> This site assists the Government contracting officer in being able to determine the responsibility of offerors before making a contract award. This site lists those specific plants/facilities of each vendor that are in compliance with EEO regulations.</p> 
+           <p><a href="https://fsd.gov/fsd-gov/answer.do?sysparm_kbid=0ed02a7e6f585100211956532e3ee416&amp;sysparm_search=ORCA">Online Representations and Certifications Access (ORCA)</a><br> This site eliminates a lot of repetitive submissions of representations and certifications for vendors. Rather than submit representations and certifications for each and every solicitation, a vendor can do it just one time in the ORCA database.</p> 
+           <p><a href="https://www.acquisition.gov/browsefar">Federal Acquisition Regulation</a><br> This provides the regulation and guidance on how the Government does business with industry.</p> 
+           <p><a href="https://www.sam.gov/sam/transcript/SAM_Interfaces_Overview-Feb2012.pdf">More info on transition of services to SAM</a></p> 
+           <p>Note from <a href="https://www.mbda.gov/">Minority Business Development Agency</a>:&nbsp;<br> System for Award Management (SAM)&nbsp;is coming your way!&nbsp;ORCA and other systems will be migrating to the System for Award Management (SAM) over the coming months. Capability will be made available to users via SAM in stages, starting with the Entity Management capability (CCR/FedReg and ORCA) and the exclusions portion of the Performance Information capability (EPLS) in 2012. Please see&nbsp;<a href="https://acquisition.gov">Acquisition.gov</a>&nbsp;for additional information.</p> 
+           <p>&nbsp;</p> 
+           <p>&nbsp;</p> 
+          </section> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <!-- page-body-wrapper --> 
+     <footer id="page-footer"> 
+      <div class="clearfix row last-update-wrapper "> 
+       <p id="last-update"> <span class="glyphicon glyphicon-edit"></span> This page was last reviewed on March 18, 2019.<br> <a href="/contact">Contact us with questions or comments</a>. </p> 
+      </div> 
+      <section id="mega-footer" class="clearfix panel-group"> 
+       <h2 class="footer-title"> Archives.gov</h2> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#info-for">Information For…</a></h2> 
+        </div> 
+        <div id="info-for" class="panel-collapse"> 
+         <ul>
+          <li><a href="/citizen-archivist/">Citizen Archivists</a></li> 
+          <li><a href="/fed-employees/">Federal Employees</a></li> 
+          <li><a href="/research/genealogy/">Genealogists</a></li> 
+          <li><a href="/congress/">Members of Congress</a></li> 
+          <li><a href="/preservation/">Preservation</a></li> 
+          <li><a href="/records-mgmt/">Records Managers</a></li> 
+          <li><a href="/press/">The Press</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#pubs">Publications</a></h2> 
+        </div> 
+        <div id="pubs" class="panel-collapse"> 
+         <ul>
+          <li><a href="/federal-register/">Federal Register</a></li> 
+          <li><a href="/publications/prologue/">Prologue Magazine</a></li> 
+          <li><a href="/publications/ordering/">Purchase Publications</a></li> 
+          <li><a href="/publications/email-newsletters">Subscribe to Email Newsletters</a></li> 
+          <li><a href="/publications/">All Publications</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#orgs">Orgs. &amp; Offices</a></h2> 
+        </div> 
+        <div id="orgs" class="panel-collapse"> 
+         <ul>
+          <li><a href="/legislative/">Center for Legislative Archives</a></li> 
+          <li><a href="/frc/">Federal Records Center</a></li> 
+          <li><a href="/oig/">Office of the Inspector General</a></li> 
+          <li><a href="/presidential-libraries/">Presidential Libraries</a></li> 
+          <li><a href="/about/organization/">Staff Directory</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#about">About Us</a></h2> 
+        </div> 
+        <div id="about" class="panel-collapse"> 
+         <ul>
+          <li><a href="/about/">What is the National Archives?</a></li> 
+          <li><a href="/contracts/">Doing Business with Us</a></li> 
+          <li><a href="/about/plans-reports/">Plans and Reports</a></li> 
+          <li><a href="/open/">Open Government</a></li> 
+          <li><a href="/open/plain-writing/">Our Plain Language Activities</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#i-want-to">I Want To…</a></h2> 
+        </div> 
+        <div id="i-want-to" class="panel-collapse"> 
+         <ul>
+          <li><a href="/veterans/military-service-records/">Get My Military Record</a></li> 
+          <li><a href="/research/start/plan-visit">Plan a Research Visit</a></li> 
+          <li><a href="https://museum.archives.gov/">Visit the Museum</a></li> 
+          <li><a href="/exhibits/">View Online Exhibits</a></li> 
+          <li><a href="/grants/">Apply for a Grant</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#participate">Participate</a></h2> 
+        </div> 
+        <div id="participate" class="panel-collapse"> 
+         <ul>
+          <li><a href="/calendar/">Attend an Event</a></li> 
+          <li><a href="http://www.archivesfoundation.org/">Donate to the Archives</a></li> 
+          <li><a href="/careers/">Work at the Archives</a></li> 
+          <li><a href="/careers/volunteering/">Volunteer at the Archives</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#resources">Resources</a></h2> 
+        </div> 
+        <div id="resources" class="panel-collapse"> 
+         <ul>
+          <li><a href="/global-pages/subject-index.html">A-Z Index</a></li> 
+          <li><a href="/founding-docs/">America's Founding Docs</a></li> 
+          <li><a href="/contact/">Contact Us</a></li> 
+          <li><a href="/espanol/">En Español</a></li> 
+          <li><a href="/faqs/">FAQs</a></li> 
+          <li><a href="/forms/">Forms</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#shop-footer">Shop Online</a></h2> 
+        </div> 
+        <div id="shop-footer" class="panel-collapse"> 
+         <ul>
+          <li><a href="https://www.nationalarchivesstore.org/?utm_campaign=2019eStore&amp;utm_medium=website&amp;utm_source=nara&amp;utm_content=organic">Visit the National Archives Store</a></li> 
+          <li><a href="https://eservices.archives.gov/orderonline/">Buy Reproductions and Microfilm</a></li> 
+         </ul>
+        </div> 
+       </div> 
+      </section> 
+      <section id="sub-footer"> 
+       <div class="region region-footer-bottom"> 
+        <section id="block-block-54" class="block block-block clearfix"> 
+         <h2> <a href="https://www.archives.gov/social-media/">Connect With Us</a></h2> 
+         <ul class="clearfix" id="social-media"> 
+          <li class="facebook" data-original-title="Facebook" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/facebook">Facebook</a></li> 
+          <li class="twitter" data-original-title="Twitter" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/twitter">Twitter</a></li> 
+          <li class="instagram" data-original-title="Instagram" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/instagram">Instagram</a></li> 
+          <li class="tumblr" data-original-title="Tumblr" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/tumblr">Tumblr</a></li> 
+          <li class="youtube" data-original-title="YouTube" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/youtube">YouTube</a></li> 
+          <li class="blogs" data-original-title="Blogs" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/blogs">Blogs</a></li> 
+          <li class="flickr" data-original-title="Flickr" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/flickr">Flickr</a></li> 
+         </ul> 
+         <p> </p> 
+         <p id="footer-links"> <a href="/contact/">Contact Us</a> · <a href="/global-pages/accessibility.html">Accessibility</a> · <a href="/global-pages/privacy.html">Privacy Policy</a> · <a href="/foia/">Freedom of Information Act</a> · <a href="/eeo/policy/complaint-activity.html">No FEAR Act</a> · <a href="http://www.usa.gov/">USA.gov</a></p> 
+         <p id="footer-phone">The U.S. National Archives and Records Administration<br> <a href="tel:1-866-272-6272">1-86-NARA-NARA or 1-866-272-6272</a></p> 
+        </section> 
+       </div> 
+      </section> 
+     </footer>
+     <!-- /page-footer --> 
+    </div> 
+    <script src="/sites/all/themes/nara/scripts/jquery.fancybox.pack.js" type="text/javascript"></script> 
+    <script src="/sites/all/themes/nara/scripts/helpers/jquery.fancybox-media.js" type="text/javascript"></script> 
+    <script src="/sites/all/themes/nara/scripts/helpers/jquery.fancybox-thumbs.js" type="text/javascript"></script> 
+    <script src="https://www.archives.gov/files/js/js_MRdvkC2u4oGsp5wVxBG1pGV5NrCPW3mssHxIn6G9tGE.js"></script> 
+   </div> 
+   <a class="back-to-top" href="#page-header" style="display: inline;">Top</a> 
+   <script>
+(function ($) {
+  // Original JavaScript code.
+$('.toc').toc({
+'selectors': 'h2:not(.element-invisible):not(.toc-block h2),h3',
+'container': '#main-col'
+});
+})(jQuery);
+
+//fix extra timeline object issue
+(function(){            
+  if(typeof Drupal.settings['timelineJS'] !== 'undefined'){      
+    timelinejs_arry = Drupal.settings['timelineJS'];
+    tmptimeline=[];
+    for (i = 0; i < timelinejs_arry.length-1; i++) {       
+      if(typeof timelinejs_arry[i]['processed'] !== 'undefined'){                        
+        tmptimeline.push(timelinejs_arry[i]);  
+      } 
+    }
+    Drupal.settings['timelineJS'] = tmptimeline;
+  }
+}());
+</script> 
+  </div> 
+  <!-- end -->   
+ </body>
+</html>

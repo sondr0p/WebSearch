@@ -1,0 +1,1600 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+ <head profile="http://www.w3.org/1999/xhtml/vocab"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"> 
+  <meta http-equiv="X-FRAME-Options" content="deny"> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <link rel="shortcut icon" href="https://www.senate.ca.gov/sites/senate.ca.gov/files/favicon.ico" type="image/vnd.microsoft.icon"> 
+  <meta name="Generator" content="Drupal 7 (http://drupal.org)"> 
+  <title>Media Archive | senate.ca.gov</title> 
+  <style type="text/css" media="all">
+@import url("https://www.senate.ca.gov/modules/system/system.base.css?pro5bu");
+@import url("https://www.senate.ca.gov/modules/system/system.menus.css?pro5bu");
+@import url("https://www.senate.ca.gov/modules/system/system.messages.css?pro5bu");
+@import url("https://www.senate.ca.gov/modules/system/system.theme.css?pro5bu");
+</style> 
+  <style type="text/css" media="all">
+@import url("https://www.senate.ca.gov/sites/all/modules/contrib/ldap/ldap_user/ldap_user.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/all/modules/contrib/date/date_api/date.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?pro5bu");
+@import url("https://www.senate.ca.gov/modules/field/theme/field.css?pro5bu");
+@import url("https://www.senate.ca.gov/modules/node/node.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/all/modules/custom/scgmenublock/scgmenublock.css?pro5bu");
+@import url("https://www.senate.ca.gov/modules/user/user.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/all/modules/contrib/views/css/views.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/all/modules/contrib/ckeditor/css/ckeditor.css?pro5bu");
+</style> 
+  <style type="text/css" media="all">
+@import url("https://www.senate.ca.gov/sites/all/modules/contrib/ctools/css/ctools.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/dailyfileparser_d7/css/dfdisplay.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/all/modules/contrib/ldap/ldap_servers/ldap_servers.admin.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/all/modules/custom/lwpslideshow/css/lwpslideshow.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/all/modules/custom/lwpusermenu/css/lwpusermenu.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/scgaudiovideo/css/scgaudiovideo.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/scgcalendar/css/scgcalendar.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/scgcommittees/css/scgcommittees.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/scgoversight/css/scgoversight.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/scgsenators/css/scgsenators.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/wasmediaframework/css/wasmediaframework.css?pro5bu");
+</style> 
+  <style type="text/css" media="all">
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/css/style.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/vendors/bootstrapv320/css/bootstrap.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/vendors/font-awesome-403/css/font-awesome.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/vendors/FlexSlider/flexslider.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/css/main.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/css/fonts/fonts.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/css/audiovideo.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/css/content.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/css/lwpgooglesearch.css?pro5bu");
+</style> 
+  <style type="text/css" media="print">
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/css/print.css?pro5bu");
+</style> 
+  <!--[if lt IE 7]>
+<link type="text/css" rel="stylesheet" href="https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/fix-ie.css?pro5bu" media="all" />
+<![endif]--> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/misc/jquery.js?v=1.4.4"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/misc/jquery-extend-3.4.0.js?v=1.4.4"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/misc/jquery.once.js?v=1.2"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/misc/drupal.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/wasmediaframework/js/doubledownload.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/all/modules/contrib/google_analytics/googleanalytics.js?pro5bu"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-64944606-1", {"cookieDomain":".senate.ca.gov"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/all/modules/custom/wasjwplayer/js/wasjwplayer.init.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/vendors/jquery-ui/js/jquery-1.10.2.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/vendors/jquery-ui/js/jquery-ui-1.10.4.custom.min.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/vendors/jquery-ui/js/jquery-migrate-1.2.1.min.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/vendors/bootstrapv320/js/bootstrap.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/vendors/jquery-scrollbox/jquery.scrollbox.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/vendors/smooth-div-scroll/js/jquery.mousewheel.min.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/vendors/FlexSlider/jquery.flexslider-min.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/scripts/modernizr.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/scripts/jquery.noconflict.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/scripts/main.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/scripts/audiovideo.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/all/modules/custom/lwpslideshow/js/lwpslideshow.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/scgaudiovideo/js/swfobject.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/scgaudiovideo/js/player.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/scgaudiovideo/js/scgaudiovideo.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/scgcalendar/js/scgcalendar.calendar.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/scgcommittees/js/scgcommittees.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/scgsenators/js/scgsenators.js?pro5bu"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"scg2014","theme_token":"JfieTbUw2cltPFovBadw5If3wdwJhKz_Y0peN_VO9iI","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/senate.ca.gov\/modules\/custom\/wasmediaframework\/js\/doubledownload.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/custom\/wasjwplayer\/js\/wasjwplayer.init.js":1,"sites\/senate.ca.gov\/themes\/scg2014\/vendors\/jquery-ui\/js\/jquery-1.10.2.js":1,"sites\/senate.ca.gov\/themes\/scg2014\/vendors\/jquery-ui\/js\/jquery-ui-1.10.4.custom.min.js":1,"sites\/senate.ca.gov\/themes\/scg2014\/vendors\/jquery-ui\/js\/jquery-migrate-1.2.1.min.js":1,"sites\/senate.ca.gov\/themes\/scg2014\/vendors\/bootstrapv320\/js\/bootstrap.js":1,"sites\/senate.ca.gov\/themes\/scg2014\/vendors\/jquery-scrollbox\/jquery.scrollbox.js":1,"sites\/senate.ca.gov\/themes\/scg2014\/vendors\/smooth-div-scroll\/js\/jquery.mousewheel.min.js":1,"sites\/senate.ca.gov\/themes\/scg2014\/vendors\/FlexSlider\/jquery.flexslider-min.js":1,"sites\/senate.ca.gov\/themes\/scg2014\/scripts\/modernizr.js":1,"sites\/senate.ca.gov\/themes\/scg2014\/scripts\/jquery.noconflict.js":1,"sites\/senate.ca.gov\/themes\/scg2014\/scripts\/main.js":1,"sites\/senate.ca.gov\/themes\/scg2014\/scripts\/audiovideo.js":1,"sites\/all\/modules\/custom\/lwpslideshow\/js\/lwpslideshow.js":1,"sites\/senate.ca.gov\/modules\/custom\/scgaudiovideo\/js\/swfobject.js":1,"sites\/senate.ca.gov\/modules\/custom\/scgaudiovideo\/js\/player.js":1,"sites\/senate.ca.gov\/modules\/custom\/scgaudiovideo\/js\/scgaudiovideo.js":1,"sites\/senate.ca.gov\/modules\/custom\/scgcalendar\/js\/scgcalendar.calendar.js":1,"sites\/senate.ca.gov\/modules\/custom\/scgcommittees\/js\/scgcommittees.js":1,"sites\/senate.ca.gov\/modules\/custom\/scgsenators\/js\/scgsenators.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/ldap\/ldap_user\/ldap_user.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/scgmenublock\/scgmenublock.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/senate.ca.gov\/modules\/custom\/dailyfileparser_d7\/css\/dfdisplay.css":1,"sites\/all\/modules\/contrib\/ldap\/ldap_servers\/ldap_servers.admin.css":1,"sites\/all\/modules\/custom\/lwpgooglesearch\/lwpgooglesearch.css":1,"sites\/all\/modules\/custom\/lwpslideshow\/css\/lwpslideshow.css":1,"sites\/all\/modules\/custom\/lwpusermenu\/css\/lwpusermenu.css":1,"sites\/senate.ca.gov\/modules\/custom\/scgaudiovideo\/css\/scgaudiovideo.css":1,"sites\/senate.ca.gov\/modules\/custom\/scgcalendar\/css\/scgcalendar.css":1,"sites\/senate.ca.gov\/modules\/custom\/scgcommittees\/css\/scgcommittees.css":1,"sites\/senate.ca.gov\/modules\/custom\/scgoversight\/css\/scgoversight.css":1,"sites\/senate.ca.gov\/modules\/custom\/scgsenators\/css\/scgsenators.css":1,"sites\/senate.ca.gov\/modules\/custom\/wasmediaframework\/css\/wasmediaframework.css":1,"sites\/senate.ca.gov\/themes\/scg2014\/css\/style.css":1,"sites\/senate.ca.gov\/themes\/scg2014\/vendors\/bootstrapv320\/css\/bootstrap.css":1,"sites\/senate.ca.gov\/themes\/scg2014\/vendors\/font-awesome-403\/css\/font-awesome.css":1,"sites\/senate.ca.gov\/themes\/scg2014\/vendors\/FlexSlider\/flexslider.css":1,"sites\/senate.ca.gov\/themes\/scg2014\/css\/main.css":1,"sites\/senate.ca.gov\/themes\/scg2014\/css\/fonts\/fonts.css":1,"sites\/senate.ca.gov\/themes\/scg2014\/css\/audiovideo.css":1,"sites\/senate.ca.gov\/themes\/scg2014\/css\/content.css":1,"sites\/senate.ca.gov\/themes\/scg2014\/css\/lwpgooglesearch.css":1,"sites\/senate.ca.gov\/themes\/scg2014\/css\/print.css":1,"sites\/senate.ca.gov\/themes\/scg2014\/fix-ie.css":1}},"wasencoderinterface":{"oneClickToggle":"disabled","refreshTimeout":"60","refreshInterval":"10","conductorIp":"senencmgr01.calegis.net","conductorApiKey":"s3Wi3gLyJLrHcq1uJaJR"},"wasjwplayer":{"files":{"js":["\/sites\/all\/modules\/custom\/wasjwplayer\/vendors\/jwplayer\/jwplayer.js","\/sites\/all\/modules\/custom\/wasjwplayer\/js\/wasjwplayer.jwplayer.menu.js"],"css":["sites\/all\/modules\/custom\/wasjwplayer\/css\/wasjwplayer.jwplayer.menu.css","sites\/all\/modules\/custom\/wasjwplayer\/css\/wasjwplayer.css"],"images":{"arrow_white":"\/sites\/all\/modules\/custom\/wasjwplayer\/css\/arrow-white.png","copy_white":"\/sites\/all\/modules\/custom\/wasjwplayer\/css\/copy-white.png","time_white":"\/sites\/all\/modules\/custom\/wasjwplayer\/css\/time-white.png"}},"jwplayer_flash":"\/sites\/all\/modules\/custom\/wasjwplayer\/vendors\/jwplayer\/jwplayer.flash.swf","jwplayer_key":"D8HCIANpsYEo10RoCyq9Zavl0JFnnC09YUX\/v6oWlYqPfytg","jwplayer_aspectratio":"16:9","jwplayer_height":"","jwplayer_width":"100%","jwplayer_stretching":"uniform","jwplayer_hlshtml":0,"jwplayer_primary":"html5","jwplayer_autostart":0,"jwplayer_repeat":0},"urlIsAjaxTrusted":{"\/media-archive\/default\/media-archive":true,"\/media-archive\/media-archive?page=8":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"}});
+//--><!]]>
+</script> 
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries --> 
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// --> 
+  <!--[if lt IE 9]>
+    <link rel="stylesheet" type="text/css" href="/sites/senate.ca.gov/themes/scg2014/css/ie.css" />
+  <![endif]--> 
+  <script>NS_CSM_td=275703136;NS_CSM_pd=275116665;NS_CSM_u="/clm10";NS_CSM_an="act_APPFLOW_SPLUNK_LOGGING";</script>
+  <script type="text/javascript">function sendTimingInfoInit(){setTimeout(sendTimingInfo,0)}function sendTimingInfo(){var wp=window.performance;if(wp){var c1,c2,t;c1=wp.timing;if(c1){var cm={};cm.ns=c1.navigationStart;if((t=c1.unloadEventStart)>0)cm.us=t;if((t=c1.unloadEventEnd)>0)cm.ue=t;if((t=c1.redirectStart)>0)cm.rs=t;if((t=c1.redirectEnd)>0)cm.re=t;cm.fs=c1.fetchStart;cm.dls=c1.domainLookupStart;cm.dle=c1.domainLookupEnd;cm.cs=c1.connectStart;cm.ce=c1.connectEnd;if((t=c1.secureConnectionStart)>0)cm.scs=t;cm.rqs=c1.requestStart;cm.rss=c1.responseStart;cm.rse=c1.responseEnd;cm.dl=c1.domLoading;cm.di=c1.domInteractive;cm.dcls=c1.domContentLoadedEventStart;cm.dcle=c1.domContentLoadedEventEnd;cm.dc=c1.domComplete;if((t=c1.loadEventStart)>0)cm.ls=t;if((t=c1.loadEventEnd)>0)cm.le=t;cm.tid=NS_CSM_td;cm.pid=NS_CSM_pd;cm.ac=NS_CSM_an;var xhttp=new XMLHttpRequest();if(xhttp){var JSON=JSON||{};JSON.stringify=JSON.stringify||function(ob){var t=typeof(ob);if(t!="object"||ob===null){if(t=="string")ob='"'+ob+'"';return String(ob);}else{var n,v,json=[],arr=(ob&&ob.constructor==Array);for(n in ob){v=ob[n];t=typeof(v);if(t=="string")v='"'+v+'"';else if(t=="object"&&v!==null)v=JSON.stringify(v);json.push((arr?"":'"'+n+'":')+String(v));}return(arr?"[":"{")+String(json)+(arr?"]":"}");}};xhttp.open("POST",NS_CSM_u,true);xhttp.send(JSON.stringify(cm));}}}}if(window.addEventListener)window.addEventListener("load",sendTimingInfoInit,false);else if(window.attachEvent)window.attachEvent("onload",sendTimingInfoInit);else window.onload=sendTimingInfoInit;</script>
+ </head> 
+ <body class="html not-front not-logged-in no-sidebars page-media-archive page-media-archive-media-archive"> 
+  <div id="skip-link"> 
+   <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a> 
+  </div> 
+  <div id="page"> 
+   <div id="wrapper"> 
+    <!-- #header --> 
+    <header> 
+     <div class="header-wrapper"> 
+      <div id="skipto" class="sr-only"> 
+       <ul> 
+        <li class="sr-only">Skip to: <a href="#middle_column">CONTENT</a> | </li> 
+        <li class="sr-only"><a href="#footer">FOOTER</a> | </li> 
+        <li class="sr-only"><a href="/sitemap">SITE MAP</a> | </li> 
+       </ul> 
+      </div> 
+      <div class="searchform-wrapper col-xs-12"> 
+       <div class="senateticker-wrapper col-xs-9"> 
+        <div class="senateticker col-xs-3 livestreamlink"> 
+         <a href="/calendar">Live Streams</a> 
+        </div> 
+        <div class="senateticker col-xs-3 ">
+         <a href="/media-archive">Media Archive</a>
+        </div> 
+        <div class="senateticker col-xs-3 ">
+         <a href="https://annex.assembly.ca.gov/">Capitol Annex</a>
+        </div> 
+        <div class="senateticker col-xs-3">
+         <a onclick="return googletranslatedisclaimer()" href="http://translate.google.com/#auto|es|www.senate.ca.gov" class="translate">Translate this site</a>
+        </div> 
+       </div> 
+       <div class="searchform col-xs-3"> 
+        <form id="searchform" action="/search" method="get" class="col-xs-3"> 
+         <label for="search-field" class="col-xs-1"><i class="fa-search"></i></label> 
+         <input class="search-field col-xs-11" type="text" placeholder="Enter your search terms here..." name="search_api_views_fulltext"> 
+         <button type="submit" class="sr-only" title="site search submit button"></button> 
+        </form> 
+       </div> 
+      </div> 
+      <div class="banner senate-red col-xs-12"> 
+       <img class="banner-seal" src="/sites/senate.ca.gov/themes/scg2014/images/senateseal75.png" alt="california state senate seal"> 
+       <div class="banner-sitename">
+        <a href="/">California State Senate</a>
+       </div> 
+      </div> 
+      <nav id="header-navigation" aria-label="Main menu"> 
+       <h2 class="element-invisible">Main menu</h2>
+       <ul class="nav nav-pills nav-justified" role="menubar" tabindex="0">
+        <li class="menu-218 first dropdown" role="menuitem"><a href="/">Home</a></li> 
+        <li class="menu-340 dropdown" role="menuitem"><a href="/senators">Senators</a>
+         <ul class="dropdown-menu" role="menu" aria-hidden="true">
+          <li role="menuitem" tabindex="-1"><a href="/leadership">Senate Leadership</a></li>
+          <li role="menuitem" tabindex="-1"><a href="http://findyourrep.legislature.ca.gov/">Find My Senator</a></li>
+          <li role="menuitem" tabindex="-1"><a href="/senators">Senate Roster</a></li>
+          <li role="menuitem" tabindex="-1"><a href="http://senate.ca.gov/sites/senate.ca.gov/files/2019-20_senate_counties_represented.pdf">County Representation</a></li>
+         </ul></li> 
+        <li class="menu-347 dropdown" role="menuitem"><a href="/committees">Committees, Offices &amp; Caucuses</a>
+         <ul class="dropdown-menu" role="menu" aria-hidden="true">
+          <li role="menuitem" tabindex="-1"><a href="/committees">Committees</a></li>
+          <li role="menuitem" tabindex="-1"><a href="/officescaucuses">Offices &amp; Caucuses</a></li>
+         </ul></li> 
+        <li class="menu-346 dropdown" role="menuitem"><a href="/schedulespublications">Publications</a>
+         <ul class="dropdown-menu" role="menu" aria-hidden="true">
+          <li role="menuitem" tabindex="-1"><a href="/dailyfile">Daily File</a></li>
+          <li role="menuitem" tabindex="-1"><a href="/dailyjournals">Daily Journal</a></li>
+          <li role="menuitem" tabindex="-1"><a href="/content/senate-histories">Senate Histories</a></li>
+          <li role="menuitem" tabindex="-1"><a href="http://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=CONS&amp;tocTitle=+California+Constitution+-+CONS">California State Constitution</a></li>
+          <li role="menuitem" tabindex="-1"><a href="http://senate.ca.gov/sites/senate.ca.gov/files/2017-18_joint_legislative_handbook_0.pdf">Legislative Handbook</a></li>
+          <li role="menuitem" tabindex="-1"><a href="/schedulespublications">More...</a></li>
+         </ul></li> 
+        <li class="menu-348 active-trail dropdown" role="menuitem"><a href="/media" class="active-trail">Media</a>
+         <ul class="dropdown-menu" role="menu" aria-hidden="true">
+          <li role="menuitem" tabindex="-1"><a href="/tvschedule">TV Schedule</a></li>
+          <li role="menuitem" tabindex="-1"><a href="https://senate.ca.gov/sites/senate.ca.gov/files/accreditedpress.pdf">Accredited Press</a></li>
+          <li role="menuitem" tabindex="-1"><a href="/media-archive">Media Archive</a></li>
+         </ul></li> 
+        <li class="menu-349 dropdown" role="menuitem"><a href="/citizensguide">Citizens' Guide</a>
+         <ul class="dropdown-menu" role="menu" aria-hidden="true">
+          <li role="menuitem" tabindex="-1"><a href="/legislativeprocess">Legislative Process</a></li>
+          <li role="menuitem" tabindex="-1"><a href="http://senate.ca.gov/sites/senate.ca.gov/files/the%20budget%20process.pdf">Budget Process</a></li>
+          <li role="menuitem" tabindex="-1"><a href="http://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=CONS&amp;tocTitle=+California+Constitution+-+CONS">California Constitution</a></li>
+          <li role="menuitem" tabindex="-1"><a href="/citizensguide">Rules</a></li>
+          <li role="menuitem" tabindex="-1"><a href="/faq">FAQs</a></li>
+          <li role="menuitem" tabindex="-1"><a href="/citizensguide">More...</a></li>
+         </ul></li> 
+        <li class="menu-350 dropdown" role="menuitem"><a href="/quicklinks">Quick Links</a>
+         <ul class="dropdown-menu" role="menu" aria-hidden="true">
+          <li role="menuitem" tabindex="-1"><a href="http://gov.ca.gov/home.php">Governor Of California</a></li>
+          <li role="menuitem" tabindex="-1"><a href="http://www.ltg.ca.gov/">Lieutenant Governor of California</a></li>
+          <li role="menuitem" tabindex="-1"><a href="http://assembly.ca.gov/">California State Assembly</a></li>
+          <li role="menuitem" tabindex="-1"><a href="http://congress.gov">U.S. Congress Information</a></li>
+          <li role="menuitem" tabindex="-1"><a href="http://www.sos.ca.gov/">Secretary of State</a></li>
+          <li role="menuitem" tabindex="-1"><a href="/quicklinks">More...</a></li>
+         </ul></li> 
+        <li class="menu-408 dropdown" role="menuitem"><a href="http://archive.senate.ca.gov" title="">Archive</a>
+         <ul class="dropdown-menu" role="menu" aria-hidden="true">
+          <li role="menuitem" tabindex="-1"><a href="http://archive.senate.ca.gov/member-archives">Member Archives</a></li>
+          <li role="menuitem" tabindex="-1"><a href="http://archive.senate.ca.gov/committee-archives">Committee Archives</a></li>
+          <li role="menuitem" tabindex="-1"><a href="http://secretary.senate.ca.gov/californiabluebook18502000">Historical Record</a></li>
+         </ul></li> 
+        <li class="menu-443 last dropdown" role="menuitem"><a href="/calendar">calendar</a>
+         <ul class="dropdown-menu" role="menu" aria-hidden="true">
+          <li role="menuitem" tabindex="-1"><a href="/legdeadlines">Legislative Calendar &amp; Deadlines</a></li>
+         </ul></li> 
+       </ul> 
+      </nav> 
+      <!-- phonenav --> 
+      <nav id="mobile-nav"> 
+       <div class="phone-menu-toggle clearfix"> 
+        <div class="phone-menu-right-side">
+         <i class="fa-align-justify"></i>
+        </div> 
+       </div>
+       <h2 class="element-invisible">Custom menu</h2>
+       <ul class="phone-menu-wrapper unstyled">
+        <li class="menu-218 first">
+         <div class="phone-menu-item clearfix">
+          <a href="/">Home</a>
+         </div></li> 
+        <li class="menu-340">
+         <div class="phone-menu-item clearfix">
+          <a href="/senators">Senators<i class="fa-chevron-down menu-toggle"></i></a>
+         </div>
+         <ul class="phone-submenu-wrapper unstyled">
+          <li class="nav-row"><a href="/leadership">Senate Leadership</a></li>
+          <li class="nav-row"><a href="http://findyourrep.legislature.ca.gov/">Find My Senator</a></li>
+          <li class="nav-row"><a href="/senators">Senate Roster</a></li>
+          <li class="nav-row"><a href="http://senate.ca.gov/sites/senate.ca.gov/files/2019-20_senate_counties_represented.pdf">County Representation</a></li>
+         </ul></li> 
+        <li class="menu-347">
+         <div class="phone-menu-item clearfix">
+          <a href="/committees">Committees, Offices &amp; Caucuses<i class="fa-chevron-down menu-toggle"></i></a>
+         </div>
+         <ul class="phone-submenu-wrapper unstyled">
+          <li class="nav-row"><a href="/committees">Committees</a></li>
+          <li class="nav-row"><a href="/officescaucuses">Offices &amp; Caucuses</a></li>
+         </ul></li> 
+        <li class="menu-346">
+         <div class="phone-menu-item clearfix">
+          <a href="/schedulespublications">Publications<i class="fa-chevron-down menu-toggle"></i></a>
+         </div>
+         <ul class="phone-submenu-wrapper unstyled">
+          <li class="nav-row"><a href="/dailyfile">Daily File</a></li>
+          <li class="nav-row"><a href="/dailyjournals">Daily Journal</a></li>
+          <li class="nav-row"><a href="/content/senate-histories">Senate Histories</a></li>
+          <li class="nav-row"><a href="http://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=CONS&amp;tocTitle=+California+Constitution+-+CONS">California State Constitution</a></li>
+          <li class="nav-row"><a href="http://senate.ca.gov/sites/senate.ca.gov/files/2017-18_joint_legislative_handbook_0.pdf">Legislative Handbook</a></li>
+          <li class="nav-row"><a href="/schedulespublications">More...</a></li>
+         </ul></li> 
+        <li class="menu-348 active-trail">
+         <div class="phone-menu-item clearfix">
+          <a href="/media" class="active-trail">Media<i class="fa-chevron-down menu-toggle"></i></a>
+         </div>
+         <ul class="phone-submenu-wrapper unstyled">
+          <li class="nav-row"><a href="/tvschedule">TV Schedule</a></li>
+          <li class="nav-row"><a href="https://senate.ca.gov/sites/senate.ca.gov/files/accreditedpress.pdf">Accredited Press</a></li>
+          <li class="nav-row"><a href="/media-archive">Media Archive</a></li>
+         </ul></li> 
+        <li class="menu-349">
+         <div class="phone-menu-item clearfix">
+          <a href="/citizensguide">Citizens' Guide<i class="fa-chevron-down menu-toggle"></i></a>
+         </div>
+         <ul class="phone-submenu-wrapper unstyled">
+          <li class="nav-row"><a href="/legislativeprocess">Legislative Process</a></li>
+          <li class="nav-row"><a href="http://senate.ca.gov/sites/senate.ca.gov/files/the%20budget%20process.pdf">Budget Process</a></li>
+          <li class="nav-row"><a href="http://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=CONS&amp;tocTitle=+California+Constitution+-+CONS">California Constitution</a></li>
+          <li class="nav-row"><a href="/citizensguide">Rules</a></li>
+          <li class="nav-row"><a href="/faq">FAQs</a></li>
+          <li class="nav-row"><a href="/citizensguide">More...</a></li>
+         </ul></li> 
+        <li class="menu-350">
+         <div class="phone-menu-item clearfix">
+          <a href="/quicklinks">Quick Links<i class="fa-chevron-down menu-toggle"></i></a>
+         </div>
+         <ul class="phone-submenu-wrapper unstyled">
+          <li class="nav-row"><a href="http://gov.ca.gov/home.php">Governor Of California</a></li>
+          <li class="nav-row"><a href="http://www.ltg.ca.gov/">Lieutenant Governor of California</a></li>
+          <li class="nav-row"><a href="http://assembly.ca.gov/">California State Assembly</a></li>
+          <li class="nav-row"><a href="http://congress.gov">U.S. Congress Information</a></li>
+          <li class="nav-row"><a href="http://www.sos.ca.gov/">Secretary of State</a></li>
+          <li class="nav-row"><a href="/quicklinks">More...</a></li>
+         </ul></li> 
+        <li class="menu-408">
+         <div class="phone-menu-item clearfix">
+          <a href="http://archive.senate.ca.gov" title="">Archive<i class="fa-chevron-down menu-toggle"></i></a>
+         </div>
+         <ul class="phone-submenu-wrapper unstyled">
+          <li class="nav-row"><a href="http://archive.senate.ca.gov/member-archives">Member Archives</a></li>
+          <li class="nav-row"><a href="http://archive.senate.ca.gov/committee-archives">Committee Archives</a></li>
+          <li class="nav-row"><a href="http://secretary.senate.ca.gov/californiabluebook18502000">Historical Record</a></li>
+         </ul></li> 
+        <li class="menu-443 last">
+         <div class="phone-menu-item clearfix">
+          <a href="/calendar">calendar<i class="fa-chevron-down menu-toggle"></i></a>
+         </div>
+         <ul class="phone-submenu-wrapper unstyled">
+          <li class="nav-row"><a href="/legdeadlines">Legislative Calendar &amp; Deadlines</a></li>
+         </ul></li> 
+       </ul> 
+      </nav> 
+      <!-- end #phone nav --> 
+     </div> 
+    </header> 
+    <!-- end #header --> 
+    <div class="main-container"> 
+     <!--messages--> 
+     <!--middle column--> 
+     <div class="column-wrapper"> 
+      <div class="middle-column col-md-9 col-md-push-3"> 
+       <div id="breadcrumb-container">
+        <h2 class="element-invisible">You are here</h2>
+        <ol class="breadcrumb">
+         <li><a href="/">Home</a> </li>
+         <li> <a href="/media">Media</a> </li>
+         <li> <a href="/media-archive/media-archive" class="active">Media Archive</a></li>
+        </ol>
+       </div> 
+       <a id="main-content"></a> 
+       <!--tabs--> 
+       <div class="tabs"> 
+       </div> 
+       <h1 class="title" id="page-title"> Media Archive </h1> 
+       <!--content--> 
+       <div class="region region-content"> 
+        <div id="block-system-main" class="block block-system clearfix"> 
+         <div class="content"> 
+          <div class="view view-media-archive view-id-media_archive view-display-id-page_1 view-dom-id-94edcadd676af4b6c45f040c2ac2dd74"> 
+           <div class="view-header"> 
+            <p>Below is a video archive of Senate Floor Sessions and Senate Committee Hearings that have been televised as of September 27th, 2005. If you are interested in video for dates prior to September 27th, 2005, please contact the State Archives at 916-653-2246. The “Search” field allows for searching televised Senate Floor Sessions or Committee Hearings with or without a specific date range. Entering in key words such as “floor” for a Floor Session or “budget” for the Budget and Fiscal Review Committee, will give a list of all videos with those key words within the title. You can find a list of all Senate Committees here. You can also narrow your search to a specific date range using the date fields.</p> 
+           </div> 
+           <div class="view-filters"> 
+            <form action="/media-archive/default/media-archive" method="get" id="views-exposed-form-media-archive-page-1" accept-charset="UTF-8">
+             <div>
+              <div class="views-exposed-form"> 
+               <div class="views-exposed-widgets clearfix"> 
+                <div id="edit-title-wrapper" class="views-exposed-widget views-widget-filter-title"> 
+                 <label for="edit-title"> Title </label> 
+                 <div class="views-widget"> 
+                  <div class="form-item form-type-textfield form-item-title"> 
+                   <input type="text" id="edit-title" name="title" value="" size="30" maxlength="128" class="form-text"> 
+                  </div> 
+                 </div> 
+                </div> 
+                <div id="edit-startdate-wrapper" class="views-exposed-widget views-widget-filter-source_date"> 
+                 <label for="edit-startdate"> Start Date </label> 
+                 <div class="views-widget"> 
+                  <div class="form-item form-type-textfield form-item-startdate"> 
+                   <input type="text" id="edit-startdate" name="startdate" value="" size="30" maxlength="128" class="form-text"> 
+                   <div class="description">
+                    Format: 06/01/2019
+                   </div> 
+                  </div> 
+                 </div> 
+                </div> 
+                <div id="edit-enddate-wrapper" class="views-exposed-widget views-widget-filter-source_date_1"> 
+                 <label for="edit-enddate"> End Date </label> 
+                 <div class="views-widget"> 
+                  <div class="form-item form-type-textfield form-item-enddate"> 
+                   <input type="text" id="edit-enddate" name="enddate" value="" size="30" maxlength="128" class="form-text"> 
+                   <div class="description">
+                    Format: 06/01/2019
+                   </div> 
+                  </div> 
+                 </div> 
+                </div> 
+                <div class="views-exposed-widget views-submit-button"> 
+                 <input class="btn btn-danger form-submit" type="submit" id="edit-submit-media-archive" name="" value="Search"> 
+                </div> 
+                <div class="views-exposed-widget views-reset-button"> 
+                 <input class="btn btn-danger senate-style form-submit" type="submit" id="edit-reset" name="op" value="Reset"> 
+                </div> 
+               </div> 
+              </div> 
+             </div>
+            </form> 
+           </div> 
+           <div class="view-content"> 
+            <table class="views-table cols-7"> 
+             <thead> 
+              <tr> 
+               <th class="views-field views-field-source-date" scope="col"> Date </th> 
+               <th class="views-field views-field-title" scope="col"> Title </th> 
+               <th class="views-field views-field-nothing" scope="col"> Watch </th> 
+               <th class="views-field views-field-field-video-download-file" scope="col"> </th> 
+               <th class="views-field views-field-nothing-1" scope="col"> Listen </th> 
+               <th class="views-field views-field-field-audio-download-file-1" scope="col"> </th> 
+               <th class="views-field views-field-field-caption-download-file-1 ie-show" scope="col"> 
+                <div>
+                 Caption
+                </div> </th> 
+              </tr> 
+             </thead> 
+             <tbody> 
+              <tr class="odd views-row-first"> 
+               <td class="views-field views-field-source-date"> 09/14/2017 </td> 
+               <td class="views-field views-field-title"> Senate Governance and Finance Committee - Part 2 </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-governance-finance-committee-part-2-20170914/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170914_GovFinanceNumber2_high.mp4" target="_blank"><span aria-label="watch Senate Governance and Finance Committee - Part 2">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170914_GovFinanceNumber2_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-governance-finance-committee-part-2-20170914/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170914_GovFinanceNumber2_audio.m4a" target="_blank"><span aria-label="listen to Senate Governance and Finance Committee - Part 2">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170914_GovFinanceNumber2_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 09/14/2017 </td> 
+               <td class="views-field views-field-title"> Senate Public Safety Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-public-safety-committee-20170914/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170914_PublicSafety_high.mp4" target="_blank"><span aria-label="watch Senate Public Safety Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170914_PublicSafety_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-public-safety-committee-20170914/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170914_PublicSafety_audio.m4a" target="_blank"><span aria-label="listen to Senate Public Safety Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170914_PublicSafety_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 09/14/2017 </td> 
+               <td class="views-field views-field-title"> Senate Transportation and Housing Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-transportation-housing-committee-20170914/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170914_Trans_high.mp4" target="_blank"><span aria-label="watch Senate Transportation and Housing Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170914_Trans_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-transportation-housing-committee-20170914/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170914_Trans_audio.m4a" target="_blank"><span aria-label="listen to Senate Transportation and Housing Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170914_Trans_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 09/14/2017 </td> 
+               <td class="views-field views-field-title"> Senate Transportation and Housing Committee - Part 2 </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-transportation-housing-committee-part-2-20170914/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170914_TransportationNumber2_high.mp4" target="_blank"><span aria-label="watch Senate Transportation and Housing Committee - Part 2">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170914_TransportationNumber2_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-transportation-housing-committee-part-2-20170914/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170914_TransportationNumber2_audio.m4a" target="_blank"><span aria-label="listen to Senate Transportation and Housing Committee - Part 2">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170914_TransportationNumber2_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 09/13/2017 </td> 
+               <td class="views-field views-field-title"> Senate Budget and Fiscal Review Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-budget-fiscal-review-committee-20170913/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170913_BudgetFiscal_high.mp4" target="_blank"><span aria-label="watch Senate Budget and Fiscal Review Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170913_BudgetFiscal_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-budget-fiscal-review-committee-20170913/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170913_BudgetFiscal_audio.m4a" target="_blank"><span aria-label="listen to Senate Budget and Fiscal Review Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170913_BudgetFiscal_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 09/13/2017 </td> 
+               <td class="views-field views-field-title"> Senate Education Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-education-committee-20170913/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170913_Education_high.mp4" target="_blank"><span aria-label="watch Senate Education Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170913_Education_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-education-committee-20170913/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170913_Education_audio.m4a" target="_blank"><span aria-label="listen to Senate Education Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170913_Education_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 09/13/2017 </td> 
+               <td class="views-field views-field-title"> Senate Floor Session </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-floor-session-20170913/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170913_Floor_high.mp4" target="_blank"><span aria-label="watch Senate Floor Session">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170913_Floor_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-floor-session-20170913/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170913_Floor_audio.m4a" target="_blank"><span aria-label="listen to Senate Floor Session">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170913_Floor_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 09/13/2017 </td> 
+               <td class="views-field views-field-title"> Senate Governmental Organization Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-governmental-organization-committee-20170913/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170913_GovOrg_high.mp4" target="_blank"><span aria-label="watch Senate Governmental Organization Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170913_GovOrg_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-governmental-organization-committee-20170913/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170913_GovOrg_audio.m4a" target="_blank"><span aria-label="listen to Senate Governmental Organization Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170913_GovOrg_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 09/13/2017 </td> 
+               <td class="views-field views-field-title"> Senate Health Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-health-committee-20170913/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170913_Health_high.mp4" target="_blank"><span aria-label="watch Senate Health Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170913_Health_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-health-committee-20170913/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170913_Health_audio.m4a" target="_blank"><span aria-label="listen to Senate Health Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170913_Health_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 09/13/2017 </td> 
+               <td class="views-field views-field-title"> Senate Human Services Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-human-services-committee-20170913/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170913_HumanServices_high.mp4" target="_blank"><span aria-label="watch Senate Human Services Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170913_HumanServices_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-human-services-committee-20170913/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170913_HumanServices_audio.m4a" target="_blank"><span aria-label="listen to Senate Human Services Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170913_HumanServices_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 09/13/2017 </td> 
+               <td class="views-field views-field-title"> Senate Transportation and Housing Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-transportation-housing-committee-20170913/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170913_Transportation_high.mp4" target="_blank"><span aria-label="watch Senate Transportation and Housing Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170913_Transportation_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-transportation-housing-committee-20170913/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170913_Transportation_audio.m4a" target="_blank"><span aria-label="listen to Senate Transportation and Housing Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170913_Transportation_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 09/12/2017 </td> 
+               <td class="views-field views-field-title"> Senate Floor Session </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-floor-session-20170912/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170912_Floor_high.mp4" target="_blank"><span aria-label="watch Senate Floor Session">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170912_Floor_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-floor-session-20170912/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170912_Floor_audio.m4a" target="_blank"><span aria-label="listen to Senate Floor Session">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170912_Floor_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 09/12/2017 </td> 
+               <td class="views-field views-field-title"> Senate Governance and Finance Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-governance-finance-committee-20170912/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170912_GovFinance_high.mp4" target="_blank"><span aria-label="watch Senate Governance and Finance Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170912_GovFinance_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-governance-finance-committee-20170912/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170912_GovFinance_audio.m4a" target="_blank"><span aria-label="listen to Senate Governance and Finance Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170912_GovFinance_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 09/12/2017 </td> 
+               <td class="views-field views-field-title"> Senate Governmental Organization Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-governmental-organization-committee-20170912/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170912_GovOrg_high.mp4" target="_blank"><span aria-label="watch Senate Governmental Organization Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170912_GovOrg_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-governmental-organization-committee-20170912/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170912_GovOrg_audio.m4a" target="_blank"><span aria-label="listen to Senate Governmental Organization Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170912_GovOrg_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 09/12/2017 </td> 
+               <td class="views-field views-field-title"> Senate Health Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-health-committee-20170912/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170912_Health_high.mp4" target="_blank"><span aria-label="watch Senate Health Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170912_Health_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-health-committee-20170912/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170912_Health_audio.m4a" target="_blank"><span aria-label="listen to Senate Health Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170912_Health_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 09/12/2017 </td> 
+               <td class="views-field views-field-title"> Senate Transportation and Housing Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-transportation-housing-committee-20170912/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170912_Transportation_high.mp4" target="_blank"><span aria-label="watch Senate Transportation and Housing Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170912_Transportation_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-transportation-housing-committee-20170912/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170912_Transportation_audio.m4a" target="_blank"><span aria-label="listen to Senate Transportation and Housing Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170912_Transportation_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 09/11/2017 </td> 
+               <td class="views-field views-field-title"> Senate Environmental Quality Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-environmental-quality-committee-20170911/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170911_EnvironmentalQuality_high.mp4" target="_blank"><span aria-label="watch Senate Environmental Quality Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170911_EnvironmentalQuality_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-environmental-quality-committee-20170911/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170911_EnvironmentalQuality_audio.m4a" target="_blank"><span aria-label="listen to Senate Environmental Quality Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170911_EnvironmentalQuality_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 09/11/2017 </td> 
+               <td class="views-field views-field-title"> Senate Floor Session </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-floor-session-20170911/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170911_Floor_high.mp4" target="_blank"><span aria-label="watch Senate Floor Session">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170911_Floor_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-floor-session-20170911/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170911_Floor_audio.m4a" target="_blank"><span aria-label="listen to Senate Floor Session">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170911_Floor_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 09/11/2017 </td> 
+               <td class="views-field views-field-title"> Senate Governmental Organization Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-governmental-organization-committee-20170911/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170911_GovernmentalOrganizatio_high.mp4" target="_blank"><span aria-label="watch Senate Governmental Organization Committee ">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170911_GovernmentalOrganizatio_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-governmental-organization-committee-20170911/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170911_GovernmentalOrganizatio_audio.m4a" target="_blank"><span aria-label="listen to Senate Governmental Organization Committee ">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170911_GovernmentalOrganizatio_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 09/07/2017 </td> 
+               <td class="views-field views-field-title"> Senate Floor Session </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-floor-session-20170907/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170907_Floor_high.mp4" target="_blank"><span aria-label="watch Senate Floor Session">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170907_Floor_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-floor-session-20170907/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170907_Floor_audio.m4a" target="_blank"><span aria-label="listen to Senate Floor Session">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170907_Floor_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 09/07/2017 </td> 
+               <td class="views-field views-field-title"> Senate Labor and Industrial Relations Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-labor-industrial-relations-committee-20170907/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170907_Labor_high.mp4" target="_blank"><span aria-label="watch Senate Labor and Industrial Relations Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170907_Labor_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-labor-industrial-relations-committee-20170907/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170907_Labor_audio.m4a" target="_blank"><span aria-label="listen to Senate Labor and Industrial Relations Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170907_Labor_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 09/07/2017 </td> 
+               <td class="views-field views-field-title"> Senate Transportation and Housing Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-transportation-housing-committee-20170907/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170907_Trans_high.mp4" target="_blank"><span aria-label="watch Senate Transportation and Housing Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170907_Trans_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-transportation-housing-committee-20170907/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170907_Trans_audio.m4a" target="_blank"><span aria-label="listen to Senate Transportation and Housing Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170907_Trans_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 09/06/2017 </td> 
+               <td class="views-field views-field-title"> Senate Business, Professions and Economic Development Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-business-professions-economic-development-committee-20170906/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170906_BusinessProfessions_high.mp4" target="_blank"><span aria-label="watch Senate Business, Professions and Economic Development Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170906_BusinessProfessions_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-business-professions-economic-development-committee-20170906/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170906_BusinessProfessions_audio.m4a" target="_blank"><span aria-label="listen to Senate Business, Professions and Economic Development Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170906_BusinessProfessions_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 09/06/2017 </td> 
+               <td class="views-field views-field-title"> Senate Floor Session </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-floor-session-20170906/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170906_Floor_high.mp4" target="_blank"><span aria-label="watch Senate Floor Session">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170906_Floor_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-floor-session-20170906/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170906_Floor_audio.m4a" target="_blank"><span aria-label="listen to Senate Floor Session">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170906_Floor_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 09/06/2017 </td> 
+               <td class="views-field views-field-title"> Senate Governmental Organization Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-governmental-organization-committee-20170906/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170906_GovOrg_high.mp4" target="_blank"><span aria-label="watch Senate Governmental Organization Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170906_GovOrg_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-governmental-organization-committee-20170906/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170906_GovOrg_audio.m4a" target="_blank"><span aria-label="listen to Senate Governmental Organization Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170906_GovOrg_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 09/05/2017 </td> 
+               <td class="views-field views-field-title"> Senate Floor Session </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-floor-session-20170905/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170905_Floor_high.mp4" target="_blank"><span aria-label="watch Senate Floor Session">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170905_Floor_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-floor-session-20170905/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170905_Floor_audio.m4a" target="_blank"><span aria-label="listen to Senate Floor Session">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170905_Floor_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 09/05/2017 </td> 
+               <td class="views-field views-field-title"> Senate Health Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-health-committee-20170905/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170905_Health_high.mp4" target="_blank"><span aria-label="watch Senate Health Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170905_Health_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-health-committee-20170905/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170905_Health_audio.m4a" target="_blank"><span aria-label="listen to Senate Health Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170905_Health_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 09/01/2017 </td> 
+               <td class="views-field views-field-title"> Senate Appropriations Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-appropriations-committee-20170901/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170901_Appropriations_high.mp4" target="_blank"><span aria-label="watch Senate Appropriations Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170901_Appropriations_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-appropriations-committee-20170901/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170901_Appropriations_audio.m4a" target="_blank"><span aria-label="listen to Senate Appropriations Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170901_Appropriations_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 09/01/2017 </td> 
+               <td class="views-field views-field-title"> Senate Floor Session </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-floor-session-20170901/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170901_Floor_high.mp4" target="_blank"><span aria-label="watch Senate Floor Session">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170901_Floor_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-floor-session-20170901/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170901_Floor_audio.m4a" target="_blank"><span aria-label="listen to Senate Floor Session">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170901_Floor_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 08/31/2017 </td> 
+               <td class="views-field views-field-title"> Senate Floor Session </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-floor-session-20170831/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170831_Floor_high.mp4" target="_blank"><span aria-label="watch Senate Floor Session">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170831_Floor_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-floor-session-20170831/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170831_Floor_audio.m4a" target="_blank"><span aria-label="listen to Senate Floor Session">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170831_Floor_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 08/31/2017 </td> 
+               <td class="views-field views-field-title"> Senate Governance and Finance Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-governance-finance-committee-20170831/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170831_GovernanceFinance_high.mp4" target="_blank"><span aria-label="watch Senate Governance and Finance Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170831_GovernanceFinance_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-governance-finance-committee-20170831/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170831_GovernanceFinance_audio.m4a" target="_blank"><span aria-label="listen to Senate Governance and Finance Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170831_GovernanceFinance_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 08/31/2017 </td> 
+               <td class="views-field views-field-title"> Senate Governmental Organization Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-governmental-organization-committee-20170831/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170831_GovOrganization_high.mp4" target="_blank"><span aria-label="watch Senate Governmental Organization Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170831_GovOrganization_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-governmental-organization-committee-20170831/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170831_GovOrganization_audio.m4a" target="_blank"><span aria-label="listen to Senate Governmental Organization Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170831_GovOrganization_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 08/31/2017 </td> 
+               <td class="views-field views-field-title"> Senate Natural Resources and Water Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-natural-resources-water-committee-20170831/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170831_NaturalResourcesWater_high.mp4" target="_blank"><span aria-label="watch Senate Natural Resources and Water Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170831_NaturalResourcesWater_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-natural-resources-water-committee-20170831/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170831_NaturalResourcesWater_audio.m4a" target="_blank"><span aria-label="listen to Senate Natural Resources and Water Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170831_NaturalResourcesWater_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 08/30/2017 </td> 
+               <td class="views-field views-field-title"> Joint Legislative Audit Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/Joint-Legislative-Audit-Committee-2017/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170830_JT_Leg_Audit_Committee_CalChannel.mp4" target="_blank"><span aria-label="watch Joint Legislative Audit Committee ">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170830_JT_Leg_Audit_Committee_CalChannel.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/Joint-Legislative-Audit-Committee-2017/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170830_JT_Leg_Audit_Committee_CalChannel.m4a" target="_blank"><span aria-label="listen to Joint Legislative Audit Committee ">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170830_JT_Leg_Audit_Committee_CalChannel.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 08/30/2017 </td> 
+               <td class="views-field views-field-title"> Joint Legislative Committee on Climate Change Policies and Assembly Committee on Jobs, Economic Development, and the Economy </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/Joint-Legislative-Committee-ClimateChange-and-AssemblyCommittee/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170830_JT_Leg_ClimateChange_AssemblyComittee_Cal_Channel.mp4" target="_blank"><span aria-label="watch Joint Legislative Committee on Climate Change Policies and Assembly Committee on Jobs, Economic Development, and the Economy">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170830_JT_Leg_ClimateChange_AssemblyComittee_Cal_Channel.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/Joint-Legislative-Committee-ClimateChange-and-AssemblyCommittee/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170830_JT_Leg_ClimateChange_AssemblyComittee_Cal_Channel.m4a" target="_blank"><span aria-label="listen to Joint Legislative Committee on Climate Change Policies and Assembly Committee on Jobs, Economic Development, and the Economy">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170830_JT_Leg_ClimateChange_AssemblyComittee_Cal_Channel.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 08/30/2017 </td> 
+               <td class="views-field views-field-title"> Senate Environmental Quality Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-environmental-quality-committee-20170830/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170830_EQ_high.mp4" target="_blank"><span aria-label="watch Senate Environmental Quality Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170830_EQ_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-environmental-quality-committee-20170830/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170830_EQ_audio.m4a" target="_blank"><span aria-label="listen to Senate Environmental Quality Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170830_EQ_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 08/30/2017 </td> 
+               <td class="views-field views-field-title"> Senate Insurance, Banking and Financial Institutions Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-insurance-banking-financial-institutions-committee-20170830/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170830_InsuranceBankingFinaci_high.mp4" target="_blank"><span aria-label="watch Senate Insurance, Banking and Financial Institutions Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170830_InsuranceBankingFinaci_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-insurance-banking-financial-institutions-committee-20170830/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170830_InsuranceBankingFinaci_audio.m4a" target="_blank"><span aria-label="listen to Senate Insurance, Banking and Financial Institutions Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170830_InsuranceBankingFinaci_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 08/30/2017 </td> 
+               <td class="views-field views-field-title"> Senate Labor and Industrial Relations Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-labor-industrial-relations-committee-20170830/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170830_Labor_high.mp4" target="_blank"><span aria-label="watch Senate Labor and Industrial Relations Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170830_Labor_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-labor-industrial-relations-committee-20170830/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170830_Labor_audio.m4a" target="_blank"><span aria-label="listen to Senate Labor and Industrial Relations Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170830_Labor_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 08/29/2017 </td> 
+               <td class="views-field views-field-title"> Senate Elections and Constitutional Amendments Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-elections-constitutional-amendments-committee-20170829/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170829_Elections_high.mp4" target="_blank"><span aria-label="watch Senate Elections and Constitutional Amendments Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170829_Elections_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-elections-constitutional-amendments-committee-20170829/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170829_Elections_audio.m4a" target="_blank"><span aria-label="listen to Senate Elections and Constitutional Amendments Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170829_Elections_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 08/29/2017 </td> 
+               <td class="views-field views-field-title"> Senate Energy, Utilities and Communications Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-energy-utilities-communications-committee-20170829/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170829_Energy_high.mp4" target="_blank"><span aria-label="watch Senate Energy, Utilities and Communications Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170829_Energy_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-energy-utilities-communications-committee-20170829/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170829_Energy_audio.m4a" target="_blank"><span aria-label="listen to Senate Energy, Utilities and Communications Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170829_Energy_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 08/29/2017 </td> 
+               <td class="views-field views-field-title"> Senate Judiciary Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-judiciary-committee-20170829/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170829_Judiciary_high.mp4" target="_blank"><span aria-label="watch Senate Judiciary Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170829_Judiciary_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-judiciary-committee-20170829/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170829_Judiciary_audio.m4a" target="_blank"><span aria-label="listen to Senate Judiciary Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170829_Judiciary_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 08/29/2017 </td> 
+               <td class="views-field views-field-title"> Senate Public Safety Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-public-safety-committee-20170829/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170829_PublicSafety_high.mp4" target="_blank"><span aria-label="watch Senate Public Safety Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170829_PublicSafety_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-public-safety-committee-20170829/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170829_PublicSafety_audio.m4a" target="_blank"><span aria-label="listen to Senate Public Safety Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170829_PublicSafety_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 08/29/2017 </td> 
+               <td class="views-field views-field-title"> Senate Select Committee on Women, Work and Families </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/select-committee-women-work-families-20170829/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170829_SelectCmte_Women_high.mp4" target="_blank"><span aria-label="watch Senate Select Committee on Women, Work and Families">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170829_SelectCmte_Women_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/select-committee-women-work-families-20170829/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170829_SelectCmte_Women_audio.m4a" target="_blank"><span aria-label="listen to Senate Select Committee on Women, Work and Families">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170829_SelectCmte_Women_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 08/28/2017 </td> 
+               <td class="views-field views-field-title"> Senate Appropriations Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-appropriations-committee-20170828/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170828_Appropriations_high.mp4" target="_blank"><span aria-label="watch Senate Appropriations Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170828_Appropriations_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-appropriations-committee-20170828/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170828_Appropriations_audio.m4a" target="_blank"><span aria-label="listen to Senate Appropriations Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170828_Appropriations_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 08/28/2017 </td> 
+               <td class="views-field views-field-title"> Senate Floor Session </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-floor-session-20170828/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170828_Floor_high.mp4" target="_blank"><span aria-label="watch Senate Floor Session ">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170828_Floor_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-floor-session-20170828/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170828_Floor_audio.m4a" target="_blank"><span aria-label="listen to Senate Floor Session ">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170828_Floor_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 08/24/2017 </td> 
+               <td class="views-field views-field-title"> Senate Budget Subcommittee #2 </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-budget-subcommittee-2-20170824/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170824_BudgetSub2_high.mp4" target="_blank"><span aria-label="watch Senate Budget Subcommittee #2">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170824_BudgetSub2_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-budget-subcommittee-2-20170824/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170824_BudgetSub2_audio.m4a" target="_blank"><span aria-label="listen to Senate Budget Subcommittee #2">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170824_BudgetSub2_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 08/24/2017 </td> 
+               <td class="views-field views-field-title"> Senate Floor Session </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-floor-session-20170824/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170824_Floor_high.mp4" target="_blank"><span aria-label="watch Senate Floor Session">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170824_Floor_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-floor-session-20170824/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170824_Floor_audio.m4a" target="_blank"><span aria-label="listen to Senate Floor Session">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170824_Floor_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 08/23/2017 </td> 
+               <td class="views-field views-field-title"> Joint Legislative Audit Committee, Assembly Higher Education and Assembly Budget Subcommittee #2 </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/joint-legislative-audit-committee-assembly-higher-education-assembly-budget-subcommittee-2-20170823/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170823_Jt_Audit_HigherEd_Budget_calchannel.mp4" target="_blank"><span aria-label="watch Joint Legislative Audit Committee, Assembly Higher Education and Assembly Budget Subcommittee #2">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170823_Jt_Audit_HigherEd_Budget_calchannel.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/joint-legislative-audit-committee-assembly-higher-education-assembly-budget-subcommittee-2-20170823/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170823_Jt_Audit_HigherEd_Budget_calchannel.m4a" target="_blank"><span aria-label="listen to Joint Legislative Audit Committee, Assembly Higher Education and Assembly Budget Subcommittee #2">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170823_Jt_Audit_HigherEd_Budget_calchannel.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 08/23/2017 </td> 
+               <td class="views-field views-field-title"> Joint Legislative Committee on Climate Change Policies </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/Joint-Legislative-Hearing-Climate-Change-Policies/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170823_JTLEG_Climate_Change.mp4" target="_blank"><span aria-label="watch Joint Legislative Committee on Climate Change Policies">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170823_JTLEG_Climate_Change.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/Joint-Legislative-Hearing-Climate-Change-Policies/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170823_JTLEG_Climate_Change_audio.m4a" target="_blank"><span aria-label="listen to Joint Legislative Committee on Climate Change Policies">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170823_JTLEG_Climate_Change_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 08/23/2017 </td> 
+               <td class="views-field views-field-title"> Joint Legislative Committee on Emergency Management </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/joint-legislative-committee-emergency-management-20170823/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170823_Jt_Emergency_high.mp4" target="_blank"><span aria-label="watch Joint Legislative Committee on Emergency Management">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170823_Jt_Emergency_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/joint-legislative-committee-emergency-management-20170823/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170823_Jt_Emergency_audio.m4a" target="_blank"><span aria-label="listen to Joint Legislative Committee on Emergency Management">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170823_Jt_Emergency_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 08/23/2017 </td> 
+               <td class="views-field views-field-title"> Senate Education Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-education-committee-20170823/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170823_Education_high.mp4" target="_blank"><span aria-label="watch Senate Education Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170823_Education_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-education-committee-20170823/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170823_Education_audio.m4a" target="_blank"><span aria-label="listen to Senate Education Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170823_Education_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 08/23/2017 </td> 
+               <td class="views-field views-field-title"> Senate Energy, Utilities and Communications Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-energy-utilities-communications-committee-20170823/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170823_Energy_high.mp4" target="_blank"><span aria-label="watch Senate Energy, Utilities and Communications Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170823_Energy_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-energy-utilities-communications-committee-20170823/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170823_Energy_audio.m4a" target="_blank"><span aria-label="listen to Senate Energy, Utilities and Communications Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170823_Energy_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 08/23/2017 </td> 
+               <td class="views-field views-field-title"> Senate Rules Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-rules-committee-20170823/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170823_Rules_high.mp4" target="_blank"><span aria-label="watch Senate Rules Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170823_Rules_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-rules-committee-20170823/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170823_Rules_audio.m4a" target="_blank"><span aria-label="listen to Senate Rules Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170823_Rules_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 08/22/2017 </td> 
+               <td class="views-field views-field-title"> Joint Hearing Senate Public Safety and Assembly Public Safety Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/joint-hearing-senate-public-safety-assembly-public-safety-committee-20170822/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170822_JtPublicSafety_high.mp4" target="_blank"><span aria-label="watch Joint Hearing Senate Public Safety and Assembly Public Safety Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170822_JtPublicSafety_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/joint-hearing-senate-public-safety-assembly-public-safety-committee-20170822/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170822_JtPublicSafety_audio.m4a" target="_blank"><span aria-label="listen to Joint Hearing Senate Public Safety and Assembly Public Safety Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170822_JtPublicSafety_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 08/22/2017 </td> 
+               <td class="views-field views-field-title"> Joint Senate Human Services and Assembly Human Services Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/Joint-Human-Services-Committee/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170822_JT_Human_Services_CalChannel.mp4" target="_blank"><span aria-label="watch Joint Senate Human Services and Assembly Human Services Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170822_JT_Human_Services_CalChannel.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/Joint-Human-Services-Committee/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170822_JT_Human_Services_CalChannel_audio.m4a" target="_blank"><span aria-label="listen to Joint Senate Human Services and Assembly Human Services Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170822_JT_Human_Services_CalChannel_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 08/22/2017 </td> 
+               <td class="views-field views-field-title"> Senate Budget and Fiscal Review Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-budget-fiscal-review-committee-20170822/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170822_BudgetFiscal_high.mp4" target="_blank"><span aria-label="watch Senate Budget and Fiscal Review Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170822_BudgetFiscal_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-budget-fiscal-review-committee-20170822/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170822_BudgetFiscal_audio.m4a" target="_blank"><span aria-label="listen to Senate Budget and Fiscal Review Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170822_BudgetFiscal_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 08/22/2017 </td> 
+               <td class="views-field views-field-title"> Senate Governmental Organization Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-governmental-organization-committee-20170822/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170822_GO_high.mp4" target="_blank"><span aria-label="watch Senate Governmental Organization Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170822_GO_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-governmental-organization-committee-20170822/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170822_GO_audio.m4a" target="_blank"><span aria-label="listen to Senate Governmental Organization Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170822_GO_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 08/22/2017 </td> 
+               <td class="views-field views-field-title"> Senate Natural Resources and Water Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-natural-resources-water-committee-20170822/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170822_NatResources_high.mp4" target="_blank"><span aria-label="watch Senate Natural Resources and Water Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170822_NatResources_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-natural-resources-water-committee-20170822/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170822_NatResources_audio.m4a" target="_blank"><span aria-label="listen to Senate Natural Resources and Water Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170822_NatResources_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 08/21/2017 </td> 
+               <td class="views-field views-field-title"> Senate Appropriations Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-appropriations-committee-20170821/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170821_Approp_high.mp4" target="_blank"><span aria-label="watch Senate Appropriations Committee ">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170821_Approp_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-appropriations-committee-20170821/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170821_Approp_audio.m4a" target="_blank"><span aria-label="listen to Senate Appropriations Committee ">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170821_Approp_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 08/21/2017 </td> 
+               <td class="views-field views-field-title"> Senate Floor Session </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-floor-session-20170821/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170821_Floor_high.mp4" target="_blank"><span aria-label="watch Senate Floor Session">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170821_Floor_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-floor-session-20170821/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170821_Floor_audio.m4a" target="_blank"><span aria-label="listen to Senate Floor Session">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170821_Floor_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 08/16/2017 </td> 
+               <td class="views-field views-field-title"> Joint Hearing Senate Select Committee on California's Wine Industry and Assembly Select Committee on Wine </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/joint-hearing-senate-select-committee-california-s-wine-industry-assembly-select-committee-wine-20170816/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170816_Select on Wine.mp4" target="_blank"><span aria-label="watch Joint Hearing Senate Select Committee on California's Wine Industry and Assembly Select Committee on Wine">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170816_Select on Wine.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/joint-hearing-senate-select-committee-california-s-wine-industry-assembly-select-committee-wine-20170816/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170816_Select on Wine.m4a" target="_blank"><span aria-label="listen to Joint Hearing Senate Select Committee on California's Wine Industry and Assembly Select Committee on Wine">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170816_Select on Wine.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 07/20/2017 </td> 
+               <td class="views-field views-field-title"> Senate Floor Session </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-floor-session-20170720/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170720_Floor_high.mp4" target="_blank"><span aria-label="watch Senate Floor Session">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170720_Floor_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-floor-session-20170720/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170720_Floor_audio.m4a" target="_blank"><span aria-label="listen to Senate Floor Session">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170720_Floor_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 07/19/2017 </td> 
+               <td class="views-field views-field-title"> Joint Legislative Committee on Emergency Management </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/joint-legislative-committee-emergency-management-20170719/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170719_EmergencyManagement_high.mp4" target="_blank"><span aria-label="watch Joint Legislative Committee on Emergency Management ">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170719_EmergencyManagement_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/joint-legislative-committee-emergency-management-20170719/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170719_EmergencyManagement_audio.m4a" target="_blank"><span aria-label="listen to Joint Legislative Committee on Emergency Management ">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170719_EmergencyManagement_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 07/19/2017 </td> 
+               <td class="views-field views-field-title"> Senate Governance and Finance Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-governance-finance-committee-20170719/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170719_GovFinance_high.mp4" target="_blank"><span aria-label="watch Senate Governance and Finance Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170719_GovFinance_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-governance-finance-committee-20170719/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170719_GovFinance_audio.m4a" target="_blank"><span aria-label="listen to Senate Governance and Finance Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170719_GovFinance_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 07/19/2017 </td> 
+               <td class="views-field views-field-title"> Senate Health Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-health-committee-20170719/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170719_Health_high.mp4" target="_blank"><span aria-label="watch Senate Health Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170719_Health_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-health-committee-20170719/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170719_Health_audio.m4a" target="_blank"><span aria-label="listen to Senate Health Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170719_Health_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 07/19/2017 </td> 
+               <td class="views-field views-field-title"> Senate Rules Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-rules-committee-20170719/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170719_Rules_high.mp4" target="_blank"><span aria-label="watch Senate Rules Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170719_Rules_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-rules-committee-20170719/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170719_Rules_audio.m4a" target="_blank"><span aria-label="listen to Senate Rules Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170719_Rules_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 07/18/2017 </td> 
+               <td class="views-field views-field-title"> Senate Energy, Utilities and Communications Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-energy-utilities-communications-committee-20170718/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170718_Energy_high.mp4" target="_blank"><span aria-label="watch Senate Energy, Utilities and Communications Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170718_Energy_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-energy-utilities-communications-committee-20170718/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170718_Energy_audio.m4a" target="_blank"><span aria-label="listen to Senate Energy, Utilities and Communications Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170718_Energy_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 07/18/2017 </td> 
+               <td class="views-field views-field-title"> Senate Judiciary Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-judiciary-committee-20170718/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170718_Judiciary_high.mp4" target="_blank"><span aria-label="watch Senate Judiciary Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170718_Judiciary_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-judiciary-committee-20170718/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170718_Judiciary_audio.m4a" target="_blank"><span aria-label="listen to Senate Judiciary Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170718_Judiciary_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 07/18/2017 </td> 
+               <td class="views-field views-field-title"> Senate Transportation and Housing Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-transportation-housing-committee-20170718/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170718_Transportation_high.mp4" target="_blank"><span aria-label="watch Senate Transportation and Housing Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170718_Transportation_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-transportation-housing-committee-20170718/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170718_Transportation_audio.m4a" target="_blank"><span aria-label="listen to Senate Transportation and Housing Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170718_Transportation_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 07/17/2017 </td> 
+               <td class="views-field views-field-title"> Joint Committee on Rules </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/joint-committee-rules-20170717/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170717_0930_4202Vid.mp4" target="_blank"><span aria-label="watch Joint Committee on Rules">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170717_0930_4202Vid.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/joint-committee-rules-20170717/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170717_0930_4202Vid.m4a" target="_blank"><span aria-label="listen to Joint Committee on Rules">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170717_0930_4202Vid.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 07/17/2017 </td> 
+               <td class="views-field views-field-title"> Senate Appropriations Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-appropriations-committee-20170717/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170717_Approps_high.mp4" target="_blank"><span aria-label="watch Senate Appropriations Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170717_Approps_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-appropriations-committee-20170717/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170717_Approps_audio.m4a" target="_blank"><span aria-label="listen to Senate Appropriations Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170717_Approps_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 07/17/2017 </td> 
+               <td class="views-field views-field-title"> Senate Business, Professions and Economic Development Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-business-professions-economic-development-committee-20170717/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170717_Biz_Professions_high.mp4" target="_blank"><span aria-label="watch Senate Business, Professions and Economic Development Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170717_Biz_Professions_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-business-professions-economic-development-committee-20170717/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170717_Biz_Professions_audio.m4a" target="_blank"><span aria-label="listen to Senate Business, Professions and Economic Development Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170717_Biz_Professions_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 07/17/2017 </td> 
+               <td class="views-field views-field-title"> Senate Floor Session </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-floor-session-20170717/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170717_Floor_high.mp4" target="_blank"><span aria-label="watch Senate Floor Session">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170717_Floor_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-floor-session-20170717/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170717_Floor_audio.m4a" target="_blank"><span aria-label="listen to Senate Floor Session">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170717_Floor_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 07/13/2017 </td> 
+               <td class="views-field views-field-title"> Senate Education Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-education-committee-20170713/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170713_Education_high.mp4" target="_blank"><span aria-label="watch Senate Education Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170713_Education_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-education-committee-20170713/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170713_Education_audio.m4a" target="_blank"><span aria-label="listen to Senate Education Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170713_Education_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 07/13/2017 </td> 
+               <td class="views-field views-field-title"> Senate Environmental Quality Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-environmental-quality-committee-20170713/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170713_EnvironmentalQuality_high.mp4" target="_blank"><span aria-label="watch Senate Environmental Quality Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170713_EnvironmentalQuality_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-environmental-quality-committee-20170713/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170713_EnvironmentalQuality_audio.m4a" target="_blank"><span aria-label="listen to Senate Environmental Quality Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170713_EnvironmentalQuality_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 07/13/2017 </td> 
+               <td class="views-field views-field-title"> Senate Floor Session </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-floor-session-20170713/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170713_Floor_high.mp4" target="_blank"><span aria-label="watch Senate Floor Session">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170713_Floor_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-floor-session-20170713/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170713_Floor_audio.m4a" target="_blank"><span aria-label="listen to Senate Floor Session">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170713_Floor_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 07/12/2017 </td> 
+               <td class="views-field views-field-title"> Senate Education Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-education-committee-20170712/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170712_Education_high.mp4" target="_blank"><span aria-label="watch Senate Education Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170712_Education_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-education-committee-20170712/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170712_Education_audio.m4a" target="_blank"><span aria-label="listen to Senate Education Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170712_Education_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 07/12/2017 </td> 
+               <td class="views-field views-field-title"> Senate Elections and Constitutional Amendments Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-elections-constitutional-amendments-committee-20170712/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170712_Elections_high.mp4" target="_blank"><span aria-label="watch Senate Elections and Constitutional Amendments Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170712_Elections_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-elections-constitutional-amendments-committee-20170712/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170712_Elections_audio.m4a" target="_blank"><span aria-label="listen to Senate Elections and Constitutional Amendments Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170712_Elections_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 07/12/2017 </td> 
+               <td class="views-field views-field-title"> Senate Environmental Quality Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-environmental-quality-committee-20170712/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170712_EQ_high.mp4" target="_blank"><span aria-label="watch Senate Environmental Quality Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170712_EQ_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-environmental-quality-committee-20170712/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170712_EQ_audio.m4a" target="_blank"><span aria-label="listen to Senate Environmental Quality Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170712_EQ_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 07/12/2017 </td> 
+               <td class="views-field views-field-title"> Senate Governance and Finance Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-governance-finance-committee-20170712/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170712_Gov Finance_high.mp4" target="_blank"><span aria-label="watch Senate Governance and Finance Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170712_Gov Finance_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-governance-finance-committee-20170712/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170712_Gov Finance_audio.m4a" target="_blank"><span aria-label="listen to Senate Governance and Finance Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170712_Gov Finance_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 07/12/2017 </td> 
+               <td class="views-field views-field-title"> Senate Health Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-health-committee-20170712/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170712_Health_high.mp4" target="_blank"><span aria-label="watch Senate Health Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170712_Health_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-health-committee-20170712/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170712_Health_audio.m4a" target="_blank"><span aria-label="listen to Senate Health Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170712_Health_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 07/12/2017 </td> 
+               <td class="views-field views-field-title"> Senate Insurance, Banking and Financial Institutions Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-insurance-banking-financial-institutions-committee-20170712/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170712_Insurance_high.mp4" target="_blank"><span aria-label="watch Senate Insurance, Banking and Financial Institutions Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170712_Insurance_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-insurance-banking-financial-institutions-committee-20170712/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170712_Insurance_audio.m4a" target="_blank"><span aria-label="listen to Senate Insurance, Banking and Financial Institutions Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170712_Insurance_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 07/12/2017 </td> 
+               <td class="views-field views-field-title"> Senate Labor and Industrial Relations Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-labor-industrial-relations-committee-20170712/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170712_Labor_high.mp4" target="_blank"><span aria-label="watch Senate Labor and Industrial Relations Committee ">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170712_Labor_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-labor-industrial-relations-committee-20170712/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170712_Labor_audio.m4a" target="_blank"><span aria-label="listen to Senate Labor and Industrial Relations Committee ">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170712_Labor_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 07/12/2017 </td> 
+               <td class="views-field views-field-title"> Senate Rules Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-rules-committee-20170712/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170712_Rules_high.mp4" target="_blank"><span aria-label="watch Senate Rules Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170712_Rules_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-rules-committee-20170712/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170712_Rules_audio.m4a" target="_blank"><span aria-label="listen to Senate Rules Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170712_Rules_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 07/11/2017 </td> 
+               <td class="views-field views-field-title"> Senate Governmental Organization Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-governmental-organization-committee-20170711/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170711_GovernmentOrganization_high.mp4" target="_blank"><span aria-label="watch Senate Governmental Organization Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170711_GovernmentOrganization_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-governmental-organization-committee-20170711/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170711_GovernmentOrganization_audio.m4a" target="_blank"><span aria-label="listen to Senate Governmental Organization Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170711_GovernmentOrganization_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 07/11/2017 </td> 
+               <td class="views-field views-field-title"> Senate Human Services Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-human-services-committee-20170711/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170711_HumanServices_high.mp4" target="_blank"><span aria-label="watch Senate Human Services Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170711_HumanServices_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-human-services-committee-20170711/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170711_HumanServices_audio.m4a" target="_blank"><span aria-label="listen to Senate Human Services Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170711_HumanServices_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 07/11/2017 </td> 
+               <td class="views-field views-field-title"> Senate Judiciary Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-judiciary-committee-20170711/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170711_Judiciary_high.mp4" target="_blank"><span aria-label="watch Senate Judiciary Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170711_Judiciary_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-judiciary-committee-20170711/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170711_Judiciary_audio.m4a" target="_blank"><span aria-label="listen to Senate Judiciary Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170711_Judiciary_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 07/11/2017 </td> 
+               <td class="views-field views-field-title"> Senate Natural Resources and Water Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-natural-resources-water-committee-20170711/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170711_NaturalResource_high.mp4" target="_blank"><span aria-label="watch Senate Natural Resources and Water Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170711_NaturalResource_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-natural-resources-water-committee-20170711/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170711_NaturalResource_audio.m4a" target="_blank"><span aria-label="listen to Senate Natural Resources and Water Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170711_NaturalResource_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 07/11/2017 </td> 
+               <td class="views-field views-field-title"> Senate Public Safety Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-public-safety-committee-20170711/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170711_PublicSafety_high.mp4" target="_blank"><span aria-label="watch Senate Public Safety Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170711_PublicSafety_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-public-safety-committee-20170711/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170711_PublicSafety_audio.m4a" target="_blank"><span aria-label="listen to Senate Public Safety Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170711_PublicSafety_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 07/11/2017 </td> 
+               <td class="views-field views-field-title"> Senate Transportation and Housing Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-transportation-housing-committee-20170711/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170711_Transportation_high.mp4" target="_blank"><span aria-label="watch Senate Transportation and Housing Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170711_Transportation_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-transportation-housing-committee-20170711/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170711_Transportation_audio.m4a" target="_blank"><span aria-label="listen to Senate Transportation and Housing Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170711_Transportation_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 07/11/2017 </td> 
+               <td class="views-field views-field-title"> Senate Veterans Affairs Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-veterans-affairs-committee-20170711/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170711_Veterans_high.mp4" target="_blank"><span aria-label="watch Senate Veterans Affairs Committee ">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170711_Veterans_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-veterans-affairs-committee-20170711/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170711_Veterans_audio.m4a" target="_blank"><span aria-label="listen to Senate Veterans Affairs Committee ">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170711_Veterans_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 07/10/2017 </td> 
+               <td class="views-field views-field-title"> Senate Appropriations Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-appropriations-committee-20170710/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170710_Appropriations_high.mp4" target="_blank"><span aria-label="watch Senate Appropriations Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170710_Appropriations_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-appropriations-committee-20170710/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170710_Appropriations_audio.m4a" target="_blank"><span aria-label="listen to Senate Appropriations Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170710_Appropriations_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 07/10/2017 </td> 
+               <td class="views-field views-field-title"> Senate Business, Professions and Economic Development Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-business-professions-economic-development-committee-20170710/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170710_BusinessProfessions_high.mp4" target="_blank"><span aria-label="watch Senate Business, Professions and Economic Development Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170710_BusinessProfessions_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-business-professions-economic-development-committee-20170710/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170710_BusinessProfessions_audio.m4a" target="_blank"><span aria-label="listen to Senate Business, Professions and Economic Development Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170710_BusinessProfessions_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 07/10/2017 </td> 
+               <td class="views-field views-field-title"> Senate Energy, Utilities and Communications Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-energy-utilities-communications-committee-20170710/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170710_Energy_high.mp4" target="_blank"><span aria-label="watch Senate Energy, Utilities and Communications Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170710_Energy_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-energy-utilities-communications-committee-20170710/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170710_Energy_audio.m4a" target="_blank"><span aria-label="listen to Senate Energy, Utilities and Communications Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170710_Energy_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 07/10/2017 </td> 
+               <td class="views-field views-field-title"> Senate Floor Session </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-floor-session-20170710/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170710_Floor_high.mp4" target="_blank"><span aria-label="watch Senate Floor Session">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170710_Floor_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-floor-session-20170710/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170710_Floor_audio.m4a" target="_blank"><span aria-label="listen to Senate Floor Session">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170710_Floor_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 07/10/2017 </td> 
+               <td class="views-field views-field-title"> Senate Public Employment and Retirement Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-public-employment-retirement-committee-20170710/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170710_PublicEmployment_high.mp4" target="_blank"><span aria-label="watch Senate Public Employment and Retirement Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170710_PublicEmployment_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-public-employment-retirement-committee-20170710/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170710_PublicEmployment_audio.m4a" target="_blank"><span aria-label="listen to Senate Public Employment and Retirement Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170710_PublicEmployment_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 07/06/2017 </td> 
+               <td class="views-field views-field-title"> Joint Committee on Rules </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/joint-committee-rules-20170706/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170706_1030_4202Vid.mp4" target="_blank"><span aria-label="watch Joint Committee on Rules">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170706_1030_4202Vid.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/joint-committee-rules-20170706/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170706_1030_4202Vid.m4a" target="_blank"><span aria-label="listen to Joint Committee on Rules">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170706_1030_4202Vid.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even"> 
+               <td class="views-field views-field-source-date"> 07/06/2017 </td> 
+               <td class="views-field views-field-title"> Senate Agriculture Committee </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-agriculture-committee-20170706/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170706_Agriculture_high.mp4" target="_blank"><span aria-label="watch Senate Agriculture Committee">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170706_Agriculture_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-agriculture-committee-20170706/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170706_Agriculture_audio.m4a" target="_blank"><span aria-label="listen to Senate Agriculture Committee">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170706_Agriculture_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="odd"> 
+               <td class="views-field views-field-source-date"> 07/06/2017 </td> 
+               <td class="views-field views-field-title"> Senate Floor Session </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/senate-floor-session-20170706/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170706_Floor_high.mp4" target="_blank"><span aria-label="watch Senate Floor Session">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170706_Floor_high.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/senate-floor-session-20170706/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170706_Floor_audio.m4a" target="_blank"><span aria-label="listen to Senate Floor Session">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170706_Floor_audio.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+              <tr class="even views-row-last"> 
+               <td class="views-field views-field-source-date"> 07/05/2017 </td> 
+               <td class="views-field views-field-title"> Joint Legislative Committee on Climate Change Policies </td> 
+               <td class="views-field views-field-nothing"> <a href="/media/joint-legislative-committee-climate-change-policies-20170705/video" class="watch-video mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170705_JTLeg_ClimateChange_CalChannel.mp4" target="_blank"><span aria-label="watch Joint Legislative Committee on Climate Change Policies">Watch</span></a> </td> 
+               <td class="views-field views-field-field-video-download-file"> <a href="http://vod.senate.ca.gov/videos/2017/20170705_JTLeg_ClimateChange_CalChannel.mp4 "><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-nothing-1"> <a href="/media/joint-legislative-committee-climate-change-policies-20170705/audio" class="listen-audio mod-media" rel="http://vod.assembly.ca.gov/videos/2017/20170705_JTLeg_ClimateChange_CalChannel.m4a" target="_blank"><span aria-label="listen to Joint Legislative Committee on Climate Change Policies">Listen</span></a> </td> 
+               <td class="views-field views-field-field-audio-download-file-1"> <a href="http://vod.senate.ca.gov/videos/2017/20170705_JTLeg_ClimateChange_CalChannel.m4a"><i class="fa fa-download"></i></a> </td> 
+               <td class="views-field views-field-field-caption-download-file-1 ie-show"> 
+                <div></div> </td> 
+              </tr> 
+             </tbody> 
+            </table> 
+           </div> 
+           <h2 class="element-invisible">Pages</h2>
+           <div class="item-list">
+            <ul class="pager">
+             <li class="pager-first first"><a title="Go to first page" href="/media-archive/media-archive">« first</a></li> 
+             <li class="pager-previous"><a title="Go to previous page" href="/media-archive/media-archive?page=7">‹ previous</a></li> 
+             <li class="pager-ellipsis">…</li> 
+             <li class="pager-item"><a title="Go to page 5" href="/media-archive/media-archive?page=4">5</a></li> 
+             <li class="pager-item"><a title="Go to page 6" href="/media-archive/media-archive?page=5">6</a></li> 
+             <li class="pager-item"><a title="Go to page 7" href="/media-archive/media-archive?page=6">7</a></li> 
+             <li class="pager-item"><a title="Go to page 8" href="/media-archive/media-archive?page=7">8</a></li> 
+             <li class="pager-current">9</li> 
+             <li class="pager-item"><a title="Go to page 10" href="/media-archive/media-archive?page=9">10</a></li> 
+             <li class="pager-item"><a title="Go to page 11" href="/media-archive/media-archive?page=10">11</a></li> 
+             <li class="pager-item"><a title="Go to page 12" href="/media-archive/media-archive?page=11">12</a></li> 
+             <li class="pager-item"><a title="Go to page 13" href="/media-archive/media-archive?page=12">13</a></li> 
+             <li class="pager-ellipsis">…</li> 
+             <li class="pager-next"><a title="Go to next page" href="/media-archive/media-archive?page=9">next ›</a></li> 
+             <li class="pager-last last"><a title="Go to last page" href="/media-archive/media-archive?page=68">last »</a></li> 
+            </ul>
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <!--end middle column--> 
+      <!--nested left column--> 
+      <!--left column--> 
+      <section> 
+       <div class="left-column col-md-3 col-md-pull-9"> 
+        <div class="region region-sidebar-left"> 
+         <div id="block-scgmenublock-menu-block" class="block block-scgmenublock clearfix"> 
+          <div class="content"> 
+           <ul class="menu">
+            <li class="first "><a href="/tvschedule">TV Schedule</a></li> 
+            <li class=""><a href="https://senate.ca.gov/sites/senate.ca.gov/files/accreditedpress.pdf" title="">Accredited Press</a></li> 
+            <li class="last  active-trail"><a href="/media-archive" title="" class="active-trail active">Media Archive</a></li> 
+           </ul> 
+          </div> 
+         </div> 
+         <div id="block-lwpusermenu-lwpusermenu-toggle" class="block block-lwpusermenu clearfix"> 
+          <div class="content"> 
+           <form action="/media-archive/media-archive?page=8" method="post" id="lwpusermenu-mode-form" accept-charset="UTF-8">
+            <div>
+             <input type="hidden" name="form_build_id" value="form-07UP7eYfSXUX6Fa0YYalaPdfqsol8y-ODBPpY1yhs6I"> 
+             <input type="hidden" name="form_id" value="lwpusermenu_mode_form"> 
+            </div>
+           </form> 
+          </div> 
+         </div> 
+         <div id="block-block-7" class="block block-block clearfix"> 
+          <div class="content"> 
+           <p class="text-center"><a href="http://senate.ca.gov/dailyfile"><img alt="Senate Daily File" src="/sites/senate.ca.gov/files/home-file.png" style="width: 210px; height: 60px; margin-top: 5px; margin-bottom: 5px;"></a><a href="http://leginfo.legislature.ca.gov/faces/billSearchClient.xhtml"><img alt="Find Legislation" src="/sites/senate.ca.gov/files/home-legis.png" style="width: 210px; height: 60px; margin-top: 5px; margin-bottom: 5px;"></a><a href="http://senate.ca.gov/senate-oversight-hearings"><img alt="Oversight Hearings Page" src="/sites/senate.ca.gov/files/home-oversight.png" style="width: 210px; height: 60px; margin-top: 5px; margin-bottom: 5px;"></a><a href="http://findyourrep.legislature.ca.gov/"><img alt="Find My Senator" src="/sites/senate.ca.gov/files/home-find.png" style="width: 210px; height: 60px; margin-top: 5px; margin-bottom: 5px;"></a><a href="http://registertovote.ca.gov/"><img alt="Register to Vote" src="/sites/senate.ca.gov/files/home-vote_0.png" style="width: 210px; height: 60px; margin-top: 5px; margin-bottom: 5px;"></a><a href="http://senate.ca.gov/calendar"><img alt="Senate Events" src="/sites/senate.ca.gov/files/senate-events.png" style="width: 210px; height: 210px;"></a></p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </section> 
+      <!--end left column--> 
+     </div> 
+     <!--end column wrapper--> 
+     <!--footer section--> 
+     <section> 
+      <div class="footer-wrapper senate-red clear"> 
+       <div id="footer"> 
+        <div class="region region-footer"> 
+         <div id="block-block-6" class="block block-block clearfix"> 
+          <div class="content"> 
+           <p><img alt="California State Senate Seal" src="/sites/senate.ca.gov/files/ctools/senate-seal-sm.png" style="width: 36px; height: 36px"></p> 
+           <ul>
+            <li><a href="/sitemap">Site Map</a></li> 
+            <li><a href="http://www.legislature.ca.gov/footer/use_privacy_policy.html">Privacy and Conditions of Use</a></li> 
+            <li><a href="/accessibility">Accessibility</a></li> 
+            <li><a href="#top">Back to Top</a></li> 
+            <li><a href="/feedback">Feedback</a></li> 
+            <li><a href="/senatejobs">Senate Jobs Available</a></li> 
+            <li><a href="http://wcu-reporting.legislature.ca.gov/">Reporting Inappropriate Workplace Conduct</a></li> 
+            <li>Copyright © 2014 State of California</li> 
+           </ul> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <!-- /#footer --> 
+      </div> 
+     </section> 
+     <!--end footer section--> 
+    </div>
+    <!-- /.container --> 
+   </div> 
+   <!-- /#wrapper --> 
+  </div>
+  <!--#page--> 
+  <div id="modal" class="modal fade"> 
+   <div class="modal-dialog modal-lg"> 
+    <div class="modal-content"> 
+     <div class="modal-header"> 
+      <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button> 
+      <h4 class="modal-title"></h4> 
+     </div> 
+     <div class="modal-body"> 
+      <p>Loading.....</p> 
+     </div> 
+     <div class="modal-footer"> 
+      <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button> 
+     </div> 
+    </div>
+    <!-- /.modal-content --> 
+   </div>
+   <!-- /.modal-dialog --> 
+  </div>
+  <!-- /.modal --> 
+  <div id="video-modal" class="modal fade" data-backdrop="static" data-keyboard="false">
+   <!-- data-backdrop="static" data-keyboard="false" disables escape and mouse click from closing modal--> 
+   <div class="modal-dialog modal-lg"> 
+    <div class="modal-content"> 
+     <div class="modal-header"> 
+      <div class="btn-toolbar pull-right"> 
+       <div class="btn-group"> 
+        <a id="video-popout-link" href="#" target="_blank" type="button" class="close btn-xs calendar-tooltip" data-toggle="tooltip" data-placement="right" title="Open in a new window"><span aria-hidden="true"><i class="fa fa-external-link"></i></span><span class="sr-only">open in new window</span></a> 
+       </div> 
+       <div class="btn-group"> 
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button> 
+       </div> 
+      </div> 
+      <h4 class="modal-title"></h4> 
+     </div> 
+     <div class="modal-body"> 
+      <p>Loading player......</p> 
+     </div> 
+     <div class="modal-footer"> 
+      <!-- <a href="#"  target="_blank" type="button" class="btn btn-success" id="video-download-link"><i class="fa-download"></i>Download Video</a> --> 
+      <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa-times"></i>Close</button> 
+     </div> 
+    </div>
+    <!-- /.modal-content --> 
+   </div>
+   <!-- /.modal-dialog --> 
+  </div>
+  <!-- /.modal --> 
+  <div id="control-modal" class="modal fade" data-backdrop="static" data-keyboard="false">
+   <!-- data-backdrop="static" data-keyboard="false" disables escape and mouse click from closing modal--> 
+   <div class="modal-dialog modal-lg"> 
+    <div class="modal-content"> 
+     <div class="modal-header"> 
+      <div class="btn-toolbar pull-right"> 
+       <div class="btn-group"> 
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button> 
+       </div> 
+      </div> 
+      <h4 class="modal-title"></h4> 
+     </div> 
+     <div class="modal-body"> 
+      <p>Loading</p> 
+     </div> 
+     <div class="modal-footer"> 
+      <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button> 
+     </div> 
+    </div>
+    <!-- /.modal-content --> 
+   </div>
+   <!-- /.modal-dialog --> 
+  </div>
+  <!-- /.modal --> 
+  <div class="modal fade" id="emailConfirmationMessage" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
+   <div class="modal-dialog"> 
+    <div class="modal-content"> 
+     <div class="modal-header"> 
+      <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button> 
+      <h4 class="modal-title" id="myModalLabel">Adjourn Confirmation</h4> 
+     </div> 
+     <div class="modal-body"> 
+      <div class="alert alert-success" role="alert">
+       An email will be sent to the Streaming Support distribution list and Adjourn the hearing.
+      </div> 
+     </div> 
+     <div class="modal-footer"> 
+      <button type="button" class="btn btn-primary sendAdjournEmail">Ok</button> 
+      <button type="button" class="btn btn-default" data-dismiss="modal">Close</button> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="modal fade" id="recessEmailConfirmationMessage" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
+   <div class="modal-dialog"> 
+    <div class="modal-content"> 
+     <div class="modal-header"> 
+      <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button> 
+      <h4 class="modal-title" id="myModalLabel">Recess Confirmation</h4> 
+     </div> 
+     <div class="modal-body"> 
+      <div class="alert alert-success" role="alert">
+       An email will be sent to the Streaming Support distribution list and the hearing will be recessed.
+      </div> 
+     </div> 
+     <div class="modal-footer"> 
+      <button type="button" class="btn btn-primary sendRecessEmail">Ok</button> 
+      <button type="button" class="btn btn-default" data-dismiss="modal">Close</button> 
+     </div> 
+    </div> 
+   </div> 
+  </div>  
+ </body>
+</html>

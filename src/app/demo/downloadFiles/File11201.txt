@@ -1,0 +1,507 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+	Talk to Your Doctor about Abdominal Aortic Aneurysm - healthfinder.gov
+</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+  <meta name="keywords" content="AAA, Abdominal Aorta, Abdomen, aneurysm, smoking, aorta">
+  <meta name="description" content="If abdominal aortic aneurysm (AAA) isn't found and treated early, it can be deadly. Share this resource to encourage men age 65 to 75 who have ever smoked to talk with their doctors about AAA.">
+  <link rel="canonical" href="https://healthfinder.gov:443/HealthTopics/Dispatch.aspx?q1=health-conditions-and-diseases/cancer/quitting-smoking-conversation-starters/HealthTopics/Category/doctor-visits&amp;q2=screening-tests&amp;q3=talk-to-your-doctor-about-abdominal-aortic-aneurysm">
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+  <meta name="verify-v1" content="SGDyDYxOiYbFQAhohrwKuaxwOiCVv2eZij6NzZ678Cg=">
+  <meta name="y_key" content="e1fae57e8f96398e">
+  <link href="/css/reset.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/styles.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/styles-esp.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/font-awesome.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/flexslider.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/jquery.tweet.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/colorbox/colorbox.css" rel="stylesheet" media="all">
+  <link href="/css/redmond/jquery-ui-1.8.20.custom.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/jquery.dataTables.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/jquery.dataTables_themeroller.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/quickguide.css" rel="stylesheet" media="all">
+  <link href="/css/myhealthfinder.css" rel="stylesheet" media="all">
+  <link href="/css/ecards.css" rel="stylesheet" media="all">
+  <link href="/css/quiz.css" rel="stylesheet" media="all">
+  <link href="/css/surveys.css" rel="stylesheet" media="screen">
+  <link href="/css/odphp-global-nav.css" rel="stylesheet" media="all"> 
+  <!--[if (gte IE 6)&(lte IE 8)]>
+        <script type="text/javascript" src="/js/selectivizr-min.js"></script>
+    <![endif]--> 
+  <!--[if IE 7]>
+        <link rel="stylesheet" type="text/css" media="all" href="/css/ie7.css" /><link rel="stylesheet" type="text/css" media="all" href="/css/font-awesome-ie7.css" />
+        <![endif]--> 
+  <!--[if IE 8]><link rel="stylesheet" type="text/css" media="all" href="/css/ie8.css" /><![endif]--> 
+  <link type="text/css" rel="stylesheet" href="/css/search-suggest.css">
+  <link type="text/css" rel="stylesheet" href="/css/print.css" media="print"> 
+ </head> 
+ <body id="body" class="english"> 
+  <!-- Google Tag Manager --> 
+  <noscript>
+   <iframe src="//www.googletagmanager.com/ns.html?id=GTM-5TG7CH&amp;NoJavascriptType=web&amp;NoJavascriptCID=a9c30a42-e38d-50cc-92fe-7d5301630775&amp;NoJavascriptURL=https%3a%2f%2fhealthfinder.gov%2fHealthTopics%2fCategory%2fhealth-conditions-and-diseases%2fcancer%2fquitting-smoking-conversation-starters%2fHealthTopics%2fCategory%2fdoctor-visits%2fscreening-tests%2ftalk-to-your-doctor-about-abdominal-aortic-aneurysm&amp;NoJavascriptLang=en-US&amp;NoJavascriptReferrer=&amp;NoJavascriptTitle=" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript> 
+  <script>(function (w, d, s, l, i) {
+w[l] = w[l] || []; w[l].push({
+'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'AnalyticsLogicLayer', 'GTM-5TG7CH');</script> 
+  <!-- End Google Tag Manager --> 
+  <div id="HideIfWidget1"> 
+   <div class="global-nav"> 
+    <div class="global-nav-odphp">
+     <span>Office of Disease Prevention and Health Promotion</span>
+    </div> 
+    <ul> 
+     <li><a href="https://health.gov/" class="global-nav-healthgov">health.gov</a></li> 
+     <li><a href="https://healthfinder.gov/" class="global-nav-healthfinder global-nav-current">healthfinder.gov</a></li> 
+     <li><a href="https://healthypeople.gov/" class="global-nav-healthypeople">healthypeople.gov</a></li> 
+    </ul> 
+   </div> 
+   <img class="print-logo" src="/images/footer-hf-logo.png" alt="Department of Health and Human Services"> 
+  </div> 
+  <div id="page"> 
+   <div id="HideIfWidget2"> 
+    <a href="https://www.hhs.gov/" class="parent-banner">U.S. Department of Health and Human Services</a> 
+    <div id="header" class="clearfix" role="banner"> 
+     <div id="skip"> 
+      <a class="skipnav" href="#skipnav" tabindex="1">Skip to Content</a> 
+     </div> 
+     <div id="espanol">
+      <a href="/espanol">En español</a>
+     </div> 
+     <div id="mobile-menu-trigger" class="mobile-hide"> 
+      <h2>Menu</h2> 
+     </div> 
+     <div id="logo"> 
+      <a href="/"> <img src="/images/logo.png" alt="healthfinder.gov"> </a> 
+     </div> 
+     <div id="search-box" role="search"> 
+      <form action="/search" method="get"> 
+       <label for="searchText">Search healthfinder.gov:</label> 
+       <input id="searchText" aria-autocomplete="both" aria-haspopup="true" autocomplete="off" class="search_text" type="search" name="q"> 
+       <span class="query-suggestions-wrap"> <span id="query_suggestions" class="query-suggestions" aria-live="off"></span> </span> 
+       <span id="query_status" class="query-status" aria-live="polite"></span> 
+       <input id="searchButton" class="search_button" value="Go" type="submit"> 
+      </form> 
+     </div> 
+     <!-- /#search-box --> 
+     <div class="clear"></div> 
+    </div> 
+   </div> 
+   <div id="content" class="clearfix"> 
+    <div id="HideIfWidget3"> 
+     <div class="main_menu"> 
+      <div id="engMenu1_mainMenu" role="navigation">
+       <ul class="menu menu-hide"> 
+        <li data-path="/healthtopics/topic.aspx"> <a href="/Default.aspx">Home</a> </li> 
+        <li data-path="/healthtopics/topic.aspx" class="active"> <a href="/HealthTopics/">Health Topics A to Z</a> </li> 
+        <li data-path="/healthtopics/topic.aspx"> <a href="/myhealthfinder/">myhealthfinder</a> </li> 
+        <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/">Free Web Content</a> 
+         <ul> 
+          <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/HealthTopics/">Health and Wellness Topics</a> </li> 
+          <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/PreventiveServices/">myhealthfinder: Preventive Services Recommendations</a> </li> 
+          <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/Videos/">Videos</a> </li> 
+          <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/HealthWidgets/">Health Widgets and Badges</a> </li> 
+          <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/Developer/">APIs for Developers</a> </li> 
+         </ul> </li> 
+        <li data-path="/healthtopics/topic.aspx"> <a href="/FindServices/">Find Services Near&nbsp;You</a> </li> 
+        <li data-path="/healthtopics/topic.aspx"> <a href="/NHO/">National Health Observances</a> </li> 
+        <li class="mobile-hide espanol" data-path="/healthtopics/topic.aspx"> <a href="/espanol">En español</a> </li> 
+       </ul>
+      </div> 
+      <div class="connect clearfix"> 
+       <p class="connect-text">Find us on:</p> 
+       <a class="facebook connect-button" href="https://www.facebook.com/healthfinder" title="Facebook"> <img src="/images/icon-fb.png" alt="Facebook icon"></a> 
+       <a class="twitter connect-button" href="https://www.twitter.com/healthfinder" title="Twitter"> <img src="/images/icon-twitter.png" alt="Twitter icon"></a> 
+       <!-- <a class="rss connect-button" href="/News/rss.asp" title="RSS">
+        <img src="/images/icon-rss.png" alt="RSS icon" /></a> --> 
+       <div class="email-updates-container"> 
+        <a id="email-updates" href="https://public.govdelivery.com/accounts/USOPHSODPHPHF/subscriber/new?topic_id=USOPHSODPHPHF_1" target="_blank">Get Email Updates</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="main_content" role="main"> 
+     <div id="HideIfWidget4"> 
+      <div id="breadcrumb"> 
+       <span id="engBreadcrumbs1_SiteMapPath1"><span><a href="/Default.aspx">Home</a></span><span> &gt; </span><span><a href="/HealthTopics/Default.aspx">Health Topics A to Z</a></span><span> &gt; </span><span><a href="/HealthTopics/Category/doctor-visits">Doctor Visits</a></span><span> &gt; </span><span><a href="/HealthTopics/Category/doctor-visits/screening-tests">Screening Tests</a></span><span> &gt; </span><span>Talk to Your Doctor about Abdominal Aortic Aneurysm</span></span> 
+      </div> 
+      <div id="engBreadcrumbs1_addThisPanel"> 
+       <div id="addThisCode" class="clearfix"> 
+        <!-- AddToAny BEGIN --> 
+        <div class="a2a_kit a2a_kit_size_32 a2a_default_style"> 
+         <a class="a2a_dd" href="https://www.addtoany.com/share"></a> 
+         <a class="a2a_button_facebook"></a> 
+         <a class="a2a_button_twitter"></a> 
+        </div> 
+        <script>
+      var a2a_config = a2a_config || {};
+      a2a_config.onclick = 1;
+      </script> 
+        <script async src="https://static.addtoany.com/menu/page.js"></script> 
+        <!-- AddToAny END --> 
+       </div> 
+      </div> 
+      <span id="skipnav"></span> 
+     </div> 
+     <form method="post" action="../../../../../../../../Topic.aspx?id=52&amp;type=topic&amp;noredirect=1&amp;category=13" id="MainForm"> 
+      <div class="aspNetHidden"> 
+       <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzIwMTkxNzIzD2QWAmYPZBYEAgEPZBYGAgIPFgIeBFRleHQFWjxtZXRhIG5hbWU9ImtleXdvcmRzIiBjb250ZW50PSJBQUEsIEFiZG9taW5hbCBBb3J0YSwgQWJkb21lbiwgYW5ldXJ5c20sIHNtb2tpbmcsIGFvcnRhIiAvPmQCAw8WAh8ABeoBPG1ldGEgbmFtZT0iZGVzY3JpcHRpb24iIGNvbnRlbnQ9IklmIGFiZG9taW5hbCBhb3J0aWMgYW5ldXJ5c20gKEFBQSkgaXNuJiMzOTt0IGZvdW5kIGFuZCB0cmVhdGVkIGVhcmx5LCBpdCBjYW4gYmUgZGVhZGx5LiBTaGFyZSB0aGlzIHJlc291cmNlIHRvIGVuY291cmFnZSBtZW4gYWdlIDY1IHRvIDc1IHdobyBoYXZlIGV2ZXIgc21va2VkIHRvIHRhbGsgd2l0aCB0aGVpciBkb2N0b3JzIGFib3V0IEFBQS4iIC8+ZAIGDxYCHwAFlQI8bGluayByZWw9J2Nhbm9uaWNhbCcgaHJlZj0naHR0cHM6Ly9oZWFsdGhmaW5kZXIuZ292OjQ0My9IZWFsdGhUb3BpY3MvRGlzcGF0Y2guYXNweD9xMT1oZWFsdGgtY29uZGl0aW9ucy1hbmQtZGlzZWFzZXMvY2FuY2VyL3F1aXR0aW5nLXNtb2tpbmctY29udmVyc2F0aW9uLXN0YXJ0ZXJzL0hlYWx0aFRvcGljcy9DYXRlZ29yeS9kb2N0b3ItdmlzaXRzJnEyPXNjcmVlbmluZy10ZXN0cyZxMz10YWxrLXRvLXlvdXItZG9jdG9yLWFib3V0LWFiZG9taW5hbC1hb3J0aWMtYW5ldXJ5c20nIC8+ZAIDDxYCHgVjbGFzcwUHZW5nbGlzaBYKAgEPZBYCAgUPDxYCHgdWaXNpYmxlaGRkAgIPZBYEAgEPZBYCZg8WAh4JaW5uZXJodG1sBecLPHVsIGNsYXNzPSJtZW51IG1lbnUtaGlkZSI+DQogIDxsaSBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgPGEgaHJlZj0iL0RlZmF1bHQuYXNweCI+SG9tZTwvYT4NCiAgPC9saT4NCiAgPGxpIGRhdGEtcGF0aD0iL2hlYWx0aHRvcGljcy90b3BpYy5hc3B4IiBjbGFzcz0iYWN0aXZlIj4NCiAgICA8YSBocmVmPSIvSGVhbHRoVG9waWNzLyI+SGVhbHRoIFRvcGljcyBBIHRvIFo8L2E+DQogIDwvbGk+DQogIDxsaSBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgPGEgaHJlZj0iL215aGVhbHRoZmluZGVyLyI+bXloZWFsdGhmaW5kZXI8L2E+DQogIDwvbGk+DQogIDxsaSBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgPGEgaHJlZj0iL0ZyZWVDb250ZW50LyI+RnJlZSBXZWIgQ29udGVudDwvYT4NCiAgICA8dWw+DQogICAgICA8bGkgZGF0YS1wYXRoPSIvaGVhbHRodG9waWNzL3RvcGljLmFzcHgiPg0KICAgICAgICA8YSBocmVmPSIvRnJlZUNvbnRlbnQvSGVhbHRoVG9waWNzLyI+SGVhbHRoIGFuZCBXZWxsbmVzcyBUb3BpY3M8L2E+DQogICAgICA8L2xpPg0KICAgICAgPGxpIGRhdGEtcGF0aD0iL2hlYWx0aHRvcGljcy90b3BpYy5hc3B4Ij4NCiAgICAgICAgPGEgaHJlZj0iL0ZyZWVDb250ZW50L1ByZXZlbnRpdmVTZXJ2aWNlcy8iPm15aGVhbHRoZmluZGVyOiBQcmV2ZW50aXZlIFNlcnZpY2VzIFJlY29tbWVuZGF0aW9uczwvYT4NCiAgICAgIDwvbGk+DQogICAgICA8bGkgZGF0YS1wYXRoPSIvaGVhbHRodG9waWNzL3RvcGljLmFzcHgiPg0KICAgICAgICA8YSBocmVmPSIvRnJlZUNvbnRlbnQvVmlkZW9zLyI+VmlkZW9zPC9hPg0KICAgICAgPC9saT4NCiAgICAgIDxsaSBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgICAgIDxhIGhyZWY9Ii9GcmVlQ29udGVudC9IZWFsdGhXaWRnZXRzLyI+SGVhbHRoIFdpZGdldHMgYW5kIEJhZGdlczwvYT4NCiAgICAgIDwvbGk+DQogICAgICA8bGkgZGF0YS1wYXRoPSIvaGVhbHRodG9waWNzL3RvcGljLmFzcHgiPg0KICAgICAgICA8YSBocmVmPSIvRnJlZUNvbnRlbnQvRGV2ZWxvcGVyLyI+QVBJcyBmb3IgRGV2ZWxvcGVyczwvYT4NCiAgICAgIDwvbGk+DQogICAgPC91bD4NCiAgPC9saT4NCiAgPGxpIGRhdGEtcGF0aD0iL2hlYWx0aHRvcGljcy90b3BpYy5hc3B4Ij4NCiAgICA8YSBocmVmPSIvRmluZFNlcnZpY2VzLyI+RmluZCBTZXJ2aWNlcyBOZWFywqBZb3U8L2E+DQogIDwvbGk+DQogIDxsaSBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgPGEgaHJlZj0iL05ITy8iPk5hdGlvbmFsIEhlYWx0aCBPYnNlcnZhbmNlczwvYT4NCiAgPC9saT4NCiAgPGxpIGNsYXNzPSJtb2JpbGUtaGlkZSBlc3Bhbm9sIiBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgPGEgaHJlZj0iL2VzcGFub2wiPkVuIGVzcGHDsW9sPC9hPg0KICA8L2xpPg0KPC91bD5kAgMPDxYCHwJoZGQCAw9kFgICAw8PFgIfAmhkZAIFD2QWAmYPZBYOAgEPZBYCAgEPDxYEHgtOYXZpZ2F0ZVVybAWCAS9lc3Bhbm9sL3RlbWFzL0NhdGVnb3J5L2NvbnN1bHRhcy1jb24tZWwtZG9jdG9yL3BydWViYXMtZGUtZGV0ZWNjaW9uL3F1ZS1lcy1lbC1hbmV1cmlzbWEtYW9ydGljby1hYmRvbWluYWwteS1jb21vLW1lLXB1ZWRlLWFmZWN0YXIfAmdkZAIDDxYCHwAFM1RhbGsgdG8gWW91ciBEb2N0b3IgYWJvdXQgQWJkb21pbmFsIEFvcnRpYyBBbmV1cnlzbWQCBw8PFgIeCEltYWdlVXJsBUwvSGVhbHRoVG9waWNzL2dsbWVkaWEvaWNvbnMvdGFsa3RveW91cmRvY3RvcmFib3V0YWJkb21pbmFsYW9ydGljYW5ldXJ5c20uanBnFgIeA2FsdGVkAgkPZBYCZg8WAh4LXyFJdGVtQ291bnQCAhYEZg9kFgRmDxUBClRoZSBCYXNpY3NkAgEPFgIfBwICFgRmD2QWAmYPFQMKdGhlLWJhc2ljcwExCE92ZXJ2aWV3ZAIBD2QWAmYPFQMKdGhlLWJhc2ljcwEyFFRlc3RpbmcgYW5kIFN5bXB0b21zZAIBD2QWBGYPFQEMVGFrZSBBY3Rpb24hZAIBDxYCHwcCAhYEZg9kFgJmDxUDC3Rha2UtYWN0aW9uATETVGFsayB0byBZb3VyIERvY3RvcmQCAQ9kFgJmDxUDC3Rha2UtYWN0aW9uATIPTG93ZXIgWW91ciBSaXNrZAILDxYCHwcCAhYEZg9kFgRmDxUCCnRoZS1iYXNpY3MKVGhlIEJhc2ljc2QCAQ8WAh8HAgIWBGYPZBYEZg8VBAM5MzMKVGhlIEJhc2ljcwhPdmVydmlld74LPHA+SWYgeW91IGFyZSBhIG1hbiBhZ2UgNjUgdG8gNzUgYW5kIGhhdmUgZXZlciBzbW9rZWQsIGFzayB5b3VyIGRvY3RvciBhYm91dCBnZXR0aW5nIHNjcmVlbmVkICh0ZXN0ZWQpIGZvciBhYmRvbWluYWwgYW9ydGljIGFuZXVyeXNtIChBQUEpLjwvcD48aDM+QW0gSSBhdCByaXNrIGZvciBBQUE/PC9oMz48cD5NZW4gb3ZlciBhZ2UgNjUgd2hvIGhhdmUgc21va2VkIGF0IGFueSBwb2ludCBpbiB0aGVpciBsaXZlcyBoYXZlIHRoZSBoaWdoZXN0IHJpc2sgb2YgQUFBLiBCb3RoIG1lbiBhbmQgd29tZW4gY2FuIGhhdmUgQUFBLCBidXQgaXQmIzM5O3MgbW9yZSBjb21tb24gaW4gbWVuLjwvcD48cD5SaXNrIGZhY3RvcnMgZm9yIEFBQSBpbmNsdWRlOjwvcD48dWw+PGxpPkZhbWlseSBoaXN0b3J5ICZuZGFzaDsgZm9yIGV4YW1wbGUsIGlmIGEgcGFyZW50IG9yIHNpYmxpbmcgaGFkIEFBQTwvbGk+PGxpPlNtb2tpbmc8L2xpPjxsaT5PbGRlciBhZ2U8L2xpPjxsaT5IaWdoIGJsb29kIHByZXNzdXJlPC9saT48bGk+SGlnaCBjaG9sZXN0ZXJvbDwvbGk+PGxpPkhlYXJ0IGRpc2Vhc2Ugb3IgdmFzY3VsYXIgZGlzZWFzZSAocHJvYmxlbXMgd2l0aCBibG9vZCB2ZXNzZWxzKTwvbGk+PC91bD48aDM+V2hhdCBpcyBBQUE/PC9oMz48cD5UaGUgYW9ydGEgKCZsZHF1bztheS1PQVItdGFoJnJkcXVvOykgaXMgeW91ciBib2R5JnJzcXVvO3MgbWFpbiBhcnRlcnkuIEFuIGFydGVyeSBpcyBhIGJsb29kIHZlc3NlbCAob3IgdHViZSkgdGhhdCBjYXJyaWVzIGJsb29kIGZyb20geW91ciBoZWFydC4gVGhlIGFvcnRhIGNhcnJpZXMgYmxvb2QgZnJvbSB5b3VyIGhlYXJ0IHRvIHlvdXIgYWJkb21lbiwgcGVsdmlzLCBhbmQgbGVncy48L3A+PHA+SWYgdGhlIHdhbGwgb2YgeW91ciBhb3J0YSBpcyB3ZWFrLCBpdCBjYW4gc3dlbGwgbGlrZSBhIGJhbGxvb24uIFRoaXMgYmFsbG9vbi1saWtlIHN3ZWxsaW5nIGlzIGNhbGxlZCBhbiBhbmV1cnlzbSAoJmxkcXVvO0FOLXlvb3ItaXptJnJkcXVvOykuIEFBQSBpcyBhbiBhbmV1cnlzbSB0aGF0IG9jY3VycyBpbiB0aGUgcGFydCBvZiB0aGUgYW9ydGEgcnVubmluZyB0aHJvdWdoIHRoZSBhYmRvbWVuLjwvcD48aDM+V2h5IGRvIEkgbmVlZCB0byB0YWxrIHRvIHRoZSBkb2N0b3I/PC9oMz48cD5BbmV1cnlzbXMgdXN1YWxseSBncm93IHNsb3dseSB3aXRob3V0IGFueSBzeW1wdG9tcy4gV2hlbiBhbmV1cnlzbXMgZ3JvdyBsYXJnZSBlbm91Z2ggdG8gcnVwdHVyZSAoYnVyc3QpLCB0aGV5IGNhbiBjYXVzZSBkYW5nZXJvdXMgYmxlZWRpbmcgaW5zaWRlIHRoZSBib2R5IHRoYXQgY2FuIGxlYWQgdG8gZGVhdGguPC9wPjxwPklmIEFBQSBpcyBmb3VuZCBlYXJseSwgaXQgY2FuIGJlIHRyZWF0ZWQgYmVmb3JlIGl0IGJ1cnN0cy4gVGhhdCZyc3F1bztzIHdoeSBpdCZyc3F1bztzIHNvIGltcG9ydGFudCB0byB0YWxrIHRvIHlvdXIgZG9jdG9yIGFib3V0IHlvdXIgcmlzay48L3A+ZAIBD2QWBgIBDw8WAh8CZ2RkAgMPDxYEHwAFFFRlc3RpbmcgYW5kIFN5bXB0b21zHwJnFgIeBGhyZWYFDSN0aGUtYmFzaWNzXzJkAgkPDxYCHwAFDzEgb2YgNCBzZWN0aW9uc2RkAgEPZBYEZg8VBAMyNzQKVGhlIEJhc2ljcxRUZXN0aW5nIGFuZCBTeW1wdG9tc4oJPGgzPkhvdyBkbyBJIGtub3cgaWYgSSBoYXZlIEFBQT88L2gzPjxwPlRvIHNjcmVlbiAodGVzdCkgZm9yIEFBQSwgeW91ciBkb2N0b3IgbWF5IG9yZGVyIGFuIHVsdHJhc291bmQuIEFuIHVsdHJhc291bmQgdXNlcyBzb3VuZCB3YXZlcyB0byBsb29rIGluc2lkZSB0aGUgYm9keS4gSXQgY2FuIGhlbHAgeW91ciBkb2N0b3Igc2VlIGlmIHRoZXJlJiMzOTtzIGFueSBzd2VsbGluZyBvZiB0aGUgYW9ydGEuIE1vc3QgdHlwZXMgb2YgdWx0cmFzb3VuZHMgYXJlIHBhaW5sZXNzLjwvcD48aDM+V2hhdCBhcmUgdGhlIHN5bXB0b21zIG9mIEFBQT88L2gzPjxwPlRoZXJlIGFyZSB1c3VhbGx5IG5vIHN5bXB0b21zIG9mIEFBQSB1bnRpbCBpdCZyc3F1bztzIGEgbWVkaWNhbCBlbWVyZ2VuY3kuIEJsb29kIHZlc3NlbHMgbGlrZSB0aGUgYW9ydGEgY2FuIHN3ZWxsIHVwIHNsb3dseSBvdmVyIHRpbWUsIHNvIGl0JnJzcXVvO3MgaW1wb3J0YW50IHRvIHRhbGsgd2l0aCB5b3VyIGRvY3RvciBhYm91dCBBQUEgdG8gc2VlIGlmIHlvdSBuZWVkIHRvIGdldCB0ZXN0ZWQuPC9wPjxwPkEgcnVwdHVyZWQgYW5ldXJ5c20gY2FuIGNhdXNlIGRhbmdlcm91cyBibGVlZGluZyB0aGF0IGNhbiBsZWFkIHRvIGRlYXRoLiBJZiB0aGlzIGhhcHBlbnMsIHlvdSBtYXkgPHN0cm9uZz5zdWRkZW5seTwvc3Ryb25nPiBoYXZlOjwvcD48dWw+PGxpPlBhaW4gaW4geW91ciBsb3dlciBiYWNrLCBhYmRvbWVuLCBvciBsZWdzPC9saT48bGk+TmF1c2VhIChmZWVsaW5nIGxpa2UgeW91IGFyZSBnb2luZyB0byB0aHJvdyB1cCk8L2xpPjxsaT5Wb21pdGluZyAodGhyb3dpbmcgdXApPC9saT48bGk+Q2xhbW15IChzd2VhdHkpIHNraW48L2xpPjwvdWw+PHA+SWYgeW91IGhhdmUgYSBydXB0dXJlZCBhbmV1cnlzbSwgeW91JiMzOTtsbCBuZWVkIHRvIGhhdmUgc3VyZ2VyeSByaWdodCBhd2F5LjwvcD48aDM+V2hhdCBkb2VzIEFBQSBsb29rIGxpa2U/PC9oMz48cD5IZXJlJiMzOTtzIGFuIGV4YW1wbGUgb2Ygd2hhdCBBQUEgbG9va3MgbGlrZSBpbnNpZGUgdGhlIGJvZHk6PC9wPjxwPjxpbWcgYWx0PSJJbGx1c3RyYXRpb246IEFiZG9taW5hbCBhb3J0aWMgYW5ldXJ5c20iIHNyYz0iL0hlYWx0aFRvcGljcy9nbG1lZGlhL2FiZG9taW5hbF9hb3J0aWNfYW5ldXJ5c21fYWRhbS5qcGciIC8+PC9wPmQCAQ9kFgoCAQ8PFgIfAmdkZAIDDw8WBB8ABRNUYWxrIHRvIFlvdXIgRG9jdG9yHwJnFgIfCAUOI3Rha2UtYWN0aW9uXzFkAgUPDxYCHwJnZGQCBw8PFgQfAAUIT3ZlcnZpZXcfAmcWAh8IBQ0jdGhlLWJhc2ljc18xZAIJDw8WAh8ABQ8yIG9mIDQgc2VjdGlvbnNkZAIBD2QWBGYPFQILdGFrZS1hY3Rpb24MVGFrZSBBY3Rpb24hZAIBDxYCHwcCAhYEZg9kFgRmDxUEAzI3NgtUYWtlIEFjdGlvbhNUYWxrIHRvIFlvdXIgRG9jdG9yjws8cD5UYWtlIHRoZXNlIHN0ZXBzIHRvIGxvd2VyIHlvdXIgcmlzayBmb3IgQUFBLjwvcD48aDM+VGFsayB3aXRoIHlvdXIgZG9jdG9yIGFib3V0IHlvdXIgcmlzayBmb3IgQUFBLjwvaDM+PHA+SGVyZSBhcmUgc29tZSBxdWVzdGlvbnMgeW91IG1pZ2h0IHdhbnQgdG8gYXNrIHlvdXIgZG9jdG9yIG9yIG51cnNlOjwvcD48dWw+PGxpPkRvIEkgbmVlZCB0byBnZXQgc2NyZWVuZWQmbmJzcDtmb3IgQUFBPzwvbGk+PGxpPkhvdyBjYW4gSSBnZXQgaGVscCB0byBxdWl0IHNtb2tpbmc/PC9saT48bGk+V2hhdCBhcmUgbXkgYmxvb2QgcHJlc3N1cmUgYW5kIGNob2xlc3Rlcm9sIG51bWJlcnM/PC9saT48bGk+V2hhdCBvdGhlciBzdGVwcyBjYW4gSSB0YWtlIHRvIDxhIGhyZWY9Ii9IZWFsdGhUb3BpY3MvQ2F0ZWdvcnkvaGVhbHRoLWNvbmRpdGlvbnMtYW5kLWRpc2Vhc2VzL2hlYXJ0LWhlYWx0aC9rZWVwLXlvdXItaGVhcnQtaGVhbHRoeSI+a2VlcCBteSBoZWFydCBhbmQgYmxvb2QgdmVzc2VscyBoZWFsdGh5PC9hPj88L2xpPjwvdWw+PGg0PldoYXQgYWJvdXQgdGhlIGNvc3Qgb2Ygc2NyZWVuaW5nPzwvaDQ+PHA+VW5kZXIgdGhlIDxhIGhyZWY9Imh0dHBzOi8vd3d3LmhlYWx0aGNhcmUuZ292L3ByZXZlbnRpdmUtY2FyZS1hZHVsdHMvIiB0YXJnZXQ9Il9ibGFuayI+QWZmb3JkYWJsZSBDYXJlIEFjdDwvYT4sIHRoZSBoZWFsdGggY2FyZSByZWZvcm0gbGF3IHBhc3NlZCBpbiAyMDEwLCBpbnN1cmFuY2UgcGxhbnMgbXVzdCBjb3ZlciBBQUEgc2NyZWVuaW5nIGZvciBtZW4gYWdlcyA2NSB0byA3NSB3aG8gaGF2ZSBzbW9rZWQuIFRoaXMgbWVhbnMgeW91IG1heSBiZSBhYmxlIHRvIGdldCBzY3JlZW5lZCBhdCBubyBjb3N0IHRvJm5ic3A7eW91LjwvcD48dWw+PGxpPklmIHlvdSBoYXZlIE1lZGljYXJlLCA8YSBocmVmPSJodHRwOi8vd3d3Lm1lZGljYXJlLmdvdi9jb3ZlcmFnZS9hYi1hb3J0aWMtYW5ldXJ5c20tc2NyZWVuaW5nLmh0bWwiIHRhcmdldD0iYmxhbmsiPiBmaW5kIG91dCBhYm91dCBNZWRpY2FyZSBjb3ZlcmFnZSBmb3IgQUFBJm5ic3A7c2NyZWVuaW5nPC9hPi48L2xpPjxsaT5JZiB5b3UgaGF2ZSBwcml2YXRlIGluc3VyYW5jZSwgdGFsayB0byB5b3VyIGluc3VyYW5jZSBwcm92aWRlciBhYm91dCB3aGF0JnJzcXVvO3MgaW5jbHVkZWQgaW4geW91ciBwbGFuLiBBc2sgYWJvdXQgdGhlIEFmZm9yZGFibGUgQ2FyZSBBY3QuPC9saT48L3VsPjxwPkZvciBpbmZvcm1hdGlvbiBhYm91dCBvdGhlciBzZXJ2aWNlcyBjb3ZlcmVkIHVuZGVyIHRoZSBBZmZvcmRhYmxlIENhcmUgQWN0LCZuYnNwOzxhIGhyZWY9Imh0dHBzOi8vd3d3LmhlYWx0aGNhcmUuZ292L2NvdmVyYWdlL3ByZXZlbnRpdmUtY2FyZS1iZW5lZml0cy8iIHRhcmdldD0iX2JsYW5rIj52aXNpdCZuYnNwO0hlYWx0aENhcmUuZ292PC9hPi48L3A+ZAIBD2QWCgIBDw8WAh8CZ2RkAgMPDxYEHwAFD0xvd2VyIFlvdXIgUmlzax8CZxYCHwgFDiN0YWtlLWFjdGlvbl8yZAIFDw8WAh8CZ2RkAgcPDxYEHwAFFFRlc3RpbmcgYW5kIFN5bXB0b21zHwJnFgIfCAUNI3RoZS1iYXNpY3NfMmQCCQ8PFgIfAAUPMyBvZiA0IHNlY3Rpb25zZGQCAQ9kFgRmDxUEAzI3NwtUYWtlIEFjdGlvbg9Mb3dlciBZb3VyIFJpc2v8DTxoMz5NYWtlIGNoYW5nZXMgdG8gbG93ZXIgeW91ciByaXNrIGZvciBBQUEuPC9oMz48cD5JdCZyc3F1bztzIG5ldmVyIHRvbyBsYXRlIHRvIHRha2Ugc3RlcHMgdG8gbG93ZXIgeW91ciByaXNrIGZvciBBQUEuPC9wPjxoND5RdWl0IHNtb2tpbmcuPC9oND48cD48YSBocmVmPSIvSGVhbHRoVG9waWNzL0NhdGVnb3J5L2hlYWx0aC1jb25kaXRpb25zLWFuZC1kaXNlYXNlcy9kaWFiZXRlcy9xdWl0LXNtb2tpbmciPlF1aXR0aW5nIHNtb2tpbmc8L2E+IGlzIHRoZSBtb3N0IGltcG9ydGFudCB0aGluZyB5b3UgY2FuIGRvIHRvIGxvd2VyIHlvdXIgcmlzayBmb3IgQUFBLjwvcD48cD5JZiB5b3Ugc21va2UsIG5vdyBpcyB0aGUgdGltZSB0byBxdWl0LiZuYnNwO0NhbGwgMS04MDAtUVVJVC1OT1cgKDEtODAwLTc4NC04NjY5KSBmb3IgZnJlZSBzdXBwb3J0IGFuZCBoZWxwIHNldHRpbmcgdXAgYSBwbGFuIHRvIHF1aXQuPC9wPjxoND5DaGVjayB5b3VyIGJsb29kIHByZXNzdXJlLjwvaDQ+PHA+PGEgaHJlZj0iL0hlYWx0aFRvcGljcy9DYXRlZ29yeS9kb2N0b3ItdmlzaXRzL3NjcmVlbmluZy10ZXN0cy9nZXQteW91ci1ibG9vZC1wcmVzc3VyZS1jaGVja2VkIj5HZXQgeW91ciBibG9vZCBwcmVzc3VyZSBjaGVja2VkPC9hPi4gSWYgeW91ciBibG9vZCBwcmVzc3VyZSBpcyBoaWdoLCB5b3UgY2FuIGhlbHAgbG93ZXIgaXQgYnkgZ2V0dGluZyBhY3RpdmUsIHdhdGNoaW5nIHlvdXIgd2VpZ2h0LCBhbmQgZWF0aW5nIGxlc3Mgc29kaXVtIChzYWx0KS48L3A+PHVsPjxsaT48YSBocmVmPSIvSGVhbHRoVG9waWNzL0NhdGVnb3J5L2hlYWx0aC1jb25kaXRpb25zLWFuZC1kaXNlYXNlcy9oZWFydC1oZWFsdGgvbG93LXNvZGl1bS1mb29kcy1zaG9wcGluZy1saXN0Ij5Vc2UgdGhpcyBsaXN0IHRvIGhlbHAgeW91IHNob3AgZm9yIGxvd2VyLXNvZGl1bSBmb29kczwvYT4uPC9saT48bGk+PGEgaHJlZj0iaHR0cDovL3d3dy5uaGxiaS5uaWguZ292L2hlYWx0aC9wdWJsaWMvaGVhcnQvaGJwL2hicF9sb3cvaGJwX2xvdy5wZGYiIHRhcmdldD0iYmxhbmsiPkdldCBtb3JlIHRpcHMgb24gaG93IHRvIGxvd2VyIHlvdXIgYmxvb2QgcHJlc3N1cmUgW1BERiAtIDI3NSBLQl08L2E+LjwvbGk+PC91bD48aDQ+R2V0IHlvdXIgY2hvbGVzdGVyb2wgY2hlY2tlZC48L2g0PjxwPjxhIGhyZWY9Ii9IZWFsdGhUb3BpY3MvQ2F0ZWdvcnkvZG9jdG9yLXZpc2l0cy9zY3JlZW5pbmctdGVzdHMvZ2V0LXlvdXItY2hvbGVzdGVyb2wtY2hlY2tlZCI+RmluZCBvdXQgd2hhdCB5b3VyIGNob2xlc3Rlcm9sIGxldmVscyBhcmU8L2E+LiBJZiB5b3VyIGNob2xlc3Rlcm9sIGlzIGhpZ2gsIHN0YXJ0IGEgaGVhcnQtaGVhbHRoeSBlYXRpbmcgcGxhbi4gVGhpcyBtZWFucyBlYXRpbmcgZm9vZHMgbG93IGluIHNhdHVyYXRlZCBmYXQsIDxlbT50cmFuczwvZW0+IGZhdCwgYW5kIGNob2xlc3Rlcm9sLiA8YSBocmVmPSIvSGVhbHRoVG9waWNzL0NhdGVnb3J5L2hlYWx0aC1jb25kaXRpb25zLWFuZC1kaXNlYXNlcy9kaWFiZXRlcy9lYXQtaGVhbHRoeSI+RmluZCBvdXQgbW9yZSBhYm91dCBlYXRpbmcgaGVhbHRoeTwvYT4uPC9wPjxwPkFpbSBmb3IgMiBob3VycyBhbmQgMzAgbWludXRlcyBvZiBwaHlzaWNhbCBhY3Rpdml0eSBldmVyeSB3ZWVrLiA8YSBocmVmPSIvSGVhbHRoVG9waWNzL0NhdGVnb3J5L2hlYWx0aC1jb25kaXRpb25zLWFuZC1kaXNlYXNlcy9kaWFiZXRlcy9nZXQtYWN0aXZlIj5DaGVjayBvdXQgdGhlc2Ugd2F5cyB0byBhZGQgbW9yZSBhY3Rpdml0eSB0byB5b3VyIGRheTwvYT4uPC9wPmQCAQ9kFgYCBQ8PFgIfAmdkZAIHDw8WBB8ABRNUYWxrIHRvIFlvdXIgRG9jdG9yHwJnFgIfCAUOI3Rha2UtYWN0aW9uXzFkAgkPDxYCHwAFDzQgb2YgNCBzZWN0aW9uc2RkAg8PZBYEZg8WBB8ABQ5BcHJpbCAwMiwgMjAxOR8CZ2QCAQ8PFgQfBAUdL0hlYWx0aFRvcGljcy9Tb3VyY2VzLmFzcHgjNTIfAmdkZAIRDw8WAh8CZ2QWAmYPFgIfBwIDFgZmD2QWBAIBDw8WAh8EBVovSGVhbHRoVG9waWNzL0NhdGVnb3J5L2hlYWx0aC1jb25kaXRpb25zLWFuZC1kaXNlYXNlcy9oZWFydC1oZWFsdGgva2VlcC15b3VyLWhlYXJ0LWhlYWx0aHlkFgJmDw8WAh8FBTQvSGVhbHRoVG9waWNzL2dsbWVkaWEvaWNvbnMva2VlcHlvdXJoZWFydGhlYWx0aHkuanBnFgIfBgUXS2VlcCBZb3VyIEhlYXJ0IEhlYWx0aHlkAgMPDxYEHwAFF0tlZXAgWW91ciBIZWFydCBIZWFsdGh5HwQFWi9IZWFsdGhUb3BpY3MvQ2F0ZWdvcnkvaGVhbHRoLWNvbmRpdGlvbnMtYW5kLWRpc2Vhc2VzL2hlYXJ0LWhlYWx0aC9rZWVwLXlvdXItaGVhcnQtaGVhbHRoeWRkAgEPZBYEAgEPDxYCHwQFSy9IZWFsdGhUb3BpY3MvQ2F0ZWdvcnkvaGVhbHRoLWNvbmRpdGlvbnMtYW5kLWRpc2Vhc2VzL2RpYWJldGVzL3F1aXQtc21va2luZ2QWAmYPDxYCHwUFKy9IZWFsdGhUb3BpY3MvZ2xtZWRpYS9pY29ucy9xdWl0c21va2luZy5qcGcWAh8GBQxRdWl0IFNtb2tpbmdkAgMPDxYEHwAFDFF1aXQgU21va2luZx8EBUsvSGVhbHRoVG9waWNzL0NhdGVnb3J5L2hlYWx0aC1jb25kaXRpb25zLWFuZC1kaXNlYXNlcy9kaWFiZXRlcy9xdWl0LXNtb2tpbmdkZAICD2QWBAIBDw8WAh8EBWMvSGVhbHRoVG9waWNzL0NhdGVnb3J5L2hlYWx0aC1jb25kaXRpb25zLWFuZC1kaXNlYXNlcy9jYW5jZXIvcXVpdHRpbmctc21va2luZy1jb252ZXJzYXRpb24tc3RhcnRlcnNkFgJmDw8WAh8FBUkvSGVhbHRoVG9waWNzL2dsbWVkaWEvdG9vbHNfaWNvbnMvcXVpdHRpbmdzbW9raW5nY29udmVyc2F0aW9uc3RhcnRlcnMuanBnFgIfBgUnUXVpdHRpbmcgU21va2luZzogQ29udmVyc2F0aW9uIHN0YXJ0ZXJzZAIDDw8WBB8ABSdRdWl0dGluZyBTbW9raW5nOiBDb252ZXJzYXRpb24gc3RhcnRlcnMfBAVjL0hlYWx0aFRvcGljcy9DYXRlZ29yeS9oZWFsdGgtY29uZGl0aW9ucy1hbmQtZGlzZWFzZXMvY2FuY2VyL3F1aXR0aW5nLXNtb2tpbmctY29udmVyc2F0aW9uLXN0YXJ0ZXJzZGQCBg9kFgQCAQ9kFgICAQ8WAh8ABRdTYXR1cmRheSwgSnVuZSAwMSwgMjAxOWQCAw8PFgIfAmhkZGQwRL/DfSO/nzjlFNUHG9jPjSJzCCw0IjJwnjKT0fIACA=="> 
+      </div> 
+      <div class="aspNetHidden"> 
+       <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="942D1C1E"> 
+      </div> 
+      <div class="health_topic_content health-topic-topic"> 
+       <div id="content_utilities" class="utilities"> 
+        <div class="helpers"> 
+         <div class="print"> 
+          <a href="javascript:window.print()" class="button print-button"> Print This Topic </a> 
+         </div> 
+         <div class="espanol"> 
+          <a id="content_translationLink" class="button" href="/espanol/temas/Category/consultas-con-el-doctor/pruebas-de-deteccion/que-es-el-aneurisma-aortico-abdominal-y-como-me-puede-afectar">En español</a> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="health_topic_content_inner_wrap clearfix"> 
+        <div class="pageTitle"> 
+         <h1 class="syndicate"> Talk to Your Doctor about Abdominal Aortic Aneurysm </h1> 
+         <img id="content_contentImage" class="icon-image" alt="" src="/HealthTopics/glmedia/icons/talktoyourdoctoraboutabdominalaorticaneurysm.jpg"> 
+        </div> 
+        <div id="content_quickguide_select_wrap_bg" class="quickguide_select_wrap-bg"> 
+         <div id="quickguide_select_wrap" class="quickguide_select_wrap"> 
+          <p id="quickguide-menu-trigger" class="quickguide-menu-trigger menu-hide">Browse Sections</p> 
+          <ul id="quickguide_select" class="quickguide_select menu-hide"> 
+           <li><span>The Basics</span> 
+            <ul> 
+             <li> <a href="#the-basics_1">Overview</a> </li> 
+             <li> <a href="#the-basics_2">Testing and Symptoms</a> </li> 
+            </ul> </li> 
+           <li><span>Take Action!</span> 
+            <ul> 
+             <li> <a href="#take-action_1">Talk to Your Doctor</a> </li> 
+             <li> <a href="#take-action_2">Lower Your Risk</a> </li> 
+            </ul> </li> 
+          </ul> 
+         </div> 
+        </div> 
+        <!-- /quickguide_select_wrap-bg --> 
+        <div class="content-page-box quickguide_tabbed_content"> 
+         <div class="quickguide_content"> 
+          <div class="quickguide_areas"> 
+           <div id="the-basics" class="topic_area"> 
+            <h2 class="topic_area_title syndicate">The Basics</h2> 
+            <div class="pages"> 
+             <div class="page" id="page_933"> 
+              <h2 class="topic_page_title">The Basics: <span>Overview</span></h2> 
+              <div class="syndicate"> 
+               <p>If you are a man age 65 to 75 and have ever smoked, ask your doctor about getting screened (tested) for abdominal aortic aneurysm (AAA).</p>
+               <h3>Am I at risk for AAA?</h3>
+               <p>Men over age 65 who have smoked at any point in their lives have the highest risk of AAA. Both men and women can have AAA, but it's more common in men.</p>
+               <p>Risk factors for AAA include:</p>
+               <ul>
+                <li>Family history – for example, if a parent or sibling had AAA</li>
+                <li>Smoking</li>
+                <li>Older age</li>
+                <li>High blood pressure</li>
+                <li>High cholesterol</li>
+                <li>Heart disease or vascular disease (problems with blood vessels)</li>
+               </ul>
+               <h3>What is AAA?</h3>
+               <p>The aorta (“ay-OAR-tah”) is your body’s main artery. An artery is a blood vessel (or tube) that carries blood from your heart. The aorta carries blood from your heart to your abdomen, pelvis, and legs.</p>
+               <p>If the wall of your aorta is weak, it can swell like a balloon. This balloon-like swelling is called an aneurysm (“AN-yoor-izm”). AAA is an aneurysm that occurs in the part of the aorta running through the abdomen.</p>
+               <h3>Why do I need to talk to the doctor?</h3>
+               <p>Aneurysms usually grow slowly without any symptoms. When aneurysms grow large enough to rupture (burst), they can cause dangerous bleeding inside the body that can lead to death.</p>
+               <p>If AAA is found early, it can be treated before it bursts. That’s why it’s so important to talk to your doctor about your risk.</p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_0_topic_navigation_0" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_0_pageNextLabel_0" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_0_pageNext_0" class="button next" href="#the-basics_2">Testing and Symptoms</a> </span> 
+                <span class="content_page_link left"> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_0_pageRange_0" class="content_page_range">1 of 4 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+             <div class="page" id="page_274"> 
+              <h2 class="topic_page_title">The Basics: <span>Testing and Symptoms</span></h2> 
+              <div class="syndicate"> 
+               <h3>How do I know if I have AAA?</h3>
+               <p>To screen (test) for AAA, your doctor may order an ultrasound. An ultrasound uses sound waves to look inside the body. It can help your doctor see if there's any swelling of the aorta. Most types of ultrasounds are painless.</p>
+               <h3>What are the symptoms of AAA?</h3>
+               <p>There are usually no symptoms of AAA until it’s a medical emergency. Blood vessels like the aorta can swell up slowly over time, so it’s important to talk with your doctor about AAA to see if you need to get tested.</p>
+               <p>A ruptured aneurysm can cause dangerous bleeding that can lead to death. If this happens, you may <strong>suddenly</strong> have:</p>
+               <ul>
+                <li>Pain in your lower back, abdomen, or legs</li>
+                <li>Nausea (feeling like you are going to throw up)</li>
+                <li>Vomiting (throwing up)</li>
+                <li>Clammy (sweaty) skin</li>
+               </ul>
+               <p>If you have a ruptured aneurysm, you'll need to have surgery right away.</p>
+               <h3>What does AAA look like?</h3>
+               <p>Here's an example of what AAA looks like inside the body:</p>
+               <p><img alt="Illustration: Abdominal aortic aneurysm" src="/HealthTopics/glmedia/abdominal_aortic_aneurysm_adam.jpg"></p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_0_topic_navigation_1" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_0_pageNextLabel_1" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_0_pageNext_1" class="button next" href="#take-action_1">Talk to Your Doctor</a> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_0_pagePrevLabel_1" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_0_pagePrev_1" class="button previous" href="#the-basics_1">Overview</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_0_pageRange_1" class="content_page_range">2 of 4 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+            </div> 
+            <div class="clear"></div> 
+           </div> 
+           <div id="take-action" class="topic_area"> 
+            <h2 class="topic_area_title syndicate">Take Action!</h2> 
+            <div class="pages"> 
+             <div class="page" id="page_276"> 
+              <h2 class="topic_page_title">Take Action: <span>Talk to Your Doctor</span></h2> 
+              <div class="syndicate"> 
+               <p>Take these steps to lower your risk for AAA.</p>
+               <h3>Talk with your doctor about your risk for AAA.</h3>
+               <p>Here are some questions you might want to ask your doctor or nurse:</p>
+               <ul>
+                <li>Do I need to get screened&nbsp;for AAA?</li>
+                <li>How can I get help to quit smoking?</li>
+                <li>What are my blood pressure and cholesterol numbers?</li>
+                <li>What other steps can I take to <a href="/HealthTopics/Category/health-conditions-and-diseases/heart-health/keep-your-heart-healthy">keep my heart and blood vessels healthy</a>?</li>
+               </ul>
+               <h4>What about the cost of screening?</h4>
+               <p>Under the <a href="https://www.healthcare.gov/preventive-care-adults/" target="_blank">Affordable Care Act</a>, the health care reform law passed in 2010, insurance plans must cover AAA screening for men ages 65 to 75 who have smoked. This means you may be able to get screened at no cost to&nbsp;you.</p>
+               <ul>
+                <li>If you have Medicare, <a href="http://www.medicare.gov/coverage/ab-aortic-aneurysm-screening.html" target="blank"> find out about Medicare coverage for AAA&nbsp;screening</a>.</li>
+                <li>If you have private insurance, talk to your insurance provider about what’s included in your plan. Ask about the Affordable Care Act.</li>
+               </ul>
+               <p>For information about other services covered under the Affordable Care Act,&nbsp;<a href="https://www.healthcare.gov/coverage/preventive-care-benefits/" target="_blank">visit&nbsp;HealthCare.gov</a>.</p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_1_topic_navigation_0" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_1_pageNextLabel_0" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pageNext_0" class="button next" href="#take-action_2">Lower Your Risk</a> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_1_pagePrevLabel_0" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pagePrev_0" class="button previous" href="#the-basics_2">Testing and Symptoms</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_1_pageRange_0" class="content_page_range">3 of 4 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+             <div class="page" id="page_277"> 
+              <h2 class="topic_page_title">Take Action: <span>Lower Your Risk</span></h2> 
+              <div class="syndicate"> 
+               <h3>Make changes to lower your risk for AAA.</h3>
+               <p>It’s never too late to take steps to lower your risk for AAA.</p>
+               <h4>Quit smoking.</h4>
+               <p><a href="/HealthTopics/Category/health-conditions-and-diseases/diabetes/quit-smoking">Quitting smoking</a> is the most important thing you can do to lower your risk for AAA.</p>
+               <p>If you smoke, now is the time to quit.&nbsp;Call 1-800-QUIT-NOW (1-800-784-8669) for free support and help setting up a plan to quit.</p>
+               <h4>Check your blood pressure.</h4>
+               <p><a href="/HealthTopics/Category/doctor-visits/screening-tests/get-your-blood-pressure-checked">Get your blood pressure checked</a>. If your blood pressure is high, you can help lower it by getting active, watching your weight, and eating less sodium (salt).</p>
+               <ul>
+                <li><a href="/HealthTopics/Category/health-conditions-and-diseases/heart-health/low-sodium-foods-shopping-list">Use this list to help you shop for lower-sodium foods</a>.</li>
+                <li><a href="http://www.nhlbi.nih.gov/health/public/heart/hbp/hbp_low/hbp_low.pdf" target="blank">Get more tips on how to lower your blood pressure [PDF - 275 KB]</a>.</li>
+               </ul>
+               <h4>Get your cholesterol checked.</h4>
+               <p><a href="/HealthTopics/Category/doctor-visits/screening-tests/get-your-cholesterol-checked">Find out what your cholesterol levels are</a>. If your cholesterol is high, start a heart-healthy eating plan. This means eating foods low in saturated fat, <em>trans</em> fat, and cholesterol. <a href="/HealthTopics/Category/health-conditions-and-diseases/diabetes/eat-healthy">Find out more about eating healthy</a>.</p>
+               <p>Aim for 2 hours and 30 minutes of physical activity every week. <a href="/HealthTopics/Category/health-conditions-and-diseases/diabetes/get-active">Check out these ways to add more activity to your day</a>.</p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_1_topic_navigation_1" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_1_pagePrevLabel_1" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pagePrev_1" class="button previous" href="#take-action_1">Talk to Your Doctor</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_1_pageRange_1" class="content_page_range">4 of 4 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+            </div> 
+            <div class="clear"></div> 
+           </div> 
+           <div id="content_pageDisplayToggleWrap" class="pageDisplayToggleWrap"> 
+            <a href="#" id="pageDisplayToggle" class="pageDisplayToggle">View All</a> 
+           </div> 
+           <div id="content_resourceLinks"> 
+            <div class="resource-links clearfix"> 
+             <p class="last-updated"> <strong>Content last updated on:</strong> April 02, 2019 </p> 
+             <p class="source-links"> <a id="content_contentReviewLink" href="/HealthTopics/Sources.aspx#52">Reviewer Information</a> </p> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="clear"></div> 
+         </div> 
+         <!-- /.quickguide_content --> 
+         <div class="clear"></div> 
+        </div> 
+        <!-- /.content-page-box --> 
+       </div> 
+       <!-- /.health_topic_content_inner_wrap --> 
+       <div class="shadow-wide"></div> 
+       <div class="content-page-box health-topics-also-interested clearfix"> 
+        <div id="content_interestsPanel" class="topic_interests"> 
+         <h2>You may also be interested in:</h2> 
+         <ul> 
+          <li> <a id="content_interestsRepeater_imageLink_0" class="image_link" href="/HealthTopics/Category/health-conditions-and-diseases/heart-health/keep-your-heart-healthy"><img id="content_interestsRepeater_image_0" alt="Keep Your Heart Healthy" src="/HealthTopics/glmedia/icons/keepyourhearthealthy.jpg"></a> <a id="content_interestsRepeater_titleLink_0" class="title_link" href="/HealthTopics/Category/health-conditions-and-diseases/heart-health/keep-your-heart-healthy">Keep Your Heart Healthy</a> </li> 
+          <li> <a id="content_interestsRepeater_imageLink_1" class="image_link" href="/HealthTopics/Category/health-conditions-and-diseases/diabetes/quit-smoking"><img id="content_interestsRepeater_image_1" alt="Quit Smoking" src="/HealthTopics/glmedia/icons/quitsmoking.jpg"></a> <a id="content_interestsRepeater_titleLink_1" class="title_link" href="/HealthTopics/Category/health-conditions-and-diseases/diabetes/quit-smoking">Quit Smoking</a> </li> 
+          <li> <a id="content_interestsRepeater_imageLink_2" class="image_link" href="/HealthTopics/Category/health-conditions-and-diseases/cancer/quitting-smoking-conversation-starters"><img id="content_interestsRepeater_image_2" alt="Quitting Smoking: Conversation starters" src="/HealthTopics/glmedia/tools_icons/quittingsmokingconversationstarters.jpg"></a> <a id="content_interestsRepeater_titleLink_2" class="title_link" href="/HealthTopics/Category/health-conditions-and-diseases/cancer/quitting-smoking-conversation-starters">Quitting Smoking: Conversation starters</a> </li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="shadow health-topics-also-interested"></div> 
+       <!-- ./box-left --> 
+      </div> 
+      <!-- /.health-topic-tool --> 
+      <div id="resizable_embedded_link"></div> 
+     </form> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+   </div> 
+   <div id="HideIfWidget5"> 
+    <div id="footer" role="complementary"> 
+     <ul class="footer-links-wide"> 
+      <li><a href="/aboutus/">About Us</a></li> 
+      <li><a href="/aboutus/accessibility.aspx">Accessibility</a></li> 
+      <li><a href="/aboutus/contactus.aspx">Contact Us</a></li> 
+      <li><a href="/Developer">Developers</a></li> 
+      <li><a href="/aboutus/disclaimer.aspx">Disclaimers</a></li> 
+      <li><a href="/aboutus/foia.aspx">Freedom of Information Act</a></li> 
+      <li><a href="https://www.hhs.gov/civil-rights/for-individuals/nondiscrimination/index.html" target="_blank">Nondiscrimination Notice</a></li> 
+      <li><a href="/aboutus/privacy.aspx">Privacy Policy</a></li> 
+      <li><a href="/sitemap.aspx">Site Map</a></li> 
+      <li class="last"><a href="/aboutus/plugins.aspx">Viewers &amp; Players</a></li> 
+      <li class="clear"></li> 
+     </ul> 
+     <div class="clear"></div> 
+     <div class="footer-language"> 
+      <p>Language Assistance Available</p> 
+      <ul class="footer-links-wide"> 
+       <li><a lang="es" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#spanish" target="_blank">Español</a></li> 
+       <li><a lang="zh" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#chinese" target="_blank">????</a></li> 
+       <li><a lang="vi" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#vietnamese" target="_blank">Ti?ng Vi?t</a></li> 
+       <li><a lang="ko" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#korean" target="_blank">???</a></li> 
+       <li><a lang="fr" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#french" target="_blank">Français</a></li> 
+       <li><a lang="pl" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#polish" target="_blank">Polski</a></li> 
+       <li><a lang="pt" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#portugese" target="_blank">Português</a></li> 
+       <li><a lang="it" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#italian" target="_blank">Italiano</a></li> 
+       <li><a lang="tl" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#tagalog" target="_blank">Tagalog</a></li> 
+       <li><a lang="ru" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#russian" target="_blank">???????</a></li> 
+       <li><a lang="ar" dir="rtl" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#arabic" target="_blank">???????</a></li> 
+       <li><a lang="sg" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#creole" target="_blank">Kreyòl Ayisyen</a></li> 
+       <li><a lang="de" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#german" target="_blank">Deutsch</a></li> 
+       <li><a lang="ja" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#japanese" target="_blank">???</a></li> 
+       <li><a lang="fa" dir="rtl" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#farsi" target="_blank">?????</a></li> 
+       <li class="last"><a href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#english" target="_blank">English</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+     <div id="footer-bottom"> 
+      <div class="footer-text">
+        A Federal Government website managed by the 
+       <a class="hhs-text-link" href="https://www.hhs.gov/">U.S. Department of Health and Human Services</a> 
+       <br class="hidden-mobile-break"> healthfinder.gov is sponsored by the National Health Information Center 
+       <span class="address-block">200 Independence Avenue, S.W., Washington, DC 20201</span> 
+       <span class="page-updated">Page last updated: Saturday, June 01, 2019</span> 
+      </div> 
+      <div class="logo-box"> 
+       <a class="logo-hhs" href="https://www.hhs.gov/" title="Department of Health and Human Services"> <img src="/images/footer-hhs-logo.png" alt="Department of Health and Human Services"></a> 
+       <a class="logo-odphp" href="https://health.gov/" title="Office of Disease Prevention and Health Promotion"> <img src="/images/odphp-logo-black.png" class="odphp-logo" alt="Office of Disease Prevention and Health Promotion"></a> 
+       <a class="logo-healthfinder" href="https://healthfinder.gov" title="healthfinder.gov"> <img src="/images/footer-hf-logo.png" alt="healthfinder.gov logo"></a> 
+      </div> 
+      <div class="clear"></div> 
+     </div> 
+     <!-- /#footer-bottom --> 
+     <div class="clear"></div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="up_scrollable_indicator"></div> 
+  <div id="down_scrollable_indicator"></div> 
+  <script src="/js/jquery-1.8.3.min.js" type="text/javascript"></script> 
+  <script src="/js/jquery-ui-1.8.16.custom.min.js" type="text/javascript"></script> 
+  <script src="/js/jquery.cycle.all.js" type="text/javascript"></script> 
+  <script src="/js/jquery.colorbox-min.js" type="text/javascript"></script> 
+  <script src="/js/jquery.flexslider.modified.js" type="text/javascript"></script> 
+  <script src="/js/jquery.ba-hashchange.min.js" type="text/javascript"></script> 
+  <script src="/js/healthfinder.js" type="text/javascript"></script> 
+  <script src="/js/jquery.ddslick.min.js" type="text/javascript"></script> 
+  <script src="/js/myhealthfinder.js" type="text/javascript"></script> 
+  <script src="/js/global-nav.js" type="text/javascript"></script> 
+  <script src="/js/outlink.js" type="text/javascript"></script> 
+  <script src="/js/search-suggest.js" type="text/javascript"></script> 
+  <!--AddThis code--> 
+  <script type="text/javascript">
+        var addthis_config = {
+            ui_language: "en"
+      };
+    </script> 
+  <script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=xa-50c0b9a52a842762"></script> 
+  <!-- Document Download tracking --> 
+  <script src="/js/ga_download_tracker.js" type="text/javascript"></script> 
+  <!--CrazyEgg tracking code --> 
+  <script type="text/javascript">
+        setTimeout(function () {
+            var a = document.createElement("script");
+            var b = document.getElementsByTagName("script")[0];
+            a.src = document.location.protocol + "//dnn506yrbagrg.cloudfront.net/pages/scripts/0013/7844.js?" + Math.floor(new Date().getTime() / 3600000);
+            a.async = true; a.type = "text/javascript"; b.parentNode.insertBefore(a, b)
+        }, 1);
+    </script> 
+  <!--BEGIN QUALTRICS SITE INTERCEPT sitewide --> 
+  <script type="text/javascript">
+        (function () {
+            var g = function (e, h, f, g) {
+                this.get = function (a) { for (var a = a + "=", c = document.cookie.split(";"), b = 0, e = c.length; b < e; b++) { for (var d = c[b]; " " == d.charAt(0) ;) d = d.substring(1, d.length); if (0 == d.indexOf(a)) return d.substring(a.length, d.length) } return null };
+                this.set = function (a, c) { var b = "", b = new Date; b.setTime(b.getTime() + 6048E5); b = "; expires=" + b.toGMTString(); document.cookie = a + "=" + c + b + "; path=/; " };
+                this.check = function () { var a = this.get(f); if (a) a = a.split(":"); else if (100 != e) "v" == h && (e = Math.random() >= e / 100 ? 0 : 100), a = [h, e, 0], this.set(f, a.join(":")); else return !0; var c = a[1]; if (100 == c) return !0; switch (a[0]) { case "v": return !1; case "r": return c = a[2] % Math.floor(100 / c), a[2]++, this.set(f, a.join(":")), !c } return !0 };
+                this.xgo = function () { if (this.check()) { var a = document.createElement("script"); a.type = "text/javascript"; a.src = g + "&t=" + (new Date()).getTime(); document.body && document.body.appendChild(a) } };
+                this.go = function () { wait_for_session_delay(30, this.xgo, this); };
+                this.start = function () { var a = this; window.addEventListener ? window.addEventListener("load", function () { a.go() }, !1) : window.attachEvent && window.attachEvent("onload", function () { a.go() }) }
+            };
+            try { (new g(100, "r", "QSI_S_SI_eDVjXbuzcR5eE0B", "//znbqj3egyjwfzib9r-communicatehealth.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_eDVjXbuzcR5eE0B&Q_LOC=" + encodeURIComponent(window.location.href))).start() } catch (i) { }
+        })();
+    </script> 
+  <div id="SI_eDVjXbuzcR5eE0B"> 
+   <!--DO NOT REMOVE-CONTENTS PLACED HERE--> 
+  </div> 
+  <!--END SITE INTERCEPT--> 
+  <!--BEGIN QUALTRICS SITE INTERCEPT feedback link --> 
+  <script type="text/javascript">
+        (function () {
+            var g = function (e, h, f, g) {
+                this.get = function (a) { for (var a = a + "=", c = document.cookie.split(";"), b = 0, e = c.length; b < e; b++) { for (var d = c[b]; " " == d.charAt(0) ;) d = d.substring(1, d.length); if (0 == d.indexOf(a)) return d.substring(a.length, d.length) } return null };
+                this.set = function (a, c) { var b = "", b = new Date; b.setTime(b.getTime() + 6048E5); b = "; expires=" + b.toGMTString(); document.cookie = a + "=" + c + b + "; path=/; " };
+                this.check = function () { var a = this.get(f); if (a) a = a.split(":"); else if (100 != e) "v" == h && (e = Math.random() >= e / 100 ? 0 : 100), a = [h, e, 0], this.set(f, a.join(":")); else return !0; var c = a[1]; if (100 == c) return !0; switch (a[0]) { case "v": return !1; case "r": return c = a[2] % Math.floor(100 / c), a[2]++, this.set(f, a.join(":")), !c } return !0 };
+                this.go = function () { if (this.check()) { var a = document.createElement("script"); a.type = "text/javascript"; a.src = g + "&t=" + (new Date()).getTime(); document.body && document.body.appendChild(a) } };
+                this.start = function () { var a = this; window.addEventListener ? window.addEventListener("load", function () { a.go() }, !1) : window.attachEvent && window.attachEvent("onload", function () { a.go() }) }
+            };
+            try { (new g(100, "r", "QSI_S_SI_cXQyslZ7nyPxAbz", "//znbqj3egyjwfzib9r-communicatehealth.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_cXQyslZ7nyPxAbz&Q_LOC=" + encodeURIComponent(window.location.href))).start() } catch (i) { }
+        })();
+    </script> 
+  <div id="SI_cXQyslZ7nyPxAbz"> 
+   <!--DO NOT REMOVE-CONTENTS PLACED HERE--> 
+  </div> 
+  <!--END SITE INTERCEPT--> 
+  <!--BEGIN QUALTRICS SITE INTERCEPT - page level --> 
+  <script type="text/javascript">
+        (function () {
+            var g = function (e, h, f, g) {
+                this.get = function (a) { for (var a = a + "=", c = document.cookie.split(";"), b = 0, e = c.length; b < e; b++) { for (var d = c[b]; " " == d.charAt(0) ;) d = d.substring(1, d.length); if (0 == d.indexOf(a)) return d.substring(a.length, d.length) } return null };
+                this.set = function (a, c) { var b = "", b = new Date; b.setTime(b.getTime() + 6048E5); b = "; expires=" + b.toGMTString(); document.cookie = a + "=" + c + b + "; path=/; " };
+                this.check = function () { var a = this.get(f); if (a) a = a.split(":"); else if (100 != e) "v" == h && (e = Math.random() >= e / 100 ? 0 : 100), a = [h, e, 0], this.set(f, a.join(":")); else return !0; var c = a[1]; if (100 == c) return !0; switch (a[0]) { case "v": return !1; case "r": return c = a[2] % Math.floor(100 / c), a[2]++, this.set(f, a.join(":")), !c } return !0 };
+                this.go = function () { if (this.check()) { var a = document.createElement("script"); a.type = "text/javascript"; a.src = g + "&t=" + (new Date()).getTime(); document.body && document.body.appendChild(a) } };
+                this.start = function () { var a = this; window.addEventListener ? window.addEventListener("load", function () { a.go() }, !1) : window.attachEvent && window.attachEvent("onload", function () { a.go() }) }
+            };
+            try { (new g(100, "r", "QSI_S_SI_abZk2DnPlZAGHjL", "//znbqj3egyjwfzib9r-communicatehealth.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_abZk2DnPlZAGHjL&Q_LOC=" + encodeURIComponent(window.location.href))).start() } catch (i) { }
+        })();
+    </script> 
+  <div id="SI_abZk2DnPlZAGHjL"> 
+   <!--DO NOT REMOVE-CONTENTS PLACED HERE--> 
+  </div> 
+  <!--END SITE INTERCEPT--> 
+  <script src="https://health.gov/ui/js/lib/survey-wrapper.js"></script> 
+  <script src="/js/quickguide.js" type="text/javascript"></script>   
+ </body>
+</html>

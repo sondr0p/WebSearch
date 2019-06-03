@@ -1,0 +1,6 @@
+<html>
+ <head></head>
+ <body>
+  { "name": "The White House", "short_name": "WhiteHouse.gov", "icons": [ { "src": "/touch-icon-192x192.png", "sizes": "192x192", "type": "image/png" }, { "src": "/touch-icon-256x256.png", "sizes": "256x256", "type": "image/png" } ], "theme_color": "#f5f5f5", "background_color": "#f5f5f5" } 
+ </body>
+</html>

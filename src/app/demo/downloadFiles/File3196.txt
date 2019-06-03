@@ -1,0 +1,185 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en">
+ <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="description">
+  <meta name="author">
+  <link href="css/bootstrap.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="css/styles.css">
+  <link href="css/bootstrap-responsive.css" rel="stylesheet"> 
+  <script type="text/javascript" src="scripts/bootstrap.js"></script> 
+  <script type="text/javascript" src="scripts/script.js"></script> 
+  <!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="css/ie7.css" />
+<![endif]--> 
+  <!--[if IE 8]>
+<link rel="stylesheet" type="text/css" href="css/ie8.css" />
+<![endif]--> 
+  <!--[if lt IE 9]>
+<script src="https://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+<![endif]--> 
+  <link href="https://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow:regular,bold" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=PT+Sans+Caption:regular,bold" rel="stylesheet" type="text/css">
+  <title>
+	Login
+</title>
+ </head> 
+ <body> 
+  <div id="page" class="container"> 
+   <div id="globals"> 
+    <div class="msGovGlobal">
+     <a href="http://www.ms.gov" target="_blank"><img src="images/msGovGlobal.png" width="65" height="26" alt="ms.gov"></a>
+    </div> 
+   </div> 
+   <header id="banner">
+    <img src="images/banner.jpg"> 
+   </header> 
+   <div class="row-fluid"> 
+    <div id="main" class="span12"> 
+     <!-- only use the shoenav if there is a side nav on the page <div class="ShowNav">
+<a href="#nav"><img src="images/viewMenu.png" width="165" height="44" alt="View Menu" /></a>
+</div> --> 
+     <h2>Welcome to the Mississippi Board of Psychology License Renewal Application </h2> 
+     <form method="post" action="./" onsubmit="javascript:return WebForm_OnSubmit();" id="Form1" class="form"> 
+      <div class="aspNetHidden"> 
+       <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value=""> 
+       <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value=""> 
+       <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="PNV2Bx2mFB2p0ifH8nintRsS38QzA6aA6OqXbMpK+BshzDIk+wEdYQ9129nMKqy83F1KnV646GgiR5mvK39zEIMYe6T2BYKBf+rAF5uCXfs="> 
+      </div> 
+      <script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['Form1'];
+if (!theForm) {
+    theForm = document.Form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script> 
+      <script src="/psychologyboard/psychology_license_renewal/WebResource.axd?d=3ZLKDmvHbG_VW63wAqvBoz3a-_2a6CWiZO6Vws92y9513FRclt8drCdgG4tGoPjnS9Kfzvi-nFldWNa8L7U_lkgmrRfPtGYc62SKJGGrsWk1&amp;t=636765211280000000" type="text/javascript"></script> 
+      <script src="/psychologyboard/psychology_license_renewal/WebResource.axd?d=B2dkdNcMFHpsGk4erDlYA9OcFNdV2tI2g0Jyec8CFPgEB6W_mwPBBixIYaGpsjSbhRDJ70wsSKkugzYqG2FDkGWeZRdyQyBp8Bn_pyn029s1&amp;t=636765211280000000" type="text/javascript"></script> 
+      <script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script> 
+      <div class="aspNetHidden"> 
+       <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="494F6D57"> 
+       <input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value=""> 
+      </div> 
+      <h3>License Renewal</h3> 
+      <hr> 
+      <div style="clear: both; color: Red"> 
+       <div id="ValidationSummary1" style="color:Red;display:none;"> 
+       </div> 
+      </div> 
+      <p style="color:Black"><strong>Please type license number exactly as it appears on invoice including dashes, spaces or none. Examples include: xx xxx, xx-xxx, xxxxx or xxx. If the last 4 of SS# leads with zeros, only provide the trailing digits.</strong></p> 
+      <div class="field field-block">
+       <strong><label> <span style="color:Red">*</span>License Number:</label></strong> 
+       <input name="txtlicenseNum" type="text" id="txtlicenseNum" style="width:150px;">
+      </div> 
+      <div class="field field-block">
+       <strong><label> <span style="color:Red">*</span>Last 4 of social#: </label></strong> 
+       <input name="txtsocial" type="password" maxlength="4" id="txtsocial" style="width:150px;"> 
+      </div> 
+      <br> 
+      <div id="Div1" class="field field-block"> 
+       <input type="submit" name="btnLogin" value="Continue >>" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;btnLogin&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="btnLogin" class="button01">
+       <br>
+       <br> 
+       <br> 
+      </div> 
+      <div> 
+       <span id="RequiredFieldValidator1" style="display:none;"></span> 
+       <span id="RequiredFieldValidator2" style="display:none;"></span> 
+       <span id="RegularExpressionValidator1" style="display:none;"></span> 
+       <span id="RegularExpressionValidator2" style="display:none;"></span>
+      </div> 
+      <script type="text/javascript">
+//<![CDATA[
+var Page_ValidationSummaries =  new Array(document.getElementById("ValidationSummary1"));
+var Page_Validators =  new Array(document.getElementById("RequiredFieldValidator1"), document.getElementById("RequiredFieldValidator2"), document.getElementById("RegularExpressionValidator1"), document.getElementById("RegularExpressionValidator2"));
+//]]>
+</script> 
+      <script type="text/javascript">
+//<![CDATA[
+var ValidationSummary1 = document.all ? document.all["ValidationSummary1"] : document.getElementById("ValidationSummary1");
+ValidationSummary1.displaymode = "List";
+var RequiredFieldValidator1 = document.all ? document.all["RequiredFieldValidator1"] : document.getElementById("RequiredFieldValidator1");
+RequiredFieldValidator1.controltovalidate = "txtlicenseNum";
+RequiredFieldValidator1.focusOnError = "t";
+RequiredFieldValidator1.errormessage = "License Number is required";
+RequiredFieldValidator1.display = "None";
+RequiredFieldValidator1.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+RequiredFieldValidator1.initialvalue = "";
+var RequiredFieldValidator2 = document.all ? document.all["RequiredFieldValidator2"] : document.getElementById("RequiredFieldValidator2");
+RequiredFieldValidator2.controltovalidate = "txtsocial";
+RequiredFieldValidator2.focusOnError = "t";
+RequiredFieldValidator2.errormessage = "Social Security is required";
+RequiredFieldValidator2.display = "None";
+RequiredFieldValidator2.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+RequiredFieldValidator2.initialvalue = "";
+var RegularExpressionValidator1 = document.all ? document.all["RegularExpressionValidator1"] : document.getElementById("RegularExpressionValidator1");
+RegularExpressionValidator1.controltovalidate = "txtlicenseNum";
+RegularExpressionValidator1.errormessage = "Incorrect license number format";
+RegularExpressionValidator1.display = "None";
+RegularExpressionValidator1.evaluationfunction = "RegularExpressionValidatorEvaluateIsValid";
+RegularExpressionValidator1.validationexpression = "^\\d+([ -]\\d+)?$";
+var RegularExpressionValidator2 = document.all ? document.all["RegularExpressionValidator2"] : document.getElementById("RegularExpressionValidator2");
+RegularExpressionValidator2.controltovalidate = "txtsocial";
+RegularExpressionValidator2.errormessage = "Incorrect social security number format";
+RegularExpressionValidator2.display = "None";
+RegularExpressionValidator2.evaluationfunction = "RegularExpressionValidatorEvaluateIsValid";
+RegularExpressionValidator2.validationexpression = "^\\d+$";
+//]]>
+</script> 
+      <script type="text/javascript">
+//<![CDATA[
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        //]]>
+</script> 
+     </form> 
+    </div> 
+   </div> 
+   <footer id="footer"> 
+    <div class="msGovLogo">
+     <a href="http://www.ms.gov" target="_blank"><img src="images/msGov.png" alt="visit the ms.gov website"></a>
+    </div> 
+    <div class="footerText">
+     Mississippi Board of Psychology, copyright ©2013
+     <br> 
+     <br> For policy-related questions, please contact: Toll Free: 1-888-693-1416
+     <br> For technical support with the site, please contact: 
+     <a href="mailto:appsupport@msegov.com">appsupport@msegov.com </a> or call (601) 351-5259
+     <br> 
+     <br> 
+     <a href="http://www.transparency.ms.gov/" target="_blank">Transparency Mississippi</a> 
+    </div> 
+   </footer> 
+  </div>   
+ </body>
+</html>

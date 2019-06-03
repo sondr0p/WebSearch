@@ -1,0 +1,196 @@
+<!doctype html>
+<html>
+ <head> 
+  <meta charset="utf-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <title>Index | Teacher Workshop Registration</title> 
+  <!-- Bootstrap --> 
+  <link href="/mdwfp/teacher_workshop/Content/css/bootstrap.css" rel="stylesheet"> 
+  <link href="/mdwfp/teacher_workshop/Content/css/default.css" rel="stylesheet"> 
+  <link href="/mdwfp/teacher_workshop/Content/css/skin.css" rel="stylesheet"> 
+  <script src="/mdwfp/teacher_workshop/Scripts/modernizr-2.6.2.js"></script> 
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script> 
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script> 
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"> 
+  <!--[if IE 8]>
+        <style type="text/css">
+        /* css for IE 8 */
+            body.background {
+                /* Set rules to fill background */
+                min-height: 100%;
+                min-width: 1024px;
+
+                /* Set up proportionate scaling */
+                width: 100%;
+                height: auto;
+
+                /* Set up positioning */
+                position: fixed;
+                top: 0;
+                left: 0;
+            }
+        </style>
+    <![endif]--> 
+  <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]--> 
+ </head> 
+ <body class="background background-texture-1"> 
+  <!-- Global --> 
+  <div class="container-fluid" id="global"> 
+   <div class="row"> 
+    <div class="col-lg-6"> 
+     <div class="pull-left" id="global-logo">
+      <a href="http://www.ms.gov"><img src="/mdwfp/teacher_workshop/Content/images/logo-msGov-sm.png" alt="ms.gov"></a>
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- App Wrap --> 
+  <div class="container" id="appWrap"> 
+   <!-- Header --> 
+   <header class="row"> 
+    <div class="col-sm-6">
+     <div id="agency-logo">
+      <img class="img-responsive" src="/mdwfp/teacher_workshop/Content/images/agency-logo.jpg" alt="Mississippi Museum of Natural Science">
+     </div>
+    </div> 
+    <div id="appTitle">
+     Teacher Workshop
+    </div> 
+   </header> 
+   <!-- App --> 
+   <section id="app" class="row"> 
+    <div class="col-sm-12"> 
+     <div class="validation-summary-valid" data-valmsg-summary="true">
+      <ul>
+       <li style="display:none"></li> 
+      </ul>
+     </div> 
+     <h1>Mississippi Museum Of Natural Science Teacher Workshop</h1> 
+     <br> 
+     <div class="panel-group accordion-group" id="accordion"> 
+      <div class="panel panel-default"> 
+       <div class="panel-heading" role="tab" id="headingOne"> 
+        <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="##collapse1" aria-expanded="true" aria-controls="collapseOne"> "Flying Wild" </a> </h4> 
+       </div> 
+       <div id="collapse1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne"> 
+        <div class="panel-body" style="margin-bottom:25px;"> 
+         <div style="margin-top:10px;"></div> 
+         <ul type="disc"> 
+          <li><strong>DATE: </strong>Monday, March 11, 2019</li> 
+          <li><strong>TIME:</strong> 9AM - 3PM</li> 
+          <li><strong>LOCATION:</strong> Mississippi Museum of Natural Science</li> 
+          <p style="margin-left:80px">2148 Riverside Drive<br>Jackson, MS 39202(Hinds, Co.)</p> 
+          <li><strong>CEU VALUE:</strong> .6 CEUs from Mississippi College</li> 
+          <li><strong>COST:</strong> $25.00 non-refundable pre-registration fee</li> 
+          <li><strong>DESCRIPTION:</strong> Flying WILD introduces students to bird conservation through standards-based classroom activities and environmental stewardship projects. Flying WILD encourages schools to work closely with conservation organizations, community groups, and business involved with birds to implement school birds festivals and bird conservation projects. </li> 
+          <li><strong>NOTE:</strong> Please bring a bag lunch and a reusable water bottle. Wear comfortable shoes and clothing suitable for the weather as we may be on the museum's trails for a few activities.</li> 
+         </ul> 
+         <a href="/mdwfp/teacher_workshop/Registration/Register?workshop=%22Flying%20Wild%22" class="btn btn-primary pull-left">Register</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="panel panel-default"> 
+       <div class="panel-heading" role="tab" id="headingOne"> 
+        <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="##collapse2" aria-expanded="false" aria-controls="collapseOne"> "Wonder or WILD-life" </a> </h4> 
+       </div> 
+       <div id="collapse2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne"> 
+        <div class="panel-body" style="margin-bottom:25px;"> 
+         <div style="margin-top:10px;"></div> 
+         <ul type="disc"> 
+          <li><strong>DATE: </strong>Tuesday, March 12, 2019</li> 
+          <li><strong>TIME:</strong> 9AM - 3PM</li> 
+          <li><strong>LOCATION:</strong> Mississippi Museum of Natural Science</li> 
+          <p style="margin-left:80px">2148 Riverside Drive<br>Jackson, MS 39202(Hinds, Co.)</p> 
+          <li><strong>CEU VALUE:</strong> .6 CEUs from Mississippi College</li> 
+          <li><strong>COST:</strong> $25.00 non-refundable pre-registration fee</li> 
+          <li><strong>DESCRIPTION:</strong> We will explore the diversity of wildlife in our state. We will also try and incorporate ways of teaching by exploring wildlife using the Project W.I.L.D. curriculum. Project WILD capitalizes on the natural interest that children and adults have in wildlife by providing hands-on activities that enhance all subject and skills areas and by addressing the need for human beings to develop as responsible citizens of our planet. </li> 
+          <li><strong>NOTE:</strong> Please bring a bag lunch and a reusable water bottle. Wear comfortable shoes and clothing suitable for the weather as we may be on the museum's trails for a few activities.</li> 
+         </ul> 
+         <a href="/mdwfp/teacher_workshop/Registration/Register?workshop=%22Wonder%20or%20WILD-life%22" class="btn btn-primary pull-left">Register</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="panel panel-default"> 
+       <div class="panel-heading" role="tab" id="headingOne"> 
+        <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="##collapse3" aria-expanded="false" aria-controls="collapseOne"> "Sharing Nature Worldwide" </a> </h4> 
+       </div> 
+       <div id="collapse3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne"> 
+        <div class="panel-body" style="margin-bottom:25px;"> 
+         <div style="margin-top:10px;"></div> 
+         <ul type="disc"> 
+          <li><strong>DATE: </strong>Wednesday, March 13, 2019</li> 
+          <li><strong>TIME:</strong> 9AM - 3PM</li> 
+          <li><strong>LOCATION:</strong> Mississippi Museum of Natural Science</li> 
+          <p style="margin-left:80px">2148 Riverside Drive<br>Jackson, MS 39202(Hinds, Co.)</p> 
+          <li><strong>CEU VALUE:</strong> .6 CEUs from Mississippi College</li> 
+          <li><strong>COST:</strong> $25.00 non-refundable pre-registration fee</li> 
+          <li><strong>DESCRIPTION:</strong> SHARING NATURE WORLDWIDE is one of the most widespread environmental education programs active today. It embraces a meaningful approach to nature education that focuses on the intellectual and emotive connection between humans and their environment utilizing games, activtives, and art. In a one day workshop, you will be introduced to the gentle but dynamic Flow Learning teaching strategy developed by Joseph Cornell, the founder of Sharing Nature Worldwide. </li> 
+          <li><strong>NOTE:</strong> Please bring a bag lunch and a reusable water bottle. Wear comfortable shoes and clothing suitable for the weather as we may be on the museum's trails for a few activities.</li> 
+         </ul> 
+         <a href="/mdwfp/teacher_workshop/Registration/Register?workshop=%22Sharing%20Nature%20Worldwide%22" class="btn btn-primary pull-left">Register</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="panel panel-default"> 
+       <div class="panel-heading" role="tab" id="headingOne"> 
+        <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="##collapse4" aria-expanded="false" aria-controls="collapseOne"> "Wow! Wonders of Wetlands" </a> </h4> 
+       </div> 
+       <div id="collapse4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne"> 
+        <div class="panel-body" style="margin-bottom:25px;"> 
+         <div style="margin-top:10px;"></div> 
+         <ul type="disc"> 
+          <li><strong>DATE: </strong>Thursday, March 14, 2019</li> 
+          <li><strong>TIME:</strong> 9AM - 3PM</li> 
+          <li><strong>LOCATION:</strong> Mississippi Museum of Natural Science</li> 
+          <p style="margin-left:80px">2148 Riverside Drive<br>Jackson, MS 39202(Hinds, Co.)</p> 
+          <li><strong>CEU VALUE:</strong> .6 CEUs from Mississippi College</li> 
+          <li><strong>COST:</strong> $25.00 non-refundable pre-registration fee</li> 
+          <li><strong>DESCRIPTION:</strong> WOW! The Wonders of Wetlands is an instructional guide for educators that provides, a resourceful and creative collection of wetland activities, information, and ideas. The workshop will introduce you to the three parameters of wetlands(vegetation, soils, hydrology), wetland functions and values as well as management options all through fun and engaging activities. WOW! incorporates wetlands into reading,math, social studies, art or physical education lessons. </li> 
+          <li><strong>NOTE:</strong> Please bring a bag lunch and a reusable water bottle. Wear comfortable shoes and clothing suitable for the weather as we may be on the museum's trails for a few activities.</li> 
+         </ul> 
+         <a href="/mdwfp/teacher_workshop/Registration/Register?workshop=%22Wow%21%20Wonders%20of%20Wetlands%22" class="btn btn-primary pull-left">Register</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="panel panel-default"> 
+       <div class="panel-heading" role="tab" id="headingOne"> 
+        <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="##collapse5" aria-expanded="false" aria-controls="collapseOne"> "GROWING UP WILD" </a> </h4> 
+       </div> 
+       <div id="collapse5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne"> 
+        <div class="panel-body" style="margin-bottom:25px;"> 
+         <div style="margin-top:10px;"></div> 
+         <ul type="disc"> 
+          <li><strong>DATE: </strong>Friday, March 15, 2019</li> 
+          <li><strong>TIME:</strong> 9AM - 2PM</li> 
+          <li><strong>LOCATION:</strong> Mississippi Museum of Natural Science</li> 
+          <p style="margin-left:80px">2148 Riverside Drive<br>Jackson, MS 39202(Hinds, Co.)</p> 
+          <li><strong>CEU VALUE:</strong> .5 CEUs from Mississippi College</li> 
+          <li><strong>COST:</strong> $25.00 non-refundable pre-registration fee</li> 
+          <li><strong>DESCRIPTION:</strong> Growing Up WILD features activities designed to stimulate young children in new and exciting ways while connecting them to nature and many of its wonders. Growing Up WILD is a national early childhood initiative that builds literacy skills and environmental appreciation among early learners through participation in engaging wildlife-based educational activities. This workshop is suggested for teachers that work with ages 3-7.</li> 
+          <li><strong>NOTE:</strong> Please bring a bag lunch and a reusable water bottle. Wear comfortable shoes and clothing suitable for the weather as we may be on the museum's trails for a few activities.</li> 
+         </ul> 
+         <a href="/mdwfp/teacher_workshop/Registration/Register?workshop=%22GROWING%20UP%20WILD%22" class="btn btn-primary pull-left">Register</a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+  </div> 
+  <footer class="container"> 
+   <div class="row"> 
+    <div class="col-sm-7" id="footer-links"> 
+     <p><a href="https://www.mdwfp.com/museum.aspx">MMNS Teacher's Workshop</a> | <a href="http://www.transparency.ms.gov/">Transparency.ms.gov</a> | <a href="https://www.ms.gov/help_portal" target="_blank">Help Portal</a> </p> 
+     <p>Copyright © 2019 Mississippi Museum of Natural Science </p> 
+    </div> 
+    <div class="col-sm-5" id="footer-logo"> 
+     <a href="http://www.ms.gov"><img src="/mdwfp/teacher_workshop/Content/images/logo-msGov-footer.png" alt="ms.gov"></a> 
+    </div> 
+   </div> 
+  </footer> 
+  <script src="/mdwfp/teacher_workshop/Content/js/bootstrap.min.js"></script>   
+ </body>
+</html>

@@ -1,0 +1,274 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head id="Head1">
+  <title>
+	Mississippi Department of Wildlife, Fisheries, &amp; Parks : Renew Boat Registration
+</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <meta name="apple-itunes-app" content="app-id=538796497, affiliate-data=myAffiliateData, app-argument=myURL">
+  <link rel="stylesheet" type="text/css" href="css/styles.css">
+  <link rel="stylesheet" type="text/css" href="css/mobile.css">
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1"> 
+  <script type="text/javascript" src="Scripts/script.js"></script> 
+  <script type="text/javascript">
+        function checkLen(x, y) {
+            if (y.length == x.maxLength) {
+                var next = x.nextSibling;
+
+                if (next) {
+                    next.focus()
+                }
+            }
+        }
+    </script> 
+  <!-- Global site tag (gtag.js) - Google Analytics --> 
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-37236835-1"></script> 
+  <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-37236835-1');
+    </script> 
+  <script type="text/javascript">
+
+        function ShowProgress() {
+            document.getElementById('UpdateProgress2').style.display = "inline";
+        }
+    </script> 
+ </head> 
+ <body> 
+  <div id="globals"> 
+  </div> 
+  <div id="header_mobile"> 
+   <img alt="" src="images/header_mobile.jpg"> 
+  </div> 
+  <div id="Table_01"> 
+   <div id="headerbox"> 
+    <div id="Slice_"> 
+     <img id="Slice" src="images/Slice.png" width="37" height="283" alt=""> 
+    </div> 
+    <div id="Slice002_"> 
+     <img id="Slice002" src="images/Slice-02.png" width="953" height="59" alt=""> 
+    </div> 
+    <div id="Slice003_"> 
+     <img id="Slice003" src="images/Slice-03.png" width="36" height="283" alt=""> 
+    </div> 
+    <div id="Header"> 
+     <a href="https://www.mdwfp.com"> <img id="Slice004" src="images/Slice.jpg" width="953" height="224" alt=""></a> 
+    </div> 
+   </div> 
+   <div id="ContentArea"> 
+    <!-- Insert All Content here --> 
+    <div id="menu_mobile"> 
+     <select name="ddlnavigate" id="ddlnavigate" onchange="navigateRedirect(this)"> <option selected value="">NAVIGATE</option> <option value="default.aspx">Home</option> <option value="faq_main.aspx">FAQs</option> <option value="faq_info.aspx">Info About Renewals</option> <option value="faq_glossary.aspx">Glossary</option> <option value="faq_paying.aspx">Paying Online</option> <option value="http://www.mdwfp.com/">MDWFP Site</option> <option value="http://www.ms.gov/">ms.gov Site</option> </select> 
+    </div> 
+    <div id="side"> 
+     <h2>Navigate</h2> 
+     <ul id="nav_normal"> 
+      <li><a href="default.aspx">Home</a></li> 
+      <li><a href="faq_main.aspx">Frequently Asked Questions</a></li> 
+      <ul> 
+       <li><a href="faq_info.aspx">Info About Renewals</a></li> 
+       <li><a href="faq_glossary.aspx">Glossary</a></li> 
+       <li><a href="faq_paying.aspx">Paying Online</a></li> 
+      </ul> 
+      <li><a href="http://www.mdwfp.com/" target="_blank">Mississippi Department of Wildlife, Fisheries, &amp; Parks Website</a></li> 
+      <li><a href="http://www.ms.gov/" target="_blank">Mississippi's Official State Website</a></li> 
+     </ul> 
+    </div> 
+    <div id="main" class="twoCol"> 
+     <h2>Renewal Boat Registration</h2> 
+     <div class="wizard-steps"> 
+      <div class="active-step">
+       <a href="default.aspx"><span>1</span> ID Info</a>
+      </div> 
+      <div>
+       <a href="personalInfo.aspx"><span>2</span>Personal Info</a>
+      </div> 
+      <div>
+       <a href="review.aspx"><span>3</span>Review &amp; Checkout</a>
+      </div> 
+     </div> 
+     <form method="post" action="./" onsubmit="javascript:return WebForm_OnSubmit();" id="Form1" class="form"> 
+      <div class="aspNetHidden"> 
+       <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value=""> 
+       <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value=""> 
+       <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="xQg74T/PdzgXIl7buwyDI7QpjZgRzlnUwZZX/SeTmc9fO8w+jeL6rYyauSBi1BjQyWai4RO9TUl4PkNXX39OYeE3WAU="> 
+      </div> 
+      <script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['Form1'];
+if (!theForm) {
+    theForm = document.Form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script> 
+      <script src="/mdwfp/boat_registration/WebResource.axd?d=zQoiTf-a8dSjZDmxKIl0UM41B5v0EM7-DrQgBMD5yZmynAAXItYgQNGgEx03DCllY5IgbEtx4JgT3oQ68JquZ_Jt0_U1&amp;t=636765211280000000" type="text/javascript"></script> 
+      <script src="/mdwfp/boat_registration/ScriptResource.axd?d=sSZMvc6IvvwDluyt65RJHZlm3vnqyhYPHHxChd0h4NoXN8ptQxjqUBfeuRN46Sbbr-IdRTu-4jWvBjhzvV9CkeGcOWMn9sNDZ2NOv2aIhpJ-923TRFi5y03u5eWvVDSMWlwOXETRvvJRIS-jm4g0--y5B801&amp;t=29665526" type="text/javascript"></script> 
+      <script src="/mdwfp/boat_registration/ScriptResource.axd?d=U4YjDcj1eVC5IRHjkKFuNh-Pue6trP2IcdwJJ3JOlNJNna4nm66Y-fmDKtJrMOHA2Le17C_v2e1PWHF9g89mLezoA_13UTHJM5K-3mMcq5SXCmQ00&amp;t=734d43f5" type="text/javascript"></script> 
+      <script src="/mdwfp/boat_registration/ScriptResource.axd?d=iA-PoDpzm9VTbKuHVEHD_y8yZ7IAlW7LaXmUndPOV4K3NYCyPOcX7BBInCyIYwxyW6fqXMb7P9yr2HUD7HrLYmJJS0MJAuPVgpIXr5sB43TH7pUK66BMKdjihYxbiDRciNdkpg2&amp;t=734d43f5" type="text/javascript"></script> 
+      <script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script> 
+      <div class="aspNetHidden"> 
+       <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="754B52CC"> 
+       <input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value=""> 
+      </div> 
+      <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager1', 'Form1', ['tUpdatePanel1','UpdatePanel1'], ['btnNext','btnNext'], [], 90, '');
+//]]>
+</script> 
+      <div id="UpdatePanel1"> 
+       <div> 
+        <div id="ValidationSummary1" class="errorMessage" style="display:none;"> 
+        </div> 
+       </div> 
+       <p>Please enter your MI Number and HIN or Serial Number exactly as it appears on your boat registration renewal postcard or boat registration decal, and then click <strong class="emphasis01">NEXT</strong>. </p> 
+       <hr> 
+       <div class="field"> 
+        <label> <span class="required">*</span>MI Number:<br> <strong>MI</strong> </label> 
+        <input name="txtmi01" type="text" id="txtmi01" maxlength="4" onkeyup="checkLen(this,this.value)" class="horizontalDisplay" size="12">
+        <input name="txtmi02" type="text" id="txtmi02" maxlength="2" class="horizontalDisplay" size="7"> 
+       </div> 
+       <div class="field"> 
+        <label><span class="required">*</span>HIN or Serial Number: </label> 
+        <input name="txtHIN" type="text" id="txtHIN" maxlength="19"> 
+       </div> 
+       <hr> 
+       <div class="field field-block"> 
+        <input type="submit" name="btnNext" value="Next >>" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;btnNext&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="btnNext" class="button01">&nbsp;&nbsp; 
+        <input type="submit" name="btnCancel" value="Cancel" id="btnCancel" class="button02"> 
+       </div> 
+       <br> 
+       <div id="UpdateProgress2" style="display:none;"> 
+        <div id="progressBackgroundFilter"></div> 
+        <div id="processMessage"> 
+         <img alt="Processing" src="images/ajax-loader-old.gif"> 
+        </div> 
+       </div> 
+      </div> 
+      <div> 
+       <span id="cvimi01" style="display:none;"></span> 
+       <span id="cvimi02" style="display:none;"></span> 
+       <span id="cvHIN" style="display:none;"></span> 
+      </div> 
+      <script type="text/javascript">
+//<![CDATA[
+var Page_ValidationSummaries =  new Array(document.getElementById("ValidationSummary1"));
+var Page_Validators =  new Array(document.getElementById("cvimi01"), document.getElementById("cvimi02"), document.getElementById("cvHIN"));
+//]]>
+</script> 
+      <script type="text/javascript">
+//<![CDATA[
+var ValidationSummary1 = document.all ? document.all["ValidationSummary1"] : document.getElementById("ValidationSummary1");
+ValidationSummary1.displaymode = "List";
+var cvimi01 = document.all ? document.all["cvimi01"] : document.getElementById("cvimi01");
+cvimi01.controltovalidate = "txtmi01";
+cvimi01.focusOnError = "t";
+cvimi01.errormessage = "MI Number textbox #1 is Required";
+cvimi01.display = "None";
+cvimi01.evaluationfunction = "CustomValidatorEvaluateIsValid";
+cvimi01.clientvalidationfunction = "validateInlineValue";
+cvimi01.validateemptytext = "true";
+var cvimi02 = document.all ? document.all["cvimi02"] : document.getElementById("cvimi02");
+cvimi02.controltovalidate = "txtmi02";
+cvimi02.focusOnError = "t";
+cvimi02.errormessage = "MI Number textbox #2 is Required";
+cvimi02.display = "None";
+cvimi02.evaluationfunction = "CustomValidatorEvaluateIsValid";
+cvimi02.clientvalidationfunction = "validateInlineValue";
+cvimi02.validateemptytext = "true";
+var cvHIN = document.all ? document.all["cvHIN"] : document.getElementById("cvHIN");
+cvHIN.controltovalidate = "txtHIN";
+cvHIN.focusOnError = "t";
+cvHIN.errormessage = "HIN or Serial Number is Required";
+cvHIN.display = "None";
+cvHIN.evaluationfunction = "CustomValidatorEvaluateIsValid";
+cvHIN.clientvalidationfunction = "validateValue";
+cvHIN.validateemptytext = "true";
+//]]>
+</script> 
+      <script type="text/javascript">
+//<![CDATA[
+
+(function(id) {
+    var e = document.getElementById(id);
+    if (e) {
+        e.dispose = function() {
+            Array.remove(Page_ValidationSummaries, document.getElementById(id));
+        }
+        e = null;
+    }
+})('ValidationSummary1');
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        Sys.Application.add_init(function() {
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":null,"displayAfter":500,"dynamicLayout":true}, null, null, $get("UpdateProgress2"));
+});
+
+document.getElementById('cvimi01').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('cvimi01'));
+}
+
+document.getElementById('cvimi02').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('cvimi02'));
+}
+
+document.getElementById('cvHIN').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('cvHIN'));
+}
+//]]>
+</script> 
+     </form> 
+    </div> 
+    <!-- End All Content here --> 
+   </div> 
+   <div id="Slice006_"> 
+    <img id="Slice006" src="images/Slice-06.png" width="1026" height="95" alt=""> 
+   </div> 
+   <div id="footer"> 
+    <div class="msGovLogo"> 
+     <a href="http://www.ms.gov" target="_blank"> <img src="images/msGov.png" width="174" height="100" alt="visit the ms.gov website"></a> 
+    </div> Mississippi Department of Wildlife, Fisheries, &amp; Parks. All Rights Reserved. ©2012
+    <br> 
+    <br> 
+    <div class="support">
+      For policy-related questions, please contact: call (601) 432-2400. 
+     <br> For technical support with the site, please contact: 
+     <a href="mailto:support@msegov.com">support@msegov.com </a>or call (601) 351-5023.
+     <br> 
+     <br> 
+     <a href="https://www.transparency.mississippi.gov/home.php" target="_blank">Transparency Mississippi</a> | 
+     <a href="http://new.ms.gov/content/Pages/Privacy.aspx" target="_blank">Privacy Policy</a> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- End Save for Web Slices -->  
+ </body>
+</html>

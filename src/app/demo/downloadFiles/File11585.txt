@@ -1,0 +1,591 @@
+<!doctype html>
+<html lang="en" dir="ltr" prefix="fb: //www.facebook.com/2008/fbml">
+ <head> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <!-- Google Tag Manager --> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-WLMC86');</script> 
+  <!-- End Google Tag Manager --> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <link rel="shortcut icon" href="https://www.archives.gov/files/apple-icon.png" type="image/png"> 
+  <meta name="description" content="Start Your Family Research"> 
+  <meta name="generator" content="Drupal 7 (http://drupal.org)"> 
+  <link rel="canonical" href="https://www.archives.gov/research/genealogy"> 
+  <meta property="og:site_name" content="National Archives"> 
+  <meta property="og:type" content="article"> 
+  <meta property="og:url" content="https://www.archives.gov/research/genealogy"> 
+  <meta property="og:title" content="Resources for Genealogists and Family Historians"> 
+  <meta property="og:description" content="Start Your Family Research"> 
+  <meta property="og:updated_time" content="2019-05-09T11:42:31-04:00"> 
+  <meta name="twitter:card" content="summary"> 
+  <meta name="twitter:url" content="https://www.archives.gov/research/genealogy"> 
+  <meta name="twitter:title" content="Resources for Genealogists and Family Historians"> 
+  <meta name="twitter:description" content="Start Your Family Research"> 
+  <meta property="article:published_time" content="2016-09-12T16:30:46-04:00"> 
+  <meta property="article:modified_time" content="2019-05-09T11:42:31-04:00"> 
+  <title>Resources for Genealogists and Family Historians | National Archives</title> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_9Q-k-fv_k3FHvcs9CSZ2iD5CTqFxrfaej2FCw2mYIoA.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_BTbypzlNYVbptuza8qzKwXCnB4TjuEzUY43Cz2FsXVA.css" media="all"> 
+  <style>.section-theme #title-bar{background:#29393b url("https://www.archives.gov/files/global-images/section-headers/genealogy1.png") no-repeat center right;}.section-theme #mega-footer > h2{background:#29393b}.section-theme #title-bar .breadcrumb{background-color:#425E62;}.section-theme th{background-color:#29393b !important;}
+</style> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_NkrvYXS3XFN6HNXLylk-Jr8h6vd7bMQSZUSOsRKtvhE.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_adYIwY5AiFQ05gx1uTxNpkKu9JMeTmi7MedA-D3wWww.css" media="all"> 
+  <!-- HTML5 element support for IE6-8 --> 
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]--> 
+  <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic|Merriweather"> 
+  <script src="https://www.archives.gov/files/js/js_0RyHJ63yYLuaWsodCPCgSD8dcTIA0dqcDf8-7c2XdBw.js"></script> 
+  <script src="https://www.archives.gov/files/js/js_0pQJ_xts95IaRyXneDD9tPnYjBy63RQPzNHeLe2LDCg.js"></script> 
+  <script src="https://www.archives.gov/files/js/js_4DGuaDZ5Ckd4u9axaS2f90X-RYp7QlC5RWbsjSLu2-8.js"></script> 
+  <script src="https://www.archives.gov/files/js/js_KyGDO1Fxjv5b9iLtei_bvtKprP3C83MXZ8wgYXbj8bA.js"></script> 
+  <script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"nara","theme_token":"oK3k3xcAHsknN44nAUYOXvAem3tjcp5yW-m5qKfJIN4","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/custom\/archives_ui\/scripts\/helptext.js":1,"sites\/all\/modules\/custom\/argentina\/js\/script.js":1,"sites\/all\/modules\/custom\/nara_catalog\/js\/script.js":1,"sites\/all\/modules\/contrib\/user_alert\/js\/user-alert.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/custom\/nara_custom\/js\/nara_custom.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/affix.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/alert.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/button.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/carousel.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/collapse.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/dropdown.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/modal.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/tooltip.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/popover.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/scrollspy.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/tab.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/transition.js":1,"sites\/all\/themes\/nara\/scripts\/jPanelMenu.js":1,"sites\/all\/themes\/nara\/scripts\/jRespond.js":1,"sites\/all\/themes\/nara\/scripts\/matchHeight.min.js":1,"sites\/all\/themes\/nara\/scripts\/jquery.fancybox.pack.js":1,"sites\/all\/themes\/nara\/scripts\/toc.js":1,"sites\/all\/themes\/nara\/scripts\/scripts.js":1,"sites\/all\/themes\/nara\/scripts\/jquery.scrollTo.js":1,"sites\/all\/themes\/nara\/scripts\/mediagallery.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/custom\/archives_ui\/css\/font-awesome.min.css":1,"sites\/all\/modules\/custom\/archives_ui\/css\/helptext.css":1,"sites\/all\/modules\/custom\/archives_ui\/css\/ckeditor_custom.css":1,"sites\/all\/modules\/custom\/argentina\/css\/argentina_style.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/custom\/liaisons\/css\/liaisons_style.css":1,"sites\/all\/modules\/custom\/nara_catalog\/css\/nara-api-style.css":1,"sites\/all\/modules\/archive_features\/nara_timeline\/css\/custom.css":1,"sites\/all\/modules\/archive_features\/nara_timeline\/css\/timeline.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/user_alert\/css\/user-alert.css":1,"sites\/all\/modules\/custom\/varnish_purge\/css\/varnishpurge.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"0":1,"sites\/all\/modules\/custom\/nara_custom\/css\/nara_custom.css":1,"sites\/all\/themes\/nara\/css\/jquery.fancybox.css":1,"sites\/all\/themes\/nara\/css\/jquery.fancybox-thumbs.css":1,"sites\/all\/themes\/nara\/css\/do_not_edit.css":1,"sites\/all\/themes\/nara\/css\/bootstrap.min.css":1,"sites\/all\/themes\/nara\/css\/styles.css":1,"sites\/all\/themes\/nara\/css\/vertical-tabs.css":1,"sites\/all\/themes\/nara\/css\/overrides.css":1,"sites\/all\/themes\/nara\/css\/mediagallery.css":1}},"archives_ui":{"trustedDomains":["twitter\\.com","youtube\\.com","youtu\\.be","recordsofrights\\.org","presidentialtimeline\\.org","nationalarchivesstore\\.org","bush41\\.org","nara\\.learn\\.com","bush41\\.org","bushlibrary\\.tamu\\.edu","fdrlibrary\\.marist\\.edu","georgewbushlibrary\\.smu\\.edu","lbjlibrary\\.org","trumanlibrary\\.org","fdrlibrary\\.org","archivesfoundation\\.org","jfklibrary\\.org","Myarchivesstore\\.org","docsteach\\.org","digitalvaults\\.org","jfk50\\.org","reagan\\.utexas\\.edu","clinton\\.presidentiallibraries\\.us","fdrlibrary\\.org","us11\\.campaign-archive.?\\.com","lbjlibrary\\.net","github\\.io","github\\.com","eventbrite\\.com","facebook\\.com","pinterest\\.com","tumblr\\.com","google\\.com","historypin\\.org","giphy\\.com","instagram\\.com","flickr\\.com","foursquare\\.com","addthis\\.com","apple\\.com","georgebushfoundation\\.org","clintonpresidentialcenter\\.org","geraldrfordfoundation\\.org","reaganfoundation\\.org","rooseveltinstitute\\.org","socialarchive\\.iath\\.virginia.edu","s3\\.amazonaws\\.com","surveymonkey\\.com","storify\\.com","constantcontact\\.com","snaccooperative\\.org"]},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"user_alert":{"url_prefix":"","current_path":"research\/genealogy"},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script> 
+  <style type="text/css">
+div.form-item-body-und-0-format {
+	display:none;
+}
+div.form-item-field-col-b-und-0-format {
+	display:none;
+}
+div.filter-guidelines {
+	display:none;
+}
+div.filter-help {
+	display:none;
+}
+</style> 
+  <style type="text/css">
+ul.nav-tabs {
+display:none;
+}
+#block-workbench-block {
+display:none;
+}
+</style> 
+ </head> 
+ <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-39928 node-type-3-col-page "> 
+  <!-- Google Tag Manager (noscript) --> 
+  <noscript>
+   <iframe alt="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-WLMC86" height="0" width="0" style="display:none;visibility:hidden" title="Google Tag Manager"></iframe>
+  </noscript> 
+  <!-- End Google Tag Manager (noscript) --> 
+  <div id="background-gradient"> 
+   <div class="wrapper section-theme "> 
+    <a class="back-to-top" href="#page-header" style="display: none;">Top</a> 
+    <div id="skip-link"> 
+     <a href="#main-col" class="element-invisible element-focusable">Skip to main content</a> 
+    </div> 
+    <div class="wrapper section-theme"> 
+     <header id="page-header"> 
+      <div class="region region-header"> 
+       <section id="block-block-53" class="block block-block clearfix"> 
+        <div class="col-sm-6" id="logo-wrapper"> 
+         <div id="logo">
+          <a href="/">The U.S. National Archives Home</a>
+         </div> 
+         <button id="nav-toggle" class="navbar-toggle" type="button"></button> 
+        </div> 
+        <div class="col-sm-6" id="search-wrapper"> 
+         <div id="top-links"> 
+          <a class="noBorder" href="/social-media/blogs.html">Blogs</a> · 
+          <script type="text/javascript">// <![CDATA[
+        var addthis_pub = "usarchives";
+        var addthis_offset_left = -40;
+        var addthis_brand = "Archives.gov";
+        // ]]></script> 
+          <a class="addthisLink" onclick="return addthis_sendto();" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]');" onmouseout="addthis_close();" onfocus="return addthis_open(this, '', '[URL]', '[TITLE]');" onblur="addthis_close();" href="https://www.addthis.com/bookmark.php?v=250">Bookmark/Share</a> · 
+          <script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js"></script> 
+          <a href="/contact">Contact Us</a> 
+         </div> 
+         <div class="input-group" id="site-search"> 
+          <form action="https://search.archives.gov/search" method="get" name="search"> 
+           <input class="form-control" id="qt" accesskey="s" type="text" name="query" placeholder="Search Archives.gov" title="Search Archives.gov"> 
+           <span class="input-group-btn"> <button class="btn btn-default" id="go" type="submit" name="submit">Search</button> </span> 
+           <input type="hidden" value="" name="utf8"> 
+           <input id="affiliate" type="hidden" value="national-archives" name="affiliate"> 
+          </form> 
+         </div> 
+        </div> 
+       </section> 
+      </div> 
+     </header> 
+     <!-- /#page-header --> 
+     <nav id="main-nav" class="clearfix "> 
+      <h2 class="element-invisible">Main menu</h2>
+      <ul id="main-menu-links" class="links clearfix make-eq">
+       <li class="menu-859 first research"><a href="/research" title="Explore our nation's history through our documents, photographs, and records." id="research">Research Our Records</a></li> 
+       <li class="menu-860 veterans"><a href="/veterans" title="Request military records and learn about other services for yourself or a family member." id="veterans" class="veterans">Veterans' Service Records</a></li> 
+       <li class="menu-861 teachers"><a href="/education" title="Engage students with lesson plans and other classroom materials." id="teachers" class="teachers">Educator Resources</a></li> 
+       <li class="menu-862 locations"><a href="/locations" title="Plan a trip to a facility near you or learn about our national network of locations and services." id="locations" class="locations">Visit Us</a></li> 
+       <li class="menu-367 last shop"><a href="/founding-docs" title="Order books, gift items, photographic prints, and document reproductions online." id="shop" class="shop">America's Founding Documents</a></li> 
+      </ul> 
+     </nav>
+     <!-- /main-nav --> 
+     <div class="page-body-wrapper"> 
+      <div id="page-body" class="no-sidebar"> 
+       <header id="title-bar"> 
+        <p>Resources for Genealogists</p> 
+        <div class="breadcrumb"> 
+         <a href="/">Home</a> &gt; 
+         <a href="/research">Research Our Records</a> &gt; Resources for Genealogists 
+        </div>
+        <!-- /breadcrumbs --> 
+       </header> 
+       <div class="row"> 
+        <nav class="col-sm-2"> 
+         <aside id="sidebar-first"> 
+          <nav id="left-menu" class=""> 
+           <h3>Getting Started</h3> 
+           <ul> 
+            <li><a href="/research/genealogy/start-research/">Start Your Genealogy Research</a></li> 
+            <li> <a class="pptImage" href="/files/research/genealogy/start-research/beginning-research.ppt">Genealogy Tutorial</a> (Powerpoint)</li> 
+            <li><a href="/research/genealogy/topics.html">Genealogy Research Topics</a></li> 
+            <li><a href="/research/genealogy/charts-forms/">Charts and Forms</a></li> 
+           </ul> 
+           <h3>Genealogy Guides</h3> 
+           <ul> 
+            <li><a href="/research/genealogy/start-research/nara-resources.html">Genealogy Resources</a></li> 
+            <li><a href="/research/genealogy/reference-reports.html">Reference Reports</a></li> 
+            <li><a href="/research/military/genealogy.html">Genealogy Research Using Military Records</a></li> 
+            <li><a href="/preservation/family-archives/">Preserving Family Records</a></li> 
+           </ul> 
+           <h3>Tools for Genealogists</h3> 
+           <ul> 
+            <li><a href="/research/start/online-tools.html">Online Research Tools</a></li> 
+            <li><a href="/research/genealogy/start-research/links.html">Other Websites</a></li> 
+            <li><a href="/research/genealogy/online-catalog-guide.html">National Archives Catalog Guide for Genealogists</a></li> 
+            <li><a href="https://historyhub.history.gov/community/genealogy?utm_campaign=archivesgovlinks&amp;utm_source=genealogymenu&amp;utm_medium=website">Ask Genealogy Questions on History Hub</a></li> 
+           </ul> 
+           <h3>More Ways to Learn</h3> 
+           <ul> 
+            <li><a href="/research/genealogy/events/">Genealogy Workshops</a></li> 
+            <li><a href="/research/genealogy/start-research/faqs.html">Genealogy FAQs</a></li> 
+           </ul> 
+           <div class="nwidget nsnippet" data-name="print-page-left" data-version="1"> 
+            <div>
+             <a class="buttonLink surveillance-camera" href="/research/start/researcher-card.html#orientation"><span>Orientation for on-site Researchers</span></a>
+            </div> 
+            <h3>Free at National Archives Facilities</h3> 
+            <ul> 
+             <li><a href="http://www.ancestryinstitution.com">Ancestry</a></li> 
+             <li><a href="http://www.fold3.com/nara.php">Fold3</a></li> 
+             <li><a href="/research/databases/">More Online Databases</a></li> 
+            </ul> 
+           </div> 
+          </nav> 
+         </aside> 
+         <!-- /#sidebar-first --> 
+        </nav> 
+        <div id="main-col" class="col-sm-7"> 
+         <p id="print-logo"> <img src="/sites/all/themes/nara/images/nara-print-logo.jpg" alt="National Archives Logo"> </p> 
+         <div class="region region-content"> 
+          <section id="block-system-main" class="block block-system clearfix"> 
+           <div class="nwidget nlayout ncolumns row make-eq" data-columns="2x1_2"> 
+            <div class="col-sm-6"> 
+             <div class="nwidget ncontainer nlarge_box" data-additional-classes="" data-alt-tag="family tree" data-image="/files/global-images/portal/small/family-tree.jpg" data-title="Start Your Family Research" data-version="1"> 
+              <div class="panel panel-default box box-lg clearfix "> 
+               <div class="panel-heading"> 
+                <h2>Start Your Family Research</h2> 
+               </div> 
+               <div class="panel-body"> 
+                <div class="box-image">
+                 <img alt="family tree" src="/files/global-images/portal/small/family-tree.jpg">
+                </div> 
+                <div class="box-content"> 
+                 <p>Learn how you can use the resources at the National Archives to explore your family's ancestry.</p> 
+                 <ul> 
+                  <li><a href="/research/genealogy/start-research/">Start Your Genealogy Research</a></li> 
+                  <li><a href="/research/genealogy/start-research/nara-resources.html">Genealogy Resources</a></li> 
+                  <li><a href="/research/military/genealogy.html">Genealogy Research Using Military Records</a></li> 
+                  <li><a href="/research/genealogy/reference-reports.html">Reference Reports</a></li> 
+                  <li><a href="/digitization/digitized-by-partners">Records Digitized by our Partners</a></li> 
+                 </ul> 
+                </div> 
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+            <div class="col-sm-6"> 
+             <div class="nwidget ncontainer nlarge_box" data-additional-classes="" data-alt-tag="mouse" data-image="/files/global-images/portal/large/mouse.jpg" data-title="Browse Popular Topics" data-version="1"> 
+              <div class="panel panel-default box box-lg clearfix "> 
+               <div class="panel-heading"> 
+                <h2>Browse Popular Topics</h2> 
+               </div> 
+               <div class="panel-body"> 
+                <div class="box-image">
+                 <img alt="mouse" src="/files/global-images/portal/large/mouse.jpg">
+                </div> 
+                <div class="box-content"> 
+                 <p>Explore genealogy resources <a href="/research/genealogy/topics/"> </a>related to specific topics:</p> 
+                 <ul> 
+                  <li><a href="/research/genealogy/census/">Census Records</a></li> 
+                  <li><a href="/research/genealogy/ethnic-heritage.html">Ethnic Heritage</a></li> 
+                  <li><a href="/research/military/">Military Service Records</a></li> 
+                  <li><a href="/research/immigration/">Immigration&nbsp;Records</a></li> 
+                  <li><a href="/research/naturalization/">Naturalization Records</a></li> 
+                  <li><a href="/research/genealogy/topics/">More Topics</a></li> 
+                 </ul> 
+                </div> 
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+           <div class="nwidget nlayout ncolumns row make-eq" data-columns="2x1_2"> 
+            <div class="col-sm-6"> 
+             <div class="nwidget ncontainer nlarge_box" data-additional-classes="" data-alt-tag="note pad" data-image="/files/global-images/portal/medium/pad-of-paper.png" data-title="Events" data-version="1"> 
+              <div class="panel panel-default box box-lg clearfix "> 
+               <div class="panel-heading"> 
+                <h2>Events</h2> 
+               </div> 
+               <div class="panel-body"> 
+                <div class="box-image">
+                 <img alt="note pad" src="/files/global-images/portal/medium/pad-of-paper.png">
+                </div> 
+                <div class="box-content"> 
+                 <ul> 
+                  <li><a href="/research/genealogy/events/">Genealogy Workshops Nationwide</a></li> 
+                  <li><a href="/calendar/know-your-records/">Genealogy Events in the Washington, DC Area</a></li> 
+                  <li><a href="/calendar/">National Archives Calendar</a></li> 
+                 </ul> 
+                </div> 
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+            <div class="col-sm-6"> 
+             <div class="nwidget ncontainer nlarge_box" data-additional-classes="" data-alt-tag="magnifying glass" data-image="/files/global-images/portal/medium/magnifying-glass.jpg" data-title="Tools for Genealogists" data-version="1"> 
+              <div class="panel panel-default box box-lg clearfix "> 
+               <div class="panel-heading"> 
+                <h2>Tools for Genealogists</h2> 
+               </div> 
+               <div class="panel-body"> 
+                <div class="box-image">
+                 <img alt="magnifying glass" src="/files/global-images/portal/medium/magnifying-glass.jpg">
+                </div> 
+                <div class="box-content"> 
+                 <ul> 
+                  <li><a href="/research/databases/.">Free Databases at National Archives Facilities</a></li> 
+                  <li><a href="/research/start/online-tools.html">Online Research Tools</a></li> 
+                  <li><a href="/research/genealogy/start-research/links.html">Related Sites</a></li> 
+                  <li><a href="/research/genealogy/online-catalog-guide.html">National Archives Catalog Guide for Genealogists</a></li> 
+                  <li><a href="/research/genealogy/charts-forms/">Charts and Forms</a></li> 
+                 </ul> 
+                </div> 
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+           <div class="nwidget nlayout ncolumns row make-eq" data-columns="3x1_3"> 
+            <div class="col-sm-4">
+             <a href="http://1940census.archives.gov/"><img alt="" class="width100" src="/files/global-images/buttons/button-census-1940-side.gif"></a>
+            </div> 
+            <div class="col-sm-4"> 
+             <div class="nwidget ncontainer nsmall_box box box-sm clearfix " data-additional-classes="" data-alt-tag="folders and magnifying glass" data-image="/files/global-images/portal/small/file-folders.jpg" data-link="/publications/prologue/genealogy-notes" data-title="Genealogy-Related Articles" data-version="1">
+              <a href="/publications/prologue/genealogy-notes"> 
+               <div class="box-image">
+                <img alt="folders and magnifying glass" src="/files/global-images/portal/small/file-folders.jpg">
+               </div> 
+               <div class="box-content"> 
+                <h3>Genealogy-Related Articles</h3> 
+               </div> </a>
+             </div> 
+            </div> 
+            <div class="col-sm-4"> 
+             <div class="nwidget ncontainer nsmall_box box box-sm clearfix " data-additional-classes="" data-alt-tag="photo album" data-image="/files/global-images/portal/small/photo-album.jpg" data-link="/preservation/family-archives/" data-title="Caring for Your Family Records" data-version="1">
+              <a href="/preservation/family-archives/"> 
+               <div class="box-image">
+                <img alt="photo album" src="/files/global-images/portal/small/photo-album.jpg">
+               </div> 
+               <div class="box-content"> 
+                <h3>Caring for Your Family Records</h3> 
+               </div> </a>
+             </div> 
+            </div> 
+           </div> 
+           <div class="nwidget nlayout ncolumns row " data-columns="3x1_3"> 
+            <div class="col-sm-4"> 
+             <div class="nwidget ncontainer nsmall_box box box-sm clearfix " data-additional-classes="" data-alt-tag="History Hub" data-image="/files/global-images/logos/history-hub-small-50.png" data-link="https://historyhub.history.gov/community/genealogy" data-title="Ask Genealogy Questions on History Hub" data-version="1">
+              <a href="https://historyhub.history.gov/community/genealogy"> 
+               <div class="box-image">
+                <img alt="History Hub" src="/files/global-images/logos/history-hub-small-50.png">
+               </div> 
+               <div class="box-content"> 
+                <h3>Ask Genealogy Questions on History Hub</h3> 
+               </div> </a>
+             </div> 
+             <p>&nbsp;</p> 
+            </div> 
+            <div class="col-sm-4"> 
+             <div class="nwidget ncontainer nsmall_box box box-sm clearfix " data-additional-classes="" data-alt-tag="Scanning documents" data-image="/files/research/african-americans/images/citizen-scanning.jpg" data-link="/innovation-hub" data-title="Innovation Hub" data-version="1">
+              <a href="/innovation-hub"> 
+               <div class="box-image">
+                <img alt="Scanning documents" src="/files/research/african-americans/images/citizen-scanning.jpg">
+               </div> 
+               <div class="box-content"> 
+                <h3>Scan Records&nbsp;in the&nbsp;Hub</h3> 
+               </div> </a>
+             </div> 
+             <p>&nbsp;</p> 
+            </div> 
+            <div class="col-sm-4"> 
+             <div class="nwidget ncontainer nsmall_box box box-sm clearfix " data-additional-classes="" data-alt-tag="Copy machine" data-image="/files/global-images/portal/small/copier.png" data-link="/research/order" data-title="Order Copies of Records" data-version="1">
+              <a href="/research/order"> 
+               <div class="box-image">
+                <img alt="Copy machine" src="/files/global-images/portal/small/copier.png">
+               </div> 
+               <div class="box-content"> 
+                <h3>Order Copies of Records</h3> 
+               </div> </a>
+             </div> 
+             <p>&nbsp;</p> 
+            </div> 
+           </div> 
+           <div class="nwidget ncontainer nlarge_box" data-additional-classes="" data-alt-tag="History Hub" data-body_text="<style type=&quot;text/css&quot;>#creditfooter {
+    display: none;
+}</style><!--{cke_protected}%3Cscript%20src%3D%22https%3A%2F%2Ffeeds.feedburner.com%2FHistoryHubGenealogy%3Fformat%3Dsigpro%22%20type%3D%22text%2Fjavascript%22%20%3E%3C%2Fscript%3E--><!--{cke_protected}%3Cnoscript%3E%3Cp%3ESubscribe%20to%20RSS%20headline%20updates%20from%3A%20%3Ca%20href%3D%22https%3A%2F%2Ffeeds.feedburner.com%2FHistoryHubGenealogy%22%3E%3C%2Fa%3E%3Cbr%2F%3EPowered%20by%20FeedBurner%3C%2Fp%3E%20%3C%2Fnoscript%3E-->" data-image="/files/global-images/logos/history-hub-medium-150.png" data-title="What are people asking on History Hub?" data-version="1"> 
+            <div class="panel panel-default box box-lg clearfix "> 
+             <div class="panel-heading"> 
+              <h2>What are people asking on History Hub?</h2> 
+             </div> 
+             <div class="panel-body"> 
+              <div class="box-image">
+               <img alt="History Hub" src="/files/global-images/logos/history-hub-medium-150.png">
+              </div> 
+              <div class="box-content"> 
+               <style type="text/css">#creditfooter {
+    display: none;
+}
+        </style> 
+               <script src="https://feeds.feedburner.com/HistoryHubGenealogy?format=sigpro" type="text/javascript"></script>
+               <noscript>
+                <p>Subscribe to RSS headline updates from: <a href="https://feeds.feedburner.com/HistoryHubGenealogy"></a><br>Powered by FeedBurner</p> 
+               </noscript> 
+               <p>&nbsp;</p> 
+               <p><a class="moreLink" href="https://historyhub.history.gov/community/genealogy?utm_campaign=archivesgovlinks&amp;utm_source=genealogyrsslink&amp;utm_medium=website">Find answers to your genealogy questions on <strong>History Hub</strong></a></p> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+           <p>&nbsp;</p> 
+          </section> 
+         </div> 
+        </div> 
+        <a name="sidebar"></a> 
+        <div id="sidebar" class="col-sm-3"> 
+         <aside id="sidebar-second"> 
+          <div> 
+           <div class="nwidget nnews news-block" data-items="5" data-subject="10620" data-title="Genealogy News"> 
+            <div class="widget-placeholder">
+             News
+            </div> 
+            <div class="dynamic-widget">
+             <div>
+              <section class="block"> 
+               <h2>Genealogy News</h2> 
+               <ul> 
+                <li><a href="/news/topics/asian-pacific-american-heritage-month">Asian American and Pacific Islander Heritage Month</a></li> 
+                <li><a href="https://www.archives.gov/news/articles/last-american-death-wwi">Records Shed Light on Last American Killed in World War I</a></li> 
+                <li><a href="https://www.archives.gov/news/articles/genealogy-fair-offers-family-history-research-tools">Virtual Fair Reaches Thousands of Genealogists Across the Globe</a></li> 
+                <li><a href="https://www.archives.gov/topics/wwi">World War I Centennial: Uncover the Many Resources at the National Archives</a></li> 
+               </ul> 
+              </section>
+             </div>
+            </div> 
+           </div> 
+           <div class="nwidget nevents events-block" data-items="5" data-location="" data-subject="10666" data-title="Genealogy Events"> 
+            <div class="widget-placeholder">
+             Events
+            </div> 
+           </div> 
+          </div> 
+          <div class="nwidget layout block title-box " data-title="Can I start my family history research by typing a name in the search box?"> 
+           <h2>Can I start my family history research by typing a name in the search box?</h2> 
+           <p>Our search box will not help you find information on a specific person. &nbsp;However, we have many <a href="/research/genealogy/start-research/nara-resources.html">tools and resources</a> that can lead you to information about our holdings. &nbsp;Many of our records have been digitized and are&nbsp;made available by our <a href="http://www.archives.gov/digitization/digitized-by-partners.html">Digitization Partners</a>.</p> 
+          </div> 
+          <div class="nwidget layout block title-box clearfix " data-additional-classes="" data-title="What's New?"> 
+           <h2>What's New?</h2> 
+           <p><strong><a href="/calendar/event/genealogy-fair">Virtual Genealogy Fair</a></strong>&nbsp;- live broadcast on October 24!</p> 
+           <p><a href="/research/genealogy/maps">Maps at NARA of interest to Genealogists</a></p> 
+           <p><a href="/research/genealogy/pictures">Pictures at NARA of interest to Genealogists</a></p> 
+          </div> 
+          <div> 
+           <p><img alt="" class="nwidget nimage width27" data-additional-classes="" data-alignment="" data-frame="" data-image_width="27" src="/files/founding-docs/shoppingbagconstitution.png"></p> 
+           <div class="nwidget nsnippet" data-name="shop-store" data-version="1"> 
+            <div class="widget-placeholder">
+             Snippet
+            </div> 
+            <div class="dynamic-widget">
+             <p><a class="moreLink" href="https://www.nationalarchivesstore.org/?utm_campaign=2019eStore&amp;utm_medium=website&amp;utm_source=nara&amp;utm_content=organic">Shop the <strong>National Archives Store</strong></a></p> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="nwidget ncontainer nlarge_box" data-additional-classes="" data-alt-tag="old letter" data-body_text="" data-image="/files/research/african-americans/images/transcription-s.jpg" data-title="Help Us Transcribe!" data-version="1"> 
+           <div class="panel panel-default box box-lg clearfix "> 
+            <div class="panel-heading"> 
+             <h2>Help Us Transcribe!</h2> 
+            </div> 
+            <div class="panel-body"> 
+             <div class="box-image">
+              <img alt="old letter" src="/files/research/african-americans/images/transcription-s.jpg">
+             </div> 
+             <div class="box-content"> 
+              <p>Help us to transcribe records related to African Americans!</p> 
+              <p>Transcription of documents helps improve search results in the catalog, and it provides better access.</p> 
+              <ul> 
+               <li><a href="/citizen-archivist/registerandgetstarted" target="_blank">Learn how to start</a></li> 
+               <li><a href="https://catalog.archives.gov/search?q=*:*&amp;f.oldScope=(descriptions%20or%20online)&amp;f.tagsKeywordsAdv=afam916-ts&amp;SearchType=advanced&amp;rows=100">Transcribe now!</a></li> 
+              </ul> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="nwidget layout block title-box clearfix " data-additional-classes="" data-title="Other Learning Resources"> 
+           <h2>Other Learning Resources</h2> 
+           <ul class="lines"> 
+            <li><a href="/calendar/genealogy-fair/">Videos from our Virtual Genealogy Fair</a></li> 
+            <li><a href="https://www.youtube.com/playlist?list=PLC641EF0E3F8AFDF9">Videos from our "Know Your Records" series</a></li> 
+            <li><a href="https://historyhub.history.gov/welcome">History Hub</a></li> 
+           </ul> 
+          </div> 
+         </aside> 
+         <!-- /#sidebar-second --> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <!-- page-body-wrapper --> 
+     <footer id="page-footer"> 
+      <div class="clearfix row last-update-wrapper "> 
+       <p id="last-update"> <span class="glyphicon glyphicon-edit"></span> This page was last reviewed on May 9, 2019.<br> <a href="/contact">Contact us with questions or comments</a>. </p> 
+      </div> 
+      <section id="mega-footer" class="clearfix panel-group"> 
+       <h2 class="footer-title"> Genealogy</h2> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#online-research">Online Research</a></h2> 
+        </div> 
+        <div id="online-research" class="panel-collapse"> 
+         <ul>
+          <li><a href="/research/topics/">By Topic</a></li> 
+          <li><a href="/research/start/by-format">By Media Type</a></li> 
+          <li><a href="/research/start/by-organization">By Government Organization</a></li> 
+          <li><a href="/presidential-libraries/research/">Presidential Materials</a></li> 
+          <li><a href="http://aad.archives.gov/aad/">Access to Archival Databases</a></li> 
+          <li><a href="/research/catalog">National Archives Catalog</a></li> 
+          <li><a href="/research/alic/">Archives Library Information Center</a></li> 
+          <li><a href="/exhibits/">Online Exhibits</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#resources">Resources For…</a></h2> 
+        </div> 
+        <div id="resources" class="panel-collapse"> 
+         <ul>
+          <li><a href="/research/genealogy/">Genealogists</a></li> 
+          <li><a href="/research/military/veterans/">Military Historians and Veterans</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#whats-new">What’s New</a></h2> 
+        </div> 
+        <div id="whats-new" class="panel-collapse"> 
+         <ul>
+          <li><a href="/research/news/">News and Notices</a></li> 
+          <li><a href="/research/accessions/">New Acquisitions</a></li> 
+          <li><a href="/research/newsletter">Researcher News: Newsletter</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#research-guides">Research Guides</a></h2> 
+        </div> 
+        <div id="research-guides" class="panel-collapse"> 
+         <ul>
+          <li><a href="/research/start/">Getting Started</a></li> 
+          <li><a href="/research/guide-fed-records/">Guide to Federal Records</a></li> 
+          <li><a href="/research/declassification">Declassified Records</a></li> 
+          <li><a href="/research/start/online-tools">Online Research Tools and Aids</a></li> 
+          <li><a href="/research/start/">Why Aren't All Records Online?</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#i-want-to">I Want To…</a></h2> 
+        </div> 
+        <div id="i-want-to" class="panel-collapse"> 
+         <ul>
+          <li><a href="/research/order/">Order Copies of Records</a></li> 
+          <li><a href="/research/hire-help/">Hire a Researcher</a></li> 
+          <li><a href="/research/recover/">Report Lost or Stolen Documents</a></li> 
+         </ul>
+        </div> 
+       </div> 
+      </section> 
+      <section id="sub-footer"> 
+       <div class="region region-footer-bottom"> 
+        <section id="block-block-54" class="block block-block clearfix"> 
+         <h2> <a href="https://www.archives.gov/social-media/">Connect With Us</a></h2> 
+         <ul class="clearfix" id="social-media"> 
+          <li class="facebook" data-original-title="Facebook" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/facebook">Facebook</a></li> 
+          <li class="twitter" data-original-title="Twitter" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/twitter">Twitter</a></li> 
+          <li class="instagram" data-original-title="Instagram" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/instagram">Instagram</a></li> 
+          <li class="tumblr" data-original-title="Tumblr" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/tumblr">Tumblr</a></li> 
+          <li class="youtube" data-original-title="YouTube" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/youtube">YouTube</a></li> 
+          <li class="blogs" data-original-title="Blogs" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/blogs">Blogs</a></li> 
+          <li class="flickr" data-original-title="Flickr" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/flickr">Flickr</a></li> 
+         </ul> 
+         <p> </p> 
+         <p id="footer-links"> <a href="/contact/">Contact Us</a> · <a href="/global-pages/accessibility.html">Accessibility</a> · <a href="/global-pages/privacy.html">Privacy Policy</a> · <a href="/foia/">Freedom of Information Act</a> · <a href="/eeo/policy/complaint-activity.html">No FEAR Act</a> · <a href="http://www.usa.gov/">USA.gov</a></p> 
+         <p id="footer-phone">The U.S. National Archives and Records Administration<br> <a href="tel:1-866-272-6272">1-86-NARA-NARA or 1-866-272-6272</a></p> 
+        </section> 
+       </div> 
+      </section> 
+     </footer>
+     <!-- /page-footer --> 
+    </div> 
+    <script src="/sites/all/themes/nara/scripts/jquery.fancybox.pack.js" type="text/javascript"></script> 
+    <script src="/sites/all/themes/nara/scripts/helpers/jquery.fancybox-media.js" type="text/javascript"></script> 
+    <script src="/sites/all/themes/nara/scripts/helpers/jquery.fancybox-thumbs.js" type="text/javascript"></script> 
+    <script src="https://www.archives.gov/files/js/js_MRdvkC2u4oGsp5wVxBG1pGV5NrCPW3mssHxIn6G9tGE.js"></script> 
+   </div> 
+   <a class="back-to-top" href="#page-header" style="display: inline;">Top</a> 
+   <script>
+(function ($) {
+  // Original JavaScript code.
+$('.toc').toc({
+'selectors': 'h2:not(.element-invisible):not(.toc-block h2),h3',
+'container': '#main-col'
+});
+})(jQuery);
+
+//fix extra timeline object issue
+(function(){            
+  if(typeof Drupal.settings['timelineJS'] !== 'undefined'){      
+    timelinejs_arry = Drupal.settings['timelineJS'];
+    tmptimeline=[];
+    for (i = 0; i < timelinejs_arry.length-1; i++) {       
+      if(typeof timelinejs_arry[i]['processed'] !== 'undefined'){                        
+        tmptimeline.push(timelinejs_arry[i]);  
+      } 
+    }
+    Drupal.settings['timelineJS'] = tmptimeline;
+  }
+}());
+</script> 
+  </div> 
+  <!-- end -->   
+ </body>
+</html>

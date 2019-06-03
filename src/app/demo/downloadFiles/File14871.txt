@@ -1,0 +1,431 @@
+<!doctype html>
+<html lang="en" dir="ltr" prefix="fb: //www.facebook.com/2008/fbml">
+ <head> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <!-- Google Tag Manager --> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-WLMC86');</script> 
+  <!-- End Google Tag Manager --> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <link rel="shortcut icon" href="https://www.archives.gov/files/apple-icon.png" type="image/png"> 
+  <meta name="description" content="All National Archives and Records Administration (NARA) museums, research facilities, and Presidential Libraries are accessible (ADA compliant). If you have questions regarding a specific location’s accessibility, please contact the&nbsp;facility directly. Notice of Rights Section 508 of the Rehabilitation Act of 1973, as amended (29 U.S.C. § 794d and the Architectural Barriers Act"> 
+  <meta name="generator" content="Drupal 7 (http://drupal.org)"> 
+  <link rel="canonical" href="https://www.archives.gov/global-pages/accessibility"> 
+  <meta property="og:site_name" content="National Archives"> 
+  <meta property="og:type" content="article"> 
+  <meta property="og:url" content="https://www.archives.gov/global-pages/accessibility"> 
+  <meta property="og:title" content="Accessibility"> 
+  <meta property="og:description" content="All National Archives and Records Administration (NARA) museums, research facilities, and Presidential Libraries are accessible (ADA compliant). If you have questions regarding a specific location’s accessibility, please contact the&nbsp;facility directly. Notice of Rights Section 508 of the Rehabilitation Act of 1973, as amended (29 U.S.C. § 794d and the Architectural Barriers Act of 1968 (42 U.S.C. §§ 4151--57) )"> 
+  <meta property="og:updated_time" content="2019-04-04T13:06:33-04:00"> 
+  <meta name="twitter:card" content="summary"> 
+  <meta name="twitter:url" content="https://www.archives.gov/global-pages/accessibility"> 
+  <meta name="twitter:title" content="Accessibility"> 
+  <meta name="twitter:description" content="All National Archives and Records Administration (NARA) museums, research facilities, and Presidential Libraries are accessible (ADA compliant). If you have questions regarding a specific location’s"> 
+  <meta property="article:published_time" content="2016-08-15T17:45:02-04:00"> 
+  <meta property="article:modified_time" content="2019-04-04T13:06:33-04:00"> 
+  <title>Accessibility | National Archives</title> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_9Q-k-fv_k3FHvcs9CSZ2iD5CTqFxrfaej2FCw2mYIoA.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_BTbypzlNYVbptuza8qzKwXCnB4TjuEzUY43Cz2FsXVA.css" media="all"> 
+  <style>.section-theme #title-bar{background:#29393b url("") no-repeat center right;}.section-theme #mega-footer > h2{background:#29393b}.section-theme #title-bar .breadcrumb{background-color:rgba(93,131,138,0.5);}.section-theme th{background-color:#29393b !important;}
+</style> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_NkrvYXS3XFN6HNXLylk-Jr8h6vd7bMQSZUSOsRKtvhE.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_adYIwY5AiFQ05gx1uTxNpkKu9JMeTmi7MedA-D3wWww.css" media="all"> 
+  <!-- HTML5 element support for IE6-8 --> 
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]--> 
+  <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic|Merriweather"> 
+  <script src="https://www.archives.gov/files/js/js_0RyHJ63yYLuaWsodCPCgSD8dcTIA0dqcDf8-7c2XdBw.js"></script> 
+  <script src="https://www.archives.gov/files/js/js_0pQJ_xts95IaRyXneDD9tPnYjBy63RQPzNHeLe2LDCg.js"></script> 
+  <script src="https://www.archives.gov/files/js/js_4DGuaDZ5Ckd4u9axaS2f90X-RYp7QlC5RWbsjSLu2-8.js"></script> 
+  <script src="https://www.archives.gov/files/js/js_KyGDO1Fxjv5b9iLtei_bvtKprP3C83MXZ8wgYXbj8bA.js"></script> 
+  <script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"nara","theme_token":"W97DUvZrq3RgsL4iwezD6pybDzKXnlEjK85Vcsfq_uU","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/custom\/archives_ui\/scripts\/helptext.js":1,"sites\/all\/modules\/custom\/argentina\/js\/script.js":1,"sites\/all\/modules\/custom\/nara_catalog\/js\/script.js":1,"sites\/all\/modules\/contrib\/user_alert\/js\/user-alert.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/custom\/nara_custom\/js\/nara_custom.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/affix.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/alert.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/button.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/carousel.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/collapse.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/dropdown.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/modal.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/tooltip.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/popover.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/scrollspy.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/tab.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/transition.js":1,"sites\/all\/themes\/nara\/scripts\/jPanelMenu.js":1,"sites\/all\/themes\/nara\/scripts\/jRespond.js":1,"sites\/all\/themes\/nara\/scripts\/matchHeight.min.js":1,"sites\/all\/themes\/nara\/scripts\/jquery.fancybox.pack.js":1,"sites\/all\/themes\/nara\/scripts\/toc.js":1,"sites\/all\/themes\/nara\/scripts\/scripts.js":1,"sites\/all\/themes\/nara\/scripts\/jquery.scrollTo.js":1,"sites\/all\/themes\/nara\/scripts\/mediagallery.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/custom\/archives_ui\/css\/font-awesome.min.css":1,"sites\/all\/modules\/custom\/archives_ui\/css\/helptext.css":1,"sites\/all\/modules\/custom\/archives_ui\/css\/ckeditor_custom.css":1,"sites\/all\/modules\/custom\/argentina\/css\/argentina_style.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/custom\/liaisons\/css\/liaisons_style.css":1,"sites\/all\/modules\/custom\/nara_catalog\/css\/nara-api-style.css":1,"sites\/all\/modules\/archive_features\/nara_timeline\/css\/custom.css":1,"sites\/all\/modules\/archive_features\/nara_timeline\/css\/timeline.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/user_alert\/css\/user-alert.css":1,"sites\/all\/modules\/custom\/varnish_purge\/css\/varnishpurge.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"0":1,"sites\/all\/modules\/custom\/nara_custom\/css\/nara_custom.css":1,"sites\/all\/themes\/nara\/css\/jquery.fancybox.css":1,"sites\/all\/themes\/nara\/css\/jquery.fancybox-thumbs.css":1,"sites\/all\/themes\/nara\/css\/do_not_edit.css":1,"sites\/all\/themes\/nara\/css\/bootstrap.min.css":1,"sites\/all\/themes\/nara\/css\/styles.css":1,"sites\/all\/themes\/nara\/css\/vertical-tabs.css":1,"sites\/all\/themes\/nara\/css\/overrides.css":1,"sites\/all\/themes\/nara\/css\/mediagallery.css":1}},"archives_ui":{"trustedDomains":["twitter\\.com","youtube\\.com","youtu\\.be","recordsofrights\\.org","presidentialtimeline\\.org","nationalarchivesstore\\.org","bush41\\.org","nara\\.learn\\.com","bush41\\.org","bushlibrary\\.tamu\\.edu","fdrlibrary\\.marist\\.edu","georgewbushlibrary\\.smu\\.edu","lbjlibrary\\.org","trumanlibrary\\.org","fdrlibrary\\.org","archivesfoundation\\.org","jfklibrary\\.org","Myarchivesstore\\.org","docsteach\\.org","digitalvaults\\.org","jfk50\\.org","reagan\\.utexas\\.edu","clinton\\.presidentiallibraries\\.us","fdrlibrary\\.org","us11\\.campaign-archive.?\\.com","lbjlibrary\\.net","github\\.io","github\\.com","eventbrite\\.com","facebook\\.com","pinterest\\.com","tumblr\\.com","google\\.com","historypin\\.org","giphy\\.com","instagram\\.com","flickr\\.com","foursquare\\.com","addthis\\.com","apple\\.com","georgebushfoundation\\.org","clintonpresidentialcenter\\.org","geraldrfordfoundation\\.org","reaganfoundation\\.org","rooseveltinstitute\\.org","socialarchive\\.iath\\.virginia.edu","s3\\.amazonaws\\.com","surveymonkey\\.com","storify\\.com","constantcontact\\.com","snaccooperative\\.org"]},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"user_alert":{"url_prefix":"","current_path":"global-pages\/accessibility"},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script> 
+  <style type="text/css">
+div.form-item-body-und-0-format {
+	display:none;
+}
+div.form-item-field-col-b-und-0-format {
+	display:none;
+}
+div.filter-guidelines {
+	display:none;
+}
+div.filter-help {
+	display:none;
+}
+</style> 
+  <style type="text/css">
+ul.nav-tabs {
+display:none;
+}
+#block-workbench-block {
+display:none;
+}
+</style> 
+ </head> 
+ <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-49826 node-type-3-col-page "> 
+  <!-- Google Tag Manager (noscript) --> 
+  <noscript>
+   <iframe alt="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-WLMC86" height="0" width="0" style="display:none;visibility:hidden" title="Google Tag Manager"></iframe>
+  </noscript> 
+  <!-- End Google Tag Manager (noscript) --> 
+  <div id="background-gradient"> 
+   <div class="wrapper section-theme "> 
+    <a class="back-to-top" href="#page-header" style="display: none;">Top</a> 
+    <div id="skip-link"> 
+     <a href="#main-col" class="element-invisible element-focusable">Skip to main content</a> 
+    </div> 
+    <div class="wrapper section-theme"> 
+     <header id="page-header"> 
+      <div class="region region-header"> 
+       <section id="block-block-53" class="block block-block clearfix"> 
+        <div class="col-sm-6" id="logo-wrapper"> 
+         <div id="logo">
+          <a href="/">The U.S. National Archives Home</a>
+         </div> 
+         <button id="nav-toggle" class="navbar-toggle" type="button"></button> 
+        </div> 
+        <div class="col-sm-6" id="search-wrapper"> 
+         <div id="top-links"> 
+          <a class="noBorder" href="/social-media/blogs.html">Blogs</a> · 
+          <script type="text/javascript">// <![CDATA[
+        var addthis_pub = "usarchives";
+        var addthis_offset_left = -40;
+        var addthis_brand = "Archives.gov";
+        // ]]></script> 
+          <a class="addthisLink" onclick="return addthis_sendto();" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]');" onmouseout="addthis_close();" onfocus="return addthis_open(this, '', '[URL]', '[TITLE]');" onblur="addthis_close();" href="https://www.addthis.com/bookmark.php?v=250">Bookmark/Share</a> · 
+          <script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js"></script> 
+          <a href="/contact">Contact Us</a> 
+         </div> 
+         <div class="input-group" id="site-search"> 
+          <form action="https://search.archives.gov/search" method="get" name="search"> 
+           <input class="form-control" id="qt" accesskey="s" type="text" name="query" placeholder="Search Archives.gov" title="Search Archives.gov"> 
+           <span class="input-group-btn"> <button class="btn btn-default" id="go" type="submit" name="submit">Search</button> </span> 
+           <input type="hidden" value="" name="utf8"> 
+           <input id="affiliate" type="hidden" value="national-archives" name="affiliate"> 
+          </form> 
+         </div> 
+        </div> 
+       </section> 
+      </div> 
+     </header> 
+     <!-- /#page-header --> 
+     <nav id="main-nav" class="clearfix "> 
+      <h2 class="element-invisible">Main menu</h2>
+      <ul id="main-menu-links" class="links clearfix make-eq">
+       <li class="menu-859 first research"><a href="/research" title="Explore our nation's history through our documents, photographs, and records." id="research">Research Our Records</a></li> 
+       <li class="menu-860 veterans"><a href="/veterans" title="Request military records and learn about other services for yourself or a family member." id="veterans" class="veterans">Veterans' Service Records</a></li> 
+       <li class="menu-861 teachers"><a href="/education" title="Engage students with lesson plans and other classroom materials." id="teachers" class="teachers">Educator Resources</a></li> 
+       <li class="menu-862 locations"><a href="/locations" title="Plan a trip to a facility near you or learn about our national network of locations and services." id="locations" class="locations">Visit Us</a></li> 
+       <li class="menu-367 last shop"><a href="/founding-docs" title="Order books, gift items, photographic prints, and document reproductions online." id="shop" class="shop">America's Founding Documents</a></li> 
+      </ul> 
+     </nav>
+     <!-- /main-nav --> 
+     <div class="page-body-wrapper"> 
+      <div id="page-body" class="no-sidebar"> 
+       <header id="title-bar"> 
+        <p>U.S. National Archives and Records Administration</p> 
+        <div class="breadcrumb"> 
+         <a href="/">Home</a> &gt; Accessibility 
+        </div>
+        <!-- /breadcrumbs --> 
+       </header> 
+       <div class="row"> 
+        <nav class="col-sm-2"> 
+         <aside id="sidebar-first"> 
+          <nav id="left-menu" class=""> 
+           <h3>Using our Website</h3> 
+           <ul> 
+            <li><a href="/contact/index.html">Contact Us</a></li> 
+            <li><a href="/global-pages/accessibility.html">Accessibility</a></li> 
+            <li><a href="/global-pages/privacy.html">Privacy &amp; Use</a></li> 
+           </ul> 
+          </nav> 
+         </aside> 
+         <!-- /#sidebar-first --> 
+        </nav> 
+        <div id="main-col" class="col-sm-7"> 
+         <p id="print-logo"> <img src="/sites/all/themes/nara/images/nara-print-logo.jpg" alt="National Archives Logo"> </p> 
+         <div class="region region-content"> 
+          <section id="block-system-main" class="block block-system clearfix"> 
+           <h1>Accessibility</h1> 
+           <p>All National Archives and Records Administration (NARA) museums, research facilities, and Presidential Libraries are accessible (<a href="https://www.ada.gov/">ADA compliant</a>). If you have questions regarding a specific location’s accessibility, please <a href="/locations/">contact the&nbsp;facility</a> directly.</p> 
+           <p><a href="/eeo/policy/508-aba-rights">Notice of Rights Section 508 of the Rehabilitation Act of 1973, as amended (29 U.S.C. § 794d and the Architectural Barriers Act of 1968 (42 U.S.C. §§ 4151--57) )</a></p> 
+           <h2><a name="services"></a>Disability Services</h2> 
+           <p><strong>Blind and Low Vision Visitors</strong><br> NARA’s museum has five copies of the <a href="/founding-docs">Constitution and Declaration of Independence</a> in braille. Please contact visitor services for more information at <a href="mailto:visitorservices@nara.gov">visitorservices@nara.gov</a> or call 202-357-6816.</p> 
+           <p><strong>Deaf/Hard of Hearing Visitors</strong><br> Most research facilities&nbsp;and all Presidential Libraries provide Interpretypes® as a quick and easy means of face-to-face communication between deaf, hard of hearing, and hearing people. These can be used for simple research questions, visitor Q &amp; A, and general information. Interpretypes® will not be replacing interpreters, but are a means of immediate access for those with hearing loss. For information about interpreted museum tours, please email<a href="mailto:visitorservices@nara.gov"> visitorservices@nara.gov</a> or call 202-357-6816.</p> 
+           <p>Sign language interpreting and CART (Communication Access in Real Time) services are available with a seven business day notice. Please <a href="/locations/">contact the facility</a> in which you are interested in visiting for more information about reserving services.</p> 
+           <p><a href="/museum/visit/accessibility.html#video_tour">Welcome video tour of the National Archives Museum in American Sign Language (ASL)</a>.</p> 
+           <p><strong>Personal Assistant Services (PAS) information</strong><br> <a href="/eeo/policy/personal-assistance-services">NARA provides personal assistant services (PAS) </a>to NARA employees with targeted disabilities who require assistance with basic activities of daily living such as&nbsp;eating, removing and putting on clothing, and using the restroom&nbsp;unless doing so will impose an undue hardship on the Agency.&nbsp; Personal assistance services differ from <em>medical</em> services and services that are typically performed by someone who often has the job title of “personal assistant.” Personal assistance services are <em>non-medical services</em> that allow individuals with targeted disabilities to perform basic human activities of daily living such as eating, removing and putting on clothing, and using the restroom. A full list of targeted disabilities can be found in NARA 303, Processing Reasonable Accommodation Requests for Employees and Applicants with Disabilities, Section 303.4m.&nbsp; Personal assistance services are not the same as services that help the individuals perform job-related tasks, such as filing, or using a computer.</p> 
+           <p>Read the&nbsp;<a href="https://update.archives.gov/eeo/policy/nara-303">NARA 303 - Processing Reasonable Accommodation Requests for Employees and Applicants with Disabilities</a>.</p> 
+           <p><strong>Reasonable Accommodation Procedures</strong><br> NARA is committed to providing reasonable accommodations to its employees and applicants for employment to ensure that individuals with disabilities enjoy full access to equal employment opportunity at NARA. <a href="/eeo/policy/processing-reasonable-accommodation-requests">Access the policy</a>.<strong>&nbsp;</strong></p> 
+           <p><strong>Service Animals</strong><br> NARA has a Service Animal Policy, which permits animals specifically trained to perform tasks for persons with disabilities, access to public areas. Therapy animals are not considered service animals under the ADA Amendments Act of 2008. Service animals must be under the control of their handlers at all times.</p> 
+           <p><strong>Wheelchair Users</strong><br> Wheelchairs are provided on a first-come, first-serve basis.&nbsp;</p> 
+           <h2>Information Communication Technology</h2> 
+           <p>The National Archives and Records Administration (NARA) is committed to making its electronic and information technologies accessible to the widest possible audience, including individuals with disabilities. NARA regularly monitors its sites to ensure that they meet and exceed the requirements of <a href="#learn">Section 508</a> of the <a href="http://www.access-board.gov/508.htm">Rehabilitation Act</a> (29 U.S.C. 794d), as amended in 1998, and the <a href="http://www.w3.org/WAI/intro/wcag.php">W3C Web Content Accessibility Guidelines</a>.</p> 
+           <h2><a id="coordinator" name="coordinator"></a>NARA's Section 508 Coordinators</h2> 
+           <div class="width28 floatRight"> 
+            <div> 
+             <div class="nwidget nimagebutton" data-additional-classes="" data-image="contact" data-link="" data-title="Other Contacts">
+              <a class="buttonLink contact" href="/contact/"><span>Other Contacts</span></a>
+             </div> 
+            </div> 
+           </div> 
+           <p>NARA's Federal Section 508 Coordinator is the primary point of contact for NARA's efforts to provide individuals with disabilities with equal access to electronic information and data. These efforts pertain to <a href="http://www.section508.gov/index.cfm?fuseAction=1998Amend">Section 508 of the Rehabilitation Act of 1998</a>.</p> 
+           <ul> 
+            <li><strong>Our Section 508 Coordinators:&nbsp;</strong> 
+             <ul> 
+              <li><strong>Policy </strong>- Uttam Kumar, Frank Samuels &nbsp;</li> 
+              <li><strong>Forms </strong>- Tamee&nbsp;Fechhelm&nbsp;</li> 
+              <li><strong>Technical</strong> - Jocelyn Blakely-Hill<br> &nbsp;</li> 
+             </ul> </li> 
+            <li><strong>Email</strong>: &nbsp;<a href="mailto:508feedback@nara.gov">508feedback@nara.gov</a><br> &nbsp;</li> 
+            <li><strong>Mai</strong>l: 
+             <div class="indent">
+              National Archives and Records Administration
+              <br> Section 508 Coordinator
+              <br> 8601 Adelphi Road, Room 4400
+              <br> College Park, MD 20740-6001
+              <br> &nbsp;
+             </div> </li> 
+            <li><strong>Telephone</strong>: 301-837-1514</li> 
+           </ul> 
+           <h2><a id="alt" name="alt"></a>Alternate Access to Web Information</h2> 
+           <p>If the format of any material on our website interferes with your ability to access the information, please contact us at the address above.</p> 
+           <p>To allow us to respond in a manner most helpful to you, please let us know:</p> 
+           <ol> 
+            <li>Nature of your accessibility issue.</li> 
+            <li>Preferred format in which to receive the material.</li> 
+            <li>Web address (URL) of the material with which you are having difficulty.</li> 
+            <li>Your contact information.</li> 
+           </ol> 
+           <p>Documents on our website are in many formats. The primary file types we use are.</p> 
+           <h3>HTML and Images</h3> 
+           <p>Generally, we use Hypertext Markup Language (HTML). In creating HTML documents, we follow Section 508 standards; for example, we include alternate text to describe graphics.</p> 
+           <h3><a name="shatpdf"></a> <a id="adobe" name="adobe"></a>Adobe Acrobat Reader and PDF Files<i class="fa fa-file-pdf-o"></i></h3> 
+           <p>Our website also contains documents in Adobe Portable Document Format ® (PDF). Most PDF files will be accessible to those who use assistive technology such as screen readers. Some legacy or software-created PDF files may not be accessible. If you are experiencing difficulty reading any PDF file, please <a href="#coordinator">contact us</a>, and we will send you an alternate version.</p> 
+           <ul> 
+            <li>PDF files require the <a href="http://www.adobe.com/products/reader/">free Adobe Acrobat Reader</a>.</li> 
+            <li>Adobe also provides <a href="http://www.adobe.com/products/acrobat/access_onlinetools.html">free PDF tools for the visually impaired</a>.</li> 
+            <li><a href="http://www.adobe.com/products/acrobat/readermain.html">Download the free Adobe Acrobat Reader</a>.</li> 
+           </ul> 
+           <p>For detailed, up-to-date information about Acrobat Reader or the PDF format, visit <a href="http://www.acrobat.com">Adobe Systems Inc.</a></p> 
+           <h3><a id="power" name="power"></a>PowerPoint Files<i class="fa fa-file-powerpoint-o"></i></h3> 
+           <p>You can view files that are in Microsoft PowerPoint ® (PPT) format if you have any version of PowerPoint installed on your computer.</p> 
+           <ul> 
+            <li>Microsoft Corporation offers a <a href="http://www.adobe.com/products/reader/">free PowerPoint file viewer.</a></li> 
+            <li>Download and get help using the <a href="http://www.microsoft.com/en-us/download/details.aspx?id=13">PowerPoint Viewer</a> at the Microsoft Download Center.</li> 
+           </ul> 
+           <h3><a id="word" name="power"></a> Word Files<i class="fa fa-file-word-o"></i></h3> 
+           <p>You can view files in Microsoft Word® (DOC) format if you have Word, version 6.0 or higher, installed on your computer. Word documents can also be viewed with many other word-processing software programs.</p> 
+           <ul> 
+            <li>Microsoft Corporation offers a <a href="http://www.microsoft.com/en-us/download/details.aspx?id=4">free Word file viewer</a> at the Microsoft Download Center.</li> 
+           </ul> 
+           <h2><a id="learn" name="learn"></a> Learn More</h2> 
+           <p>Section 508 is a Federal law that requires agencies to provide individuals with disabilities equal access to electronic information and data comparable to those who do not have disabilities unless an undue burden would be imposed on the agency. The Section 508 standards are the technical requirements and criteria that are used to measure conformance within this law. More information on Section 508 and the technical standards can be found on the following sites:</p> 
+           <ul> 
+            <li><a href="http://www.section508.gov/index.cfm">Section508.gov</a> provides Federal employees and the public with access to resources for understanding and implementing the requirements of Section 508, including Section 508 tools, resources, standards, and news.</li> 
+            <li>The <a href="http://www.access-board.gov/508.htm">U.S. Access Board's Section 508 Homepage</a> provides information on Section 508 law, frequently asked questions, and standards.</li> 
+            <li>The <a href="http://www.w3.org/WAI/">Web Accessibility Initiative (WAI) homepage</a> provides strategies, guidelines, and resources to make the Web accessible to people with disabilities.</li> 
+           </ul> 
+           <p><em>* Please see our <a href="/global-pages/privacy.html">Privacy Statement</a></em></p> 
+          </section> 
+         </div> 
+        </div> 
+        <a name="sidebar"></a> 
+        <div id="sidebar" class="col-sm-3"> 
+         <aside id="sidebar-second"> 
+          <ul> 
+           <li><a href="/global-pages/accessibility#services">Disability Services</a></li> 
+           <li><a href="/global-pages/accessibility#overview">Information Communication Technology</a></li> 
+           <li><a href="/global-pages/accessibility#coordinator">NARA's Section 508 Coordinator</a></li> 
+           <li><a href="/eeo/policy/508-aba-rights">NARA's Section 508 &amp; Architectural Barriers Notice of Rights</a></li> 
+           <li><a href="/global-pages/accessibility#alt">Alternate Access to Web Information</a></li> 
+           <li><a href="/global-pages/accessibility#learn">Learn More about Section 508</a></li> 
+          </ul> 
+          <p><img alt="Accessibility at the National Archives" class="nwidget nimage width100" data-additional-classes="" data-alignment="" data-frame="" data-image_width="100" src="/files/global-images/portal/medium/accessibility.png" style="float: right;"></p> 
+         </aside> 
+         <!-- /#sidebar-second --> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <!-- page-body-wrapper --> 
+     <footer id="page-footer"> 
+      <div class="clearfix row last-update-wrapper "> 
+       <p id="last-update"> <span class="glyphicon glyphicon-edit"></span> This page was last reviewed on April 4, 2019.<br> <a href="/contact">Contact us with questions or comments</a>. </p> 
+      </div> 
+      <section id="mega-footer" class="clearfix panel-group"> 
+       <h2 class="footer-title"> Archives.gov</h2> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#info-for">Information For…</a></h2> 
+        </div> 
+        <div id="info-for" class="panel-collapse"> 
+         <ul>
+          <li><a href="/citizen-archivist/">Citizen Archivists</a></li> 
+          <li><a href="/fed-employees/">Federal Employees</a></li> 
+          <li><a href="/research/genealogy/">Genealogists</a></li> 
+          <li><a href="/congress/">Members of Congress</a></li> 
+          <li><a href="/preservation/">Preservation</a></li> 
+          <li><a href="/records-mgmt/">Records Managers</a></li> 
+          <li><a href="/press/">The Press</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#pubs">Publications</a></h2> 
+        </div> 
+        <div id="pubs" class="panel-collapse"> 
+         <ul>
+          <li><a href="/federal-register/">Federal Register</a></li> 
+          <li><a href="/publications/prologue/">Prologue Magazine</a></li> 
+          <li><a href="/publications/ordering/">Purchase Publications</a></li> 
+          <li><a href="/publications/email-newsletters">Subscribe to Email Newsletters</a></li> 
+          <li><a href="/publications/">All Publications</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#orgs">Orgs. &amp; Offices</a></h2> 
+        </div> 
+        <div id="orgs" class="panel-collapse"> 
+         <ul>
+          <li><a href="/legislative/">Center for Legislative Archives</a></li> 
+          <li><a href="/frc/">Federal Records Center</a></li> 
+          <li><a href="/oig/">Office of the Inspector General</a></li> 
+          <li><a href="/presidential-libraries/">Presidential Libraries</a></li> 
+          <li><a href="/about/organization/">Staff Directory</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#about">About Us</a></h2> 
+        </div> 
+        <div id="about" class="panel-collapse"> 
+         <ul>
+          <li><a href="/about/">What is the National Archives?</a></li> 
+          <li><a href="/contracts/">Doing Business with Us</a></li> 
+          <li><a href="/about/plans-reports/">Plans and Reports</a></li> 
+          <li><a href="/open/">Open Government</a></li> 
+          <li><a href="/open/plain-writing/">Our Plain Language Activities</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#i-want-to">I Want To…</a></h2> 
+        </div> 
+        <div id="i-want-to" class="panel-collapse"> 
+         <ul>
+          <li><a href="/veterans/military-service-records/">Get My Military Record</a></li> 
+          <li><a href="/research/start/plan-visit">Plan a Research Visit</a></li> 
+          <li><a href="https://museum.archives.gov/">Visit the Museum</a></li> 
+          <li><a href="/exhibits/">View Online Exhibits</a></li> 
+          <li><a href="/grants/">Apply for a Grant</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#participate">Participate</a></h2> 
+        </div> 
+        <div id="participate" class="panel-collapse"> 
+         <ul>
+          <li><a href="/calendar/">Attend an Event</a></li> 
+          <li><a href="http://www.archivesfoundation.org/">Donate to the Archives</a></li> 
+          <li><a href="/careers/">Work at the Archives</a></li> 
+          <li><a href="/careers/volunteering/">Volunteer at the Archives</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#resources">Resources</a></h2> 
+        </div> 
+        <div id="resources" class="panel-collapse"> 
+         <ul>
+          <li><a href="/global-pages/subject-index.html">A-Z Index</a></li> 
+          <li><a href="/founding-docs/">America's Founding Docs</a></li> 
+          <li><a href="/contact/">Contact Us</a></li> 
+          <li><a href="/espanol/">En Español</a></li> 
+          <li><a href="/faqs/">FAQs</a></li> 
+          <li><a href="/forms/">Forms</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#shop-footer">Shop Online</a></h2> 
+        </div> 
+        <div id="shop-footer" class="panel-collapse"> 
+         <ul>
+          <li><a href="https://www.nationalarchivesstore.org/?utm_campaign=2019eStore&amp;utm_medium=website&amp;utm_source=nara&amp;utm_content=organic">Visit the National Archives Store</a></li> 
+          <li><a href="https://eservices.archives.gov/orderonline/">Buy Reproductions and Microfilm</a></li> 
+         </ul>
+        </div> 
+       </div> 
+      </section> 
+      <section id="sub-footer"> 
+       <div class="region region-footer-bottom"> 
+        <section id="block-block-54" class="block block-block clearfix"> 
+         <h2> <a href="https://www.archives.gov/social-media/">Connect With Us</a></h2> 
+         <ul class="clearfix" id="social-media"> 
+          <li class="facebook" data-original-title="Facebook" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/facebook">Facebook</a></li> 
+          <li class="twitter" data-original-title="Twitter" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/twitter">Twitter</a></li> 
+          <li class="instagram" data-original-title="Instagram" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/instagram">Instagram</a></li> 
+          <li class="tumblr" data-original-title="Tumblr" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/tumblr">Tumblr</a></li> 
+          <li class="youtube" data-original-title="YouTube" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/youtube">YouTube</a></li> 
+          <li class="blogs" data-original-title="Blogs" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/blogs">Blogs</a></li> 
+          <li class="flickr" data-original-title="Flickr" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/flickr">Flickr</a></li> 
+         </ul> 
+         <p> </p> 
+         <p id="footer-links"> <a href="/contact/">Contact Us</a> · <a href="/global-pages/accessibility.html">Accessibility</a> · <a href="/global-pages/privacy.html">Privacy Policy</a> · <a href="/foia/">Freedom of Information Act</a> · <a href="/eeo/policy/complaint-activity.html">No FEAR Act</a> · <a href="http://www.usa.gov/">USA.gov</a></p> 
+         <p id="footer-phone">The U.S. National Archives and Records Administration<br> <a href="tel:1-866-272-6272">1-86-NARA-NARA or 1-866-272-6272</a></p> 
+        </section> 
+       </div> 
+      </section> 
+     </footer>
+     <!-- /page-footer --> 
+    </div> 
+    <script src="/sites/all/themes/nara/scripts/jquery.fancybox.pack.js" type="text/javascript"></script> 
+    <script src="/sites/all/themes/nara/scripts/helpers/jquery.fancybox-media.js" type="text/javascript"></script> 
+    <script src="/sites/all/themes/nara/scripts/helpers/jquery.fancybox-thumbs.js" type="text/javascript"></script> 
+    <script src="https://www.archives.gov/files/js/js_MRdvkC2u4oGsp5wVxBG1pGV5NrCPW3mssHxIn6G9tGE.js"></script> 
+   </div> 
+   <a class="back-to-top" href="#page-header" style="display: inline;">Top</a> 
+   <script>
+(function ($) {
+  // Original JavaScript code.
+$('.toc').toc({
+'selectors': 'h2:not(.element-invisible):not(.toc-block h2),h3',
+'container': '#main-col'
+});
+})(jQuery);
+
+//fix extra timeline object issue
+(function(){            
+  if(typeof Drupal.settings['timelineJS'] !== 'undefined'){      
+    timelinejs_arry = Drupal.settings['timelineJS'];
+    tmptimeline=[];
+    for (i = 0; i < timelinejs_arry.length-1; i++) {       
+      if(typeof timelinejs_arry[i]['processed'] !== 'undefined'){                        
+        tmptimeline.push(timelinejs_arry[i]);  
+      } 
+    }
+    Drupal.settings['timelineJS'] = tmptimeline;
+  }
+}());
+</script> 
+  </div> 
+  <!-- end -->   
+ </body>
+</html>

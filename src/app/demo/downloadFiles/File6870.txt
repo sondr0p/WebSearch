@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en-us">
+ <head> 
+  <!-- CLF v2.2 - 12/15/2004 --> 
+  <title>Delaware.gov Redirect Page</title> 
+  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii"> 
+  <meta http-equiv="refresh" content="0;URL=http://www.delaware.gov/help/"> 
+  <meta name="ROBOTS" content="NOINDEX"> 
+  <style type="text/css">
+        <!--
+        .AddressSystem-1
+        {
+        text-align: center
+        }
+        -->
+        </style> 
+ </head> 
+ <body> 
+  <a name="TopOfPage"></a> 
+  <h1><strong><span style="font-family: 'Verdana'; font-size: 16pt">Delaware Department of Safety and Homeland Security Redirect</span></strong></h1> 
+  <div align="center"> 
+   <br> 
+   <table width="356" border="0" cellspacing="0" cellpadding="4" summary="This table is for layout purposes only."> 
+    <tbody>
+     <tr> 
+      <td bgcolor="#224EA7"> 
+       <table width="356" border="0" cellspacing="0" cellpadding="2" summary="This table is for layout purposes only."> 
+        <tbody>
+         <tr> 
+          <td bgcolor="white"> 
+           <table width="356" border="0" cellspacing="0" cellpadding="2" summary="This table is for layout purposes only."> 
+            <tbody>
+             <tr> 
+              <td bgcolor="#B8B8A0"> 
+               <table border="0" cellpadding="8" cellspacing="0" width="285" align="center" bgcolor="white" summary="This table is for layout purposes only."> 
+                <tbody>
+                 <tr> 
+                  <td align="center" valign="middle"> <img src="/private/images/title-stateofdelaware.gif" alt="State of Delaware - The Official Website for the First State" height="75" width="335" border="0" hspace="10"> </td> 
+                 </tr> 
+                 <tr> 
+                  <td id="mainbody"> 
+                   <div align="center"> 
+                    <br> 
+                    <strong>THIS PAGE HAS MOVED.<br> <br></strong> 
+                   </div> <p> The page you are seeking has been moved to a new location. It is now located at<br> <br> 
+                    <!-- LINK TO THE NEW PAGE AND WRITE OUT THAT ADDRESS --> <strong><a href="http://www.delaware.gov/help/">http://www.delaware.gov/help/</a></strong><br> <br> Please update your bookmarks/favorites if necessary.<br> <br> You can continue on to the page your were seeking by clicking the link above. </p><br> </td> 
+                 </tr> 
+                </tbody>
+               </table> </td> 
+             </tr> 
+            </tbody>
+           </table> </td> 
+         </tr> 
+        </tbody>
+       </table> </td> 
+     </tr> 
+    </tbody>
+   </table> 
+  </div> 
+  <address class="AddressSystem-1"> <span style="font-family: 'Georgia'; font-size: xx-small"><br> Delaware Department of Safety and Homeland Security<br> </span> </address>   
+ </body>
+</html>

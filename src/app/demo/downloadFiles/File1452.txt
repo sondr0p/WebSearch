@@ -1,0 +1,420 @@
+<!doctype html>
+<html lang="en">
+ <head> 
+  <meta charset="utf-8"> 
+  <title>Procurement Opportunity and Public Notification Search - Buying and Selling to Government of Mississippi</title> 
+  <link href="/dfa/contract_bid_search/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <meta name="viewport" content="width=device-width"> 
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"> 
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,600" rel="stylesheet" type="text/css"> 
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css"> 
+  <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]--> 
+  <link href="/dfa/contract_bid_search/bundles/css/styles?v=QQTrkn-i-BDejh1jW-yBNKp5wTdI9PBwGNkhOZXfjIk1" rel="stylesheet"> 
+  <link href="/dfa/contract_bid_search/bundles/css/datatables?v=FJghnLONmov8aC-E2uBxsj_UQ-UcX7rszRKX-N4AHu81" rel="stylesheet"> 
+  <link href="/dfa/contract_bid_search/bundles/css/tooltip?v=_zp1Vjn-QuKk9Gnegzox-5O_2Rlg8vDxq4Qt-og2myQ1" rel="stylesheet"> 
+ </head> 
+ <body> 
+  <header> 
+   <div class="content-wrapper"> 
+    <div class="float-left logo"> 
+     <a href="/dfa/contract_bid_search/"> <img src="/dfa/contract_bid_search/Content/css/styles/images/State-Seal.jpg" alt="Mississippi State Seal"></a> 
+    </div> 
+    <div class="float-left"> 
+     <p class="site-title"><a href="/dfa/contract_bid_search/">Buying and Selling <br>to Government in Mississippi</a> </p> 
+    </div> 
+    <div class="float-right head-search-cont"> 
+     <div class="row global"> 
+      <div id="bidChat"> 
+      </div> 
+     </div> 
+     <div class="row"> 
+      <input id="FuzzyKeyword" type="text" class="head-searchbox"> 
+      <input id="btnFuzzySearch" type="button" value="" class="head-search-btn"> 
+     </div> 
+     <div class="row global"> 
+      <ul id="menu" class="nav navbar-nav"> 
+       <li> <a href="/dfa/contract_bid_search/" title="Home">Home</a> </li> 
+       <li> <a href="/dfa/contract_bid_search/Home/About" title="About">About</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+  </header> 
+  <div id="menu">
+    ? Menu 
+  </div> 
+  <div id="mobile-menu"> 
+   <div class="mobile-nav-link">
+    <a href="/dfa/contract_bid_search/Home/Sell">Selling to Mississippi</a>
+   </div> 
+   <div class="mobile-nav-link">
+    <a href="http://www.transparency.mississippi.gov/default.aspx" target="_blank">Transparency Mississippi</a>
+   </div> 
+   <div class="mobile-nav-link">
+    <a href="/dfa/contract_bid_search/Home/Buy">Buying for Mississippi</a>
+   </div> 
+  </div> 
+  <div class="top-nav"> 
+   <div class="top-nav-link">
+    <a href="/dfa/contract_bid_search/Home/Sell">Selling to Mississippi</a>
+   </div> 
+   <div class="top-nav-link">
+    <a href="http://www.transparency.mississippi.gov/default.aspx" target="_blank">Transparency MS</a>
+   </div> 
+   <div class="top-nav-link">
+    <a href="/dfa/contract_bid_search/Home/Buy">Buying for Mississippi</a>
+   </div> 
+  </div> 
+  <div id="body"> 
+   <section class="content-wrapper main-content clear-fix"> 
+    <div class="container"> 
+     <h1>Procurement Opportunity and Public Notification Search</h1> 
+     <div class="row"> 
+      <div class="col-md-6"> 
+       <h4>Search for Bid Opportunities and Public Notifications (Sole Source, Intent to Award, and Protective Order Request) using <span class="bold-text">Keyword</span> or <span class="bold-text">Advanced Search Options</span>. State Government Bid Opportunities will be posted to this page as defined by State Law. Sole Source, Intent to Award, and Protective Order Request notifications are not bid opportunities, but are posted in accordance with State Law to provide transparency to the public.</h4> 
+      </div> 
+      <div class="col-md-6"> 
+       <div class="search-cont"> 
+        <div>
+         <input type="button" name="btnSearch" id="btnSearch" value="search"> 
+        </div> 
+        <div>
+         <input class="mobile-input  bold-text" id="Keyword" name="Criteria.Keyword" type="text" value=""> 
+        </div> 
+       </div> 
+       <p class="pull-right adv-search"><a id="advanceSearchToggle" style="cursor: pointer">Advanced Search Options</a> </p> 
+      </div> 
+     </div> 
+     <div id="advanceSearchForm" style="display: none"> 
+      <div class="optionalBox"> 
+       <h2>Optional Search:</h2> 
+       <p>To search for an RFx document by date(s), select the type of date (Advertised, Submission or RFx Opening) and enter a date range in the From Date and End Date fields.</p> 
+       <div class="row"> 
+        <div class="col-md-3"> 
+         <input type="radio" name="advertised" value="Advertised" class="radio-input">
+         <label class="radio inline">Advertised</label> 
+        </div> 
+        <div class="col-md-3"> 
+         <input type="radio" name="submission" value="Submission" class="radio-input">
+         <label class="radio inline">Submission</label> 
+        </div> 
+        <div class="col-md-3"> 
+         <input type="radio" name="opening" value="Opening" class="radio-input">
+         <label class="radio inline">RFx Opening</label> 
+        </div> 
+        <div class="col-md-3"></div> 
+       </div> 
+       <div class="row"> 
+        <div class="col-md-4"> 
+         <label for="StartDate">From Date</label> 
+         <input id="StartDate" type="text"> 
+        </div> 
+        <div class="col-md-4"> 
+         <label for="EndDate">End Date</label> 
+         <input id="EndDate" type="text"> 
+        </div> 
+        <div class="col-md-4"> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="criteriaBox"> 
+       <div class="row"> 
+        <div class="col-md-4"> 
+         <label for="ProcurmentCategory">Major Procurement Category:</label> 
+         <select id="ProcurmentCategory" name="ProcurmentCategory"><option value=""></option> <option value="01">PERSONNEL SERVICES NON-IT</option> <option value="02">INFORMATION TECHNOLOGY (IT)</option> <option value="03">CONSTRUCTION</option> <option value="04">COMMODITIES</option> </select> 
+        </div> 
+        <div class="col-md-4"> 
+         <label for="SubProcurmentCategory">Sub Procurement Category:</label> 
+         <select id="SubProcurmentCategory" name="SubProcurmentCategory"><option value=""></option> <option value="01">EQUIPMENT - NON-TECHNOLOGY</option> <option value="02">EQUIPMENT - TECHNOLOGY</option> <option value="03">SUPPLIES - NON-TECHNOLOGY</option> <option value="04">SUPPLIES - TECHNOLOGY</option> <option value="05">PERSONNEL SERVICE - NON-TECHNOLOGY</option> <option value="06">PERSONNEL SERVICE - TECHNOLOGY</option> <option value="07">PRINTING</option> <option value="08">CONSTRUCTION - SERVICES</option> <option value="09">CONSTRUCTION - FURNITURE AND EQUIPMENT</option> <option value="10">HIGHWAY CONSTRUCTION</option> <option value="11">REAL PROPERTY</option> <option value="12">SURPLUS</option> <option value="13">SOLE SOURCE NOTICES</option> <option value="14">INTENT TO AWARD NOTICE</option> <option value="15">PROTECTIVE ORDER REQUEST NOTICE</option> </select> 
+        </div> 
+        <div class="col-md-4"> 
+         <label for="Status">Status:</label> 
+         <select id="Status" name="Status"><option value=""></option> <option value="Open">Open</option> <option value="Closed">Closed</option> <option value="Awarded">Awarded</option> </select> 
+        </div> 
+       </div> 
+       <div class="row"> 
+        <div class="col-md-4"> 
+         <label for="BidNumber">RFX #:</label> 
+         <input id="ObjectID" name="Criteria.ObjectID" type="text" value=""> 
+        </div> 
+        <div class="col-md-4"> 
+         <label for="ObjectID">Smart Number:</label> 
+         <input id="BidNumber" name="Criteria.BidNumber" type="text" value=""> 
+        </div> 
+       </div> 
+       <div class="row"> 
+        <div class="col-md-4"> 
+         <label for="Agency">Dept/Agency:</label> 
+         <select id="Agency" name="Agency"><option value=""></option> <option value="ALCORN STATE UNIVERSITY">ALCORN STATE UNIVERSITY</option> <option value="BOSWELL REGIONAL CENTER">BOSWELL REGIONAL CENTER</option> <option value="CENTRAL MS RESIDENTIAL CENTER">CENTRAL MS RESIDENTIAL CENTER</option> <option value="Charter School Auth Board">Charter School Auth Board</option> <option value="COMMISSION FOR VOLUNTEER SERV">COMMISSION FOR VOLUNTEER SERV</option> <option value="DELTA STATE UNIVERSITY">DELTA STATE UNIVERSITY</option> <option value="EAST MS STATE HOSPITAL">EAST MS STATE HOSPITAL</option> <option value="ELLISVILLE STATE SCHOOL">ELLISVILLE STATE SCHOOL</option> <option value="Grand Gulf Mil Monument Comm">Grand Gulf Mil Monument Comm</option> <option value="HUDSPETH REGIONAL CENTER">HUDSPETH REGIONAL CENTER</option> <option value="INSTITUTE OF HIGHER LEARNING">INSTITUTE OF HIGHER LEARNING</option> <option value="JACKSON STATE UNIVERSITY">JACKSON STATE UNIVERSITY</option> <option value="JOINT LEGISLATIVE REAPPORTION">JOINT LEGISLATIVE REAPPORTION</option> <option value="MISS UNIVERSITY FOR WOMEN">MISS UNIVERSITY FOR WOMEN</option> <option value="MISSISSIPPI ADOLESCENT CENTER">MISSISSIPPI ADOLESCENT CENTER</option> <option value="MISSISSIPPI ARTS COMMISSION">MISSISSIPPI ARTS COMMISSION</option> <option value="MISSISSIPPI STATE UNIVERSITY">MISSISSIPPI STATE UNIVERSITY</option> <option value="MPTAP">MPTAP</option> <option value="MS ATHLETIC COMMISSION">MS ATHLETIC COMMISSION</option> <option value="MS ATTORNEY GENERAL">MS ATTORNEY GENERAL</option> <option value="MS AUCTIONEER COMMISSION">MS AUCTIONEER COMMISSION</option> <option value="MS AUTHORITY FOR EDUCATION">MS AUTHORITY FOR EDUCATION</option> <option value="MS BD FOR LIC PROF COUNSELORS">MS BD FOR LIC PROF COUNSELORS</option> <option value="MS BD FOR PROF ENGINEERS AND SUR">MS BD FOR PROF ENGINEERS AND SUR</option> <option value="MS BD FOR SOCIAL WORKERS">MS BD FOR SOCIAL WORKERS</option> <option value="MS BD OF ARCHITECTURE">MS BD OF ARCHITECTURE</option> <option value="MS BD OF BARBER EXAMINERS">MS BD OF BARBER EXAMINERS</option> <option value="MS BD OF CHIROPRACTIC EXAMINER">MS BD OF CHIROPRACTIC EXAMINER</option> <option value="MS BD OF MASSAGE THERAPY">MS BD OF MASSAGE THERAPY</option> <option value="MS BD OF MEDICAL LICENSURE">MS BD OF MEDICAL LICENSURE</option> <option value="MS BD OF PHYSICAL THERAPY">MS BD OF PHYSICAL THERAPY</option> <option value="MS BD OF PROF GEOLOGISTS">MS BD OF PROF GEOLOGISTS</option> <option value="MS BD OF PUBLIC ACCOUNTANCY">MS BD OF PUBLIC ACCOUNTANCY</option> <option value="MS BD OF VETERINARY EXAMINERS">MS BD OF VETERINARY EXAMINERS</option> <option value="MS BD REGISTR FOR FORESTERS">MS BD REGISTR FOR FORESTERS</option> <option value="MS BOARD OF ANIMAL HEALTH">MS BOARD OF ANIMAL HEALTH</option> <option value="MS BOARD OF COMMUNITY COLLEGES">MS BOARD OF COMMUNITY COLLEGES</option> <option value="MS BOARD OF FUNERAL SERVICES">MS BOARD OF FUNERAL SERVICES</option> <option value="MS BOARD OF PHARMACY">MS BOARD OF PHARMACY</option> <option value="MS BOARD OF TAX APPEALS">MS BOARD OF TAX APPEALS</option> <option value="MS BUSINESS FINANCE CORP">MS BUSINESS FINANCE CORP</option> <option value="MS CAPITAL POST CONVICTION COU">MS CAPITAL POST CONVICTION COU</option> <option value="MS COAST COLISEUM COMMISSION">MS COAST COLISEUM COMMISSION</option> <option value="MS COMM ON STATUS OF WOMEN">MS COMM ON STATUS OF WOMEN</option> <option value="MS DEPT ENVIRONMENTAL QUALITY">MS DEPT ENVIRONMENTAL QUALITY</option> <option value="MS DEPT FINANCE AND ADMINISTRATION">MS DEPT FINANCE AND ADMINISTRATION</option> <option value="MS DEPT OF  BANKING AND FINANCE">MS DEPT OF BANKING AND FINANCE</option> <option value="MS DEPT OF AGRICULTURE AND COMMERCE">MS DEPT OF AGRICULTURE AND COMMERCE</option> <option value="MS DEPT OF ARCHIVES AND HISTORY">MS DEPT OF ARCHIVES AND HISTORY</option> <option value="MS DEPT OF CORRECTIONS">MS DEPT OF CORRECTIONS</option> <option value="MS DEPT OF EDUCATION">MS DEPT OF EDUCATION</option> <option value="MS DEPT OF EMPLOYMENT SECURITY">MS DEPT OF EMPLOYMENT SECURITY</option> <option value="MS DEPT OF HEALTH">MS DEPT OF HEALTH</option> <option value="MS DEPT OF HUMAN SERVICES">MS DEPT OF HUMAN SERVICES</option> <option value="MS DEPT OF INSURANCE">MS DEPT OF INSURANCE</option> <option value="MS DEPT OF MARINE RESOURCES">MS DEPT OF MARINE RESOURCES</option> <option value="MS DEPT OF MENTAL HEALTH">MS DEPT OF MENTAL HEALTH</option> <option value="MS DEPT OF MILITARY">MS DEPT OF MILITARY</option> <option value="MS DEPT OF OIL AND GAS">MS DEPT OF OIL AND GAS</option> <option value="MS DEPT OF PUBLIC SAFETY">MS DEPT OF PUBLIC SAFETY</option> <option value="MS DEPT OF REHABILITAION SVCS">MS DEPT OF REHABILITAION SVCS</option> <option value="MS DEPT OF REVENUE">MS DEPT OF REVENUE</option> <option value="MS DEPT OF TRANSPORTATION">MS DEPT OF TRANSPORTATION</option> <option value="MS DEPT OF WILDLIFE, FISHERIES AND PARKS">MS DEPT OF WILDLIFE, FISHERIES AND PARKS</option> <option value="MS DISTRICT ATTORNEYS AND STAFF">MS DISTRICT ATTORNEYS AND STAFF</option> <option value="MS DIVISION OF MEDICAID">MS DIVISION OF MEDICAID</option> <option value="MS EMERGENCY MANAGEMENT">MS EMERGENCY MANAGEMENT</option> <option value="MS FAIR COMMISSION">MS FAIR COMMISSION</option> <option value="MS FORESTRY COMMISSION">MS FORESTRY COMMISSION</option> <option value="MS GAMING COMMISSION">MS GAMING COMMISSION</option> <option value="MS GOVERNORS OFFICE">MS GOVERNORS OFFICE</option> <option value="MS HOME CORPORATION">MS HOME CORPORATION</option> <option value="MS HOUSE OF REPRESENTATIVES">MS HOUSE OF REPRESENTATIVES</option> <option value="MS INFORMATION TECHNOLOGY SVS">MS INFORMATION TECHNOLOGY SVS</option> <option value="MS JUDICIAL PERFORMANCE">MS JUDICIAL PERFORMANCE</option> <option value="MS LEGISLATIVE BUDGET OFFICE">MS LEGISLATIVE BUDGET OFFICE</option> <option value="MS LEGISLATIVE JOINT OPERATION">MS LEGISLATIVE JOINT OPERATION</option> <option value="MS LIBRARY COMMISSION">MS LIBRARY COMMISSION</option> <option value="MS MOTOR VEHICLE COMMISSION">MS MOTOR VEHICLE COMMISSION</option> <option value="MS NURSING HOME ADMINISTRATORS">MS NURSING HOME ADMINISTRATORS</option> <option value="MS OFC STATE PUBLIC DEFENDERS">MS OFC STATE PUBLIC DEFENDERS</option> <option value="MS OFC STATE TREASURER">MS OFC STATE TREASURER</option> <option value="MS PEER COMMITTEE">MS PEER COMMITTEE</option> <option value="MS PRISON INDUSTRIES">MS PRISON INDUSTRIES</option> <option value="MS PUBLIC EMPLOYEES RETIREMENT">MS PUBLIC EMPLOYEES RETIREMENT</option> <option value="MS PUBLIC SERVICE COMMISSION">MS PUBLIC SERVICE COMMISSION</option> <option value="MS PUBLIC UTILITIES STAFF">MS PUBLIC UTILITIES STAFF</option> <option value="MS REAL ESTATE APPRAISAL">MS REAL ESTATE APPRAISAL</option> <option value="MS REAL ESTATE COMMISSION">MS REAL ESTATE COMMISSION</option> <option value="MS SECRETARY OF STATE">MS SECRETARY OF STATE</option> <option value="MS SOIL AND WATER CONSERVATION COMMISSION">MS SOIL AND WATER CONSERVATION COMMISSION</option> <option value="MS STATE AID ROAD PROGRAM">MS STATE AID ROAD PROGRAM</option> <option value="MS STATE AUDITOR">MS STATE AUDITOR</option> <option value="MS STATE BD OF DENTAL EXAMINER">MS STATE BD OF DENTAL EXAMINER</option> <option value="MS STATE BOARD OF CONTRACTORS">MS STATE BOARD OF CONTRACTORS</option> <option value="MS STATE BOARD OF COSMETOLOGY">MS STATE BOARD OF COSMETOLOGY</option> <option value="MS STATE BOARD OF NURSING">MS STATE BOARD OF NURSING</option> <option value="MS STATE BOARD OF OPTOMETRY">MS STATE BOARD OF OPTOMETRY</option> <option value="MS STATE BOARD OF PHYCHOLOGY">MS STATE BOARD OF PHYCHOLOGY</option> <option value="MS STATE ETHICS COMMISSION">MS STATE ETHICS COMMISSION</option> <option value="MS STATE HOSPITAL">MS STATE HOSPITAL</option> <option value="MS STATE PERSONNEL BOARD">MS STATE PERSONNEL BOARD</option> <option value="MS STATE PORT AUTHORITY">MS STATE PORT AUTHORITY</option> <option value="MS STATE SENATE">MS STATE SENATE</option> <option value="MS STATE VERTERANS AFFAIRS">MS STATE VERTERANS AFFAIRS</option> <option value="MS SUPREME COURT">MS SUPREME COURT</option> <option value="MS VALLEY STATE UNIVERSITY">MS VALLEY STATE UNIVERSITY</option> <option value="MS VETERANS HOME PURCHASE BD">MS VETERANS HOME PURCHASE BD</option> <option value="MS VETERANS MONUMENT COMM">MS VETERANS MONUMENT COMM</option> <option value="MS WORKERS COMPENSATION COMM">MS WORKERS COMPENSATION COMM</option> <option value="NORTH MS REGIONAL CENTER">NORTH MS REGIONAL CENTER</option> <option value="NORTH MS STATE HOSPITAL">NORTH MS STATE HOSPITAL</option> <option value="PAT HARRISON WATERWAY">PAT HARRISON WATERWAY</option> <option value="PEARL RIVER BASIN DEVELOPMENT">PEARL RIVER BASIN DEVELOPMENT</option> <option value="PEARL RIVER VALLEY WATER SUPP">PEARL RIVER VALLEY WATER SUPP</option> <option value="RIVER PARKWAY COMMISSION">RIVER PARKWAY COMMISSION</option> <option value="SOUTH MS REGIONAL CENTER">SOUTH MS REGIONAL CENTER</option> <option value="SOUTH MS STATE HOSPITAL">SOUTH MS STATE HOSPITAL</option> <option value="SPECIALIZED TREATMENT FACILITY">SPECIALIZED TREATMENT FACILITY</option> <option value="STATEWIDE">STATEWIDE</option> <option value="TENNESSEE TOMBIGBEE WATERWAY">TENNESSEE TOMBIGBEE WATERWAY</option> <option value="TOMBIGBEE RIVER VALLEY WATER">TOMBIGBEE RIVER VALLEY WATER</option> <option value="UNIV OF MS MEDICAL CENTER">UNIV OF MS MEDICAL CENTER</option> <option value="UNIVERSITY OF MISSISSIPPI">UNIVERSITY OF MISSISSIPPI</option> <option value="UNIVERSITY OF SOUTHERN MS">UNIVERSITY OF SOUTHERN MS</option> <option value="Warehouse Mgmt. Plant">Warehouse Mgmt. Plant</option> <option value="YELLOW CREEK PORT">YELLOW CREEK PORT</option> </select> 
+        </div> 
+        <div class="col-md-4"> 
+         <label for="BidType">RFx Type:</label> 
+         <select id="BidType" name="BidType"><option value=""></option> <option value="Request for Information">Request for Information</option> <option value="Request for Proposal">Request for Proposal</option> <option value="Request for Quote Formal">Request for Quote Formal</option> <option value="Invitation for Bid">Invitation for Bid</option> <option value="Request for Quote Informal">Request for Quote Informal</option> <option value="Negotiating Contract">Negotiating Contract</option> <option value="Negotiated Bid">Negotiated Bid</option> <option value="MDA - RFx">MDA - RFx</option> <option value="Invitation for Bid - R">Invitation for Bid - R</option> <option value="Request for Quote">Request for Quote</option> </select> 
+        </div> 
+        <div class="col-md-4"> 
+        </div> 
+       </div> 
+       <div class="row btn-row"> 
+        <div class="col-md-6"> 
+         <div class="col-md-4"> 
+          <input id="btnCancel" type="button" value="Cancel" class="contractBtn"> 
+         </div> 
+         <div class="col-md-4"> 
+          <input id="btnReset" type="button" value="Clear" class="contractBtn"> 
+         </div> 
+         <div class="col-md-4"> 
+          <input id="btnSubmit" type="button" value="Search" class="contractBtn"> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div style="padding: 30px 30px;"> 
+     <div class="row"> 
+      <div class="col-sm-12"> 
+       <div class="table-responsive"> 
+        <table id="bidTable" class="table dt-responsive"> 
+         <thead> 
+          <tr> 
+           <th>Agency</th> 
+           <th id="smartNumberColumn" class="tooltipster">Smart Number</th> 
+           <th>RFx Number</th> 
+           <th>Description</th> 
+           <th>Status</th> 
+           <th>Advertised Date</th> 
+           <th>Submission Date</th> 
+           <th>RFx Opening Date</th> 
+           <th></th> 
+          </tr> 
+         </thead> 
+         <tbody> 
+         </tbody> 
+        </table> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="row"> 
+     <div class="col-sm-12"> 
+      <a href="#top" id="backToTop">Back to top<i class="fa fa-chevron-circle-up fa-2x"></i></a> 
+     </div> 
+    </div> 
+    <div id="bidModal" class="modal fade"> 
+     <div class="modal-dialog"> 
+      <div class="modal-content"> 
+       <div class="modal-header"> 
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button> 
+        <h4 class="modal-title">Contact Details</h4> 
+       </div> 
+       <div class="modal-body"> 
+        <p>Buyer:<span id="buyer"></span></p> 
+        <p>Email:<span id="email"></span></p> 
+        <p>Phone:<span id="phone"></span></p> 
+        <p>Fax:<span id="fax"></span></p> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+  </div> 
+  <footer> 
+   <div class="row"> 
+    <div class="col-md-8"> 
+     <h4>Resources</h4> 
+     <div class="footer-links"> 
+      <div class="col-md-4"> 
+       <ul class="footerLinks"> 
+        <li><a href="http://www.ms.gov/Pages/default.aspx">MS.GOV</a></li> 
+        <li><a href="http://www.its.ms.gov/pages/default.aspx">MS DEPT of Information Technology Services (ITS)</a></li> 
+        <li><a href="http://portal.paymode.com/mississippi/">Mississippi's Chosen Payment Network</a></li> 
+        <li><a href="http://portal.paymode.com/mississippi/">Paymode</a></li> 
+       </ul> 
+      </div> 
+      <div class="col-md-4"> 
+       <ul class="footerLinks"> 
+        <li><a href="http://www.dfa.ms.gov/dfa-offices/bureau-of-building-grounds-and-real-property-management/">MS DFA: Bureau of Building</a></li> 
+        <li><a href="http://www.dfa.ms.gov/dfa-offices/purchasing-travel-and-fleet-management/">MS DFA: Office of Purchasing</a></li> 
+        <li><a href="http://www.dfa.ms.gov/dfa-offices/personal-service-contract-review/">MS DFA: Office of Personal Service Contract Review</a></li> 
+        <li><a href="http://www.mmrs.state.ms.us/">Mississippi Management and Reporting System</a></li> 
+       </ul> 
+      </div> 
+      <div class="col-md-4"> 
+       <ul class="footerLinks"> 
+        <li><a href="https://portal.magic.ms.gov/som_catalog">Statewide Contract Item Catalog</a></li> 
+        <li><a href="https://www.ms.gov/msi/help_portal">MS.Gov Help Portal</a></li> 
+       </ul> 
+      </div> 
+      <div class="clearfix"></div> 
+     </div> 
+    </div> 
+    <div class="col-md-4"> 
+     <a href="" class="pull-right"><img src="/dfa/contract_bid_search/Content/css/styles/images/logo.png" alt="ms.gov"></a> 
+    </div> 
+   </div> 
+   <div class="content-wrapper"> 
+    <div class="float-left"> 
+     <p>Copyright © 2019 - Mississippi Interactive</p> 
+    </div> 
+   </div> 
+  </footer> 
+  <div class="modal fade" id="attachmentModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
+   <div class="modal-dialog"> 
+    <div class="modal-content"> 
+     <div class="modal-header">
+       &nbsp; 
+      <button type="button" class="close" data-dismiss="modal" aria-hidden="true" style="margin: 0px;">×</button> 
+     </div> 
+     <div class="modal-body"> 
+      <div class="row"> 
+       <div class="col-sm-12"> 
+        <p>Enter Attachement Url</p> 
+       </div> 
+      </div> 
+      <div class="row"> 
+       <div class="col-lg-6"> 
+        <label>Description: <input id="txtAttachmentDesc" type="text" class="form-control" placeholder="enter attachment description"></label> 
+        <label>Url: <input id="txtAttachmentUrl" type="text" class="form-control" placeholder="enter attachment url"></label> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="modal-footer"> 
+      <button id="btnAttachmentSubmit" class="btn btn-default" data-dismiss="modal" type="button">Submit</button> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="/dfa/contract_bid_search/bundles/scripts/jquery?v=Fg4Zmgbg5yZsobtzKHLV1AMt71fG-uAcz_tS7B8voIo1"></script> 
+  <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script> 
+  <script src="/dfa/contract_bid_search/bundles/scripts/modernizr?v=dtqgLuAIjLqkWUg5M8PJAS3lUdIXrYzWCsdNomXHMGk1"></script> 
+  <script src="/dfa/contract_bid_search/bundles/scripts/utilities?v=FyaBMHgCHju5zEFkWavlzoXr8X3JxnRBZDDJ6HjphMU1"></script> 
+  <script src="/dfa/contract_bid_search/bundles/scripts/datatables?v=1DySlSQmX2t4izEOqB3M6rf1U4piNIivHC8C61u82cE1"></script> 
+  <script type="text/javascript">
+    $(document).ready(function() {
+        $("#menu").click(function() {
+            $("#mobile-menu").toggle();
+        });
+
+        var searchUrl = "/dfa/contract_bid_search/Search";
+        $("#btnFuzzySearch").on("click", function() {
+            window.location = searchUrl + "?keyword=" + $("#FuzzyKeyword").val();
+        });
+
+        $("#FuzzyKeyword").tooltipster({
+            maxWidth: 400,
+            theme: "tooltipster-shadow",
+            position: "left",
+            content: $("<p>This search can be used to find any information related to a Contract or RFx. For example:  Description, Dates, Document Status, Contract Number,  or Smart Number.</p>")
+        });
+
+    });
+</script> 
+  <!-- Global site tag (gtag.js) - Google Analytics --> 
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-52139300-1"></script> 
+  <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-52139300-1');
+</script> 
+  <script src="/dfa/contract_bid_search/bundles/scripts/bid?v=6cRAHBhjQ8myKPsbarDMb-VP23hS0BCpTVPMnM2gg5o1"></script> 
+  <script type="text/javascript">
+        $(document).ready(function() {
+            var searchUrl = "/dfa/contract_bid_search/Bid/BidData";
+            var detailsUrl = "/dfa/contract_bid_search/Bid/Details";
+            var detailsDataUrl = "/dfa/contract_bid_search/Bid/BidDetailData";
+
+            InitializeDataTable(searchUrl, detailsUrl, "#bidTable");
+
+            function resetSearch() {
+                $("#Keyword").val("");
+                $('input[name="advertised"]').prop('checked', false);
+                $('input[name="submission"]').prop('checked', false);
+                $('input[name="opening"]').prop('checked', false);
+                $("#StartDate").val("");
+                $("#EndDate").val("");
+                $("#ProcurmentCategory").val("");
+                $("#SubProcurmentCategory").val("");
+                $("#Status").val("");
+                $("#BidNumber").val("");
+                $("#ObjectID").val("");
+                $("#Agency").val("");
+                $("#BidType").val("");
+            }
+
+
+            $("#btnSearch").click(function() {
+                SearchGrid();
+                $("html,body").animate({
+                        scrollTop: $("#bidTable").offset().top
+                    },
+                    "slow");
+            });
+            $("#btnSubmit").click(function() {
+                $("#Keyword").val("");
+                SearchGrid();
+                $("html,body").animate({
+                        scrollTop: $("#bidTable").offset().top
+                    },
+                    "slow");
+            });
+
+            $("#bidTable tbody").on("click", ".bidDetail", function() {
+                $.get(detailsDataUrl + "/" + this.id, function(data) {
+
+                    $("#buyer").html(" " + data.BuyerName);
+                    $("#email").html(" " + "<a style=\"Color:#2B4C7D\" href=mailto:" + data.BuyerEmail + ">" + data.BuyerEmail + "</a>");
+                    $("#phone").html(" " + formatPhone(data.BuyerPhone));
+                    $("#fax").html(" " + formatPhone(data.BuyerFax));
+                    $("#bidModal").modal("show");
+                });
+            });
+
+            $("#advanceSearchToggle").on("click", function() {
+                $("#advanceSearchForm").toggle();
+            });
+
+            $(document).keypress(function(e) {
+                if (e.which === 13) {
+                    $("#btnSearch").click();
+                }
+            });
+
+            $("#StartDate").datetimepicker({
+                format: "MM/DD/YYYY"
+            });
+
+            $("#EndDate").datetimepicker({
+                format: "MM/DD/YYYY"
+            });
+
+            $("#bidTable thead tr th#smartNumberColumn").tooltipster({
+                maxWidth: 400,
+                theme: "tooltipster-shadow",
+                content: $("<p>A unique identifier assigned by MAGIC to identify the Agency code, Fiscal year, RFx (RFx type) and sequential number; for example, 1234-13-R-IFBD-12345 (where “R” refers to RFx)</p>")
+            });
+
+            $("#Keyword").tooltipster({
+                maxWidth: 400,
+                theme: "tooltipster-shadow",
+                position: "left",
+                content: $("<p>Keyword search is used to search for any information pertaining to the RFx and does not require an asterisk to define the search; for example, Description, Date, Status, RFx Number or RFx Smart Number. </p>")
+            });
+
+            $("#btnReset").on('click', function() {
+                resetSearch();
+            });
+
+            $("#btnCancel").on('click', function() {
+                resetSearch();
+                $('#advanceSearchForm').toggle();
+            });
+        });
+
+    </script>   
+ </body>
+</html>

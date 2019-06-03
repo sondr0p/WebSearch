@@ -1,0 +1,427 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head id="ctl00_Head1">
+  <title>
+	Mississippi State Department of Health
+</title>
+  <meta name="Description" content="The Mississippi State Board of Massage Therapy is a regulatory board created by the legislature to promote the highest possible standards of professionalism for all licensed Massage Therapists and to ensure quality of care to safeguard public health.">
+  <meta name="Keywords" content="Mississippi State Board of Massage Therapy, Massage Therapist">
+  <meta name="copyright" content="© Mississippi State Board of Massage Therapy, Mississippi State Department of Information Technology Services">
+  <link href="Style/common.css" rel="stylesheet" type="text/css">
+  <link href="Style/LARSStyle.css" rel="stylesheet" type="text/css">
+  <link href="Style/BoxStyle_Admin.css" rel="stylesheet" type="text/css">
+  <link href="Style/BoxStyles.css" rel="stylesheet" type="text/css">
+  <link href="Style/ValidatorCallout.css" rel="stylesheet" type="text/css">
+  <link href="Style/styles_layout_boxes.css" rel="stylesheet" type="text/css" media="screen">
+  <link href="Style/styles_boxes_chrome.css" rel="stylesheet" type="text/css" media="screen">
+  <link href="Style/styles_boxes_opera.css" rel="stylesheet" type="text/css" media="screen"> 
+  <script type="text/javascript" src="Javascript/DetectBrowser.js"></script> 
+  <script language="javascript" type="text/javascript" src="Javascript/Common.js"></script> 
+  <link href="/WebResource.axd?d=PPnb-Z6PyFGA6aWotLtKEENNWZP_mfbRwzqCPCzzR6CVR2wfrlFLdc2i3VCEfEzqs3L9y9NKR0J6uXVG1cDA_og0E0YrvPUyVe2wKgxGnF3N8rJtKq2N8M0rqLpkEwfj1AoAjslE8Yl8632Dme6ZeOYe1W-gYXtjGgtUfA2&amp;t=636651800221903865" type="text/css" rel="stylesheet">
+  <style type="text/css">
+	.ctl00_Menu_Menu1_0 { background-color:white;visibility:hidden;display:none;position:absolute;left:0px;top:0px; }
+	.ctl00_Menu_Menu1_1 { text-decoration:none; }
+	.ctl00_Menu_Menu1_2 { background-color:#075467;width:100%; }
+	.ctl00_Menu_Menu1_3 { border-style:none; }
+	.ctl00_Menu_Menu1_4 { padding:0px 5px 0px 5px; }
+	.ctl00_Menu_Menu1_5 { border-style:none; }
+	.ctl00_Menu_Menu1_6 {  }
+	.ctl00_Menu_Menu1_7 { border-style:none; }
+	.ctl00_Menu_Menu1_8 {  }
+	.ctl00_Menu_Menu1_9 { border-style:none; }
+	.ctl00_Menu_Menu1_10 {  }
+	.ctl00_Menu_Menu1_11 { border-style:none; }
+	.ctl00_Menu_Menu1_12 {  }
+
+</style>
+ </head> 
+ <body> 
+  <form name="aspnetForm" method="post" action="./home.aspx" onsubmit="javascript:return WebForm_OnSubmit();" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_Main_btnLogin')" id="aspnetForm"> 
+   <div> 
+    <input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value=""> 
+    <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value=""> 
+    <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value=""> 
+    <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="Y8OpMAL9BlQs7Ox3q2JrVzaiyH03ugfpziGKzMxJz0hvINL2TVPdoWFSZtm1OeDCOCn+vNUINgdJLBOZHbsd0spSUyBRiPqREFTLNX4jReDJ/NobtcQW7CmbJ8NSl9FQbz014qtdcZumxfTf6y/+VZqs+EqW48sbZKCp0c0ruhJ0pnBOKhwtbAY7+YcNcTJCF8hIycmnZAY9ry90UXFtQyIciIbOyoaWucvlQosXH+83bfKu/XhjFZvN8dw83HQIn6enT2FoawbKo0QrZ+6LCjmhTtjQVdf01GfM9l1GFMongSenUgI0kEInIAO6oSK1bUOsquzHeNHxfbxPVaitLL2xBSJCh3h18FKHiId73JpWpzhMn5o46VyZUr8Gs3rORwhxIM4nReqUbOdQgcYq01o6zdKf/r02db/glBP8Tm4Xg4nIH68NYeE2o1wVVc3rfRi822dx8nw7DoAeebVEIwomjdPz5AR0dCpRs3gHmb3qbZdEETF9UVTLc4Cu09VeORRUVIeg2Ott4BdUw91dXcINTa3TTw9QlVsKTDVCZXFS/zqaEbypZbq/Q7Fh6bskQxzv42ei4r2t2l155BrUnEkt1aRhqDZM0Pj6cPuWpokGnqXuqMynIdm67cL8Je392gKxpW6gmwLcKA6POpwKxN0YaspABZlsEEkCdp6GO+kZR6AgEkKX/dwsXqNdk6xku3c5o2iH1vOOofYy9/ncPJnmC7ZL4VUprzr+x0FNIiFmIQ/BRxFM/Y0+7sY5o8drBzr5KIFHQyaV47oZON2G+Y04u5at8Y3F1zSeye+4gXCIeY/7GfCyoNkK4y3I/QeFl/rNw4we/Mtg4oQdU/omGs+W3o3Wv5+93HLjG4FyMX2LkHde6Y87nnKbJF/Q6W+HSrAfHhXLwmqNgfZY7kVNaUaa1gvES8+m+V290IUWUlk/DOw25TLh+qS5nhrEUNFmurBkO0IxKl8EVy2cuaDeQMnVRi2D6jZep+vtfVjEKT3lnXRMGcMX/YhLqqetdHvjmVCQMR66TEGelXxvMKxYzI7FTxMSs5VA0WDER/cfxRjupz0la6B6m/P1ywzOEr0UrBAW7p8Q/bjwXJ+eu9+bOlabeU6WASNUO6OTsJohie0jETR6U43IKlbOBK2+w2wca8a7tNvthlUt5k/9fKs10a5moH4Ol60YKKvCss105qZQtFZZ5P80xijuPa23yC5HLKi/pHc2B4fxbkBajqCXECaz8fVesxgt4Tl9sQDmyOl10c7bCSZc87O1W1YdHHyEIA2sgkuBLsC119R6RvG9LCCe+Ny44td5wKkW6nqfhFKItxm4Yhoa9R1qzVwKelBbbkM0h318kzhu1Fm8auOsJ7+LDlTwYzxysArB7jRZ9GnYT3a5o+EWmz4ULFeeeONZ5JblktkOx1rHlQTDJtM6++DeRo/MnxmeSnbwTKsinTKP10Qzj+7p2/jw4ms="> 
+   </div> 
+   <script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script> 
+   <script src="/WebResource.axd?d=W1DWUKuUDLibV4xp19O5prCc3iZC9g4USRRvOxLh23WBJtl--XLqwHRVsB1bG8PfiB8Gm5U5CJU_1xLM0&amp;t=636765280020000000" type="text/javascript"></script> 
+   <script src="/ScriptResource.axd?d=rUGbo0TsjtQd2LJrdHjsDzsl9lFzF3q3nDmOt_713w1pvzzVlOQ3qfPgTyIEghaFj7LFwoCb0Ygcios0QuJJex_c8O1iESlskR0c4s6gFJAFDRDGGvByyCYrfWM1&amp;t=ffffffffe8fd9680" type="text/javascript"></script> 
+   <script src="/ScriptResource.axd?d=_-s1Vu5Me6SE4XdqI0PDulVIkbIjycRPczXWHIaNSpQpc964j7wAWlaackrK7uRxugEWUZinBPGXc4WST6BAdRBO5mnDZIpiSUQBmgW92-ANbr9KADMFpZo4qPogUYMWffJkcTndOqqfprWt0&amp;t=ffffffffe8fd9680" type="text/javascript"></script> 
+   <script src="/ScriptResource.axd?d=08sJEhdn963LOoNkJDrUzWdBhGYnSH7AUvEb3T7vDmbvwrKG_Yt3CB8W89BvGu_F2-k8FXTFsfyyM0bwkUi6Noo07Z8t8Xo_ZKeMynPafctxuBH9qpnlJXSCpH9gpNRTBu8ksU2gWNwSGC3gkjKbqxeTmdUqPsYG451rpg2&amp;t=2b48f70a" type="text/javascript"></script> 
+   <script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script> 
+   <script src="/ScriptResource.axd?d=eoYE4p88W_dfHQCFthJXKQGOnu95Prkmv1gu1CzOVNmW2VFdBjnf85K0l0ZlweyDhIhJ44xJIRRYPMEFgBjPcSSvRXJNAqQfgv8TWuI3ZvyOZp0r6GESesKu3AnhQwdJtPOAyP0TqEbGGF3Qsk3WPRxdkBVN8SLfjx6JrUdyt5QIlzWo0&amp;t=2b48f70a" type="text/javascript"></script> 
+   <script src="/ScriptResource.axd?d=WAI3sDw936YHJbqoafnKYZ5AmfOrsYTLQRaRh9jWPGZAs_jiq9m1wTVR_77H-Xpxs9huyVKsipOJEixVeqJ-y10OdPHDKbvjNhkbuZ46xrXkJNgoDj5WniruOuTW_vIBACs9dW4r9LYKTgdS0&amp;t=ffffffff9b7d03cf" type="text/javascript"></script> 
+   <script src="/ScriptResource.axd?d=_vtvgqz6Th-y04v02YBRSqnbkRxZZ-MkhIj60A-ye93Rf3BYElDvbG6khwM1Xny1i9OPo5Oj9fGfLDqF01zV6YxViZh54jZQD57z74Fz0ae29pBhrewRMTCIc5gmrpQcIGe6b5zxzyQmIcvRG9BYogULLDw1&amp;t=ffffffff9b7d03cf" type="text/javascript"></script> 
+   <script src="/ScriptResource.axd?d=ty3KHlvWfP42d2LfPqs9w_K22uuNKVBqXuf9f0dZjO7IkkbjZcq8wqesl6AxmKe3I0ZA0IJY5GPXDMX-E1631IlFxYKlm-AWiYtY69jr11G7Y8CXnps7V-nvlQvCqWRYmRIQhwIgfpZDL7Tjfz6layywek41&amp;t=ffffffff9b7d03cf" type="text/javascript"></script> 
+   <script src="/ScriptResource.axd?d=rMXxkv2DYYwGc2lMSogEsK3MBqwHeCCIkS_ouczINODAhFFpvDu-y5qbfDEVy2tnCWasiNWz5wk5fkH0KtO8q6iMKglmNPXcPrUtlS2SGlJrwW8lQOYz6Tq6UgPoNhKpukk1eM7UK25sOV-AZPLvSMZpL481&amp;t=ffffffff9b7d03cf" type="text/javascript"></script> 
+   <script src="/ScriptResource.axd?d=qv5bUVCrUCvu619Kg00o6tmgX0Q0uYhU1uX-5ytd1LhJdrI_ibIxZ4CtGkI53ruDQumbxe_ZdtmCEHORsTds9gqq-Nvx3-pSk_KHb0l09FiIl60c6XnM__p9vnh3gBs592pS2jKj_5ECsJpIy0E5lvvPQyPNztVpp9nzfQ2&amp;t=ffffffff9b7d03cf" type="text/javascript"></script> 
+   <script src="/ScriptResource.axd?d=kaC4rCmc5NXq96Z3BVWUQStRGJEVBPhrpXfhFHFQRXCZbnEngz0WC8ydmGUb3lbfO-5vFmTcayPF4bZp0Iz966Ql0_WnGFgzeOkRaQlVqmA6t3QtGhW6efF7g8IifUHc234Jtv9jhYybp1kh8N9z67bnoeHE9UPgT6yRqw2&amp;t=ffffffff9b7d03cf" type="text/javascript"></script> 
+   <script src="/ScriptResource.axd?d=xwLBHJhrUhNHNWGOSuGCx5QR88tJQICJ1l8KuICSyOBdbSnA7Yyt0pU8S0TUz-wK3kAIBU8fc6r4MbPij4nEz3kC9U3AI9KHD-mN-Ag7p746WZgejzL0pMguYOB0GzW6YA44uwbO1oNAY3CxPhw7DOocQh9-UpGJZA-XeXKqAHK8FyZdFwq5gG-OVt81&amp;t=ffffffff9b7d03cf" type="text/javascript"></script> 
+   <script src="/WebResource.axd?d=oKmeI6regnwREN3pksQ1ijIIo85paxOvFqKGX4AfYQDWsohfu2P8nRf3hRwalK_8syW3p2KTVBGF0rJy0&amp;t=636765280020000000" type="text/javascript"></script> 
+   <script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+null;if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script> 
+   <div> 
+    <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="8D0E13E6"> 
+    <input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0"> 
+    <input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0"> 
+    <input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="4unjkDDDEmbWf80i3/tQbyLAwwH0F3lSQMD4I6aKXXodAgLDjVEWa00zbpC/tIoVf26SrCcJcK4XVN+TR1blBE7BRDFb4rZ92CMzwlgeH0dzH60k+bKSAK9cqMeI0jHu29rGrT5568R945wLsK7Y5rrZKSyb2Sv1dZs3TTDaC/Vf24Oezbgn1GgwRZ5FaaUol5YLvzciEZn/enePbE+VltoFATcNdR1L2v4ud8nUqHj1Me5aZ06te+9WAB9xgs2o1xvWH3Te7vkAoHik0QOgrLLMB+YR0ZSQq0z9GQ=="> 
+   </div> 
+   <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$smMaster', 'aspnetForm', ['tctl00$Main$updPnlIndLogin',''], [], ['ctl00$Main$drpLicType',''], 90, 'ctl00');
+//]]>
+</script> 
+   <!-- BEGIN WRAPPERS --> 
+   <div id="wrap"> 
+    <div id="wrapinside"> 
+     <!-- BEGIN HEADER IMAGE --> 
+     <div class="headerbox"> 
+      <!-- For the image to have the appearance of round corners, the following must be the way the image is to be called.  --> 
+      <span id="header-main"> <img id="header-logo" alt="logo" src="images/admin_header.png"> </span> 
+     </div> 
+     <!-- END HEADER IMAGE --> 
+     <div style="float: left; background-color: #075467; height: 5px; width: 100%"> 
+     </div> 
+     <!-- BEGIN Menu and Content section --> 
+     <div class="cssMenuAndContentContainer"> 
+      <!-- BEGIN Menu section --> 
+      <div class="cssMenuContainerNew"> 
+       <a href="#ctl00_Menu_Menu1_SkipLink"><img alt="Skip Navigation Links" src="/WebResource.axd?d=bwoczVJcgBtwy9rWxbIfbxPD92EgGWO6hVh10ctzIKTd8Pvittf5gAduLJbRR8vYBaWPtv40aC5jK55Y0&amp;t=636765280020000000" width="0" height="0" style="border-width:0px;"></a>
+       <table id="ctl00_Menu_Menu1" class="cssVerticalMenu ctl00_Menu_Menu1_2" cssmenudynamicitem-horizontalpadding="5" cellpadding="0" cellspacing="0" border="0"> 
+        <tbody>
+         <tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu_Menu1n0"> 
+          <td>
+           <table class="cssMenuStaticItem ctl00_Menu_Menu1_4 cssMenuStaticItemSelected ctl00_Menu_Menu1_8" cellpadding="0" cellspacing="0" border="0" width="100%"> 
+            <tbody>
+             <tr> 
+              <td style="white-space:nowrap;width:100%;"><a class="ctl00_Menu_Menu1_1 cssMenuStaticItem ctl00_Menu_Menu1_3 cssMenuStaticItemSelected ctl00_Menu_Menu1_7" href="/home.aspx" style="border-style:none;font-size:1em;">Licensing</a></td> 
+             </tr> 
+            </tbody>
+           </table></td> 
+         </tr>
+         <tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu_Menu1n1"> 
+          <td>
+           <table class="cssMenuStaticItem ctl00_Menu_Menu1_4" cellpadding="0" cellspacing="0" border="0" width="100%"> 
+            <tbody>
+             <tr> 
+              <td style="white-space:nowrap;width:100%;"><a class="ctl00_Menu_Menu1_1 cssMenuStaticItem ctl00_Menu_Menu1_3" href="javascript: var win = window.open('http://www.msbmt.state.ms.us/msbmt/web.nsf/webpages/LN_FAQs_Page_FAQ?OpenDocument');" style="border-style:none;font-size:1em;">FAQ</a></td> 
+             </tr> 
+            </tbody>
+           </table></td> 
+         </tr>
+         <tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu_Menu1n2"> 
+          <td>
+           <table class="cssMenuStaticItem ctl00_Menu_Menu1_4" cellpadding="0" cellspacing="0" border="0" width="100%"> 
+            <tbody>
+             <tr> 
+              <td style="white-space:nowrap;width:100%;"><a class="ctl00_Menu_Menu1_1 cssMenuStaticItem ctl00_Menu_Menu1_3" href="/ContactUs.aspx" style="border-style:none;font-size:1em;">Contact Us</a></td> 
+             </tr> 
+            </tbody>
+           </table></td> 
+         </tr> 
+        </tbody>
+       </table>
+       <a id="ctl00_Menu_Menu1_SkipLink"></a> 
+      </div> 
+      <!-- END Menu section --> 
+      <!-- BEGIN Content section --> 
+      <div class="cssMainContainer"> 
+       <!--===============================================================================================================
+' Programmer: Pradeep Pudu Kumar
+' Created On: 3/16/2010 
+' Version   : 1.0
+' Functionality : Home page for the Licensing application 
+'================================================================================================================--> 
+       <style type="text/css">
+        .cssHelpDiv
+        {
+            visibility: hidden;
+            position: absolute;
+            background-color: #D8EC3B;
+            color: #1E5535;
+            text-align: left;
+            font-family: Arial;
+            font-size: 12px;
+            border: solid 1px #21315C;
+            z-index: 10;
+            padding: 3px;
+            -webkit-box-shadow: 0 0 6px #000;
+            -moz-box-shadow: 0 0 6px #000;
+            -o-box-shadow: 0 0 6px #000;
+            -khtml-box-shadow: 0 0 6px #000;
+            box-shadow: 0 0 6px #000;
+        }
+    </style> 
+       <script type="text/javascript">
+        function isNumberKey(evt) {
+            return true;
+            if (!evt)
+                return false;
+
+            var charCode = (evt.which) ? evt.which : event.keyCode;
+            if (charCode > 31 && charCode != 45 && (charCode < 48  || charCode > 57))
+                return false;
+
+            return true;
+        }
+        function fnCheckSSN(source, arguments) {
+            var SSN, msg;
+            msg = source.innerHTML;
+            SSN = arguments.Value;
+            arguments.IsValid = true;
+            if (SSN.length != 4) {
+                msg = msg + "SSN must contain 4 digits. ";
+                arguments.IsValid = false;
+                source.innerHTML = msg;
+                source.style.display = 'block';
+                return;
+            }
+            source.style.display = 'none';
+        }
+        function fnCheckEIN(source, arguments) {
+            var EIN, msg;
+            EIN = arguments.Value.replace("-","");
+            arguments.IsValid = true;
+            if (EIN.length != 9) {
+                msg = "EIN must contain 9 digits. ";
+                arguments.IsValid = false;
+                source.innerHTML = msg;
+                source.style.display = 'block';
+                return;
+            }
+            source.style.display = 'none';
+        }
+        function displayTipForThis(tipCtlId, ctl, orientation) {
+            var tipCtl = document.getElementById(tipCtlId);
+            var ctlWidth = ctl.clientWidth + 8;
+
+            if ((BrowserDetect.browser == "Explorer") && (BrowserDetect.version < 8)) {
+                tipCtl.style.visibility = "visible";
+                tipCtl.style.display = "block";
+            }
+            else {
+                var offset = cumulativeOffset(ctl);
+
+                if (orientation != 'right')
+                    tipCtl.style.left = offset.left + ctlWidth + "px";
+                else
+                    tipCtl.style.left = (offset.left - 270) + "px";
+                tipCtl.style.top = offset.top + "px";
+                tipCtl.style.visibility = "visible";
+                tipCtl.style.display = "block";
+            }
+        }
+        var cumulativeOffset = function (element) {
+            var top = 0, left = 0;
+            do {
+                top += element.offsetTop || 0;
+                left += element.offsetLeft || 0;
+                element = element.offsetParent;
+            } while (element);
+
+            return {
+                top: top,
+                left: left
+            };
+        };
+
+        //Function to close the tips window
+        function closeTip(tipCtlId) {
+            var tipCtl = document.getElementById(tipCtlId);
+            tipCtl.style.display = "none";
+            tipCtl.style.visibility = "hidden";
+        }
+
+    </script> 
+       <script language="javascript" type="text/javascript">
+
+        function fnSetFocusOndefault() {
+            document.getElementById('ctl00_Main_btnLogin').focus();
+        }
+                
+    </script> 
+       <div id="ctl00_Main_updPnlIndLogin"> 
+        <div id="ctl00_Main_pnlProviderBroadcastMessage" style="text-align: center;
+                width: 700px; margin: 0 auto 0 auto;"> 
+        </div> 
+        <div style="margin-left: 10px; text-align: center; width: 770px; margin-top: 20px;
+                margin-bottom: 20px"> 
+         <center> 
+          <div class="drop-shadow raised" style="width:250px;"> 
+           <label class="cssAsterisk">*</label> 
+           <label>indicates a required field.</label> 
+          </div> 
+         </center> 
+        </div> 
+        <div id="ctl00_Main_pnlLogin"> 
+         <div class="box450" style="margin: 0 auto 0 auto; width: 400px;"> 
+          <div class="box450Header" style="width: 405px;">
+            Login 
+          </div> 
+          <table align="center" width="98%" border="0"> 
+           <tbody>
+            <tr valign="top"> 
+             <td align="right" valign="top"> 
+              <table width="100%" border="0" align="left"> 
+               <tbody>
+                <tr> 
+                 <td align="right" style="width: 50%"> <span id="ctl00_Main_reqvalLicType" class="cssValMsg" style="color:Red;display:none;"></span> <label class="cssAsterisk"> *</label> <span id="ctl00_Main_lblLicType" class="cssLabelSmall" style="font-weight:bold;">Select License Type</span> </td> 
+                 <td align="left" style="width: 50%"> <select name="ctl00$Main$drpLicType" onchange="javascript:setTimeout('__doPostBack(\'ctl00$Main$drpLicType\',\'\')', 0)" id="ctl00_Main_drpLicType" tabindex="1" class="cssDrpDwnlst" style="width:200px;"> <option selected value="">&lt;&lt; Select One &gt;&gt;</option> <option value="WO-A">Water Operator - Cert A</option> <option value="WO-B">Water Operator - Cert B</option> <option value="WO-C">Water Operator - Cert C</option> <option value="WO-D">Water Operator - Cert D</option> <option value="WO-E">Water Operator - Cert E</option> <option value="BP">Backflow Assembly Tester</option> </select> <input type="hidden" name="ctl00$Main$vcoutLicType_ClientState" id="ctl00_Main_vcoutLicType_ClientState"> </td> 
+                </tr> 
+               </tbody>
+              </table> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+         </div> 
+        </div> 
+        <center> 
+         <span id="ctl00_Main_errMsg"></span>
+        </center> 
+        <div style="position: relative; top: -2px"> 
+         <table width="90%" border="0" align="center"> 
+          <tbody>
+           <tr> 
+            <td align="center"> 
+             <div id="ctl00_Main_PrgsIndLogin" style="visibility:hidden;display:block;"> 
+              <div style="position: relative; left: 40px"> 
+               <img src="images/wheelLoading.gif" alt=""> 
+               <label class="cssLabelSmall"> Please Wait...</label> 
+              </div> 
+             </div> </td> 
+           </tr> 
+          </tbody>
+         </table> 
+        </div> 
+       </div> 
+      </div> 
+      <!-- END Content section --> 
+      <div style="clear: both;"> 
+      </div> 
+     </div> 
+     <!-- END Menu and Content section --> 
+     <div style="float: left; background-color: #075467; height: 1px; width: 100%"> 
+     </div> 
+     <div> 
+      <div style="text-align: center; "> 
+       <div style="color: #30859F; font-family: Arial; font-size: 9pt; ">
+         &nbsp; 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <!-- END WRAPPERS --> 
+   <br> 
+   <center> 
+    <div style="color: #30859F; font-family: Arial; font-size: 8pt; border: solid 0px black;
+    width: 960px"> 
+     <div style="position: relative; left: -20px; float: left; width: 25%;"> 
+      <a href="http://www.ms.gov/" target="_blank"> <img src="images/msgovlogo.png" id="ctl00_Footer1_msgov" alt="Mississippi's Official Website - ms.gov" name="msgov" border="0"></a> 
+     </div> 
+     <div style="position: relative; left: 10px; color: #30859F; font-family: Arial; text-align: center;
+        width: 55%; font-size: 8pt; float: left; border: solid 0px black">
+       © Copyright 2019 Mississippi State Department of Health,
+      <br> Mississippi Department of Information Technology Services. All Rights Reserved. 
+      <br> 
+      <a href="http://msdh.ms.gov/msdhsite/index.cfm/4,14,56,32,html" target="_blank" style="color: #30859F; font-family: Arial;
+            font-size: 8pt;">Mississippi State Department of Health Website Disclaimer</a> 
+      <br> Many documents provided within this website are in Adobe Acrobat PDF format. 
+      <br> 
+      <a href="http://www.adobe.com/products/acrobat/readstep.html" style="color: #30859F;
+            font-family: Arial; font-size: 8pt;" target="_blank" title="Adobe Acrobat Reader - http://www.adobe.com/products/acrobat/readstep.html"> http://www.adobe.com/products/acrobat/readstep.html</a> 
+     </div> 
+     <div style="position: relative;  float: left; width: 20%;
+        vertical-align: middle; border: solid 0px black"> 
+      <span><a href="http://www.adobe.com/products/acrobat/readstep.html" target="_blank" style="color: #30859F; font-family: Arial; font-size: 8pt;" title="Adobe Acrobat Reader - http://www.adobe.com/products/acrobat/readstep.html"> <img src="images/get_adobe_reader.gif" id="ctl00_Footer1_adobeimg" border="0" alt="Click to download your free copy of Adobe Acrobat Reader"></a> </span> 
+     </div> 
+    </div> 
+   </center> 
+   <script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("ctl00_Main_reqvalLicType"));
+//]]>
+</script> 
+   <script type="text/javascript">
+//<![CDATA[
+var ctl00_Main_reqvalLicType = document.all ? document.all["ctl00_Main_reqvalLicType"] : document.getElementById("ctl00_Main_reqvalLicType");
+ctl00_Main_reqvalLicType.controltovalidate = "ctl00_Main_drpLicType";
+ctl00_Main_reqvalLicType.errormessage = "License Type is a required field";
+ctl00_Main_reqvalLicType.display = "None";
+ctl00_Main_reqvalLicType.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_Main_reqvalLicType.initialvalue = "";
+//]]>
+</script> 
+   <noscript>
+    <meta http-equiv="refresh" content="0;url=ErrorPage.aspx">
+   </noscript> 
+   <script type="text/javascript">
+//<![CDATA[
+var ctl00_Menu_Menu1_Data = new Object();
+ctl00_Menu_Menu1_Data.disappearAfter = 500;
+ctl00_Menu_Menu1_Data.horizontalOffset = 0;
+ctl00_Menu_Menu1_Data.verticalOffset = 0;
+ctl00_Menu_Menu1_Data.hoverClass = 'ctl00_Menu_Menu1_12 cssMenuDynamicItemHover';
+ctl00_Menu_Menu1_Data.hoverHyperLinkClass = 'ctl00_Menu_Menu1_11 cssMenuDynamicItemHover';
+ctl00_Menu_Menu1_Data.staticHoverClass = 'ctl00_Menu_Menu1_10 cssMenuStaticItemHover';
+ctl00_Menu_Menu1_Data.staticHoverHyperLinkClass = 'ctl00_Menu_Menu1_9 cssMenuStaticItemHover';
+ctl00_Menu_Menu1_Data.iframeUrl = '/WebResource.axd?d=eanYCHrmtUHTSraIU5T7XHPKDBKimhmezr0ntxA0Z6auJB8_uXhmM0MDO2kSh_gFZfr9hs4ryEFFEgbg0&t=636765280020000000';
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+WebForm_AutoFocus('ctl00_Main_drpLicType');
+document.getElementById('ctl00_Main_reqvalLicType').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_Main_reqvalLicType'));
+}
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.ValidatorCalloutBehavior, {"ClientStateFieldID":"ctl00_Main_vcoutLicType_ClientState","closeImageUrl":"/WebResource.axd?d=nUTxB-KQQWv73sm25pjoKg0xwI3nLvl36SILDGlzbPxmWPakinjWKzTr8PQqbni9j0iyZuyBwmyd8wOHOkixVC6fTBtjSyg_xvYd88QGeJnFHx3lbVGrH9I3g8S8dU2poSAYHnZaaMtxeOk9q63AhOmWl7E1\u0026t=636651800221903865","cssClass":"myStyle","highlightCssClass":"cssValCalloutHighlight","id":"ctl00_Main_vcoutLicType","warningIconImageUrl":"/WebResource.axd?d=aJUhJ_Jbpd0FXB-EBZbkrR3x6uftH8kBsKX9so5qrfI-Cl6ktiXofCwctvgPu-q3d785J306xldTVp9-Jvo6PKqTHpMl9JCRnd0TirrDd2iki5DkES_Tz7OKUW5I0vpzfD1AuOS-CiQajZ92yKaGx5jLEiE1\u0026t=636651800221903865"}, null, null, $get("ctl00_Main_reqvalLicType"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"ctl00_Main_updPnlIndLogin","displayAfter":500,"dynamicLayout":false}, null, null, $get("ctl00_Main_PrgsIndLogin"));
+});
+//]]>
+</script> 
+  </form>   
+ </body>
+</html>

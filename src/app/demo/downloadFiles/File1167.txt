@@ -1,0 +1,450 @@
+<!doctype html>
+<html lang="en">
+ <head> 
+  <!-- emiProtocol == (none) --> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <style type="text/css">
+#cmaControlsContainer {
+  position: fixed;
+  left: 100%;
+  background-color: #fff;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  z-index: 9999999999;
+  display: block;
+  -webkit-transition-duration: 1s;
+  -o-transition-duration: 1s;
+  transition-duration: 1s;
+  -webkit-box-shadow: 2px 2px 15px 0px rgba(0, 0, 0, 0.4);
+  box-shadow: 2px 2px 15px 0px rgba(0, 0, 0, 0.4); }
+  #cmaControlsContainer #toolsToggle {
+    position: absolute;
+    right: 100%;
+    top: 0;
+    display: inline-block;
+    border-top-left-radius: 15px;
+    padding: 10px 25px 10px 10px;
+    background-color: #288079;
+    color: white;
+    font-size: 1.2em;
+    border-bottom-left-radius: 15px;
+    -webkit-box-shadow: 2px 2px 15px 0px rgba(0, 0, 0, 0.4);
+    box-shadow: 2px 2px 15px 0px rgba(0, 0, 0, 0.4); }
+    #cmaControlsContainer #toolsToggle:hover, #cmaControlsContainer #toolsToggle:focus {
+      background-color: white;
+      color: #288079; }
+  #cmaControlsContainer #cmaControls {
+    display: none;
+    padding: 10px 20px; }
+    #cmaControlsContainer #cmaControls a {
+      margin-bottom: 5px;
+      border-bottom: 1px solid black; }
+    #cmaControlsContainer #cmaControls a, #cmaControlsContainer #cmaControls select {
+      display: block; }
+  #cmaControlsContainer.open {
+    left: inherit;
+    right: 0; }
+    #cmaControlsContainer.open #cmaControls {
+      display: inline-block; }
+</style> 
+  <!-- State Of Michigan - Mon May 06 12:10:52 2019 --> 
+  <!-- e-Michigan Portal - Process #5, Server www --> 
+  <link rel="canonical" href="https://www.michigan.gov/taxes/0,4676,7-238-43513_75466---,00.html"> 
+  <title>Taxes - Income Tax Self-Service</title> 
+  <meta name="DESCRIPTION" content="Taxes Site - Where's My Refund?"> 
+  <meta name="KEYWORDS" content="No Keywords"> 
+  <base target="_top"> 
+  <!-- global styles -->
+  <link rel="stylesheet" type="text/css" href="/css/fullcalendar.css"> 
+  <!-- global scripts RD-->
+  <!-- AN styles added Jan 2016 for bootstrap migration--> 
+  <link rel="stylesheet" href="/font-som-icons/css/somicons.min.css"> 
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"> 
+  <link rel="stylesheet" type="text/css" href="/bootstrap/css/bootstrap.min.css"> 
+  <!-- global styles RD--> 
+  <link rel="stylesheet" type="text/css" href="/css/fullcalendar.css"> 
+  <link href="/css/jquery.bxslider.css" type="text/css" rel="stylesheet"> 
+  <link href="/css/rdLayout.css" type="text/css" rel="stylesheet"> 
+  <link href="/css/responsive-component-defaults.css" type="text/css" rel="stylesheet"> 
+  <!--javascripts --> 
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script> 
+  <script src="/bootstrap/js/bootstrap.min.js"></script> 
+  <script src="/js/fullcalendar.js" type="text/javascript"></script> 
+  <script src="/js/jquery.meanmenu.js"></script> 
+  <script src="/js/jquery.bxslider.js"></script> 
+  <script src="/js/jquery.rwdImageMaps.js"></script> 
+  <script src="/js/jquery.validate.js"></script> 
+  <script src="/js/additional-methods.js"></script> 
+  <script src="/js/responsiveComponents.js"></script> 
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.0/jquery.matchHeight-min.js"></script> 
+  <!--[if (lt IE 9)]>
+<script>
+document.createElement('header');
+document.createElement('nav');
+document.createElement('section');
+document.createElement('article');
+document.createElement('aside');
+document.createElement('footer');
+document.createElement('time');
+</script>
+<script src="/js/respond.js"></script>
+<link href="/css/migov_ie8.css" rel="stylesheet" media="all" />
+<![endif]--> 
+  <script src="/js/main_navigation_script.js" type="text/javascript"></script> 
+  <link rel="stylesheet" type="text/css" href="/css/main_navigation.css"> 
+  <!-- RD MODE globalRD.CSS -->
+  <style>  BODY {background-color : #ffffff}#subTop {display:none}a.themeLink, a.themeLink:visited {color: #1a2842;border: #1a2842 1px solid;background-color:  #ffffff}a.themeLink:hover {color: #ffffff;background-color: #1a2842;border: #1a2842 1px solid}/*------------LEFT NAV MAIN MENU----------------*/#mainnav UL#TOP_NAV_LINKS {BACKGROUND-COLOR: #1a2842}#mainnav LI A, #nav LI A {BACKGROUND-COLOR: #1a2842;color:#ffffff}#mainnav LI A:hover, #nav LI A:hover {BACKGROUND-COLOR: #ffffff;color: #1a2842}#mainnav LI A.current, #mainnav LI A.current:hover, #nav LI A.current, #nav LI A.current:hover,#mainnav LI A.current0, #mainnav LI A.current0:hover, #nav LI A.current0, #nav LI A.current0:hover{BACKGROUND-COLOR: #ffffff;color: #1a2842}/*----------RESPONSIVE TABBED/ACCORDION AGENCY COLORS------------------*/.responsive-tabs__list__item {background: #ffffff;color: #1a2842}.responsive-tabs__list__item:hover {background: #1a2842;color: #ffffff}.responsive-tabs__list__item--active, .responsive-tabs__list__item--active:hover {background: #1a2842;color: #ffffff}.responsive-tabs__heading {background: #1a2842}.responsive-tabs__heading h2, .responsive-tabs__heading a, .responsive-tabs__heading a:visited {color: #ffffff}.responsive-tabs__heading a:hover {color: #ffffff}.responsive-tabs__heading:hover, .responsive-tabs__heading:hover a {background: #ffffff;color: #1a2842}.responsive-tabs__heading--active {background: #1a2842;color: #ffffff}.responsive-tabs__heading--active a, .responsive-tabs__heading--active a:visited {background: #1a2842;color: #ffffff}/*----------RESPONSIVE ACCORDION AGENCY COLORS------------------*/.responsive-accordion__heading a:hover, .responsive-accordion__heading a:visited:hover,.responsive-accordion__heading  a.not-active:hover {BACKGROUND-COLOR: #ffffff;color:#1a2842}.responsive-accordion__heading a {BACKGROUND-COLOR: #1a2842;color:#ffffff; border: 0px solid #1a2842}.responsive-accordion a.not-active{pointer-events: all;}/*-----------SOCIAL NAV BAR COLORS--------------*/#social_nav_horizontalRD .utilityItems div a {background-color: #ffffff}/*---------CATEGORIZED LIST }-----------*/.cTitle,.catCallDisplayText1, .catCallDisplayText1 a {background-COLOR: #ffffff;COLOR: #1a2842</style>
+  <!-- Agency Header -->
+  <!-- Agency Header do not include the globalcss file -->
+  <link rel="stylesheet" href="/css/jquery.bxslider.css" type="text/css"> 
+  <link href="/css/responsive-component-defaults.css" type="text/css" rel="stylesheet"> 
+  <link href="/css/main_navigation_horizontal.css" rel="stylesheet" type="text/css"> 
+  <script src="/js/jquery.bxslider.js"></script> 
+  <script src="/js/responsiveComponents.js"></script> 
+  <script type="text/javascript"> 
+jQuery(document).ready(function () {
+jQuery('nav.main-navigation').meanmenu({
+meanScreenWidth:"1170",
+mainSite:false,
+main_width:"100%",
+menu_width:"100%",
+rightNavSite: true,
+horMenu:true,
+rightNav_width:"20%",
+topNavSearch_position:"-60px"
+});
+if (window.location.href.indexOf(",00.html") < 0 ) {   
+$( "#main.TW.page" ).addClass("full-width");
+} else { $( "#main.TW.page" ).addClass("innerPage");}
+});</script> 
+  <link href="/documents/treasury/treasury_401193_7.css" rel="stylesheet" type="text/css"> 
+  <style>#nav > li {width: calc(100% / 6)!important;max-width: calc(100% / 6)!important;}</style>
+  <!--/ Agency Header-->
+  <!--/ Agency Header-->
+  <link href="/css/rdHbContactInfo.css?1493914492" type="text/css" rel="stylesheet"> 
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js"></script> 
+  <script src="/js/gtm.js?v=1501512057"></script> 
+ </head> 
+ <body class="agy-taxes"> 
+  <div role="navigation" aria-label="skip nav"> 
+   <noscript> 
+    <div class="alert bg bg-accent-1 text-center"> 
+     <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> Browsers that can not handle javascript will not be able to access some features of this site. 
+     <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> 
+    </div> 
+    <style type="text/css">
+body.matching-heights-processing:before,body.matching-heights-processing:after {
+content:'';
+height:0px;
+width:0px;
+}
+</style> 
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WTW7M9" height="0" width="0" style="display:none;visibility:hidden"></iframe> 
+   </noscript> 
+   <div id="noAdBlock" style="display:none;" class="alert bg bg-accent-1 text-center"> 
+    <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> Some functions of this site are disabled for browsers blocking jQuery. 
+    <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> 
+   </div> 
+   <div id="_TopOfPage"></div> 
+   <script>
+			function doAnalyticsGo(sndx) {
+				var dest = sndx.options[sndx.selectedIndex].value;
+				if (dest == 0) {
+					alert('Please make a selection.');
+					return false;
+				} else {
+					document.location.href=dest;
+					return false;
+				}
+			}
+		</script>
+   <a href="#main" class="sr-only sr-only-focusable">Skip to main content</a> 
+  </div> 
+  <div id="container" class="container-fluid"> 
+   <!-- agencyHeaderNavPath agencyCreateHeaderNavRD --> 
+   <div id="bannerArea" role="banner">
+    <!-- HEADER 1.1 Live -->
+    <div id="superTop" role="navigation" aria-label="main navigation">
+     <ul id="bannerLinks">
+      <li><a href="/taxes" title="Home">Home</a></li>
+      <li><a href="/taxes/0,4676,7-238-43513_75466-8483--,00.html" title="Contact Us">Contact Us</a></li>
+      <li><a href="/taxes/0,4676,7-238-43688---,00.html" title="Forms">Forms</a></li>
+      <li><a href="/taxes/0,4676,7-238-75545---,00.html" title="FAQs">FAQs</a></li>
+      <li><a href="/treasury" title="Treasury  Home">Treasury Home</a></li>
+      <li class="migovlink"><a href="http://www.michigan.gov/" title="MI Gov Home">MI.gov</a></li>
+     </ul>
+    </div>
+    <div id="screenwidth"></div>
+    <div id="siteBanner"> 
+     <a class="AGENCY_HEADER_L" accesskey="1" href="/taxes/"><img class="AGENCY_HEADER_L" src="/images/taxes/taxes-header-logo_508723_7.png" alt="Taxes - Taxes Site "></a> 
+     <img class="AGENCY_HEADER_R" src="/images/taxes/Mi-govTopBanner_176960_7.jpg" alt="Taxes Site ">
+    </div> 
+    <div class="siteBannerTxt">
+     Taxes Site 
+    </div> 
+    <!-- TOPNAV -->
+    <div id="topNavSearch"> 
+     <!-- SEARCH -->
+     <form id="searchform" onsubmit="location.href='https://search.michigan.gov/AppBuilder/search?ctx=TAXES&amp;q=' + document.getElementById('query').value;return false;"> 
+      <input accesskey="s" type="TEXT" autocomplete="off" id="query" name="q" placeholder="Search" title="Search"> 
+      <input id="go" type="submit" value="search" name="button" onClick="location.href='https://search.michigan.gov/AppBuilder/search?ctx=TAXES&amp;q=' + document.getElementById('query').value;return false;"> 
+     </form>
+     <!-- /SEARCH -->
+    </div>
+    <!-- utility bar /includes/utilityBarRD.html --> 
+    <script> 
+function emishare_click(social_utility) {
+                       var statusType = "";
+                       var createURL = "";
+                       var tempurl = "";
+                       url = location.href;
+                       //url = "http://mi.gov";
+                           createURL = encodeURIComponent(url);
+                           statusType = "Reading:"
+                           //alert(social_utility);
+                  
+                       t = document.title;
+                       if (social_utility == "twitter") {
+                           window.open('http://twitter.com/home?status= ' + statusType + "%20" + encodeURIComponent(url));
+                       }
+                       if (social_utility == "facebook") {
+                           window.open('http://www.facebook.com/sharer.php?u=' + createURL, 'sharer', 'toolbar=0,status=0,width=626,height=436');
+                       }
+                   
+                      return false;
+                  }
+</script> 
+    <div id="social_nav_horizontalRD">
+     <div class="utilityItems"> 
+      <div></div>
+      <div>
+       <a id="fb" href="#" onclick="return emishare_click('facebook')" title="Share this Link on Facebook"><img src="/images/fb.png" alt="Share this Link on Facebook"></a>
+      </div>
+      <div>
+       <a id="tw" href="http://www.twitter.com/" onclick="return emishare_click('twitter')" target="_blank" title="Tweet this page on Twitter"><img src="/images/tw.png" alt="Tweet this page on Twitter!"></a>
+      </div> 
+     </div>
+    </div>
+   </div>
+   <!-- LEFTNAV agencyCreateLeftNavRD --> 
+   <!-- bodyWrapper --> 
+   <div id="bodyWrapper"> 
+    <div id="menu" role="navigation" aria-label="Site" class=""> 
+     <div id="flyout">
+      <nav class="main-navigation">
+       <ul id="nav" class=""> 
+        <!-- State Of Michigan - Wed Mar 20 09:52:00 2019 --> 
+        <!-- e-Michigan Portal - Process #2 --> 
+        <!-- Begin Global Nav section -->
+        <!-- End Global Nav section --> 
+        <!-- Begin Responsive Navigation --> 
+        <li id="43513" class="id-43513 has-subs"> <a class="lvl1" title="Individual Income Tax" href="/taxes/0,4676,7-238-43513---,00.html">Individual Income Tax</a> <a title="show sub link for Individual Income Tax" href="#ul_43513" data-target-list="ul_43493" class="toggle-sub-list" style="display:none;"></a> 
+         <ul id="ul_43513" class="sub-list"> 
+          <li id="75466" class="id-75466 "> <a class="lvl2" title="Individual Income Tax, Income Tax Self-Service" href="/taxes/0,4676,7-238-43513_75466---,00.html">Income Tax Self-Service</a> </li> 
+         </ul> </li> 
+        <li id="43519" class="id-43519 has-subs"> <a class="lvl1" title="Business Taxes" href="/taxes/0,4676,7-238-43519---,00.html">Business Taxes</a> <a title="show sub link for Business Taxes" href="#ul_43519" data-target-list="ul_43493" class="toggle-sub-list" style="display:none;"></a> 
+         <ul id="ul_43519" class="sub-list"> 
+          <li id="67656" class="id-67656 "> <a class="lvl2" title="Business Taxes, Michigan Treasury Online" href="/taxes/0,4676,7-238-43519_67656---,00.html">Michigan Treasury Online</a> </li> 
+          <li id="43521" class="id-43521 "> <a class="lvl2" title="Business Taxes, New Business Registration" href="/taxes/0,4676,7-238-43519_43521---,00.html">New Business Registration</a> </li> 
+          <li id="46621" class="id-46621 "> <a class="lvl2" title="Business Taxes, Michigan Business Tax" href="/taxes/0,4676,7-238-43519_46621---,00.html">Michigan Business Tax</a> </li> 
+          <li id="59553" class="id-59553 "> <a class="lvl2" title="Business Taxes, Corporate Income Tax" href="/taxes/0,4676,7-238-43519_59553---,00.html">Corporate Income Tax</a> </li> 
+          <li id="43529" class="id-43529 "> <a class="lvl2" title="Business Taxes, Sales and Use Tax" href="/taxes/0,4676,7-238-43519_43529---,00.html">Sales and Use Tax</a> </li> 
+          <li id="43531" class="id-43531 "> <a class="lvl2" title="Business Taxes, Withholding Tax" href="/taxes/0,4676,7-238-43519_43531---,00.html">Withholding Tax</a> </li> 
+          <li id="61040" class="id-61040 "> <a class="lvl2" title="Business Taxes, Flow-Through Withholding" href="/taxes/0,4676,7-238-43519_61040---,00.html">Flow-Through Withholding</a> </li> 
+          <li id="43547" class="id-43547 "> <a class="lvl2" title="Business Taxes, Tobacco Tax" href="/taxes/0,4676,7-238-43519_43547---,00.html">Tobacco Tax</a> </li> 
+          <li id="43546" class="id-43546 "> <a class="lvl2" title="Business Taxes, IFTA Tax" href="/taxes/0,4676,7-238-43519_43546---,00.html">IFTA Tax</a> </li> 
+          <li id="43544" class="id-43544 "> <a class="lvl2" title="Business Taxes, Motor Fuel" href="/taxes/0,4676,7-238-43519_43544---,00.html">Motor Fuel</a> </li> 
+          <li id="43545" class="id-43545 "> <a class="lvl2" title="Business Taxes, Severance Tax" href="/taxes/0,4676,7-238-43519_43545---,00.html">Severance Tax</a> </li> 
+          <li id="43542" class="id-43542 "> <a class="lvl2" title="Business Taxes, Miscellaneous Taxes and Fees" href="/taxes/0,4676,7-238-43519_43542---,00.html">Miscellaneous Taxes and Fees</a> </li> 
+          <li id="43533" class="id-43533 "> <a class="lvl2" title="Business Taxes, Single Business Tax" href="/taxes/0,4676,7-238-43519_43533---,00.html">Single Business Tax</a> </li> 
+         </ul> </li> 
+        <li id="73294" class="id-73294 has-subs"> <a class="lvl1" title="City Tax" href="/taxes/0,4676,7-238-73294---,00.html">City Tax</a> <a title="show sub link for City Tax" href="#ul_73294" data-target-list="ul_43493" class="toggle-sub-list" style="display:none;"></a> 
+         <ul id="ul_73294" class="sub-list"> 
+          <li id="73296" class="id-73296 "> <a class="lvl2" title="City Tax, City Individual Income Tax" href="/taxes/0,4676,7-238-73294_73296---,00.html">City Individual Income Tax</a> </li> 
+          <li id="76904" class="id-76904 has-subs"> <a class="lvl2" title="City Tax, City Business and Fiduciary Taxes" href="/taxes/0,4676,7-238-73294_76904---,00.html">City Business and Fiduciary Taxes</a> <a title="show sub link for City Business and Fiduciary Taxes" href="#ul_76904" data-target-list="ul_73294" class="toggle-sub-list" style="display:none;"></a> 
+           <ul id="ul_76904" class="sub-list"> 
+            <li id="76906" class="id-76906 "> <a class="lvl3" title="City Tax, City Business and Fiduciary Taxes, Employer Withholding Tax" href="/taxes/0,4676,7-238-73294_76904_76906---,00.html">Employer Withholding Tax</a> </li> 
+            <li id="76908" class="id-76908 "> <a class="lvl3" title="City Tax, City Business and Fiduciary Taxes, Corporate Income Tax" href="/taxes/0,4676,7-238-73294_76904_76908---,00.html">Corporate Income Tax</a> </li> 
+            <li id="76909" class="id-76909 "> <a class="lvl3" title="City Tax, City Business and Fiduciary Taxes, Estates and Trust Income Tax" href="/taxes/0,4676,7-238-73294_76904_76909---,00.html">Estates and Trust Income Tax</a> </li> 
+            <li id="76907" class="id-76907 "> <a class="lvl3" title="City Tax, City Business and Fiduciary Taxes, Partnership Tax" href="/taxes/0,4676,7-238-73294_76904_76907---,00.html">Partnership Tax</a> </li> 
+            <li id="79045" class="id-79045 "> <a class="lvl3" title="City Tax, City Business and Fiduciary Taxes, EFT Debit Payments" href="/taxes/0,4676,7-238-73294_76904_79045---,00.html">EFT Debit Payments</a> </li> 
+           </ul> </li> 
+         </ul> </li> 
+        <li id="74531" class="id-74531 has-subs"> <a class="lvl1" title="Collections/Audits/Appeals" href="/taxes/0,4676,7-238-74531---,00.html">Collections/Audits/Appeals</a> <a title="show sub link for Collections/Audits/Appeals" href="#ul_74531" data-target-list="ul_43493" class="toggle-sub-list" style="display:none;"></a> 
+         <ul id="ul_74531" class="sub-list"> 
+          <li id="43515" class="id-43515 has-subs"> <a class="lvl2" title="Collections/Audits/Appeals, Collections" href="/taxes/0,4676,7-238-74531_43515---,00.html">Collections</a> <a title="show sub link for Collections" href="#ul_43515" data-target-list="ul_74531" class="toggle-sub-list" style="display:none;"></a> 
+           <ul id="ul_43515" class="sub-list"> 
+            <li id="90256" class="id-90256 "> <a class="lvl3" title="Collections/Audits/Appeals, Collections, Bankruptcy" href="/taxes/0,4676,7-238-74531_43515_90256---,00.html">Bankruptcy</a> </li> 
+            <li id="68920" class="id-68920 "> <a class="lvl3" title="Collections/Audits/Appeals, Collections, Offer in Compromise" href="/taxes/0,4676,7-238-74531_43515_68920---,00.html">Offer in Compromise</a> </li> 
+            <li id="72535" class="id-72535 "> <a class="lvl3" title="Collections/Audits/Appeals, Collections, Treasury Offset Program" href="/taxes/0,4676,7-238-74531_43515_72535---,00.html">Treasury Offset Program</a> </li> 
+           </ul> </li> 
+          <li id="47057" class="id-47057 "> <a class="lvl2" title="Collections/Audits/Appeals, Hearings and Appeals" href="/taxes/0,4676,7-238-74531_47057---,00.html">Hearings and Appeals</a> </li> 
+          <li id="43524" class="id-43524 "> <a class="lvl2" title="Collections/Audits/Appeals, Audit" href="/taxes/0,4676,7-238-74531_43524---,00.html">Audit</a> </li> 
+          <li id="43514" class="id-43514 "> <a class="lvl2" title="Collections/Audits/Appeals, Voluntary Disclosure" href="/taxes/0,4676,7-238-74531_43514---,00.html">Voluntary Disclosure</a> </li> 
+          <li id="83074" class="id-83074 "> <a class="lvl2" title="Collections/Audits/Appeals, Taxpayer Advocate" href="/taxes/0,4676,7-238-74531_83074---,00.html">Taxpayer Advocate</a> </li> 
+         </ul> </li> 
+        <li id="43535" class="id-43535 has-subs"> <a class="lvl1" title="Property Tax" href="/taxes/0,4676,7-238-43535---,00.html">Property Tax</a> <a title="show sub link for Property Tax" href="#ul_43535" data-target-list="ul_43493" class="toggle-sub-list" style="display:none;"></a> 
+         <ul id="ul_43535" class="sub-list"> 
+          <li id="43538" class="id-43538 "> <a class="lvl2" title="Property Tax, Homestead Property Tax Credit" href="/taxes/0,4676,7-238-43535_43538---,00.html">Homestead Property Tax Credit</a> </li> 
+          <li id="43539" class="id-43539 "> <a class="lvl2" title="Property Tax, Principal Residence Exemption" href="/taxes/0,4676,7-238-43535_43539---,00.html">Principal Residence Exemption</a> </li> 
+          <li id="43540" class="id-43540 "> <a class="lvl2" title="Property Tax, Property Tax Estimator" href="/taxes/0,4676,7-238-43535_43540---,00.html">Property Tax Estimator</a> </li> 
+          <li id="43541" class="id-43541 "> <a class="lvl2" title="Property Tax, State Education Tax" href="/taxes/0,4676,7-238-43535_43541---,00.html">State Education Tax</a> </li> 
+          <li id="55602" class="id-55602 "> <a class="lvl2" title="Property Tax, Property Tax Deferment" href="/taxes/0,4676,7-238-43535_55602---,00.html">Property Tax Deferment</a> </li> 
+          <li id="53197" class="id-53197 "> <a class="lvl2" title="Property Tax, Property Tax Exemptions" href="/taxes/0,4676,7-238-43535_53197---,00.html">Property Tax Exemptions</a> </li> 
+          <li id="55601" class="id-55601 "> <a class="lvl2" title="Property Tax, Property Tax Forfeiture and Foreclosure" href="/taxes/0,4676,7-238-43535_55601---,00.html">Property Tax Forfeiture and Foreclosure</a> </li> 
+         </ul> </li> 
+        <li id="43551" class="id-43551 has-subs"> <a class="lvl1" title="Reports and Legal" href="/taxes/0,4676,7-238-43551---,00.html">Reports and Legal</a> <a title="show sub link for Reports and Legal" href="#ul_43551" data-target-list="ul_43493" class="toggle-sub-list" style="display:none;"></a> 
+         <ul id="ul_43551" class="sub-list"> 
+          <li id="44149" class="id-44149 "> <a class="lvl2" title="Reports and Legal, Reports" href="/taxes/0,4676,7-238-43551_44149---,00.html">Reports</a> </li> 
+          <li id="84522" class="id-84522 "> <a class="lvl2" title="Reports and Legal, Revenue Administrative Bulletins" href="/taxes/0,4676,7-238-43551_84522---,00.html">Revenue Administrative Bulletins</a> </li> 
+          <li id="84519" class="id-84519 "> <a class="lvl2" title="Reports and Legal, Internal Policy Directives" href="/taxes/0,4676,7-238-43551_84519---,00.html">Internal Policy Directives</a> </li> 
+          <li id="84523" class="id-84523 "> <a class="lvl2" title="Reports and Legal, Legal" href="/taxes/0,4676,7-238-43551_84523---,00.html">Legal</a> </li> 
+          <li id="84520" class="id-84520 "> <a class="lvl2" title="Reports and Legal, Letter Rulings" href="/taxes/0,4676,7-238-43551_84520---,00.html">Letter Rulings</a> </li> 
+          <li id="84521" class="id-84521 "> <a class="lvl2" title="Reports and Legal, Taxpayer Notices" href="/taxes/0,4676,7-238-43551_84521---,00.html">Taxpayer Notices</a> </li> 
+          <li id="84530" class="id-84530 "> <a class="lvl2" title="Reports and Legal, Technical Advice Letters" href="/taxes/0,4676,7-238-43551_84530---,00.html">Technical Advice Letters</a> </li> 
+         </ul> </li> 
+       </ul> 
+      </nav> 
+     </div> 
+     <!-- End Flyout Navigation -->
+     <!-- Left Links -->
+     <!-- End Left Links --> 
+    </div> 
+    <!-- contentWrapper --> 
+    <div id="contentWrapper" class=""> 
+     <!-- main -->
+     <div id="main" class="TW page col-sm-12" role="main"> 
+      <h1 id="breadcrumb" role="navigation" aria-label="breadcrumbs"><span style="display: none" id="breadcrumblabel">You are here</span>
+       <ol class="breadcrumb" aria-labelledby="breadcrumblabel">
+        <li><a href="/taxes/">Taxes</a></li> 
+        <li><a href="/taxes/0,4676,7-238-43513---,00.html" title="Individual Income Tax">Individual Income Tax</a></li> 
+        <li><a href="/taxes/0,4676,7-238-43513_75466---,00.html" title="Income Tax Self-Service">Income Tax Self-Service</a></li>
+       </ol></h1> 
+      <!-- Body Begin --> 
+      <!-- State Of Michigan - Wed May 22 15:38:26 2019 --> 
+      <!--BEGIN MAIN CONTENT AREA-->
+      <div class="TW col1 col-md-12">
+       <!-- ID COMPONENT_100111 --> 
+       <!-- BEGIN CDA Generic Content Display -->
+       <div id="comp_100111" class="comp "> 
+        <!-- displayContent RD 001 -->
+        <!--PAGEWATCH-->
+        <!-- open table RD --> 
+        <ul class="contentList NONE ">
+         <li class="contentItem" style=""><span class="inner"><span class="contentBlock "><span class="bodylinks">
+             <!--h2>Where's My Refund?</h2--></span><span class="shortdesc">
+             <!--div class="alert alert-danger" role="alert"><strong>ALERT: We are experiencing a system outage affecting our Online Self Service for Individual Income Taxes. We apologize for the inconvenience.</strong></div--> <p><img alt="Where's My Refund Logo" src="/images/treasury/Wheres_My_Refund_Logo_Large_547467_7.png" style="border-width: 0px; border-style: solid; width: 150px; height: 64px;"></p> <p>You can check your refund status online by logging into your account below.</p> <p><strong>Please allow the appropriate time to pass before checking your refund status:</strong><br> <br> <strong>E-filed Returns:</strong> Allow 2 weeks from the date you received confirmation that your e-filed state return was accepted before checking for information.<br> <strong>Paper Filed Returns:</strong> Allow 6-8 weeks before checking for information.</p> <p>To ensure your privacy and security the following information is <span style="font-weight: bold; text-decoration: underline;">required:</span></p> 
+             <ul style="text-align: left;"> 
+              <li>Social Security Number (SSN)</li> 
+              <li>Tax Year</li> 
+              <li>Filing Status</li> 
+              <li>Adjusted Gross Income (AGI) or <a href="/taxes/0,4676,7-238-43513-235899--,00.html" target="_blank">Total Household Resources (THR)</a><br> Note: Adjusted Gross Income is found on line 10 of your MI-1040. Total Household Resources are found on line 33 of your MI-1040CR or line 34 of your MI-1040CR-7</li> 
+             </ul> <p>&nbsp;</p> </span></span></span></li>
+         <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="https://treas-secure.treas.state.mi.us/eservice_enu/" title=" Check My Refund Status "><p class="treasbtn" style="max-width:300px;text-align:center;">Check My Refund Status</p> </a></span></span></li> 
+        </ul>
+        <!--/PAGEWATCH-->
+        <!-- /displayContent RD 001 -->
+       </div> 
+       <!-- END CDA Generic Content Display -->
+       <!-- /ID COMPONENT_100111 -->
+      </div>
+      <br style="clear: both">
+      <div class="TW col1 col-md-12">
+       <!-- ID COMPONENT_100112 --> 
+       <!-- BEGIN CDA Generic Content Display -->
+       <div id="comp_100112" class="comp standard  ">
+        <h2 class="cTitle" style=""></h2>
+        <h2 style="text-align:center;">Additional Self-Service Options</h2> 
+        <!-- displayContent RD 001 -->
+        <!--PAGEWATCH-->
+        <!-- open table RD --> 
+        <ul class="contentList  NONE ">
+         <li class="col_3" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="https://treas-secure.treas.state.mi.us/eservice_enu/" target="_blank" title=" Check My Tax And Refund Information "><p class="treasbtn" style="min-width:200px;font-size:small;">Check My Tax And Refund Information</p> </a></span></span></li>
+         <li class="col_3" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="https://treas-secure.treas.state.mi.us/eservice_enu/" target="_blank" title=" Change My Address "><p class="treasbtn" style="min-width:200px;font-size:small;">Change My Address</p> </a></span></span></li>
+         <li class="col_3" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="https://treas-secure.treas.state.mi.us/eservice_enu/" target="_blank" title=" Status Of Letter(s) Sent To Treasury "><p class="treasbtn" style="min-width:220px;font-size:small;">Status Of Letter(s) Sent To Treasury</p> </a></span></span></li>
+         <li class="col_3" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="https://treas-secure.treas.state.mi.us/eservice_enu/" target="_blank" title=" Ask an Account Specific Question "><p class="treasbtn" style="min-width:200px;font-size:small;">Ask an Account Specific Question</p> </a></span></span></li>
+         <li class="col_3" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="https://treas-secure.treas.state.mi.us/eservice_enu/" target="_blank" title=" Review Answers To Account Specific Questions  "><p class="treasbtn" style="min-width:200px;font-size:11px;min-height:38px;">Review Answers To Account Specific Questions</p>
+             <!--https://treas-secure.treas.state.mi.us/eservice_enu/--> </a></span></span></li>
+         <li class="col_3" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="https://treas-secure.treas.state.mi.us/eservice_enu/" target="_blank" title=" Check My Estimated Payments "><p class="treasbtn" style="min-width:200px;font-size:small;">Check My Estimated Payments</p> </a></span></span></li>
+         <li class="col_3" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="https://treas-secure.treas.state.mi.us/eservice_enu/start.swe?&amp;SWECmd=GotoView&amp;SWEView=MI+IIT+General+Question+Quick+Links+View+(SCW)" target="_blank" title=" Ask Treasury a General Question "><p class="treasbtn" style="min-width:200px;font-size:small;">Ask Treasury a General Question</p> </a></span></span></li>
+         <li class="col_3" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="https://treas-secure.treas.state.mi.us/eservice_enu/start.swe?&amp;SWECmd=GotoView&amp;SWEView=MI+IIT+General+Question+Quick+Links+View+(SCW)" target="_blank" title=" Review Answer to General Questions "><p class="treasbtn" style="min-width:220px;font-size:small;">Review Answer to General Questions</p> </a></span></span></li> 
+        </ul>
+        <!--/PAGEWATCH-->
+        <!-- /displayContent RD 001 -->
+       </div> 
+       <!-- END CDA Generic Content Display -->
+       <!-- /ID COMPONENT_100112 -->
+      </div>
+      <br style="clear: both">
+      <!--END MAIN CONTENT AREA-->
+      <!-- Body End -->
+     </div>
+     <!-- /main --> 
+    </div>
+    <!-- /contentWrapper --> 
+   </div>
+   <!-- /bodyWrapper --> 
+   <!-- BOTTOMNAV --> 
+   <!-- BEGIN FOOTER RD --> 
+   <div id="footerArea" role="contentinfo" style="clear: both"> 
+    <!-- begin expanded footer -->
+    <div id="expandedFooter">
+     <div id="cat_75238" class="footer_4">
+      <h2>About Treasury</h2>
+      <ul>
+       <li><a href="/treasury/0,4679,7-121-1755---,00.html">Deputy Treasurers</a></li>
+       <li><a href="/treasury/0,4679,7-121-1755-486323--,00.html">Treasurer Rachael Eubanks</a></li>
+       <li><a href="/treasury/0,4679,7-121-1755_65909---,00.html">Public Meetings</a></li>
+       <li><a href="/documents/treasury/Department_of_Treasury_Overview_457185_7.pdf">Treasury Organization Chart</a></li>
+      </ul>
+     </div>
+     <div id="cat_75239" class="footer_4">
+      <h2>Communications</h2>
+      <ul>
+       <li><a href="/treasury/0,4679,7-121--8483--,00.html">Treasury Contact Information</a></li>
+       <li><a href="https://public.govdelivery.com/accounts/MITREAS/subscriber/new?topic_id=MITREAS_18">Sign up for Treasury Email Alerts</a><span><p><a class="dkblue" href="https://public.govdelivery.com/accounts/MITREAS/subscriber/new?topic_id=MITREAS_18" target="_blank" title="Sign up for Treasury Press Releases"><img alt="Sign up for email from Treasury!" src="/images/global/icon-govdelivery-bubble-32x32.png"></a></p> </span></li>
+       <li><a href="/treasury/0,4679,7-121-1755_1963---,00.html">Press Releases</a></li>
+      </ul>
+     </div>
+     <div id="cat_75240" class="footer_4">
+      <h2>Other Resources</h2>
+      <ul>
+       <li><a href="/treasury/0,4679,7-121-1755_37621-5821--,00.html">Investments</a></li>
+       <li><a href="/lottery">Michigan Lottery</a></li>
+       <li><a href="/mgcb">Michigan Gaming Control Board</a></li>
+       <li><a href="/taxtrib">Michigan Tax Tribunal</a></li>
+      </ul>
+     </div>
+     <div id="cat_75241" class="footer_4">
+      <h2>State of Michigan</h2>
+      <ul>
+       <li><a href="/openmichigan/0,4648,7-266-58521_60201_60951---,00.html"></a><span><p><a href="/openmichigan/0,4648,7-266-58521_60201_60951---,00.html"><img alt="Open Michigan Scorecard" src="/images/treasury/Treasury_Scorecard_385135_7.png" style="height:44px; width:150px"></a></p> </span></li>
+      </ul>
+     </div>
+     <div id="agencylinks" class="footer_1">
+      <ul>
+       <li><a href="/treasury/0,4616,7-151----A,00.html">State Web Sites</a></li>
+      </ul>
+     </div>
+     <div id="policylinks" class="footer_1">
+      <ul>
+       <li><a href="/">Michigan.gov Home</a></li>
+       <li><a href="/adaform">ADA</a></li>
+       <li><a href="/minewswire">Michigan News</a></li>
+       <li><a href="/taxes/0,4676,7-238--281460--,00.html">Policies</a></li>
+      </ul>
+     </div>
+    </div>
+    <br>
+    <span class="copyright"><br>Copyright 2019 State of Michigan</span>
+    <!-- end expanded footer -->
+   </div> 
+  </div> 
+  <!--END DIV CONTAINER--> 
+  <!-- stmiws102.prdcloud.fms.ibmcloud.com rjp NT -->   
+ </body>
+</html>

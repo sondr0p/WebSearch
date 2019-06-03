@@ -1,0 +1,15 @@
+<html>
+ <head> 
+  <title>State Of Arizona</title> 
+ </head> 
+ <frameset rows="80,*" border="0" noresize frameborder="0"> 
+  <frameset rows="0,*" border="0"> 
+   <frame src="MenuCode/code.html" name="code" MARGINHEIGHT="0" marginwidth="0"> 
+   <frame src="MenuCode/heading.html" name="heading" MARGINHEIGHT="0" marginwidth="0" SCROLLING="NO"> 
+  </frameset> 
+  <frameset cols="180,*" border="0"> 
+   <frame src="MenuCode/menu_empty.html" name="menu" MARGINHEIGHT="10" marginwidth="5"> 
+   <frame src="Phone/search_phone.asp" name="text" MARGINHEIGHT="10" marginwidth="5"> 
+  </frameset> 
+ </frameset>  
+</html>

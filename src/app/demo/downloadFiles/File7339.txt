@@ -1,0 +1,578 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+ <head profile="http://www.w3.org/1999/xhtml/vocab"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"> 
+  <meta http-equiv="X-FRAME-Options" content="deny"> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <link rel="shortcut icon" href="https://www.senate.ca.gov/sites/senate.ca.gov/files/favicon.ico" type="image/vnd.microsoft.icon"> 
+  <link rel="shortlink" href="/node/63294"> 
+  <link rel="canonical" href="/legislativeprocess"> 
+  <meta name="Generator" content="Drupal 7 (http://drupal.org)"> 
+  <title>Legislative Process | senate.ca.gov</title> 
+  <style type="text/css" media="all">
+@import url("https://www.senate.ca.gov/modules/system/system.base.css?pro5bu");
+@import url("https://www.senate.ca.gov/modules/system/system.menus.css?pro5bu");
+@import url("https://www.senate.ca.gov/modules/system/system.messages.css?pro5bu");
+@import url("https://www.senate.ca.gov/modules/system/system.theme.css?pro5bu");
+</style> 
+  <style type="text/css" media="all">
+@import url("https://www.senate.ca.gov/sites/all/modules/contrib/ldap/ldap_user/ldap_user.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/all/modules/contrib/date/date_api/date.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?pro5bu");
+@import url("https://www.senate.ca.gov/modules/field/theme/field.css?pro5bu");
+@import url("https://www.senate.ca.gov/modules/node/node.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/all/modules/custom/scgmenublock/scgmenublock.css?pro5bu");
+@import url("https://www.senate.ca.gov/modules/user/user.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/all/modules/contrib/views/css/views.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/all/modules/contrib/ckeditor/css/ckeditor.css?pro5bu");
+</style> 
+  <style type="text/css" media="all">
+@import url("https://www.senate.ca.gov/sites/all/modules/contrib/ctools/css/ctools.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/dailyfileparser_d7/css/dfdisplay.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/all/modules/contrib/ldap/ldap_servers/ldap_servers.admin.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/all/modules/custom/lwpslideshow/css/lwpslideshow.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/all/modules/custom/lwpusermenu/css/lwpusermenu.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/scgaudiovideo/css/scgaudiovideo.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/scgcalendar/css/scgcalendar.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/scgcommittees/css/scgcommittees.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/scgoversight/css/scgoversight.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/scgsenators/css/scgsenators.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/wasmediaframework/css/wasmediaframework.css?pro5bu");
+</style> 
+  <style type="text/css" media="all">
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/css/style.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/vendors/bootstrapv320/css/bootstrap.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/vendors/font-awesome-403/css/font-awesome.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/vendors/FlexSlider/flexslider.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/css/main.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/css/fonts/fonts.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/css/audiovideo.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/css/content.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/css/lwpgooglesearch.css?pro5bu");
+</style> 
+  <style type="text/css" media="print">
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/css/print.css?pro5bu");
+</style> 
+  <!--[if lt IE 7]>
+<link type="text/css" rel="stylesheet" href="https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/fix-ie.css?pro5bu" media="all" />
+<![endif]--> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/misc/jquery.js?v=1.4.4"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/misc/jquery-extend-3.4.0.js?v=1.4.4"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/misc/jquery.once.js?v=1.2"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/misc/drupal.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/wasmediaframework/js/doubledownload.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/all/modules/contrib/google_analytics/googleanalytics.js?pro5bu"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-64944606-1", {"cookieDomain":".senate.ca.gov"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/all/modules/custom/wasjwplayer/js/wasjwplayer.init.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/vendors/jquery-ui/js/jquery-1.10.2.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/vendors/jquery-ui/js/jquery-ui-1.10.4.custom.min.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/vendors/jquery-ui/js/jquery-migrate-1.2.1.min.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/vendors/bootstrapv320/js/bootstrap.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/vendors/jquery-scrollbox/jquery.scrollbox.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/vendors/smooth-div-scroll/js/jquery.mousewheel.min.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/vendors/FlexSlider/jquery.flexslider-min.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/scripts/modernizr.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/scripts/jquery.noconflict.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/scripts/main.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/scripts/audiovideo.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/all/modules/custom/lwpslideshow/js/lwpslideshow.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/scgaudiovideo/js/swfobject.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/scgaudiovideo/js/player.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/scgaudiovideo/js/scgaudiovideo.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/scgcalendar/js/scgcalendar.calendar.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/scgcommittees/js/scgcommittees.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/scgsenators/js/scgsenators.js?pro5bu"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"scg2014","theme_token":"1tfsC-MfwPSB7kdigXsC92XfC13zU5-hJl647-UP1nw","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/senate.ca.gov\/modules\/custom\/wasmediaframework\/js\/doubledownload.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/custom\/wasjwplayer\/js\/wasjwplayer.init.js":1,"sites\/senate.ca.gov\/themes\/scg2014\/vendors\/jquery-ui\/js\/jquery-1.10.2.js":1,"sites\/senate.ca.gov\/themes\/scg2014\/vendors\/jquery-ui\/js\/jquery-ui-1.10.4.custom.min.js":1,"sites\/senate.ca.gov\/themes\/scg2014\/vendors\/jquery-ui\/js\/jquery-migrate-1.2.1.min.js":1,"sites\/senate.ca.gov\/themes\/scg2014\/vendors\/bootstrapv320\/js\/bootstrap.js":1,"sites\/senate.ca.gov\/themes\/scg2014\/vendors\/jquery-scrollbox\/jquery.scrollbox.js":1,"sites\/senate.ca.gov\/themes\/scg2014\/vendors\/smooth-div-scroll\/js\/jquery.mousewheel.min.js":1,"sites\/senate.ca.gov\/themes\/scg2014\/vendors\/FlexSlider\/jquery.flexslider-min.js":1,"sites\/senate.ca.gov\/themes\/scg2014\/scripts\/modernizr.js":1,"sites\/senate.ca.gov\/themes\/scg2014\/scripts\/jquery.noconflict.js":1,"sites\/senate.ca.gov\/themes\/scg2014\/scripts\/main.js":1,"sites\/senate.ca.gov\/themes\/scg2014\/scripts\/audiovideo.js":1,"sites\/all\/modules\/custom\/lwpslideshow\/js\/lwpslideshow.js":1,"sites\/senate.ca.gov\/modules\/custom\/scgaudiovideo\/js\/swfobject.js":1,"sites\/senate.ca.gov\/modules\/custom\/scgaudiovideo\/js\/player.js":1,"sites\/senate.ca.gov\/modules\/custom\/scgaudiovideo\/js\/scgaudiovideo.js":1,"sites\/senate.ca.gov\/modules\/custom\/scgcalendar\/js\/scgcalendar.calendar.js":1,"sites\/senate.ca.gov\/modules\/custom\/scgcommittees\/js\/scgcommittees.js":1,"sites\/senate.ca.gov\/modules\/custom\/scgsenators\/js\/scgsenators.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/ldap\/ldap_user\/ldap_user.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/scgmenublock\/scgmenublock.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/senate.ca.gov\/modules\/custom\/dailyfileparser_d7\/css\/dfdisplay.css":1,"sites\/all\/modules\/contrib\/ldap\/ldap_servers\/ldap_servers.admin.css":1,"sites\/all\/modules\/custom\/lwpgooglesearch\/lwpgooglesearch.css":1,"sites\/all\/modules\/custom\/lwpslideshow\/css\/lwpslideshow.css":1,"sites\/all\/modules\/custom\/lwpusermenu\/css\/lwpusermenu.css":1,"sites\/senate.ca.gov\/modules\/custom\/scgaudiovideo\/css\/scgaudiovideo.css":1,"sites\/senate.ca.gov\/modules\/custom\/scgcalendar\/css\/scgcalendar.css":1,"sites\/senate.ca.gov\/modules\/custom\/scgcommittees\/css\/scgcommittees.css":1,"sites\/senate.ca.gov\/modules\/custom\/scgoversight\/css\/scgoversight.css":1,"sites\/senate.ca.gov\/modules\/custom\/scgsenators\/css\/scgsenators.css":1,"sites\/senate.ca.gov\/modules\/custom\/wasmediaframework\/css\/wasmediaframework.css":1,"sites\/senate.ca.gov\/themes\/scg2014\/css\/style.css":1,"sites\/senate.ca.gov\/themes\/scg2014\/vendors\/bootstrapv320\/css\/bootstrap.css":1,"sites\/senate.ca.gov\/themes\/scg2014\/vendors\/font-awesome-403\/css\/font-awesome.css":1,"sites\/senate.ca.gov\/themes\/scg2014\/vendors\/FlexSlider\/flexslider.css":1,"sites\/senate.ca.gov\/themes\/scg2014\/css\/main.css":1,"sites\/senate.ca.gov\/themes\/scg2014\/css\/fonts\/fonts.css":1,"sites\/senate.ca.gov\/themes\/scg2014\/css\/audiovideo.css":1,"sites\/senate.ca.gov\/themes\/scg2014\/css\/content.css":1,"sites\/senate.ca.gov\/themes\/scg2014\/css\/lwpgooglesearch.css":1,"sites\/senate.ca.gov\/themes\/scg2014\/css\/print.css":1,"sites\/senate.ca.gov\/themes\/scg2014\/fix-ie.css":1}},"wasencoderinterface":{"oneClickToggle":"disabled","refreshTimeout":"60","refreshInterval":"10","conductorIp":"senencmgr01.calegis.net","conductorApiKey":"s3Wi3gLyJLrHcq1uJaJR"},"wasjwplayer":{"files":{"js":["\/sites\/all\/modules\/custom\/wasjwplayer\/vendors\/jwplayer\/jwplayer.js","\/sites\/all\/modules\/custom\/wasjwplayer\/js\/wasjwplayer.jwplayer.menu.js"],"css":["sites\/all\/modules\/custom\/wasjwplayer\/css\/wasjwplayer.jwplayer.menu.css","sites\/all\/modules\/custom\/wasjwplayer\/css\/wasjwplayer.css"],"images":{"arrow_white":"\/sites\/all\/modules\/custom\/wasjwplayer\/css\/arrow-white.png","copy_white":"\/sites\/all\/modules\/custom\/wasjwplayer\/css\/copy-white.png","time_white":"\/sites\/all\/modules\/custom\/wasjwplayer\/css\/time-white.png"}},"jwplayer_flash":"\/sites\/all\/modules\/custom\/wasjwplayer\/vendors\/jwplayer\/jwplayer.flash.swf","jwplayer_key":"D8HCIANpsYEo10RoCyq9Zavl0JFnnC09YUX\/v6oWlYqPfytg","jwplayer_aspectratio":"16:9","jwplayer_height":"","jwplayer_width":"100%","jwplayer_stretching":"uniform","jwplayer_hlshtml":0,"jwplayer_primary":"html5","jwplayer_autostart":0,"jwplayer_repeat":0},"urlIsAjaxTrusted":{"\/legislativeprocess":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"}});
+//--><!]]>
+</script> 
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries --> 
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// --> 
+  <!--[if lt IE 9]>
+    <link rel="stylesheet" type="text/css" href="/sites/senate.ca.gov/themes/scg2014/css/ie.css" />
+  <![endif]--> 
+  <script>NS_CSM_td=275415931;NS_CSM_pd=275116667;NS_CSM_u="/clm10";NS_CSM_an="act_APPFLOW_SPLUNK_LOGGING";</script>
+  <script type="text/javascript">function sendTimingInfoInit(){setTimeout(sendTimingInfo,0)}function sendTimingInfo(){var wp=window.performance;if(wp){var c1,c2,t;c1=wp.timing;if(c1){var cm={};cm.ns=c1.navigationStart;if((t=c1.unloadEventStart)>0)cm.us=t;if((t=c1.unloadEventEnd)>0)cm.ue=t;if((t=c1.redirectStart)>0)cm.rs=t;if((t=c1.redirectEnd)>0)cm.re=t;cm.fs=c1.fetchStart;cm.dls=c1.domainLookupStart;cm.dle=c1.domainLookupEnd;cm.cs=c1.connectStart;cm.ce=c1.connectEnd;if((t=c1.secureConnectionStart)>0)cm.scs=t;cm.rqs=c1.requestStart;cm.rss=c1.responseStart;cm.rse=c1.responseEnd;cm.dl=c1.domLoading;cm.di=c1.domInteractive;cm.dcls=c1.domContentLoadedEventStart;cm.dcle=c1.domContentLoadedEventEnd;cm.dc=c1.domComplete;if((t=c1.loadEventStart)>0)cm.ls=t;if((t=c1.loadEventEnd)>0)cm.le=t;cm.tid=NS_CSM_td;cm.pid=NS_CSM_pd;cm.ac=NS_CSM_an;var xhttp=new XMLHttpRequest();if(xhttp){var JSON=JSON||{};JSON.stringify=JSON.stringify||function(ob){var t=typeof(ob);if(t!="object"||ob===null){if(t=="string")ob='"'+ob+'"';return String(ob);}else{var n,v,json=[],arr=(ob&&ob.constructor==Array);for(n in ob){v=ob[n];t=typeof(v);if(t=="string")v='"'+v+'"';else if(t=="object"&&v!==null)v=JSON.stringify(v);json.push((arr?"":'"'+n+'":')+String(v));}return(arr?"[":"{")+String(json)+(arr?"]":"}");}};xhttp.open("POST",NS_CSM_u,true);xhttp.send(JSON.stringify(cm));}}}}if(window.addEventListener)window.addEventListener("load",sendTimingInfoInit,false);else if(window.attachEvent)window.attachEvent("onload",sendTimingInfoInit);else window.onload=sendTimingInfoInit;</script>
+ </head> 
+ <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-63294 node-type-page"> 
+  <div id="skip-link"> 
+   <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a> 
+  </div> 
+  <div id="page"> 
+   <div id="wrapper"> 
+    <!-- #header --> 
+    <header> 
+     <div class="header-wrapper"> 
+      <div id="skipto" class="sr-only"> 
+       <ul> 
+        <li class="sr-only">Skip to: <a href="#middle_column">CONTENT</a> | </li> 
+        <li class="sr-only"><a href="#footer">FOOTER</a> | </li> 
+        <li class="sr-only"><a href="/sitemap">SITE MAP</a> | </li> 
+       </ul> 
+      </div> 
+      <div class="searchform-wrapper col-xs-12"> 
+       <div class="senateticker-wrapper col-xs-9"> 
+        <div class="senateticker col-xs-3 livestreamlink"> 
+         <a href="/calendar">Live Streams</a> 
+        </div> 
+        <div class="senateticker col-xs-3 ">
+         <a href="/media-archive">Media Archive</a>
+        </div> 
+        <div class="senateticker col-xs-3 ">
+         <a href="https://annex.assembly.ca.gov/">Capitol Annex</a>
+        </div> 
+        <div class="senateticker col-xs-3">
+         <a onclick="return googletranslatedisclaimer()" href="http://translate.google.com/#auto|es|www.senate.ca.gov" class="translate">Translate this site</a>
+        </div> 
+       </div> 
+       <div class="searchform col-xs-3"> 
+        <form id="searchform" action="/search" method="get" class="col-xs-3"> 
+         <label for="search-field" class="col-xs-1"><i class="fa-search"></i></label> 
+         <input class="search-field col-xs-11" type="text" placeholder="Enter your search terms here..." name="search_api_views_fulltext"> 
+         <button type="submit" class="sr-only" title="site search submit button"></button> 
+        </form> 
+       </div> 
+      </div> 
+      <div class="banner senate-red col-xs-12"> 
+       <img class="banner-seal" src="/sites/senate.ca.gov/themes/scg2014/images/senateseal75.png" alt="california state senate seal"> 
+       <div class="banner-sitename">
+        <a href="/">California State Senate</a>
+       </div> 
+      </div> 
+      <nav id="header-navigation" aria-label="Main menu"> 
+       <h2 class="element-invisible">Main menu</h2>
+       <ul class="nav nav-pills nav-justified" role="menubar" tabindex="0">
+        <li class="menu-218 first dropdown" role="menuitem"><a href="/">Home</a></li> 
+        <li class="menu-340 dropdown" role="menuitem"><a href="/senators">Senators</a>
+         <ul class="dropdown-menu" role="menu" aria-hidden="true">
+          <li role="menuitem" tabindex="-1"><a href="/leadership">Senate Leadership</a></li>
+          <li role="menuitem" tabindex="-1"><a href="http://findyourrep.legislature.ca.gov/">Find My Senator</a></li>
+          <li role="menuitem" tabindex="-1"><a href="/senators">Senate Roster</a></li>
+          <li role="menuitem" tabindex="-1"><a href="http://senate.ca.gov/sites/senate.ca.gov/files/2019-20_senate_counties_represented.pdf">County Representation</a></li>
+         </ul></li> 
+        <li class="menu-347 dropdown" role="menuitem"><a href="/committees">Committees, Offices &amp; Caucuses</a>
+         <ul class="dropdown-menu" role="menu" aria-hidden="true">
+          <li role="menuitem" tabindex="-1"><a href="/committees">Committees</a></li>
+          <li role="menuitem" tabindex="-1"><a href="/officescaucuses">Offices &amp; Caucuses</a></li>
+         </ul></li> 
+        <li class="menu-346 dropdown" role="menuitem"><a href="/schedulespublications">Publications</a>
+         <ul class="dropdown-menu" role="menu" aria-hidden="true">
+          <li role="menuitem" tabindex="-1"><a href="/dailyfile">Daily File</a></li>
+          <li role="menuitem" tabindex="-1"><a href="/dailyjournals">Daily Journal</a></li>
+          <li role="menuitem" tabindex="-1"><a href="/content/senate-histories">Senate Histories</a></li>
+          <li role="menuitem" tabindex="-1"><a href="http://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=CONS&amp;tocTitle=+California+Constitution+-+CONS">California State Constitution</a></li>
+          <li role="menuitem" tabindex="-1"><a href="http://senate.ca.gov/sites/senate.ca.gov/files/2017-18_joint_legislative_handbook_0.pdf">Legislative Handbook</a></li>
+          <li role="menuitem" tabindex="-1"><a href="/schedulespublications">More...</a></li>
+         </ul></li> 
+        <li class="menu-348 dropdown" role="menuitem"><a href="/media">Media</a>
+         <ul class="dropdown-menu" role="menu" aria-hidden="true">
+          <li role="menuitem" tabindex="-1"><a href="/tvschedule">TV Schedule</a></li>
+          <li role="menuitem" tabindex="-1"><a href="https://senate.ca.gov/sites/senate.ca.gov/files/accreditedpress.pdf">Accredited Press</a></li>
+          <li role="menuitem" tabindex="-1"><a href="/media-archive">Media Archive</a></li>
+         </ul></li> 
+        <li class="menu-349 active-trail dropdown" role="menuitem"><a href="/citizensguide" class="active-trail">Citizens' Guide</a>
+         <ul class="dropdown-menu" role="menu" aria-hidden="true">
+          <li role="menuitem" tabindex="-1"><a href="/legislativeprocess" class="active">Legislative Process</a></li>
+          <li role="menuitem" tabindex="-1"><a href="http://senate.ca.gov/sites/senate.ca.gov/files/the%20budget%20process.pdf">Budget Process</a></li>
+          <li role="menuitem" tabindex="-1"><a href="http://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=CONS&amp;tocTitle=+California+Constitution+-+CONS">California Constitution</a></li>
+          <li role="menuitem" tabindex="-1"><a href="/citizensguide">Rules</a></li>
+          <li role="menuitem" tabindex="-1"><a href="/faq">FAQs</a></li>
+          <li role="menuitem" tabindex="-1"><a href="/citizensguide">More...</a></li>
+         </ul></li> 
+        <li class="menu-350 dropdown" role="menuitem"><a href="/quicklinks">Quick Links</a>
+         <ul class="dropdown-menu" role="menu" aria-hidden="true">
+          <li role="menuitem" tabindex="-1"><a href="http://gov.ca.gov/home.php">Governor Of California</a></li>
+          <li role="menuitem" tabindex="-1"><a href="http://www.ltg.ca.gov/">Lieutenant Governor of California</a></li>
+          <li role="menuitem" tabindex="-1"><a href="http://assembly.ca.gov/">California State Assembly</a></li>
+          <li role="menuitem" tabindex="-1"><a href="http://congress.gov">U.S. Congress Information</a></li>
+          <li role="menuitem" tabindex="-1"><a href="http://www.sos.ca.gov/">Secretary of State</a></li>
+          <li role="menuitem" tabindex="-1"><a href="/quicklinks">More...</a></li>
+         </ul></li> 
+        <li class="menu-408 dropdown" role="menuitem"><a href="http://archive.senate.ca.gov" title="">Archive</a>
+         <ul class="dropdown-menu" role="menu" aria-hidden="true">
+          <li role="menuitem" tabindex="-1"><a href="http://archive.senate.ca.gov/member-archives">Member Archives</a></li>
+          <li role="menuitem" tabindex="-1"><a href="http://archive.senate.ca.gov/committee-archives">Committee Archives</a></li>
+          <li role="menuitem" tabindex="-1"><a href="http://secretary.senate.ca.gov/californiabluebook18502000">Historical Record</a></li>
+         </ul></li> 
+        <li class="menu-443 last dropdown" role="menuitem"><a href="/calendar">calendar</a>
+         <ul class="dropdown-menu" role="menu" aria-hidden="true">
+          <li role="menuitem" tabindex="-1"><a href="/legdeadlines">Legislative Calendar &amp; Deadlines</a></li>
+         </ul></li> 
+       </ul> 
+      </nav> 
+      <!-- phonenav --> 
+      <nav id="mobile-nav"> 
+       <div class="phone-menu-toggle clearfix"> 
+        <div class="phone-menu-right-side">
+         <i class="fa-align-justify"></i>
+        </div> 
+       </div>
+       <h2 class="element-invisible">Custom menu</h2>
+       <ul class="phone-menu-wrapper unstyled">
+        <li class="menu-218 first">
+         <div class="phone-menu-item clearfix">
+          <a href="/">Home</a>
+         </div></li> 
+        <li class="menu-340">
+         <div class="phone-menu-item clearfix">
+          <a href="/senators">Senators<i class="fa-chevron-down menu-toggle"></i></a>
+         </div>
+         <ul class="phone-submenu-wrapper unstyled">
+          <li class="nav-row"><a href="/leadership">Senate Leadership</a></li>
+          <li class="nav-row"><a href="http://findyourrep.legislature.ca.gov/">Find My Senator</a></li>
+          <li class="nav-row"><a href="/senators">Senate Roster</a></li>
+          <li class="nav-row"><a href="http://senate.ca.gov/sites/senate.ca.gov/files/2019-20_senate_counties_represented.pdf">County Representation</a></li>
+         </ul></li> 
+        <li class="menu-347">
+         <div class="phone-menu-item clearfix">
+          <a href="/committees">Committees, Offices &amp; Caucuses<i class="fa-chevron-down menu-toggle"></i></a>
+         </div>
+         <ul class="phone-submenu-wrapper unstyled">
+          <li class="nav-row"><a href="/committees">Committees</a></li>
+          <li class="nav-row"><a href="/officescaucuses">Offices &amp; Caucuses</a></li>
+         </ul></li> 
+        <li class="menu-346">
+         <div class="phone-menu-item clearfix">
+          <a href="/schedulespublications">Publications<i class="fa-chevron-down menu-toggle"></i></a>
+         </div>
+         <ul class="phone-submenu-wrapper unstyled">
+          <li class="nav-row"><a href="/dailyfile">Daily File</a></li>
+          <li class="nav-row"><a href="/dailyjournals">Daily Journal</a></li>
+          <li class="nav-row"><a href="/content/senate-histories">Senate Histories</a></li>
+          <li class="nav-row"><a href="http://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=CONS&amp;tocTitle=+California+Constitution+-+CONS">California State Constitution</a></li>
+          <li class="nav-row"><a href="http://senate.ca.gov/sites/senate.ca.gov/files/2017-18_joint_legislative_handbook_0.pdf">Legislative Handbook</a></li>
+          <li class="nav-row"><a href="/schedulespublications">More...</a></li>
+         </ul></li> 
+        <li class="menu-348">
+         <div class="phone-menu-item clearfix">
+          <a href="/media">Media<i class="fa-chevron-down menu-toggle"></i></a>
+         </div>
+         <ul class="phone-submenu-wrapper unstyled">
+          <li class="nav-row"><a href="/tvschedule">TV Schedule</a></li>
+          <li class="nav-row"><a href="https://senate.ca.gov/sites/senate.ca.gov/files/accreditedpress.pdf">Accredited Press</a></li>
+          <li class="nav-row"><a href="/media-archive">Media Archive</a></li>
+         </ul></li> 
+        <li class="menu-349 active-trail">
+         <div class="phone-menu-item clearfix">
+          <a href="/citizensguide" class="active-trail">Citizens' Guide<i class="fa-chevron-down menu-toggle"></i></a>
+         </div>
+         <ul class="phone-submenu-wrapper unstyled">
+          <li class="nav-row"><a href="/legislativeprocess" class="active">Legislative Process</a></li>
+          <li class="nav-row"><a href="http://senate.ca.gov/sites/senate.ca.gov/files/the%20budget%20process.pdf">Budget Process</a></li>
+          <li class="nav-row"><a href="http://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=CONS&amp;tocTitle=+California+Constitution+-+CONS">California Constitution</a></li>
+          <li class="nav-row"><a href="/citizensguide">Rules</a></li>
+          <li class="nav-row"><a href="/faq">FAQs</a></li>
+          <li class="nav-row"><a href="/citizensguide">More...</a></li>
+         </ul></li> 
+        <li class="menu-350">
+         <div class="phone-menu-item clearfix">
+          <a href="/quicklinks">Quick Links<i class="fa-chevron-down menu-toggle"></i></a>
+         </div>
+         <ul class="phone-submenu-wrapper unstyled">
+          <li class="nav-row"><a href="http://gov.ca.gov/home.php">Governor Of California</a></li>
+          <li class="nav-row"><a href="http://www.ltg.ca.gov/">Lieutenant Governor of California</a></li>
+          <li class="nav-row"><a href="http://assembly.ca.gov/">California State Assembly</a></li>
+          <li class="nav-row"><a href="http://congress.gov">U.S. Congress Information</a></li>
+          <li class="nav-row"><a href="http://www.sos.ca.gov/">Secretary of State</a></li>
+          <li class="nav-row"><a href="/quicklinks">More...</a></li>
+         </ul></li> 
+        <li class="menu-408">
+         <div class="phone-menu-item clearfix">
+          <a href="http://archive.senate.ca.gov" title="">Archive<i class="fa-chevron-down menu-toggle"></i></a>
+         </div>
+         <ul class="phone-submenu-wrapper unstyled">
+          <li class="nav-row"><a href="http://archive.senate.ca.gov/member-archives">Member Archives</a></li>
+          <li class="nav-row"><a href="http://archive.senate.ca.gov/committee-archives">Committee Archives</a></li>
+          <li class="nav-row"><a href="http://secretary.senate.ca.gov/californiabluebook18502000">Historical Record</a></li>
+         </ul></li> 
+        <li class="menu-443 last">
+         <div class="phone-menu-item clearfix">
+          <a href="/calendar">calendar<i class="fa-chevron-down menu-toggle"></i></a>
+         </div>
+         <ul class="phone-submenu-wrapper unstyled">
+          <li class="nav-row"><a href="/legdeadlines">Legislative Calendar &amp; Deadlines</a></li>
+         </ul></li> 
+       </ul> 
+      </nav> 
+      <!-- end #phone nav --> 
+     </div> 
+    </header> 
+    <!-- end #header --> 
+    <div class="main-container"> 
+     <!--messages--> 
+     <!--middle column--> 
+     <div class="column-wrapper"> 
+      <div class="middle-column col-md-9 col-md-push-3"> 
+       <div id="breadcrumb-container">
+        <h2 class="element-invisible">You are here</h2>
+        <ol class="breadcrumb">
+         <li><a href="/">Home</a> </li>
+         <li> <a href="/citizensguide">Citizens' Guide</a> </li>
+         <li> <a href="/legislativeprocess" class="active">Legislative Process</a></li>
+        </ol>
+       </div> 
+       <a id="main-content"></a> 
+       <!--tabs--> 
+       <div class="tabs"> 
+       </div> 
+       <h1 class="title" id="page-title"> Legislative Process </h1> 
+       <!--content--> 
+       <div class="region region-content"> 
+        <div id="block-system-main" class="block block-system clearfix"> 
+         <div class="content"> 
+          <div id="node-63294" class="node node-page clearfix" about="/legislativeprocess" typeof="foaf:Document"> 
+           <span property="dc:title" content="Legislative Process" class="rdf-meta element-hidden"></span> 
+           <div class="content"> 
+            <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+             <div class="field-items">
+              <div class="field-item even" property="content:encoded">
+               <p>&nbsp;<a href="http://senate.ca.gov/sites/senate.ca.gov/files/legislative process booklet.pdf"><img alt="" src="/sites/senate.ca.gov/files/legislative_process_guide_cover.jpg" style="width: 182px; height: 254px;"></a></p> 
+               <div id="relatedinfo"> 
+                <p><a href="#step1">How your idea becomes a bill</a><br><a href="#step2">What to do when your bill goes to Policy Committee</a><br><a href="#step3">What if your bill goes to a Fiscal Committee?</a><br><a href="#step4">After your bill passes the House of Origin and goes to the Second House</a><br><a href="#step5">You can still act after your bill goes to the Governor</a></p> 
+               </div> 
+               <p> &nbsp;</p> 
+               <h3><a name="step1" id="step1"></a><b>Step 1: How Your Idea Becomes A Bill<img alt="Introducing a Bill" src="/sites/senate.ca.gov/files/STEP-1---INTRODUCING-BILL4.jpg" style="margin: 1px 7px; border: 1px solid currentColor; border-image: none; width: 250px; height: 179px; float: right;"></b></h3> 
+               <p> All legislation starts off as an idea. These ideas can come from anybody and the process begins when either an individual or group persuades a Member of the Legislature to author a bill. The Member then sends the idea and the language for the bill to the Legislative Counsel's Office, where it is drafted into the actual bill. The drafted bill is returned to the legislator for his or her review. Persons or groups that originated the idea for the bill may also review it to ensure that the provisions they desire are in the bill in the correct form. If the author is a Senator, the bill is introduced at the Senate Desk; if an Assemblymember, at the Assembly Desk, where it is assigned a number and read for the first time.</p> 
+               <p>&nbsp;</p> 
+               <h3><a name="step2" id="step2"></a><b>Step 2: What To Do When Your Bill Goes To Policy Committee</b></h3> 
+               <p> The bill then goes to the Senate or Assembly Rules Committee, where it is assigned to a policy committee. You can find out where your bill is assigned by calling the author. Since bills are not heard in policy committee until 30 days after they have been introduced and printed, there is plenty of time to investigate a bill or contact your legislator to communicate your position on the bill.</p> 
+               <p>&nbsp;<img alt="Committee hearing" src="/sites/senate.ca.gov/files/pictures/commiittee_hearings_1.jpg" style="border-width: 1px; border-style: solid; margin: 1px 7px; width: 250px; height: 179px; float: right;"></p> 
+               <p>Each bill must appear in the <a href="/dailyfile">Daily File</a> for four days prior to being heard in a committee. The Daily File is the agenda of the day's business, together with public notice of bills set for committee hearings. By checking the File, you can keep track of bills that are being scheduled for committee. If you live out of town and plan to testify at the hearing, it is a good idea to call the author or your legislator to make sure that the bill is going to be heard on that date. Sometimes bills are taken off the agenda at the last moment.</p> 
+               <p>&nbsp;</p> 
+               <p>At this point, the role of the District Office should be emphasized. District Office staff are there to serve the needs of constituents. They can be extremely helpful in making contacts and getting information from Sacramento.</p> 
+               <p>&nbsp;</p> 
+               <p>It is a good idea to schedule a meeting with your legislator while he or she is in the district. Communicate your concerns regarding legislation. Indicate that you want to work with the Member's office on a particular issue.</p> 
+               <p>&nbsp;</p> 
+               <p>Most bills generate support and opposition from a variety of groups. Find out who these groups or individuals are by calling the author's office where lists of the letters and phone calls received on each bill are kept. A good strategy is to align yourself with the groups that hold your position and work together to talk to the members of the committee BEFORE the bill is heard. Keep your letters and discussions with the legislators short and to the point.<img alt="Witness testifying" src="/sites/senate.ca.gov/files/STEP-2-B-WITNESS-TESTIFY-AT-HEARING2.jpg" style="margin: 1px 7px; border: 1px solid currentColor; border-image: none; width: 250px; height: 167px; float: right;"></p> 
+               <p>&nbsp;</p> 
+               <p>When testifying before the committee, first state your name and the organization that you represent or indicate that you are a concerned citizen and state where you live. The Members of the committee will be interested to hear what you have to say and usually do not grill individual citizens who testify in the same way that they do lobbyists. Keep your testimony short and to the point.</p> 
+               <p>&nbsp;</p> 
+               <h3><a name="step3" id="step3"></a><b>Step 3: What If Your Bill Goes To A Fiscal Committee?</b></h3> 
+               <p> If the bill has a fiscal impact or a state cost, it will be heard in either the Senate or Assembly Appropriations Committee. At this point, you should inform the Members of the committee why you support or oppose the bill based on a fiscal argument. The finance committees are concerned about fiscal impact and not policy considerations.</p> 
+               <p>&nbsp;</p> 
+               <p>Try to see the staff analysis that has been done on the bill by the policy committee, the Department of Finance, and/or the Legislative Analyst. Members of the fiscal committees read these analyses before they vote. These analyses are available on the Internet.</p> 
+               <p>&nbsp;</p> 
+               <p>If you believe that the numbers or the fiscal impact of the bill are not correct as reported in these analyses, you should prepare your written comments before the committee meets. Your written material should be available to pass out to the committee Members at the hearing where you present your testimony.</p> 
+               <p>&nbsp;</p> 
+               <p>After the bill passes the fiscal committee, it is read for the second time on the Floor.</p> 
+               <p>&nbsp;</p> 
+               <h3><a name="step4" id="step4"></a><b>Step 4: After Your Bill Passes The House Of Origin And Goes To The Second House</b></h3> 
+               <p> Third Reading is the last stage that a bill goes through in the house of origin before it passes to the second house to go through the committee process all over again. On Third Reading, the author presents the bill for passage by the entire house. Most bills require a majority vote (it must pass by 21 votes in the Senate and 41 votes in the Assembly), while urgency measures and appropriation bills require a two-thirds vote (27 in the Senate, 54 in the Assembly).</p> 
+               <p>&nbsp;<img alt="Senate Floor" src="/sites/senate.ca.gov/files/pictures/stone_en_6020.jpg" style="border-width: 1px; border-style: solid; margin: 1px 7px; width: 250px; height: 167px; float: right;"></p> 
+               <p>At any time during the legislative process the bill may be amended, either in committee or on the Floor. After the amendments have been submitted to the author, the bill goes to another printing to reflect the changes that have been made. The Senate or Assembly History records the dates when a bill has been amended. Amendments can be substantial or technical and may affect your position on the bill.</p> 
+               <p>&nbsp;</p> 
+               <p>Amendments should be followed very carefully. Contact with the District Office can be helpful in keeping track of current versions of a bill. If you subscribe to the bill, these amendments will automatically be sent to you. If you change your position on a bill due to a favorable or unfavorable amendment, you should inform the author and your legislator.</p> 
+               <p>&nbsp;</p> 
+               <p>If a Senate bill is amended by the Assembly, or vice versa, and the house of origin refuses to concur in those amendments, the bill will go to a conference committee. If the house of origin does concur, the bill goes to the Governor.</p> 
+               <p>&nbsp;</p> 
+               <p>Members of the conference committee are appointed by the Rules Committees; three members from the Senate and three from the Assembly meet to negotiate out the differences. If they agree on a single version, it goes back to both Floors for approval.</p> 
+               <p>&nbsp;</p> 
+               <p>Communicate to your legislator or the author which amendments you prefer and why. The conference committee meetings, particularly at the end of the two-year legislative session, are scheduled quickly and can be easily missed. You must stay in close contact with the author's staff to stay on top of fast-breaking developments. It is also important to know who will be serving on the conference committee so you can inform them of your position.</p> 
+               <p>&nbsp;</p> 
+               <h3><a name="step5" id="step5"></a><b>Step 5: You Can Still Act After Your Bill Goes To The Governor</b></h3> 
+               <p> The Governor has 12 days to sign, approve without signing, or veto a bill. A letter or phone call to the Governor's Office is appropriate to state your position on the bill.</p> 
+               <p>&nbsp;<img alt="Governor signing bill" src="/sites/senate.ca.gov/files/STEP-5-Governor-signs.jpg" style="margin: 1px 7px; border: 1px solid currentColor; border-image: none; width: 250px; height: 193px; float: right;"></p> 
+               <p>If the bill is signed or approved without a signature, it goes to the Secretary of State to be chaptered. If the Governor vetoes the bill, a two-thirds vote in each house is needed to override the veto. The Governor's Office releases veto messages which explain the veto; these messages are available from the Governor's Office and on the Internet.</p> 
+               <p>&nbsp;</p> 
+               <p>A wealth of legislative information is now available on the Internet. You can get bills, amendments, staff analyses, committee agendas, and other legislative information, plus a simple way to track legislation.</p> 
+               <p>&nbsp;</p> 
+               <h2>Related Links</h2> 
+               <p><a href="http://senate.ca.gov/informationtohelpyoufollowtheprocess">Information to help follow the process</a></p> 
+               <p><a href="http://senate.ca.gov/glossary">Glossary of Legislative Terms</a></p> 
+              </div>
+             </div>
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <!--end middle column--> 
+      <!--nested left column--> 
+      <!--left column--> 
+      <section> 
+       <div class="left-column col-md-3 col-md-pull-9"> 
+        <div class="region region-sidebar-left"> 
+         <div id="block-scgmenublock-menu-block" class="block block-scgmenublock clearfix"> 
+          <div class="content"> 
+           <ul class="menu">
+            <li class="first  active-trail"><a href="/legislativeprocess" class="active-trail active">Legislative Process</a></li> 
+            <li class=""><a href="http://senate.ca.gov/sites/senate.ca.gov/files/the%20budget%20process.pdf" title="">Budget Process</a></li> 
+            <li class=""><a href="http://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=CONS&amp;tocTitle=+California+Constitution+-+CONS" title="">California Constitution</a></li> 
+            <li class=""><a href="/citizensguide" title="">Rules</a></li> 
+            <li class=""><a href="/faq">FAQs</a></li> 
+            <li class="last "><a href="/citizensguide" title="">More...</a></li> 
+           </ul> 
+          </div> 
+         </div> 
+         <div id="block-lwpusermenu-lwpusermenu-toggle" class="block block-lwpusermenu clearfix"> 
+          <div class="content"> 
+           <form action="/legislativeprocess" method="post" id="lwpusermenu-mode-form" accept-charset="UTF-8">
+            <div>
+             <input type="hidden" name="form_build_id" value="form-Vel9fXbXgeACmxL3VGOmPnP4Wot7XPwzUW4mjE9gORU"> 
+             <input type="hidden" name="form_id" value="lwpusermenu_mode_form"> 
+            </div>
+           </form> 
+          </div> 
+         </div> 
+         <div id="block-block-7" class="block block-block clearfix"> 
+          <div class="content"> 
+           <p class="text-center"><a href="http://senate.ca.gov/dailyfile"><img alt="Senate Daily File" src="/sites/senate.ca.gov/files/home-file.png" style="width: 210px; height: 60px; margin-top: 5px; margin-bottom: 5px;"></a><a href="http://leginfo.legislature.ca.gov/faces/billSearchClient.xhtml"><img alt="Find Legislation" src="/sites/senate.ca.gov/files/home-legis.png" style="width: 210px; height: 60px; margin-top: 5px; margin-bottom: 5px;"></a><a href="http://senate.ca.gov/senate-oversight-hearings"><img alt="Oversight Hearings Page" src="/sites/senate.ca.gov/files/home-oversight.png" style="width: 210px; height: 60px; margin-top: 5px; margin-bottom: 5px;"></a><a href="http://findyourrep.legislature.ca.gov/"><img alt="Find My Senator" src="/sites/senate.ca.gov/files/home-find.png" style="width: 210px; height: 60px; margin-top: 5px; margin-bottom: 5px;"></a><a href="http://registertovote.ca.gov/"><img alt="Register to Vote" src="/sites/senate.ca.gov/files/home-vote_0.png" style="width: 210px; height: 60px; margin-top: 5px; margin-bottom: 5px;"></a><a href="http://senate.ca.gov/calendar"><img alt="Senate Events" src="/sites/senate.ca.gov/files/senate-events.png" style="width: 210px; height: 210px;"></a></p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </section> 
+      <!--end left column--> 
+     </div> 
+     <!--end column wrapper--> 
+     <!--footer section--> 
+     <section> 
+      <div class="footer-wrapper senate-red clear"> 
+       <div id="footer"> 
+        <div class="region region-footer"> 
+         <div id="block-block-6" class="block block-block clearfix"> 
+          <div class="content"> 
+           <p><img alt="California State Senate Seal" src="/sites/senate.ca.gov/files/ctools/senate-seal-sm.png" style="width: 36px; height: 36px"></p> 
+           <ul>
+            <li><a href="/sitemap">Site Map</a></li> 
+            <li><a href="http://www.legislature.ca.gov/footer/use_privacy_policy.html">Privacy and Conditions of Use</a></li> 
+            <li><a href="/accessibility">Accessibility</a></li> 
+            <li><a href="#top">Back to Top</a></li> 
+            <li><a href="/feedback">Feedback</a></li> 
+            <li><a href="/senatejobs">Senate Jobs Available</a></li> 
+            <li><a href="http://wcu-reporting.legislature.ca.gov/">Reporting Inappropriate Workplace Conduct</a></li> 
+            <li>Copyright © 2014 State of California</li> 
+           </ul> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <!-- /#footer --> 
+      </div> 
+     </section> 
+     <!--end footer section--> 
+    </div>
+    <!-- /.container --> 
+   </div> 
+   <!-- /#wrapper --> 
+  </div>
+  <!--#page--> 
+  <div id="modal" class="modal fade"> 
+   <div class="modal-dialog modal-lg"> 
+    <div class="modal-content"> 
+     <div class="modal-header"> 
+      <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button> 
+      <h4 class="modal-title"></h4> 
+     </div> 
+     <div class="modal-body"> 
+      <p>Loading.....</p> 
+     </div> 
+     <div class="modal-footer"> 
+      <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button> 
+     </div> 
+    </div>
+    <!-- /.modal-content --> 
+   </div>
+   <!-- /.modal-dialog --> 
+  </div>
+  <!-- /.modal --> 
+  <div id="video-modal" class="modal fade" data-backdrop="static" data-keyboard="false">
+   <!-- data-backdrop="static" data-keyboard="false" disables escape and mouse click from closing modal--> 
+   <div class="modal-dialog modal-lg"> 
+    <div class="modal-content"> 
+     <div class="modal-header"> 
+      <div class="btn-toolbar pull-right"> 
+       <div class="btn-group"> 
+        <a id="video-popout-link" href="#" target="_blank" type="button" class="close btn-xs calendar-tooltip" data-toggle="tooltip" data-placement="right" title="Open in a new window"><span aria-hidden="true"><i class="fa fa-external-link"></i></span><span class="sr-only">open in new window</span></a> 
+       </div> 
+       <div class="btn-group"> 
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button> 
+       </div> 
+      </div> 
+      <h4 class="modal-title"></h4> 
+     </div> 
+     <div class="modal-body"> 
+      <p>Loading player......</p> 
+     </div> 
+     <div class="modal-footer"> 
+      <!-- <a href="#"  target="_blank" type="button" class="btn btn-success" id="video-download-link"><i class="fa-download"></i>Download Video</a> --> 
+      <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa-times"></i>Close</button> 
+     </div> 
+    </div>
+    <!-- /.modal-content --> 
+   </div>
+   <!-- /.modal-dialog --> 
+  </div>
+  <!-- /.modal --> 
+  <div id="control-modal" class="modal fade" data-backdrop="static" data-keyboard="false">
+   <!-- data-backdrop="static" data-keyboard="false" disables escape and mouse click from closing modal--> 
+   <div class="modal-dialog modal-lg"> 
+    <div class="modal-content"> 
+     <div class="modal-header"> 
+      <div class="btn-toolbar pull-right"> 
+       <div class="btn-group"> 
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button> 
+       </div> 
+      </div> 
+      <h4 class="modal-title"></h4> 
+     </div> 
+     <div class="modal-body"> 
+      <p>Loading</p> 
+     </div> 
+     <div class="modal-footer"> 
+      <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button> 
+     </div> 
+    </div>
+    <!-- /.modal-content --> 
+   </div>
+   <!-- /.modal-dialog --> 
+  </div>
+  <!-- /.modal --> 
+  <div class="modal fade" id="emailConfirmationMessage" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
+   <div class="modal-dialog"> 
+    <div class="modal-content"> 
+     <div class="modal-header"> 
+      <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button> 
+      <h4 class="modal-title" id="myModalLabel">Adjourn Confirmation</h4> 
+     </div> 
+     <div class="modal-body"> 
+      <div class="alert alert-success" role="alert">
+       An email will be sent to the Streaming Support distribution list and Adjourn the hearing.
+      </div> 
+     </div> 
+     <div class="modal-footer"> 
+      <button type="button" class="btn btn-primary sendAdjournEmail">Ok</button> 
+      <button type="button" class="btn btn-default" data-dismiss="modal">Close</button> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="modal fade" id="recessEmailConfirmationMessage" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
+   <div class="modal-dialog"> 
+    <div class="modal-content"> 
+     <div class="modal-header"> 
+      <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button> 
+      <h4 class="modal-title" id="myModalLabel">Recess Confirmation</h4> 
+     </div> 
+     <div class="modal-body"> 
+      <div class="alert alert-success" role="alert">
+       An email will be sent to the Streaming Support distribution list and the hearing will be recessed.
+      </div> 
+     </div> 
+     <div class="modal-footer"> 
+      <button type="button" class="btn btn-primary sendRecessEmail">Ok</button> 
+      <button type="button" class="btn btn-default" data-dismiss="modal">Close</button> 
+     </div> 
+    </div> 
+   </div> 
+  </div>  
+ </body>
+</html>

@@ -1,0 +1,579 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+	Get a Bone Density Test - healthfinder.gov
+</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+  <meta name="keywords" content="nutrition, bone health, menopause, healthy women, healthy woman, osteoporosis, women's health, womens health">
+  <meta name="description" content="A bone density test measures how strong bones are. Share this resource to help people learn more about bone density tests and osteoporosis (weak bones).">
+  <link rel="canonical" href="https://healthfinder.gov:443/HealthTopics/Dispatch.aspx?q1=doctor-visits&amp;q2=screening-tests&amp;q3=get-a-bone-density-test">
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+  <meta name="verify-v1" content="SGDyDYxOiYbFQAhohrwKuaxwOiCVv2eZij6NzZ678Cg=">
+  <meta name="y_key" content="e1fae57e8f96398e">
+  <link href="/css/reset.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/styles.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/styles-esp.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/font-awesome.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/flexslider.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/jquery.tweet.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/colorbox/colorbox.css" rel="stylesheet" media="all">
+  <link href="/css/redmond/jquery-ui-1.8.20.custom.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/jquery.dataTables.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/jquery.dataTables_themeroller.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/quickguide.css" rel="stylesheet" media="all">
+  <link href="/css/myhealthfinder.css" rel="stylesheet" media="all">
+  <link href="/css/ecards.css" rel="stylesheet" media="all">
+  <link href="/css/quiz.css" rel="stylesheet" media="all">
+  <link href="/css/surveys.css" rel="stylesheet" media="screen">
+  <link href="/css/odphp-global-nav.css" rel="stylesheet" media="all"> 
+  <!--[if (gte IE 6)&(lte IE 8)]>
+        <script type="text/javascript" src="/js/selectivizr-min.js"></script>
+    <![endif]--> 
+  <!--[if IE 7]>
+        <link rel="stylesheet" type="text/css" media="all" href="/css/ie7.css" /><link rel="stylesheet" type="text/css" media="all" href="/css/font-awesome-ie7.css" />
+        <![endif]--> 
+  <!--[if IE 8]><link rel="stylesheet" type="text/css" media="all" href="/css/ie8.css" /><![endif]--> 
+  <link type="text/css" rel="stylesheet" href="/css/search-suggest.css">
+  <link type="text/css" rel="stylesheet" href="/css/print.css" media="print"> 
+ </head> 
+ <body id="body" class="english"> 
+  <!-- Google Tag Manager --> 
+  <noscript>
+   <iframe src="//www.googletagmanager.com/ns.html?id=GTM-5TG7CH&amp;NoJavascriptType=web&amp;NoJavascriptCID=96beadac-8d4b-5ed5-b6e3-2cda8444386d&amp;NoJavascriptURL=https%3a%2f%2fhealthfinder.gov%2fHealthTopics%2fCategory%2fdoctor-visits%2fscreening-tests%2fget-a-bone-density-test&amp;NoJavascriptLang=en-US&amp;NoJavascriptReferrer=&amp;NoJavascriptTitle=" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript> 
+  <script>(function (w, d, s, l, i) {
+w[l] = w[l] || []; w[l].push({
+'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'AnalyticsLogicLayer', 'GTM-5TG7CH');</script> 
+  <!-- End Google Tag Manager --> 
+  <div id="HideIfWidget1"> 
+   <div class="global-nav"> 
+    <div class="global-nav-odphp">
+     <span>Office of Disease Prevention and Health Promotion</span>
+    </div> 
+    <ul> 
+     <li><a href="https://health.gov/" class="global-nav-healthgov">health.gov</a></li> 
+     <li><a href="https://healthfinder.gov/" class="global-nav-healthfinder global-nav-current">healthfinder.gov</a></li> 
+     <li><a href="https://healthypeople.gov/" class="global-nav-healthypeople">healthypeople.gov</a></li> 
+    </ul> 
+   </div> 
+   <img class="print-logo" src="/images/footer-hf-logo.png" alt="Department of Health and Human Services"> 
+  </div> 
+  <div id="page"> 
+   <div id="HideIfWidget2"> 
+    <a href="https://www.hhs.gov/" class="parent-banner">U.S. Department of Health and Human Services</a> 
+    <div id="header" class="clearfix" role="banner"> 
+     <div id="skip"> 
+      <a class="skipnav" href="#skipnav" tabindex="1">Skip to Content</a> 
+     </div> 
+     <div id="espanol">
+      <a href="/espanol">En español</a>
+     </div> 
+     <div id="mobile-menu-trigger" class="mobile-hide"> 
+      <h2>Menu</h2> 
+     </div> 
+     <div id="logo"> 
+      <a href="/"> <img src="/images/logo.png" alt="healthfinder.gov"> </a> 
+     </div> 
+     <div id="search-box" role="search"> 
+      <form action="/search" method="get"> 
+       <label for="searchText">Search healthfinder.gov:</label> 
+       <input id="searchText" aria-autocomplete="both" aria-haspopup="true" autocomplete="off" class="search_text" type="search" name="q"> 
+       <span class="query-suggestions-wrap"> <span id="query_suggestions" class="query-suggestions" aria-live="off"></span> </span> 
+       <span id="query_status" class="query-status" aria-live="polite"></span> 
+       <input id="searchButton" class="search_button" value="Go" type="submit"> 
+      </form> 
+     </div> 
+     <!-- /#search-box --> 
+     <div class="clear"></div> 
+    </div> 
+   </div> 
+   <div id="content" class="clearfix"> 
+    <div id="HideIfWidget3"> 
+     <div class="main_menu"> 
+      <div id="engMenu1_mainMenu" role="navigation">
+       <ul class="menu menu-hide"> 
+        <li data-path="/healthtopics/topic.aspx"> <a href="/Default.aspx">Home</a> </li> 
+        <li data-path="/healthtopics/topic.aspx" class="active"> <a href="/HealthTopics/">Health Topics A to Z</a> </li> 
+        <li data-path="/healthtopics/topic.aspx"> <a href="/myhealthfinder/">myhealthfinder</a> </li> 
+        <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/">Free Web Content</a> 
+         <ul> 
+          <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/HealthTopics/">Health and Wellness Topics</a> </li> 
+          <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/PreventiveServices/">myhealthfinder: Preventive Services Recommendations</a> </li> 
+          <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/Videos/">Videos</a> </li> 
+          <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/HealthWidgets/">Health Widgets and Badges</a> </li> 
+          <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/Developer/">APIs for Developers</a> </li> 
+         </ul> </li> 
+        <li data-path="/healthtopics/topic.aspx"> <a href="/FindServices/">Find Services Near&nbsp;You</a> </li> 
+        <li data-path="/healthtopics/topic.aspx"> <a href="/NHO/">National Health Observances</a> </li> 
+        <li class="mobile-hide espanol" data-path="/healthtopics/topic.aspx"> <a href="/espanol">En español</a> </li> 
+       </ul>
+      </div> 
+      <div class="connect clearfix"> 
+       <p class="connect-text">Find us on:</p> 
+       <a class="facebook connect-button" href="https://www.facebook.com/healthfinder" title="Facebook"> <img src="/images/icon-fb.png" alt="Facebook icon"></a> 
+       <a class="twitter connect-button" href="https://www.twitter.com/healthfinder" title="Twitter"> <img src="/images/icon-twitter.png" alt="Twitter icon"></a> 
+       <!-- <a class="rss connect-button" href="/News/rss.asp" title="RSS">
+        <img src="/images/icon-rss.png" alt="RSS icon" /></a> --> 
+       <div class="email-updates-container"> 
+        <a id="email-updates" href="https://public.govdelivery.com/accounts/USOPHSODPHPHF/subscriber/new?topic_id=USOPHSODPHPHF_1" target="_blank">Get Email Updates</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="main_content" role="main"> 
+     <div id="HideIfWidget4"> 
+      <div id="breadcrumb"> 
+       <span id="engBreadcrumbs1_SiteMapPath1"><span><a href="/Default.aspx">Home</a></span><span> &gt; </span><span><a href="/HealthTopics/Default.aspx">Health Topics A to Z</a></span><span> &gt; </span><span><a href="/HealthTopics/Category/doctor-visits">Doctor Visits</a></span><span> &gt; </span><span><a href="/HealthTopics/Category/doctor-visits/screening-tests">Screening Tests</a></span><span> &gt; </span><span>Get a Bone Density Test</span></span> 
+      </div> 
+      <div id="engBreadcrumbs1_addThisPanel"> 
+       <div id="addThisCode" class="clearfix"> 
+        <!-- AddToAny BEGIN --> 
+        <div class="a2a_kit a2a_kit_size_32 a2a_default_style"> 
+         <a class="a2a_dd" href="https://www.addtoany.com/share"></a> 
+         <a class="a2a_button_facebook"></a> 
+         <a class="a2a_button_twitter"></a> 
+        </div> 
+        <script>
+      var a2a_config = a2a_config || {};
+      a2a_config.onclick = 1;
+      </script> 
+        <script async src="https://static.addtoany.com/menu/page.js"></script> 
+        <!-- AddToAny END --> 
+       </div> 
+      </div> 
+      <span id="skipnav"></span> 
+     </div> 
+     <form method="post" action="../../../Topic.aspx?id=12&amp;type=topic&amp;noredirect=1&amp;category=13" id="MainForm"> 
+      <div class="aspNetHidden"> 
+       <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzIwMTkxNzIzD2QWAmYPZBYEAgEPZBYGAgIPFgIeBFRleHQFkwE8bWV0YSBuYW1lPSJrZXl3b3JkcyIgY29udGVudD0ibnV0cml0aW9uLCBib25lIGhlYWx0aCwgbWVub3BhdXNlLCBoZWFsdGh5IHdvbWVuLCBoZWFsdGh5IHdvbWFuLCBvc3Rlb3Bvcm9zaXMsIHdvbWVuJiMzOTtzIGhlYWx0aCwgd29tZW5zIGhlYWx0aCIgLz5kAgMPFgIfAAW+ATxtZXRhIG5hbWU9ImRlc2NyaXB0aW9uIiBjb250ZW50PSJBIGJvbmUgZGVuc2l0eSB0ZXN0IG1lYXN1cmVzIGhvdyBzdHJvbmcgYm9uZXMgYXJlLiBTaGFyZSB0aGlzIHJlc291cmNlIHRvIGhlbHAgcGVvcGxlIGxlYXJuIG1vcmUgYWJvdXQgYm9uZSBkZW5zaXR5IHRlc3RzIGFuZCBvc3Rlb3Bvcm9zaXMgKHdlYWsgYm9uZXMpLiIgLz5kAgYPFgIfAAWWATxsaW5rIHJlbD0nY2Fub25pY2FsJyBocmVmPSdodHRwczovL2hlYWx0aGZpbmRlci5nb3Y6NDQzL0hlYWx0aFRvcGljcy9EaXNwYXRjaC5hc3B4P3ExPWRvY3Rvci12aXNpdHMmcTI9c2NyZWVuaW5nLXRlc3RzJnEzPWdldC1hLWJvbmUtZGVuc2l0eS10ZXN0JyAvPmQCAw8WAh4FY2xhc3MFB2VuZ2xpc2gWCgIBD2QWAgIFDw8WAh4HVmlzaWJsZWhkZAICD2QWBAIBD2QWAmYPFgIeCWlubmVyaHRtbAXnCzx1bCBjbGFzcz0ibWVudSBtZW51LWhpZGUiPg0KICA8bGkgZGF0YS1wYXRoPSIvaGVhbHRodG9waWNzL3RvcGljLmFzcHgiPg0KICAgIDxhIGhyZWY9Ii9EZWZhdWx0LmFzcHgiPkhvbWU8L2E+DQogIDwvbGk+DQogIDxsaSBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCIgY2xhc3M9ImFjdGl2ZSI+DQogICAgPGEgaHJlZj0iL0hlYWx0aFRvcGljcy8iPkhlYWx0aCBUb3BpY3MgQSB0byBaPC9hPg0KICA8L2xpPg0KICA8bGkgZGF0YS1wYXRoPSIvaGVhbHRodG9waWNzL3RvcGljLmFzcHgiPg0KICAgIDxhIGhyZWY9Ii9teWhlYWx0aGZpbmRlci8iPm15aGVhbHRoZmluZGVyPC9hPg0KICA8L2xpPg0KICA8bGkgZGF0YS1wYXRoPSIvaGVhbHRodG9waWNzL3RvcGljLmFzcHgiPg0KICAgIDxhIGhyZWY9Ii9GcmVlQ29udGVudC8iPkZyZWUgV2ViIENvbnRlbnQ8L2E+DQogICAgPHVsPg0KICAgICAgPGxpIGRhdGEtcGF0aD0iL2hlYWx0aHRvcGljcy90b3BpYy5hc3B4Ij4NCiAgICAgICAgPGEgaHJlZj0iL0ZyZWVDb250ZW50L0hlYWx0aFRvcGljcy8iPkhlYWx0aCBhbmQgV2VsbG5lc3MgVG9waWNzPC9hPg0KICAgICAgPC9saT4NCiAgICAgIDxsaSBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgICAgIDxhIGhyZWY9Ii9GcmVlQ29udGVudC9QcmV2ZW50aXZlU2VydmljZXMvIj5teWhlYWx0aGZpbmRlcjogUHJldmVudGl2ZSBTZXJ2aWNlcyBSZWNvbW1lbmRhdGlvbnM8L2E+DQogICAgICA8L2xpPg0KICAgICAgPGxpIGRhdGEtcGF0aD0iL2hlYWx0aHRvcGljcy90b3BpYy5hc3B4Ij4NCiAgICAgICAgPGEgaHJlZj0iL0ZyZWVDb250ZW50L1ZpZGVvcy8iPlZpZGVvczwvYT4NCiAgICAgIDwvbGk+DQogICAgICA8bGkgZGF0YS1wYXRoPSIvaGVhbHRodG9waWNzL3RvcGljLmFzcHgiPg0KICAgICAgICA8YSBocmVmPSIvRnJlZUNvbnRlbnQvSGVhbHRoV2lkZ2V0cy8iPkhlYWx0aCBXaWRnZXRzIGFuZCBCYWRnZXM8L2E+DQogICAgICA8L2xpPg0KICAgICAgPGxpIGRhdGEtcGF0aD0iL2hlYWx0aHRvcGljcy90b3BpYy5hc3B4Ij4NCiAgICAgICAgPGEgaHJlZj0iL0ZyZWVDb250ZW50L0RldmVsb3Blci8iPkFQSXMgZm9yIERldmVsb3BlcnM8L2E+DQogICAgICA8L2xpPg0KICAgIDwvdWw+DQogIDwvbGk+DQogIDxsaSBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgPGEgaHJlZj0iL0ZpbmRTZXJ2aWNlcy8iPkZpbmQgU2VydmljZXMgTmVhcsKgWW91PC9hPg0KICA8L2xpPg0KICA8bGkgZGF0YS1wYXRoPSIvaGVhbHRodG9waWNzL3RvcGljLmFzcHgiPg0KICAgIDxhIGhyZWY9Ii9OSE8vIj5OYXRpb25hbCBIZWFsdGggT2JzZXJ2YW5jZXM8L2E+DQogIDwvbGk+DQogIDxsaSBjbGFzcz0ibW9iaWxlLWhpZGUgZXNwYW5vbCIgZGF0YS1wYXRoPSIvaGVhbHRodG9waWNzL3RvcGljLmFzcHgiPg0KICAgIDxhIGhyZWY9Ii9lc3Bhbm9sIj5FbiBlc3Bhw7FvbDwvYT4NCiAgPC9saT4NCjwvdWw+ZAIDDw8WAh8CaGRkAgMPZBYCAgMPDxYCHwJoZGQCBQ9kFgJmD2QWDgIBD2QWAgIBDw8WBB4LTmF2aWdhdGVVcmwFeS9lc3Bhbm9sL3RlbWFzL0NhdGVnb3J5L2NvbnN1bHRhcy1jb24tZWwtZG9jdG9yL3BydWViYXMtZGUtZGV0ZWNjaW9uL2hhenRlLWxhLXBydWViYS1wYXJhLW1lZGlyLWxhLWRlbnNpZGFkLWRlLWxvcy1odWVzb3MfAmdkZAIDDxYCHwAFF0dldCBhIEJvbmUgRGVuc2l0eSBUZXN0ZAIHDw8WAh4ISW1hZ2VVcmwFMy9IZWFsdGhUb3BpY3MvZ2xtZWRpYS9pY29ucy9nZXRhYm9uZWRlbnNpdHl0ZXN0LmpwZxYCHgNhbHRlZAIJD2QWAmYPFgIeC18hSXRlbUNvdW50AgIWBGYPZBYEZg8VAQpUaGUgQmFzaWNzZAIBDxYCHwcCAxYGZg9kFgJmDxUDCnRoZS1iYXNpY3MBMQhPdmVydmlld2QCAQ9kFgJmDxUDCnRoZS1iYXNpY3MBMg1BbSBJIGF0IFJpc2s/ZAICD2QWAmYPFQMKdGhlLWJhc2ljcwEzEVRyZWF0bWVudCBPcHRpb25zZAIBD2QWBGYPFQEMVGFrZSBBY3Rpb24hZAIBDxYCHwcCBBYIZg9kFgJmDxUDC3Rha2UtYWN0aW9uATEKR2V0IFRlc3RlZGQCAQ9kFgJmDxUDC3Rha2UtYWN0aW9uATIVQ2FsY2l1bSBhbmQgVml0YW1pbiBEZAICD2QWAmYPFQMLdGFrZS1hY3Rpb24BMwpHZXQgQWN0aXZlZAIDD2QWAmYPFQMLdGFrZS1hY3Rpb24BNA5IZWFsdGh5IEhhYml0c2QCCw8WAh8HAgIWBGYPZBYEZg8VAgp0aGUtYmFzaWNzClRoZSBCYXNpY3NkAgEPFgIfBwIDFgZmD2QWBGYPFQQCNTcKVGhlIEJhc2ljcwhPdmVydmlld5kLPHA+QSBib25lIGRlbnNpdHkgdGVzdCBtZWFzdXJlcyBob3cgc3Ryb25nJm5ic3A7Ym9uZXMgYXJlLiBUaGUgdGVzdCB3aWxsIHRlbGwgeW91IGlmIHlvdSBoYXZlIG9zdGVvcG9yb3NpcyAoJmxkcXVvO29zLXRlZS1vaC1wdWgtUk9ILXNpcyZyZHF1bzspLCBvciB3ZWFrIGJvbmVzLjwvcD48cD5Xb21lbiBhcmUgYXQgaGlnaGVyIHJpc2sgZm9yIG9zdGVvcG9yb3NpcyB0aGFuIG1lbiwgYW5kIHRoaXMgcmlzayBpbmNyZWFzZXMgd2l0aCBhZ2UuPC9wPjx1bD48bGk+SWYgeW91IGFyZSBhIHdvbWFuIGFnZSA2NSBvciBvbGRlciwgc2NoZWR1bGUgYSBib25lIGRlbnNpdHkgdGVzdC48L2xpPjxsaT5JZiB5b3UgYXJlIGEgd29tYW4gYWdlIDY0IG9yIHlvdW5nZXIgYW5kIHlvdSBoYXZlIGdvbmUgdGhyb3VnaCBtZW5vcGF1c2UsIGFzayB5b3VyIGRvY3RvciBpZiB5b3UgbmVlZCBhIGJvbmUgZGVuc2l0eSZuYnNwO3Rlc3QuPC9saT48L3VsPjxwPklmIHlvdSBhcmUgYXQgcmlzayBmb3Igb3N0ZW9wb3Jvc2lzLCB5b3VyIGRvY3RvciBvciBudXJzZSBtYXkgcmVjb21tZW5kIHlvdSBnZXQmbmJzcDthIGJvbmUgZGVuc2l0eSB0ZXN0IGV2ZXJ5IDIgeWVhcnMuPC9wPjxwPk1lbiBjYW4gZ2V0IG9zdGVvcG9yb3NpcywgdG9vLiBJZiB5b3UgYXJlIGEgbWFuIG92ZXIgYWdlIDY1IGFuZCB5b3UgYXJlIGNvbmNlcm5lZCBhYm91dCB5b3VyIGJvbmUgc3RyZW5ndGgsIHRhbGsgd2l0aCB5b3VyIGRvY3RvciBvciBudXJzZS4mbmJzcDs8L3A+PGgzPldoYXQgaXMgb3N0ZW9wb3Jvc2lzPzwvaDM+PHA+T3N0ZW9wb3Jvc2lzIGlzIGEgYm9uZSBkaXNlYXNlLiBJdCBtZWFucyB5b3VyIGJvbmVzIGFyZSB3ZWFrIGFuZCBtb3JlIGxpa2VseSB0byBicmVhay4gUGVvcGxlIHdpdGggb3N0ZW9wb3Jvc2lzIG1vc3Qgb2Z0ZW4gYnJlYWsgYm9uZXMgaW4gdGhlIGhpcCwgc3BpbmUsIGFuZCB3cmlzdC48L3A+PHA+VGhlcmUgYXJlIG5vIHNpZ25zIG9yIHN5bXB0b21zIG9mIG9zdGVvcG9yb3Npcy4gWW91IG1pZ2h0IG5vdCBrbm93IHlvdSBoYXZlIHRoZSBkaXNlYXNlIHVudGlsIHlvdSBicmVhayBhIGJvbmUuIFRoYXQmcnNxdW87cyB3aHkgaXQmcnNxdW87cyBzbyBpbXBvcnRhbnQgdG8gZ2V0IGEgYm9uZSBkZW5zaXR5IHRlc3QgdG8gbWVhc3VyZSB5b3VyIGJvbmUgc3RyZW5ndGguJm5ic3A7PC9wPjxoMz5XaGF0IGhhcHBlbnMgZHVyaW5nIGEgYm9uZSBkZW5zaXR5IHRlc3Q/PC9oMz48cD5BIGJvbmUgZGVuc2l0eSB0ZXN0IGlzIGxpa2UgYW4geC1yYXkgb3Igc2NhbiBvZiB5b3VyIGJvZHkuIEEgYm9uZSBkZW5zaXR5IHRlc3QgZG9lc24mcnNxdW87dCBodXJ0LCBhbmQgeW91IGRvbiYjMzk7dCBuZWVkIHRvIGRvIGFueXRoaW5nIHRvIHByZXBhcmUgZm9yIGl0LiBJdCBvbmx5IHRha2VzIGFib3V0IDE1IG1pbnV0ZXMuJm5ic3A7PC9wPjxwPjwvcD5kAgEPZBYGAgEPDxYCHwJnZGQCAw8PFgQfAAUNQW0gSSBhdCBSaXNrPx8CZxYCHgRocmVmBQ0jdGhlLWJhc2ljc18yZAIJDw8WAh8ABQ8xIG9mIDcgc2VjdGlvbnNkZAIBD2QWBGYPFQQDODc5ClRoZSBCYXNpY3MNQW0gSSBhdCBSaXNrP7AIPGgzPkFtIEkgYXQgcmlzayBmb3Igb3N0ZW9wb3Jvc2lzPzwvaDM+PHA+QW55b25lIGNhbiBnZXQgb3N0ZW9wb3Jvc2lzLCBidXQgaXQmcnNxdW87cyBtb3N0IGNvbW1vbiBpbiBvbGRlciB3b21lbi4gVGhlIG9sZGVyIHlvdSBhcmUsIHRoZSBncmVhdGVyIHlvdXIgcmlzayBmb3Igb3N0ZW9wb3Jvc2lzLjwvcD48cD5UaGVzZSB0aGluZ3MgY2FuIGFsc28gaW5jcmVhc2UgeW91ciByaXNrIGZvciBvc3Rlb3Bvcm9zaXM6PC9wPjx1bD48bGk+SG9ybW9uZSBjaGFuZ2VzIChlc3BlY2lhbGx5IGZvciB3b21lbiB3aG8gaGF2ZSBnb25lIHRocm91Z2ggbWVub3BhdXNlKTwvbGk+PGxpPk5vdCBnZXR0aW5nIGVub3VnaCBjYWxjaXVtIGFuZCBWaXRhbWluIEQ8L2xpPjxsaT5UYWtpbmcgY2VydGFpbiBtZWRpY2luZXM8L2xpPjxsaT5TbW9raW5nIGNpZ2FyZXR0ZXMgb3IgZHJpbmtpbmcgdG9vIG11Y2ggYWxjb2hvbDwvbGk+PGxpPk5vdCBnZXR0aW5nIGVub3VnaCBwaHlzaWNhbCBhY3Rpdml0eTwvbGk+PC91bD48cD5WaXNpdCB0aGVzZSB3ZWJzaXRlcyB0byBsZWFybiBtb3JlIGFib3V0IG9zdGVvcG9yb3NpcyBhbmQgYm9uZSBoZWFsdGg6PC9wPjx1bD48bGk+PGEgaHJlZj0iaHR0cDovL3d3dy5uaWFtcy5uaWguZ292L2hlYWx0aF9pbmZvL2JvbmUvb3N0ZW9wb3Jvc2lzL29zdGVvcG9yb3Npc19ob2guYXNwIzUiIHRhcmdldD0iX2JsYW5rIj5SaXNrIEZhY3RvcnMgZm9yIE9zdGVvcG9yb3NpczwvYT48L2xpPjxsaT48YSBocmVmPSJodHRwOi8vd3d3Lm5pYW1zLm5paC5nb3YvSGVhbHRoX0luZm8vQm9uZS9vc3Rlb3Bvcm9zaXMvSXNhYmVsX3N0b3J5LmFzcCIgdGFyZ2V0PSJfYmxhbmsiPklzYWJlbCZyc3F1bztzIFN0b3J5PC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cubmlhbXMubmloLmdvdi9oZWFsdGhfaW5mby9ib25lL1NHUi9zdXJnZW9uX2dlbmVyYWxzX3JlcG9ydC5hc3AiIHRhcmdldD0iX2JsYW5rIj5TdXJnZW9uIEdlbmVyYWwmcnNxdW87cyBSZXBvcnQgb24gQm9uZSBIZWFsdGggYW5kIE9zdGVvcG9yb3NpczogV2hhdCBpdCBNZWFucyB0byBZb3U8L2E+PC9saT48L3VsPmQCAQ9kFgoCAQ8PFgIfAmdkZAIDDw8WBB8ABRFUcmVhdG1lbnQgT3B0aW9ucx8CZxYCHwgFDSN0aGUtYmFzaWNzXzNkAgUPDxYCHwJnZGQCBw8PFgQfAAUIT3ZlcnZpZXcfAmcWAh8IBQ0jdGhlLWJhc2ljc18xZAIJDw8WAh8ABQ8yIG9mIDcgc2VjdGlvbnNkZAICD2QWBGYPFQQDMzk3ClRoZSBCYXNpY3MRVHJlYXRtZW50IE9wdGlvbnOCBjxoMz5XaGF0IGlmIEkgaGF2ZSBvc3Rlb3Bvcm9zaXM/PC9oMz48cD5JZiB5b3UgaGF2ZSBvc3Rlb3Bvcm9zaXMsIHlvdSBjYW4gc3RpbGwgc2xvdyBkb3duIGJvbmUgbG9zcy4gRmluZGluZyBhbmQgdHJlYXRpbmcgdGhpcyBkaXNlYXNlIGVhcmx5IGNhbiBrZWVwIHlvdSBoZWFsdGhpZXIgYW5kIG1vcmUgYWN0aXZlLCZuYnNwO2xvd2VyaW5nIHlvdXIgY2hhbmNlcyBvZiBicmVha2luZyBhIGJvbmUuPC9wPjxwPkRlcGVuZGluZyBvbiB0aGUgcmVzdWx0cyBvZiB5b3VyIGJvbmUgZGVuc2l0eSB0ZXN0LCB5b3UgbWF5IG5lZWQgdG86PC9wPjx1bD48bGk+QWRkIG1vcmUgY2FsY2l1bSBhbmQgdml0YW1pbiBEIHRvIHlvdXIgZGlldDwvbGk+PGxpPkV4ZXJjaXNlIG1vcmUgdG8gc3RyZW5ndGhlbiB5b3VyIGJvbmVzPC9saT48bGk+VGFrZSBtZWRpY2luZSB0byBzdG9wIGJvbmUgbG9zczwvbGk+PC91bD48cD48YSBocmVmPSJodHRwczovL3d3dy5ubG0ubmloLmdvdi9tZWRsaW5lcGx1cy9lbmN5L3BhdGllbnRpbnN0cnVjdGlvbnMvMDAwNTAyLmh0bSIgdGFyZ2V0PSJfYmxhbmsiPkxlYXJuIGFib3V0IG1lZGljaW5lcyB1c2VkIHRvIHRyZWF0IG9zdGVvcG9yb3NpczwvYT4uPC9wPjxwPllvdXIgZG9jdG9yIGNhbiB0ZWxsIHlvdSB3aGF0IHN0ZXBzIGFyZSByaWdodCBmb3IgeW91LiBJdCBkb2VzbiZyc3F1bzt0IG1hdHRlciBob3cgb2xkIHlvdSBhcmUgJm5kYXNoOyBpdCZyc3F1bztzIG5vdCB0b28gbGF0ZSB0byBidWlsZCBzdHJvbmdlciBib25lcy48L3A+ZAIBD2QWCgIBDw8WAh8CZ2RkAgMPDxYEHwAFCkdldCBUZXN0ZWQfAmcWAh8IBQ4jdGFrZS1hY3Rpb25fMWQCBQ8PFgIfAmdkZAIHDw8WBB8ABQ1BbSBJIGF0IFJpc2s/HwJnFgIfCAUNI3RoZS1iYXNpY3NfMmQCCQ8PFgIfAAUPMyBvZiA3IHNlY3Rpb25zZGQCAQ9kFgRmDxUCC3Rha2UtYWN0aW9uDFRha2UgQWN0aW9uIWQCAQ8WAh8HAgQWCGYPZBYEZg8VBAI1OQtUYWtlIEFjdGlvbgpHZXQgVGVzdGVk3Ao8cD5UYWtlIHRoZXNlIHN0ZXBzIHRvIHByb3RlY3QgeW91ciBib25lIGhlYWx0aC48L3A+PGgzPlNjaGVkdWxlIGEgYm9uZSBkZW5zaXR5IHRlc3QmbmJzcDtpZiB5b3VyIGRvY3RvciByZWNvbW1lbmRzIGl0LjwvaDM+PHA+QXNrIHlvdXIgZG9jdG9yIGlmIHlvdSBhcmUgYXQgcmlzayBmb3Igb3N0ZW9wb3Jvc2lzIGFuZCBmaW5kIG91dCB3aGVuIHRvIHN0YXJ0IGdldHRpbmcgYm9uZSBkZW5zaXR5IHRlc3RzLjwvcD48cD5QcmludCB0aGVzZSA8YSBocmVmPSIvSGVhbHRoVG9waWNzL1Rvb2wuYXNweD9pZD00NiI+cXVlc3Rpb25zIGZvciB0aGUgZG9jdG9yIGFib3V0IHByZXZlbnRpbmcgb3N0ZW9wb3Jvc2lzPC9hPiZuYnNwO2FuZCB0YWtlIHRoZW0gdG8geW91ciBuZXh0IGNoZWNrdXAuPC9wPjxoND5XaGF0IGFib3V0IGNvc3Q/PC9oND48cD5TY3JlZW5pbmcgZm9yIG9zdGVvcG9yb3NpcyBpcyBjb3ZlcmVkIHVuZGVyIHRoZSA8YSBocmVmPSJodHRwczovL3d3dy5oZWFsdGhjYXJlLmdvdi9oZWFsdGgtY2FyZS1sYXctcHJvdGVjdGlvbnMvIiB0YXJnZXQ9Il9ibGFuayI+QWZmb3JkYWJsZSBDYXJlIEFjdDwvYT4sIHRoZSBoZWFsdGggY2FyZSByZWZvcm0gbGF3IHBhc3NlZCBpbiAyMDEwLiBEZXBlbmRpbmcgb24geW91ciBpbnN1cmFuY2UgcGxhbiwgeW91IG1heSBiZSBhYmxlIHRvIGdldCBzY3JlZW5lZCBhdCBubyBjb3N0IHRvIHlvdS48L3A+PHA+Q2hlY2sgd2l0aCB5b3VyIGluc3VyYW5jZSBjb21wYW55IHRvIGZpbmQgb3V0IHdoYXQmIzM5O3MgaW5jbHVkZWQgaW4geW91ciBwbGFuLiBGb3IgaW5mb3JtYXRpb24gYWJvdXQgb3RoZXIgc2VydmljZXMgdGhhdCBhcmUgY292ZXJlZCBieSB0aGUgQWZmb3JkYWJsZSBDYXJlIEFjdCwgPGEgaHJlZj0iaHR0cHM6Ly93d3cuaGVhbHRoY2FyZS5nb3Yvd2hhdC1hcmUtbXktcHJldmVudGl2ZS1jYXJlLWJlbmVmaXRzLyNwYXJ0PTIiIHRhcmdldD0iX2JsYW5rIj52aXNpdCZuYnNwO0hlYWx0aENhcmUuZ292PC9hPi48L3A+PHA+SWYgeW91IGhhdmUgTWVkaWNhcmUsIDxhIGhyZWY9Imh0dHA6Ly93d3cubWVkaWNhcmUuZ292L2NvdmVyYWdlL2JvbmUtZGVuc2l0eS5odG1sIiB0YXJnZXQ9Il9ibGFuayI+ZmluZCBvdXQgYWJvdXQgTWVkaWNhcmUgY292ZXJhZ2UgZm9yIGJvbmUgZGVuc2l0eSB0ZXN0czwvYT4uPC9wPjxwPklmIHlvdSBkb24mcnNxdW87dCBoYXZlIGhlYWx0aCBpbnN1cmFuY2UsIHlvdSBjYW4gc3RpbGwgZ2V0IGEgYm9uZSBkZW5zaXR5IHRlc3QuIFRvIGxlYXJuIG1vcmUsIDxhIGhyZWY9Imh0dHBzOi8vZmluZGFoZWFsdGhjZW50ZXIuaHJzYS5nb3YvIiB0YXJnZXQ9Il9ibGFuayI+IGZpbmQgYSBoZWFsdGggY2VudGVyIG5lYXIgeW91PC9hPi48L3A+ZAIBD2QWCgIBDw8WAh8CZ2RkAgMPDxYEHwAFFUNhbGNpdW0gYW5kIFZpdGFtaW4gRB8CZxYCHwgFDiN0YWtlLWFjdGlvbl8yZAIFDw8WAh8CZ2RkAgcPDxYEHwAFEVRyZWF0bWVudCBPcHRpb25zHwJnFgIfCAUNI3RoZS1iYXNpY3NfM2QCCQ8PFgIfAAUPNCBvZiA3IHNlY3Rpb25zZGQCAQ9kFgRmDxUEAzEyMgtUYWtlIEFjdGlvbhVDYWxjaXVtIGFuZCBWaXRhbWluIESGCDxwPllvdSBuZWVkIGJvdGggdml0YW1pbiBEIGFuZCBjYWxjaXVtIGZvciBzdHJvbmcgYm9uZXMuPC9wPjxoMz5HZXQgZW5vdWdoIGNhbGNpdW0uPC9oMz48cD48YSBocmVmPSIvSGVhbHRoVG9waWNzL1RvcGljLmFzcHg/aWQ9NDAiPkNhbGNpdW08L2E+IGhlbHBzIGtlZXAgeW91ciBib25lcyBzdHJvbmcuIEdvb2Qgc291cmNlcyBvZiBjYWxjaXVtIGluY2x1ZGU6PC9wPjx1bD48bGk+TG93LWZhdCBvciBmYXQtZnJlZSBtaWxrLCBjaGVlc2UsIGFuZCB5b2d1cnQ8L2xpPjxsaT5BbG1vbmRzPC9saT48bGk+QnJvY2NvbGkgYW5kIGdyZWVuczwvbGk+PGxpPlRvZnUgd2l0aCBhZGRlZCBjYWxjaXVtPC9saT48bGk+T3JhbmdlIGp1aWNlIHdpdGggYWRkZWQgY2FsY2l1bTwvbGk+PGxpPkNhbGNpdW0gcGlsbHM8L2xpPjwvdWw+PHA+PGEgaHJlZj0iL0hlYWx0aFRvcGljcy9Ub29sLmFzcHg/aWQ9NDciPlVzZSB0aGlzIGNhbGNpdW0gc2hvcHBpbmcgbGlzdDwvYT4gdG8gaGVscCB5b3UgZmluZCBmb29kcyBoaWdoIGluIGNhbGNpdW0uPC9wPjxoMz5HZXQgZW5vdWdoIHZpdGFtaW4gRC48L2gzPjxwPlZpdGFtaW4gRCBoZWxwcyB5b3VyIGJvZHkgYWJzb3JiICh0YWtlIGluKSBjYWxjaXVtLjwvcD48cD5Zb3VyIGJvZHkgbWFrZXMgdml0YW1pbiBEIHdoZW4geW91IGFyZSBvdXQgaW4gdGhlIHN1bi4gWW91IGNhbiBhbHNvIGdldCB2aXRhbWluIEQgZnJvbTo8L3A+PHVsPjxsaT5TYWxtb24gb3IgdHVuYTwvbGk+PGxpPkZhdC1mcmVlIG9yIGxvdy1mYXQgbWlsayBhbmQgeW9ndXJ0IHdpdGggYWRkZWQgdml0YW1pbiBEPC9saT48bGk+QnJlYWtmYXN0IGNlcmVhbHMgYW5kIGp1aWNlcyB3aXRoIGFkZGVkIHZpdGFtaW4gRDwvbGk+PGxpPlZpdGFtaW4gRCBwaWxsczwvbGk+PC91bD48cD48YSBocmVmPSJodHRwOi8vb2RzLm9kLm5paC5nb3YvZmFjdHNoZWV0cy9WaXRhbWluRC1Db25zdW1lci8jaDIiIHRhcmdldD0iX2JsYW5rIj5GaW5kIG91dCBob3cgbXVjaCB2aXRhbWluIEQgeW91IG5lZWQgZWFjaCBkYXk8L2E+LjwvcD5kAgEPZBYKAgEPDxYCHwJnZGQCAw8PFgQfAAUKR2V0IEFjdGl2ZR8CZxYCHwgFDiN0YWtlLWFjdGlvbl8zZAIFDw8WAh8CZ2RkAgcPDxYEHwAFCkdldCBUZXN0ZWQfAmcWAh8IBQ4jdGFrZS1hY3Rpb25fMWQCCQ8PFgIfAAUPNSBvZiA3IHNlY3Rpb25zZGQCAg9kFgRmDxUEAjYwC1Rha2UgQWN0aW9uCkdldCBBY3RpdmXzCjxoMz5HZXQgYWN0aXZlLjwvaDM+PHA+PGEgaHJlZj0iL0hlYWx0aFRvcGljcy9Ub3BpYy5hc3B4P2lkPTIyIj5QaHlzaWNhbCBhY3Rpdml0eTwvYT4gY2FuIGhlbHAgc2xvdyBkb3duIGJvbmUgbG9zcy4gV2VpZ2h0LWJlYXJpbmcgYWN0aXZpdGllcyAobGlrZSBydW5uaW5nIG9yIGRvaW5nIGp1bXBpbmcgamFja3MpIGhlbHAga2VlcCB5b3VyIGJvbmVzIHN0cm9uZy48L3A+PHVsPjxsaT5BaW0gZm9yIDIgaG91cnMgYW5kIDMwIG1pbnV0ZXMgYSB3ZWVrIG9mIG1vZGVyYXRlIGFlcm9iaWMgYWN0aXZpdHkuIElmIHlvdSBhcmUgbmV3IHRvIGV4ZXJjaXNlLCBzdGFydCB3aXRoIDEwIG1pbnV0ZXMgb2YgYWN0aXZpdHkgYXQgYSB0aW1lLjwvbGk+PGxpPkRvIHN0cmVuZ3RoZW5pbmcgYWN0aXZpdGllcyBhdCBsZWFzdCAyIGRheXMgYSB3ZWVrLiBUaGVzZSBpbmNsdWRlIGxpZnRpbmcgd2VpZ2h0cyBvciB1c2luZyByZXNpc3RhbmNlIGJhbmRzIChsb25nIHJ1YmJlciBzdHJpcHMgdGhhdCBzdHJldGNoKS48L2xpPjxsaT5GaW5kIGFuIGV4ZXJjaXNlIGJ1ZGR5IG9yIGdvIHdhbGtpbmcgd2l0aCBmcmllbmRzLiBZb3Ugd2lsbCBiZSBtb3JlIGxpa2VseSB0byBzdGljayB3aXRoIGl0IGlmIHlvdSBleGVyY2lzZSB3aXRoIG90aGVyIHBlb3BsZS48L2xpPjwvdWw+PGg0PkZpbmQgYWN0aXZpdGllcyB0aGF0IHdvcmsgZm9yIHlvdS48L2g0PjxwPllvdSBkb24mIzM5O3QgbmVlZCBzcGVjaWFsIGVxdWlwbWVudCBvciBhIGd5bSBtZW1iZXJzaGlwIHRvIHN0YXkgYWN0aXZlLiBDaGVjayB3aXRoIHlvdXIgbG9jYWwgY29tbXVuaXR5IGNlbnRlciBvciBzZW5pb3IgY2VudGVyIHRvIGZpbmQgZnVuLCBsb3ctY29zdCwgb3IgZnJlZSBleGVyY2lzZSBvcHRpb25zLjwvcD48dWw+PGxpPjxhIGhyZWY9Ii9IZWFsdGhUb3BpY3MvQ2F0ZWdvcnkvaGVhbHRoLWNvbmRpdGlvbnMtYW5kLWRpc2Vhc2VzL29iZXNpdHkvc3RheS1hY3RpdmUtYXMteW91LWdldC1vbGRlci1xdWljay10aXBzIiB0YXJnZXQ9Il9zZWxmIj5Vc2UgdGhlc2UgdGlwcyB0byBoZWxwIHlvdSBzdGF5IGFjdGl2ZSBhcyB5b3UgZ2V0IG9sZGVyPC9hPi48L2xpPjxsaT48YSBocmVmPSJodHRwczovL2dvNGxpZmUubmlhLm5paC5nb3Yva2VlcC1nb2luZy1zdGF5LW1vdGl2YXRlZC10by1iZS1hY3RpdmUvIiB0YXJnZXQ9Il9ibGFuayI+R2V0IGlkZWFzIGZvciBzdGF5aW5nIG1vdGl2YXRlZCB0byBiZSBhY3RpdmU8L2E+LjwvbGk+PC91bD48cD5JZiB5b3UgaGF2ZSBhIGhlYWx0aCBjb25kaXRpb24gb3IgYSBkaXNhYmlsaXR5LCBiZSBhcyBhY3RpdmUgYXMgeW91IGNhbiBiZS4gWW91ciBkb2N0b3IgY2FuIGhlbHAgeW91IGNob29zZSBhY3Rpdml0aWVzIHRoYXQgYXJlIHJpZ2h0IGZvciB5b3UuJm5ic3A7PC9wPmQCAQ9kFgoCAQ8PFgIfAmdkZAIDDw8WBB8ABQ5IZWFsdGh5IEhhYml0cx8CZxYCHwgFDiN0YWtlLWFjdGlvbl80ZAIFDw8WAh8CZ2RkAgcPDxYEHwAFFUNhbGNpdW0gYW5kIFZpdGFtaW4gRB8CZxYCHwgFDiN0YWtlLWFjdGlvbl8yZAIJDw8WAh8ABQ82IG9mIDcgc2VjdGlvbnNkZAIDD2QWBGYPFQQDMjk4C1Rha2UgQWN0aW9uDkhlYWx0aHkgSGFiaXRzgQY8aDM+U3RheSBhd2F5IGZyb20gY2lnYXJldHRlcyBhbmQgYWxjb2hvbC48L2gzPjxwPlNtb2tpbmcgY2lnYXJldHRlcyBhbmQgZHJpbmtpbmcgdG9vIG11Y2ggYWxjb2hvbCBjYW4gd2Vha2VuIHlvdXIgYm9uZXMuPC9wPjx1bD48bGk+TGVhcm4gbW9yZSBhYm91dCBob3cgdG8gPGEgaHJlZj0iL0hlYWx0aFRvcGljcy9Ub3BpYy5hc3B4P2lkPTI0Ij5xdWl0IHNtb2tpbmc8L2E+LjwvbGk+PGxpPklmIHlvdSBkcmluayBhbGNvaG9sLCA8YSBocmVmPSIvSGVhbHRoVG9waWNzL1RvcGljLmFzcHg/aWQ9MTYiPmRyaW5rIG9ubHkgaW4gbW9kZXJhdGlvbjwvYT4uIFRoaXMgbWVhbnMgbm8gbW9yZSB0aGFuIDEgZHJpbmsgYSBkYXkgZm9yIHdvbWVuIGFuZCBubyBtb3JlIHRoYW4gMiBkcmlua3MgYSBkYXkgZm9yIG1lbi48L2xpPjwvdWw+PGgzPlRha2Ugc3RlcHMgdG8gcHJldmVudCBmYWxscy48L2gzPjxwPkZhbGxzIGNhbiBiZSBlc3BlY2lhbGx5IHNlcmlvdXMgZm9yIHBlb3BsZSB3aXRoIHdlYWsgYm9uZXMuIFlvdSBjYW4gbWFrZSBzbWFsbCBjaGFuZ2VzIHRvIDxhIGhyZWY9Ii9IZWFsdGhUb3BpY3MvVG9waWMuYXNweD9pZD0xNyI+bG93ZXIgeW91ciByaXNrIG9mIGZhbGxpbmc8L2E+LCBsaWtlIGRvaW5nIGV4ZXJjaXNlcyB0aGF0IGltcHJvdmUgeW91ciBiYWxhbmNlLiBGb3IgZXhhbXBsZSwgdHJ5IHdhbGtpbmcgYmFja3dhcmRzIG9yIHN0YW5kaW5nIHVwIGZyb20gYSBzaXR0aW5nIHBvc2l0aW9uIHdpdGhvdXQgdXNpbmcgeW91ciBoYW5kcy48L3A+ZAIBD2QWBgIFDw8WAh8CZ2RkAgcPDxYEHwAFCkdldCBBY3RpdmUfAmcWAh8IBQ4jdGFrZS1hY3Rpb25fM2QCCQ8PFgIfAAUPNyBvZiA3IHNlY3Rpb25zZGQCDw9kFghmDxYEHwAFDkFwcmlsIDMwLCAyMDE5HwJnZAIBDw8WBB8EBR0vSGVhbHRoVG9waWNzL1NvdXJjZXMuYXNweCMxMh8CZ2RkAgIPDxYCHwJnZGQCAw8PFgQfBAUsL0ZpbmRTZXJ2aWNlcy9TZWFyY2hDb250ZXh0LmFzcHg/dG9waWM9MTQzOTAfAmdkZAIRDw8WAh8CZ2QWAmYPFgIfBwIDFgZmD2QWBAIBDw8WAh8EBW4vSGVhbHRoVG9waWNzL0NhdGVnb3J5L251dHJpdGlvbi1hbmQtcGh5c2ljYWwtYWN0aXZpdHkvcGh5c2ljYWwtYWN0aXZpdHkvcHJvdGVjdC15b3VyLWhlYWx0aC1hcy15b3UtZ3Jvdy1vbGRlcmQWAmYPDxYCHwUFPy9IZWFsdGhUb3BpY3MvZ2xtZWRpYS9pY29ucy9wcm90ZWN0eW91cmhlYWx0aGFzeW91Z3Jvd29sZGVyLmpwZxYCHwYFJVByb3RlY3QgWW91ciBIZWFsdGggQXMgWW91IEdyb3cgT2xkZXJkAgMPDxYEHwAFJVByb3RlY3QgWW91ciBIZWFsdGggQXMgWW91IEdyb3cgT2xkZXIfBAVuL0hlYWx0aFRvcGljcy9DYXRlZ29yeS9udXRyaXRpb24tYW5kLXBoeXNpY2FsLWFjdGl2aXR5L3BoeXNpY2FsLWFjdGl2aXR5L3Byb3RlY3QteW91ci1oZWFsdGgtYXMteW91LWdyb3ctb2xkZXJkZAIBD2QWBAIBDw8WAh8EBVAvSGVhbHRoVG9waWNzL0NhdGVnb3J5L2V2ZXJ5ZGF5LWhlYWx0aHktbGl2aW5nL3NhZmV0eS9sb3dlci15b3VyLXJpc2stb2YtZmFsbGluZ2QWAmYPDxYCHwUFNi9IZWFsdGhUb3BpY3MvZ2xtZWRpYS9pY29ucy9sb3dlcnlvdXJyaXNrb2ZmYWxsaW5nLmpwZxYCHwYFGkxvd2VyIFlvdXIgUmlzayBvZiBGYWxsaW5nZAIDDw8WBB8ABRpMb3dlciBZb3VyIFJpc2sgb2YgRmFsbGluZx8EBVAvSGVhbHRoVG9waWNzL0NhdGVnb3J5L2V2ZXJ5ZGF5LWhlYWx0aHktbGl2aW5nL3NhZmV0eS9sb3dlci15b3VyLXJpc2stb2YtZmFsbGluZ2RkAgIPZBYEAgEPDxYCHwQFUy9IZWFsdGhUb3BpY3MvQ2F0ZWdvcnkvbnV0cml0aW9uLWFuZC1waHlzaWNhbC1hY3Rpdml0eS9udXRyaXRpb24vZ2V0LWVub3VnaC1jYWxjaXVtZBYCZg8PFgIfBQUwL0hlYWx0aFRvcGljcy9nbG1lZGlhL2ljb25zL2dldGVub3VnaGNhbGNpdW0uanBnFgIfBgUSR2V0IEVub3VnaCBDYWxjaXVtZAIDDw8WBB8ABRJHZXQgRW5vdWdoIENhbGNpdW0fBAVTL0hlYWx0aFRvcGljcy9DYXRlZ29yeS9udXRyaXRpb24tYW5kLXBoeXNpY2FsLWFjdGl2aXR5L251dHJpdGlvbi9nZXQtZW5vdWdoLWNhbGNpdW1kZAIGD2QWBAIBD2QWAgIBDxYCHwAFF1NhdHVyZGF5LCBKdW5lIDAxLCAyMDE5ZAIDDw8WAh8CaGRkZJD689eHcwVWxGaj/6c4tQAQLzn8fJp21MXcBrAD3Ztv"> 
+      </div> 
+      <div class="aspNetHidden"> 
+       <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="942D1C1E"> 
+      </div> 
+      <div class="health_topic_content health-topic-topic"> 
+       <div id="content_utilities" class="utilities"> 
+        <div class="helpers"> 
+         <div class="print"> 
+          <a href="javascript:window.print()" class="button print-button"> Print This Topic </a> 
+         </div> 
+         <div class="espanol"> 
+          <a id="content_translationLink" class="button" href="/espanol/temas/Category/consultas-con-el-doctor/pruebas-de-deteccion/hazte-la-prueba-para-medir-la-densidad-de-los-huesos">En español</a> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="health_topic_content_inner_wrap clearfix"> 
+        <div class="pageTitle"> 
+         <h1 class="syndicate"> Get a Bone Density Test </h1> 
+         <img id="content_contentImage" class="icon-image" alt="" src="/HealthTopics/glmedia/icons/getabonedensitytest.jpg"> 
+        </div> 
+        <div id="content_quickguide_select_wrap_bg" class="quickguide_select_wrap-bg"> 
+         <div id="quickguide_select_wrap" class="quickguide_select_wrap"> 
+          <p id="quickguide-menu-trigger" class="quickguide-menu-trigger menu-hide">Browse Sections</p> 
+          <ul id="quickguide_select" class="quickguide_select menu-hide"> 
+           <li><span>The Basics</span> 
+            <ul> 
+             <li> <a href="#the-basics_1">Overview</a> </li> 
+             <li> <a href="#the-basics_2">Am I at Risk?</a> </li> 
+             <li> <a href="#the-basics_3">Treatment Options</a> </li> 
+            </ul> </li> 
+           <li><span>Take Action!</span> 
+            <ul> 
+             <li> <a href="#take-action_1">Get Tested</a> </li> 
+             <li> <a href="#take-action_2">Calcium and Vitamin D</a> </li> 
+             <li> <a href="#take-action_3">Get Active</a> </li> 
+             <li> <a href="#take-action_4">Healthy Habits</a> </li> 
+            </ul> </li> 
+          </ul> 
+         </div> 
+        </div> 
+        <!-- /quickguide_select_wrap-bg --> 
+        <div class="content-page-box quickguide_tabbed_content"> 
+         <div class="quickguide_content"> 
+          <div class="quickguide_areas"> 
+           <div id="the-basics" class="topic_area"> 
+            <h2 class="topic_area_title syndicate">The Basics</h2> 
+            <div class="pages"> 
+             <div class="page" id="page_57"> 
+              <h2 class="topic_page_title">The Basics: <span>Overview</span></h2> 
+              <div class="syndicate"> 
+               <p>A bone density test measures how strong&nbsp;bones are. The test will tell you if you have osteoporosis (“os-tee-oh-puh-ROH-sis”), or weak bones.</p>
+               <p>Women are at higher risk for osteoporosis than men, and this risk increases with age.</p>
+               <ul>
+                <li>If you are a woman age 65 or older, schedule a bone density test.</li>
+                <li>If you are a woman age 64 or younger and you have gone through menopause, ask your doctor if you need a bone density&nbsp;test.</li>
+               </ul>
+               <p>If you are at risk for osteoporosis, your doctor or nurse may recommend you get&nbsp;a bone density test every 2 years.</p>
+               <p>Men can get osteoporosis, too. If you are a man over age 65 and you are concerned about your bone strength, talk with your doctor or nurse.&nbsp;</p>
+               <h3>What is osteoporosis?</h3>
+               <p>Osteoporosis is a bone disease. It means your bones are weak and more likely to break. People with osteoporosis most often break bones in the hip, spine, and wrist.</p>
+               <p>There are no signs or symptoms of osteoporosis. You might not know you have the disease until you break a bone. That’s why it’s so important to get a bone density test to measure your bone strength.&nbsp;</p>
+               <h3>What happens during a bone density test?</h3>
+               <p>A bone density test is like an x-ray or scan of your body. A bone density test doesn’t hurt, and you don't need to do anything to prepare for it. It only takes about 15 minutes.&nbsp;</p>
+               <p></p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_0_topic_navigation_0" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_0_pageNextLabel_0" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_0_pageNext_0" class="button next" href="#the-basics_2">Am I at Risk?</a> </span> 
+                <span class="content_page_link left"> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_0_pageRange_0" class="content_page_range">1 of 7 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+             <div class="page" id="page_879"> 
+              <h2 class="topic_page_title">The Basics: <span>Am I at Risk?</span></h2> 
+              <div class="syndicate"> 
+               <h3>Am I at risk for osteoporosis?</h3>
+               <p>Anyone can get osteoporosis, but it’s most common in older women. The older you are, the greater your risk for osteoporosis.</p>
+               <p>These things can also increase your risk for osteoporosis:</p>
+               <ul>
+                <li>Hormone changes (especially for women who have gone through menopause)</li>
+                <li>Not getting enough calcium and Vitamin D</li>
+                <li>Taking certain medicines</li>
+                <li>Smoking cigarettes or drinking too much alcohol</li>
+                <li>Not getting enough physical activity</li>
+               </ul>
+               <p>Visit these websites to learn more about osteoporosis and bone health:</p>
+               <ul>
+                <li><a href="http://www.niams.nih.gov/health_info/bone/osteoporosis/osteoporosis_hoh.asp#5" target="_blank">Risk Factors for Osteoporosis</a></li>
+                <li><a href="http://www.niams.nih.gov/Health_Info/Bone/osteoporosis/Isabel_story.asp" target="_blank">Isabel’s Story</a></li>
+                <li><a href="http://www.niams.nih.gov/health_info/bone/SGR/surgeon_generals_report.asp" target="_blank">Surgeon General’s Report on Bone Health and Osteoporosis: What it Means to You</a></li>
+               </ul> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_0_topic_navigation_1" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_0_pageNextLabel_1" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_0_pageNext_1" class="button next" href="#the-basics_3">Treatment Options</a> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_0_pagePrevLabel_1" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_0_pagePrev_1" class="button previous" href="#the-basics_1">Overview</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_0_pageRange_1" class="content_page_range">2 of 7 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+             <div class="page" id="page_397"> 
+              <h2 class="topic_page_title">The Basics: <span>Treatment Options</span></h2> 
+              <div class="syndicate"> 
+               <h3>What if I have osteoporosis?</h3>
+               <p>If you have osteoporosis, you can still slow down bone loss. Finding and treating this disease early can keep you healthier and more active,&nbsp;lowering your chances of breaking a bone.</p>
+               <p>Depending on the results of your bone density test, you may need to:</p>
+               <ul>
+                <li>Add more calcium and vitamin D to your diet</li>
+                <li>Exercise more to strengthen your bones</li>
+                <li>Take medicine to stop bone loss</li>
+               </ul>
+               <p><a href="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000502.htm" target="_blank">Learn about medicines used to treat osteoporosis</a>.</p>
+               <p>Your doctor can tell you what steps are right for you. It doesn’t matter how old you are – it’s not too late to build stronger bones.</p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_0_topic_navigation_2" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_0_pageNextLabel_2" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_0_pageNext_2" class="button next" href="#take-action_1">Get Tested</a> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_0_pagePrevLabel_2" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_0_pagePrev_2" class="button previous" href="#the-basics_2">Am I at Risk?</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_0_pageRange_2" class="content_page_range">3 of 7 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+            </div> 
+            <div class="clear"></div> 
+           </div> 
+           <div id="take-action" class="topic_area"> 
+            <h2 class="topic_area_title syndicate">Take Action!</h2> 
+            <div class="pages"> 
+             <div class="page" id="page_59"> 
+              <h2 class="topic_page_title">Take Action: <span>Get Tested</span></h2> 
+              <div class="syndicate"> 
+               <p>Take these steps to protect your bone health.</p>
+               <h3>Schedule a bone density test&nbsp;if your doctor recommends it.</h3>
+               <p>Ask your doctor if you are at risk for osteoporosis and find out when to start getting bone density tests.</p>
+               <p>Print these <a href="/HealthTopics/Tool.aspx?id=46">questions for the doctor about preventing osteoporosis</a>&nbsp;and take them to your next checkup.</p>
+               <h4>What about cost?</h4>
+               <p>Screening for osteoporosis is covered under the <a href="https://www.healthcare.gov/health-care-law-protections/" target="_blank">Affordable Care Act</a>, the health care reform law passed in 2010. Depending on your insurance plan, you may be able to get screened at no cost to you.</p>
+               <p>Check with your insurance company to find out what's included in your plan. For information about other services that are covered by the Affordable Care Act, <a href="https://www.healthcare.gov/what-are-my-preventive-care-benefits/#part=2" target="_blank">visit&nbsp;HealthCare.gov</a>.</p>
+               <p>If you have Medicare, <a href="http://www.medicare.gov/coverage/bone-density.html" target="_blank">find out about Medicare coverage for bone density tests</a>.</p>
+               <p>If you don’t have health insurance, you can still get a bone density test. To learn more, <a href="https://findahealthcenter.hrsa.gov/" target="_blank"> find a health center near you</a>.</p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_1_topic_navigation_0" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_1_pageNextLabel_0" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pageNext_0" class="button next" href="#take-action_2">Calcium and Vitamin D</a> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_1_pagePrevLabel_0" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pagePrev_0" class="button previous" href="#the-basics_3">Treatment Options</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_1_pageRange_0" class="content_page_range">4 of 7 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+             <div class="page" id="page_122"> 
+              <h2 class="topic_page_title">Take Action: <span>Calcium and Vitamin D</span></h2> 
+              <div class="syndicate"> 
+               <p>You need both vitamin D and calcium for strong bones.</p>
+               <h3>Get enough calcium.</h3>
+               <p><a href="/HealthTopics/Topic.aspx?id=40">Calcium</a> helps keep your bones strong. Good sources of calcium include:</p>
+               <ul>
+                <li>Low-fat or fat-free milk, cheese, and yogurt</li>
+                <li>Almonds</li>
+                <li>Broccoli and greens</li>
+                <li>Tofu with added calcium</li>
+                <li>Orange juice with added calcium</li>
+                <li>Calcium pills</li>
+               </ul>
+               <p><a href="/HealthTopics/Tool.aspx?id=47">Use this calcium shopping list</a> to help you find foods high in calcium.</p>
+               <h3>Get enough vitamin D.</h3>
+               <p>Vitamin D helps your body absorb (take in) calcium.</p>
+               <p>Your body makes vitamin D when you are out in the sun. You can also get vitamin D from:</p>
+               <ul>
+                <li>Salmon or tuna</li>
+                <li>Fat-free or low-fat milk and yogurt with added vitamin D</li>
+                <li>Breakfast cereals and juices with added vitamin D</li>
+                <li>Vitamin D pills</li>
+               </ul>
+               <p><a href="http://ods.od.nih.gov/factsheets/VitaminD-Consumer/#h2" target="_blank">Find out how much vitamin D you need each day</a>.</p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_1_topic_navigation_1" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_1_pageNextLabel_1" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pageNext_1" class="button next" href="#take-action_3">Get Active</a> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_1_pagePrevLabel_1" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pagePrev_1" class="button previous" href="#take-action_1">Get Tested</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_1_pageRange_1" class="content_page_range">5 of 7 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+             <div class="page" id="page_60"> 
+              <h2 class="topic_page_title">Take Action: <span>Get Active</span></h2> 
+              <div class="syndicate"> 
+               <h3>Get active.</h3>
+               <p><a href="/HealthTopics/Topic.aspx?id=22">Physical activity</a> can help slow down bone loss. Weight-bearing activities (like running or doing jumping jacks) help keep your bones strong.</p>
+               <ul>
+                <li>Aim for 2 hours and 30 minutes a week of moderate aerobic activity. If you are new to exercise, start with 10 minutes of activity at a time.</li>
+                <li>Do strengthening activities at least 2 days a week. These include lifting weights or using resistance bands (long rubber strips that stretch).</li>
+                <li>Find an exercise buddy or go walking with friends. You will be more likely to stick with it if you exercise with other people.</li>
+               </ul>
+               <h4>Find activities that work for you.</h4>
+               <p>You don't need special equipment or a gym membership to stay active. Check with your local community center or senior center to find fun, low-cost, or free exercise options.</p>
+               <ul>
+                <li><a href="/HealthTopics/Category/health-conditions-and-diseases/obesity/stay-active-as-you-get-older-quick-tips" target="_self">Use these tips to help you stay active as you get older</a>.</li>
+                <li><a href="https://go4life.nia.nih.gov/keep-going-stay-motivated-to-be-active/" target="_blank">Get ideas for staying motivated to be active</a>.</li>
+               </ul>
+               <p>If you have a health condition or a disability, be as active as you can be. Your doctor can help you choose activities that are right for you.&nbsp;</p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_1_topic_navigation_2" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_1_pageNextLabel_2" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pageNext_2" class="button next" href="#take-action_4">Healthy Habits</a> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_1_pagePrevLabel_2" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pagePrev_2" class="button previous" href="#take-action_2">Calcium and Vitamin D</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_1_pageRange_2" class="content_page_range">6 of 7 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+             <div class="page" id="page_298"> 
+              <h2 class="topic_page_title">Take Action: <span>Healthy Habits</span></h2> 
+              <div class="syndicate"> 
+               <h3>Stay away from cigarettes and alcohol.</h3>
+               <p>Smoking cigarettes and drinking too much alcohol can weaken your bones.</p>
+               <ul>
+                <li>Learn more about how to <a href="/HealthTopics/Topic.aspx?id=24">quit smoking</a>.</li>
+                <li>If you drink alcohol, <a href="/HealthTopics/Topic.aspx?id=16">drink only in moderation</a>. This means no more than 1 drink a day for women and no more than 2 drinks a day for men.</li>
+               </ul>
+               <h3>Take steps to prevent falls.</h3>
+               <p>Falls can be especially serious for people with weak bones. You can make small changes to <a href="/HealthTopics/Topic.aspx?id=17">lower your risk of falling</a>, like doing exercises that improve your balance. For example, try walking backwards or standing up from a sitting position without using your hands.</p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_1_topic_navigation_3" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_1_pagePrevLabel_3" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pagePrev_3" class="button previous" href="#take-action_3">Get Active</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_1_pageRange_3" class="content_page_range">7 of 7 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+            </div> 
+            <div class="clear"></div> 
+           </div> 
+           <div id="content_pageDisplayToggleWrap" class="pageDisplayToggleWrap"> 
+            <a href="#" id="pageDisplayToggle" class="pageDisplayToggle">View All</a> 
+           </div> 
+           <div id="content_resourceLinks"> 
+            <div class="resource-links clearfix"> 
+             <p class="last-updated"> <strong>Content last updated on:</strong> April 30, 2019 </p> 
+             <p class="source-links"> <a id="content_contentReviewLink" href="/HealthTopics/Sources.aspx#12">Reviewer Information</a> <span id="content_breakBetweenLinks">&nbsp;|&nbsp;</span> <a id="content_moreResourcesLink" href="/FindServices/SearchContext.aspx?topic=14390">Find More Resources</a> </p> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="clear"></div> 
+         </div> 
+         <!-- /.quickguide_content --> 
+         <div class="clear"></div> 
+        </div> 
+        <!-- /.content-page-box --> 
+       </div> 
+       <!-- /.health_topic_content_inner_wrap --> 
+       <div class="shadow-wide"></div> 
+       <div class="content-page-box health-topics-also-interested clearfix"> 
+        <div id="content_interestsPanel" class="topic_interests"> 
+         <h2>You may also be interested in:</h2> 
+         <ul> 
+          <li> <a id="content_interestsRepeater_imageLink_0" class="image_link" href="/HealthTopics/Category/nutrition-and-physical-activity/physical-activity/protect-your-health-as-you-grow-older"><img id="content_interestsRepeater_image_0" alt="Protect Your Health As You Grow Older" src="/HealthTopics/glmedia/icons/protectyourhealthasyougrowolder.jpg"></a> <a id="content_interestsRepeater_titleLink_0" class="title_link" href="/HealthTopics/Category/nutrition-and-physical-activity/physical-activity/protect-your-health-as-you-grow-older">Protect Your Health As You Grow Older</a> </li> 
+          <li> <a id="content_interestsRepeater_imageLink_1" class="image_link" href="/HealthTopics/Category/everyday-healthy-living/safety/lower-your-risk-of-falling"><img id="content_interestsRepeater_image_1" alt="Lower Your Risk of Falling" src="/HealthTopics/glmedia/icons/loweryourriskoffalling.jpg"></a> <a id="content_interestsRepeater_titleLink_1" class="title_link" href="/HealthTopics/Category/everyday-healthy-living/safety/lower-your-risk-of-falling">Lower Your Risk of Falling</a> </li> 
+          <li> <a id="content_interestsRepeater_imageLink_2" class="image_link" href="/HealthTopics/Category/nutrition-and-physical-activity/nutrition/get-enough-calcium"><img id="content_interestsRepeater_image_2" alt="Get Enough Calcium" src="/HealthTopics/glmedia/icons/getenoughcalcium.jpg"></a> <a id="content_interestsRepeater_titleLink_2" class="title_link" href="/HealthTopics/Category/nutrition-and-physical-activity/nutrition/get-enough-calcium">Get Enough Calcium</a> </li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="shadow health-topics-also-interested"></div> 
+       <!-- ./box-left --> 
+      </div> 
+      <!-- /.health-topic-tool --> 
+      <div id="resizable_embedded_link"></div> 
+     </form> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+   </div> 
+   <div id="HideIfWidget5"> 
+    <div id="footer" role="complementary"> 
+     <ul class="footer-links-wide"> 
+      <li><a href="/aboutus/">About Us</a></li> 
+      <li><a href="/aboutus/accessibility.aspx">Accessibility</a></li> 
+      <li><a href="/aboutus/contactus.aspx">Contact Us</a></li> 
+      <li><a href="/Developer">Developers</a></li> 
+      <li><a href="/aboutus/disclaimer.aspx">Disclaimers</a></li> 
+      <li><a href="/aboutus/foia.aspx">Freedom of Information Act</a></li> 
+      <li><a href="https://www.hhs.gov/civil-rights/for-individuals/nondiscrimination/index.html" target="_blank">Nondiscrimination Notice</a></li> 
+      <li><a href="/aboutus/privacy.aspx">Privacy Policy</a></li> 
+      <li><a href="/sitemap.aspx">Site Map</a></li> 
+      <li class="last"><a href="/aboutus/plugins.aspx">Viewers &amp; Players</a></li> 
+      <li class="clear"></li> 
+     </ul> 
+     <div class="clear"></div> 
+     <div class="footer-language"> 
+      <p>Language Assistance Available</p> 
+      <ul class="footer-links-wide"> 
+       <li><a lang="es" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#spanish" target="_blank">Español</a></li> 
+       <li><a lang="zh" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#chinese" target="_blank">????</a></li> 
+       <li><a lang="vi" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#vietnamese" target="_blank">Ti?ng Vi?t</a></li> 
+       <li><a lang="ko" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#korean" target="_blank">???</a></li> 
+       <li><a lang="fr" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#french" target="_blank">Français</a></li> 
+       <li><a lang="pl" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#polish" target="_blank">Polski</a></li> 
+       <li><a lang="pt" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#portugese" target="_blank">Português</a></li> 
+       <li><a lang="it" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#italian" target="_blank">Italiano</a></li> 
+       <li><a lang="tl" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#tagalog" target="_blank">Tagalog</a></li> 
+       <li><a lang="ru" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#russian" target="_blank">???????</a></li> 
+       <li><a lang="ar" dir="rtl" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#arabic" target="_blank">???????</a></li> 
+       <li><a lang="sg" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#creole" target="_blank">Kreyòl Ayisyen</a></li> 
+       <li><a lang="de" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#german" target="_blank">Deutsch</a></li> 
+       <li><a lang="ja" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#japanese" target="_blank">???</a></li> 
+       <li><a lang="fa" dir="rtl" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#farsi" target="_blank">?????</a></li> 
+       <li class="last"><a href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#english" target="_blank">English</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+     <div id="footer-bottom"> 
+      <div class="footer-text">
+        A Federal Government website managed by the 
+       <a class="hhs-text-link" href="https://www.hhs.gov/">U.S. Department of Health and Human Services</a> 
+       <br class="hidden-mobile-break"> healthfinder.gov is sponsored by the National Health Information Center 
+       <span class="address-block">200 Independence Avenue, S.W., Washington, DC 20201</span> 
+       <span class="page-updated">Page last updated: Saturday, June 01, 2019</span> 
+      </div> 
+      <div class="logo-box"> 
+       <a class="logo-hhs" href="https://www.hhs.gov/" title="Department of Health and Human Services"> <img src="/images/footer-hhs-logo.png" alt="Department of Health and Human Services"></a> 
+       <a class="logo-odphp" href="https://health.gov/" title="Office of Disease Prevention and Health Promotion"> <img src="/images/odphp-logo-black.png" class="odphp-logo" alt="Office of Disease Prevention and Health Promotion"></a> 
+       <a class="logo-healthfinder" href="https://healthfinder.gov" title="healthfinder.gov"> <img src="/images/footer-hf-logo.png" alt="healthfinder.gov logo"></a> 
+      </div> 
+      <div class="clear"></div> 
+     </div> 
+     <!-- /#footer-bottom --> 
+     <div class="clear"></div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="up_scrollable_indicator"></div> 
+  <div id="down_scrollable_indicator"></div> 
+  <script src="/js/jquery-1.8.3.min.js" type="text/javascript"></script> 
+  <script src="/js/jquery-ui-1.8.16.custom.min.js" type="text/javascript"></script> 
+  <script src="/js/jquery.cycle.all.js" type="text/javascript"></script> 
+  <script src="/js/jquery.colorbox-min.js" type="text/javascript"></script> 
+  <script src="/js/jquery.flexslider.modified.js" type="text/javascript"></script> 
+  <script src="/js/jquery.ba-hashchange.min.js" type="text/javascript"></script> 
+  <script src="/js/healthfinder.js" type="text/javascript"></script> 
+  <script src="/js/jquery.ddslick.min.js" type="text/javascript"></script> 
+  <script src="/js/myhealthfinder.js" type="text/javascript"></script> 
+  <script src="/js/global-nav.js" type="text/javascript"></script> 
+  <script src="/js/outlink.js" type="text/javascript"></script> 
+  <script src="/js/search-suggest.js" type="text/javascript"></script> 
+  <!--AddThis code--> 
+  <script type="text/javascript">
+        var addthis_config = {
+            ui_language: "en"
+      };
+    </script> 
+  <script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=xa-50c0b9a52a842762"></script> 
+  <!-- Document Download tracking --> 
+  <script src="/js/ga_download_tracker.js" type="text/javascript"></script> 
+  <!--CrazyEgg tracking code --> 
+  <script type="text/javascript">
+        setTimeout(function () {
+            var a = document.createElement("script");
+            var b = document.getElementsByTagName("script")[0];
+            a.src = document.location.protocol + "//dnn506yrbagrg.cloudfront.net/pages/scripts/0013/7844.js?" + Math.floor(new Date().getTime() / 3600000);
+            a.async = true; a.type = "text/javascript"; b.parentNode.insertBefore(a, b)
+        }, 1);
+    </script> 
+  <!--BEGIN QUALTRICS SITE INTERCEPT sitewide --> 
+  <script type="text/javascript">
+        (function () {
+            var g = function (e, h, f, g) {
+                this.get = function (a) { for (var a = a + "=", c = document.cookie.split(";"), b = 0, e = c.length; b < e; b++) { for (var d = c[b]; " " == d.charAt(0) ;) d = d.substring(1, d.length); if (0 == d.indexOf(a)) return d.substring(a.length, d.length) } return null };
+                this.set = function (a, c) { var b = "", b = new Date; b.setTime(b.getTime() + 6048E5); b = "; expires=" + b.toGMTString(); document.cookie = a + "=" + c + b + "; path=/; " };
+                this.check = function () { var a = this.get(f); if (a) a = a.split(":"); else if (100 != e) "v" == h && (e = Math.random() >= e / 100 ? 0 : 100), a = [h, e, 0], this.set(f, a.join(":")); else return !0; var c = a[1]; if (100 == c) return !0; switch (a[0]) { case "v": return !1; case "r": return c = a[2] % Math.floor(100 / c), a[2]++, this.set(f, a.join(":")), !c } return !0 };
+                this.xgo = function () { if (this.check()) { var a = document.createElement("script"); a.type = "text/javascript"; a.src = g + "&t=" + (new Date()).getTime(); document.body && document.body.appendChild(a) } };
+                this.go = function () { wait_for_session_delay(30, this.xgo, this); };
+                this.start = function () { var a = this; window.addEventListener ? window.addEventListener("load", function () { a.go() }, !1) : window.attachEvent && window.attachEvent("onload", function () { a.go() }) }
+            };
+            try { (new g(100, "r", "QSI_S_SI_eDVjXbuzcR5eE0B", "//znbqj3egyjwfzib9r-communicatehealth.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_eDVjXbuzcR5eE0B&Q_LOC=" + encodeURIComponent(window.location.href))).start() } catch (i) { }
+        })();
+    </script> 
+  <div id="SI_eDVjXbuzcR5eE0B"> 
+   <!--DO NOT REMOVE-CONTENTS PLACED HERE--> 
+  </div> 
+  <!--END SITE INTERCEPT--> 
+  <!--BEGIN QUALTRICS SITE INTERCEPT feedback link --> 
+  <script type="text/javascript">
+        (function () {
+            var g = function (e, h, f, g) {
+                this.get = function (a) { for (var a = a + "=", c = document.cookie.split(";"), b = 0, e = c.length; b < e; b++) { for (var d = c[b]; " " == d.charAt(0) ;) d = d.substring(1, d.length); if (0 == d.indexOf(a)) return d.substring(a.length, d.length) } return null };
+                this.set = function (a, c) { var b = "", b = new Date; b.setTime(b.getTime() + 6048E5); b = "; expires=" + b.toGMTString(); document.cookie = a + "=" + c + b + "; path=/; " };
+                this.check = function () { var a = this.get(f); if (a) a = a.split(":"); else if (100 != e) "v" == h && (e = Math.random() >= e / 100 ? 0 : 100), a = [h, e, 0], this.set(f, a.join(":")); else return !0; var c = a[1]; if (100 == c) return !0; switch (a[0]) { case "v": return !1; case "r": return c = a[2] % Math.floor(100 / c), a[2]++, this.set(f, a.join(":")), !c } return !0 };
+                this.go = function () { if (this.check()) { var a = document.createElement("script"); a.type = "text/javascript"; a.src = g + "&t=" + (new Date()).getTime(); document.body && document.body.appendChild(a) } };
+                this.start = function () { var a = this; window.addEventListener ? window.addEventListener("load", function () { a.go() }, !1) : window.attachEvent && window.attachEvent("onload", function () { a.go() }) }
+            };
+            try { (new g(100, "r", "QSI_S_SI_cXQyslZ7nyPxAbz", "//znbqj3egyjwfzib9r-communicatehealth.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_cXQyslZ7nyPxAbz&Q_LOC=" + encodeURIComponent(window.location.href))).start() } catch (i) { }
+        })();
+    </script> 
+  <div id="SI_cXQyslZ7nyPxAbz"> 
+   <!--DO NOT REMOVE-CONTENTS PLACED HERE--> 
+  </div> 
+  <!--END SITE INTERCEPT--> 
+  <!--BEGIN QUALTRICS SITE INTERCEPT - page level --> 
+  <script type="text/javascript">
+        (function () {
+            var g = function (e, h, f, g) {
+                this.get = function (a) { for (var a = a + "=", c = document.cookie.split(";"), b = 0, e = c.length; b < e; b++) { for (var d = c[b]; " " == d.charAt(0) ;) d = d.substring(1, d.length); if (0 == d.indexOf(a)) return d.substring(a.length, d.length) } return null };
+                this.set = function (a, c) { var b = "", b = new Date; b.setTime(b.getTime() + 6048E5); b = "; expires=" + b.toGMTString(); document.cookie = a + "=" + c + b + "; path=/; " };
+                this.check = function () { var a = this.get(f); if (a) a = a.split(":"); else if (100 != e) "v" == h && (e = Math.random() >= e / 100 ? 0 : 100), a = [h, e, 0], this.set(f, a.join(":")); else return !0; var c = a[1]; if (100 == c) return !0; switch (a[0]) { case "v": return !1; case "r": return c = a[2] % Math.floor(100 / c), a[2]++, this.set(f, a.join(":")), !c } return !0 };
+                this.go = function () { if (this.check()) { var a = document.createElement("script"); a.type = "text/javascript"; a.src = g + "&t=" + (new Date()).getTime(); document.body && document.body.appendChild(a) } };
+                this.start = function () { var a = this; window.addEventListener ? window.addEventListener("load", function () { a.go() }, !1) : window.attachEvent && window.attachEvent("onload", function () { a.go() }) }
+            };
+            try { (new g(100, "r", "QSI_S_SI_abZk2DnPlZAGHjL", "//znbqj3egyjwfzib9r-communicatehealth.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_abZk2DnPlZAGHjL&Q_LOC=" + encodeURIComponent(window.location.href))).start() } catch (i) { }
+        })();
+    </script> 
+  <div id="SI_abZk2DnPlZAGHjL"> 
+   <!--DO NOT REMOVE-CONTENTS PLACED HERE--> 
+  </div> 
+  <!--END SITE INTERCEPT--> 
+  <script src="https://health.gov/ui/js/lib/survey-wrapper.js"></script> 
+  <script src="/js/quickguide.js" type="text/javascript"></script>   
+ </body>
+</html>

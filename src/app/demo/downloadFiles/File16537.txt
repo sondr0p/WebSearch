@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+ <!-- #BeginTemplate "no_call.dwt" -->
+ <head> 
+  <meta content="text/html; charset=windows-1252" http-equiv="Content-Type"> 
+  <!-- #BeginEditable "doctitle" --> 
+  <title></title> 
+  <!-- #EndEditable --> 
+  <link type="text/css" rel="stylesheet" href="../CSS/main.css"> 
+  <script async src="https://i.simpli.fi/dpx.js?cid=57520&amp;action=100&amp;segment=mspublicservicecommsite&amp;m=1&amp;sifi_tuid=31475"></script> 
+ </head> 
+ <body class="bodymain"> 
+  <div class="divback"> 
+   <map id="main" name="main"> <area href="http://www.psc.state.ms.us/default.aspx" alt="MS PSC" shape="circle" coords="117, 118, 85"> </map> 
+   <img alt="" style="border:0;" src="../nocall/images/web/header-full.jpg" usemap="#main"> 
+  </div> 
+  <div class="divheader"> 
+   <ul id="navhlist"> 
+    <li><a href="http://www.psc.state.ms.us/nocall/nocall.html">No Call Home</a></li> 
+    <li><a href="https://www.psc.state.ms.us/nocall/subscriber.aspx">Subscriber Registration</a></li> 
+    <li><a href="https://www.psc.state.ms.us/nocall/complaint.aspx">Subscriber Complaints</a></li> 
+    <li><a href="https://www.psc.state.ms.us/nocall/SolicitorDL.aspx">Solicitor Download</a></li> 
+    <li><a href="http://www.psc.state.ms.us/nocall/rules.html">Rules</a></li> 
+    <li><a href="http://www.psc.state.ms.us/nocall/forms.html">Forms</a></li> 
+    <li><a href="http://www.psc.state.ms.us/nocall/faq.html">FAQs</a></li> 
+   </ul> 
+  </div> 
+  <!--	<div class="divsearch">
+		<form action="http://www.google.com/cse" id="cse-search-box" target="_blank">
+			<input type="hidden" name="cx" value="017637540613799216152:zmnvjzw90x8" />
+			<input type="hidden" name="ie" value="UTF-8" />
+			<input type="text" name="q" size="50" />
+			<input type="submit" name="sa" value="Search" style="color:#0C1A3A; background-color:#EAE7C6" />
+		</form>
+		
+		<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script>
+	</div>
+--> 
+  <!-- #BeginEditable "body" --> 
+  <div class="divmain"> 
+   <p class="pageheader">No Call Program</p> 
+   <hr class="hrheader"> 
+   <p class="textleft">The Mississippi Telephone Solicitation Act of 2003 directs the Mississippi Public Service Commission to promulgate regulations and to compile and maintain a "No Call List". The list consists of telephone numbers of Mississippi residential and cellular telephone subscribers who have elected to reduce telephone solicitations. <u>Business numbers may not be included on the list</u>. Telephone numbers used for home based businesses that are not listed in the business section of the incumbent telephone company's telephone directory may be included on the list. The law is effective on July 1, 2003. <br><br> The law prohibits those attempting to sell consumer goods and services by telephone from calling telephone numbers that appear on the "No Call List". However, there are some exemptions provided for by the Legislature in the Act. These exemptions are detailed in the <a href="faq.html">Frequently Asked Questions (FAQs)</a>. <br><br> As of July 1, 2016, Mississippi consumers are able to register their cellular telephone numbers in addition to their residential telephone numbers on Mississippi’s do-not-call list. New registrations completed by July 31, 2016 will become effective on September 1, 2016. Thereafter, consumers who continue to receive unwanted telemarketing calls may file a complaint with the Public Service Commission in writing, over the telephone, or via this website. <br><br> If you don't want to register on-line, alternate means of registration may be found under the <a href="faq.html">Frequently Asked Questions (FAQs)</a>. </p> 
+   <br> 
+   <p class="textcredit">Reviewed and/or updated on 06/30/2018 by <a href="mailto:stacy.harrell@psc.state.ms.us"><img alt="" style="border:0;" src="images/email/sph-credit.png"></a></p> 
+   <br> 
+  </div> 
+  <!-- #EndEditable --> 
+  <div class="divfooter"> 
+   <ul id="navulist"> 
+    <li><a href="http://www.psc.state.ms.us/nocall/nocall.html"><img title="No Call" alt="" style="border:0;" src="../images/icons/nocall.jpg"></a></li> 
+    <li><a href="http://mpus.ms.gov/utility/gas/gas.html"><img title="Gas" alt="" style="border:0;" src="../images/icons/gas.jpg"></a></li> 
+    <li><a href="http://mpus.ms.gov/utility/electric/electric.html"><img title="Electricity" alt="" style="border:0;" src="../images/icons/electric.jpg"></a></li> 
+    <li><a href="http://mpus.ms.gov/utility/sewer/sewer.html"><img title="Sewer" alt="" style="border:0;" src="../images/icons/sewer.jpg"></a></li> 
+    <li><a href="http://mpus.ms.gov/utility/water/water.html"><img title="Water" alt="" style="border:0;" src="../images/icons/water.jpg"></a></li> 
+    <li><a href="http://mpus.ms.gov/utility/telecomm/telecomm.html"><img title="Telecomm" alt="" style="border:0;" src="../images/icons/telecomm.jpg"></a></li> 
+    <li><a href="http://www.psc.state.ms.us/pipeline/pipeline.html"><img title="Pipeline Safety" alt="" style="border:0;" src="../images/icons/pipeline.jpg"></a></li> 
+   </ul> 
+  </div> 
+  <div class="divfooter"> 
+   <ul id="navflist"> 
+    <li><a href="http://www.psc.state.ms.us/default.aspx">MSPSC</a></li> 
+    <li><a href="http://www.psc.state.ms.us/mpsc/contacts.html">Contacts</a></li> 
+    <li><a href="http://www.psc.state.ms.us/disclaimer.html">Disclaimer</a></li> 
+    <li><a href="http://mpus.ms.gov">MPUS</a></li> 
+    <li><a href="https://www.psc.state.ms.us/Complaint/" target="_blank">Complaints</a></li> 
+    <li><a href="http://mpus.ms.gov/relatedlinks.html">Related Links</a></li> 
+    <li><a href="http://www.psc.state.ms.us/mpsc/faq.html">FAQ</a></li> 
+    <li><a href="http://www.psc.state.ms.us/employee.html">Employee Section</a></li> 
+   </ul> 
+  </div> 
+  <script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-497993-6', 'auto');
+    ga('send', 'pageview');
+
+</script> 
+  <!--<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-497993-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>-->  
+  <!-- #EndTemplate --> 
+ </body>
+</html>

@@ -1,0 +1,559 @@
+<!doctype html>
+<html lang="en" dir="ltr" prefix="fb: //www.facebook.com/2008/fbml">
+ <head> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <!-- Google Tag Manager --> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-WLMC86');</script> 
+  <!-- End Google Tag Manager --> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <link rel="shortcut icon" href="https://www.archives.gov/files/apple-icon.png" type="image/png"> 
+  <meta name="description" content="I Want to Request:"> 
+  <meta name="generator" content="Drupal 7 (http://drupal.org)"> 
+  <link rel="canonical" href="https://www.archives.gov/veterans/military-service-records"> 
+  <meta property="og:site_name" content="National Archives"> 
+  <meta property="og:type" content="article"> 
+  <meta property="og:url" content="https://www.archives.gov/veterans/military-service-records"> 
+  <meta property="og:title" content="Request Your Military Service Records"> 
+  <meta property="og:description" content="I Want to Request:"> 
+  <meta property="og:updated_time" content="2019-05-30T15:46:19-04:00"> 
+  <meta name="twitter:card" content="summary"> 
+  <meta name="twitter:url" content="https://www.archives.gov/veterans/military-service-records"> 
+  <meta name="twitter:title" content="Request Your Military Service Records"> 
+  <meta name="twitter:description" content="I Want to Request:"> 
+  <meta property="article:published_time" content="2016-01-27T14:36:21-05:00"> 
+  <meta property="article:modified_time" content="2019-05-30T15:46:19-04:00"> 
+  <title>Request Your Military Service Records | National Archives</title> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_9Q-k-fv_k3FHvcs9CSZ2iD5CTqFxrfaej2FCw2mYIoA.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_BTbypzlNYVbptuza8qzKwXCnB4TjuEzUY43Cz2FsXVA.css" media="all"> 
+  <style>.section-theme #title-bar{background:#2a6978 url("https://www.archives.gov/files/global-images/section-headers/veterans1.png") no-repeat center right;}.section-theme #mega-footer > h2{background:#2a6978}.section-theme #title-bar .breadcrumb{background-color:#2b6c7c;}.section-theme th{background-color:#2a6978 !important;}
+</style> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_NkrvYXS3XFN6HNXLylk-Jr8h6vd7bMQSZUSOsRKtvhE.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_adYIwY5AiFQ05gx1uTxNpkKu9JMeTmi7MedA-D3wWww.css" media="all"> 
+  <!-- HTML5 element support for IE6-8 --> 
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]--> 
+  <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic|Merriweather"> 
+  <script src="https://www.archives.gov/files/js/js_0RyHJ63yYLuaWsodCPCgSD8dcTIA0dqcDf8-7c2XdBw.js"></script> 
+  <script src="https://www.archives.gov/files/js/js_0pQJ_xts95IaRyXneDD9tPnYjBy63RQPzNHeLe2LDCg.js"></script> 
+  <script src="https://www.archives.gov/files/js/js_4DGuaDZ5Ckd4u9axaS2f90X-RYp7QlC5RWbsjSLu2-8.js"></script> 
+  <script src="https://www.archives.gov/files/js/js_KyGDO1Fxjv5b9iLtei_bvtKprP3C83MXZ8wgYXbj8bA.js"></script> 
+  <script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"nara","theme_token":"VSZGjYNYgbWHHfZhH9kVHT-TKQYArUFNFejsGqUw4Jo","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/custom\/archives_ui\/scripts\/helptext.js":1,"sites\/all\/modules\/custom\/argentina\/js\/script.js":1,"sites\/all\/modules\/custom\/nara_catalog\/js\/script.js":1,"sites\/all\/modules\/contrib\/user_alert\/js\/user-alert.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/custom\/nara_custom\/js\/nara_custom.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/affix.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/alert.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/button.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/carousel.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/collapse.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/dropdown.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/modal.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/tooltip.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/popover.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/scrollspy.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/tab.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/transition.js":1,"sites\/all\/themes\/nara\/scripts\/jPanelMenu.js":1,"sites\/all\/themes\/nara\/scripts\/jRespond.js":1,"sites\/all\/themes\/nara\/scripts\/matchHeight.min.js":1,"sites\/all\/themes\/nara\/scripts\/jquery.fancybox.pack.js":1,"sites\/all\/themes\/nara\/scripts\/toc.js":1,"sites\/all\/themes\/nara\/scripts\/scripts.js":1,"sites\/all\/themes\/nara\/scripts\/jquery.scrollTo.js":1,"sites\/all\/themes\/nara\/scripts\/mediagallery.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/custom\/archives_ui\/css\/font-awesome.min.css":1,"sites\/all\/modules\/custom\/archives_ui\/css\/helptext.css":1,"sites\/all\/modules\/custom\/archives_ui\/css\/ckeditor_custom.css":1,"sites\/all\/modules\/custom\/argentina\/css\/argentina_style.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/custom\/liaisons\/css\/liaisons_style.css":1,"sites\/all\/modules\/custom\/nara_catalog\/css\/nara-api-style.css":1,"sites\/all\/modules\/archive_features\/nara_timeline\/css\/custom.css":1,"sites\/all\/modules\/archive_features\/nara_timeline\/css\/timeline.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/user_alert\/css\/user-alert.css":1,"sites\/all\/modules\/custom\/varnish_purge\/css\/varnishpurge.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"0":1,"sites\/all\/modules\/custom\/nara_custom\/css\/nara_custom.css":1,"sites\/all\/themes\/nara\/css\/jquery.fancybox.css":1,"sites\/all\/themes\/nara\/css\/jquery.fancybox-thumbs.css":1,"sites\/all\/themes\/nara\/css\/do_not_edit.css":1,"sites\/all\/themes\/nara\/css\/bootstrap.min.css":1,"sites\/all\/themes\/nara\/css\/styles.css":1,"sites\/all\/themes\/nara\/css\/vertical-tabs.css":1,"sites\/all\/themes\/nara\/css\/overrides.css":1,"sites\/all\/themes\/nara\/css\/mediagallery.css":1}},"archives_ui":{"trustedDomains":["twitter\\.com","youtube\\.com","youtu\\.be","recordsofrights\\.org","presidentialtimeline\\.org","nationalarchivesstore\\.org","bush41\\.org","nara\\.learn\\.com","bush41\\.org","bushlibrary\\.tamu\\.edu","fdrlibrary\\.marist\\.edu","georgewbushlibrary\\.smu\\.edu","lbjlibrary\\.org","trumanlibrary\\.org","fdrlibrary\\.org","archivesfoundation\\.org","jfklibrary\\.org","Myarchivesstore\\.org","docsteach\\.org","digitalvaults\\.org","jfk50\\.org","reagan\\.utexas\\.edu","clinton\\.presidentiallibraries\\.us","fdrlibrary\\.org","us11\\.campaign-archive.?\\.com","lbjlibrary\\.net","github\\.io","github\\.com","eventbrite\\.com","facebook\\.com","pinterest\\.com","tumblr\\.com","google\\.com","historypin\\.org","giphy\\.com","instagram\\.com","flickr\\.com","foursquare\\.com","addthis\\.com","apple\\.com","georgebushfoundation\\.org","clintonpresidentialcenter\\.org","geraldrfordfoundation\\.org","reaganfoundation\\.org","rooseveltinstitute\\.org","socialarchive\\.iath\\.virginia.edu","s3\\.amazonaws\\.com","surveymonkey\\.com","storify\\.com","constantcontact\\.com","snaccooperative\\.org"]},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"user_alert":{"url_prefix":"","current_path":"veterans\/military-service-records"},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script> 
+  <style type="text/css">
+div.form-item-body-und-0-format {
+	display:none;
+}
+div.form-item-field-col-b-und-0-format {
+	display:none;
+}
+div.filter-guidelines {
+	display:none;
+}
+div.filter-help {
+	display:none;
+}
+</style> 
+  <style type="text/css">
+ul.nav-tabs {
+display:none;
+}
+#block-workbench-block {
+display:none;
+}
+</style> 
+ </head> 
+ <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-39921 node-type-3-col-page "> 
+  <!-- Google Tag Manager (noscript) --> 
+  <noscript>
+   <iframe alt="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-WLMC86" height="0" width="0" style="display:none;visibility:hidden" title="Google Tag Manager"></iframe>
+  </noscript> 
+  <!-- End Google Tag Manager (noscript) --> 
+  <div id="background-gradient"> 
+   <div class="wrapper section-theme "> 
+    <a class="back-to-top" href="#page-header" style="display: none;">Top</a> 
+    <div id="skip-link"> 
+     <a href="#main-col" class="element-invisible element-focusable">Skip to main content</a> 
+    </div> 
+    <div class="wrapper section-theme"> 
+     <header id="page-header"> 
+      <div class="region region-header"> 
+       <section id="block-block-53" class="block block-block clearfix"> 
+        <div class="col-sm-6" id="logo-wrapper"> 
+         <div id="logo">
+          <a href="/">The U.S. National Archives Home</a>
+         </div> 
+         <button id="nav-toggle" class="navbar-toggle" type="button"></button> 
+        </div> 
+        <div class="col-sm-6" id="search-wrapper"> 
+         <div id="top-links"> 
+          <a class="noBorder" href="/social-media/blogs.html">Blogs</a> · 
+          <script type="text/javascript">// <![CDATA[
+        var addthis_pub = "usarchives";
+        var addthis_offset_left = -40;
+        var addthis_brand = "Archives.gov";
+        // ]]></script> 
+          <a class="addthisLink" onclick="return addthis_sendto();" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]');" onmouseout="addthis_close();" onfocus="return addthis_open(this, '', '[URL]', '[TITLE]');" onblur="addthis_close();" href="https://www.addthis.com/bookmark.php?v=250">Bookmark/Share</a> · 
+          <script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js"></script> 
+          <a href="/contact">Contact Us</a> 
+         </div> 
+         <div class="input-group" id="site-search"> 
+          <form action="https://search.archives.gov/search" method="get" name="search"> 
+           <input class="form-control" id="qt" accesskey="s" type="text" name="query" placeholder="Search Archives.gov" title="Search Archives.gov"> 
+           <span class="input-group-btn"> <button class="btn btn-default" id="go" type="submit" name="submit">Search</button> </span> 
+           <input type="hidden" value="" name="utf8"> 
+           <input id="affiliate" type="hidden" value="national-archives" name="affiliate"> 
+          </form> 
+         </div> 
+        </div> 
+       </section> 
+      </div> 
+     </header> 
+     <!-- /#page-header --> 
+     <nav id="main-nav" class="clearfix "> 
+      <h2 class="element-invisible">Main menu</h2>
+      <ul id="main-menu-links" class="links clearfix make-eq">
+       <li class="menu-859 first research"><a href="/research" title="Explore our nation's history through our documents, photographs, and records." id="research">Research Our Records</a></li> 
+       <li class="menu-860 veterans"><a href="/veterans" title="Request military records and learn about other services for yourself or a family member." id="veterans" class="veterans">Veterans' Service Records</a></li> 
+       <li class="menu-861 teachers"><a href="/education" title="Engage students with lesson plans and other classroom materials." id="teachers" class="teachers">Educator Resources</a></li> 
+       <li class="menu-862 locations"><a href="/locations" title="Plan a trip to a facility near you or learn about our national network of locations and services." id="locations" class="locations">Visit Us</a></li> 
+       <li class="menu-367 last shop"><a href="/founding-docs" title="Order books, gift items, photographic prints, and document reproductions online." id="shop" class="shop">America's Founding Documents</a></li> 
+      </ul> 
+     </nav>
+     <!-- /main-nav --> 
+     <div class="page-body-wrapper"> 
+      <div id="page-body" class="no-sidebar"> 
+       <header id="title-bar"> 
+        <p>Veterans' Service Records</p> 
+        <div class="breadcrumb"> 
+         <a href="/">Home</a> &gt; 
+         <a href="/veterans">Veterans' Service Records</a> &gt; Military Service Records 
+        </div>
+        <!-- /breadcrumbs --> 
+       </header> 
+       <div class="row"> 
+        <nav class="col-sm-2"> 
+         <aside id="sidebar-first"> 
+          <nav id="left-menu" class=""> 
+           <h3>Request Service Records</h3> 
+           <ul> 
+            <li> <a href="/veterans/military-service-records/index.html">Start Your Service Record Request</a> </li> 
+            <li> <a href="/veterans/military-service-records/evetrecs-help.html">eVetRecs Help</a> </li> 
+            <li> <a href="/veterans/military-service-records/other-request-methods.html">Other Methods to Obtain Service Records</a> </li> 
+            <li> <a href="/veterans/military-service-records/record-request-notice.html">Special Notice Regarding Requests</a> </li> 
+           </ul> 
+           <h3>Military Service Records</h3> 
+           <ul> 
+            <li> <a href="/veterans/military-service-records/about-service-records.html">About Service Records</a> </li> 
+            <li> <a href="/veterans/military-service-records/correct-service-records.html">Correcting Service Records</a> </li> 
+            <li> <a href="/veterans/military-service-records/medical-records.html">Medical and Health Records</a> </li> 
+            <li> <a href="/veterans/military-service-records/locations/index.html">Locations of Service Records</a> </li> 
+            <li> <a href="/veterans/military-service-records/pre-ww-1-records.html">Older (pre-WWI) Service Records</a> </li> 
+            <li> <a href="/veterans/military-service-records/frequently-requested-records.html">What Records are NOT Available?</a> </li> 
+           </ul> 
+           <p> <a class="buttonLink info-red" href="/st-louis/military-personnel/public/veterans-privacy.html"><span>Privacy and Security of Veterans Records</span></a></p> 
+          </nav> 
+         </aside> 
+         <!-- /#sidebar-first --> 
+        </nav> 
+        <div id="main-col" class="col-sm-7"> 
+         <p id="print-logo"> <img src="/sites/all/themes/nara/images/nara-print-logo.jpg" alt="National Archives Logo"> </p> 
+         <div class="region region-content"> 
+          <section id="block-system-main" class="block block-system clearfix"> 
+           <h1>Request Your Military Service Records</h1> 
+           <script language="JavaScript" type="text/javascript">
+
+	function Launch_RecServ() {
+
+		var the_url = "https://vetrecs.archives.gov/VeteranRequest/home.html";
+
+		Onlink_App=window.open(the_url,"Onlink","width=800,height=600,left=0,top=0,scrollbars=no,directories=no,location=no,menubar=no,resizable=no,status=no,toolbar=no,source=no");
+
+	}
+
+</script>
+           <!--End e-Vetrecs launch Script--> 
+           <h3>I Want to Request:</h3> 
+           <ul> 
+            <li><strong>DD 214/Separation Documents:</strong>&nbsp;<a href="javascript:Launch_RecServ()">eVetRecs</a> (online&nbsp; - printer required) |&nbsp;<a href="/veterans/military-service-records/standard-form-180.html">Mail or Fax</a></li> 
+            <li><strong>Official Military Personnel File (OMPF):</strong>&nbsp;&nbsp;<a href="javascript:Launch_RecServ()">eVetRecs</a> (online&nbsp; - printer required) |&nbsp;<a href="/veterans/military-service-records/standard-form-180.html">Mail or Fax</a>&nbsp;</li> 
+            <li><strong>Replacement Medals:</strong>&nbsp;&nbsp;<a href="javascript:Launch_RecServ()">eVetRecs</a> (online - printer required) |&nbsp;<a href="/veterans/military-service-records/standard-form-180.html">Mail or Fax</a>&nbsp;</li> 
+            <li><strong>Medical Records:</strong>&nbsp;&nbsp;<a href="javascript:Launch_RecServ()">eVetRecs</a> (online - printer required) |&nbsp;<a href="/veterans/military-service-records/standard-form-180.html">Mail or Fax</a>&nbsp;</li> 
+            <li><strong><a href="/veterans/military-service-records/emergencies">Burial and Emergency Requests</a>&nbsp;</strong>(fax required)</li> 
+           </ul> 
+           <p>Military personnel records can include DD 214s/Separation Documents, service personnel records found within the <a href="/personnel-records-center/about-ompfs">Official Military Personnel File (OMPF)</a>, and <a href="/veterans/military-service-records/medical-records.html">medical Records</a>. Military personnel records can be used for proving military service or as a valuable tool in genealogical research.</p> 
+           <p>Please note that NPRC holds historical Military Personnel Records of nearly 100 million veterans. The vast majority of these records are <strong>paper-based and not available online.</strong> <a class="moreLink" href="/veterans/military-service-records/record-request-notice.html">Learn More</a></p> 
+           <p>&nbsp;</p> 
+           <div class="nwidget ncallout highlighted width100  " data-additional-classes="" data-alignment="" data-style="highlighted" data-version="1" data-width="100"> 
+            <p><strong>To better serve you, we perform regular maintenance updates to our systems.&nbsp; Some updates may interrupt our services, please click<a href="#outage">&nbsp;here</a>&nbsp;for upcoming outages.&nbsp;</strong>&nbsp;</p> 
+           </div> 
+           <p>&nbsp;</p> 
+           <div class="nwidget naccordion" data-expand_first="true"> 
+            <div class="widget-placeholder" data-accordion-id="68856" data-additional-classes="">
+             Accordion
+            </div> 
+            <div class="dynamic-widget">
+             <div id="accordion68856" class="panel-group "> 
+              <div class="panel panel-default"> 
+               <div id="headingpanel_68845" class="panel-heading"> 
+                <h3 class="panel-title"><a href="#collapsepanel_68845" data-toggle="collapse" data-parent="#68856" class=""><i class="fa fa-minus-circle"></i><i class="fa fa-plus-circle"></i>Online Requests Using eVetRecs</a></h3> 
+               </div> 
+               <div id="collapsepanel_68845" class="panel-collapse collapse in"> 
+                <div class="panel-body"> 
+                 <p>Our online<a href="javascript:Launch_RecServ()"> eVetRecs</a> system creates a customized order form to request information from your, or your relative's, military personnel records.</p> 
+                 <p>You may use this system if you are:</p> 
+                 <ul> 
+                  <li>A <strong>military veteran</strong>, or</li> 
+                  <li>Next of kin of a <strong>deceased</strong>, former member of the military. The <strong>next of kin</strong> can be any of the following: 
+                   <ul> 
+                    <li>Surviving spouse who has not remarried</li> 
+                    <li>Father</li> 
+                    <li>Mother</li> 
+                    <li>Son</li> 
+                    <li>Daughter</li> 
+                    <li>Sister</li> 
+                    <li>Brother</li> 
+                   </ul> </li> 
+                 </ul> 
+                 <p>Note: A written signature by mail or fax is required for online requests.</p> 
+                 <p>Visit <a href="/veterans/military-service-records/evetrecs-help.html">eVetRecs Help and FAQ</a> to learn more about how to use eVetRecs.</p> 
+                </div>
+               </div>
+              </div> 
+              <div class="panel panel-default"> 
+               <div id="headingpanel_68846" class="panel-heading"> 
+                <h3 class="panel-title"><a href="#collapsepanel_68846" data-toggle="collapse" data-parent="#68856" class="collapsed"><i class="fa fa-minus-circle"></i><i class="fa fa-plus-circle"></i>Who Can Request Official Military Personnel Files (OMPF)</a></h3> 
+               </div> 
+               <div id="collapsepanel_68846" class="panel-collapse collapse "> 
+                <div class="panel-body"> 
+                 <p>Access depends on the discharge date:</p> 
+                 <ul> 
+                  <li><strong>OMPF <em>Archival record - discharge date of 1956 or prior*</em></strong><br> <br> These records are archival and are open to the public.<br> &nbsp; 
+                   <ul> 
+                    <li>Any archival OMPF can be ordered online for a <a href="/personnel-records-center/military-personnel/ompf-archival-requests#fees" id="CopyFee" name="CopyFee">copying fee.</a> 
+                     <!--Archival records are open to the public.--></li> 
+                    <li>See <a href="/st-louis/military-personnel/public/general-public.html">Access to Military Records by the General Public</a> for more details.<br> &nbsp;</li> 
+                   </ul> </li> 
+                  <li><strong>OMPF <em>Federal (non-archival) record - discharge date of 1957&nbsp;or after* </em></strong><br> <br> These records are non-archival and are maintained under the Federal Records Center program. Non-archival records are subject to access restrictions.<br> &nbsp; 
+                   <ul> 
+                    <li>the military veteran, or</li> 
+                    <li>the next-of-kin (<em>un-remarried widow or widower, son, daughter, father, mother, brother or sister</em>)</li> 
+                    <li>Use the link at the top of this page to get started using eVetRecs or <a class="pdfImage" href="/veterans/military-service-records/standard-form-180.html">Standard Form 180</a> (SF 180).</li> 
+                   </ul> </li> 
+                 </ul> 
+                 <p><em><strong>* Please note:</strong></em> &nbsp; Records are accessioned into the National Archives, and become archival, <strong>62 years after</strong> the service member's separation from the military. This is a rolling date; hence, the current year, 2019, minus 62 years is 1957. &nbsp; <a href="/st-louis/archival-programs/division.html">Learn more</a></p> 
+                </div>
+               </div>
+              </div> 
+              <div class="panel panel-default"> 
+               <div id="headingpanel_68847" class="panel-heading"> 
+                <h3 class="panel-title"><a href="#collapsepanel_68847" data-toggle="collapse" data-parent="#68856" class="collapsed"><i class="fa fa-minus-circle"></i><i class="fa fa-plus-circle"></i>Required Information</a></h3> 
+               </div> 
+               <div id="collapsepanel_68847" class="panel-collapse collapse "> 
+                <div class="panel-body"> 
+                 <p>Your request must contain certain basic information for us to locate your service records. This information includes:</p> 
+                 <ul> 
+                  <li>The veteran's complete name used while in service</li> 
+                  <li>Service number</li> 
+                  <li>Social Security number</li> 
+                  <li>Branch of service</li> 
+                  <li>Dates of service</li> 
+                  <li>Date and place of birth (especially if the service number is not known).</li> 
+                  <li>If you suspect your records may have been involved in the <a href="/st-louis/military-personnel/fire-1973.html">1973 fire</a>, also include: 
+                   <ul> 
+                    <li>Place of discharge</li> 
+                    <li>Last unit of assignment</li> 
+                    <li>Place of entry into the service, if known.</li> 
+                   </ul> </li> 
+                  <li>All requests must be <strong>signed</strong> and <strong>dated</strong> by the veteran or next-of-kin.</li> 
+                  <li><strong>If you are the next of kin of a deceased veteran</strong>, you must provide proof of death of the veteran such as a copy of death certificate, letter from funeral home, or published obituary.</li> 
+                 </ul> 
+                </div>
+               </div>
+              </div> 
+              <div class="panel panel-default"> 
+               <div id="headingpanel_68848" class="panel-heading"> 
+                <h3 class="panel-title"><a href="#collapsepanel_68848" data-toggle="collapse" data-parent="#68856" class="collapsed"><i class="fa fa-minus-circle"></i><i class="fa fa-plus-circle"></i>Recommended Information (optional)</a></h3> 
+               </div> 
+               <div id="collapsepanel_68848" class="panel-collapse collapse "> 
+                <div class="panel-body"> 
+                 <p>While this information is not required, it is extremely helpful to NPRC staff in understanding and fulfilling your request:</p> 
+                 <ul> 
+                  <li>The <strong>purpose or reason</strong> for your request, such as applying for veterans benefits, preparing to retire, or researching your personal military history.</li> 
+                  <li>Any <strong>deadlines</strong> related to your request. We will do our best to meet any priorities. For example, you may be applying for a VA-guaranteed Home Loan and need to provide proof of military service by a specific date.&nbsp;</li> 
+                  <li>Any other specific information, documents, or records you require from your Official Military Personnel File (OMPF) besides your Report of Separation (DD Form 214).</li> 
+                  <li>For additional details on what information may or may not be included, please see the <a href="/veterans/military-service-records/record-request-notice.html"><strong>Special Notice to Veterans and Family Members regarding requests for copies of military personnel and/or medical files</strong></a>.</li> 
+                 </ul> 
+                </div>
+               </div>
+              </div> 
+              <div class="panel panel-default"> 
+               <div id="headingpanel_68849" class="panel-heading"> 
+                <h3 class="panel-title"><a href="#collapsepanel_68849" data-toggle="collapse" data-parent="#68856" class="collapsed"><i class="fa fa-minus-circle"></i><i class="fa fa-plus-circle"></i>"Emergency" Requests and Deadlines</a></h3> 
+               </div> 
+               <div id="collapsepanel_68849" class="panel-collapse collapse "> 
+                <div class="panel-body"> 
+                 <p><a name="emergency"></a></p> 
+                 <div class="nwidget layout block title-box clearfix " data-additional-classes="" data-title="hhh"> 
+                  <h2>"Natural Disaster" Requests</h2> 
+                  <p>If you live in the impacted areas (or have temporarily relocated to nearby states) and need priority service to replace a Separation Document (usually DD Form 214 or equivalent), place the word “Natural Disaster” in the "Comments" section of&nbsp;eVetRecs&nbsp;or in the "Purpose" section of the&nbsp;Standard Form (SF) 180, Request Pertaining to Military Records.</p> 
+                  <p>Fax your request to our Customer Service Team at&nbsp;314-801-0927.&nbsp;</p> 
+                  <p>(NOTE: This fax number is only for special requests, such as Hurricane Harvey or the California Wildfires).</p> 
+                 </div> 
+                 <p>If your request is urgent (for example, upcoming surgery, a funeral, etc.) tell us the nature of the emergency and your deadline in the "Comments" section of <a href="/veterans/military-service-records/index.html">eVetRecs</a> or in the "Purpose" section of the <a href="/veterans/military-service-records/standard-form-180.html">Standard Form (SF) 180, Request Pertaining to Military Records.</a></p> 
+                 <ul> 
+                  <li>Fax your request to our Customer Service Team at 314-801-0764.</li> 
+                  <li>Call our customer service staff at 314-801-0800 if you have questions or require same-day service. <em>Due to the large number of calls we receive at this number, hold times are often long. However, once you reach a technician, he or she will be happy to assist you with emergency service.</em></li> 
+                  <li>If your burial request involves interment at a Department of Veterans Affairs National Cemetery, contact the National Cemetery Scheduling Office at 800-535-1117 or visit the <a href="http://www.cem.va.gov/cem/burial_benefits/" rel="gb_page_center[640, 510]">National Cemetery Administration website</a>. We work directly with the Veterans Affairs staff to obtain records to verify service for burial benefits. If the veteran is not going to be interred at a National Cemetery, the requester may fax the SF-180 or signature page from <a href="/veterans/military-service-records/">eVetRecs</a> (including signature of the next of kin and proof of death) to the Customer Service Team at 314-801-0764.</li> 
+                 </ul> 
+                 <p><strong>NOTE:</strong> &nbsp; <a href="/st-louis/military-personnel/fire-1973.html">The 1973 Fire</a> at the National Personnel Records Center damaged or destroyed 16-18 million Army and Air Force records that documented the service history of former military personnel discharged from 1912-1964. Although the information in many of these primary source records was either badly damaged or completely destroyed, often alternate record sources can be used to reconstruct the service of the veterans impacted by the fire. Sometimes we are able to reconstruct the service promptly using alternate records that are in our holdings, but other times we must request information from other external agencies for use in records reconstruction. In some instances, therefore, requests that involve reconstruction efforts may take several weeks to a month to complete.</p> 
+                </div>
+               </div>
+              </div> 
+              <div class="panel panel-default"> 
+               <div id="headingpanel_68850" class="panel-heading"> 
+                <h3 class="panel-title"><a href="#collapsepanel_68850" data-toggle="collapse" data-parent="#68856" class="collapsed"><i class="fa fa-minus-circle"></i><i class="fa fa-plus-circle"></i>Where to send my request</a></h3> 
+               </div> 
+               <div id="collapsepanel_68850" class="panel-collapse collapse "> 
+                <div class="panel-body"> 
+                 <p>You can mail or fax your <strong>signed</strong> and <strong>dated</strong> request to the National Archives' National Personnel Record Center (NPRC). Most, but not all records, are stored at the NPRC. <strong>Be sure to use the address specified by eVetRecs or the instructions on the <a href="/files/research/order/standard-form-180.pdf">SF-180</a>.</strong> &nbsp; <a href="/veterans/military-service-records/locations/index.html">Locations of Military Service Records</a>.</p> 
+                 <ul> 
+                  <li><a id="fax" name="fax"></a><b>NPRC Fax Number :</b><br> <strong>314-801-9195</strong><br> &nbsp;</li> 
+                  <li><strong>NPRC Mailing Address:</strong><br> National Personnel Records Center<br> Military Personnel Records<br> 1 Archives Drive<br> St. Louis, MO 63138<br> <strong>314-801-0800</strong><br> <br> <em>Please note that requests which are sent by Priority Mail, FedEx, UPS, or other "express" services will only arrive at the NPRC sooner. They will not be processed any faster than standard requests. See the section above on emergency requests and deadlines.</em></li> 
+                 </ul> 
+                </div>
+               </div>
+              </div> 
+              <div class="panel panel-default"> 
+               <div id="headingpanel_68851" class="panel-heading"> 
+                <h3 class="panel-title"><a href="#collapsepanel_68851" data-toggle="collapse" data-parent="#68856" class="collapsed"><i class="fa fa-minus-circle"></i><i class="fa fa-plus-circle"></i>Cost</a></h3> 
+               </div> 
+               <div id="collapsepanel_68851" class="panel-collapse collapse "> 
+                <div class="panel-body"> 
+                 <p>Generally there is no charge for basic military personnel and medical record information provided to veterans, next-of-kin and authorized representatives from <strong>Federal (non-archival) records.</strong> If your request involves a service fee, you will be notified as soon as that determination is made.</p> 
+                 <p>However, <strong>Archival OMPFs</strong> are subject to the NARA fee schedule that authorizes the Agency to collect fees from the public for copies of archival records (44 USC 2116c and 44 USC 2307).</p> 
+                 <p>Online, mailed and faxed archival requests require the purchase of the COMPLETE photocopy of the OMPF:</p> 
+                 <ul> 
+                  <li>A routine OMPF of 5 pages or less: $25 flat fee</li> 
+                  <li>A routine OMPF of 6 pages or more: $70 flat fee (most OMPFs fall in this category)</li> 
+                  <li><a href="/st-louis/military-personnel/public/persons-of-prominence.html">Persons of Exceptional Prominence (PEP)</a> OMPF: $.80 cents per page ($20 minimum)</li> 
+                 </ul> 
+                </div>
+               </div>
+              </div> 
+              <div class="panel panel-default"> 
+               <div id="headingpanel_68852" class="panel-heading"> 
+                <h3 class="panel-title"><a href="#collapsepanel_68852" data-toggle="collapse" data-parent="#68856" class="collapsed"><i class="fa fa-minus-circle"></i><i class="fa fa-plus-circle"></i>Response Time</a></h3> 
+               </div> 
+               <div id="collapsepanel_68852" class="panel-collapse collapse "> 
+                <div class="panel-body"> 
+                 <div id="shared-order-time"> 
+                  <p>Response time for records requested from the <a href="/personnel-records-center">National Personnel Records Center (NPRC)</a> varies and is depends on the complexity of your request, the availability of records, and our workload. Please do not send a follow-up request before 90 days have elapsed, as it may cause further delays.</p> 
+                  <p>While the NPRC works actively to respond to each request in a timely fashion, the Center receives approximately 4,000 - 5,000 requests per day. We are responding to requests for separation documents within 10 days about 92% of the time. However, requests that involve reconstruction efforts due to the <a href="/st-louis/military-personnel/fire-1973.html">1973 Fire</a>, or older records that&nbsp;require extensive search efforts, may take 6 months or more to complete.</p> 
+                 </div> 
+                </div>
+               </div>
+              </div> 
+              <div class="panel panel-default"> 
+               <div id="headingpanel_68853" class="panel-heading"> 
+                <h3 class="panel-title"><a href="#collapsepanel_68853" data-toggle="collapse" data-parent="#68856" class="collapsed"><i class="fa fa-minus-circle"></i><i class="fa fa-plus-circle"></i>Checking the Status of Your Request</a></h3> 
+               </div> 
+               <div id="collapsepanel_68853" class="panel-collapse collapse "> 
+                <div class="panel-body"> 
+                 <p>Once you have allowed sufficient time for us to receive and process your request (about 10 days), you may check the status of your request by using the <a href="/st-louis/forms/index.html"><strong>Online Status Update Request form</strong></a>. Please provide the request number if you have one, the name, address and phone number of the requester, and the veteran's branch of service to aid us to finding your request in our system.</p> 
+                 <p>You may also telephone the <strong>NPRC Customer Service Line</strong> (this is a long-distance call for most customers): <strong>314-801-0800 </strong></p> 
+                 <p><em><strong>Note:</strong> &nbsp; Our peak calling times are weekdays between 10:00 a.m. CST and 3:00 p.m. CST. Staff is available to take your call as early as 7:00 a.m. and as late as 5:00 p.m. CST.</em></p> 
+                </div>
+               </div>
+              </div> 
+              <div class="panel panel-default"> 
+               <div id="headingpanel_68854" class="panel-heading"> 
+                <h3 class="panel-title"><a href="#collapsepanel_68854" data-toggle="collapse" data-parent="#68856" class="collapsed"><i class="fa fa-minus-circle"></i><i class="fa fa-plus-circle"></i>Other Methods to Obtain your Military Service Records</a></h3> 
+               </div> 
+               <div id="collapsepanel_68854" class="panel-collapse collapse "> 
+                <div class="panel-body"> 
+                 <p>Other potential methods to obtain your records include <a href="/veterans/military-service-records/other-request-methods.html">writing a letter</a>, visiting the NPRC, contacting your state or county, or hiring an independent researcher. See <a href="/veterans/military-service-records/other-request-methods.html">Other Methods to Obtain your Military Service Records</a> for more details.</p> 
+                 <p><strong><em>NOTE:</em></strong><em> Some companies advertise DD Form 214 research services and will charge a fee for obtaining copies. This is provided as a <strong>free</strong> service by the National Archives and Records Administration.</em></p> 
+                 <p><strong>Special Note on Contacting by Email:</strong> Requests for military personnel records or information from them <strong>cannot</strong> be accepted by email at this time. The <a href="/about/laws/privacy-act-1974.html">Privacy Act of 1974 (5 U.S.C. 552a)</a> and Department of Defense directives require a written request, signed and dated, to access information from military personnel records. Our email address should only be used only to request general information (hours of operations, procedures and forms) or to submit compliments, complaints or concerns.</p> 
+                 <p>NOTE: If you send messages using WebTV or a free-email service, you will not receive our response if your mailbox is full. Messages sent to full mailboxes are returned to us as "undeliverable." You may wish to include your mailing address in your message so that we may respond via the U.S. Postal Service.</p> 
+                </div>
+               </div>
+              </div> 
+              <div class="panel panel-default"> 
+               <div id="headingpanel_68855" class="panel-heading"> 
+                <h3 class="panel-title"><a href="#collapsepanel_68855" data-toggle="collapse" data-parent="#68856" class="collapsed"><i class="fa fa-minus-circle"></i><i class="fa fa-plus-circle"></i>Access to Military Records by the General Public</a></h3> 
+               </div> 
+               <div id="collapsepanel_68855" class="panel-collapse collapse "> 
+                <div class="panel-body"> 
+                 <p>Limited information from Official Military Personnel Files is releasable to the general public without the consent of the veteran or the next-of-kin. You are considered a member of the general public if you are asking about a veteran who is no relation to you, or a veteran who is a relative but you are not the next-of-kin. Next-of-kin is defined as the unremarried widow or widower, son or daughter, father or mother, brother or sister of the deceased veteran.</p> 
+                 <p>See <a href="/st-louis/military-personnel/public/general-public.html">Access to Military Records by the General Public and Researchers</a> for details on how to request service records.</p> 
+                </div>
+               </div>
+              </div>
+             </div>
+            </div> 
+           </div> 
+           <p>&nbsp;</p> 
+          </section> 
+         </div> 
+        </div> 
+        <a name="sidebar"></a> 
+        <div id="sidebar" class="col-sm-3"> 
+         <aside id="sidebar-second"> 
+          <div class="nwidget layout block title-box clearfix " data-additional-classes="" data-title="&quot;Natural Disaster&quot; Requests"> 
+           <h2>Natural Disaster Requests</h2> 
+           <p>If you have been impacted by a natural disaster such as the wildfires in California, and need priority service to replace a Separation Document (usually DD Form 214 or equivalent), place the word “Natural Disaster” in the "Comments" section of&nbsp;eVetRecs&nbsp;or in the "Purpose" section of the&nbsp;<a href="/veterans/military-service-records/standard-form-180.html">Standard Form (SF) 180</a>, Request Pertaining to Military Records.</p> 
+           <p>Fax your request to our Customer Service Team at&nbsp;314-801-0927.&nbsp;</p> 
+           <p>(NOTE: This fax number is only for special requests, such as hurricanes and other natural disasters)</p> 
+          </div> 
+          <div class="nwidget layout block title-box clearfix" data-title="Need Help?" data-version="1"> 
+           <h2>Need Help?</h2> 
+           <ul> 
+            <li><a href="/veterans/military-service-records/evetrecs-help.html#faqs">Online Requests/eVetRecs Problems</a></li> 
+            <li><a href="/veterans/faq.html#14">Need Immediate Assistance</a></li> 
+            <li><a href="/veterans/faq.html#military">Military Personnel Records, FAQ (Includes DD 214/Separation Documents, Personnel Records, and/or Medical Records)</a></li> 
+            <li><a href="/veterans/faq.html">More FAQs</a></li> 
+           </ul> 
+          </div> 
+          <div class="nwidget ncallout boxed width100  " data-additional-classes="" data-alignment="" data-style="boxed" data-version="1" data-width="100"> 
+           <p><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen frameborder="0" height="152" src="https://www.youtube.com/embed/6WXQMiR5xxk" width="230"></iframe></p> 
+           <p>What happens when you submit a request? View our process.</p> 
+           <p><a href="https://www.youtube.com/watch?v=6WXQMiR5xxk">Enlarge video.</a></p> 
+          </div> 
+          <div class="nwidget ncallout highlighted width100  " data-additional-classes="" data-alignment="" data-style="highlighted" data-version="1" data-width="100"> 
+           <h3><strong>Notice:</strong></h3> 
+           <h4><a id="outage" name="outage"></a>eVetRecs, our on-line request system, will be undergoing scheduled maintenance during the following dates:</h4> 
+           <ul> 
+            <li>Saturday, June 1, 2019 from 3:00 pm - 8:00&nbsp;pm CST</li> 
+            <li>Monday, June 3, 2019 from 8:00 pm - 11:00&nbsp;pm CST</li> 
+            <li>Monday, June 17, 2019 from 8:00 pm - 11:00&nbsp;pm CST</li> 
+           </ul> 
+           <p>We regret any inconvenience this may cause. Requests can be submitted by Mail or Fax using the SF180.</p> 
+          </div> 
+          <p>&nbsp;</p> 
+         </aside> 
+         <!-- /#sidebar-second --> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <!-- page-body-wrapper --> 
+     <footer id="page-footer"> 
+      <div class="clearfix row last-update-wrapper "> 
+       <p id="last-update"> <span class="glyphicon glyphicon-edit"></span> This page was last reviewed on May 30, 2019.<br> <a href="/contact">Contact us with questions or comments</a>. </p> 
+      </div> 
+      <section id="mega-footer" class="clearfix panel-group"> 
+       <h2 class="footer-title"> Veterans’ Service Records </h2> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#service-records">Military Service Records</a></h2> 
+        </div> 
+        <div id="service-records" class="panel-collapse"> 
+         <ul>
+          <li><a href="/veterans/military-service-records/">Request Service Records</a></li> 
+          <li><a href="/veterans/military-service-records/correct-service-records">Correct Service Records</a></li> 
+          <li><a href="/veterans/military-service-records/medical-records">Medical and Health Records</a></li> 
+          <li><a href="/veterans/military-service-records/about-service-records">About Service Records</a></li> 
+          <li><a href="/veterans/military-service-records/record-request-notice">Special Notice Regarding Requests</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#military-research">Military Research</a></h2> 
+        </div> 
+        <div id="military-research" class="panel-collapse"> 
+         <ul>
+          <li><a href="/research/military/veterans/">Research Veterans Records</a></li> 
+          <li><a href="/research/military/veterans/online">Online Documents &amp; Research</a></li> 
+          <li><a href="/research/military/veterans/exhibits">Exhibits of Veterans Records</a></li> 
+          <li><a href="/research/military/genealogy">Genealogy &amp; Military Records</a></li> 
+          <li><a href="/research/military/veterans/links">Other Veterans Research Links</a></li> 
+          <li><a href="/research/military/">Research in Military Records</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#other">Other Veterans Resources</a></h2> 
+        </div> 
+        <div id="other" class="panel-collapse"> 
+         <ul>
+          <li><a href="/veterans/replace-medals">Replace Medals and Awards</a></li> 
+          <li><a href="/veterans/faq">Veterans FAQ</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#related">Related Sites</a></h2> 
+        </div> 
+        <div id="related" class="panel-collapse"> 
+         <ul>
+          <li><a href="/veterans/benefits">Veterans Benefits and Information</a></li> 
+          <li><a href="/veterans/locate-service-members">Locate Service Members</a></li> 
+          <li><a href="/veterans/employment-resources">Employment Resources</a></li> 
+         </ul>
+        </div> 
+       </div> 
+      </section> 
+      <section id="sub-footer"> 
+       <div class="region region-footer-bottom"> 
+        <section id="block-block-54" class="block block-block clearfix"> 
+         <h2> <a href="https://www.archives.gov/social-media/">Connect With Us</a></h2> 
+         <ul class="clearfix" id="social-media"> 
+          <li class="facebook" data-original-title="Facebook" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/facebook">Facebook</a></li> 
+          <li class="twitter" data-original-title="Twitter" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/twitter">Twitter</a></li> 
+          <li class="instagram" data-original-title="Instagram" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/instagram">Instagram</a></li> 
+          <li class="tumblr" data-original-title="Tumblr" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/tumblr">Tumblr</a></li> 
+          <li class="youtube" data-original-title="YouTube" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/youtube">YouTube</a></li> 
+          <li class="blogs" data-original-title="Blogs" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/blogs">Blogs</a></li> 
+          <li class="flickr" data-original-title="Flickr" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/flickr">Flickr</a></li> 
+         </ul> 
+         <p> </p> 
+         <p id="footer-links"> <a href="/contact/">Contact Us</a> · <a href="/global-pages/accessibility.html">Accessibility</a> · <a href="/global-pages/privacy.html">Privacy Policy</a> · <a href="/foia/">Freedom of Information Act</a> · <a href="/eeo/policy/complaint-activity.html">No FEAR Act</a> · <a href="http://www.usa.gov/">USA.gov</a></p> 
+         <p id="footer-phone">The U.S. National Archives and Records Administration<br> <a href="tel:1-866-272-6272">1-86-NARA-NARA or 1-866-272-6272</a></p> 
+        </section> 
+       </div> 
+      </section> 
+     </footer>
+     <!-- /page-footer --> 
+    </div> 
+    <script src="/sites/all/themes/nara/scripts/jquery.fancybox.pack.js" type="text/javascript"></script> 
+    <script src="/sites/all/themes/nara/scripts/helpers/jquery.fancybox-media.js" type="text/javascript"></script> 
+    <script src="/sites/all/themes/nara/scripts/helpers/jquery.fancybox-thumbs.js" type="text/javascript"></script> 
+    <script src="https://www.archives.gov/files/js/js_MRdvkC2u4oGsp5wVxBG1pGV5NrCPW3mssHxIn6G9tGE.js"></script> 
+   </div> 
+   <a class="back-to-top" href="#page-header" style="display: inline;">Top</a> 
+   <script>
+(function ($) {
+  // Original JavaScript code.
+$('.toc').toc({
+'selectors': 'h2:not(.element-invisible):not(.toc-block h2),h3',
+'container': '#main-col'
+});
+})(jQuery);
+
+//fix extra timeline object issue
+(function(){            
+  if(typeof Drupal.settings['timelineJS'] !== 'undefined'){      
+    timelinejs_arry = Drupal.settings['timelineJS'];
+    tmptimeline=[];
+    for (i = 0; i < timelinejs_arry.length-1; i++) {       
+      if(typeof timelinejs_arry[i]['processed'] !== 'undefined'){                        
+        tmptimeline.push(timelinejs_arry[i]);  
+      } 
+    }
+    Drupal.settings['timelineJS'] = tmptimeline;
+  }
+}());
+</script> 
+  </div> 
+  <!-- end -->   
+ </body>
+</html>

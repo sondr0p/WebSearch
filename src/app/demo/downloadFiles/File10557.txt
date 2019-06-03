@@ -1,0 +1,980 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js" lang="en" xml:lang="en">
+ <!--<![endif]-->
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <meta charset="utf-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+  <title>News &amp; Information — Central Intelligence Agency</title> 
+  <meta name="viewport" content="width=device-width">
+  <meta name="LastModified" content="May 31, 2019">
+  <meta content="Welcome to our News &amp; Information section. Here, you'll find: Press Releases &amp; Statements, Speeches &amp; Testimony, CIA &amp; The War on Terrorism, Featured Story Archive, What's New on CIA.gov
+
+" name="description"> 
+  <link rel="stylesheet" href="/++theme++contextual.agencytheme/css/jobcart.css"> 
+  <link rel="stylesheet" href="/++theme++contextual.agencytheme/css/smallscreen.css"> 
+  <link rel="stylesheet" href="/++theme++contextual.agencytheme/css/modules.css"> 
+  <!--[if lt IE 9]><link href="/++theme++contextual.agencytheme/css/fullscreen.css" rel="stylesheet" type="text/css"><![endif]--> 
+  <link href="/++theme++contextual.agencytheme/css/fullscreen.css" rel="stylesheet" type="text/css" media="only screen and (min-width: 993px)"> 
+  <script src="/++theme++contextual.agencytheme/js/modernizr.custom.73407.js"></script> 
+  <script type="text/javascript" src="/++theme++contextual.agencytheme/js/jquery-1.8.3.min.js"></script> 
+  <script type="text/javascript" src="/++theme++contextual.agencytheme/js/response.min.js"></script> 
+  <script type="text/javascript" src="/++theme++contextual.agencytheme/js/rwd.js"></script> 
+  <script type="text/javascript" src="/++theme++contextual.agencytheme/js/jquery.main.js"></script> 
+  <script type="text/javascript" src="/++theme++contextual.agencytheme/js/simpleCart.js"></script> 
+  <script type="text/javascript" src="/++theme++contextual.agencytheme/js/connect.js"></script> 
+  <!-- css files for popup --> 
+  <script>var isIElt9 = false;</script> 
+  <link href="/++theme++contextual.agencytheme/css/bootstrap_customized.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="/++theme++contextual.agencytheme/css/expand-collapse-2016.css" media="screen"> 
+  <!--[if lt IE 9]>
+    <script async src="/++theme++contextual.agencytheme/js/respond.min.js"></script>
+    <script async src="/++theme++contextual.agencytheme/js/html5shiv.min.js"></script>
+    <script>var isIElt9 = true;</script>
+<![endif]--> 
+  <!--   jquery code added for popup --> 
+  <script async src="/++theme++contextual.agencytheme/js/bootstrap_customized.min.js"></script> 
+  <!-- our public key --> 
+  <script async src="/js2/pubkey.js"></script> 
+  <!-- image preloading --> 
+  <script>
+  prePic = new Image();
+  prePic.src ="/++theme++contextual.agencytheme/images/separator-2.gif";
+  prePic2 = new Image();
+  prePic2.src="/++theme++contextual.agencytheme/images/arrow-5.gif";
+  prePic3 = new Image();
+  prePic3.src="/++theme++contextual.agencytheme/images/bg-heading-panel.jpg";
+  prePic4 = new Image();
+  prePic4.src="/++theme++contextual.agencytheme/images/heading-banners/CHI12052_Headers_contact.jpg";
+ </script> 
+  <script type="text/javascript" src="/++theme++contextual.agencytheme/js/expandcollapse.js"></script>
+  <script type="text/javascript" src="/++theme++contextual.agencytheme/js/jquery.history.js"></script>
+ </head> 
+ <body class="template-document_view portaltype-agencypage site-CIAgov section-news-information icons-on">
+  <div>
+   <noscript>
+    Javascript must be enabled for the correct page display
+   </noscript>
+   <div id="wrapper"> 
+    <header id="header"> 
+     <div class="header-holder"> 
+      <a class="skip" accesskey="S" href="#main-content">skip to content</a> 
+      <span class="bg-globe"></span> 
+      <div class="header-panel"> 
+       <hgroup> 
+        <h1 class="logo"><a href="/"><img src="/++theme++contextual.agencytheme/images/logo.png" alt="Central Intelligence Agency"><span>Central Intelligence Agency</span></a></h1> 
+        <h2 class="work-text">The Work Of A Nation. The Center of Intelligence.</h2> 
+       </hgroup> 
+       <div class="search-form"> 
+        <div class="row"> 
+         <div class="add-nav"> 
+          <ul> 
+           <li><a title="Report Information" class="active reportTrigger" href="/contact-cia/report-information.html">Report Information</a></li> 
+           <li style="display:none;"><a title="Iraqi Rewards Program" href="/about-cia/iraqi-rewards-program.html">?????????</a></li> 
+           <li><a title="A single point of contact for all CIA inquiries." class="landingTrigger" href="/contact-cia">Contact</a></li> 
+          </ul> 
+         </div> 
+        </div> 
+        <div class="row"> 
+         <form id="ciaSearchForm" method="get" action="/search"> 
+          <fieldset> 
+           <legend class="visuallyhidden">Search CIA.gov</legend> 
+           <label class="visuallyhidden" for="q">Search</label> 
+           <input name="q" type="text" class="text" id="q" maxlength="2047" placeholder="Search CIA.gov..."> 
+           <input type="hidden" name="site" value="CIA"> 
+           <input type="hidden" name="output" value="xml_no_dtd"> 
+           <input type="hidden" name="client" value="CIA"> 
+           <input type="hidden" name="myAction" value="/search"> 
+           <input type="hidden" name="proxystylesheet" value="CIA"> 
+           <input type="hidden" name="submitMethod" value="get"> 
+           <input type="submit" value="Search" class="submit"> 
+          </fieldset> 
+         </form> 
+        </div> 
+        <div class="row"> 
+         <ul class="lang-list"> 
+          <li lang="ar" xml:lang="ar"><a title="Arabic" href="/ar">????</a></li> 
+          <li lang="zh-cn" xml:lang="zh-cn"><a title="Chinese" href="/zh">??</a></li> 
+          <li lang="en" xml:lang="en"><a title="English" href="/">English</a></li> 
+          <li lang="fr" xml:lang="fr"><a title="French" href="/fr">Français</a></li> 
+          <li lang="ru" xml:lang="ru"><a title="Russian" href="/ru">???????</a></li> 
+          <li lang="es" xml:lang="es"><a title="Spanish" href="/es">Español</a></li> 
+          <li><a title="More Languages" alt="More Languages" class="more" href="/foreign-languages">More<span class="visuallyhidden"> Languages</span></a></li> 
+         </ul> 
+        </div> 
+       </div> 
+      </div> 
+      <nav id="nav"> 
+       <h3 class="visuallyhidden">Navigation</h3> 
+       <ul>
+        <li class=""><a class="" title="" href="/"> <span>Home</span> </a></li> 
+        <li class=""><a class="hasChildrens" title="About CIA Description" href="/about-cia"> <span>About CIA</span> </a>
+         <div class="drop">
+          <ul class="globalSectionsLevel1 show-static"> 
+           <li class="plain "> <a class="" title="" href="/about-cia/todays-cia"> <span>Today's CIA</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/about-cia/leadership"> <span>Leadership</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/about-cia/cia-vision-mission-values"> <span>CIA Vision, Mission, Ethos &amp; Challenges</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/about-cia/headquarters-tour"> <span>Headquarters Tour</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/about-cia/cia-museum"> <span>CIA Museum</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/about-cia/history-of-the-cia"> <span>History of the CIA</span> </a> </li> 
+           <li class="plain "> <a class="" title="Publications Review Board" href="/about-cia/publications-review-board"> <span>Publications Review Board</span> </a> </li> 
+           <li class="plain "> <a class="" title="Accessibility " href="/about-cia/accessibility"> <span>Accessibility</span> </a> </li> 
+           <li class="plain "> <a class="" title="Privacy and Civil Liberties" href="/about-cia/privacy-and-civil-liberties"> <span>Privacy and Civil Liberties</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/about-cia/faqs"> <span>FAQs</span> </a> </li> 
+           <li class="plain "> <a class="" title="Note - link to the No Fear Act parent page, which is housed under EEO" href="/about-cia/no-fear-act"> <span>No FEAR Act</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/about-cia/site-policies"> <span>Site Policies</span> </a> </li> 
+          </ul>
+          <div class="static">
+           <img alt="About Menu" class="image-inline" title="About Menu" src="/images/section-banners/about-menu/image.jpg"> 
+           <h4><a href="/about-cia/">About CIA</a></h4> 
+           <p>Discover the CIA <a href="/about-cia/">history, mission, vision and values</a>.</p>
+          </div>
+          <div class="visualClear">
+           <!-- -->
+          </div>
+         </div></li> 
+        <li class=""><a class="hasChildrens" title="" href="/careers"> <span>Careers &amp; Internships</span> </a>
+         <div class="drop">
+          <ul class="globalSectionsLevel1 show-static"> 
+           <li class="plain "> <a class="" title="" href="/careers/opportunities"> <span>Career Opportunities</span> </a> </li> 
+           <li class="plain "> <a class="" title="This is the student profile page for candidates looking for jobs/ job listings at the CIA. Student Opportunities - Student Profiles" href="/careers/student-opportunities"> <span>Student Opportunities</span> </a> </li> 
+           <li class="plain "> <a class="" title="CIA careers - language opportunities
+
+This is the language opportunities landing page for candidates looking for jobs/job listings at the CIA. Language Opportunities - Landing Page
+" href="/careers/language-opportunities"> <span>Language Opportunities</span> </a> </li> 
+           <li class="plain "> <a class="" title="How to apply to the CIA." href="/careers/application-process"> <span>Application Process</span> </a> </li> 
+           <li class="plain "> <a class="" title="This is the about CIA section of the Careers Site" href="/careers/life-at-cia"> <span>Life at CIA</span> </a> </li> 
+           <li class="plain "> <a class="" title="Every career at the CIA is a rewarding one. In addition to serving your country with the certainty that your work makes a difference, the CIA offers a comprehensive benefits package to reflect the dedication and contributions of our employees." href="/careers/benefits.html"> <span>Benefits</span> </a> </li> 
+           <li class="plain "> <a class="" title="This is the diversity information for the Careers Site" href="/careers/diversity"> <span>Diversity</span> </a> </li> 
+           <li class="plain "> <a class="" title="Your prior military service could qualify you to continue to serve your nation at the Central Intelligence Agency. Opportunities for qualified applicants are available in the U.S. and abroad." href="/careers/military-transition"> <span>Military Transition</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/careers/games-information"> <span>Tools and Challenges</span> </a> </li> 
+           <li class="plain "> <a class="" title="Frequently Asked Questions/ FAQ for a Career at the CIA in the Careers Section" href="/careers/faq"> <span>FAQs</span> </a> </li> 
+           <li class="plain "> <a class="" title="Repository of CIA videos" href="/careers/video-center"> <span>Video Center</span> </a> </li> 
+          </ul>
+          <div class="static">
+           <img alt="Careers Menu" class="image-inline" title="Careers Menu" src="/images/section-banners/careers-menu/image.jpg"> 
+           <h4><a href="/careers/">Careers &amp; Internships</a></h4> 
+           <p>Your talent. Your diverse skills. Our mission. Learn more about <a href="/careers/">Career Opportunities at CIA</a>.</p>
+          </div>
+          <div class="visualClear">
+           <!-- -->
+          </div>
+         </div></li> 
+        <li class=""><a class="hasChildrens" title="" href="/offices-of-cia"> <span>Offices of CIA</span> </a>
+         <div class="drop">
+          <ul class="globalSectionsLevel1 show-static"> 
+           <li class="plain "> <a class="" title="" href="/offices-of-cia/intelligence-analysis"> <span>Intelligence &amp; Analysis</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/offices-of-cia/clandestine-service"> <span>Clandestine Service</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/offices-of-cia/science-technology"> <span>Science &amp; Technology</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/offices-of-cia/mission-support"> <span>Support to Mission</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/offices-of-cia/digital-innovation"> <span>Digital Innovation</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/offices-of-cia/mission-centers"> <span>Mission Centers</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/offices-of-cia/human-resources"> <span>Human Resources</span> </a> </li> 
+           <li class="plain "> <a class="" title="Public Affairs" href="/offices-of-cia/public-affairs"> <span>Public Affairs</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/offices-of-cia/general-counsel"> <span>General Counsel</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/offices-of-cia/equal-employment-opportunity"> <span>Equal Employment Opportunity</span> </a> </li> 
+           <li class="plain "> <a class="" title="Office of Congressional Affairs" href="/offices-of-cia/congressional-affairs"> <span>Congressional Affairs</span> </a> </li> 
+           <li class="plain "> <a class="" title="Inspector General" href="/offices-of-cia/inspector-general"> <span>Inspector General</span> </a> </li> 
+           <li class="plain "> <a class="" title="Military Affairs" href="/offices-of-cia/military-affairs"> <span>Military Affairs</span> </a> </li> 
+          </ul>
+          <div class="static">
+           <img alt="Offices Menu" class="image-inline" title="Offices Menu" src="/images/section-banners/offices-menu/image.jpg"> 
+           <h4><a href="/offices-of-cia/">Offices of CIA</a></h4> 
+           <p><a href="/offices-of-cia/">Learn how the CIA is organized</a> into directorates and key offices, responsible for securing our nation.</p>
+          </div>
+          <div class="visualClear">
+           <!-- -->
+          </div>
+         </div></li> 
+        <li class="
+                   active
+               "><a class="hasChildrens" title="News &amp; Information Description" href="/news-information"> <span>News &amp; Information</span> </a><span class="arrow"></span>
+         <div class="drop">
+          <ul class="globalSectionsLevel1 show-static"> 
+           <li class="plain "> <a class="" title="" href="/news-information/blog"> <span>Blog</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/news-information/press-releases-statements"> <span>Press Releases &amp; Statements</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/news-information/speeches-testimony"> <span>Speeches &amp; Testimony</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/news-information/cia-the-war-on-terrorism"> <span>CIA &amp; the War on Terrorism</span> </a> </li> 
+           <li class="plain "> <a class="" title="index for featured story" href="/news-information/featured-story-archive"> <span>Featured Story Archive</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/news-information/your-news"> <span>Your News</span> </a> </li> 
+          </ul>
+          <div class="static">
+           <img alt="News Menu" class="image-inline" title="News Menu" src="/images/section-banners/news-menu/image.jpg"> 
+           <h4><a href="/news-information/">News &amp; Information</a></h4> 
+           <p>The most up-to-date CIA <a href="/news-information/">news, press releases, information and more</a>.</p>
+          </div>
+          <div class="visualClear">
+           <!-- -->
+          </div>
+         </div></li> 
+        <li class=""><a class="hasChildrens" title="" href="/library"> <span>Library</span> </a>
+         <div class="drop right">
+          <ul class="globalSectionsLevel1 show-static"> 
+           <li class="plain "> <a class="" title="" href="/library/publications"> <span>Publications</span> </a> </li> 
+           <li class="plain "> <a class="" title="CSI section" href="/library/center-for-the-study-of-intelligence"> <span>Center for the Study of Intelligence</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/library/readingroom"> <span>Freedom of Information Act Electronic Reading Room</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/library/kent-center-occasional-papers"> <span>Kent Center Occasional Papers</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/library/intelligence-literature"> <span>Intelligence Literature</span> </a> </li> 
+           <li class="plain "> <a class="" title="Reports" href="/library/reports"> <span>Reports</span> </a> </li> 
+           <li class="plain "> <a class="" title="Related Links" href="/library/related-links.html"> <span>Related Links</span> </a> </li> 
+           <li class="plain "> <a class="" title="Repository of CIA videos" href="/library/video-center"> <span>Video Center</span> </a> </li> 
+          </ul>
+          <div class="static">
+           <img alt="Library Menu" class="image-inline" title="Library Menu" src="/images/section-banners/library-menu/image.jpg">
+           <h4><a href="/library/">Library</a></h4> 
+           <p>Our <a href="/library/">open-source library</a> houses the thousands of documents, periodicals, maps and reports released to the public.</p>
+          </div>
+          <div class="visualClear">
+           <!-- -->
+          </div>
+         </div></li> 
+        <li class=""><a class="hasChildrens" title="Kids' Page Description" href="/kids-page"> <span>Kids' Zone</span> </a>
+         <div class="drop right">
+          <ul class="globalSectionsLevel1 show-static"> 
+           <li class="plain "> <a class="" title="K-5th Grade" href="/kids-page/k-5th-grade"> <span>K-5th Grade</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/kids-page/6-12th-grade"> <span>6-12th Grade</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/kids-page/parents-teachers"> <span>Parents &amp; Teachers</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/kids-page/games"> <span>Games</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/kids-page/related-links"> <span>Related Links</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/kids-page/privacy-statement"> <span>Privacy Statement</span> </a> </li> 
+          </ul>
+          <div class="static">
+           <p><img alt="Kids Menu" class="image-inline" title="Kids Menu" src="/images/section-banners/kids-menu/image.jpg"></p> 
+           <h4><a href="/kids-page/">Kids' Zone</a></h4> 
+           <p><a href="/kids-page/">Learn more about the Agency</a> and find some top secret things you won't see anywhere else.</p>
+          </div>
+          <div class="visualClear">
+           <!-- -->
+          </div>
+         </div></li>
+       </ul> 
+      </nav> 
+     </div> 
+    </header> 
+    <div class="main-block"> 
+     <section id="main"> 
+      <div class="heading-panel"> 
+       <h1>News &amp; Information</h1> 
+      </div> 
+      <div class="main-holder threecol"> 
+       <div id="sidebar"> 
+        <nav class="sidebar-nav"> 
+         <h2 class="visuallyhidden">Secondary Navigation</h2> 
+         <ul> 
+          <li class="navTreeItem navTreeTopNode navTreeCurrentNode"> <a class="contenttype-agencyfolder navTreeCurrentItem" title="News &amp; Information Description" href="/news-information"> News &amp; Information </a> </li> 
+          <li class="navTreeItem visualNoMarker navTreeFolderish section-blog"> <a class="state-published navTreeFolderish contenttype-agencyfolder" title="" href="/news-information/blog"> Blog </a> </li> 
+          <li class="navTreeItem visualNoMarker navTreeFolderish section-press-releases-statements"> <a class="state-published navTreeFolderish contenttype-agencyfolder" title="" href="/news-information/press-releases-statements"> Press Releases &amp; Statements </a> </li> 
+          <li class="navTreeItem visualNoMarker navTreeFolderish section-speeches-testimony"> <a class="state-published navTreeFolderish contenttype-agencyfolder" title="" href="/news-information/speeches-testimony"> Speeches &amp; Testimony </a> </li> 
+          <li class="navTreeItem visualNoMarker navTreeFolderish section-cia-the-war-on-terrorism"> <a class="state-published navTreeFolderish contenttype-agencyfolder" title="" href="/news-information/cia-the-war-on-terrorism"> CIA &amp; the War on Terrorism </a> </li> 
+          <li class="navTreeItem visualNoMarker navTreeFolderish section-featured-story-archive"> <a class="state-published navTreeFolderish contenttype-agencyfolder" title="index for featured story" href="/news-information/featured-story-archive"> Featured Story Archive </a> </li> 
+          <li class="navTreeItem visualNoMarker navTreeFolderish section-your-news"> <a class="state-published navTreeFolderish contenttype-agencyfolder" title="" href="/news-information/your-news"> Your News </a> </li> 
+         </ul> 
+        </nav> 
+        <div id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f434941676f760a6e617669676174696f6e" class="portletWrapper kssattr-portlethash-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f434941676f760a6e617669676174696f6e" data-portlethash="706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f434941676f760a6e617669676174696f6e"> 
+        </div>
+       </div> 
+       <div id="content"> 
+        <ul class="breadcrumbs"> 
+         <li><a href="/">Home</a></li>
+         <li>News &amp; Information</li> 
+        </ul> 
+        <article class="description-box"> 
+         <a id="main-content" tabindex="-1">&nbsp;</a> 
+         <div class="text-holder">
+          <!-- AddThis Button BEGIN -->
+          <div class="addthis_toolbox addthis_default_style addthis_16x16_style"> 
+           <a class="addthis_button_facebook"></a> 
+           <a class="addthis_button_twitter"></a> 
+           <a class="addthis_button_google_plusone_share"></a> 
+           <a class="addthis_button_pinterest_share"></a> 
+           <a class="addthis_button_email"></a> 
+           <a class="addThisrssLink" href="/news-information/your-news"><img title="Subscribe to RSS" src="/++theme++contextual.agencytheme/images/icon_rss.gif" alt="Rss Feed"></a> 
+           <a class="addthis_button_compact"></a> 
+          </div>
+          <script type="text/javascript">
+                var addthis_config =
+                {  data_track_addressbar: false,
+                   ui_508_compliant: true,
+                   services_compact: 'digg,instapaper,linkedin,reddit,stumbleupon,tumblr,blogger',
+                   data_track_clickback: false,
+                   data_use_cookies: false,
+                   services_exclude: 'amenme,spruzer',
+                   ui_click: true
+                }
+                var addthis_share = {
+                  templates : {
+                   twitter : "{{title}} {{url}} "
+                  }
+                }
+                </script>
+          <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52322787108634ce"></script>
+          <!-- AddThis Button END -->
+          <br> 
+          <div id="viewlet-above-content"> 
+          </div> 
+          <div class=""> 
+           <div id="content"> 
+            <!--KW
+                <h1 metal:define-macro="title-field-view"
+                    tal:define="kss_class python:getKssClasses('title',
+                                templateId='kss_generic_macros', macro='title-field-view');"
+                    id="parent-fieldname-title"
+                    tal:attributes="class string:documentFirstHeading$kss_class;">
+                    <span metal:define-slot="inside"
+                          tal:replace="context/Title">title</span>
+                </h1>
+--> 
+            <h1>News &amp; Information</h1> 
+            <div id="content-core"> 
+             <div id="parent-fieldname-text-33397df6d85ce539eb522331efefca52" class=""> 
+              <div class="gallery newsandinfo"> 
+               <div class="info-box">
+                CIA Presents at SXSW in Austin, Texas!
+                <br>
+                <b><span class="internal-link"> </span></b> 
+                <p><b><span class="rss news internal-link">Blog Post</span></b></p> 
+                <p><span class="internal-link">What do wombats, wolves, wood ducks, &amp; otters have to do with the CIA? They each represent a creativity tool and technique presented by our creative thinking instructors at South by Southwest (SXSW) 2019. #CIAWombat </span></p> 
+                <a class="btn3 internal-link" href="/news-information/blog/2019/cia-at-sxsw-conference-and-festival.html">Read More</a>
+               </div> 
+               <img alt="" class="image-inline" title="" src="/news-information/blog/2019/images-1/CIA_wombat_spy.jpg/c763e64c-d520-4a8e-a851-8bd2bfb52297.jpeg">
+              </div> 
+              <h1>What's New on CIA.gov</h1> 
+              <ul class="topic_list"></ul> 
+              <p>&nbsp;</p> 
+              <h3>May 2019</h3> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">May 30, 2019</a></b> - <i>World Factbook: </i>Caves are an interesting and amazingly varied component of the earth's crust. The World Factbook has added Ten Cave Superlatives to its 'World' entry (under Geography&gt;Terrain) to help you get a feel for the diversity of caves. Check it out and enjoy.</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/13">May 28, 2019</a></b> - Artifact of the Week: Digital X-Ray Detector Panel </p>
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">May 23, 2019</a></b> - <i>World Factbook: </i>Can you name the five countries that have one-syllable names? Hint: they begin with the initials C, F, G, L, and S. </p> 
+              <p><strong><a class="internal-link" href="/news-information/press-releases-statements/2019-press-releases-statements/cia-pays-tribute-to-its-fallen-in-annual-memorial-ceremony.html">May 21, 2019</a></strong> - CIA Pays Tribute to Its Fallen in Annual Memorial Ceremony</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/35">May 21, 2019</a></b> - Artifact of the Week: President Eisenhower Trowel</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">May 16, 2019</a></b> - <i>World Factbook: </i>Although The World Factbook no longer appears in a printed format, annual editions - from 2000 onward - are available online and may be accessed on this site by two pathways. Visitors can click on THE WORLD FACTBOOK ARCHIVE in the upper right portion of any page on the website. Alternatively, the ARCHIVE may be accessed by visiting the Gallery of Covers, under the References tab, and clicking on any of the years that appear highlighted (blue).</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/211">May 14, 2019</a></b> - Artifact of the Week: Bolo Knife with Leather Sheath</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">May 10, 2019</a></b> - <i>World Factbook: </i>For the first time in over a decade, a new appendix has been added to The World Factbook. Appendix H: Strategic Materials lists all of the compounds, metals, non-metals, and rare earth elements deemed to be of critical importance to US national security. The appendix consolidates much of the information that already appears in individual country 'natural resources' and 'economy' entries into a convenient one-stop source. Additionally, much supplementary data is included.</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">May 9, 2019</a></b> - <i>World Factbook: </i>For the first time in over a decade, a new appendix has been added to The World Factbook. Appendix H: Strategic Materials lists all of the compounds, metals, non-metals, and rare earth elements deemed to be of critical importance to US national security. The appendix consolidates much of the information that already appears in individual country 'natural resources' and 'economy' entries into a convenient one-stop source. Additionally, much supplementary data is included.</p> 
+              <p><a class="internal-link" href="/news-information/press-releases-statements/2019-press-releases-statements/ciagov-over-tor.html"><b><span class="internal-link">May 7, 2019</span></b></a> - CIA’s Latest Layer: An Onion Site</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/47">May 7, 2019</a></b> - Artifact of the Week: Al-Qa’ida Training Manual</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">May 2, 2019</a></b> - <i>World Factbook: </i>Last year the CIA's sister agency, the National Geospatial-Intelligence Agency (NGA), produced a very well-received Africa Atlas. The NGA has allowed most of the maps from that Atlas to be used on The World Factbook's website. They were recently added and may be found under the References tab&gt;Regional and World Maps.</p> 
+              <p><b><a class="internal-link" href="/news-information/blog/2019/ask-molly-may-2-2019.html">May 2, 2019</a> </b>- Ask Molly Q&amp;A<b><br></b></p> 
+              <p><a class="internal-link" href="/news-information/featured-story-archive/2019-featured-story-archive/transparency-at-cia.html"><strong>May 1, 2019</strong></a> - Transparency at CIA</p> 
+              <h3>April 2019</h3> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/170">April 30, 2019</a></b> - Artifact of the Week: Operation JAWBREAKER Knife</p> 
+              <p><b><a class="internal-link" href="/news-information/blog/2019/cia-celebrates-20th-anniversary-of-becoming-the-george-bush-center-for-intelligence.html">April 26, 2019 </a>- </b>CIA Celebrates 20th Anniversary of Becoming the George Bush Center for Intelligence</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">April 25, 2019</a></b> - <i>World Factbook: </i>The Antarctica entry has been extensively updated with information provided by the Department of State's Bureau of Oceans and International Environmental and Scientific Afffairs (OES). Included are the latest available figures on deployed staff at Antarctic field stations, and information on Antarctic governance (treaty updates), economic activities (fishing and tourism), natural resources, and environmental issues.</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/83">April 23, 2019</a></b> - Artifact of the Week: William J. Donovan's Boots</p> 
+              <p><b><span class="internal-link"><a class="internal-link" href="/news-information/blog/2019/DCIA-haspel-visits-auburn.html">April 19, 2019</a> - </span></b><span class="internal-link">DCIA Haspel Visits Auburn University (blog and video)</span><b><span class="internal-link"><br></span></b></p> 
+              <p><b><a class="internal-link" href="/news-information/speeches-testimony/2019-speeches-testimony/dcia-haspel-auburn-university-speech.html"><span class="internal-link">April 18, 2019</span></a> - </b>CIA Director Gina Haspel Speaks at Auburn University<b><br></b></p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">April 18, 2019</a></b> - <i>World Factbook: </i>Did you know that despite Madagascar's close proximity to the African continent, ocean currents isolate the island (the world's fourth largest) resulting in high rates of endemic plant and animal species. Approximately 90% of the flora and fauna on the island are found nowhere else on earth. Just recently, five new miniaturized frog species were discovered, the largest of which can sit on a thumbnail with room to spare and the smallest of which is about the size of a grain of rice.</p> 
+              <p><b><a class="internal-link" href="/news-information/blog/2019/women-in-intel-maria-gulovich.html">April 16, 2019</a> - </b>Women in Intel: Maria Gulovich<b><br></b></p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">April 16, 2019</a></b> - <i>World Factbook: </i>In response to the US recognition of Israel's claim to the Golan Heights on 25 March 2019, The World Factbook has updated all of its maps that show that portion of the Middle East.</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/74">April 16, 2019</a></b> - Artifact of the Week: Office of Strategic Services Patch (Replica)</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">April 12, 2019</a></b> - <i>World Factbook: </i>The east central African country of Burundi recently announced that it would make Gitega the political capital of the country, while Bujumbura, the former capital, would remain its economic capital. All branches of the government are expected to have moved from Bujumbura to Gitega by 2021. Gitega had been the capital of the Kingdom of Burundi up to 1966, when the country became a republic.</p> 
+              <p><b><a class="internal-link" href="/news-information/blog/2019/ask-molly-april-11-2019.html">April 11, 2019</a> </b>- Ask Molly Q&amp;A<b><br></b></p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/107">April 9, 2019</a></b> - Artifact of the Week: Les Marguerites Fleuriront ce Soir</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">April 4, 2019</a></b> - <i>World Factbook: </i>In the People and Society category, "Age structure" field, the accompanying Population Pyramid has been updated for every country with the latest estimated numbers for 2018.</p> 
+              <p><b><a class="internal-link" href="/news-information/blog/2019/women-intel-elizabeth-sudmeier.html"><span class="internal-link">April 3, 2019</span></a> - </b>Women in Intel: Elizabeth Sudmeier<b><br></b></p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/94">April 2, 2019</a></b> - Artifact of the Week: William J. Donovan's Razor and Case</p> 
+              <h3>March 2019</h3> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">March 28, 2019</a></b> - <i>World Factbook: </i>On 20 March 2019, Kazakhstan changed the name of its capital city from Astana to Nur-Sultan in honor of its long-serving, recently retired president, Nursultan Nazarbayev. This is not the first time the city has had its name changed. Founded in 1830 as Akmoly, it became Akmolinsk in 1832, Tselinograd in 1961, Akmola in 1992, and Astana in 1998.</p> 
+              <p><b><a class="internal-link" href="/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/vol-63-no-1/index.html"><span class="internal-link">March 27, 2019</span></a> - </b><strong>The March 2019 unclassified issue of <em>Studies in Intelligence</em> Vol. 63, No. 1 is out!</strong> The issue contains articles on the unique challenges of improving intelligence on proliferation issues for policymakers; a history of a small “amateur” intelligence network formed in Japanese-occupied Indochina by expatriate citizens of the UK and the US, who filled a vacuum Allied intelligence, including OSS, could not fill; and a look at the evolution of intelligence organizations in Kenya since the days of British rule ended. Twenty-two books on intelligence are reviewed in this issue—16 of them in the always popular Intelligence Officer’s Bookshelf. The full issue is also available in PDF [<a class="internal-link" href="/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/vol-63-no-1/pdfs/Book-Studies_63-1_Mar2019.pdf"><span class="internal-link">2.4MB*</span></a>].</p> 
+              <p><b><a class="internal-link" href="/news-information/featured-story-archive/2019-featured-story-archive/the-intrepid-woman-betty-ann-lussier.html">March 26, 2019</a> - </b>The Intrepid Woman, Betty Ann Lussier<b><br></b></p> 
+              <p><b><a class="internal-link" href="/news-information/blog/2019/women-in-intel-betty-ann-lussier.html">March 26, 2019</a> - </b>Women in Intel: Betty Ann Lussier<b><br></b></p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/153">March 26, 2019</a></b> - Artifact of the Week: Elephant Counter</p> 
+              <p><b><span class="internal-link"><span class="internal-link"><a class="internal-link" href="/news-information/blog/2019/csis-michael-collins.html">March 25, 2019</a> - </span></span></b><span class="internal-link"><span class="internal-link">Michael Collins at CSIS</span></span></p> 
+              <p><b><span class="internal-link"><a class="internal-link" href="/news-information/blog/2019/ask-molly-march-22-2019.html"><span class="internal-link">March 22, 2019</span></a> - </span></b><span class="internal-link">Ask Molly Q&amp;A</span><b><span class="internal-link"><br></span></b></p> 
+              <p><b><span class="internal-link"><a class="internal-link" href="/news-information/blog/2019/women-intel-virginia-hall.html">March 21, 2019</a> - </span></b>Women in Intel: Virginia Hall</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">March 21, 2019</a></b> - <i>World Factbook: </i>In the Economy section for the five world oceans - the Arctic, Atlantic, Indian, Pacific, and Southern Oceans - a new "Marine fisheries" entry has been added that lists and describes the major fishing regions, the total tonnage caught, as well as the principal fish catches.</p> 
+              <p><b><a class="internal-link" href="/news-information/blog/2019/women-intel-betty-mcintosh.html">March 19, 2019</a> - </b>Women in Intel: "Spy Girl" Betty McIntosh<b><br></b></p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/190">March 19, 2019</a></b> - Artifact of the Week: Paratrooper's M2 Pocket Knife</p> 
+              <p><b><span class="internal-link"><a class="internal-link" href="/news-information/blog/2019/ask-molly-march-18-2019.html">March 18, 2019</a> - </span></b><span class="internal-link">Ask Molly Q&amp;A</span><b><span class="internal-link"><br></span></b></p> 
+              <p><b><a class="internal-link" href="/news-information/press-releases-statements/2019-press-releases-statements/cia-announces-new-dcoo.html"><span class="internal-link">March 18, 2019</span></a> - </b>CIA Announces New Deputy Chief Operating Officer: John G. Edwards</p> 
+              <p><b><a class="internal-link" href="/news-information/blog/2019/women-intel-marion-frieswyk.html">March 15, 2019</a> - </b>Women in Intel: Marion Frieswyk</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">March 14, 2019</a></b> - <i>World Factbook: </i>Where is the Kalahari Desert? You can find out by going to the Appendices tab&gt;Appendix F: Cross-Reference List of Geographic Names. Under the ‘K’ entries you’ll discover the answer.</p> 
+              <p><b><a class="internal-link" href="/news-information/blog/2019/cia-at-sxsw-conference-and-festival.html">March 13, 2019</a> - </b>CIA Secrets to Creative Problem Solving at SXSW<b><br></b></p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">March 13, 2019</a></b> - <i>World Factbook: </i>Where in the Kalahari Desert? You can find out by going to the Appendices tab&gt;Appendix F: Cross-Reference List of Geographic Names. Under the ‘K’ entries you’ll discover the answer.</p> 
+              <p><b><a class="internal-link" href="/news-information/blog/2019/women-intel-captain-czech.html">March 12, 2019</a> - </b>Women in Intel: Captain Czech</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/222">March 12, 2019</a></b> - Artifact of the Week: $20 Gold Coin Minted in 1858</p> 
+              <p><b><a class="internal-link" href="/news-information/blog/2019/ask-molly-march-07-2019.html">March 7, 2019</a></b><strong> - </strong>Ask Molly Q&amp;A<b><br></b></p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">March 6, 2019</a></b> - <i>World Factbook: </i>Have you ever wondered where the hottest, coldest, driest, or wettest places in the world were located? Look no further than the World&gt;Geography&gt;"Climate" entry to find out. New subfields for the earth's ten driest, wettest, coldest, and hottest locales were recently added.</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/134">March 5, 2019</a></b> - Artifact of the Week: Woodsman's Pal Knife</p> 
+              <h3>February 2019</h3> 
+              <p><b><span class="internal-link"><span class="internal-link"><span class="internal-link"><a class="internal-link" href="/news-information/blog/2019/ask-molly-february-28-2019.html">February 28, 2019</a></span></span></span> - </b>Ask Molly Q&amp;A<b><br></b></p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">February 27, 2019</a></b> - <i>World Factbook: </i>The World Factbook has added seven new continent area comparison maps to its 'World' entry under "Area - comparative." Each of these interesting maps compares the United States to one of the world's seven continents. Check them out, the relative sizes of the land areas may surprise you.</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/63">February 26, 2019</a></b> - Artifact of the Week: DCI Allen W. Dulles's Stamps</p> 
+              <p><b><a class="internal-link" href="/news-information/blog/2019/ask-molly-february-22-2019.html"><span class="internal-link"><span class="internal-link"><span class="internal-link">February 22, 2019</span></span></span></a> - </b>Ask Molly Q&amp;A<b><br></b></p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">February 21, 2019</a></b> - <i>World Factbook: </i>The Bosporus is one of the world's most strategic waterways; it is the strait that separates Europe to the west from Asia to the east. Istanbul (formerly Constantinople), one of the great historic cities of the world, straddles the Bosporus; it is the only metropolis in the world located on two continents. Can you identify the two bodies of water that the Bosporus connects? Consulting the map of Turkey will reveal the answer.</p> 
+              <p><b><a class="internal-link" href="/news-information/blog/2019/to-catch-a-spy-25th-anniversary-of-the-aldrich-ames-arrest.html"><span class="internal-link"><span class="internal-link">February 19, 2019</span></span></a> - </b>To Catch a Spy: 25th Anniversary of the Aldrich Ames Arrest <b><br></b></p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/25">February 19, 2019</a></b> - Artifact of the Week: Subminiature "Dual Use" Camera</p> 
+              <p><b><a class="internal-link" href="/news-information/blog/2019/ask-molly-february-14-2019.html"><span class="internal-link">February 14, 2019</span></a> - </b>Ask Molly Q&amp;A<b><br></b></p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">February 14, 2019</a></b> - <i>World Factbook: </i>Greece and its northern neighbor Macedonia recently resolved a nearly-three-decade-old naming dispute in which both countries claimed historical rights to the name "Macedonia." The Republic of Macedonia agreed to change its name to the Republic of North Macedonia and this renaming was officially promulgated on 12 February 2019.</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/138">February 12, 2019</a></b> - Artifact of the Week: Miniature Volume of Pasternak's Doctor Zhivago</p> 
+              <p><b><a class="internal-link" href="/news-information/blog/2019/ask-molly-02-07-2019.html">February 7, 2019</a> - </b>Ask Molly Q&amp;A<b><br></b></p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">February 7, 2019</a></b> - <i>World Factbook: </i>Where is Tasmania? To find out, go to the Appendices tab&gt;Appendix F: Cross-Reference List of Geographic Names. Under the ‘T’ entries you’ll discover the answer.</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/64">February 5, 2019</a></b> - Artifact of the Week: A-12 Flight Suit Accoutrement</p> 
+              <p><strong><a class="internal-link" href="/news-information/blog/2019/ask-molly.html">February 4, 2019</a> -</strong> Have a Question About the CIA? #AskMollyHale!</p> 
+              <h3>January 2019</h3> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">January 31, 2019</a></b> - <i>World Factbook: </i>The "Area - comparative" field in the World&gt;Geography category contains many Top Ten rankings. Recently, listings for the Top Ten largest forested countries, the Top Ten most densely forested countries, and the Top Ten largest deserts were added to this field. Check it out.</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/83">January 29, 2019</a></b> - Artifact of the Week: William J. Donovan's Boots</p> 
+              <p><b><a class="internal-link" href="/news-information/blog/2019/honoring-the-legendary-tony-mendez.html">January 23, 2019</a> - </b>Honoring the Legendary Tony Mendez</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">January 23, 2019</a></b> - <i>World Factbook: </i>Lake Victoria, the world's largest tropical lake and the second largest fresh water lake, is shared among three countries. Can you name them? Consulting one of the Africa maps under the References tab&gt;Regional and World Maps will provide the answer.</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/38">January 22, 2019</a></b> - Artifact of the Week: Air America Pilot Cap</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">January 18, 2019</a></b> - <i>World Factbook: </i>The Yucatan Peninsula is a huge land body extending north from Central America that divides the Gulf of Mexico from the Caribbean Sea; it is shared by three countries. Can you name them? Various maps under the References tab will help you determine the answer.</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/51">January 15, 2019</a></b> - Artifact of the Week: The Man from U.N.C.L.E.</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">January 10, 2019</a></b> - <i>World Factbook: </i>These additional six common words - pains, plane, pure, rain, regalia, serial - can also be unscrambled to form the name of a country. How did you do?</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/80">January 8, 2019</a></b> - Artifact of the Week: Office of Strategic Services Compass</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">January 3, 2019</a></b> - <i>World Factbook: </i>Each of following six common words - also, chain, enemy, laity, mail, moan - can be unscrambled to form the name of a country. Did you get them all?</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/27">January 1, 2019</a></b> - Artifact of the Week: The Well Dressed Spy … Bodyworn Surveillance Equipment</p> 
+              <h3>December 2018</h3> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/24">December 25, 2018</a></b> - Artifact of the Week: Pigeon Camera</p> 
+              <p><a class="internal-link" href="/news-information/blog/2018/50-years-of-operation-santa-claus.html"><span class="internal-link"><b><span class="internal-link">December 21, 2018</span></b></span></a> - 50 Years of "Operation Santa Claus"</p> 
+              <p><a class="internal-link" href="/news-information/featured-story-archive/2018-featured-story-archive/a-day-in-the-life-of-a-cia-cyber-operations-officer.html"><span class="internal-link"><b>December 21, 2018</b></span></a> - A Day in the Life of a CIA Cyber Operations Officer</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/120">December 18, 2018</a></b> - Pan Am 103 Lapel Pin</p> 
+              <p><a class="internal-link" href="/news-information/blog/2018/sending-holiday-wishes-near-and-far.html"><b><span class="internal-link">December 17, 2018</span></b></a> - Sending Holiday Wishes Near and Far</p> 
+              <p><a class="internal-link" href="/news-information/featured-story-archive/2018-featured-story-archive/cia-spider-man.html"><span class="internal-link"><span class="internal-link"><b>December 14, 2018</b></span></span></a> - CIA “Spider-Man"</p> 
+              <p><a class="internal-link" href="/news-information/press-releases-statements/2018-press-releases-statements/fifth-installment-available-of-the-daily-summary-informing-president-truman.html"><span class="internal-link"><b>December 13, 2018</b></span></a> - Fifth Installment Available of “The Daily Summary: Informing President Truman"</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">December 13, 2018</a></b> - <i>World Factbook: </i>There are 11 countries whose names begin with an 'A'; all but two of them also end with an 'A'. Can you name the two 'A' countries that don't end with an 'A'?</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/185">December 11, 2018</a></b> - Handwritten Letter from Stalin’s Daughter</p> 
+              <p><span class="internal-link"><span class="internal-link"><span class="internal-link"><span class="internal-link"><b><span class="internal-link"> <a class="internal-link" href="/news-information/blog/2018/school-without-walls.html"><span class="internal-link">December 6, 2018</span></a></span></b></span></span></span></span> - School Without Walls</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">December 6, 2018</a></b> - <i>World Factbook: </i>All of the Energy numbers, including those for "Electricity," "Crude oil," "Refined petroleum products," "Natural gas," and "Carbon dioxide emissions from consumption of energy," have been updated with the latest data available.</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/54">December 4, 2018</a></b> - Artifact of the Week: Mine Probing Tool</p> 
+              <p><span class="internal-link"><span class="internal-link"><span class="internal-link"><span class="internal-link"><b><span class="internal-link"> <a class="internal-link" href="/news-information/blog/2018/honoring-the-legacy-of-george-h-w-bush2014the-11th-director-of-central-intelligence.html">December 1, 2018</a></span></b></span></span></span></span> - Honoring the Legacy of George H.W. Bush - the 11th Director of Central Intelligence</p> 
+              <p><span class="internal-link"><span class="internal-link"><span class="internal-link"><span class="internal-link"><span class="internal-link"><b><span class="internal-link"> <a class="internal-link" href="/news-information/featured-story-archive/2018-featured-story-archive/george-h-w-bush2014the-11th-director-of-central-intelligence.html">December 1, 2018</a></span></b></span></span></span></span></span> - George H.W. Bush - the 11th Director of Central Intelligence</p> 
+              <p><a class="internal-link" href="/news-information/press-releases-statements/2018-press-releases-statements/cia-remembers-former-director-former-president-george-h-w-bush.html"><span class="internal-link"><span class="internal-link"><span class="internal-link"><span class="internal-link"><b><span class="internal-link"> December 1, 2018</span></b></span></span></span></span></a> - CIA Remembers Former Director, Former President George H.W. Bush</p> 
+              <h3>November 2018</h3> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">November 29, 2018</a></b> - <i>World Factbook: </i>The number of countries by continent varies greatly. Africa has the most with 54; South America only has 12. To find out how many countries compose the other four inhabited continents (Asia, Europe, North America, and Oceania), and which countries appear on what continent, visit the 'World' entry and go to the Geography category&gt;countries by continent.</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/146">November 27, 2018</a></b> - Artifact of the Week: Concealed Compass</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">November 21, 2018</a></b> - <i>World Factbook: </i>While a number of countries around the world celebrate harvest festivals, several observe a special Thanksgiving holiday. Thanksgiving in the United States takes place on the fourth Thursday of November and typically includes a turkey dinner, with lots of trimmings.</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/49">November 20, 2018</a></b> - Artifact of the Week: Lapis Lazuli</p> 
+              <p><a class="internal-link" href="/news-information/press-releases-statements/2018-press-releases-statements/fourth-installment-available-of-daily-summary-informing-president-truman.html"><span class="internal-link"><span class="internal-link"><span class="internal-link"><b><span class="internal-link">November 14, 2018</span></b></span></span></span></a> - Fourth Installment Available of “The Daily Summary: Informing President Truman"</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">November 14, 2018</a></b> - <i>World Factbook: </i>Most maritime commercial cargo is containerized, and the distribution of container ports is a useful indicator of world maritime trade. The “Ports and terminals” entry in the Transportation section of the World entry has been updated to reflect the latest statistics on world container traffic.</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/90">November 13, 2018</a></b> - Artifact of the Week: William J. Donovan's Canteen</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">November 8, 2018</a></b> - <i>World Factbook: </i>This Sunday, 11 November 2018, marks the centenary of the end of World War I. At 0510 on 11 November 1918 on a railroad siding in the Forest of Compiègne in northern France, the German delegation signed the terms of the armistice that ended the fighting at exactly 1100 on that day.</p> 
+              <p><a class="internal-link" href="/news-information/featured-story-archive/2018-featured-story-archive/a-day-in-the-life-of-a-cia-stem-scholarship-student.html"><b>November 7, 2018</b></a> - A Day in the Life of a CIA STEM Scholarship Student</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/147">November 6, 2018</a></b> - Artifact of the Week: Argo Ads and Articles in Variety</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">November 1, 2018</a></b> - <i>World Factbook: </i>In the Government section, “Legislative branch” field, the ‘election results’ entry has been expanded for all European countries with the addition of text describing ‘composition,’ which tallies the number of men and women and the percent of women in unicameral and bicameral legislatures.</p> 
+              <h3>October 2018</h3> 
+              <p><a class="internal-link" href="/news-information/featured-story-archive/2018-featured-story-archive/spooky-stories-for-halloween.html"><b>October 31, 2018</b></a> - Spooky Stories for Halloween</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/130">October 30, 2018</a></b> - Artifact of the Week: Advanced Flaps and Seals Kit</p> 
+              <p><strong><a class="internal-link" href="/news-information/blog/2018/dcia-haspel-presented-with-the-2018-william-j-donovan-award.html">October 29, 2018</a></strong> - DCIA Haspel Presented with the 2018 William J. Donovan Award</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">October 25, 2018</a></b> - <i>World Factbook: </i>Did you know that The Sudd is a vast swamp in the north central region of South Sudan in Africa? Formed by the White Nile, its size varies but can reach some 15% of the countrys total area during the rainy season, making it is one of the worlds largest wetlands.</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/160">October 23, 2018</a></b> - Artifact of the Week: Letter from President Kennedy</p> 
+              <p><a class="internal-link" href="/news-information/featured-story-archive/2018-featured-story-archive/the-language-of-espionage.html"><b>October 22, 2018</b></a> - The Language of Espionage</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">October 18, 2018</a></b> - <i>World Factbook: </i>There are about a dozen countries in the world that have two capitals, but only one has three. Can you name this African country, a member of the Commonwealth of Nations?</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/131">October 16, 2018</a></b> - Artifact of the Week: Radio Receiver Concealment</p> 
+              <p><a class="internal-link" href="/news-information/press-releases-statements/2018-press-releases-statements/third-installment-available-of-daily-summary-informing-president-truman.html"><span class="internal-link"><b><span class="internal-link">October 15, 2018</span></b></span></a> - Third Installment Available of “The Daily Summary: Informing President Truman"</p> 
+              <p><span class="internal-link"><a class="internal-link" href="/news-information/blog/2018/national-disability-employment-awareness-month-at-cia.html"><strong><span class="internal-link"><span class="internal-link">October 11, 2018</span></span></strong></a> - National Disability Employment Awareness Month at CIA </span></p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">October 11, 2018</a></b> - <i>World Factbook: </i>The Black Sea, which lies between Europe and Asia, is bordered by six countries. Can you name them? Check your answer by consulting any one of a number of maps under the References tab.</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/175">October 9, 2018</a></b> - Artifact of the Week: Headphones with Bullet Strikes</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">October 4, 2018</a></b> - <i>World Factbook: </i>In the Military category, the “Maritime threats” entry, which covers seagoing piracy, was recently updated for all countries where these threats exist.</p> 
+              <p><span class="internal-link"><strong><a class="internal-link" href="/news-information/blog/2018/cia-director-gina-haspels-speech-at-the-university-of-louisville.html"><span class="internal-link">October 3, 2018</span></a></strong> - Director Gina Haspel's Speech at the University of Louisville</span></p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/117">October 2, 2018</a></b> - Artifact of the Week: Black Rhythm</p> 
+              <p><a class="internal-link" href="/news-information/featured-story-archive/2018-featured-story-archive/how-missile-detection-technology-helps-fight-breast-cancer.html"><b><span class="internal-link">October 1, 2018</span></b></a> - How Missile Detection Technology Helps Fight Breast Cancer</p> 
+              <h3>September 2018</h3> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">September 27, 2018</a></b> - <i>World Factbook: </i>In the Communications category, a new “Broadband – fixed subscriptions” field was recently added for all countries. Additionally, the data for “Telephones – fixed lines” and “Telephones – mobile cellular” has been updated.</p> 
+              <p><strong><a class="internal-link" href="/news-information/blog/2018/mi-17-jawbreaker-helicopter-arrives-at-cia-headquarters.html">September 26, 2018</a></strong> - Mi-17 JAWBREAKER Helicopter Arrives at CIA Headquarters</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/113">September 25, 2018</a></b> - Artifact of the Week: Cast of a Few, Courage of a Nation</p> 
+              <p><a class="internal-link" href="/news-information/speeches-testimony/2018-speeches-testimony/remarks-for-central-intelligence-agency-director-gina-haspel-mcconnell-center-at-the-university-of-louisville.html"><span class="internal-link"><b>September 24, 2018</b></span></a> - Speech: Director Haspel - McConnell Center at the University of Louisville</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">September 20, 2018</a></b> - <i>World Factbook: </i>The “Constitution” entries under the Government category for all Western Hemisphere countries have been expanded with the inclusion of a summary description of the procedure for amending a country’s constitution. Expanded “Constitution” entries are now complete for all of the world’s nations.</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/36">September 18, 2018</a></b> - Artifact of the Week: Truman Seal</p> 
+              <p><a class="internal-link" href="/news-information/press-releases-statements/2018-press-releases-statements/second-installment-available-of-daily-summary-informing-president-truman.html"><b><span class="internal-link">September 14, 2018</span></b></a> - Second Installment Now Available of “The Daily Summary: Informing President Truman"</p> 
+              <p><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html"><b>September 13, 2018</b></a> - <i>World Factbook: </i>This island country flies the only national flag in the world that consists solely of four horizontal color bands (many countries have three bands, some have five). Can you name this Indian Ocean country?</p> 
+              <p><a class="internal-link" href="/news-information/press-releases-statements/2018-press-releases-statements/cia-honors-victims-of-9-11-attacks.html"><b><span class="internal-link">September 11, 2018</span></b></a> - CIA Honors Victims of 9/11 Attacks</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/115">September 11, 2018</a></b> - Artifact of the Week: 9/11 Commendation Bar</p> 
+              <p><b><a class="internal-link" href="/news-information/featured-story-archive/2018-featured-story-archive/new-9-11-memorial-at-cia-headquarters.html">September 11, 2018</a> - </b>New 9/11 Memorial at CIA Headquarters</p> 
+              <p><b><a class="internal-link" href="/news-information/blog/2018/cia-unveils-memorial-to-agency-k9s.html">September 9, 2018</a> - </b>CIA Unveils Memorial to Agency K9s<b><br></b></p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">September 6, 2018</a></b> - <i>World Factbook: </i>This large island in the Indian Ocean supports a unique biota; about 90% of its plants and animals are found nowhere else on earth. Can you name this island – the world’s fourth largest – which is also a country?</p> 
+              <p><a class="internal-link" href="/news-information/featured-story-archive/2018-featured-story-archive/a-day-in-the-life-of-a-publications-officer.html"><b>September 5, 2018</b></a> - A Day in the Life of a Publications Officer</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/73">September 4, 2018</a></b> - Artifact of the Week: Office of Strategic Services Letter Removal Device</p> 
+              <h3>August 2018</h3> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">August 31, 2018</a></b> - <i>World Factbook: </i>Forty newly commissioned area comparison maps have been added to the website, meaning that most major countries of the world now are displayed in comparison to the United States. To see the relative size of a country shown superimposed over part of the US, go to the Geography section and check under “Area – comparative” (the fifth geography entry).</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/223">August 28, 2018</a></b> - Artifact of the Week: Uniform of OSS Col. William H. Pietsch, Jr.</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">August 23, 2018</a></b> - <i>World Factbook: </i>The Channel Islands, an archipelago in the British Channel off the coast of France, are composed of two Crown Dependencies. Can you name them? The answer may be found in Appendix F: Cross Reference List of Geographic names.</p> 
+              <p><b><a class="internal-link" href="/news-information/press-releases-statements/2018-press-releases-statements/director-haspel-announces-leadership-team.html">August 22, 2018</a> - </b>Director Haspel Welcomes Additions to Leadership Team</p> 
+              <p><b><a class="internal-link" href="/news-information/press-releases-statements/2018-press-releases-statements/message-from-director-haspel-new-chief-operating-officer.html">August 22, 2018</a> - </b>DCIA Message to the Workforce: New Chief Operating Officer</p> 
+              <p><b><a class="internal-link" href="/news-information/press-releases-statements/2018-press-releases-statements/message-from-the-director-sonya-holt-selected-to-serve-as-cia-chief-diversity-inclusion-officer.html">August 22, 2018</a> - </b>DCIA Message to the Workforce: Sonya Holt Selected to Serve as CIA’s Chief Diversity &amp; Inclusion Officer</p> 
+              <p><b><a class="internal-link" href="/news-information/featured-story-archive/2018-featured-story-archive/meet-our-new-deputy-director.html">August 22, 2018</a> - </b>Meet Our New Deputy Director<b><br></b></p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/33">August 21, 2018</a></b> - Artifact of the Week: Pneumatic Tube Carrier</p> 
+              <p><strong><a class="internal-link" href="/news-information/blog/2018/cia-hosts-tony-dungy-james-201cjb201d-brown-for-cia-speaker-series.html"><span class="internal-link">August 20, 2018</span></a></strong> - CIA Hosts Tony Dungy &amp; James “JB” Brown for CIA Speaker Series</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">August 16, 2018</a></b> - <i>World Factbook: </i>In the Economy category, the fields for “GDP (purchasing power parity),” “GDP (official exchange rate),” “GDP-real growth rate,” “GDP-per capita,” “Inflation rate,” “Public debt,” “Current account balance,” and “Gross national savings” were all recently updated.</p> 
+              <p><b><a class="internal-link" href="/news-information/press-releases-statements/2018-press-releases-statements/cia-kicks-off-201cthe-daily-summary-informing-president-truman201d-a-series-of-declassified-releases.html">August 15, 2018</a> - </b>CIA Kicks-off “The Daily Summary: Informing President Truman,” A Series of Declassified Releases</p> 
+              <p><b><a class="internal-link" href="/news-information/featured-story-archive/2018-featured-story-archive/top-10-cia-myths.html">August 14, 2018</a> - </b>Top 10 CIA Myths</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/103">August 14, 2018</a></b> - Artifact of the Week: Civil Air Transport Souvenir Bag</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">August 9, 2018</a></b> - <i>World Factbook: </i>Although Portugal is a small European country, it includes two prominent Atlantic archipelagos. Can you name them? Hint: Consulting any of The World Factbook’s World or Africa maps will quickly reveal the answer.</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/145">August 7, 2018</a></b> - Artifact of the Week: The Airmens Bond</p> 
+              <p><b><a class="internal-link" href="/news-information/featured-story-archive/2018-featured-story-archive/project-whale-tale-u-2-flights-off-aircraft-carriers.html">August 3, 2018</a> - </b>Project Whale Tale: U-2 Flights Off Aircraft Carriers</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">August 2, 2018</a></b> - <i>World Factbook: </i>Did you know that the earth has two massive ice sheets, one in Antarctica, the other in Greenland. The former, which covers 98% of the Antarctic continent, is the largest single mass of ice on the earth covering an area of 14 million square kilometers (5.4 million square miles). Check the References tab&gt;Regional and World Maps to peruse various maps that show the extent of the ice sheets.</p> 
+              <p><strong><a class="internal-link" href="/news-information/featured-story-archive/2018-featured-story-archive/wakandan-technology-today-a-cia-scientist-explores-the-possibilities.html">August 2, 2018</a> - </strong>Wakandan Technology Today: A CIA Scientist Explores the Possibilities</p> 
+              <p><a class="internal-link" href="/news-information/blog/2018/cia-hosts-inaugural-stem-camp-to-bolster-stem-recruitment.html"><strong>August 2, 2018</strong></a> - CIA Hosts Inaugural STEM Camp to Bolster STEM Recruitment</p> 
+              <p><strong><a class="internal-link" href="/news-information/press-releases-statements/2018-press-releases-statements/president-trump-announces-intent-to-appoint-vaughn-bishop-as-cia-deputy-director.html">August 1, 2018</a></strong> - President Trump Announces Intent To Appoint Veteran Agency Officer Vaughn F. Bishop as CIA Deputy Director</p> 
+              <h3>July 2018</h3> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/178">July 31, 2018</a></b> - Artifact of the Week: Skyhook Extraction Mechanism Instructions</p> 
+              <p><b><a class="internal-link" href="/news-information/blog/2018/that-time-cia-used-tiger-droppings-as-a-covert-tracking-device.html">July 26, 2018</a> - </b>That Time CIA Used Tiger Droppings as a Covert Tracking Device</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">July 26, 2018</a></b> - <i>World Factbook: </i>Did you know that there are four countries that make up the Horn of Africa, the eastern part of the continent that sticks out into the Indian Ocean? They are Somalia, Ethiopia, Eritrea, and Djibouti (the initials spell SEED). The Horn designation is derived from its shape being reminiscent of a rhinoceros horn. Check out the Africa maps under the References tab&gt;Regional and World Maps to see for yourself.</p> 
+              <p><b><a class="internal-link" href="/news-information/blog/2018/grab-first-signals-intelligence-satellite.html">July 25, 2018</a> - </b>GRAB: First Signals Intelligence Satellite<b><span class="blogDescription"><span class="state-published url"></span></span></b></p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/11">July 24, 2018</a></b> - Artifact of the Week: Belly Buster Drill</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">July 19, 2018</a></b> - <i>World Factbook: </i>The World Factbook Archives have been expanded and now include all the editions from 2000 to 2017. The Archives may be accessed by clicking on Download Publication in the upper right corner of the home page.</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/23">July 17, 2018</a></b> - Artifact of the Week: Minox B Camera</p> 
+              <p><b><a class="internal-link" href="/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/vol-62-no-2/index.html">July 16, 2018</a> - </b><strong>The latest issue of <em>Studies in Intelligence</em> is out!</strong> This issue of features articles on: intelligence today and tomorrow, historical perspectives on OSS, analysis of the 1967 Arab-Israeli War, intelligence in popular culture and media, and the always popular Intelligence Officer’s Bookshelf. Unclassified extracts from <i>Studies in Intelligence</i> Volume 62, Number 2 (June 2018) are also available in PDF [<a class="internal-link" href="/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/vol-62-no-2/pdfs/Studies-62-2-June-2018.pdf">4.3MB*</a>] <b></b></p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">July 12, 2018</a></b> - <i>World Factbook: </i>Newly redesigned special one-page country Summaries for the World Cup finalists – Croatia and France – may be found at the end of the introductory Background statement for those two countries. The Summaries highlight key World Cup information in addition to selected facts from The World Factbook.</p> 
+              <p><a class="internal-link" href="/news-information/featured-story-archive/2018-featured-story-archive/cia-makes-progress-on-women-in-leadership.html"><b>July 11, 2018</b></a> - CIA Makes Progress on Women in Leadership</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/126">July 10, 2018</a></b> - Artifact of the Week: Distortion Measuring Set</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">July 5, 2018</a></b> - <i>World Factbook: </i>Special World Cup one-page-country Summaries are available for the eight countries that have reached the quarter finals of the 2018 World Cup soccer tournament - Belgium, Brazil, Croatia, England (United Kingdom), France, Russia, Sweden, Uruguay. The Summaries are located at the end of the introductory Background statements for each of those countries.</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/194">July 3, 2018</a></b> - Artifact of the Week: Flag that Flew Above the Glomar Explorer</p> 
+              <h3>June 2018</h3> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">June 28, 2018</a></b> - <i>World Factbook: </i>Which of these countries – Belgium, Costa Rica, Croatia, Denmark, Serbia, or Switzerland – is the smallest participating in the World Cup tournament (by area)? Find the answer by going to the References tab and clicking on the Guide to Country Comparisons&gt;Geography&gt;Area.</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/124">June 26, 2018</a></b> - Artifact of the Week: FBIS Text Message Announcing Yugoslavian President Tito's Death</p> 
+              <p><a class="internal-link" href="/news-information/featured-story-archive/2018-featured-story-archive/cia-celebrates-pride-month.html"><b>June 25, 2018</b></a> - CIA Celebrates Pride Month</p> 
+              <p><b><a class="internal-link" href="/news-information/blog/2018/reel-vs-real-with-daniel-craig.html"><span class="internal-link">June 25, 2018</span></a> - </b> Daniel Craig Visits the Agency to Discuss the Reel vs Real of Espionage</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">June 21, 2018</a></b> - <i>World Factbook: </i>The five African nations competing at the ongoing soccer World Cup tournament in Russia – Egypt, Morocco, Nigeria, Senegal, and Tunisia – include two of the world’s most populous countries and three others with residents in excess of 11 million.</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/20">June 19, 2018</a></b> - Artifact of the Week: “Dead” Drop Spike</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">June 14, 2018</a></b> - <i>World Factbook: </i>The World Factbook is pleased to announce the addition of one-page country Summaries to its site. Links to 10 selected country Summaries – those of Afghanistan, Canada, China, France, Germany, Italy, Japan, North Korea, the United Kingdom, and the United States – may be found at the end of the introductory Background statement for each of those countries.</p> 
+              <p><b><a class="internal-link" href="/news-information/press-releases-statements/2018-press-releases-statements/cia-pays-tribute-to-its-fallen-in-annual-memorial-ceremony.html">June 12, 2018</a> - </b>CIA Pays Tribute to its Fallen in Annual Memorial Ceremony</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/217">June 12, 2018</a></b> - CIA Artifact of the Week: OSS Wax Seal Embosser</p> 
+              <p><b><a class="internal-link" href="/news-information/blog/2018/happy-birthday-president-bush.html">June 12, 2018</a> - </b>Happy Birthday, President Bush!<b><span class="blogDescription"><span class="state-published url"></span></span></b></p> 
+              <p><b><a class="internal-link" href="/news-information/press-releases-statements/2018-press-releases-statements/cia-releases-materias-about-president-george-h-w-bush.html">June 11, 2018</a> - </b>CIA Releases Material, Including Videos, About President George H.W. Bush</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">June 7, 2018</a></b> - <i>World Factbook: </i>In the People and Society category, “Urbanization” field, both of the subfields - for ‘urban population’ and ‘rate of urbanization’ - were recently updated for all countries.</p> 
+              <p><b class="internal-link"><a class="internal-link" href="/news-information/featured-story-archive/2018-featured-story-archive/a-day-in-the-life-of-a-cyber-threat-analyst.html">June 6, 2018</a> - </b><span class="topicDescription">A Day in the Life of a Cyber Threat Analyst</span></p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/18">June 5, 2018</a></b> - CIA Artifact of the Week: “Silver Dollar” Hollow Container</p> 
+              <p><a class="internal-link" href="/news-information/blog/2018/reel-vs-real-with-the-americans.html"><span class="internal-link"><span class="internal-link"><b>June 4, 2018</b></span></span></a> - Former CIA Officers Discuss the Reel vs. Real of Espionage with Cast, Creator of The Americans.<span class="blogDescription"><span class="state-published url"></span></span></p> 
+              <h3>May 2018</h3> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">May 31, 2018</a> - </b><i>World Factbook</i>: On 18 April 2018, the king of Swaziland announced his intention to change the internationally used name of his country to more closely reflect the Swazi-language form of the name. On 25 May 2018, the US Board on Geographic Names – Foreign Names Committee voted to approve the changes and they have now been incorporated into The World Factbook.</p> 
+              <p><b><a class="internal-link" href="/news-information/featured-story-archive/2018-featured-story-archive/reel-vs-real.html">May 30, 2018</a> - </b>CIA's "Reel vs Real" Event with Special Guests from FX's "The Americans." #ReelvsRealCIA</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/148">May 29, 2018</a></b> - CIA Artifact of the Week: Studio Six Productions Logo Items</p> 
+              <p><a class="internal-link" href="/news-information/featured-story-archive/2018-featured-story-archive/ian-fleming-the-man-behind-the-most-famous-spy.html"><span class="internal-link"><b>May 25, 2018</b></span></a> - Ian Fleming: The Man Behind the Most Famous Spy</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/29">May 22, 2018</a></b> - CIA Artifact of the Week: E Street Complex Sign with CIA Seal</p> 
+              <p><b><a class="internal-link" href="/news-information/blog/2018/gina-haspel-sworn-in-as-first-female-cia-director.html">May 21, 2018</a> - </b>Gina Haspel Sworn in as First Female CIA Director</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">May 16, 2018</a> - </b><i>World Factbook</i>: Many national flags exhibit either numerous stars or merely one star in their design. There are only four countries that prominently display just two stars on their flag. Can you identify them? Consult the References tab&gt;Flags of the World to determine the answer. Hint: Three of the four countries all begin with the same letter of the alphabet.</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/184">May 15, 2018</a></b> - CIA Artifact of the Week: Message from Moscow</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">May 10, 2018</a> - </b><i>World Factbook</i>: On Friday 4 May 2018 at 11:30 pm (23:30 hours), North Korea turned its clocks forward one-half hour to Saturday 5 May 12:00 midnight to align its time zone with that in South Korea. This time difference is 9 hours ahead of Coordinated Universal Time (UTC; formerly Greenwich Mean Time) and 14 hours ahead of Washington, DC. Time differences for every country in The World Factbook may be found in the Government category, “Capital” entry.</p> 
+              <p><b><a class="internal-link" href="/news-information/press-releases-statements/2018-press-releases-statements/gina-haspel-ssci-statement-for-the-record.html">May 9, 2018</a> - </b>Gina Haspel SSCI Statement for the Record</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/230">May 8, 2018</a></b> - CIA Artifact of the Week: Air America ID Card</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">May 3, 2018</a> - </b><i>World Factbook</i>: Although most of the length of the Amazon River passes through Brazil, that country is not the ultimate source of that river. Can you name the country where the Amazon originates? Hint: You can determine the answer by consulting either of the South America maps under the References tab&gt;Regional and World Maps.</p> 
+              <p><a class="internal-link" href="/news-information/featured-story-archive/2018-featured-story-archive/a-day-in-the-life-of-a-field-utility-systems-specialist.html"><b>May 2, 2018</b></a> - A Day in the Life of a Field Utility Systems Specialist</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/45">May 1, 2018</a></b> - CIA Artifact of the Week: U-2 Model used by Francis Gary Powers</p> 
+              <h3>April 2018</h3> 
+              <p><b><a class="internal-link" href="/news-information/press-releases-statements/2018-press-releases-statements/gina-haspel-assumes-role-of-acting-director-of-cia.html">April 26, 2018</a> </b>- Gina Haspel Assumes Role of Acting Director of the Central Intelligence Agency</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">April 26, 2018</a> - </b><i>World Factbook</i>: After almost six decades of rule by the Castro brothers – first Fidel and then Raul – Cuba on April 19th installed a new president, Miguel Diaz-Canel. Check the Government section, "Executive branch" entry to see other recently inaugurated or newly elected presidents including those of Armenia, Azerbaijan, Botswana, Costa Rica, Montenegro, Paraguay, and Sierra Leone.</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/176">April 24, 2018</a></b> - CIA Artifact of the Week: U-2 Pilot’s Partial Pressure Suit and Helmet</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">April 19, 2018</a> - </b><i>World Factbook</i>: Sunday April 22 will mark Earth Day, which was “born” in the United States in 1970 and is now observed in virtually every country on earth (192 of 195 countries by last count). Planet earth was “born” a very long time ago, see the “Geography – note” in the World entry to find out just how old the earth is. While in the World entry, check out the “Geographic overview” to learn a lot of additional fun facts about the earth.</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/127">April 17, 2018</a></b> - CIA Artifact of the Week: Sculpted Clay Ear</p> 
+              <p><b><a class="internal-link" href="/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/vol-62-no-1/index.html">April 12, 2018</a> - </b>New edition of <i>Studies in Intelligence</i>! Check out the unclassified extracts from the March 2018 issue of <i>Studies</i>: Volume 62, Number 1. There are over a dozen articles in this edition covering Historical Perspectives, Intelligence Today and Tomorrow, Intelligence in Public Media, and, of course, the ever-popular Intelligence Officer’s Bookshelf. All available now for your reading pleasure. PDF version available here: [<a class="internal-link" href="/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/vol-62-no-1/pdfs/Studies-62-1-March-2018-Extracts.pdf">PDF 12.9MB</a>*]</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">April 11, 2018</a> - </b><i>World Factbook</i>: This week is National Library Week. One of the largest and most famous libraries in the ancient world was the Great Library of Alexandria in Egypt (founded about 295 B.C., it may have survived in some form into the 5th century A.D.). The Bibliotheca Alexandrina, an Egyptian National Library established in 2002 on the site of the original Great Library, commemorates the original archive and cultural center. Consult the map of Egypt to find the location of Alexandria. Note that it is not on the Nile River as many other major Egyptian cities are. Can you think why the ancients may have wanted to set up the library where they did?</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/192">April 10, 2018</a></b> - CIA Artifact of the Week: Manganese Nodule Encased in Lucite</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">April 5, 2018</a> - </b><i>World Factbook</i>: The ongoing National Cherry Blossom Festival in Washington, DC commemorates Japan’s friendship gift of 3,020 cherry trees to the US in 1912 – and provides an opportunity for a Japan-related query. Japan is composed of four main Home Islands and 6,848 smaller islands and islets. Can you name the Home Islands? The answer may be found in the Japan entry by checking the Japan map or the Geography – note.</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/114">April 3, 2018</a></b> - CIA Artifact of the Week: George Kisevalter Cufflinks</p> 
+              <p><b><a class="internal-link" href="/news-information/featured-story-archive/2018-featured-story-archive/anniversary-of-us-embassy-bombings-in-east-africa.html">April 2, 2018</a> - </b>20th Anniversary of the US Embassy Bombings in East Africa</p> 
+              <h3>March 2018</h3> 
+              <p><b><a class="internal-link" href="/news-information/featured-story-archive/2018-featured-story-archive/a-day-in-the-life-of-a-science-technology-and-weapons-analyst.html">March 29, 2018</a> - </b>A Day in the Life of a Science, Technology, and Weapons Analyst</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">March 29, 2018</a> - </b><i>World Factbook</i>: The Gulf of Tonkin in Southeast Asia borders what countries? A. Cambodia, B. China, C. Vietnam, D. Both A &amp; C, or E. Both B &amp; C. Find the answer by checking the References tab&gt;Regional and World Maps&gt;Southeast Asia map(s).</p> 
+              <p><b><a class="internal-link" href="/news-information/blog/2018/oss-receives-congressional-gold-medal.html">March 28, 2018</a> - </b>Congressional Gold Medal Awarded to CIA’s Predecessor, OSS</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/206">March 27, 2018</a></b> - CIA Artifact of the Week: A Psychological Analysis of Hitler by Walter Langer</p> 
+              <p><b><a class="internal-link" href="/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/csi-fall-of-saigon/csi-fall-of-saigon.pdf">March 26, 2018</a> - </b><i>New</i> CSI Publication - Voices from the Station: The Evacuation of the US Embassy in Saigon [PDF 987 KB*]</p> 
+              <p><a class="internal-link" href="/news-information/featured-story-archive/2018-featured-story-archive/counterintelligence-at-cia-a-brief-history.html"><b>March 23, 2018</b></a> - Counterintelligence at CIA: A Brief History</p> 
+              <p><a class="internal-link" href="/news-information/featured-story-archive/2018-featured-story-archive/get-to-know-our-deputy-director.html"><b>March 23, 2018</b></a> - Get to Know our Deputy Director</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">March 22, 2018</a> - </b><i>World Factbook</i>: The Baltic Sea, an extension of the Atlantic Ocean in northern Europe, is bordered by nine countries. Can you name them? Consult the References tab&gt;Regional and World Maps&gt;Europe to identify them.</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/132">March 20, 2018</a></b> - CIA Artifact of the Week: Civil Air Transport (CAT) "Lucky Dragon" Pin</p> 
+              <p><a class="internal-link" href="/news-information/press-releases-statements/2018-press-releases-statements/bipartisan-support-for-gina-haspels-nomination-to-be-cia-director.html"><b>March 19, 2018</b></a> - Bipartisan Support for Gina Haspel’s Nomination to be CIA Director From Distinguished National Security Leaders.</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">March 15, 2018</a> - </b><i>World Factbook</i>: South America only has two landlocked countries. Can you name them? Check the References tab&gt;Regional and World Maps&gt;South America to come up with the answer.</p> 
+              <p><b><a class="internal-link" href="/news-information/blog/2018/happy-pi-day.html">March 14, 2018</a> - </b>Happy Pi Day!<b><br></b></p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/80">March 13, 2018</a></b> - CIA Artifact of the Week: Office of Strategic Services Compass</p> 
+              <p><a class="internal-link" href="/news-information/blog/2018/cia-coo-speaks-at-cira-event.html"><b>March 9, 2018</b></a> - CIA Chief Operating Officer Speaks to Annuitants at CIRA Event</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">March 9, 2018</a> - </b><i>World Factbook</i>: Africa has the most countries (54) of any continent; 16 of these countries (30%) are landlocked. Can you name them? Refer to the References tab&gt;Regional and World Maps&gt;Africa to see if you can find them all.</p> 
+              <p><b><a class="internal-link" href="/news-information/featured-story-archive/2018-featured-story-archive/remembering-cias-heroes-helge-boes.html">March 7, 2018</a> - </b>Remembering CIA’s Heroes: Helge Boes</p> 
+              <p><b><a class="internal-link" href="/news-information/featured-story-archive/2018-featured-story-archive/the-women-who-lived-at-cia.html">March 6, 2018</a> - </b>The Women Who Lived at CIA</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/197">March 6, 2018</a></b> - CIA Artifact of the Week: Thuraya Satellite Phone</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">March 5, 2018</a> - </b><i>World Factbook</i>: There is an amazing diversity of “fascinating facts at your fingertips” available in The World Factbook, here are some examples. The height of a horse is measured in hands. How wide is a hand - in either centimeters or inches? Find the answer in Appendix G: Weights and Measures. Which country produces more electricity, India or Russia? Locate the answer under the References tab&gt;Guide to Country Comparisons&gt;Energy&gt;Electricity Production. Where are the next Summer Olympics to be held? See Appendix B: International Organizations and Groups&gt;International Olympic Committee.</p> 
+              <p><b><a class="internal-link" href="/news-information/featured-story-archive/2018-featured-story-archive/oss-creates-first-ci-division.html">March 1, 2018</a></b> - OSS Creates First CI Division</p> 
+              <h3>February 2018</h3> 
+              <p><b><a class="internal-link" href="/news-information/press-releases-statements/2018-press-releases-statements/cia-kicks-off-signature-school-program-at-university-of-illinois.html">February 28, 2018</a> - </b>CIA Kicks-off Signature School Program at the University of Illinois at Chicago</p> 
+              <p><b><a class="internal-link" href="/news-information/featured-story-archive/2018-featured-story-archive/making-black-history-today.html">February 28, 2018</a> </b>- Making Black History, Today<b><br></b></p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/30">February 27, 2018</a></b> - CIA Artifact of the Week: Identification Card of Allen W. Dulles</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">February 23, 2018</a> - </b><i>World Factbook</i>: The Arabian Peninsula Is composed of seven countries entirely and parts of two others; it occupies about 3.2 million square kilometers and is often cited as the world’s largest peninsula. Can you name its seven constituent parts? (Note that one of the seven countries is an offshore archipelago linked to the peninsula by a causeway.) The Middle East maps – under the References tab&gt;Regional and World Maps – will provide the answer.</p> 
+              <p><b><a class="internal-link" href="/news-information/featured-story-archive/2018-featured-story-archive/remembering-cias-heroes-billy-jack-johnson.html">February 22, 2018</a> - </b>Remembering CIA’s Heroes: Billy Jack Johnson</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/14">February 20, 2018</a></b> - CIA Artifact of the Week: Insectothopter</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">February 16, 2018</a> - </b><i>World Factbook</i>: The Southern Cross constellation (also known as Crux) is a group of four bright stars in the southern sky; it is distinctly displayed on the national flags of five Southern Hemisphere countries. In the flag of Brazil, it appears centered within a spray of stars and can be overlooked. However, on the flags of the other four countries the constellation makes up a conspicuous part of the design. Can you name the four additional countries that carry the Southern Cross? Check the Flags of the World page under the References tab to find the answers. Hint: The countries all fall within, or border on, the South Pacific Ocean.</p> 
+              <p><b><a class="internal-link" href="/news-information/featured-story-archive/2018-featured-story-archive/romeo-spies.html">February 14, 2018</a> - </b>Romeo Spies<b><br></b></p> 
+              <p><b><a class="internal-link" href="/news-information/blog/2018/pompeo-testifies-on-top-global-threats-facing-us.html">February 13, 2018</a> - </b>Pompeo Testifies on Top Global Threats Facing the US Before the Senate Select Committee on Intelligence Today</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/187">February 13, 2018</a></b> - CIA Artifact of the Week: Office Computer Used by Aldrich Ames</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">February 9, 2018</a> - </b><i>World Factbook</i>: Expansion of the “Constitution” entry under the ‘Government’ category continues with the inclusion of a summary description of the procedure for amending a country’s constitution. Expanded entries are now available for countries in East Asia and the Pacific region as well as the previously completed entries for African, European, Middle Eastern, and South and Central Asian countries. In coming weeks, amending procedures will be added for Western Hemisphere countries.</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/58">February 6, 2018</a></b> - CIA Artifact of the Week: Pointy-Talky Language Chart</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">February 1, 2018</a> - </b><i>World Factbook</i>: If the temperature in the West African city of Dakar is 98 degrees Fahrenheit, what is this in degrees Celsius? See Appendix G: Weights and Measures to find out how to convert from degrees Fahrenheit to degrees Celsius or vice versa. Then check out one of the Africa maps (under the References tab&gt;Regional and World Maps) to find out what country Dakar is the capital of.</p> 
+              <h3>January 2018</h3> 
+              <p><b><span class="internal-link"><a class="internal-link" href="/news-information/featured-story-archive/2018-featured-story-archive/remembering-cias-heroes-frank-darling.html">January 31, 2018</a> - </span></b>Remembering CIA’s Heroes: Frank A. Darling</p> 
+              <p><b><a class="internal-link" href="/news-information/featured-story-archive/2018-featured-story-archive/remembering-cias-heroes-lansing-bennett.html"><span class="internal-link">January 31, 2018</span></a> - </b>Remembering CIA’s Heroes: Dr. Lansing H. Bennett</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/182">January 30, 2018</a></b> - CIA Artifact of the Week: Bust of William J. Casey</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">January 26, 2018</a> - </b><i>World Factbook</i>: In the economy and energy categories, all of the data have been updated through 2017, or through the most recent year for which data are available.</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/137">January 23, 2018</a></b> - CIA Artifact of the Week: Former Soviet Pilot Viktor Belenko’s Military ID Document</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">January 19, 2018</a> - </b><i>World Factbook</i>: This landlocked country – one of two in South America – holds the record for the most official languages. According to its 2009 constitution, it has 37 official languages (Spanish plus 36 indigenous languages). Check the appropriate “Language” entries to determine the name of the country.</p> 
+              <p><b><a class="internal-link" href="/news-information/press-releases-statements/2018-press-releases-statements/pompeo-statement-on-former-dci-turner.html">January 18, 2018</a> - </b>Statement from CIA Director Pompeo on Former DCI Admiral Stansfield Turner<b><br></b></p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/68">January 16, 2018</a></b> - CIA Artifact of the Week: Office of Strategic Services Silk Escape and Evasion Map</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">January 11, 2018</a> - </b><i>World Factbook</i>: Lake Victoria is Africa’s largest lake and the world’s second-largest freshwater lake, after North America’s Lake Superior. It is also one of the sources of the Nile River. The lake is divided among three countries. Can you name them? Check any of the Africa maps under the References tab to come up with the answer.</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/228">January 9, 2018</a></b> - CIA Artifact of the Week: AN-2 Throttle</p> 
+              <p><b><a class="internal-link" href="/library/publications/resources/the-world-factbook/index.html">January 5, 2018</a> - </b><i>World Factbook</i>: No less than five African countries have at least two national capitals (usually one serves as an administrative capital while the other seats the legislature). The countries are: Benin, Cote d’Ivoire, South Africa, Swaziland, and Tanzania. Check the “Capital” entry (under Government) for each of these countries to learn the names of the dual (and in one case triple) capital cities.</p> 
+              <p><b><a class="internal-link" href="/about-cia/cia-museum/experience-the-collection/index.html#!/artifact/106">January 2, 2018</a></b> - CIA Artifact of the Week: Civil Air Transport Picture</p> 
+             </div> 
+             <div class="documentByLine"> 
+              <br> 
+              <div> 
+              </div> 
+              <div>
+                Posted: Apr 15, 2007 06:45 PM
+               <br> 
+              </div> 
+              <div>
+                Last Updated: May 31, 2019 01:20 PM
+               <br> 
+              </div> 
+              <br> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </article> 
+       </div> 
+       <aside class="content-box-2"></aside> 
+      </div> 
+     </section> 
+     <footer id="footer"> 
+      <span class="divider"></span> 
+      <a href="#" class="logo-2"><img src="/++theme++contextual.agencytheme/images/logo-2.png" width="61" height="61" alt="Central Intelligence Agency"></a> 
+      <div class="footer-holder"> 
+       <div class="footer-frame"> 
+        <nav class="footer-nav"> 
+         <div class="info-block"> 
+          <h3><a href="/about-cia">About CIA</a></h3> 
+          <ul> 
+           <li> <a href="/about-cia/todays-cia">Today's CIA</a> </li> 
+           <li> <a href="/about-cia/leadership">Leadership</a> </li> 
+           <li> <a href="/about-cia/cia-vision-mission-values">CIA Vision, Mission, Ethos &amp; Challenges</a> </li> 
+           <li> <a href="/about-cia/headquarters-tour">Headquarters Tour</a> </li> 
+           <li> <a href="/about-cia/cia-museum">CIA Museum</a> </li> 
+           <li> <a href="/about-cia/history-of-the-cia">History of the CIA</a> </li> 
+           <li> <a href="/about-cia/publications-review-board">Publications Review Board</a> </li> 
+           <li> <a href="/about-cia/accessibility">Accessibility</a> </li> 
+           <li> <a href="/about-cia/privacy-and-civil-liberties">Privacy and Civil Liberties</a> </li> 
+           <li> <a href="/about-cia/faqs">FAQs</a> </li> 
+           <li> <a href="/about-cia/no-fear-act">No FEAR Act</a> </li> 
+           <li> <a href="/about-cia/site-policies">Site Policies</a> </li> 
+          </ul> 
+         </div> 
+         <div class="info-block"> 
+          <h3><a href="/careers">Careers &amp; Internships</a></h3> 
+          <ul> 
+           <li> <a href="/careers/opportunities">Career Opportunities</a> </li> 
+           <li> <a href="/careers/student-opportunities">Student Opportunities</a> </li> 
+           <li> <a href="/careers/language-opportunities">Language Opportunities</a> </li> 
+           <li> <a href="/careers/application-process">Application Process</a> </li> 
+           <li> <a href="/careers/life-at-cia">Life at CIA</a> </li> 
+           <li> <a href="/careers/benefits.html">Benefits</a> </li> 
+           <li> <a href="/careers/diversity">Diversity</a> </li> 
+           <li> <a href="/careers/military-transition">Military Transition</a> </li> 
+           <li> <a href="/careers/games-information">Tools and Challenges</a> </li> 
+           <li> <a href="/careers/faq">FAQs</a> </li> 
+           <li> <a href="/careers/video-center">Video Center</a> </li> 
+          </ul> 
+          <h3><a href="/offices-of-cia">Offices of CIA</a></h3> 
+          <ul> 
+           <li> <a href="/offices-of-cia/intelligence-analysis">Intelligence &amp; Analysis</a> </li> 
+           <li> <a href="/offices-of-cia/clandestine-service">Clandestine Service</a> </li> 
+           <li> <a href="/offices-of-cia/science-technology">Science &amp; Technology</a> </li> 
+           <li> <a href="/offices-of-cia/mission-support">Support to Mission</a> </li> 
+           <li> <a href="/offices-of-cia/digital-innovation">Digital Innovation</a> </li> 
+           <li> <a href="/offices-of-cia/mission-centers">Mission Centers</a> </li> 
+           <li> <a href="/offices-of-cia/human-resources">Human Resources</a> </li> 
+           <li> <a href="/offices-of-cia/public-affairs">Public Affairs</a> </li> 
+           <li> <a href="/offices-of-cia/general-counsel">General Counsel</a> </li> 
+           <li> <a href="/offices-of-cia/equal-employment-opportunity">Equal Employment Opportunity</a> </li> 
+           <li> <a href="/offices-of-cia/congressional-affairs">Congressional Affairs</a> </li> 
+           <li> <a href="/offices-of-cia/inspector-general">Inspector General</a> </li> 
+           <li> <a href="/offices-of-cia/military-affairs">Military Affairs</a> </li> 
+          </ul> 
+         </div> 
+         <div class="info-block"> 
+          <h3><a href="/news-information">News &amp; Information</a></h3> 
+          <ul> 
+           <li> <a href="/news-information/blog">Blog</a> </li> 
+           <li> <a href="/news-information/press-releases-statements">Press Releases &amp; Statements</a> </li> 
+           <li> <a href="/news-information/speeches-testimony">Speeches &amp; Testimony</a> </li> 
+           <li> <a href="/news-information/cia-the-war-on-terrorism">CIA &amp; the War on Terrorism</a> </li> 
+           <li> <a href="/news-information/featured-story-archive">Featured Story Archive</a> </li> 
+           <li> <a href="/news-information/your-news">Your News</a> </li> 
+          </ul> 
+          <h3><a href="/library">Library</a></h3> 
+          <ul> 
+           <li> <a href="/library/publications">Publications</a> </li> 
+           <li> <a href="/library/center-for-the-study-of-intelligence">Center for the Study of Intelligence</a> </li> 
+           <li> <a href="/library/readingroom">Freedom of Information Act Electronic Reading Room</a> </li> 
+           <li> <a href="/library/kent-center-occasional-papers">Kent Center Occasional Papers</a> </li> 
+           <li> <a href="/library/intelligence-literature">Intelligence Literature</a> </li> 
+           <li> <a href="/library/reports">Reports</a> </li> 
+           <li> <a href="/library/related-links.html">Related Links</a> </li> 
+           <li> <a href="/library/video-center">Video Center</a> </li> 
+          </ul> 
+         </div> 
+         <div class="info-block add"> 
+          <h3><a href="/kids-page">Kids' Zone</a></h3> 
+          <ul> 
+           <li> <a href="/kids-page/k-5th-grade">K-5th Grade</a> </li> 
+           <li> <a href="/kids-page/6-12th-grade">6-12th Grade</a> </li> 
+           <li> <a href="/kids-page/parents-teachers">Parents &amp; Teachers</a> </li> 
+           <li> <a href="/kids-page/games">Games</a> </li> 
+           <li> <a href="/kids-page/related-links">Related Links</a> </li> 
+           <li> <a href="/kids-page/privacy-statement">Privacy Statement</a> </li> 
+          </ul> 
+          <h3><a href="/contact-cia">Connect with CIA</a></h3> 
+          <ul class="socials-list"> 
+           <li><a class="social-6" href="https://twitter.com/CIA">CIA Twitter</a></li> 
+           <li><a class="social-5" href="https://www.facebook.com/Central.Intelligence.Agency">CIA Facebook</a></li> 
+           <li><a href="http://www.youtube.com/user/ciagov">CIA YouTube</a></li> 
+           <li><a class="social-2" href="http://www.flickr.com/photos/ciagov">CIA Flickr PhotoStream</a></li> 
+           <li><a class="social-3" href="/news-information/your-news">RSS</a></li> 
+           <li><a class="social-4 landingTrigger" href="/contact-cia">Contact Us</a></li> 
+          </ul> 
+         </div> 
+        </nav> 
+        <div id="plugins" class="info-panel"> 
+         <h4>* Required plugins</h4> 
+         <ul> 
+          <li data-plugin="swf"><a href="http://get.adobe.com/flashplayer/">Adobe® Flash Player</a></li> 
+          <li data-plugin="pdf"><a href="http://get.adobe.com/reader/">Adobe® Reader®</a></li> 
+          <li data-plugin="doc"><a href="http://www.microsoft.com/en-us/download/details.aspx?id=4">MS Word Viewer</a></li> 
+         </ul> 
+        </div> 
+       </div> 
+      </div> 
+     </footer> 
+    </div> 
+    <div class="footer-panel"> 
+     <nav class="sub-nav"> 
+      <h3 class="visuallyhidden">Footer Navigation</h3> 
+      <ul> 
+       <li><a href="/about-cia/site-policies/#privacy-notice" title="Site Policies">Privacy</a></li> 
+       <li><a href="/about-cia/site-policies/#copy" title="Site Policies">Copyright</a></li> 
+       <li><a href="/about-cia/site-policies/" title="Site Policies">Site Policies</a></li> 
+       <li><a href="http://www.usa.gov/">USA.gov</a></li> 
+       <li><a href="https://www.cia.gov/library/readingroom/">FOIA</a></li> 
+       <li><a href="http://www.dni.gov/">DNI.gov</a></li> 
+       <li><a href="/about-cia/no-fear-act/" title="No FEAR Act">NoFEAR Act</a></li> 
+       <li><a href="/offices-of-cia/inspector-general/">Inspector General</a></li> 
+       <!--<li><a tal:attributes="href string:$portal_url/mobile/" href="#" >Mobile Site</a></li>--> 
+       <li><a class="landingTrigger" href="/contact-cia/">Contact CIA</a></li> 
+       <li><a href="/sitemap.html">Site Map</a></li> 
+      </ul> 
+      <a href="/open/" class="footer-logo"><img src="/++theme++contextual.agencytheme/images/ico-06.png" alt="open gov"></a> 
+     </nav> 
+    </div> 
+    <div class="skip">
+     <a href="#wrapper">back to top</a>
+    </div> 
+   </div>
+   <!-- Modal for Landing Page-->
+   <div aria-hidden="true" aria-labelledby="mainLanding" class="modal fade" id="popupLandingModal" role="dialog" style="z-index:2147483647;overflow:auto" tabindex="-1"> 
+    <div class="modal-dialog"> 
+     <div class="modal-content"> 
+      <div class="modal-body"> 
+       <div class="section-contact-cia main-block-popup"> 
+        <button aria-hidden="true" aria-label="Close" class="cfclose" data-dismiss="modal" type="button">×</button>
+        <br> 
+        <section id="mainLanding"> 
+         <div class="section-contact-cia cf-heading-panel" style="width:93%"> 
+          <h1>Contact CIA</h1> 
+         </div> 
+         <div class="main-holder threecol" style="width:100%"> 
+          <div> 
+           <!-- <ul class="breadcrumbs"><li><a href="/">Home</a></li><li>Contact CIA</li></ul> --> 
+           <article class="description-box">
+            <a id="main-content" tabindex="-1">&nbsp;</a> 
+            <div> 
+             <div class=""> 
+              <div> 
+               <!-- <h1>Contact CIA</h1> --> 
+               <div> 
+                <div class="" id="parent-fieldname-text-55a5766e45f049b42fce0fdbf970b9ae"> 
+                 <p>The Office of Public Affairs (OPA) is the single point of contact for all inquiries about the Central Intelligence Agency (CIA).</p> 
+                 <p>We read every letter, fax, or e-mail we receive, and we will convey your comments to CIA officials outside OPA as appropriate. However, with limited staff and resources, we simply cannot respond to all who write to us.</p> 
+                 <hr class="centerline" styple="margin-top:2px;margin-bottom:2px;"> 
+                 <h3>Contact Information</h3> 
+                 <p><a href="#" class="contactTriggerFromLanding btn-lg btn-primary btn-block center-block" role="button">Submit questions or comments online</a> </p>
+                 <p><b>By postal mail:</b><br> Central Intelligence Agency<br> Office of Public Affairs<br> Washington, D.C. 20505</p> 
+                 <br> 
+                 <p>Contact the <a href="/about-cia/privacy-and-civil-liberties/index.html" class="internal-link">Office of Privacy and Civil Liberties</a></p> 
+                 <p>Contact the <a href="/offices-of-cia/inspector-general/index.html" class="internal-link">Office of Inspector General</a></p> 
+                 <p>Contact the <a href="/contact-cia/employment-verification-office.html" class="internal-link">Employment Verification Office</a></p> 
+                 <hr class="centerline" styple="margin-top:2px;margin-bottom:2px;"> 
+                 <p><b>Before contacting us:</b></p> 
+                 <p>Please check our <a href="/sitemap.html" title="Site Map"><b>site map</b></a>, <b>search</b> feature, or <b>our site navigation on the left </b> to locate the information you seek. We do not routinely respond to questions for which answers are found within this Web site.<br><br> </p> 
+                 <p><a href="/careers/index.html" title="Careers"><b>Employment</b></a><b>: </b> We do not routinely answer questions about employment beyond the information on this Web site, and we do not routinely answer inquiries about the status of job applications. Recruiting will contact applicants within 45 days if their qualifications meet our needs. <br> </p> 
+                 <span style="display:block"> 
+                  <ul style="padding:0 0 0 40px;width:100;%;list-style:disc outside none"> 
+                   <li>Because of safety concerns for the prospective applicant, as well as security and communication issues, the CIA Recruitment Center does not accept resumes, nor can we return phone calls, e-mails or other forms of communication, from US citizens living outside of the US. When you return permanently to the US (not on vacation or leave), please visit the <a title="Careers at CIA" href="/careers/opportunities/index.html">CIA Careers page</a> and apply online for the position of interest.<br> <br></li> 
+                   <li>To verify an employee's employment, please contact the <a class="internal-link" href="/contact-cia/employment-verification-office.html">Employment Verification Office</a>. </li> 
+                  </ul> </span> 
+                </div> 
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+           </article> 
+          </div> 
+         </div> 
+        </section> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+   <!-- Modal for Contact Page-->
+   <div aria-hidden="true" aria-labelledby="mainContact" class="modal fade" id="popupContactModal" role="dialog" style="z-index:2147483647;overflow:auto" tabindex="-1"> 
+    <div class="modal-dialog"> 
+     <div class="modal-content"> 
+      <div class="modal-body"> 
+       <div class="section-contact-cia main-block-popup"> 
+        <button aria-hidden="true" aria-label="Close" class="cfclose" data-dismiss="modal" type="button">×</button>
+        <br> 
+        <div id="mainContact"> 
+         <div class="section-contact-cia cf-heading-panel" style="width:93%"> 
+          <h1>Report Information</h1> 
+         </div> 
+         <div class="main-holder threecol" style="width:100%"> 
+          <div id="contentContact"> 
+           <!-- <ul class="breadcrumbs" style="padding: 0 0 0 16px">
+           <li><a href="https://www.cia.gov/">Home</a></li>
+           <li><a class="landingTriggerFromContact" href="#">Contact US</a></li>
+           <li>Contact CIA</li></ul> --> 
+           <div class="description-box"> 
+            <a id="main-content" tabindex="-1"> </a> 
+            <div class="text-holderPopup" style="width:100%"> 
+             <div id="viewlet-above-content"> 
+             </div> 
+             <div class=""> 
+              <div id="contentContact"> 
+               <h1> 
+                <div id="popupBanner" style="margin-left:5%;margin-right:5%;color:#5f1d1d;font-size:0.5em;word-wrap:break-word;">
+                 Contact Us Form
+                </div> </h1> 
+               <div> 
+                <div class="" id="parent-fieldname-text-b7a1aa432b8946fc8bc268300efe896d"> 
+                 <div id="popupBodyFull"></div> 
+                 <!-- popup form here --> 
+                 <div id="popupBody"> 
+                  <meta content="telephone=no" name="format-detection"> 
+                  <form accept-charset="utf-8" id="cf" name="cf" role="form" class="form-horizontal"> 
+                   <div class="form-group" style="margin-left:6%;width:95%;margin-bottom:7px;"> 
+                    <label for="message" id="mlabel" type="label">Message:<span style="color:red">*</span></label> 
+                    <textarea autocapitalize="off" autocomplete="off" autocorrect="off" class="form-control" cols="70" id="message" name="message" rows="10" style="resize:none;width:90%" required="true" placeholder="Message Text"></textarea> 
+                    <div id="messageErr"></div> 
+                   </div> 
+                   <div class="form-group" style="margin-left:6%;width:95%;margin-bottom:7px;"> 
+                    <label for="email" id="elabel">Email:<span style="color:red">*</span></label> 
+                    <input autocapitalize="off" autocomplete="off" autocorrect="off" class="form-control" id="email" maxlength="40" name="email" size="40" type="email" placeholder="user@email.com" pattern="[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z0-9-]+)*$" required style="width:90%"> 
+                   </div> 
+                   <div class="form-group" style="margin-left:6%;width:95%;margin-bottom:7px;"> 
+                    <label for="name">Name: </label> 
+                    <input autocapitalize="off" autocomplete="off" autocorrect="off" class="form-control" id="name" maxlength="40" name="sender" size="40" type="text" placeholder="Firstname Lastname" style="width:90%"> 
+                   </div> 
+                   <div class="form-inline" style="margin-left:6%;margin-bottom:7px;"> 
+                    <label id="phone_label">Phone Number:</label>
+                    <br> 
+                    <input autocomplete="off" class="form-control" id="phone_cc" aria-labelledby="phone_label" maxlength="5" name="ph_cc" placeholder="Country Code" size="12" type="cc" style="max-width:55%"> 
+                    <input autocomplete="off" class="form-control" id="phone" aria-labelledby="phone_label" maxlength="20" name="phone_num" placeholder="Number" size="40" type="tel" style="max-width:90%"> 
+                   </div> 
+                   <div class="form-inline" style="margin-left:6%;margin-bottom:7px;"> 
+                    <label id="mobile_label">Mobile/Cell:</label>
+                    <br> 
+                    <input autocomplete="off" class="form-control" id="cellcc" aria-labelledby="mobile_label" maxlength="5" name="mobilecc" placeholder="Country Code" size="12" type="cc" style="max-width:55%"> 
+                    <input autocomplete="off" class="form-control" id="cellnumber" aria-labelledby="mobile_label" maxlength="20" name="mobilenum" placeholder="Number" size="40" type="tel" style="max-width:90%"> 
+                   </div> 
+                   <br> 
+                   <p align="center"> </p>
+                   <div style="margin-left:5%" id="refId"></div> 
+                   <br> 
+                   <span id="submitFormButton"> <input onclick="javascript:confirm_submission();" class="btn-lg btn-block btn-primary center-block" type="button" value="Send"> </span> 
+                   <br> 
+                   <input name="Reset" class="btn-lg btn-block center-block" type="reset" value="Reset"> 
+                   <p align="left"><span style="color:red;margin-left:5%">*</span> = required</p> 
+                  </form> 
+                 </div> 
+                </div> 
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+   <!-- Modal for Report Page-->
+   <div aria-hidden="true" aria-labelledby="mainReport" class="modal fade" id="popupReportModal" role="dialog" style="z-index:2147483647;overflow:auto" tabindex="-1"> 
+    <div class="modal-dialog"> 
+     <div class="modal-content"> 
+      <div class="modal-body"> 
+       <div class="section-contact-cia main-block-popup"> 
+        <button aria-hidden="true" aria-label="Close" class="cfclose" data-dismiss="modal" type="button">×</button>
+        <br> 
+        <section id="mainReport"> 
+         <div class="section-contact-cia cf-heading-panel" style="width:93%"> 
+          <h1>Report Information</h1> 
+         </div> 
+         <div class="main-holder threecol" style="width:100%"> 
+          <div> 
+           <!-- <ul class="breadcrumbs"><li><a href="https://www.cia.gov/">Home</a></li><li>
+           <a class="landingTriggerFromReport" href="#">Contact CIA</a></li><li>Report Threats</li>
+          </ul> --> 
+           <article class="description-box">
+            <a id="main-content" tabindex="-1">&nbsp;</a> 
+            <div> 
+             <div class=""> 
+              <div> 
+               <div> 
+                <div class="" id="parent-fieldname-text-84043b8c4f22633413a10d8a8009e18c"> 
+                 <p>People from nearly every country share information with CIA, and new individuals contact us daily. If you have information you think might interest CIA due to our foreign intelligence collection mission, there are many ways to reach us. </p> 
+                 <p>If you know of an <b>imminent threat</b> to a location inside the U.S., immediately contact your local law enforcement or <a href="https://www.fbi.gov/contact-us/field-offices"><b>FBI Field Office</b></a>. For threats outside the U.S., <a href="#" class="contactTriggerFromReport"><b>contact CIA</b></a> or go to a U.S. Embassy or Consulate and ask for the information to be passed to a U.S. official. Please know, CIA does not engage in law enforcement.</p> 
+                 <p>In addition to the options below, individuals contact CIA in a variety of creative ways. The best method depends on your personal situation. We will work to protect all information you provide, including your identity, and our interactions with you will be respectful and professional. Depending on what you provide, we may offer you compensation.</p> 
+                 <h3>WHAT TO PROVIDE</h3> 
+                 <p>If you feel it is safe, consider providing these details with your submission:</p> 
+                 <span style="display:block"> 
+                  <ul style="padding:0 0 0 40px;width:100;%;list-style:disc outside none"> 
+                   <li> Your full name</li> 
+                   <li> Biographic details, such as a photograph of yourself, and a copy of the biographic page of your passport </li> 
+                   <li> How you got the information you want to share with CIA</li> 
+                   <li> How to contact you, including your home address and phone number</li> 
+                  </ul> </span> 
+                 <p>We cannot guarantee a response to every message. We reply first to messages of greater interest to us and to those with more detail. Our response will occur via a secure method.</p> 
+                 <h3>WAYS TO SUBMIT</h3> 
+                 <p><b>Internet:</b> Send a message <a class="contactTriggerFromReport" href="#"><b>here</b></a>. Or, you can send us a message using the <a class="external-link" href="https://www.torproject.org/">Tor browser</a> at <strong>ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion</strong>. We go to great lengths to keep these channels secure, but any communication via the internet poses some risk. Using the Tor browser, a virtual private network, and/or a device not registered to you can reduce some risk.</p> 
+                 <p><b>Mail:</b> Inside the U.S., send mail to the following address:</p> 
+                 <blockquote>
+                  <p>Central Intelligence Agency<br> Office of Public Affairs <br> Washington, D.C. 20505</p>
+                 </blockquote> 
+                 <p>You can also mail a letter to a U.S. Embassy or Consulate and request it be forwarded to CIA. Please note we have no control over the security and reliability of postal mail.</p> 
+                 <p><b>In-Person:</b> Outside the U.S., go to a U.S. Embassy or Consulate and inform a U.S. official you have information for CIA.</p> 
+                 <p><b>Third Party:</b> Have someone you trust travel to a less restrictive environment and deliver the information via one of the above methods.</p> 
+                </div> 
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+           </article> 
+          </div> 
+         </div> 
+        </section> 
+       </div> 
+      </div> 
+      <div> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+   <script async src="/js2/verification.js"></script>
+  </div> 
+ </body>
+</html>

@@ -1,0 +1,1348 @@
+<!doctype html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+ <!--<![endif]-->
+ <head> 
+  <meta charset="UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <link rel="pingback" href="https://www.mines.edu/library/xmlrpc.php"> 
+  <!--[if lt IE 9]>
+	<script src="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/themes/Extra/scripts/ext/html5.js" type="text/javascript"></script>
+	<![endif]--> 
+  <script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script> 
+  <title>Library Home - Arthur Lakes Library</title> 
+  <!-- This site is optimized with the Yoast SEO plugin v11.3 - https://yoast.com/wordpress/plugins/seo/ --> 
+  <link rel="canonical" href="https://www.mines.edu/library/"> 
+  <meta property="og:locale" content="en_US"> 
+  <meta property="og:type" content="website"> 
+  <meta property="og:title" content="Library Home - Arthur Lakes Library"> 
+  <meta property="og:url" content="https://www.mines.edu/library/"> 
+  <meta property="og:site_name" content="Arthur Lakes Library"> 
+  <meta name="twitter:card" content="summary"> 
+  <meta name="twitter:title" content="Library Home - Arthur Lakes Library"> 
+  <meta name="twitter:site" content="@ArthurLakesLib"> 
+  <meta name="twitter:image" content="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/uploads/sites/64/2018/01/gadgets-icon-CR.png"> 
+  <meta name="twitter:creator" content="@ArthurLakesLib"> 
+  <script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.mines.edu/library/#organization","name":"","url":"https://www.mines.edu/library/","sameAs":["https://www.facebook.com/arthurlakeslibrary/","https://www.instagram.com/arthurlakeslibrary/","https://au.pinterest.com/arthurlakeslib/","https://twitter.com/ArthurLakesLib"]},{"@type":"WebSite","@id":"https://www.mines.edu/library/#website","url":"https://www.mines.edu/library/","name":"Arthur Lakes Library","publisher":{"@id":"https://www.mines.edu/library/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://www.mines.edu/library/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://www.mines.edu/library/#webpage","url":"https://www.mines.edu/library/","inLanguage":"en-US","name":"Library Home - Arthur Lakes Library","isPartOf":{"@id":"https://www.mines.edu/library/#website"},"about":{"@id":"https://www.mines.edu/library/#organization"},"image":{"@type":"ImageObject","@id":"https://www.mines.edu/library/#primaryimage","url":"https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/uploads/sites/64/2018/01/gadgets-icon-CR.png"},"primaryImageOfPage":{"@id":"https://www.mines.edu/library/#primaryimage"},"datePublished":"2018-08-09T17:10:20+00:00","dateModified":"2019-03-12T16:45:04+00:00"}]}</script> 
+  <!-- / Yoast SEO plugin. --> 
+  <link rel="dns-prefetch" href="//s0.wp.com"> 
+  <link rel="dns-prefetch" href="//platform.twitter.com"> 
+  <link rel="dns-prefetch" href="//fonts.googleapis.com"> 
+  <link rel="dns-prefetch" href="//s.w.org"> 
+  <link rel="alternate" type="application/rss+xml" title="Arthur Lakes Library » Feed" href="https://www.mines.edu/library/feed/"> 
+  <link rel="alternate" type="application/rss+xml" title="Arthur Lakes Library » Comments Feed" href="https://www.mines.edu/library/comments/feed/"> 
+  <script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.mines.edu\/library\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.10"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script> 
+  <meta content="Mines Calendar v.1.0.0" name="generator">
+  <style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style> 
+  <link rel="stylesheet" id="wgs2-css" href="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/plugins/wp-google-search/wgs2.css?ver=4.9.10" type="text/css" media="all"> 
+  <link rel="stylesheet" id="cattopage_wud_site_style-css" href="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/plugins/category-to-pages-wud/css/category-to-pages-wud.css" type="text/css" media="all"> 
+  <link rel="stylesheet" id="cattopage_wud_img_style-css" href="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/plugins/category-to-pages-wud/css/jquery.ctp_wud.css" type="text/css" media="all"> 
+  <link rel="stylesheet" id="dp-portfolio-posts-pro-css" href="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/plugins/dp-portfolio-posts-pro/public/css/dp-portfolio-posts-pro-public.css?ver=3.5.4" type="text/css" media="all"> 
+  <link rel="stylesheet" id="wpa-style-css" href="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/plugins/wp-accessibility/css/wpa-style.css?ver=4.9.10" type="text/css" media="all"> 
+  <link rel="stylesheet" id="op_css-css" href="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/plugins/wp-opening-hours/dist/styles/main.css?ver=4.9.10" type="text/css" media="all"> 
+  <link rel="stylesheet" id="ctf_styles-css" href="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/plugins/custom-twitter-feeds/css/ctf-styles.css?ver=1.3" type="text/css" media="all"> 
+  <link rel="stylesheet" id="parent-style-css" href="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/themes/Extra/style.dev.css?ver=4.9.10" type="text/css" media="all"> 
+  <link rel="stylesheet" id="child-style-css" href="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/themes/minecalendar/style.css?ver=1.0.0" type="text/css" media="all"> 
+  <link rel="stylesheet" id="extra-fonts-css" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&amp;subset=latin,latin-ext" type="text/css" media="all"> 
+  <link rel="stylesheet" id="extra-style-css" href="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/themes/minecalendar/style.css?ver=2.23.3" type="text/css" media="all"> 
+  <link rel="stylesheet" id="image-intense-styles-css" href="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/plugins/image-intense/styles/style.min.css?ver=1.0.0" type="text/css" media="all"> 
+  <link rel="stylesheet" id="et-builder-googlefonts-cached-css" href="https://fonts.googleapis.com/css?family=Montserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;ver=4.9.10#038;subset=vietnamese,latin,latin-ext" type="text/css" media="all"> 
+  <link rel="stylesheet" id="tablepress-default-css" href="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/plugins/tablepress/css/default.min.css?ver=1.9.2" type="text/css" media="all"> 
+  <link rel="stylesheet" id="magnific-popup-css" href="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/themes/Extra/includes/builder/styles/magnific_popup.css?ver=2.23.3" type="text/css" media="all"> 
+  <link rel="stylesheet" id="dashicons-css" href="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-includes/css/dashicons.min.css?ver=4.9.10" type="text/css" media="all"> 
+  <link rel="stylesheet" id="the-grid-css" href="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/plugins/the-grid/frontend/assets/css/the-grid.min.css?ver=2.4.0" type="text/css" media="all"> 
+  <style id="the-grid-inline-css" type="text/css">
+.tolb-holder{background:rgba(0,0,0,0.8)}.tolb-holder .tolb-close,.tolb-holder .tolb-title,.tolb-holder .tolb-counter,.tolb-holder .tolb-next i,.tolb-holder .tolb-prev i{color:#ffffff}.tolb-holder .tolb-load{border-color:rgba(255,255,255,0.2);border-left:3px solid #ffffff}
+.to-heart-icon,.to-heart-icon svg,.to-post-like,.to-post-like .to-like-count{position:relative;display:inline-block}.to-post-like{width:auto;cursor:pointer;font-weight:400}.to-heart-icon{float:left;margin:0 4px 0 0}.to-heart-icon svg{overflow:visible;width:15px;height:14px}.to-heart-icon g{-webkit-transform:scale(1);transform:scale(1)}.to-heart-icon path{-webkit-transform:scale(1);transform:scale(1);transition:fill .4s ease,stroke .4s ease}.no-liked .to-heart-icon path{fill:#999;stroke:#999}.empty-heart .to-heart-icon path{fill:transparent!important;stroke:#999}.liked .to-heart-icon path,.to-heart-icon svg:hover path{fill:#ff6863!important;stroke:#ff6863!important}@keyframes heartBeat{0%{transform:scale(1)}20%{transform:scale(.8)}30%{transform:scale(.95)}45%{transform:scale(.75)}50%{transform:scale(.85)}100%{transform:scale(.9)}}@-webkit-keyframes heartBeat{0%,100%,50%{-webkit-transform:scale(1)}20%{-webkit-transform:scale(.8)}30%{-webkit-transform:scale(.95)}45%{-webkit-transform:scale(.75)}}.heart-pulse g{-webkit-animation-name:heartBeat;animation-name:heartBeat;-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-iteration-count:infinite;animation-iteration-count:infinite;-webkit-transform-origin:50% 50%;transform-origin:50% 50%}.to-post-like a{color:inherit!important;fill:inherit!important;stroke:inherit!important}
+</style> 
+  <link rel="stylesheet" id="jetpack_css-css" href="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/plugins/jetpack/css/jetpack.css?ver=7.1.1" type="text/css" media="all"> 
+  <script type="text/javascript" src="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script> 
+  <script type="text/javascript" src="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script> 
+  <link rel="https://api.w.org/" href="https://www.mines.edu/library/wp-json/"> 
+  <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.mines.edu/library/xmlrpc.php?rsd"> 
+  <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.mines.edu/library/wp-includes/wlwmanifest.xml"> 
+  <link rel="shortlink" href="https://wp.me/P99gKM-pg"> 
+  <link rel="alternate" type="application/json+oembed" href="https://www.mines.edu/library/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.mines.edu%2Flibrary%2F"> 
+  <link rel="alternate" type="text/xml+oembed" href="https://www.mines.edu/library/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.mines.edu%2Flibrary%2F&amp;format=xml"> 
+  <style>
+
+
+    </style> 
+  <style type="text/css">
+
+/** PBE CSS **/
+
+#pbe-above-content-wa-wrap .et_pb_widget {
+    display: block;
+    width: 100%;
+    position: relative;
+    margin-top: -15px;
+    margin-bottom: 50px;
+}
+
+#pbe-above-content-wa-wrap .et_pb_section {
+    z-index: 99;
+}
+
+#pbe-below-content-wa-wrap .et_pb_widget {
+    display: block;
+    width: 100%;
+    position: relative;
+    margin-top: -15px;
+}
+
+#pbe-below-content-wa-wrap .et_pb_section {
+    z-index: 99;
+}
+
+#main-header .et_pb_widget {
+    width: 100%;
+}
+
+#main-header .et_pb_widget p {
+    padding-bottom: 0;
+}
+
+#pbe-above-header-wa .widget-conditional-inner {
+    background: #fff;
+    padding: 0;
+    border: none;
+}
+
+#pbe-above-header-wa select {
+    background: #f1f1f1;
+    box-shadow: none;
+    border-radius: 3px;
+    height: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: none;
+}
+
+#pbe-above-header-wa .et_pb_widget
+{
+    float:none;
+}
+
+#pbe-footer-wa-wrap .et_pb_widget {
+    width: 100%;
+    display: block;
+}
+
+.page-container form input[type=text] {
+    display: block;
+    margin-bottom: 20px;
+    width: 100%;
+    background: #f1f1f1;
+    padding: 10px 20px;
+    box-shadow: none;
+    border: none;
+    font-weight: 700;
+}
+
+.page-container form p {
+    font-size: 14px;
+}
+
+.page-container form {
+    padding: 10px 20px;
+}
+
+#pbe-footer-wa-wrap {
+    position: relative;
+    top: -15px;
+}
+
+</style> 
+  <meta name="viewport" content="user-scalable=no, width=device-width"> 
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <style>
+/* Display the team member icons */
+.db_pb_team_member_website_icon:before{content:"\e0e3";}
+.db_pb_team_member_email_icon:before{content:"\e010";}
+.db_pb_team_member_instagram_icon:before{content:"\e09a";}
+
+/* Fix email icon hidden by Email Address Encoder plugin */
+ul.et_pb_member_social_links li > span { 
+	display: inline-block !important; 
+}
+</style> 
+  <style>
+@media only screen and (min-width: 981px) {
+    .et_pb_module.db_inline_form .et_pb_newsletter_fields > p { 
+        flex: auto !important;
+    }
+    .et_pb_module.db_inline_form .et_pb_newsletter_fields p.et_pb_newsletter_field {
+        margin-right: 2%; 
+    }
+}
+</style> 
+  <script>
+	jQuery(function($) {
+			});
+	</script> 
+  <style>
+
+
+
+/* Hide the menu until it is resized */
+#et-top-navigation { display:none; }
+
+/* Centered layout */
+@media only screen and (min-width:1100px) { 
+	.et_header_style_centered #top-menu { max-width:980px; }
+}
+@media only screen and (max-width:1099px) { 
+	.et_header_style_centered #top-menu { max-width:860px; }
+}
+.et_header_style_centered #et-top-navigation{display:block !important}
+
+#footer-info + #footer-info { display: none; }
+
+
+
+
+
+
+
+
+
+
+
+#wtfdivi003-widget-area-wrap { display:none; float:right; max-width: 500px; clear:right; position:relative; }
+#wtfdivi003-widget-area-wrap .et_pb_widget { margin-right:0px; }
+#wtfdivi003-widget-area-wrap .et_pb_widget:last-child { margin-bottom: 18px; }
+.et-fixed-header #wtfdivi003-widget-area-wrap .et_pb_widget:last-child { margin-bottom: 10px; }
+@media only screen and ( max-width: 980px ) { 
+	#wtfdivi003-widget-area-wrap .et_pb_widget:last-child { margin-bottom: 0px; }
+}
+@media only screen and ( max-width: 768px ) {
+	#wtfdivi003-widget-area-wrap .et_pb_widget:first-child { margin-top: 18px; }
+}
+/* Move the sub menus up slightly to avoid unselectable sub menu issue */
+ul.sub-menu { margin-top: -3px; }</style> 
+  <link rel="dns-prefetch" href="//v0.wordpress.com"> 
+  <style type="text/css">img#wpstats{display:none}</style>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1">
+  <link rel="shortcut icon" href="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/wp-content/uploads/assets/icon_triangle_4c_r-512x512.png">
+  <!-- Font Awesome links --> 
+  <script defer src="https://use.fontawesome.com/releases/v5.0.0/js/all.js"></script> 
+  <script defer src="https://use.fontawesome.com/releases/v5.0.0/js/v4-shims.js"></script> 
+  <!-- Library Chat Tab --> 
+  <script src="https://v2.libanswers.com/load_chat.php?hash=d48745b3c53712402e906949fc31532f"></script> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <!-- Script that converts the query string into valid parameter --> 
+  <script type="text/javascript">
+function searchPrimo() {
+	document.getElementById("primoQuery").value = "any,contains," + document.getElementById("primoQueryTemp").value.replace(/[,]/g, " ");  
+	document.getElementById("primoQuery").value = document.getElementById("andyselect").value.replace(/[,]/g, " ")+",contains," + document.getElementById("primoQueryTemp").value.replace(/[,]/g, " ");  
+	document.forms["searchForm"].submit();
+}
+
+	var previousSearchTerm='';
+function setPreviousSearchTerm() {
+    var flag = false;
+    if ((document.getElementById('searchString').value.trim() != '') && (previousSearchTerm.trim() == document.getElementById('searchString').value.trim())) {
+        flag = false;
+    } else {
+        flag = true;
+    }
+    previousSearchTerm=document.getElementById('searchString').value.trim();
+    document.forms["searchForm"].submit();
+    return flag;
+}   
+</script> 
+  <style>
+	#api_hours_today_iid1725_lid0 {
+		display: inline-flex;
+	}
+	
+	#api_hours_today_iid1725_lid6298 {
+		display: inline-flex !important;
+	}
+	
+	#s_lc_tdh_1725_0 {
+		display: inline-flex !important;
+		vertical-align: top;
+	}
+</style>
+  <style id="et-extra-customizer-global-cached-inline-styles">.widget_et_recent_tweets .widget_list a,.widget_et_recent_tweets .et-extra-icon,.widget_et_recent_tweets .widget-footer .et-extra-social-icon,.widget_et_recent_tweets .widget-footer .et-extra-social-icon::before,.project-details .project-details-title,.et_filterable_portfolio .filterable_portfolio_filter a.current,.et_extra_layout .et_pb_column .module-head h1,.et_pb_extra_column .module-head h1,#portfolio_filter a.current,.woocommerce div.product div.summary .product_meta a,.woocommerce-page div.product div.summary .product_meta a,.et_pb_widget.woocommerce .product_list_widget li .amount,.et_pb_widget li a:hover,.et_pb_widget.woocommerce .product_list_widget li a:hover,.et_pb_widget.widget_et_recent_videos .widget_list .title:hover,.et_pb_widget.widget_et_recent_videos .widget_list .title.active,.woocommerce .woocommerce-info:before{color:#D2492A}.single .score-bar,.widget_et_recent_reviews .review-breakdowns .score-bar,.et_pb_extra_module .posts-list article .post-thumbnail,.et_extra_other_module .posts-list article .post-thumbnail,.et_pb_widget .widget_list_portrait,.et_pb_widget .widget_list_thumbnail,.quote-format,.link-format,.audio-format .audio-wrapper,.paginated .pagination li.active,.score-bar,.review-summary-score-box,.post-footer .rating-stars #rating-stars img.star-on,.post-footer .rating-stars #rated-stars img.star-on,.author-box-module .author-box-avatar,.timeline-menu li.active a:before,.woocommerce div.product form.cart .button,.woocommerce-page div.product form.cart .button,.woocommerce div.product form.cart .read-more-button,.woocommerce-page div.product form.cart .read-more-button,.woocommerce div.product form.cart .post-nav .nav-links .button,.woocommerce-page div.product form.cart .post-nav .nav-links .button,.woocommerce .woocommerce-message,.woocommerce-page .woocommerce-message{background-color:#D2492A}#et-menu>li>ul,#et-menu li>ul,#et-menu>li>ul>li>ul,.et-top-search-primary-menu-item .et-top-search,.et_pb_module,.module,.page article,.authors-page .page,#timeline-sticky-header,.et_extra_other_module,.woocommerce .woocommerce-info{border-color:#D2492A}body{color:#333333}#et-menu>li a,#et-menu>li.menu-item-has-children>a:after,#et-menu>li.mega-menu-featured>a:after,#et-extra-mobile-menu>li.mega-menu-featured>a:after{color:#444444}#et-menu>li>a:hover,#et-menu>li.menu-item-has-children>a:hover:after,#et-menu>li.mega-menu-featured>a:hover:after,#et-navigation>ul#et-menu>li.current-menu-item>a,#et-navigation>ul#et-menu>li.current_page_item>a,#et-extra-mobile-menu>li.mega-menu-featured>a:hover:after,#et-extra-mobile-menu>li.current-menu-item>a,#et-extra-mobile-menu>li.current_page_item>a,#et-extra-mobile-menu>li>a:hover{color:#444444}#et-navigation>ul>li>a:before{background-color:#444444}#main-header{background-color:#ffffff}#et-menu>li>ul,#et-menu li>ul,#et-menu>li>ul>li>ul,#et-mobile-navigation nav,.et-top-search-primary-menu-item .et-top-search{background-color:#414f60}#et-menu li.mega-menu-featured>ul li.menu-item .recent-list .recent-post,#et-extra-mobile-menu li.mega-menu-featured>ul li.menu-item .recent-list .recent-post,#et-menu li.mega-menu>ul>li>a,#et-menu li.mega-menu>ul li:last-child a,#et-menu li>ul li a{border-color:rgba(255,255,255,0.08)}#et-menu li>ul li a,#et-menu li.mega-menu>ul>li>a,#et-menu .sub-menu li.mega-menu-featured>a:after,#et-menu .sub-menu li.menu-item-has-children>a:after,#et-extra-mobile-menu .sub-menu li.mega-menu-featured>a:after,#et-extra-mobile-menu li a,#et-menu li.mega-menu-featured>ul li .title,#et-extra-mobile-menu li.mega-menu-featured>ul li .title,#et-menu li.mega-menu-featured>ul li .featured-post h2,#et-extra-mobile-menu li.mega-menu-featured>ul li .featured-post h2,#et-menu li.mega-menu-featured>ul li .featured-post .post-meta a,#et-extra-mobile-menu li.mega-menu-featured>ul li .featured-post .post-meta a,#et-menu li.mega-menu-featured>ul li.menu-item .recent-list .recent-post .post-content .post-meta,#et-extra-mobile-menu li.mega-menu-featured>ul li.menu-item .recent-list .recent-post .post-content .post-meta,#et-menu li.mega-menu-featured>ul li.menu-item .recent-list .recent-post .post-content .post-meta a,#et-extra-mobile-menu li.mega-menu-featured>ul li.menu-item .recent-list .recent-post .post-content .post-meta a{color:#ffffff}#et-menu li>ul li a:hover,#et-extra-mobile-menu li>ul li a:hover,#et-menu li>ul li.current-menu-item a,#et-menu li>ul li.current_page_item a,#et-extra-mobile-menu li>ul li.current-menu-item a,#et-extra-mobile-menu li>ul li.current_page_item a,#et-menu li.mega-menu>ul>li>a:hover,#et-menu .sub-menu li.mega-menu-featured>a:hover:after,#et-menu .sub-menu li.menu-item-has-children>a:hover:after,#et-extra-mobile-menu .sub-menu li.mega-menu-featured>a:hover:after,#et-menu li.mega-menu-featured>ul li .featured-post .post-meta a:hover,#et-extra-mobile-menu li.mega-menu-featured>ul li .featured-post .post-meta a:hover,#et-menu li.mega-menu-featured>ul li.menu-item .recent-list .recent-post .post-content .post-meta a:hover,#et-extra-mobile-menu li.mega-menu-featured>ul li.menu-item .recent-list .recent-post .post-content .post-meta a:hover{color:#e5ebff}#et-secondary-menu li{font-size:13px}#et-secondary-menu li{font-family:'Montserrat',Helvetica,Arial,Lucida,sans-serif}#top-header{background-color:#d2492a}#et-secondary-menu a,#et-secondary-menu li.menu-item-has-children>a:after{color:#ffffff}#et-secondary-nav #et-secondary-menu{background-color:#d2492a}#et-secondary-menu ul a,#et-secondary-menu li>ul li.menu-item-has-children>a:after{color:#ffffff}#et-trending-label,.et-trending-post a{font-size:13.000000px}#et-trending-button{width:18.571429px;height:18.571429px}#et-trending-button span{width:18.571429px;height:1.857143px}#et-trending-button.toggled span:first-child{-webkit-transform:translateY(5.785714px) rotate(45deg);transform:translateY(5.785714px) rotate(45deg)}#et-trending-button.toggled span:last-child{-webkit-transform:translateY(-5.785714px) rotate(-45deg);transform:translateY(-5.785714px) rotate(-45deg)}.et-fixed-header #main-header{background-color:#ffffff}#footer-info a{font-size:12px}#footer #footer-bottom #footer-nav ul.et-extra-social-icons .et-extra-icon{font-size:15px}#footer #footer-bottom #footer-nav ul.et-extra-social-icons .et-extra-icon{line-height:15px}#footer #footer-bottom #footer-nav ul.et-extra-social-icons .et-extra-icon{height:15px}#footer #footer-bottom #footer-nav ul.et-extra-social-icons .et-extra-icon{width:15px}#page-container .button,#page-container button,#page-container button[type="submit"],#page-container input[type="submit"],#page-container input[type="reset"],#page-container input[type="button"],.read-more-button,.comment-body .comment_area .comment-content .reply-container .comment-reply-link,.widget_tag_cloud a,.widget_tag_cloud a:visited,.post-nav .nav-links .button,a.read-more-button,a.read-more-button:visited,#footer .widget_tag_cloud a,#footer .widget_tag_cloud a:visited,#footer a.read-more-button,#footer a.read-more-button:visited,#footer .button,#footer button,#footer button[type="submit"],#footer input[type="submit"],#footer input[type="reset"],#footer input[type="button"],.et_pb_button{font-size:15px}#page-container .button,#page-container button,#page-container button[type="submit"],#page-container input[type="submit"],#page-container input[type="reset"],#page-container input[type="button"],.read-more-button,.comment-body .comment_area .comment-content .reply-container .comment-reply-link,.widget_tag_cloud a,.widget_tag_cloud a:visited,.post-nav .nav-links .button,a.read-more-button,a.read-more-button:visited,#footer .widget_tag_cloud a,#footer .widget_tag_cloud a:visited,#footer a.read-more-button,#footer a.read-more-button:visited,#footer .button,#footer button,#footer button[type="submit"],#footer input[type="submit"],#footer input[type="reset"],#footer input[type="button"],.et_pb_button{color:rgba(255,255,255,0.6)}#page-container .button,#page-container button,#page-container button[type="submit"],#page-container input[type="submit"],#page-container input[type="reset"],#page-container input[type="button"],.read-more-button,.comment-body .comment_area .comment-content .reply-container .comment-reply-link,.widget_tag_cloud a,.widget_tag_cloud a:visited,.post-nav .nav-links .button,a.read-more-button,a.read-more-button:visited,#footer .widget_tag_cloud a,#footer .widget_tag_cloud a:visited,#footer a.read-more-button,#footer a.read-more-button:visited,#footer .button,#footer button,#footer button[type="submit"],#footer input[type="submit"],#footer input[type="reset"],#footer input[type="button"],.et_pb_button{background-color:#d2492a}@media only screen and (min-width:768px){#main-header .logo{height:48px;margin:16px 0}.header.left-right #et-navigation>ul>li>a{padding-bottom:32px}}@media only screen and (min-width:768px){.et-fixed-header #main-header .logo{height:48px;margin:16px 0}.et-fixed-header .header.left-right #et-navigation>ul>li>a{padding-bottom:32px}}.svg-inline--fa{color:#D2492A!important}div#text-5,div#text-5 a{color:#222}div#text-5 a{font-weight:bold}@media only screen and (max-width:980px){div#text-5{padding-bottom:20px}}#ctf{padding:15px}#mines-twitter-feed{background:#e0e0e0;padding:1px 15px 20px}@media only screen and (min-width:981px){.twitter-feed-row{display:flex;align-items:center;justify-content:center}}.page-container form input[type=text]{font-weight:normal!important}#search-boxes .page-container form input[type="text"]{min-height:50px}#s-lg-embedded-search-widget-1513266754631 .s-lg-widget-search{display:block!important;width:100%!important}#s-lg-embedded-search-widget-1513266754631 .s-lg-form-control{min-height:50px;width:100%!important;padding:20px!important;box-shadow:none!important;border:none!important}.et_pb_tabs{border:none}.et_pb_all_tabs{background:#f0f0f0}div.et_pb_code_inner div{background:transparent!important;border:none!important;padding:0!important}input#primoQueryTemp,input#query{background:#fff;min-height:50px}.home .page-container form{padding:20px 0}.home .et_pb_tab_2 .et_pb_tab_content{padding:20px 0}.home .et_pb_tab{padding:20px 40px}@media only screen and (max-width:980px){.home .et_pb_tab{padding:0}.home .et_pb_tab_content,.home .et_pb_tab_2 .et_pb_tab_content{padding:20px}.home .et_pb_tab_1 .et_pb_tab_content img{display:none}.home fieldset{width:100%}}input#go,input[type="submit"],#page-container input[type="submit"]{font-weight:bold!important;appearance:none!important;-webkit-appearance:none!important;-moz-appearance:none!important}#et-extra-mobile-menu>li.current-menu-item>a,#et-extra-mobile-menu>li.current_page_item>a{color:#D2492A}#et-extra-mobile-menu>li>a:hover{color:#fff}@media only screen and (max-width:980px){.lcs_slide_out-r{top:42%!important}}@media only screen and (min-width:981px){.lcs_slide_out-r{top:30%!important}}#et-menu li{padding:10px}#et-menu li.give-main-nav{background:#D2492A;border-radius:3px}#et-menu li.give-main-nav:hover{background:#fff}#et-menu li.give-main-nav a{color:#fff}#et-menu li.give-main-nav a:hover{color:#D2492A}.header.left-right #et-navigation>ul>li>a{padding-bottom:0}#et-navigation>ul>li{margin:0 0 22px}#et-menu>li>ul,#et-menu li>ul{border-color:#414f60}@media only screen and (min-width:1025px){#et-navigation .mega-menu>ul>li>a:first-of-type{font-weight:800}}.rum_sst_left{border-bottom-left-radius:4px;border-bottom-right-radius:4px}#rum_sst_tab{font-family:"Open Sans",Arial,sans-serif;letter-spacing:2px}.et_pb_tabs_controls li{min-height:50px;display:flex;flex-direction:column;justify-content:center}#post-50 .entry-title{display:none}.entry-title{display:none}.et_pb_section{padding-top:0}.et_pb_module{margin-bottom:0}.et_pb_code_inner{padding-top:0}@media only screen and (min-width:401px) and (max-width:1180px){#logo{height:60%}}@media only screen and (max-width:400px){#logo{height:50%}.logo{margin:30px 0 10px}}.entry-meta .byline,.entry-meta{display:none}.entry-meta .posted-on{display:none}#footer .column-1 #text-6.et_pb_widget .textwidget img{max-width:275px!important}#footer .column-1 .footer-logo{margin-top:-20px;margin-bottom:0}#text-3 .widgettitle{display:none}#page-container .mce-widget button,#page-container .wp-editor-tabs button{background:#CED5DD}@media only screen and (max-width:980px){#footer .et_pb_widget{margin-bottom:30px!important}#footer{background:#121B2A}}@media only screen and (min-width:981px){#footer{background:url("https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/uploads/sites/64/2018/01/LB_Front_Facade-blue.jpg");background-size:cover}}#footer .et_pb_widget a{font-weight:400;color:#ABABAB;-moz-transition:all .2s;-webkit-transition:all .2s;transition:all .2s}#footer .et_pb_widget a:hover{color:#fff}#footer .et_pb_widget .widgettitle{font-size:18px;color:#f0f0f0}#footer .et_pb_widget a:hover:after{content:" ?"}#back_to_top{background:#d2492a}.n10s-toronto{background:#d2492a}.n10s-block h2{padding:20px!important;font-size:20px!important;background:rgba(0,0,0,0.5);width:100%;line-height:1.2em!important}.n10s-toronto h2,.n10s-toronto p{text-align:left!important;text-transform:uppercase}.n10s-toronto:hover h2{-webkit-transform:translate3d(0,-80px,0);transform:translate3d(0,-80px,0)}@media only screen and (max-width:600px){.n10s-toronto:hover h2{-webkit-transform:translate3d(0,-50px,0);transform:translate3d(0,-50px,0)}}@media only screen and (max-width:1024px){.n10s-block h2 span{font-size:16px!important;font-weight:300!important}}@media only screen and (min-width:401px) and (max-width:1180px){#logo{height:60%}}@media only screen and (max-width:400px){#logo{height:50%}.logo{margin:30px 0 10px}}.mega-link>a{text-align:center;font-size:20px!important;text-transform:uppercase;font-weight:400!important;letter-spacing:3px}.mega-link>a img{margin-bottom:8px;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px}.blurb:hover{background-color:#ffffff;box-shadow:0 1px 18px rgba(23,23,23,0.17);-moz-box-shadow:0 1px 18px rgba(23,23,23,0.17);-webkit-box-shadow:0 1px 18px rgba(23,23,23,0.21)}.et_pb_tabs_controls li{width:33.33%;text-align:center}@media screen and (max-width:768px){.et_pb_tabs_controls li{width:100%;font-size:14px}}.et_pb_tab_active a,.et_pb_tabs_controls li a{color:#fff!important;line-height:1.2em;padding:6px;font-size:18px}.et_pb_tabs_controls li.et_pb_tab_active{background:#d2492a}.et_pb_tabs_controls li{background:#92a2bd}.gsc-input-box{height:45px!important;border:3px solid #92a2bd!important}.entry-content tr td{border-top:none!important}td.gsc-search-button,.gsc-search-button input.gsc-search-button-v2,input.gsc-search-button-v2{padding:0!important;width:25px!important;height:25px!important}input.gsc-search-button-v2{border:3px solid #d2492a!important}.gsst_a .gscb_a{color:#333!important}#google-searchbar:before{content:"Search This Site";font-family:'Montserrat';color:#21314d;font-size:26px;font-weight:bold}#google-searchbar table{border-color:transparent!important}.gsc-search-box-tools .gsc-search-box .gsc-input{padding-left:0!important}.menu-btn a{background-color:#21314D;color:#ffffff;padding:8px 5px;border-radius:5px;-webkit-transition:all 400ms;transition:width all 400ms}.menu-btn a:hover{background-color:#D2492A;color:#ffffff;-webkit-transition:all 400ms;transition:width all 400ms;border:none}.menu-btn a:after{display:none!important}.et_pb_toggle_close{background-color:#f0f0f0;border-radius:3px;border-top-width:5px;border-left:none;border-right:none;border-bottom:none}.et_pb_toggle_open{background-color:#f0f0f0;border-radius:3px;border-top-width:5px;border-left:none;border-right:none;border-bottom:none;border-color:#7B85A0}.et_pb_toggle_title:before{color:#D2492A!important}a.pbe-page-title{text-align:center;font-size:20px!important;text-transform:uppercase;font-weight:600!important;letter-spacing:2px;font-family:'Montserrat',Arial,sans-serif;color:#21314D}h2.page-title{text-align:center;font-size:36px!important;text-transform:uppercase;font-weight:600!important;letter-spacing:2px;font-family:'Montserrat',helvetica,arial,sans-serif;color:#ffffff}p a{text-decoration:underline}#s-lg-embedded-search-widget-1513266754631 :before,#s-lg-embedded-search-widget-1513266754631 :after{box-sizing:border-box}#s-lg-embedded-search-widget-1513266754631 :before,#s-lg-embedded-search-widget-1513266754631 :after{box-sizing:border-box}#s-lg-embedded-search-widget-1513266754631 .s-lg-form-control{font-size:15px!important;height:50px}#s-lg-embedded-search-widget-1513266754631 .s-lg-form-control{background-color:#fff;background-image:none;border:1px solid #ccc;border-radius:4px;box-shadow:0 1px 1px rgba(0,0,0,0.075) inset;color:#555;display:inline;line-height:1.42857;padding-top:8px!important;padding-bottom:8px!important;transition:border-color .15s ease-in-out 0s,box-shadow .15s ease-in-out 0;width:400px}#s-lg-embedded-search-widget-1513266754631 textarea,#s-lg-embedded-search-widget-1513266754631 input,#s-lg-embedded-search-widget-1513266754631 select{font-weight:normal!important}#s-lg-embedded-search-widget-1513266754631 input,#s-lg-embedded-search-widget-1513266754631 button,#s-lg-embedded-search-widget-1513266754631 select,#s-lg-embedded-search-widget-1513266754631 textarea{font-family:inherit;font-size:inherit;line-height:inherit}#s-lg-embedded-search-widget-1513266754631 button,input,optgroup,select,textarea{color:#222;font:inherit;margin:0;height:39px}#s-lg-embedded-search-widget-1513266754631 *{box-sizing:border-box}#s-lg-embedded-search-widget-1513266754631 .s-lg-form-control::-moz-placeholder{color:#999;opacity:1}#s-lg-embedded-search-widget-1513266754631 .sr-only{border:0 none;clip:rect(0px,0px,0px,0px);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}#s-lg-embedded-search-widget-1513266754631 .s-lg-btn{font-size:14px;height:40px;padding-top:1px;padding-left:12px;padding-right:12px;text-align:center;vertical-align:middle;position:relative;top:-2px}.et_pb_text_inner a:link{text-decoration:underline}li.header a{text-align:left;font-weight:900}li.subheader a{text-decoration:none;font-style:normal;text-align:left}.post-meta{display:none}.single.et_pb_pagebuilder_layout .post-thumbnail{margin:0;display:none}.post-header{padding-top:0}.project-description,.project-categories,.project-tags,.project-url{display:none}.equal-tabs .et_pb_tabs_controls li{width:20%;text-align:center}@media screen and (max-width:768px){.equal-tabs .et_pb_tabs_controls li{width:100%;text-align:center}}.et_pb_tabs_controls li{min-height:55px}@media screen and (max-width:850px){.browzine_img{width:75px;height:75px;margin-top:27px}}.et_pb_blurb_container{padding-top:2.5px;padding-bottom:2.5px}#lcs_slide_out-9139{margin-top:250px}#post-1790 h2{color:#21314d;font-family:'Montserrat',Helvetica,Arial,Lucida,sans-serif;font-size:17px;font-style:normal;font-weight:400;letter-spacing:1px;line-height:22.1px}#post-1790 h4{color:#21314d;font-size:18px;letter-spacing:1px;line-height:23.4px;font-weight:400;font-style:normal;font-family:'Montserrat',Helvetica,Arial,Lucida,sans-serif;padding-bottom:0!important}#post-1790 .dp-custom-field-value{color:#333333;font-family:'Lato',Helvetica,Arial,Lucida,sans-serif;font-size:17px;font-weight:500;line-height:25.5px;word-wrap:break-word}#post-1790 p{color:#333333;font-family:'Lato',Helvetica,Arial,Lucida,sans-serif;font-size:17px;font-weight:500;line-height:25.5px;word-wrap:break-word;padding-bottom:0!important;margin-bottom:.5em}.unittable thead th{background-color:#3E5062;color:white;font-size:20px}.unittable .column-2{width:300px}.unittable strong{font-size:larger}.servicetable .column-1{font-size:20px;font-weight:600;vertical-align:middle}.servicetable strong{font-size:larger;font-weight:600}.servicetable thead th{background-color:#3E5062;color:white;font-size:20px}</style>
+ </head> 
+ <body class="home page-template-default page page-id-1566 desktop et_extra et_pb_pagebuilder_layout et_fullwidth_nav et_fullwidth_secondary_nav et_non_fixed_nav et_pb_gutters3 et_primary_nav_dropdown_animation_flipInX et_secondary_nav_dropdown_animation_Default  et_includes_sidebar et-db"> 
+  <div id="page-container" class="page-container"> 
+   <!-- Header --> 
+   <header class="header left-right"> 
+    <!-- #top-header --> 
+    <div id="top-header" style=""> 
+     <div class="container"> 
+      <!-- Secondary Nav --> 
+      <div id="et-secondary-nav" class=""> 
+       <ul id="et-secondary-menu" class="nav">
+        <li id="menu-item-509" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-509"><a href="http://mines.edu/news">News</a></li> 
+        <li id="menu-item-510" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-510"><a href="http://calendar.mines.edu">Calendar</a></li> 
+        <li id="menu-item-511" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-511"><a href="https://trailhead.mines.edu">Trailhead</a></li> 
+        <li id="menu-item-512" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-512"><a href="http://elearning.mines.edu/">Canvas</a></li> 
+        <li id="menu-item-622" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-622"><a href="https://www.mines.edu/campus-email/">Email</a></li> 
+        <li id="menu-item-513" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-513"><a href="http://library.mines.edu">Library</a></li> 
+        <li id="menu-item-514" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-514"><a href="http://giving.mines.edu/">Give</a></li> 
+        <li id="menu-item-515" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-515"><a href="https://www.mines.edu/directories/">Directories</a></li> 
+       </ul> 
+      </div> 
+      <!-- #et-info --> 
+      <div id="et-info"> 
+       <!-- .et-extra-social-icons --> 
+       <ul class="et-extra-social-icons" style=""> 
+        <li class="et-extra-social-icon facebook"> <a href="https://www.facebook.com/arthurlakeslibrary/" class="et-extra-icon et-extra-icon-background-hover et-extra-icon-facebook"></a> </li> 
+        <li class="et-extra-social-icon twitter"> <a href="https://twitter.com/ArthurLakesLib" class="et-extra-icon et-extra-icon-background-hover et-extra-icon-twitter"></a> </li> 
+        <li class="et-extra-social-icon pinterest"> <a href="https://au.pinterest.com/arthurlakeslib/" class="et-extra-icon et-extra-icon-background-hover et-extra-icon-pinterest"></a> </li> 
+        <li class="et-extra-social-icon instagram"> <a href="https://www.instagram.com/arthurlakeslibrary/" class="et-extra-icon et-extra-icon-background-hover et-extra-icon-instagram"></a> </li> 
+       </ul> 
+       <!-- .et-top-search --> 
+       <!-- cart --> 
+      </div> 
+     </div>
+     <!-- /.container --> 
+    </div>
+    <!-- /#top-header --> 
+    <!-- Main Header --> 
+    <div id="main-header-wrapper"> 
+     <div id="main-header" data-fixed-height="80"> 
+      <div class="container"> 
+       <!-- ET Ad --> 
+       <!-- Logo --> 
+       <a class="logo" href="https://www.mines.edu/library/" data-fixed-height="60"> <img src="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/wp-content/uploads/assets/logo_eee_4c_r.png" alt="Arthur Lakes Library" id="logo"> </a> 
+       <!-- ET Navigation --> 
+       <div id="et-navigation" class=""> 
+        <ul id="et-menu" class="nav">
+         <li id="menu-item-620" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-620"><a href="https://www.mines.edu/library/">Home</a></li> 
+         <li id="menu-item-1253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children mega-menu menu-item-has-children mega-menu-cols menu-item-1253"><a href="https://www.mines.edu/library/research/">Research</a> 
+          <ul class="sub-menu"> 
+           <li id="menu-item-1641" class="header menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1641"><a href="#">Research Help</a> 
+            <ul class="sub-menu"> 
+             <li id="menu-item-1015" class="subheader menu-item menu-item-type-custom menu-item-object-custom menu-item-1015"><a href="http://mines.libanswers.com/form.php?queue_id=2217&nbsp;">Ask a Librarian</a></li> 
+             <li id="menu-item-903" class="subheader menu-item menu-item-type-custom menu-item-object-custom menu-item-903"><a href="http://libguides.mines.edu/">Research Guides</a></li> 
+             <li id="menu-item-905" class="subheader menu-item menu-item-type-custom menu-item-object-custom menu-item-905"><a href="http://libguides.mines.edu/evaluatinginformation">Evaluating Information</a></li> 
+             <li id="menu-item-906" class="subheader menu-item menu-item-type-custom menu-item-object-custom menu-item-906"><a href="http://libguides.mines.edu/offcampusaccess/TOC">Off-Campus Access</a></li> 
+             <li id="menu-item-904" class="subheader menu-item menu-item-type-custom menu-item-object-custom menu-item-904"><a href="http://libguides.mines.edu/citing">Citing Sources</a></li> 
+            </ul> </li> 
+           <li id="menu-item-1642" class="header menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1642"><a href="#">Search by Type</a> 
+            <ul class="sub-menu"> 
+             <li id="menu-item-987" class="subheader menu-item menu-item-type-custom menu-item-object-custom menu-item-987"><a href="https://mines.primo.exlibrisgroup.com/discovery/search?vid=01COLSCHL_INST:EBooks&amp;sortby=rank&amp;lang=en">eBooks</a></li> 
+             <li id="menu-item-988" class="subheader menu-item menu-item-type-custom menu-item-object-custom menu-item-988"><a href="http://libguides.mines.edu/az.php">Databases A-Z</a></li> 
+             <li id="menu-item-989" class="subheader menu-item menu-item-type-custom menu-item-object-custom menu-item-989"><a href="http://browzine.com/libraries/1252/subjects">Journals</a></li> 
+             <li id="menu-item-990" class="subheader menu-item menu-item-type-custom menu-item-object-custom menu-item-990"><a href="https://mines.primo.exlibrisgroup.com/discovery/search?vid=01COLSCHL_INST:MINES&amp;lang=en&amp;mode=advanced&amp;search_scope=CourseReserves&amp;tab=CourseReserves">Course Reserves</a></li> 
+             <li id="menu-item-991" class="subheader menu-item menu-item-type-custom menu-item-object-custom menu-item-991"><a href="http://mines.primo.exlibrisgroup.com/discovery/search?vid=01COLSCHL_INST:MinesTheses&amp;sortby=rank&amp;lang=en">Theses and Dissertations</a></li> 
+             <li id="menu-item-992" class="subheader menu-item menu-item-type-custom menu-item-object-custom menu-item-992"><a href="http://libguides.mines.edu/maps">Maps</a></li> 
+             <li id="menu-item-993" class="subheader menu-item menu-item-type-custom menu-item-object-custom menu-item-993"><a href="http://libguides.mines.edu/govinfo">Government Information</a></li> 
+            </ul> </li> 
+           <li id="menu-item-1643" class="header menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1643"><a href="#">Unique Mines Collections</a> 
+            <ul class="sub-menu"> 
+             <li id="menu-item-1226" class="subheader menu-item menu-item-type-custom menu-item-object-custom menu-item-1226"><a href="https://mines.libcal.com/reserve/gadgets">Gadgets to Go</a></li> 
+             <li id="menu-item-997" class="subheader menu-item menu-item-type-custom menu-item-object-custom menu-item-997"><a href="http://libguides.mines.edu/Collections-CSM-History-Archive">CSM History Archive</a></li> 
+             <li id="menu-item-998" class="subheader menu-item menu-item-type-custom menu-item-object-custom menu-item-998"><a href="http://libguides.mines.edu/Collections-Mining-History-Archive">Mining History Archive</a></li> 
+             <li id="menu-item-999" class="subheader menu-item menu-item-type-custom menu-item-object-custom menu-item-999"><a href="https://mountainscholar.org/handle/11124/20000">Mines Institutional Repository</a></li> 
+             <li id="menu-item-1000" class="subheader menu-item menu-item-type-custom menu-item-object-custom menu-item-1000"><a href="http://libguides.mines.edu/specialcollections/ropeway">Info Center for Ropeway Studies</a></li> 
+             <li id="menu-item-1001" class="subheader menu-item menu-item-type-custom menu-item-object-custom menu-item-1001"><a href="http://libguides.mines.edu/specialcollections/tellertl">Tell Ertl Oil Shale Repository</a></li> 
+            </ul> </li> 
+          </ul> </li> 
+         <li id="menu-item-569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children mega-menu menu-item-has-children mega-menu-cols menu-item-569"><a href="https://www.mines.edu/library/services/">Services</a> 
+          <ul class="sub-menu"> 
+           <li id="menu-item-1644" class="header menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1644"><a href="#">For You</a> 
+            <ul class="sub-menu"> 
+             <li id="menu-item-659" class="subheader menu-item menu-item-type-post_type menu-item-object-page menu-item-659"><a href="https://www.mines.edu/library/students/">On Campus Students</a></li> 
+             <li id="menu-item-2078" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2078"><a href="https://www.mines.edu/library/onlinestudents/">Online Students</a></li> 
+             <li id="menu-item-658" class="subheader menu-item menu-item-type-post_type menu-item-object-page menu-item-658"><a href="https://www.mines.edu/library/faculty-staff/">Faculty &amp; Staff</a></li> 
+             <li id="menu-item-2073" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2073"><a href="https://www.mines.edu/library/alumnimembers/">Alumni &amp; Members</a></li> 
+             <li id="menu-item-660" class="subheader menu-item menu-item-type-post_type menu-item-object-page menu-item-660"><a href="https://www.mines.edu/library/public/">Visitors</a></li> 
+            </ul> </li> 
+           <li id="menu-item-1645" class="header menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1645"><a href="#">Use Your Library</a> 
+            <ul class="sub-menu"> 
+             <li id="menu-item-1002" class="subheader menu-item menu-item-type-custom menu-item-object-custom menu-item-1002"><a href="https://mines.primo.exlibrisgroup.com/discovery/account?vid=01COLSCHL_INST:MINES&amp;section=overview&amp;lang=en">My Account</a></li> 
+             <li id="menu-item-1112" class="subheader menu-item menu-item-type-post_type menu-item-object-page menu-item-1112"><a href="https://www.mines.edu/library/borrow/">Borrow &amp; Renew</a></li> 
+             <li id="menu-item-975" class="subheader menu-item menu-item-type-post_type menu-item-object-page menu-item-975"><a href="https://www.mines.edu/library/services/computers/">Computers</a></li> 
+             <li id="menu-item-933" class="subheader menu-item menu-item-type-post_type menu-item-object-page menu-item-933"><a href="https://www.mines.edu/library/printing/">Print, Copy, Scan</a></li> 
+             <li id="menu-item-1113" class="subheader menu-item menu-item-type-post_type menu-item-object-page menu-item-1113"><a href="https://www.mines.edu/library/rooms/">Study &amp; Meeting Rooms</a></li> 
+             <li id="menu-item-1378" class="subheader menu-item menu-item-type-post_type menu-item-object-page menu-item-1378"><a href="https://www.mines.edu/library/ill/">Interlibrary Loan</a></li> 
+             <li id="menu-item-1338" class="subheader menu-item menu-item-type-post_type menu-item-object-page menu-item-1338"><a href="https://www.mines.edu/library/services/digitalinitiatives/">For-Fee Digitization</a></li> 
+            </ul> </li> 
+           <li id="menu-item-1646" class="header menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1646"><a href="#">Help</a> 
+            <ul class="sub-menu"> 
+             <li id="menu-item-1016" class="subheader menu-item menu-item-type-custom menu-item-object-custom menu-item-1016"><a href="http://libguides.mines.edu/">Library Guides</a></li> 
+             <li id="menu-item-657" class="subheader menu-item menu-item-type-custom menu-item-object-custom menu-item-657"><a href="http://mines.libanswers.com/form.php?queue_id=2217">Ask a Librarian</a></li> 
+             <li id="menu-item-1017" class="subheader menu-item menu-item-type-custom menu-item-object-custom menu-item-1017"><a href="http://mines.libanswers.com/">FAQ</a></li> 
+             <li id="menu-item-976" class="subheader menu-item menu-item-type-custom menu-item-object-custom menu-item-976"><a href="http://libguides.mines.edu/offcampusaccess">Off Campus Access</a></li> 
+             <li id="menu-item-1120" class="subheader menu-item menu-item-type-custom menu-item-object-custom menu-item-1120"><a href="http://mines.libanswers.com/form.php?queue_id=2253">Report a Problem</a></li> 
+             <li id="menu-item-1022" class="subheader menu-item menu-item-type-custom menu-item-object-custom menu-item-1022"><a href="https://www.mines.edu/ccit/">CCIT Help Desk</a></li> 
+             <li id="menu-item-1018" class="subheader menu-item menu-item-type-custom menu-item-object-custom menu-item-1018"><a href="https://www.mines.edu/casa/">CASA</a></li> 
+            </ul> </li> 
+           <li id="menu-item-1647" class="header menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1647"><a href="#">Instruction</a> 
+            <ul class="sub-menu"> 
+             <li id="menu-item-1139" class="subheader menu-item menu-item-type-post_type menu-item-object-page menu-item-1139"><a href="https://www.mines.edu/library/instructionlibrarians/">Librarians</a></li> 
+             <li id="menu-item-1159" class="subheader menu-item menu-item-type-post_type menu-item-object-page menu-item-1159"><a href="https://www.mines.edu/library/instructionservices/">Services</a></li> 
+             <li id="menu-item-1980" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1980"><a href="https://www.mines.edu/library/ionlineinstruction/">Mines Online</a></li> 
+             <li id="menu-item-1024" class="subheader menu-item menu-item-type-custom menu-item-object-custom menu-item-1024"><a href="http://libguides.mines.edu/oer">Open Education Resources</a></li> 
+             <li id="menu-item-1147" class="subheader menu-item menu-item-type-post_type menu-item-object-page menu-item-1147"><a href="https://www.mines.edu/library/suggest-a-purchase/">Suggest a Purchase</a></li> 
+             <li id="menu-item-1023" class="subheader menu-item menu-item-type-post_type menu-item-object-page menu-item-1023"><a href="https://www.mines.edu/library/reserve-requests/">Course Reserve Request</a></li> 
+            </ul> </li> 
+          </ul> </li> 
+         <li id="menu-item-928" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-928"><a href="https://www.mines.edu/library/about/contact/">Contact Us</a></li> 
+         <li id="menu-item-576" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children mega-menu menu-item-has-children mega-menu-cols menu-item-576"><a href="https://www.mines.edu/library/about/">About</a> 
+          <ul class="sub-menu"> 
+           <li id="menu-item-1648" class="header menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1648"><a href="#">The Basics</a> 
+            <ul class="sub-menu"> 
+             <li id="menu-item-1856" class="subheader menu-item menu-item-type-post_type menu-item-object-page menu-item-1856"><a href="https://www.mines.edu/library/faculty-and-staff/">Staff Directory</a></li> 
+             <li id="menu-item-2023" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2023"><a href="https://mines.libcal.com/hours/">Hours</a></li> 
+             <li id="menu-item-2114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2114"><a href="https://www.mines.edu/library/about/location/">Directions and Parking Information</a></li> 
+             <li id="menu-item-2115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2115"><a href="https://www.mines.edu/library/floorplans/">Floor Plans</a></li> 
+             <li id="menu-item-2116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2116"><a href="https://www.mines.edu/library/about/policies/">Policies</a></li> 
+             <li id="menu-item-2117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2117"><a href="https://www.mines.edu/library/bookandbrew/">Book and Brew Coffee Shop</a></li> 
+            </ul> </li> 
+           <li id="menu-item-2084" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2084"><a href="#">Where We’re Going</a> 
+            <ul class="sub-menu"> 
+             <li id="menu-item-2085" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2085"><a href="https://www.mines.edu/library/mission/">Mission, Vision and Values</a></li> 
+             <li id="menu-item-2086" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2086"><a href="https://www.mines.edu/library/strategic/">Strategic Plan</a></li> 
+             <li id="menu-item-2087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2087"><a href="https://www.mines.edu/library/renovation/">Renovation Plans</a></li> 
+            </ul> </li> 
+           <li id="menu-item-2088" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2088"><a href="#">Cool Things We Do</a> 
+            <ul class="sub-menu"> 
+             <li id="menu-item-2089" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2089"><a href="https://mines.libcal.com/events">Events</a></li> 
+             <li id="menu-item-2094" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2094"><a href="https://mountainscholar.org/handle/11124/170810">Newsletter</a></li> 
+            </ul> </li> 
+           <li id="menu-item-2091" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2091"><a href="#">Advocate, Participate, Donate</a> 
+            <ul class="sub-menu"> 
+             <li id="menu-item-2092" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2092"><a href="https://libguides.mines.edu/librarybudget">Library Budget Assessment</a></li> 
+             <li id="menu-item-2093" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2093"><a href="https://www.mines.edu/library/give/">Give to the Library</a></li> 
+            </ul> </li> 
+          </ul> </li> 
+        </ul> 
+        <div id="et-mobile-navigation"> 
+         <span class="show-menu"> 
+          <div class="show-menu-button"> 
+           <span></span> 
+           <span></span> 
+           <span></span> 
+          </div> <p>Select Page</p> </span> 
+         <nav> 
+         </nav> 
+        </div> 
+        <!-- /#et-mobile-navigation --> 
+       </div>
+       <!-- /#et-navigation --> 
+      </div>
+      <!-- /.container --> 
+     </div>
+     <!-- /#main-header --> 
+    </div>
+    <!-- /#main-header-wrapper --> 
+   </header> 
+   <div id="main-content"> 
+    <div class="container"> 
+     <div id="content-area" class=" clearfix"> 
+      <div class="et_pb_extra_column_main"> 
+       <article id="post-1566" class="post-1566 page type-page status-publish hentry"> 
+        <div class="post-wrap"> 
+         <h1 class="entry-title">Library Home</h1> 
+         <div class="post-content entry-content"> 
+          <div id="et-boc" class="et-boc"> 
+           <div class="et_builder_inner_content et_pb_gutters3">
+            <div class="et_pb_section et_pb_section_0 et_section_regular"> 
+             <div id="search-boxes" class="et_pb_row et_pb_row_0"> 
+              <div class="et_pb_column et_pb_column_4_4 et_pb_column_0    et_pb_css_mix_blend_mode_passthrough et-last-child"> 
+               <div class="et_pb_module et_pb_tabs et_pb_tabs_0 equal-tabs "> 
+                <ul class="et_pb_tabs_controls clearfix"> 
+                 <li class="et_pb_tab_0 et_pb_tab_active"><a href="#">Books and More</a></li>
+                 <li class="et_pb_tab_1"><a href="#">eJournals</a></li>
+                 <li class="et_pb_tab_2"><a href="#">Databases</a></li>
+                 <li class="et_pb_tab_3"><a href="#">Prospector</a></li>
+                 <li class="et_pb_tab_4"><a href="#">Digital Repository</a></li> 
+                </ul> 
+                <div class="et_pb_all_tabs"> 
+                 <div class="et_pb_tab et_pb_tab_0 clearfix et_pb_active_content"> 
+                  <div class="et_pb_tab_content"> 
+                   <div class="et_pb_module et_pb_code et_pb_code_0"> 
+                    <div class="et_pb_code_inner"> 
+                     <div style="align: left; margin: 0px; border: 1px solid #92A2BD; background: #CED5DD; padding: 20px 20px; -webkit-border-radius: 12px; -moz-border-radius: 12px; border-radius: 12px; margin-bottom:-10px;"> 
+                      <h3 style="color: #425262; margin-top:10px;">Search the Library Database</h3> 
+                      <!--Customized and added select box by Andy Tang at 12/12/2017--> 
+                      <!--<select name="search_field" id="andyselect" style="vertical-align:text-top; font-size:93%;" title="Search within" size="7">--> 
+                      <!--<select id="searchOptions" style="color: #425262; margin-left: 10px;"> <select name="search_field" id="andyselect" title="Search within" >
+ <option selected="selected" value="any">Keyword</option>
+ <option value="title">Title</option>
+ <option value="creator">Author</option>
+ </select>--> 
+                      <form id="simple" name="searchForm" method="get" target="_self" action="https://mines.primo.exlibrisgroup.com/discovery/search" enctype="application/x-www-form-urlencoded; charset=utf-8" onsubmit="searchPrimo()" style="display:flex; align-items: baseline;padding-left:0px;margin-bottom:-20px;"> 
+                       <!-- Customizable Parameters --> 
+                       <input name="institution" type="hidden" value="01COLSCHL_INST"> 
+                       <input name="vid" type="hidden" value="01COLSCHL_INST:MINES"> 
+                       <input name="tab" type="hidden" value="Everything"> 
+                       <input name="search_scope" type="hidden" value="MyInst_and_CI"> 
+                       <input name="mode" type="hidden" value="Basic"> 
+                       <!-- Fixed parameters --> 
+                       <input name="displayMode" type="hidden" value="full"> 
+                       <input name="bulkSize" type="hidden" value="10"> 
+                       <input name="highlight" type="hidden" value="true"> 
+                       <input name="dum" type="hidden" value="true"> 
+                       <input id="primoQuery" name="query" type="hidden"> 
+                       <input name="displayField" type="hidden" value="all"> 
+                       <!-- Enable this if "Expand My Results" is enabled by default in Views Wizard --> 
+                       <input type="hidden" name="pcAvailabiltyMode" value="true"> 
+                       <input type="text" id="primoQueryTemp" value="" size="400" style="display:flex; flex-grow:1; min-height: 50px; margin-bottom:20px !important; width:90%;" placeholder="Find books, articles, maps, and more"> 
+                       <!-- Search Button --> 
+                       <input id="go" title="Search" onclick="searchPrimo()" type="submit" value="Search" alt="Search" style="height: 40px; font-size: 14px; font-weight: bold; background: #D2492A; display:flex; flex-grow:0; min-height: 50px; margin-left: 5px;"> 
+                      </form> 
+                      <!-- Search Links at the bottom of the search box --> 
+                      <p style="text-align: center; margin-top:10px; margin-bottom: 22px;"><i class="fa fa-search-plus"></i> <a href="https://mines.primo.exlibrisgroup.com/discovery/search?vid=01COLSCHL_INST:MINES&amp;mode=advanced&amp;tab=Everything&amp;lang=en&amp;sortby=rank"> <strong>Advanced Search</strong></a> | <a href="https://mines.primo.exlibrisgroup.com/discovery/search?vid=01COLSCHL_INST:MinesTheses&amp;sortby=rank&amp;lang=en"> Mines Theses and Dissertations</a> | <a style="color: #425262;font-weight: normal" href="http://libguides.mines.edu/offcampusaccess/TOC">Off campus?</a> | <a style="color: #425262;font-weight: normal" href="https://mines.primo.exlibrisgroup.com/discovery/account?vid=01COLSCHL_INST:MINES&amp;section=overview&amp;lang=en">My Account</a></p> 
+                      <!-- End div --> 
+                     </div> 
+                    </div> 
+                    <!-- .et_pb_code_inner --> 
+                   </div> 
+                   <!-- .et_pb_code --> 
+                  </div>
+                  <!-- .et_pb_tab_content" --> 
+                 </div> 
+                 <!-- .et_pb_tab -->
+                 <div class="et_pb_tab et_pb_tab_1 clearfix"> 
+                  <div class="et_pb_tab_content"> 
+                   <div class="et_pb_module et_pb_code et_pb_code_1"> 
+                    <div class="et_pb_code_inner"> 
+                     <div style="margin: 0px;border: 1px solid #92A2BD;background: #CED5DD;padding: 10px 20px"> 
+                      <h3 style="text-transform:none; margin-top: 10px;">SEARCH eJOURNALS</h3> 
+                      <div class="row"> 
+                       <div class="column left" style="float: left;width: 85%"> 
+                        <form method="get" action="https://api.thirdiron.com/v2/libraries/1252/external-search" style="padding: 20px 0;margin-top: -30px;margin-bottom: 0px"> 
+                         <fieldset> 
+                          <p style="display:flex;"> <input type="text" name="query" placeholder="FIND SCHOLARLY AND POPULAR JOURNALS AND ARTICLES BY TITLE OR SUBJECT" style="display:flex; flex-grow:1; min-height: 50px;" id="query" required> <input type="submit" value="Search" style="display:flex; flex-grow:0; min-height: 50px; margin-left: 5px;"> </p> 
+                         </fieldset> 
+                        </form> 
+                        <p></p> 
+                       </div>
+                       <p> </p>
+                       <div class="column right" style="float:right;width: 15%;margin-bottom: -20px;"> 
+                        <a href="https://browzine.com/libraries/1252/subjects"><img class"browzine_img" alt="BrowZineLogo" src="//s3.amazonaws.com/libapps/accounts/78343/images/BrowZinelogo.png" style="width: 125px;height: 125px;text-align: center;margin-top: -45px;"></a> 
+                        <p></p> 
+                       </div>
+                       <p> </p> 
+                      </div>
+                      <p> </p> 
+                     </div> 
+                    </div> 
+                    <!-- .et_pb_code_inner --> 
+                   </div> 
+                   <!-- .et_pb_code --> 
+                  </div>
+                  <!-- .et_pb_tab_content" --> 
+                 </div> 
+                 <!-- .et_pb_tab -->
+                 <div class="et_pb_tab et_pb_tab_2 clearfix"> 
+                  <div class="et_pb_tab_content"> 
+                   <div class="et_pb_module et_pb_code et_pb_code_2"> 
+                    <div class="et_pb_code_inner"> 
+                     <div style="margin: 0px;border: 1px solid #92A2BD;background: #CED5DD;padding: 10px 20px;padding-bottom:0px;margin-top: 20px;"> 
+                      <h3 style="margin-top:-20px;">Search Databases</h3> 
+                      <form role="search" method="GET" action="//libguides.mines.edu/az.php" target="_blank" style="display:flex;margin-bottom: -20px;padding-left:0px;"> 
+                       <label class="control-label sr-only" for="s-lg-guide-search">Guide Search Terms</label> 
+                       <input class="s-lg-form-control" name="q" id="s-lg-guide-search" type="text" placeholder="Find Databases by Name or Subject" style="background: #FFFFFF;display:flex; flex-grow:1; min-height: 50px;"> 
+                       <button class="s-lg-btn-api-drop btn btn-default" type="submit" style="display:flex; flex-grow:0; margin-left: 5px; height:50px;">Search</button> 
+                      </form> 
+                      <p style="text-align: center; margin-top:10px; margin-bottom: -20px; padding-bottom:0px;"><a id="AtoZDatabasesLink" href="https://libguides.mines.edu/az.php">Browse All Databases</a></p> 
+                      <p></p> 
+                     </div> 
+                    </div> 
+                    <!-- .et_pb_code_inner --> 
+                   </div> 
+                   <!-- .et_pb_code --> 
+                  </div>
+                  <!-- .et_pb_tab_content" --> 
+                 </div> 
+                 <!-- .et_pb_tab -->
+                 <div class="et_pb_tab et_pb_tab_3 clearfix"> 
+                  <div class="et_pb_tab_content"> 
+                   <div class="et_pb_module et_pb_code et_pb_code_3"> 
+                    <div class="et_pb_code_inner"> 
+                     <div style="margin: 0px;border: 1px solid #92A2BD;background: #CED5DD;padding: 10px 20px">
+                      <!-- [et_pb_line_break_holder] -->
+                      <h3 style="color: #425262; margin-top: 20px; padding: 0px; padding-bottom:10px;">Search Prospector</h3>
+                      <!-- [et_pb_line_break_holder] -->
+                      <div class="row">
+                       <!-- [et_pb_line_break_holder] -->
+                       <div class="column left" style="float:left; width:85%;">
+                        <!-- [et_pb_line_break_holder] --> 
+                        <!-- [et_pb_line_break_holder] -->
+                        <form method="post" action="http://encore.coalliance.org/iii/encore/HomePage,queryComponent.searchFormComponent.sdirect" id="searchFormComponent" style="padding: 10px 20px; margin-bottom:0px; padding-left:0px;">
+                         <!-- [et_pb_line_break_holder] -->
+                         <!-- [et_pb_line_break_holder] -->
+                         <div style="display:none;" id="searchFormComponenthidden">
+                          <input type="hidden" name="formids" value="If_2,searchString,If_0_1,If_4,searchImageSumbitComponent">
+                          <!-- [et_pb_line_break_holder] -->
+                          <input type="hidden" name="seedids" value="ZH4sIAAAAAAAAAH1SUU4CMRAlId7ETz7gCLpi3AQSAyR+mqE7yzZ0O3VaMHgjo1fzDs4uJLZF+Or0venMvDf9/hncfAwGw6/h58gj77XC2/HIwaY7FLWOLNrQxzaAtsgSe/Rek+0id8p+YXAOuYhe+AaNiYE1VYfkDh4fNKMKUqy00j7EdA0yDdkFGugSYsrSUrF2YY4BFlgz+ibtTO/FzgdqnxAq5LKOWRUzZ13XRNsCOMy03f7hk1FZZ+SdTcSU9etYjqnxmCXOxS1x6LyVg8BkV0TGx3DTT3aafzWfxVwgd29IbVNFgi7QyqOei5k9GF319k2Zia9Q/jGlu31L5E+Fs9W97ZAPy+PmMiOg2oNVWC0RWDXpoCnXeZUIpxafxani2LqAgBviw38p2UYhgKFN0RCJx9k8KqmmMRU6yXgRZUQWVvmfYe6S0tzzlV4odklpjve2Jj+5N0ombiP0F6QK8Ba0AwAA">
+                          <!-- [et_pb_line_break_holder] -->
+                          <input type="hidden" name="lang" value="eng">
+                          <!-- [et_pb_line_break_holder] -->
+                          <input type="hidden" name="suite" value="def">
+                          <!-- [et_pb_line_break_holder] -->
+                          <input type="hidden" name="reservedids" value="inst,lang,suite">
+                          <!-- [et_pb_line_break_holder] -->
+                          <input type="hidden" name="submitmode" value="">
+                          <!-- [et_pb_line_break_holder] -->
+                          <input type="hidden" name="submitname" value="">
+                          <!-- [et_pb_line_break_holder] -->
+                          <input type="hidden" name="If_2" value="F">
+                          <!-- [et_pb_line_break_holder] -->
+                          <input type="hidden" name="If_0_1" value="F">
+                          <!-- [et_pb_line_break_holder] -->
+                          <input type="hidden" name="If_4" value="T">
+                          <!-- [et_pb_line_break_holder] -->
+                         </div>
+                         <!-- [et_pb_line_break_holder] -->
+                         <!-- [et_pb_line_break_holder] -->
+                         <div style="display:flex;">
+                          <!-- [et_pb_line_break_holder] -->
+                          <input type="text" name="searchString" value="" id="searchString" tabindex="0" onfocus="return;" size="40" placeholder="REQUEST ITEMS FROM THE REGION'S LIBRARIES" style="background: #FFFFFF; display:flex; flex-grow:1; min-height: 50px;margin-bottom:20px;">
+                          <!-- [et_pb_line_break_holder] -->
+                          <!-- [et_pb_line_break_holder] -->
+                          <input type="submit" title="Search" value="Search" name="searchImageSumbitComponent" id="searchImageSumbitComponent" height="40" alt="Search" width="40" tabindex="0" onclick="return setPreviousSearchTerm()" style="display:flex; flex-grow:0; min-height: 50px; margin-left: 5px;">
+                          <!-- [et_pb_line_break_holder] -->
+                          <!-- [et_pb_line_break_holder] -->
+                         </div>
+                         <!-- [et_pb_line_break_holder] -->
+                        </form>
+                        <!-- [et_pb_line_break_holder] -->
+                       </div>
+                       <!-- [et_pb_line_break_holder] -->
+                       <div class="column right" style="float:right;width: 15%;margin-bottom:30px;">
+                        <!-- [et_pb_line_break_holder] -->
+                        <a href="https://prospectorhome.coalliance.org/prospectornews/about"><img alt="Prospector Logo" src="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/uploads/sites/64/2018/07/prospectorlogo2.jpg" style="text-align: center; margin-top: 12px;margin-left:10px;"></a>
+                        <!-- [et_pb_line_break_holder] -->
+                       </div>
+                       <!-- [et_pb_line_break_holder] -->
+                      </div>
+                      <!-- [et_pb_line_break_holder] -->
+                      <!-- [et_pb_line_break_holder] -->
+                      <p style="text-align: center; margin-bottom: 0px; margin-top:100px; padding-bottom:0px;"><i class="fa fa-search-plus"></i> <a id="advancedSearchLinkComponent" onclick="redirectToAdvancedSearch('http://encore.coalliance.org:80/iii/encore/home?lang=eng&amp;suite=def&amp;advancedSearch=true'); return false;" updatecomponents="$GenericLink_21@db5f3ee1[HomePage/queryComponent.advancedSearchLinkComponent]" async="true" href="http://encore.coalliance.org/iii/encore/home?lang=eng&amp;suite=def&amp;advancedSearch=true&amp;searchString=">Advanced Search</a>
+                       <!-- [et_pb_line_break_holder] --></p>
+                     </div>
+                     <!-- [et_pb_line_break_holder] --> 
+                    </div> 
+                    <!-- .et_pb_code_inner --> 
+                   </div> 
+                   <!-- .et_pb_code --> 
+                  </div>
+                  <!-- .et_pb_tab_content" --> 
+                 </div> 
+                 <!-- .et_pb_tab -->
+                 <div class="et_pb_tab et_pb_tab_4 clearfix"> 
+                  <div class="et_pb_tab_content"> 
+                   <div class="et_pb_module et_pb_code et_pb_code_4 et_hover_enabled"> 
+                    <div class="et_pb_code_inner"> 
+                     <h3 style="margin-top: 20px; padding-bottom:10px;">Search Digital Repository</h3> 
+                     <!-- [et_pb_line_break_holder] --> 
+                     <!-- [et_pb_line_break_holder] -->
+                     <form id="simple" name="searchIRForm" method="get" target="_self" action="https://mines.primo.exlibrisgroup.com/discovery/search" enctype="application/x-www-form-urlencoded; charset=utf-8" onsubmit="searchPrimoIR()" style="display:flex; margin-bottom: 0px;padding-left:0px;padding-bottom:0px;"> 
+                      <!-- [et_pb_line_break_holder] --> 
+                      <!-- [et_pb_line_break_holder] --> 
+                      <select name="search_field" id="selectIROption" title="Search within" style="min-height:50px; margin-right: 10px;"> 
+                       <!-- [et_pb_line_break_holder] --><option selected value="any">Everything</option>
+                       <!-- [et_pb_line_break_holder] --><option value="title">Title</option>
+                       <!-- [et_pb_line_break_holder] --><option value="creator">Author/Creator</option>
+                       <!-- [et_pb_line_break_holder] --><option value="sub">Subject</option>
+                       <!-- [et_pb_line_break_holder] --> </select> 
+                      <!-- [et_pb_line_break_holder] --> 
+                      <!-- [et_pb_line_break_holder] --> 
+                      <!-- [et_pb_line_break_holder] -->
+                      <input name="institution" type="hidden" value="01COLSCHL_INST"> 
+                      <!-- [et_pb_line_break_holder] -->
+                      <input name="vid" type="hidden" value="01COLSCHL_INST:MINES"> 
+                      <!-- [et_pb_line_break_holder] -->
+                      <input name="tab" type="hidden" value="DigitalRepository"> 
+                      <!-- [et_pb_line_break_holder] -->
+                      <input name="search_scope" type="hidden" value="DigitalRepository"> 
+                      <!-- [et_pb_line_break_holder] -->
+                      <input name="mode" type="hidden" value="Basic"> 
+                      <!-- [et_pb_line_break_holder] --> 
+                      <!-- [et_pb_line_break_holder] -->
+                      <input name="displayMode" type="hidden" value="full"> 
+                      <!-- [et_pb_line_break_holder] -->
+                      <input name="bulkSize" type="hidden" value="10"> 
+                      <!-- [et_pb_line_break_holder] -->
+                      <input name="highlight" type="hidden" value="true"> 
+                      <!-- [et_pb_line_break_holder] -->
+                      <input name="dum" type="hidden" value="true"> 
+                      <!-- [et_pb_line_break_holder] -->
+                      <input id="primoQueryIR" name="query" type="hidden"> 
+                      <!-- [et_pb_line_break_holder] -->
+                      <input name="displayField" type="hidden" value="all"> 
+                      <!-- [et_pb_line_break_holder] --> 
+                      <!-- [et_pb_line_break_holder] -->
+                      <input type="hidden" name="pcAvailabiltyMode" value="true"> 
+                      <!-- [et_pb_line_break_holder] -->
+                      <input type="text" id="primoQueryIRTemp" value="" size="35" style="background: #FFFFFF;display:flex; flex-grow:1; min-height: 50px;margin-bottom:20px;" placeholder="Find Photos, Maps, and More"> 
+                      <!-- [et_pb_line_break_holder] -->
+                      <!-- Search Button --> 
+                      <!-- [et_pb_line_break_holder] -->
+                      <input id="go" title="Search" onclick="document.getElementById('primoQueryIR').value = document.getElementById('selectIROption').value.replace(/[,]/g, ' ')+',contains,' + document.getElementById('primoQueryIRTemp').value.replace(/[,]/g, ' ');" type="submit" value="Search" alt="Search" style="height: 40px; font-size: 14px; font-weight: bold; background: #D2492A; overflow: hidden; margin-left: 0px; display:flex; flex-grow:0; min-height: 50px; margin-left: 5px; padding-right:25px;"> 
+                      <!-- [et_pb_line_break_holder] --> 
+                      <!-- [et_pb_line_break_holder] -->
+                     </form> 
+                     <!-- [et_pb_line_break_holder] --> 
+                     <!-- [et_pb_line_break_holder] -->
+                     <p style="text-align: center; margin-bottom: 0px; margin-top:15px; padding-bottom:0px;"> 
+                      <!-- [et_pb_line_break_holder] --><i class="fa fa-search-plus"></i> <a id="advancedSearchLinkComponent" onclick="redirectToAdvancedSearch('http://encore.coalliance.org:80/iii/encore/home?lang=eng&amp;suite=def&amp;advancedSearch=true'); return false;" updatecomponents="$GenericLink_21@db5f3ee1[HomePage/queryComponent.advancedSearchLinkComponent]" async="true" href="http://encore.coalliance.org/iii/encore/home?lang=eng&amp;suite=def&amp;advancedSearch=true&amp;searchString=">Advanced Search</a> | <a href="https://mountainscholar.org/handle/11124/20000">Mountain Scholar</a> 
+                      <!-- [et_pb_line_break_holder] --> </p>
+                    </div> 
+                    <!-- .et_pb_code_inner --> 
+                   </div> 
+                   <!-- .et_pb_code --> 
+                  </div>
+                  <!-- .et_pb_tab_content" --> 
+                 </div> 
+                 <!-- .et_pb_tab --> 
+                </div> 
+                <!-- .et_pb_all_tabs --> 
+               </div> 
+               <!-- .et_pb_tabs --> 
+              </div> 
+              <!-- .et_pb_column --> 
+             </div> 
+             <!-- .et_pb_row -->
+             <div class="et_pb_row et_pb_row_1"> 
+              <div class="et_pb_column et_pb_column_1_3 et_pb_column_1    et_pb_css_mix_blend_mode_passthrough"> 
+               <div class="et_pb_module et_pb_text et_pb_text_0 et_pb_bg_layout_light  et_pb_text_align_left"> 
+                <div class="et_pb_text_inner"> 
+                 <div class="one_half"> 
+                  <p style="text-align: center;"><a href="https://mines.libcal.com/reserve/gadgets"><img class="alignright wp-image-1204 size-full" src="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/uploads/sites/64/2018/01/gadgets-icon-CR.png" alt="Gadgets to Go" width="150" height="150"></a></p> 
+                  <p style="text-align: center;"> </p>
+                 </div> 
+                 <div class="one_half et_column_last"> 
+                  <p style="text-align: center;"><a href="https://mines.libcal.com/reserve/gadgets"><img class="alignright wp-image-1203 size-full" src="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/uploads/sites/64/2018/01/tool-lib-icon-CR.png" alt="Tool Library" width="150" height="150"></a></p> 
+                  <p style="text-align: center;"> </p>
+                 </div> 
+                </div> 
+               </div> 
+               <!-- .et_pb_text --> 
+              </div> 
+              <!-- .et_pb_column -->
+              <div class="et_pb_column et_pb_column_1_3 et_pb_column_2    et_pb_css_mix_blend_mode_passthrough"> 
+               <div class="et_pb_module et_pb_text et_pb_text_1 et_pb_bg_layout_light  et_pb_text_align_left"> 
+                <div class="et_pb_text_inner"> 
+                 <div class="one_half"> 
+                  <p style="text-align: center"><a href="http://libguides.mines.edu/specialcollections/home"><img class="alignright wp-image-1200 size-full" src="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/uploads/sites/64/2018/01/special-collections-icon-CR.png" alt="Special Collections" width="150" height="150"></a></p> 
+                  <p style="text-align: center"> </p>
+                 </div> 
+                 <div class="one_half et_column_last"> 
+                  <p style="text-align: center"><a href="https://www.mines.edu/library/rooms/"><img class="alignright wp-image-1201 size-full" src="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/uploads/sites/64/2018/01/study-room-icon-CR.png" alt="Reserve a Study Room" width="150" height="150"></a></p> 
+                  <p style="text-align: center"> </p>
+                 </div> 
+                </div> 
+               </div> 
+               <!-- .et_pb_text --> 
+              </div> 
+              <!-- .et_pb_column -->
+              <div class="et_pb_column et_pb_column_1_3 et_pb_column_3    et_pb_css_mix_blend_mode_passthrough"> 
+               <div class="et_pb_module et_pb_text et_pb_text_2 et_pb_bg_layout_light  et_pb_text_align_left"> 
+                <div class="et_pb_text_inner"> 
+                 <div class="one_half"> 
+                  <p style="text-align: center"><a href="http://libguides.mines.edu/"><img class="alignright wp-image-1202 size-full" src="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/uploads/sites/64/2018/01/research-guides-icon-CR.png" alt="Research Guides" width="150" height="150"></a></p> 
+                  <p style="text-align: center"> </p>
+                 </div> 
+                 <div class="one_half et_column_last"> 
+                  <p style="text-align: center"><a href="http://mines.libanswers.com/"><img class="alignright wp-image-1205 size-full" src="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/uploads/sites/64/2018/01/faq-icon-CR.png" alt="FAQ" width="150" height="150"></a></p> 
+                  <p style="text-align: center"> </p>
+                 </div> 
+                </div> 
+               </div> 
+               <!-- .et_pb_text --> 
+              </div> 
+              <!-- .et_pb_column --> 
+             </div> 
+             <!-- .et_pb_row -->
+             <div class="et_pb_row et_pb_row_2"> 
+              <div class="et_pb_column et_pb_column_2_3 et_pb_column_4    et_pb_css_mix_blend_mode_passthrough"> 
+               <div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_center et_pb_module "> 
+                <a class="et_pb_button et_pb_custom_button_icon et_pb_button_0 et_hover_enabled et_pb_bg_layout_dark" href="https://mines.libcal.com/events" data-icon="5">Events @ Arthur Lakes</a> 
+               </div>
+               <div class="et_pb_module et_pb_post_slider et_pb_post_slider_0 et_pb_slider et_pb_post_slider_image_background et_pb_slider_fullwidth_off et_slider_auto et_slider_speed_7000 et_pb_slider_with_overlay"> 
+                <div class="et_pb_slides"> 
+                 <div class="et_pb_slide et_pb_media_alignment_center et_pb_bg_layout_dark" style="background-image:url(https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/uploads/sites/64/2019/02/davinci-webslider-final.png)"> 
+                  <div class="et_pb_slide_overlay_container"></div> 
+                  <div class="et_pb_container clearfix"> 
+                   <div class="et_pb_slider_container_inner"> 
+                    <div class="et_pb_slide_description"> 
+                     <h2 class="et_pb_slide_title"><a href="https://www.mines.edu/library/da-vinci-machines-exhibition-summer-tours/">Da Vinci Machines Exhibition</a></h2> 
+                     <div class="et_pb_slide_content "> 
+                      <p>&nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;</p> 
+                      <p><a href="https://www.mines.edu/library/da-vinci-machines-exhibition-summer-tours-2/"><strong>Summer Exhibit Tours at the Library</strong></a></p>
+                      <a href="https://www.mines.edu/library/da-vinci-machines-exhibition-summer-tours-2/"> <p>&nbsp;</p> </a>
+                      <p><a href="https://www.mines.edu/library/da-vinci-machines-exhibition-summer-tours-2/"><strong>June – July 2019</strong> </a></p> 
+                      <p>&nbsp;</p> 
+                     </div> 
+                    </div> 
+                    <!-- .et_pb_slide_description --> 
+                   </div> 
+                  </div> 
+                  <!-- .et_pb_container --> 
+                 </div> 
+                 <!-- .et_pb_slide --> 
+                </div> 
+                <!-- .et_pb_slides --> 
+               </div> 
+               <!-- .et_pb_slider --> 
+               <div class="et_pb_button_module_wrapper et_pb_button_1_wrapper et_pb_button_alignment_center et_pb_module "> 
+                <a class="et_pb_button et_pb_custom_button_icon et_pb_button_1 et_hover_enabled et_pb_bg_layout_dark" href="https://www.mines.edu/library/feedback/%20" data-icon="5">Library Feedback</a> 
+               </div> 
+              </div> 
+              <!-- .et_pb_column -->
+              <div class="et_pb_column et_pb_column_1_3 et_pb_column_5    et_pb_css_mix_blend_mode_passthrough"> 
+               <div id="mines-twitter-feed" class="et_pb_module et_pb_text et_pb_text_3 mines-twitter-feed et_pb_bg_layout_light  et_pb_text_align_left"> 
+                <div class="et_pb_text_inner"> 
+                 <!-- Custom Twitter Feeds by Smash Balloon -->
+                 <div id="ctf" class="ctf ctf-type-usertimeline  ctf-styles" style="width: 100%;height: 600px;background-color: #ffffff;" data-ctfshortcode="{}" data-ctfneeded="0">
+                  <div class="ctf-header ctf-no-bio" style="background-color: #21314d;">
+                   <a href="https://twitter.com/ArthurLakesLib" target="_blank" title="@ArthurLakesLib" class="ctf-header-link">
+                    <div class="ctf-header-text">
+                     <p class="ctf-header-user" style="color: #e0e0e0;"><span class="ctf-header-name">FOLLOW US ON TWITTER</span><span class="ctf-header-follow"><i class="fa fab fa-twitter " aria-hidden="true"></i>Follow</span></p>
+                    </div>
+                    <div class="ctf-header-img">
+                     <div class="ctf-header-img-hover">
+                      <i class="fa fab fa-twitter" aria-hidden="true"></i>
+                     </div>
+                     <img src="https://pbs.twimg.com/profile_images/1095005652521410560/63LIV7wI_normal.jpg" alt="Arthur Lakes Library" width="48" height="48">
+                    </div></a>
+                  </div>
+                  <div class="ctf-tweets">
+                   <div class="ctf-item ctf-author-arthurlakeslib ctf-new" id="1126904752309264385" style="background-color: #ffffff;">
+                    <div class="ctf-author-box">
+                     <div class="ctf-author-box-link" style="">
+                      <a href="https://twitter.com/ArthurLakesLib" class="ctf-author-avatar" target="_blank" style=""><img src="https://pbs.twimg.com/profile_images/1095005652521410560/63LIV7wI_normal.jpg" alt="ArthurLakesLib" width="48" height="48"></a>
+                      <a href="https://twitter.com/ArthurLakesLib" target="_blank" class="ctf-author-name" style="">Arthur Lakes Library</a>
+                      <a href="https://twitter.com/ArthurLakesLib" class="ctf-author-screenname" target="_blank" style="">@ArthurLakesLib</a>
+                      <span class="ctf-screename-sep">·</span>
+                      <div class="ctf-tweet-meta">
+                       <a href="https://twitter.com/ArthurLakesLib/status/1126904752309264385" class="ctf-tweet-date" target="_blank" style="">May 10, 2019</a>
+                      </div>
+                     </div> 
+                     <!-- end .ctf-author-box-link -->
+                    </div>
+                    <div class="ctf-tweet-content">
+                     <a href="https://twitter.com/ArthurLakesLib/status/1126904752309264385" target="_blank"><p class="ctf-tweet-text" style="">Don't forget the library is open during the summer!<br> <br> Mon - Thur 8:00am to 8:00pm<br> Fri 8:00am to 6:00pm<br> Sat &amp; Sun noon to 6:00pm <i style="padding-right: 5px;" class="fa fa-picture-o ctf-tweet-text-media" aria-hidden="true"></i></p></a>
+                    </div>
+                    <div class="ctf-tweet-actions">
+                     <a href="https://twitter.com/intent/tweet?in_reply_to=1126904752309264385&amp;related=ArthurLakesLib" class="ctf-reply" target="_blank" style="color: #1e73be;"><i class="fa fa-reply"></i><span class="ctf-screenreader">Reply on Twitter 1126904752309264385</span></a>
+                     <a href="https://twitter.com/intent/retweet?tweet_id=1126904752309264385&amp;related=ArthurLakesLib" class="ctf-retweet" target="_blank" style="color: #1e73be;"><i class="fa fa-retweet"></i><span class="ctf-screenreader">Retweet on Twitter 1126904752309264385</span><span class="ctf-action-count ctf-retweet-count"></span></a>
+                     <a href="https://twitter.com/intent/like?tweet_id=1126904752309264385&amp;related=ArthurLakesLib" class="ctf-like" target="_blank" style="color: #1e73be;"><i class="fa fa-heart"></i><span class="ctf-screenreader">Like on Twitter 1126904752309264385</span><span class="ctf-action-count ctf-favorite-count"></span></a>
+                    </div>
+                   </div>
+                   <div class="ctf-item ctf-author-arthurlakeslib ctf-new" id="1123250168088780800" style="background-color: #ffffff;">
+                    <div class="ctf-author-box">
+                     <div class="ctf-author-box-link" style="">
+                      <a href="https://twitter.com/ArthurLakesLib" class="ctf-author-avatar" target="_blank" style=""><img src="https://pbs.twimg.com/profile_images/1095005652521410560/63LIV7wI_normal.jpg" alt="ArthurLakesLib" width="48" height="48"></a>
+                      <a href="https://twitter.com/ArthurLakesLib" target="_blank" class="ctf-author-name" style="">Arthur Lakes Library</a>
+                      <a href="https://twitter.com/ArthurLakesLib" class="ctf-author-screenname" target="_blank" style="">@ArthurLakesLib</a>
+                      <span class="ctf-screename-sep">·</span>
+                      <div class="ctf-tweet-meta">
+                       <a href="https://twitter.com/ArthurLakesLib/status/1123250168088780800" class="ctf-tweet-date" target="_blank" style="">April 30, 2019</a>
+                      </div>
+                     </div> 
+                     <!-- end .ctf-author-box-link -->
+                    </div>
+                    <div class="ctf-tweet-content">
+                     <a href="https://twitter.com/ArthurLakesLib/status/1123250168088780800" target="_blank"><p class="ctf-tweet-text" style="">Need a break? Come check out The Force (of Static Electricity) today from 11-1. Snacks will be provided. ? @WellnessatMines @coschoolofmines <i style="padding-right: 5px;" class="fa fa-picture-o ctf-tweet-text-media" aria-hidden="true"></i></p></a>
+                    </div>
+                    <div class="ctf-tweet-actions">
+                     <a href="https://twitter.com/intent/tweet?in_reply_to=1123250168088780800&amp;related=ArthurLakesLib" class="ctf-reply" target="_blank" style="color: #1e73be;"><i class="fa fa-reply"></i><span class="ctf-screenreader">Reply on Twitter 1123250168088780800</span></a>
+                     <a href="https://twitter.com/intent/retweet?tweet_id=1123250168088780800&amp;related=ArthurLakesLib" class="ctf-retweet" target="_blank" style="color: #1e73be;"><i class="fa fa-retweet"></i><span class="ctf-screenreader">Retweet on Twitter 1123250168088780800</span><span class="ctf-action-count ctf-retweet-count"></span></a>
+                     <a href="https://twitter.com/intent/like?tweet_id=1123250168088780800&amp;related=ArthurLakesLib" class="ctf-like" target="_blank" style="color: #1e73be;"><i class="fa fa-heart"></i><span class="ctf-screenreader">Like on Twitter 1123250168088780800</span><span class="ctf-action-count ctf-favorite-count">2</span></a>
+                    </div>
+                   </div>
+                   <div class="ctf-item ctf-author-arthurlakeslib ctf-new" id="1122901203896004608" style="background-color: #ffffff;">
+                    <div class="ctf-author-box">
+                     <div class="ctf-author-box-link" style="">
+                      <a href="https://twitter.com/ArthurLakesLib" class="ctf-author-avatar" target="_blank" style=""><img src="https://pbs.twimg.com/profile_images/1095005652521410560/63LIV7wI_normal.jpg" alt="ArthurLakesLib" width="48" height="48"></a>
+                      <a href="https://twitter.com/ArthurLakesLib" target="_blank" class="ctf-author-name" style="">Arthur Lakes Library</a>
+                      <a href="https://twitter.com/ArthurLakesLib" class="ctf-author-screenname" target="_blank" style="">@ArthurLakesLib</a>
+                      <span class="ctf-screename-sep">·</span>
+                      <div class="ctf-tweet-meta">
+                       <a href="https://twitter.com/ArthurLakesLib/status/1122901203896004608" class="ctf-tweet-date" target="_blank" style="">April 29, 2019</a>
+                      </div>
+                     </div> 
+                     <!-- end .ctf-author-box-link -->
+                    </div>
+                    <div class="ctf-tweet-content">
+                     <a href="https://twitter.com/ArthurLakesLib/status/1122901203896004608" target="_blank"><p class="ctf-tweet-text" style="">Do you feel stressed out or in need of study break with finals fast approaching? Stop by the library from 1-3 to spend time with some furry friends. @WellnessatMines @coschoolofmines 3<i style="padding-right: 5px;" class="fa fa-picture-o ctf-tweet-text-media" aria-hidden="true"></i></p></a>
+                    </div>
+                    <div class="ctf-tweet-actions">
+                     <a href="https://twitter.com/intent/tweet?in_reply_to=1122901203896004608&amp;related=ArthurLakesLib" class="ctf-reply" target="_blank" style="color: #1e73be;"><i class="fa fa-reply"></i><span class="ctf-screenreader">Reply on Twitter 1122901203896004608</span></a>
+                     <a href="https://twitter.com/intent/retweet?tweet_id=1122901203896004608&amp;related=ArthurLakesLib" class="ctf-retweet" target="_blank" style="color: #1e73be;"><i class="fa fa-retweet"></i><span class="ctf-screenreader">Retweet on Twitter 1122901203896004608</span><span class="ctf-action-count ctf-retweet-count">4</span></a>
+                     <a href="https://twitter.com/intent/like?tweet_id=1122901203896004608&amp;related=ArthurLakesLib" class="ctf-like" target="_blank" style="color: #1e73be;"><i class="fa fa-heart"></i><span class="ctf-screenreader">Like on Twitter 1122901203896004608</span><span class="ctf-action-count ctf-favorite-count">19</span></a>
+                    </div>
+                   </div>
+                   <div class="ctf-item ctf-author-arthurlakeslib ctf-new" id="1121470430772989952" style="background-color: #ffffff;">
+                    <div class="ctf-author-box">
+                     <div class="ctf-author-box-link" style="">
+                      <a href="https://twitter.com/ArthurLakesLib" class="ctf-author-avatar" target="_blank" style=""><img src="https://pbs.twimg.com/profile_images/1095005652521410560/63LIV7wI_normal.jpg" alt="ArthurLakesLib" width="48" height="48"></a>
+                      <a href="https://twitter.com/ArthurLakesLib" target="_blank" class="ctf-author-name" style="">Arthur Lakes Library</a>
+                      <a href="https://twitter.com/ArthurLakesLib" class="ctf-author-screenname" target="_blank" style="">@ArthurLakesLib</a>
+                      <span class="ctf-screename-sep">·</span>
+                      <div class="ctf-tweet-meta">
+                       <a href="https://twitter.com/ArthurLakesLib/status/1121470430772989952" class="ctf-tweet-date" target="_blank" style="">April 25, 2019</a>
+                      </div>
+                     </div> 
+                     <!-- end .ctf-author-box-link -->
+                    </div>
+                    <div class="ctf-tweet-content">
+                     <a href="https://twitter.com/ArthurLakesLib/status/1121470430772989952" target="_blank"><p class="ctf-tweet-text" style="">Come take a break and enjoy some programming in the library next week.<br> @WellnessatMines @coschoolofmines #stresslessweek2019 2<i style="padding-right: 5px;" class="fa fa-picture-o ctf-tweet-text-media" aria-hidden="true"></i></p></a>
+                    </div>
+                    <div class="ctf-tweet-actions">
+                     <a href="https://twitter.com/intent/tweet?in_reply_to=1121470430772989952&amp;related=ArthurLakesLib" class="ctf-reply" target="_blank" style="color: #1e73be;"><i class="fa fa-reply"></i><span class="ctf-screenreader">Reply on Twitter 1121470430772989952</span></a>
+                     <a href="https://twitter.com/intent/retweet?tweet_id=1121470430772989952&amp;related=ArthurLakesLib" class="ctf-retweet" target="_blank" style="color: #1e73be;"><i class="fa fa-retweet"></i><span class="ctf-screenreader">Retweet on Twitter 1121470430772989952</span><span class="ctf-action-count ctf-retweet-count">5</span></a>
+                     <a href="https://twitter.com/intent/like?tweet_id=1121470430772989952&amp;related=ArthurLakesLib" class="ctf-like" target="_blank" style="color: #1e73be;"><i class="fa fa-heart"></i><span class="ctf-screenreader">Like on Twitter 1121470430772989952</span><span class="ctf-action-count ctf-favorite-count">5</span></a>
+                    </div>
+                   </div>
+                  </div>
+                  <a href="javascript:void(0);" id="ctf-more" class="ctf-more" style="background-color: #d2492a;color: #ffffff;"><span>Load More...</span></a>
+                 </div> 
+                </div> 
+               </div> 
+               <!-- .et_pb_text --> 
+              </div> 
+              <!-- .et_pb_column --> 
+             </div> 
+             <!-- .et_pb_row --> 
+            </div> 
+            <!-- .et_pb_section --> 
+           </div> 
+          </div> 
+         </div> 
+        </div>
+        <!-- /.post-wrap --> 
+       </article> 
+      </div>
+      <!-- /.et_pb_extra_column.et_pb_extra_column_main --> 
+     </div> 
+     <!-- #content-area --> 
+    </div> 
+    <!-- .container --> 
+   </div> 
+   <!-- #main-content --> 
+   <footer id="footer" class="footer_columns_4"> 
+    <div class="container"> 
+     <div class="et_pb_extra_row container-width-change-notify"> 
+      <div class="et_pb_extra_column odd column-1"> 
+       <div id="text-3" class="et_pb_widget widget_text">
+        <h4 class="widgettitle"> </h4> 
+        <div class="textwidget">
+         <p><a href="https://www.mines.edu/"></a><a href="https://www.mines.edu/"><img class="footer-logo alignntop" src="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/wp-content/uploads/2017/08/Mines_EEE_reverse4C_R.png" alt="Colorado School of Mines: Earth - Energy - Environment" width="288" height="33"></a></p> 
+         <p><span style="color: white;">Colorado School of Mines<br> 1500 Illinois St., Golden, CO 80401<br> <strong>303-273-3000 / 800-446-9488</strong></span></p> 
+         <p><span style="color: white;">Admissions &amp; Financial Aid</span><br> <a href="https://finaid.mines.edu">Financial Aid</a><br> <a href="https://www.mines.edu/graduate-admissions/">Graduate Admissions</a><br> <a href="https://www.mines.edu/undergraduate-admissions/">Undergraduate Admissions</a><br> <span style="color: white;"><strong>888-446-9489</strong></span></p> 
+        </div> 
+       </div> 
+       <!-- end .et_pb_widget --> 
+      </div> 
+      <div class="et_pb_extra_column even column-2"> 
+       <div id="text-4" class="et_pb_widget widget_text">
+        <h4 class="widgettitle">Resources</h4> 
+        <div class="textwidget">
+         <p><a href="http://giving.mines.edu/">Alumni and Friends</a><br> <a href="https://www.mines.edu/parents/">Parents</a><br> <a href="https://calendar.mines.edu/">Calendar</a><br> <a href="https://www.mines.edu/jobs/">Careers at Mines</a><br> <a href="http://careers.mines.edu/">Hire Our Students</a><br> <a href="http://magazine.mines.edu/">Mines Magazine</a><br> <a href="http://www.minesnewsroom.com/news-golden-neighbors">Neighbors</a><br> <a href="http://mines.edu/news/">News</a><br> <span style="color: white;">Student Govt:</span> <a href="https://mines.edu/usg/">USG</a> <span style="color: white;">|</span> <a href="http://gsg.mines.edu/">GSG</a></p> 
+        </div> 
+       </div> 
+       <!-- end .et_pb_widget --> 
+      </div> 
+      <div class="et_pb_extra_column odd column-3"> 
+       <div id="text-2" class="et_pb_widget widget_text">
+        <h4 class="widgettitle">Visit Mines</h4> 
+        <div class="textwidget">
+         <p><a href="https://library.mines.edu/">Arthur Lakes Library</a><br> <a href="http://minesathletics.com/">Athletics</a><br> <a href="http://mines.bncollege.com/">Bookstore</a><br> <a href="https://tour.mines.edu/">Campus Tour</a><br> <a href="http://campusevents.mines.edu/">Conference and Event Planning</a><br> <a href="https://www.mines.edu/geology-museum/">Geology Museum</a><br> <a href="https://tour.mines.edu/map/">Map and Directions</a></p> 
+        </div> 
+       </div> 
+       <!-- end .et_pb_widget --> 
+      </div> 
+      <div class="et_pb_extra_column even column-4"> 
+       <div id="text-6" class="et_pb_widget widget_text">
+        <h4 class="widgettitle">Connect with the Library</h4> 
+        <div class="textwidget">
+         <p><a href="https://www.mines.edu/library/about/contact/">Staff Directory</a><br> <a href="https://www.mines.edu/library/about/location/">Location and Directions</a><br> <a href="https://www.mines.edu/library/floorplans/">Floor Plans</a><br> <a href="https://www.facebook.com/pg/arthurlakeslibrary/events/?ref=page_internal">Concerts &amp; Events</a><br> <a href="https://www.mines.edu/library/give/">Donate</a></p> 
+        </div> 
+       </div> 
+       <!-- end .et_pb_widget --> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="footer-bottom"> 
+     <div class="container"> 
+      <!-- Footer Info --> 
+      <p id="footer-info">Designed by <a href="http://www.elegantthemes.com" title="Premium WordPress Themes">Elegant Themes</a> | Powered by <a href="http://www.wordpress.org">WordPress</a></p> 
+      <!-- Footer Navigation --> 
+      <div id="footer-nav"> 
+       <ul id="footer-menu" class="bottom-nav">
+        <li id="menu-item-502" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-502"><a href="http://mines.edu/contact">Contact</a></li> 
+        <li id="menu-item-503" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-503"><a href="http://mines.edu/accessibility">Accessibility</a></li> 
+        <li id="menu-item-504" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-504"><a href="http://mines.edu/emergency">Emergency</a></li> 
+        <li id="menu-item-505" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-505"><a href="http://mines.edu/equal-opportunity">Equal Opportunity</a></li> 
+        <li id="menu-item-506" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-506"><a href="https://www.mines.edu/jobs/">Jobs</a></li> 
+        <li id="menu-item-507" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-507"><a href="http://tour.mines.edu/map">Map and Directions</a></li> 
+        <li id="menu-item-508" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-508"><a href="http://www.mines.edu/privacy">Privacy</a></li> 
+       </ul> 
+       <ul class="et-extra-social-icons" style=""> 
+        <li class="et-extra-social-icon facebook"> <a href="https://www.facebook.com/arthurlakeslibrary/" class="et-extra-icon et-extra-icon-background-none et-extra-icon-facebook"></a> </li> 
+        <li class="et-extra-social-icon twitter"> <a href="https://twitter.com/ArthurLakesLib" class="et-extra-icon et-extra-icon-background-none et-extra-icon-twitter"></a> </li> 
+        <li class="et-extra-social-icon pinterest"> <a href="https://au.pinterest.com/arthurlakeslib/" class="et-extra-icon et-extra-icon-background-none et-extra-icon-pinterest"></a> </li> 
+        <li class="et-extra-social-icon instagram"> <a href="https://www.instagram.com/arthurlakeslibrary/" class="et-extra-icon et-extra-icon-background-none et-extra-icon-instagram"></a> </li> 
+       </ul> 
+      </div> 
+      <!-- /#et-footer-nav --> 
+     </div> 
+    </div> 
+   </footer> 
+  </div> 
+  <!-- #page-container --> 
+  <span title="Back To Top" id="back_to_top"></span> 
+  <!-- Above the header --> 
+  <div id="pbe-above-header-wa-wrap"> 
+  </div> 
+  <!-- Below the header --> 
+  <div id="pbe-below-header-wa-wrap"> 
+   <div id="custom_html-6" class="widget_text et_pb_widget widget_custom_html">
+    <h4 class="widgettitle"> </h4>
+    <div class="textwidget custom-html-widget">
+     <strong><a class="pbe-page-title" href="https://www.mines.edu/library/">Arthur Lakes Library</a></strong> 
+     <span style="float:right"> <i class="fa fa-clock"></i><strong> Today's Hours </strong> Library: 
+      <div id="api_hours_today_iid1725_lid0"> 
+      </div> <span>| Book and Brew: </span> 
+      <div id="api_hours_today_iid1725_lid6298"></div> <span>| Special Collections: </span> 
+      <div id="s_lc_tdh_1725_0"></div> <a href="https://mines.libcal.com/hours/"><i class="fa fa-calendar"></i> Full Calendar &nbsp;</a> </span>
+    </div>
+   </div> 
+   <!-- end .et_pb_widget --> 
+  </div> 
+  <!-- Footer --> 
+  <div id="pbe-footer-wa-wrap"> 
+  </div> 
+  <div id="pbe-above-content-wa-wrap"> 
+  </div> 
+  <div id="pbe-below-content-wa-wrap"> 
+  </div> 
+  <!-- Push new widget areas into place --> 
+  <script>
+        jQuery(function($){
+            // Above header - Added inside #main-header wrap
+            $("#main-header").prepend($("#pbe-above-header-wa-wrap"));
+            $("#pbe-above-header-wa-wrap").show();
+            // Below header - Added inside #main-header wrap
+            $("#main-header").append($("#pbe-below-header-wa-wrap"));
+            $("#pbe-below-header-wa-wrap").show();
+            // Footer - Added before #main-footer
+            $("#main-footer").before($("#pbe-footer-wa-wrap"));
+            $("#pbe-below-header-wa-wrap").show();
+            // Above Content - Added before #main-content
+            $("#main-content").prepend($("#pbe-above-content-wa-wrap"));
+            $("#pbe-above-content-wa-wrap").show();
+            // Below Content - Added after #main-content
+            $("#main-content").append($("#pbe-below-content-wa-wrap"));
+            $("#pbe-below-content-wa-wrap").show();
+        });
+    </script> 
+  <div style="display:none">
+   <div id="wtfdivi003-widget-area-wrap">
+    <div id="search-3" class="et_pb_widget widget_search">
+     <h4 class="widgettitle"> </h4>
+     <form role="search" method="get" class="search-form" action="https://www.mines.edu/library/"> 
+      <label> <span class="screen-reader-text">Search for:</span> <input type="search" class="search-field" placeholder="Search …" value="" name="s"> </label> 
+      <input type="submit" class="search-submit" value="Search"> 
+     </form>
+    </div> 
+    <!-- end .et_pb_widget -->
+   </div>
+  </div> 
+  <script>
+jQuery(function($){
+				$('.et-social-icons').append('<li class="et-social-icon et-social-linkedin"><a href="https://www.linkedin.com/edu/colorado-school-of-mines-17994" class="icon"><span>LinkedIn</span></a></li>&nbsp;');
+						$('.et-social-icons').append('<li class="et-social-icon et-social-youtube"><a href="https://www.youtube.com/user/ColoSchoolofMines" class="icon"><span>YouTube</span></a></li>&nbsp;');
+						$('.et-social-icons').append('<li class="et-social-icon et-social-pinterest"><a href="https://au.pinterest.com/arthurlakeslib/" class="icon"><span>Pinterest</span></a></li>&nbsp;');
+						$('.et-social-icons').append('<li class="et-social-icon et-social-instagram"><a href="https://www.instagram.com/arthurlakeslibrary/" class="icon"><span>Instagram</span></a></li>&nbsp;');
+						$('.et-social-icons').append('<li class="et-social-icon et-social-flikr"><a href="https://www.flickr.com/photos/coloradoschoolofmines" class="icon"><span>Flickr</span></a></li>&nbsp;');
+			});
+
+
+jQuery(function($){
+	var logowidth=($("#logo").length)?($("#logo").get(0).width):0;
+	$("<style>@media only screen and (min-width:1100px) { #top-menu { max-width:"+(980-logowidth)+"px; } } @media only screen and (max-width:1099px) { #top-menu { max-width:"+(860-logowidth)+"px; } } #et-top-navigation { display:table-cell !important } </style>").appendTo("head");
+});
+jQuery(function($){
+	$('.logo_container a').attr('href','http://mines.edu'); // Divi
+	$('.et_extra a.logo').attr('href','http://mines.edu'); // Extra
+});
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(function($){
+			$('#footer-info').html("&copy;<span class=\"divibooster_year\"><\/span><script>jQuery(function($){$(\".divibooster_year\").text(new Date().getFullYear());});<\/script> Colorado School of Mines ");
+		
+		/* Trigger: db_vb_builder_data_retrieved - fired after ajax load of builder data */
+	$(document).ajaxComplete(function(evt, xhr, options){ 
+		if (("data" in options) && 
+			(options['data'].indexOf != undefined) && 
+			(options['data'].indexOf("action=et_fb_retrieve_builder_data") >= 0)) {
+			$(document).trigger('db_vb_builder_data_retrieved');
+		}
+	});
+	 
+	});
+jQuery(function($){
+	$("#et-top-navigation").after($("#wtfdivi003-widget-area-wrap"));
+	$("#wtfdivi003-widget-area-wrap").first().show();
+});</script> 
+  <div style="display:none"> 
+  </div> 
+  <script type="text/javascript">
+			</script> 
+  <!-- For showing a weekly view of the hours---> 
+  <script src="https://api3.libcal.com/js/hours_grid.js?002"></script> 
+  <script>
+(function($){ 
+var week0 = new $.LibCalWeeklyGrid( $("#s-lc-whw0"), { iid: 1725, lid: 0,  weeks: 52, systemTime: false }); 
+})( jQuery );
+</script> 
+  <!-- Weekly hours styling --> 
+  <style>
+	.s-lc.whw { background-color: #ddd; }
+.s-lc-whw thead { background-color: #F5F5F5; }
+.s-lc-whw-head-date { color: #999; }
+.s-lc-whw-today-h {  background-color: #ddd; }
+.s-lc-whw-today { background-color: #6b6b6b; color: white; }
+.s-lc-whw-bh { text-align: right; white-space: nowrap; }
+.s-lc-whw-locname { font-weight: bold;}
+.s-lc-whw-sublocname{ padding-left: 10px!important; }
+.s-lc-whw-footnote { color: #555; font-size: 80%; }
+.s-lc-whw-footnote td:hover { background-color:#fff!important;}
+/* Below styles can be removed if you are already using Bootstap v3 in host page */
+.s-lc-whw-cont {font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 12px;}
+.s-lc-whw-pr, .s-lc-whw-ne{ padding: 5px 10px; font-size: 12px; line-height: 1.5; border-radius: 3px; color: #333; background-color: #fff; border-color: #ccc; display: inline-block; margin-bottom: 0; font-weight: 400; text-align: center; vertical-align: middle; cursor: pointer; background-image: none; border: 1px solid transparent; white-space: nowrap; }
+.s-lc-whw-pr:disabled { background-color: #efefef; }
+.s-lc-whw-ne:disabled { background-color: #efefef; }
+.s-lc-whw { width: 100%; margin-bottom: 20px; max-width: 100%; background-color: transparent; border-bottom: none; border-left: none; border-collapse: collapse; border-spacing: 0; }
+.s-lc-whw>tbody>tr>td { padding: 5px; }
+.s-lc-whw>thead>tr>th { vertical-align: bottom; border-bottom: 2px solid #ddd; padding: 5px;}
+.s-lc-whw th { border-top: none; border-bottom: none; border-right: none;}
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); border: 0; }
+@media (max-width: 768px) {
+   .s-lc-whw-cont .table-responsive { width: 100%; margin-bottom: 15px; overflow-y: hidden; overflow-x: scroll; -ms-overflow-style: -ms-autohiding-scrollbar; border: 1px solid #ddd; -webkit-overflow-scrolling: touch; }
+   .s-lc-whw td { white-space: nowrap; }
+	}
+	.s-lc-whw { background-color: #eee !important; }
+</style>
+  <!-- Today's Hours ---> 
+  <script src="https://api3.libcal.com/js/hours_today.js"></script> 
+  <script>
+(function($){ 
+var s_lc_tdh_1725_0 = new $.LibCalTodayHours( $("#s_lc_tdh_1725_0"), { iid: 1725, lid: 0, key: "a77e166ba3e35b5493991e1fde0b9308" }); 
+})( jQuery );
+</script> 
+  <!-- Please note: The following styles are optional, feel free to modify! //--> 
+  <style>
+.s-lc-w-today { border-spacing: 0; border-collapse: collapse; width: 100%; }.s-lc-w-today td, .s-lc-w-today th { padding: 8px 5px; }
+.s-lc-w-head { text-align: center; border-bottom: 1px solid #ddd; }
+.s-lc-w-loading { margin-top: 80px; text-align: center; }
+.s-lc-w-sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); border: 0; }
+.s-lc-w-btn { line-height: 1.5; border-radius: 3px; display: inline-block; padding: 3px 6px; margin-bottom: 0; font-size: 12px; font-weight: 400; text-align: center; white-space: nowrap; vertical-align: middle; touch-action: manipulation; cursor: pointer; user-select: none; border: 1px solid #ccc; color: #333; background-color: #fff; }
+.s-lc-w-btn:active, .s-lc-w-btn:hover { color: #333; background-color: #d4d4d4; border-color: #8c8c8c; }
+.s-lc-w-previous { float: left;}
+.s-lc-w-next { float: right; }
+.s-lc-w-location td { font-weight: bold; }
+.s-lc-w-department .s-lc-w-name { padding-left: 20px; }
+.s-lc-w-times { border-bottom: 1px solid #ddd; }
+.s-lc-w-today-view-link { text-decoration: none; }
+.s-lc-w-today-view-all { padding: 8px 5px; }
+	.s-lc-w-head { display: none; }
+	.s-lc-w-lid-6298  { display: none; }
+	.s-lc-w-lid-8778 { display: none; }
+	.s-lc-w-lid-8786 { display: none; }
+	.s-lc-w-lid-8787 { display: none; }
+	.s-lc-w-today-view-all { display: none; }
+	.s-lc-w-name { display: none; }
+	table { border: none; }
+	.s-lc-w-times { border-bottom: none !important; }
+	.s-lc-w-today td { padding: 0px !important; }
+	table td { padding: 0px; }
+	table td { border-top: none; } 
+</style> 
+  <script src="https://api3.libcal.com/js/hours_today.js"></script> 
+  <script>
+(function($){ 
+var s_lc_tdh_1725_6298 = new $.LibCalTodayHours( $("#s_lc_tdh_1725_6298"), { iid: 1725, lid: 6298, key: "a77e166ba3e35b5493991e1fde0b9308" }); 
+})( jQuery );
+</script> 
+  <!-- Please note: The following styles are optional, feel free to modify! //--> 
+  <style>
+.s-lc-w-today { border-spacing: 0; border-collapse: collapse; width: 100%; }.s-lc-w-today td, .s-lc-w-today th { padding: 8px 5px; }
+.s-lc-w-head { text-align: center; border-bottom: 1px solid #ddd; }
+.s-lc-w-loading { margin-top: 80px; text-align: center; }
+.s-lc-w-sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); border: 0; }
+.s-lc-w-btn { line-height: 1.5; border-radius: 3px; display: inline-block; padding: 3px 6px; margin-bottom: 0; font-size: 12px; font-weight: 400; text-align: center; white-space: nowrap; vertical-align: middle; touch-action: manipulation; cursor: pointer; user-select: none; border: 1px solid #ccc; color: #333; background-color: #fff; }
+.s-lc-w-btn:active, .s-lc-w-btn:hover { color: #333; background-color: #d4d4d4; border-color: #8c8c8c; }
+.s-lc-w-previous { float: left;}
+.s-lc-w-next { float: right; }
+.s-lc-w-location td { font-weight: bold; }
+.s-lc-w-department .s-lc-w-name { padding-left: 20px; }
+.s-lc-w-times { border-bottom: 1px solid #ddd; }
+.s-lc-w-today-view-link { text-decoration: none; }
+.s-lc-w-today-view-all { padding: 8px 5px; }
+</style> 
+  <script type="text/javascript">
+	var el = document.getElementById("s_lc_tdh_1725_6298");
+	el.style.display = "block";
+	var v = document.getElementById("s_lc_tdh_1725_6298").children;
+	var v1 = v[0].children;
+	var v2 = v1[0].children;
+	var v3 = v2[2].children;
+		v3[0].style.display = "block";
+		v3[0].style.backgroundColor = "red";
+	
+	for (var i = 0; i < v3.length; ++i) {
+		v3[i].style.display = "block";
+		v3[i].style.backgroundColor = "red";
+	}
+	/*
+	var c = element1.children;
+	var c1 = c[0].children;
+	var c2 = c1[0].children;
+	c2[0].style.display = "none";
+	c2[1].style.display = "block";
+	c2[1].style.padding = "0px";*/
+</script> 
+  <script type="text/javascript">
+	var element = document.getElementById("s-lc-whw0");
+	element.style.display = "block";
+	element.getElementsByClassName("s-lc-whw-subloc").display = "block";
+</script> 
+  <!-- Today's Hours (Simplified format) ---> 
+  <script src="https://api3.libcal.com/api_hours_today.php?iid=1725&amp;lid=0&amp;format=js&amp;systemTime=1&amp;context=object"> </script> 
+  <script src="https://api3.libcal.com/api_hours_today.php?iid=1725&amp;lid=6298&amp;format=js&amp;systemTime=1&amp;context=object"> </script> 
+  <style>
+	.dep8778 { display: none; }
+	.dep8784 { display: none; }
+	.dep8786 { display: none; }
+	.dep8787 { display: none; }
+	.loc6298 { padding: 0px !important; }
+	.hours-col-loc { display: none; }
+	.hours-col-time { padding: 0px !important }
+	.hours-today { border: none; }
+	.api_hours_today_iid1725_lid0 { display: inline-block; float:left; }
+	.hours-col-time { border-top: none; }
+</style> 
+  <script type="text/javascript">
+	var element1 = document.getElementById("api_hours_today_iid1725_lid6298");
+	element1.style.display = "block";
+	var c = element1.children;
+	var c1 = c[0].children;
+	var c2 = c1[0].children;
+	c2[0].style.display = "none";
+	c2[1].style.display = "block";
+	c2[1].style.padding = "0px";
+
+	/*
+	var element2 = document.getElementById("api_hours_today_iid1725_lid8784");
+	element2.style.display = "block";
+	var ch = element1.children;
+	var ch1 = c[0].children;
+	var ch2 = c1[0].children;
+	ch2[0].style.display = "none";
+	ch2[1].style.display = "block";
+	ch2[1].style.padding = "0px";*/
+</script> 
+  <link rel="stylesheet" id="db121_socicons-css" href="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/plugins/divi-booster/core/fixes/126-customizer-social-icons/icons.css?ver=2.8.9" type="text/css" media="all"> 
+  <script type="text/javascript">
+/* <![CDATA[ */
+var scriptParams = {"google_search_engine_id":""};
+/* ]]> */
+</script> 
+  <script type="text/javascript" src="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/plugins/wp-google-search/assets/js/google_cse_v2.js?ver=1"></script> 
+  <script type="text/javascript" src="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/plugins/category-to-pages-wud/js/cat-to-page.js"></script> 
+  <script type="text/javascript" src="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/plugins/category-to-pages-wud/js/jquery.ctp_wud_min.js"></script> 
+  <script type="text/javascript" src="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/themes/Extra/includes/builder/scripts/frontend-builder-global-functions.js?ver=2.23.3"></script> 
+  <script type="text/javascript" src="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/plugins/dp-portfolio-posts-pro/public/js/dp-portfolio-posts-pro-public.js?ver=3.5.4"></script> 
+  <script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201922"></script> 
+  <script type="text/javascript" src="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/plugins/wp-accessibility/js/longdesc.button.js?ver=1.0"></script> 
+  <script type="text/javascript" src="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/plugins/wp-accessibility/js/current-menu-item.js?ver=1.0"></script> 
+  <script type="text/javascript" src="https://platform.twitter.com/widgets.js?ver=1.3"></script> 
+  <script type="text/javascript">
+/* <![CDATA[ */
+var ctf = {"ajax_url":"https:\/\/www.mines.edu\/library\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script> 
+  <script type="text/javascript" src="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/plugins/custom-twitter-feeds/js/ctf-scripts.js?ver=1.3"></script> 
+  <script type="text/javascript" src="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-includes/js/imagesloaded.min.js?ver=3.2.0"></script> 
+  <script type="text/javascript" src="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-includes/js/masonry.min.js?ver=3.3.2"></script> 
+  <script type="text/javascript">
+/* <![CDATA[ */
+var EXTRA = {"images_uri":"https:\/\/www.mines.edu\/library\/wp-content\/themes\/Extra\/images\/","ajaxurl":"https:\/\/www.mines.edu\/library\/wp-admin\/admin-ajax.php","your_rating":"Your Rating:","item_in_cart_count":"%d Item in Cart","items_in_cart_count":"%d Items in Cart","item_count":"%d Item","items_count":"%d Items","rating_nonce":"27320e2262","timeline_nonce":"5eaed9904d","blog_feed_nonce":"835b27066d","error":"There was a problem, please try again.","contact_error_name_required":"Name field cannot be empty.","contact_error_email_required":"Email field cannot be empty.","contact_error_email_invalid":"Please enter a valid email address.","is_ab_testing_active":"","is_cache_plugin_active":"no"};
+/* ]]> */
+</script> 
+  <script type="text/javascript" src="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/themes/Extra/scripts/scripts.js?ver=2.23.3"></script> 
+  <script type="text/javascript" src="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/themes/Extra/includes/builder/scripts/jquery.mobile.custom.min.js?ver=2.23.3"></script> 
+  <script type="text/javascript">
+/* <![CDATA[ */
+var et_pb_custom = {"ajaxurl":"https:\/\/www.mines.edu\/library\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/www.mines.edu\/library\/wp-content\/themes\/Extra\/images","builder_images_uri":"https:\/\/www.mines.edu\/library\/wp-content\/themes\/Extra\/includes\/builder\/images","et_frontend_nonce":"3f3128e9dc","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"48fbc432a9","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","ignore_waypoints":"no","is_divi_theme_used":"","widget_search_selector":".widget_search","is_ab_testing_active":"","page_id":"1566","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":""};
+var et_pb_box_shadow_elements = [];
+/* ]]> */
+</script> 
+  <script type="text/javascript" src="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/themes/Extra/includes/builder/scripts/frontend-builder-scripts.js?ver=2.23.3"></script> 
+  <script type="text/javascript" src="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/plugins/image-intense/scripts/frontend-bundle.min.js?ver=1.0.0"></script> 
+  <script type="text/javascript" src="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/plugins/page-links-to/js/new-tab.min.js?ver=3.1.1"></script> 
+  <script type="text/javascript" src="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/themes/Extra/includes/builder/scripts/jquery.fitvids.js?ver=2.23.3"></script> 
+  <script type="text/javascript" src="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/themes/Extra/includes/builder/scripts/waypoints.min.js?ver=2.23.3"></script> 
+  <script type="text/javascript" src="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/themes/Extra/includes/builder/scripts/jquery.magnific-popup.js?ver=2.23.3"></script> 
+  <script type="text/javascript" src="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/themes/Extra/core/admin/js/common.js?ver=3.23.3"></script> 
+  <script type="text/javascript" src="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4"></script> 
+  <script type="text/javascript">
+/* <![CDATA[ */
+var tg_global_var = {"url":"https:\/\/www.mines.edu\/library\/wp-admin\/admin-ajax.php","nonce":"9c6ef33b75","is_mobile":null,"mediaelement":"","mediaelement_ex":null,"lightbox_autoplay":"","debounce":"","meta_data":null,"main_query":{"error":"","m":"","p":"1566","post_parent":"","subpost":"","subpost_id":"","attachment":"","attachment_id":0,"name":"","static":"","pagename":"","page_id":"1566","second":"","minute":"","hour":"","day":0,"monthnum":0,"year":0,"w":0,"category_name":"","tag":"","cat":"","tag_id":"","author":"","author_name":"","feed":"","tb":"","paged":0,"meta_key":"","meta_value":"","preview":"","s":"","sentence":"","title":"","fields":"","menu_order":"","embed":"","category__in":[],"category__not_in":[],"category__and":[],"post__in":[],"post__not_in":[],"post_name__in":[],"tag__in":[],"tag__not_in":[],"tag__and":[],"tag_slug__in":[],"tag_slug__and":[],"post_parent__in":[],"post_parent__not_in":[],"author__in":[],"author__not_in":[],"ignore_sticky_posts":false,"suppress_filters":false,"cache_results":false,"update_post_term_cache":true,"lazy_load_term_meta":true,"update_post_meta_cache":true,"post_type":"","posts_per_page":10,"nopaging":false,"comments_per_page":"50","no_found_rows":false,"order":"DESC"}};
+/* ]]> */
+</script> 
+  <script type="text/javascript" src="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-content/plugins/the-grid/frontend/assets/js/the-grid.min.js?ver=2.4.0"></script> 
+  <script type="text/javascript" src="https://3a2vzv37nkuw3esf6a3u2t7s-wpengine.netdna-ssl.com/library/wp-includes/js/wp-embed.min.js?ver=4.9.10"></script> 
+  <style id="et-builder-module-design-cached-inline-styles">.et_pb_section_0{.entry-title{padding:0}}body #page-container .et_pb_button_0:after{line-height:inherit;font-size:inherit!important;margin-left:-1em;left:auto}.et_pb_button_1,.et_pb_button_1:after{transition:all 300ms ease 0ms}body #page-container .et_pb_button_1:hover{background-color:#92a2bd!important}body #page-container .et_pb_button_1:after{line-height:inherit;font-size:inherit!important;margin-left:-1em;left:auto}body #page-container .et_pb_button_1:hover:after{margin-left:0;left:auto;margin-left:.3em;opacity:1;color:}.et_pb_post_slider_0 div.et_pb_slide_description{padding-bottom:1%;padding-top:1%}.et_pb_post_slider_0 .et_pb_slide{padding-bottom:0px!important}.et_pb_post_slider_0 .et_pb_slide .et_pb_container{min-height:580px}.et_pb_post_slider_0:hover .et_pb_slide .et_pb_slide_overlay_container{background-color:}.et_pb_post_slider_0 .et_pb_slide:not(.et_pb_slide_with_no_image){background-color:#2ea3f2}.et_pb_post_slider_0.et_pb_slider,.et_pb_post_slider_0.et_pb_slider.et_pb_bg_layout_dark{background-color:#2ea3f2}.et_pb_post_slider_0.et_pb_slider .et_pb_slide_description .et_pb_slide_title,.et_pb_post_slider_0.et_pb_slider .et_pb_slide_description .et_pb_slide_title a{font-weight:700}.et_pb_button_0,.et_pb_button_0:after{transition:all 300ms ease 0ms}body #page-container .et_pb_button_0:hover{background-color:#92a2bd!important}body #page-container .et_pb_button_0:hover:after{margin-left:0;left:auto;margin-left:.3em;opacity:1;color:}.et_pb_row_0.et_pb_row{margin-bottom:0px!important}.et_pb_row_1:after{&#8221;.et_pb_text}.et_pb_row_1{&#8221;.et_pb_text}.et_pb_row_1:before{&#8221;.et_pb_text}.et_pb_row_1.et_pb_row{margin-top:0&#8221;!important;margin-left:0&#8221;!important;padding-top:&#8221;10px;padding-bottom:30px;padding-left:&#8221;}.et_pb_tabs_0.et_pb_tabs{.equal-tabs .et_pb_tabs_controls li{width:20%;text-align:center}@media screen and (max-width:768px){.equal-tabs .et_pb_tabs_controls li{width:100%;text-align:center}}}.et_pb_tabs_0.et_pb_tabs .et_pb_all_tabs{background-color:rgba(186,186,186,0.52)}.et_pb_code_3{var previousSearchTerm='';function setPreviousSearchTerm(){var flag=false;if ((document.getElementById('searchString').value.trim() !='') && (previousSearchTerm.trim()==document.getElementById('searchString').value.trim())){flag=false}else{flag=true}previousSearchTerm=document.getElementById('searchString').value.trim();document.forms&#91;"searchForm"&#93;.submit();return flag}}.et_pb_section_4{height:40;width:40px;var previousSearchTerm='';function setPreviousSearchTerm(){var flag=false;if ((document.getElementById('searchString').value.trim() !='') && (previousSearchTerm.trim()==document.getElementById('searchString').value.trim())){flag=false}else{flag=true}previousSearchTerm=document.getElementById('searchString').value.trim();document.forms&#91;"searchForm"&#93;.submit();return flag}}.et_pb_code_2{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;springshare_widget_config_1513266754631={};#s-lg-embedded-search-widget-1513266754631 *:before,#s-lg-embedded-search-widget-1513266754631 *:after{box-sizing:border-box}#s-lg-embedded-search-widget-1513266754631 *:before,#s-lg-embedded-search-widget-1513266754631 *:after{box-sizing:border-box}#s-lg-embedded-search-widget-1513266754631 .s-lg-form-control{font-size:12px;height:27px}#s-lg-embedded-search-widget-1513266754631 .s-lg-form-control{background-color:#fff;background-image:none;border:1px solid #ccc;border-radius:4px;box-shadow:0 1px 1px rgba(0,0,0,0.075) inset;color:#555;display:inline;line-height:1.42857;padding-top:2px;padding-bottom:0px;padding-left:12px;padding-right:12px;transition:border-color 0.15s ease-in-out 0s,box-shadow 0.15s ease-in-out 0s;width:400px}#s-lg-embedded-search-widget-1513266754631 textarea,#s-lg-embedded-search-widget-1513266754631 input,#s-lg-embedded-search-widget-1513266754631 select{font-weight:normal}#s-lg-embedded-search-widget-1513266754631 input,#s-lg-embedded-search-widget-1513266754631 button,#s-lg-embedded-search-widget-1513266754631 select,#s-lg-embedded-search-widget-1513266754631 textarea{font-family:inherit;font-size:inherit;line-height:inherit}#s-lg-embedded-search-widget-1513266754631 button,input,optgroup,select,textarea{color:#222;font:inherit;margin:0}#s-lg-embedded-search-widget-1513266754631 *{box-sizing:border-box}#s-lg-embedded-search-widget-1513266754631 .s-lg-form-control::-moz-placeholder{color:#999;opacity:1}#s-lg-embedded-search-widget-1513266754631 .sr-only{border:0 none;clip:rect(0px,0px,0px,0px);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}#s-lg-embedded-search-widget-1513266754631 .s-lg-btn{font-size:12px;height:29px;padding-top:1px;padding-left:12px;padding-right:12px;text-align:center;vertical-align:middle;position:relative;top:-2px}#s-lg-embedded-search-widget-1513266754631 .s-lg-widget-search{width:400px;display:inline}!function(d,s,id){var js,fjs=d.getElementsByTagName(s)&#91;0&#93;,p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://lgapi-us.libapps.com/widgets.php?site_id=10036&amp;widget_type=7&amp;widget_embed_type=1&amp;output_format=1&amp;search_box_type=2&amp;group_id=0&amp;placeholder_text=Search+by+Title&amp;button_text=Search&amp;widget_height=&amp;widget_width=400&amp;config_id=1513266754631";fjs.parentNode.insertBefore(js,fjs)}}(document,"script","s-lg-widget-script-1513266754631")}.et_pb_section_3{springshare_widget_config_1513266754631={};#s-lg-embedded-search-widget-1513266754631 *:before,#s-lg-embedded-search-widget-1513266754631 *:after{box-sizing:border-box}#s-lg-embedded-search-widget-1513266754631 *:before,#s-lg-embedded-search-widget-1513266754631 *:after{box-sizing:border-box}#s-lg-embedded-search-widget-1513266754631 .s-lg-form-control{font-size:12px;height:27px}#s-lg-embedded-search-widget-1513266754631 .s-lg-form-control{background-color:#fff;background-image:none;border:1px solid #ccc;border-radius:4px;box-shadow:0 1px 1px rgba(0,0,0,0.075) inset;color:#555;display:inline;line-height:1.42857;padding-top:2px;padding-bottom:0px;padding-left:12px;padding-right:12px;transition:border-color 0.15s ease-in-out 0s,box-shadow 0.15s ease-in-out 0s;width:400px}#s-lg-embedded-search-widget-1513266754631 textarea,#s-lg-embedded-search-widget-1513266754631 input,#s-lg-embedded-search-widget-1513266754631 select{font-weight:normal}#s-lg-embedded-search-widget-1513266754631 input,#s-lg-embedded-search-widget-1513266754631 button,#s-lg-embedded-search-widget-1513266754631 select,#s-lg-embedded-search-widget-1513266754631 textarea{font-family:inherit;font-size:inherit;line-height:inherit}#s-lg-embedded-search-widget-1513266754631 button,input,optgroup,select,textarea{color:#222;font:inherit;margin:0}#s-lg-embedded-search-widget-1513266754631 *{box-sizing:border-box}#s-lg-embedded-search-widget-1513266754631 .s-lg-form-control::-moz-placeholder{color:#999;opacity:1}#s-lg-embedded-search-widget-1513266754631 .sr-only{border:0 none;clip:rect(0px,0px,0px,0px);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}#s-lg-embedded-search-widget-1513266754631 .s-lg-btn{font-size:12px;height:29px;padding-top:1px;padding-left:12px;padding-right:12px;text-align:center;vertical-align:middle;position:relative;top:-2px}#s-lg-embedded-search-widget-1513266754631 .s-lg-widget-search{width:400px;display:inline}!function(d,s,id){var js,fjs=d.getElementsByTagName(s)&#91;0&#93;,p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://lgapi-us.libapps.com/widgets.php?site_id=10036&amp;widget_type=7&amp;widget_embed_type=1&amp;output_format=1&amp;search_box_type=2&amp;group_id=0&amp;placeholder_text=Search+by+Title&amp;button_text=Search&amp;widget_height=&amp;widget_width=400&amp;config_id=1513266754631";fjs.parentNode.insertBefore(js,fjs)}}(document,"script","s-lg-widget-script-1513266754631")}.et_pb_code_1{.column{float:left}.left{width:25%}.right{width:75%}.row:after{content:"";display:table;clear:both}}.et_pb_code_0{function searchPrimo(){document.getElementById("primoQuery").value="any,contains," + document.getElementById("primoQueryTemp").value.replace(/&#91;,&#93;/g," ");document.forms&#91;"searchForm"&#93;.submit()}input{display:inline}}.et_pb_section_1{function searchPrimo(){document.getElementById("primoQuery").value="any,contains," + document.getElementById("primoQueryTemp").value.replace(/&#91;,&#93;/g," ");document.forms&#91;"searchForm"&#93;.submit()}input{display:inline}}.et_pb_text_3{margin-top:65px!important}@media only screen and (max-width:980px){body #page-container .et_pb_button_0{padding-left:1em;padding-right:1em}body #page-container .et_pb_button_0:hover{padding-left:0.7em;padding-right:2em}body #page-container .et_pb_button_0:after{line-height:inherit;font-size:inherit!important;margin-left:-1em;left:auto;display:inline-block;opacity:0;content:attr(data-icon);font-family:"ETmodules"!important}body #page-container .et_pb_button_0:before{display:none}body #page-container .et_pb_button_0:hover:after{margin-left:0;left:auto;margin-left:.3em;opacity:1}body #page-container .et_pb_button_1{padding-left:1em;padding-right:1em}body #page-container .et_pb_button_1:hover{padding-left:0.7em;padding-right:2em}body #page-container .et_pb_button_1:after{line-height:inherit;font-size:inherit!important;margin-left:-1em;left:auto;display:inline-block;opacity:0;content:attr(data-icon);font-family:"ETmodules"!important}body #page-container .et_pb_button_1:before{display:none}body #page-container .et_pb_button_1:hover:after{margin-left:0;left:auto;margin-left:.3em;opacity:1}}@media only screen and (max-width:767px){body #page-container .et_pb_button_0{padding-left:1em;padding-right:1em}body #page-container .et_pb_button_0:hover{padding-left:0.7em;padding-right:2em}body #page-container .et_pb_button_0:after{line-height:inherit;font-size:inherit!important;margin-left:-1em;left:auto;display:inline-block;opacity:0;content:attr(data-icon);font-family:"ETmodules"!important}body #page-container .et_pb_button_0:before{display:none}body #page-container .et_pb_button_0:hover:after{margin-left:0;left:auto;margin-left:.3em;opacity:1}body #page-container .et_pb_button_1{padding-left:1em;padding-right:1em}body #page-container .et_pb_button_1:hover{padding-left:0.7em;padding-right:2em}body #page-container .et_pb_button_1:after{line-height:inherit;font-size:inherit!important;margin-left:-1em;left:auto;display:inline-block;opacity:0;content:attr(data-icon);font-family:"ETmodules"!important}body #page-container .et_pb_button_1:before{display:none}body #page-container .et_pb_button_1:hover:after{margin-left:0;left:auto;margin-left:.3em;opacity:1}}</style>
+  <script type="text/javascript">var to_like_post = {"url":"https://www.mines.edu/library/wp-admin/admin-ajax.php","nonce":"ab805a59f1"};jQuery.noConflict(),function(a){"use strict";a(document).ready(function(){a(document).on("click",".to-post-like:not('.to-post-like-unactive')",function(b){b.preventDefault();var c=a(this),d=c.data("post-id"),e=parseInt(c.find(".to-like-count").text());return c.addClass("heart-pulse"),a.ajax({type:"post",url:to_like_post.url,data:{nonce:to_like_post.nonce,action:"to_like_post",post_id:d,like_nb:e},context:c,success:function(b){b&&(c=a(this),c.attr("title",b.title),c.find(".to-like-count").text(b.count),c.removeClass(b.remove_class+" heart-pulse").addClass(b.add_class))}}),!1})})}(jQuery);</script>
+  <script type="text/javascript" src="https://stats.wp.com/e-201922.js" async defer></script> 
+  <script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:7.1.1',blog:'135196380',post:'1566',tz:'-6',srv:'www.mines.edu'} ]);
+	_stq.push([ 'clickTrackerInit', '135196380', '1566' ]);
+</script>   
+ </body>
+</html>

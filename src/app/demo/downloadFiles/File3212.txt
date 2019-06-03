@@ -1,0 +1,583 @@
+<!doctype html>
+<html class="no-js tn-html" lang="en">
+ <head> 
+  <title>State of Tennessee Meetings - TN.gov</title> 
+  <meta charset="utf-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="keywords" content="Public Notices,Public Input Wanted,Public Hearings,Public Meetings"> 
+  <meta name="description" content="A calendar of upcoming State of Tennessee meetings and events."> 
+  <meta name="url" content="https://www.tn.gov/meetings.2019-06.html"> 
+  <meta name="lastModified" content="1 Mar 2019 11:22:16 CST"> 
+  <meta name="pageType"> 
+  <meta name="pageDepartment"> 
+  <meta name="pageDivision"> 
+  <meta name="newsDateTimeString"> 
+  <meta name="eventDateTimeString"> 
+  <meta name="searchType"> 
+  <meta name="pagePath" content="/content/tn/meetings"> 
+  <meta name="category"> 
+  <meta name="filter_events" content="tn:events/public-notices"> 
+  <meta name="filter_news" content="tn:news/non-press-releases/public-input-wanted"> 
+  <meta name="filter_events" content="tn:events/public-hearings"> 
+  <meta name="filter_events" content="tn:events/public-meetings"> 
+  <meta property="og:title" content="State of Tennessee Meetings - TN.gov"> 
+  <meta property="og:description" content="A calendar of upcoming State of Tennessee meetings and events."> 
+  <meta property="og:url" content="https://www.tn.gov/meetings.2019-06.html"> 
+  <meta property="og:image"> 
+  <meta name="twitter:card" content="summary"> 
+  <meta name="twitter:title" content="State of Tennessee Meetings - TN.gov"> 
+  <meta name="twitter:description" content="A calendar of upcoming State of Tennessee meetings and events."> 
+  <meta name="twitter:url" content="https://www.tn.gov/meetings.2019-06.html"> 
+  <meta name="twitter:image"> 
+  <link rel="shortcut icon" href="/etc/clientlibs/tncore/main/img/favicon.ico"> 
+  <link rel="canonical" href="https://www.tn.gov/meetings.2019-06.html"> 
+  <link rel="stylesheet" href="/etc/clientlibs/tncore/main.min.7b7f24489495d82cdd3b7a88107b9f76.css" type="text/css"> 
+  <link rel="stylesheet" href="/etc/clientlibs/tn-sites/tngov.min.de4d4402ec2138999b5540dbe08724b4.css" type="text/css"> 
+  <script src="//assets.adobedtm.com/046dcefde06052c1522b33b00453f0592c8031e1/satelliteLib-0eaceea9a3f6b60d158884d8c7daf5435071c1e5.js"></script> 
+ </head> 
+ <body class="tngov" data-selectors="[&quot;2019-06&quot;]" data-template="calendarpage"> 
+  <div class="sr-only sr-only-focusable"> 
+   <p><a href="#main">Skip to Main Content</a></p> 
+  </div> 
+  <noindex> 
+   <div> 
+   </div> 
+   <div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+      <div class="tn_header tn-header">
+       <header id="header"> 
+        <div class="row center-block top-nav"> 
+         <a class="logo" href="https://www.tn.gov/" data-logo="state-government" style="background-image: url('/etc/clientlibs/tncore/main/img/logos/tn-logo.png')"> 
+          <div>
+           Home
+          </div> </a> 
+         <a class="search-all icon-home-1" href="https://www.tn.gov/">Go to TN.gov</a> 
+        </div> 
+        <div class="row center-block agency"> 
+         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 columns title"> 
+          <a href="/content/tn.html"> <img src="/content/dam/headers/state-government.png" alt="  State of Tennessee" id="entity-name" data-pin-nopin="true"> </a> 
+         </div> 
+         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 columns text-right"> 
+          <div class="tn-headersearch">
+           <div class="search"> 
+            <form method="get" action="/search-results.html"> 
+             <input type="text" class="search-box" name="q" placeholder="Search All Tennessee Government" aria-label="Search All Tennessee Government"> 
+             <input type="submit" value="Search" class="search-button"> 
+             <i class="icon-search"></i> 
+            </form> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="backdrop" style="background-image:url(/content/dam/headers/test.jpg)"></div> 
+        <div class="backdrop-color" style="background-color: rgba(110,112,115,0.20)"></div> 
+       </header> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="tn-topnav">
+    <nav id="nav"> 
+     <div class="row center-block"> 
+      <div class="col-lg-12"> 
+       <div class="logo-small tn-logo"> 
+        <a href="/content/tn.html"><span class="sr-only">Go to TN.gov</span></a> 
+       </div> 
+       <div class="mobile-show icon-menu mobile-menu">
+        Section
+       </div> 
+       <ul class="inline-list nav-items"> 
+        <li> <a href="/content/tn.html" class="icon-home"><span class="sr-only">Go to TN.gov</span></a> </li> 
+        <li class="dropdown"> <a href="/residents.html">Residents<i class="icon-down-dir"></i></a> 
+         <ul> 
+          <li><a href="/residents/cars-driving.html">Cars &amp; Driving</a></li> 
+          <li><a href="/residents/communities-mp-residents-btc.html">Communities</a></li> 
+          <li><a href="/residents/education.html">Education</a></li> 
+          <li><a href="/residents/children-and-families.html">Children and Families</a></li> 
+         </ul> </li> 
+        <li class="dropdown"> <a href="/business.html">Business<i class="icon-down-dir"></i></a> 
+         <ul> 
+          <li><a href="/business/existing-businesses.html">Existing Businesses</a></li> 
+          <li><a href="/business/new-businesses-mp-business-btc.html">New Businesses</a></li> 
+          <li><a href="/business/licenses-permits.html">Licenses &amp; Permits</a></li> 
+          <li><a href="/business/doing-business.html">Doing Business</a></li> 
+         </ul> </li> 
+        <li class="dropdown"> <a href="/government.html">Government<i class="icon-down-dir"></i></a> 
+         <ul> 
+          <li><a href="/government/public-and-private-acts-and-resolutions.html">Public and Private Acts and Resolutions</a></li> 
+          <li><a href="/government/tennessee-rules-and-regulations.html">Tennessee Rules and Regulations</a></li> 
+          <li><a href="/government/legislative-bill-search0.html">Legislative Bill Search</a></li> 
+          <li><a href="/government/state-employees-.html">State Employees </a></li> 
+          <li><a href="/government/federal.html">Federal</a></li> 
+          <li><a href="/government/governor.html">Governor </a></li> 
+          <li><a href="/government/redirect-first-lady-crissy-haslam.html">First Lady </a></li> 
+          <li><a href="/government/elected-officials.html">Elected Officials</a></li> 
+         </ul> </li> 
+        <li> <a href="/employment.html">Employment</a> </li> 
+        <li class="dropdown"> <a href="/directory.html">Directory<i class="icon-down-dir"></i></a> 
+         <ul> 
+          <li><a href="/directory/department-directory.html">Department Directory</a></li> 
+          <li><a href="/directory/state-phone-directory.html">State Phone Directory</a></li> 
+          <li><a href="/directory/county-city-web-sites.html">County &amp; City Web Sites</a></li> 
+          <li><a href="/directory/county-officials-listing.html">County Officials Listing</a></li> 
+          <li><a href="/directory/city-officials-listing.html">City Officials Listing</a></li> 
+          <li><a href="/directory/local-law-enforcement.html">Local Law Enforcement</a></li> 
+          <li><a href="/directory/find-your-legislator.html">Find Your Legislator</a></li> 
+         </ul> </li> 
+        <li> <a href="/help.html">Help</a> </li> 
+       </ul> 
+       <div class="right primary-print"> 
+        <a href="javascript:window.print();" class="icon-print"><span class="sr-only">Print This Page</span></a> 
+       </div> 
+       <div class="right secondary-print"> 
+        <a href="javascript:window.print();" class="icon-print"><span class="sr-only">Print This Page</span></a> 
+       </div> 
+       <div class="right secondary-search"> 
+        <a class="icon-search"><span class="sr-only">Go to Search</span></a> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="config hidden" data-config="{&quot;closeMenuText&quot;:&quot;Close Menu&quot;,&quot;menuText&quot;:&quot;Section&quot;}"></div> 
+    </nav> 
+   </div> 
+   <div class="tn-alerts"> 
+   </div> 
+  </noindex> 
+  <div id="main" tabindex="-1"> 
+   <div class="row center-block tn-calendar"> 
+    <div class="calendar tn-leftnav"> 
+     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 "> 
+      <div class="tn-calendarpagefilters">
+       <nav class="side expander" data-calendarpage-resource-path="/meetings/_jcr_content"> 
+        <table> 
+         <caption> 
+          <a href="/meetings.2019-05.html" title="May 2019" class="icon-left"></a> 
+          <a href="/meetings.2019-06.html"> June 2019 </a> 
+          <a href="/meetings.2019-07.html" title="July 2019" class="icon-right"></a> 
+         </caption> 
+         <thead> 
+          <tr> 
+           <th scope="col">S</th> 
+           <th scope="col">M</th> 
+           <th scope="col">T</th> 
+           <th scope="col">W</th> 
+           <th scope="col">T</th> 
+           <th scope="col">F</th> 
+           <th scope="col">S</th> 
+          </tr> 
+         </thead> 
+         <tbody> 
+          <tr> 
+           <td> <span data-url-selector="2019-05-26">26</span> </td> 
+           <td> <span data-url-selector="2019-05-27">27</span> </td> 
+           <td> <span data-url-selector="2019-05-28">28</span> </td> 
+           <td> <span data-url-selector="2019-05-29">29</span> </td> 
+           <td> <span data-url-selector="2019-05-30">30</span> </td> 
+           <td> <span data-url-selector="2019-05-31">31</span> </td> 
+           <td class="current"> <span data-url-selector="2019-06-01">1</span> </td> 
+          </tr>
+          <tr> 
+           <td class="current"> <span data-url-selector="2019-06-02">2</span> </td> 
+           <td class="current"> <span data-url-selector="2019-06-03">3</span> </td> 
+           <td class="current"> <span data-url-selector="2019-06-04">4</span> </td> 
+           <td class="current"> <span data-url-selector="2019-06-05">5</span> </td> 
+           <td class="current"> <span data-url-selector="2019-06-06">6</span> </td> 
+           <td class="current"> <span data-url-selector="2019-06-07">7</span> </td> 
+           <td class="current"> <span data-url-selector="2019-06-08">8</span> </td> 
+          </tr>
+          <tr> 
+           <td class="current"> <span data-url-selector="2019-06-09">9</span> </td> 
+           <td class="current"> <span data-url-selector="2019-06-10">10</span> </td> 
+           <td class="current"> <span data-url-selector="2019-06-11">11</span> </td> 
+           <td class="current"> <span data-url-selector="2019-06-12">12</span> </td> 
+           <td class="current"> <span data-url-selector="2019-06-13">13</span> </td> 
+           <td class="current"> <span data-url-selector="2019-06-14">14</span> </td> 
+           <td class="current"> <span data-url-selector="2019-06-15">15</span> </td> 
+          </tr>
+          <tr> 
+           <td class="current"> <span data-url-selector="2019-06-16">16</span> </td> 
+           <td class="current"> <span data-url-selector="2019-06-17">17</span> </td> 
+           <td class="current"> <span data-url-selector="2019-06-18">18</span> </td> 
+           <td class="current"> <span data-url-selector="2019-06-19">19</span> </td> 
+           <td class="current"> <span data-url-selector="2019-06-20">20</span> </td> 
+           <td class="current"> <span data-url-selector="2019-06-21">21</span> </td> 
+           <td class="current"> <span data-url-selector="2019-06-22">22</span> </td> 
+          </tr>
+          <tr> 
+           <td class="current"> <span data-url-selector="2019-06-23">23</span> </td> 
+           <td class="current"> <span data-url-selector="2019-06-24">24</span> </td> 
+           <td class="current"> <span data-url-selector="2019-06-25">25</span> </td> 
+           <td class="current"> <span data-url-selector="2019-06-26">26</span> </td> 
+           <td class="current"> <span data-url-selector="2019-06-27">27</span> </td> 
+           <td class="current"> <span data-url-selector="2019-06-28">28</span> </td> 
+           <td class="current"> <span data-url-selector="2019-06-29">29</span> </td> 
+          </tr>
+          <tr> 
+           <td class="current"> <span data-url-selector="2019-06-30">30</span> </td> 
+           <td> <span data-url-selector="2019-07-01">1</span> </td> 
+           <td> <span data-url-selector="2019-07-02">2</span> </td> 
+           <td> <span data-url-selector="2019-07-03">3</span> </td> 
+           <td> <span data-url-selector="2019-07-04">4</span> </td> 
+           <td> <span data-url-selector="2019-07-05">5</span> </td> 
+           <td> <span data-url-selector="2019-07-06">6</span> </td> 
+          </tr>
+          <tr> 
+          </tr> 
+         </tbody> 
+        </table> 
+       </nav>
+      </div> 
+     </div> 
+    </div> 
+    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 content"> 
+     <article> 
+      <div class="tn-calendarpageresults"> 
+       <div class="tn-pagetitle"> 
+        <h1>June 2019</h1> 
+       </div> 
+       <ul class="stories"> 
+        <li> 
+         <article> 
+          <div class="padded"> 
+           <h2> <a href="/commerce/calendar/2019/6/3/cosmetology-board-meeting.html">Cosmetology Board Meeting</a> </h2> 
+           <div class="date">
+            June 3, 2019, from 9:00 am to TBD
+           </div> 
+           <div class="text"> 
+            <p></p> 
+           </div> 
+          </div> 
+          <a href="/commerce/calendar/2019/6/3/cosmetology-board-meeting.html" class="button bar grey">View Event</a> 
+         </article> </li> 
+        <li> 
+         <article> 
+          <div class="padded"> 
+           <h2> <a href="/revenue/events/2019/6/3/6-1-2019---professional-privilege-tax-due-date---annual-filers.html">6/1/2019 - Professional Privilege Tax Due Date - Annual filers</a> </h2> 
+           <div class="date">
+            June 3, 2019
+           </div> 
+           <div class="text"> 
+            <p></p> 
+           </div> 
+          </div> 
+          <a href="/revenue/events/2019/6/3/6-1-2019---professional-privilege-tax-due-date---annual-filers.html" class="button bar grey">View Event</a> 
+         </article> </li> 
+        <li> 
+         <article> 
+          <div class="padded"> 
+           <h2> <a href="/health/calendar/2019/6/3/benha-board-meeting-june-3-2019.html">Board of Examiners for Nursing Home Administrators Meeting June 3, 2019</a> </h2> 
+           <div class="date">
+            June 3, 2019
+           </div> 
+           <div class="text"> 
+            <p></p> 
+           </div> 
+          </div> 
+          <a href="/health/calendar/2019/6/3/benha-board-meeting-june-3-2019.html" class="button bar grey">View Event</a> 
+         </article> </li> 
+        <li> 
+         <article> 
+          <div class="padded"> 
+           <h2> <a href="/workforce/events/2019/5/2/june-2019-elevator-amusement-device-safety-board-meeting.html">June 2019 Elevator &amp; Amusement Device Safety Board Meeting</a> </h2> 
+           <div class="date">
+            June 4, 2019
+           </div> 
+           <div class="text"> 
+            <p>The Elevator &amp; Amusement Device Safety Board is comprised of eight (8) members who share industry knowledge, expertise and hear issues concerning elevators, other conveyances as well as amusement devices. Presentations by owners, operators and industry representatives are made, and board members determine if variances should be granted or if an action is consistent with current rules and law. When appropriate, the board makes recommendations to the department to amend rules, law, etc. through the rule-making process or via legislation.</p> 
+           </div> 
+          </div> 
+          <a href="/workforce/events/2019/5/2/june-2019-elevator-amusement-device-safety-board-meeting.html" class="button bar grey">View Event</a> 
+         </article> </li> 
+        <li> 
+         <article> 
+          <div class="padded"> 
+           <h2> <a href="/agriculture/calendar/2019/6/4/tennessee-forestry-commission-to-meet.html">Tennessee Forestry Commission to Meet</a> </h2> 
+           <div class="date">
+            June 4, 2019
+           </div> 
+           <div class="text"> 
+            <p>The Tennessee Forestry Commission will meet June 4 at 9 a.m. CDT at the TWRA main conference room located at 5107 Edmondson Pike in Nashville, Tenn.</p> 
+           </div> 
+          </div> 
+          <a href="/agriculture/calendar/2019/6/4/tennessee-forestry-commission-to-meet.html" class="button bar grey">View Event</a> 
+         </article> </li> 
+        <li> 
+         <article> 
+          <div class="padded"> 
+           <h2> <a href="/workforce/events/2019/6/4/june-medical-payment-committee-meeting.html">June Medical Payment Committee Meeting</a> </h2> 
+           <div class="date">
+            June 4, 2019, from 1:00 pm to 3:00 pm CST
+           </div> 
+           <div class="text"> 
+            <p>The Medical Payment Committee is comprised of seven voting members appointed by the administrator. Three members represent the medical provider industry, three members represent the workers’ compensation insurance industry, and the medical director serves as the final member of the committee. The committee shall hear disputes on medical bill payments between providers and insurers and advise the administrator on issues relating to the medical fee schedule and medical care cost containment in the workers’ compensation system.</p> 
+           </div> 
+          </div> 
+          <a href="/workforce/events/2019/6/4/june-medical-payment-committee-meeting.html" class="button bar grey">View Event</a> 
+         </article> </li> 
+        <li> 
+         <article> 
+          <div class="padded"> 
+           <h2> <a href="/museum/events/2019/5/24/douglas-henry-state-museum-commission-audit-committee-meeting-.html">Douglas Henry State Museum Commission Audit Committee Meeting </a> </h2> 
+           <div class="date">
+            June 4, 2019
+           </div> 
+           <div class="text"> 
+            <p>The Douglas Henry State Museum Commission Audit Committee will meet on Tuesday, June 4 at 1 p.m. CDT in the Conference Room at the Tennessee State Museum, Level 1, 1000 Rosa L. Parks Blvd. in Nashville.</p> 
+           </div> 
+          </div> 
+          <a href="/museum/events/2019/5/24/douglas-henry-state-museum-commission-audit-committee-meeting-.html" class="button bar grey">View Event</a> 
+         </article> </li> 
+        <li> 
+         <article> 
+          <div class="padded"> 
+           <h2> <a href="/thda-calendar/2019/6/4/tennessee-housing-development-agency-bond-finance-committee-meeting.html">Tennessee Housing Development Agency Bond Finance Committee Meeting</a> </h2> 
+           <div class="date">
+            June 4, 2019, from 4:30 pm to 5:00 pm CDT
+           </div> 
+           <div class="text"> 
+            <p></p> 
+           </div> 
+          </div> 
+          <a href="/thda-calendar/2019/6/4/tennessee-housing-development-agency-bond-finance-committee-meeting.html" class="button bar grey">View Event</a> 
+         </article> </li> 
+        <li> 
+         <article> 
+          <div class="padded"> 
+           <h2> <a href="/health/calendar/2019/6/5/health-care-facilities-board-meeting--june-5-6--2019.html">Health Care Facilities Board Meeting- June 5-6, 2019</a> </h2> 
+           <div class="date">
+            June 5, 2019
+           </div> 
+           <div class="text"> 
+            <p></p> 
+           </div> 
+          </div> 
+          <a href="/health/calendar/2019/6/5/health-care-facilities-board-meeting--june-5-6--2019.html" class="button bar grey">View Event</a> 
+         </article> </li> 
+        <li> 
+         <article> 
+          <div class="padded"> 
+           <h2> <a href="/commerce/calendar/2019/6/5/tennessee-corrections-institute-board-of-control-meeting.html">Tennessee Corrections Institute Board Of Control Meeting</a> </h2> 
+           <div class="date">
+            June 5, 2019, from 10:00 am to TBD
+           </div> 
+           <div class="text"> 
+            <p></p> 
+           </div> 
+          </div> 
+          <a href="/commerce/calendar/2019/6/5/tennessee-corrections-institute-board-of-control-meeting.html" class="button bar grey">View Event</a> 
+         </article> </li> 
+        <li> 
+         <article> 
+          <div class="padded"> 
+           <h2> <a href="/generalservices/calendar-of-events/2019/6/5/advisory-council-on-state-procurement-.html">Advisory Council on State Procurement </a> </h2> 
+           <div class="date">
+            June 5, 2019, from 2:00 pm to 3:00 pm
+           </div> 
+           <div class="text"> 
+            <p></p> 
+           </div> 
+          </div> 
+          <a href="/generalservices/calendar-of-events/2019/6/5/advisory-council-on-state-procurement-.html" class="button bar grey">View Event</a> 
+         </article> </li> 
+        <li> 
+         <article> 
+          <div class="padded"> 
+           <h2> <a href="/thec/calendar/2019/6/5/tsac-board-meeting.html">TSAC Board Meeting</a> </h2> 
+           <div class="date">
+            June 5, 2019
+           </div> 
+           <div class="text"> 
+            <p></p> 
+           </div> 
+          </div> 
+          <a href="/thec/calendar/2019/6/5/tsac-board-meeting.html" class="button bar grey">View Event</a> 
+         </article> </li> 
+        <li> 
+         <article> 
+          <div class="padded"> 
+           <h2> <a href="/tccy/calendar/2019/6/6/cal-neuroscience-and-education--the-connection.html">Neuroscience and Education: The Connection</a> </h2> 
+           <div class="date">
+            June 6, 2019
+           </div> 
+           <div class="text"> 
+            <p>Neuroscience and Education: The Connection, June 6-7, Currey Ingram Academy campus at 6544 Murray Lane, Brentwood.</p> 
+           </div> 
+          </div> 
+          <a href="/tccy/calendar/2019/6/6/cal-neuroscience-and-education--the-connection.html" class="button bar grey">View Event</a> 
+         </article> </li> 
+        <li> 
+         <article> 
+          <div class="padded"> 
+           <h2> <a href="/health/calendar/2019/6/13/board-of-examiners-in-psychology-meeting-june-13-2019.html">Board of Examiners in Psychology Meeting June 6, 2019</a> </h2> 
+           <div class="date">
+            June 6, 2019
+           </div> 
+           <div class="text"> 
+            <p></p> 
+           </div> 
+          </div> 
+          <a href="/health/calendar/2019/6/13/board-of-examiners-in-psychology-meeting-june-13-2019.html" class="button bar grey">View Event</a> 
+         </article> </li> 
+        <li> 
+         <article> 
+          <div class="padded"> 
+           <h2> <a href="/humanservices/events/2019/6/6/cocke-county-employment---education-resource-fair.html">Cocke County Employment &amp; Education Resource Fair</a> </h2> 
+           <div class="date">
+            June 6, 2019, from 10:00 am to 2:00 pm
+           </div> 
+           <div class="text"> 
+            <p>Employment/Apprenticeship, Job Services, Job Search, Resume Writing, Interviewing Skills, Career Planning/Development, Jobs4TN Registration, College preparation, TN Reconnect Enrollment, and Mental Health &amp; Addiction Recovery Resources. Let us help you find your career path!</p> 
+           </div> 
+          </div> 
+          <a href="/humanservices/events/2019/6/6/cocke-county-employment---education-resource-fair.html" class="button bar grey">View Event</a> 
+         </article> </li> 
+       </ul> 
+       <ul class="inline-list pager"> 
+        <li class="left"> <i class="icon-angle-double-left"></i> <i class="icon-angle-left"></i> </li> 
+        <li> 1 </li> 
+        <li> <a href="/meetings.2019-06.2.html"> 2 </a> </li> 
+        <li> <a href="/meetings.2019-06.3.html"> 3 </a> </li> 
+        <li> ... </li> 
+        <li> <a href="/meetings.2019-06.7.html"> 7 </a> </li> 
+        <li> <a href="/meetings.2019-06.2.html"> <i class="icon-angle-right"></i> </a> </li> 
+       </ul> 
+      </div> 
+     </article> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="tn-backtotop">
+   <a href="#header" class="page-top icon-up"></a> 
+  </div> 
+  <noindex> 
+   <div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+     </div> 
+    </div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+     </div> 
+    </div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+      <div class="tn_footer tn-footer parbase"> 
+       <footer id="footer"> 
+        <div id="footer-top"> 
+         <div class="row"> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns"> 
+           <ul class="inline-list"> 
+            <li> <a href="/about-tn/flag-status.html" class="icon-flag" data-resource-path="/_jcr_content/footer/tn_footer"> </a> </li> 
+            <li id="footer-livechat" class="offline"> <a href="#" class="icon-chat" onclick="openFooterChat()" target="_blank"> Live Chat </a> 
+             <div class="livechat"> 
+              <script type="text/javascript">
+                                function openFooterChat() {
+                                    window.open ("https://help.tn.gov/sn_customerservice_tn_chat_selector.do", "popup", "width=900, height=600"); 
+                                 };
+                            </script> 
+             </div> </li> 
+           </ul> 
+          </div> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns text-right"> 
+           <ul class="inline-list"> 
+            <li> <a href="/help.html" class="icon-help-circled">Help</a> </li> 
+            <li id="footer-share"><a href="#" class="icon-export">Share</a> 
+             <div class="drop right"> 
+              <div class="box"> 
+               <span class="st_sharethis_large" displaytext="ShareThis"></span> 
+               <span class="st_facebook_large" displaytext="Facebook"></span> 
+               <span class="st_twitter_large" displaytext="Tweet"></span> 
+               <span class="st_googleplus_large" displaytext="Google +"></span> 
+               <span class="st_linkedin_large" displaytext="LinkedIn"></span> 
+               <script type="text/javascript">
+                                    var switchTo5x = true;
+                                </script> 
+               <script type="text/javascript" src="//ws.sharethis.com/button/buttons.js"></script> 
+               <script type="text/javascript">
+                                    if (typeof stLight !== 'undefined') {
+                                        stLight.options({
+                                            publisher : "5dc356bf-5442-455c-b483-ab8ca7d8cd15",
+                                            doNotHash : false,
+                                            doNotCopy : false,
+                                            hashAddressBar : false
+                                        });
+                                    }
+                                </script> 
+              </div> 
+             </div></li> 
+            <li id="footer-translate"><a href="#" class="icon-book">Translate</a> 
+             <div class="drop right"> 
+              <div class="box"> 
+               <div id="google_translate_element"></div> 
+              </div> 
+             </div></li> 
+            <li id="footer-fontsize"><a href="#" class="icon-font">Font Size</a> 
+             <div class="drop right"> 
+              <div class="box"> 
+               <ul class="inline-list"> 
+                <li><a class="button" data-font-size="small">a-</a></li> 
+                <li><a class="button active" data-font-size="normal">Normal</a></li> 
+                <li><a class="button" data-font-size="large">A+</a></li> 
+               </ul> 
+              </div> 
+             </div></li> 
+           </ul> 
+          </div> 
+         </div> 
+         <a class="starball"> <img src="/etc/clientlibs/tncore/main/img/footer-starball.png" alt="Tristar" width="100%"> </a> 
+        </div> 
+        <div id="footer-bottom"> 
+         <div class="row"> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns"> 
+           <ul class="inline-list"> 
+            <li> <a href="/state-services.html" class="first">TN.gov Services</a> <a href="/directory.html">TN.gov Directory</a> <a href="/transparenttn.html">Transparent TN</a> <a href="/web-policies/privacy-statement.html">Web Policies</a> </li> 
+           </ul> 
+          </div> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns text-right"> 
+           <ul class="inline-list"> 
+            <li> <a href="/about-tn/state-symbols.html">About Tennessee</a> <a href="/humanrights/file-a-discrimination-complaint/title-vi1/title-vi-disclaimer.html">Title VI</a> <a href="/web-policies/accessibility.html">Accessibility</a> <a href="/help.html">Help &amp; Contact</a> <a href="/survey.html">Survey</a> </li> 
+           </ul> 
+          </div> 
+         </div> 
+        </div> 
+       </footer> 
+       <div id="modal-footer"></div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <script type="text/javascript" src="/etc/clientlibs/tncore/main.min.73d9ee3d42191396dd2a3447bf54bab7.js"></script> 
+   <script type="text/javascript">_satellite.pageBottom();</script> 
+  </noindex> 
+  <div id="overlay"></div> 
+  <!-- Begin Dynamic Modal for Videos --> 
+  <div class="tn-videoModal modal fade" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="videoModal" aria-hidden="true"> 
+   <div class="modal-dialog"> 
+    <div class="modal-content"> 
+     <div class="modal-body"> 
+      <a href="#" data-dismiss="modal" class="close-video icon-cancel text-button">Close</a> 
+      <div class="videoWrapper"> 
+       <iframe src=""></iframe> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- End Dynamic Modal for Videos --> 
+  <!-- DTM Analytics Datalayer --> 
+  <script>
+            var digitalData = { pageInfo: {} };
+            digitalData.pageInfo.pageName = "meetings";
+        </script>   
+ </body>
+</html>

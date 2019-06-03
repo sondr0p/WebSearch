@@ -1,0 +1,466 @@
+<!doctype html>
+<html class="no-js tn-html" lang="en">
+ <head> 
+  <title>Social Links - TN.gov</title> 
+  <meta charset="utf-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="keywords"> 
+  <meta name="description" content="Links to the social media sites of State of Tennessee Departments and Agencies."> 
+  <meta name="url" content="https://www.tn.gov/social.html"> 
+  <meta name="lastModified" content="30 Jan 2019 11:18:37 CST"> 
+  <meta name="pageType"> 
+  <meta name="pageDepartment"> 
+  <meta name="pageDivision"> 
+  <meta name="newsDateTimeString"> 
+  <meta name="eventDateTimeString"> 
+  <meta name="searchType"> 
+  <meta name="pagePath" content="/content/tn/social"> 
+  <meta name="category"> 
+  <meta property="og:title" content="Social Links - TN.gov"> 
+  <meta property="og:description" content="Links to the social media sites of State of Tennessee Departments and Agencies."> 
+  <meta property="og:url" content="https://www.tn.gov/social.html"> 
+  <meta property="og:image"> 
+  <meta name="twitter:card" content="summary"> 
+  <meta name="twitter:title" content="Social Links - TN.gov"> 
+  <meta name="twitter:description" content="Links to the social media sites of State of Tennessee Departments and Agencies."> 
+  <meta name="twitter:url" content="https://www.tn.gov/social.html"> 
+  <meta name="twitter:image"> 
+  <link rel="shortcut icon" href="/etc/clientlibs/tncore/main/img/favicon.ico"> 
+  <link rel="canonical" href="https://www.tn.gov/social.html"> 
+  <link rel="stylesheet" href="/etc/clientlibs/tncore/main.min.7b7f24489495d82cdd3b7a88107b9f76.css" type="text/css"> 
+  <link rel="stylesheet" href="/etc/clientlibs/tn-sites/tngov.min.de4d4402ec2138999b5540dbe08724b4.css" type="text/css"> 
+  <script src="//assets.adobedtm.com/046dcefde06052c1522b33b00453f0592c8031e1/satelliteLib-0eaceea9a3f6b60d158884d8c7daf5435071c1e5.js"></script> 
+ </head> 
+ <body class="tngov" data-selectors="[]" data-template="contentPage"> 
+  <div class="sr-only sr-only-focusable"> 
+   <p><a href="#main">Skip to Main Content</a></p> 
+  </div> 
+  <noindex> 
+   <div> 
+   </div> 
+   <div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+      <div class="tn_header tn-header">
+       <header id="header"> 
+        <div class="row center-block top-nav"> 
+         <a class="logo" href="https://www.tn.gov/" data-logo="state-government" style="background-image: url('/etc/clientlibs/tncore/main/img/logos/tn-logo.png')"> 
+          <div>
+           Home
+          </div> </a> 
+         <a class="search-all icon-home-1" href="https://www.tn.gov/">Go to TN.gov</a> 
+        </div> 
+        <div class="row center-block agency"> 
+         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 columns title"> 
+          <a href="/content/tn.html"> <img src="/content/dam/headers/state-government.png" alt="  State of Tennessee" id="entity-name" data-pin-nopin="true"> </a> 
+         </div> 
+         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 columns text-right"> 
+          <div class="tn-headersearch">
+           <div class="search"> 
+            <form method="get" action="/search-results.html"> 
+             <input type="text" class="search-box" name="q" placeholder="Search All Tennessee Government" aria-label="Search All Tennessee Government"> 
+             <input type="submit" value="Search" class="search-button"> 
+             <i class="icon-search"></i> 
+            </form> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="backdrop" style="background-image:url(/content/dam/headers/test.jpg)"></div> 
+        <div class="backdrop-color" style="background-color: rgba(110,112,115,0.20)"></div> 
+       </header> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="tn-topnav">
+    <nav id="nav"> 
+     <div class="row center-block"> 
+      <div class="col-lg-12"> 
+       <div class="logo-small tn-logo"> 
+        <a href="/content/tn.html"><span class="sr-only">Go to TN.gov</span></a> 
+       </div> 
+       <div class="mobile-show icon-menu mobile-menu">
+        Section
+       </div> 
+       <ul class="inline-list nav-items"> 
+        <li> <a href="/content/tn.html" class="icon-home"><span class="sr-only">Go to TN.gov</span></a> </li> 
+        <li class="dropdown"> <a href="/residents.html">Residents<i class="icon-down-dir"></i></a> 
+         <ul> 
+          <li><a href="/residents/cars-driving.html">Cars &amp; Driving</a></li> 
+          <li><a href="/residents/communities-mp-residents-btc.html">Communities</a></li> 
+          <li><a href="/residents/education.html">Education</a></li> 
+          <li><a href="/residents/children-and-families.html">Children and Families</a></li> 
+         </ul> </li> 
+        <li class="dropdown"> <a href="/business.html">Business<i class="icon-down-dir"></i></a> 
+         <ul> 
+          <li><a href="/business/existing-businesses.html">Existing Businesses</a></li> 
+          <li><a href="/business/new-businesses-mp-business-btc.html">New Businesses</a></li> 
+          <li><a href="/business/licenses-permits.html">Licenses &amp; Permits</a></li> 
+          <li><a href="/business/doing-business.html">Doing Business</a></li> 
+         </ul> </li> 
+        <li class="dropdown"> <a href="/government.html">Government<i class="icon-down-dir"></i></a> 
+         <ul> 
+          <li><a href="/government/public-and-private-acts-and-resolutions.html">Public and Private Acts and Resolutions</a></li> 
+          <li><a href="/government/tennessee-rules-and-regulations.html">Tennessee Rules and Regulations</a></li> 
+          <li><a href="/government/legislative-bill-search0.html">Legislative Bill Search</a></li> 
+          <li><a href="/government/state-employees-.html">State Employees </a></li> 
+          <li><a href="/government/federal.html">Federal</a></li> 
+          <li><a href="/government/governor.html">Governor </a></li> 
+          <li><a href="/government/redirect-first-lady-crissy-haslam.html">First Lady </a></li> 
+          <li><a href="/government/elected-officials.html">Elected Officials</a></li> 
+         </ul> </li> 
+        <li> <a href="/employment.html">Employment</a> </li> 
+        <li class="dropdown"> <a href="/directory.html">Directory<i class="icon-down-dir"></i></a> 
+         <ul> 
+          <li><a href="/directory/department-directory.html">Department Directory</a></li> 
+          <li><a href="/directory/state-phone-directory.html">State Phone Directory</a></li> 
+          <li><a href="/directory/county-city-web-sites.html">County &amp; City Web Sites</a></li> 
+          <li><a href="/directory/county-officials-listing.html">County Officials Listing</a></li> 
+          <li><a href="/directory/city-officials-listing.html">City Officials Listing</a></li> 
+          <li><a href="/directory/local-law-enforcement.html">Local Law Enforcement</a></li> 
+          <li><a href="/directory/find-your-legislator.html">Find Your Legislator</a></li> 
+         </ul> </li> 
+        <li> <a href="/help.html">Help</a> </li> 
+       </ul> 
+       <div class="right primary-print"> 
+        <a href="javascript:window.print();" class="icon-print"><span class="sr-only">Print This Page</span></a> 
+       </div> 
+       <div class="right secondary-print"> 
+        <a href="javascript:window.print();" class="icon-print"><span class="sr-only">Print This Page</span></a> 
+       </div> 
+       <div class="right secondary-search"> 
+        <a class="icon-search"><span class="sr-only">Go to Search</span></a> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="config hidden" data-config="{&quot;closeMenuText&quot;:&quot;Close Menu&quot;,&quot;menuText&quot;:&quot;Section&quot;}"></div> 
+    </nav> 
+   </div> 
+   <div class="tn-alerts"> 
+   </div> 
+  </noindex> 
+  <div id="main" class="basic" tabindex="-1"> 
+   <div class="tn-pagetitle show" aria-hidden="false"> 
+    <h1>Social Links</h1> 
+   </div> 
+   <div> 
+    <div class="tn-tabs parbase"> 
+     <ul class="nav nav-tabs nav-justified tab-options" id="a2cfee92471f4fbb8e8971bc65fad7dd"> 
+      <li class="active" href="#tabtop-a2cfee92471f4fbb8e8971bc65fad7dd-0" data-toggle="tab"> <a href="#tabtop-a2cfee92471f4fbb8e8971bc65fad7dd-0" data-toggle="tab">Twitter</a> </li> 
+      <li href="#tabtop-a2cfee92471f4fbb8e8971bc65fad7dd-1" data-toggle="tab"> <a href="#tabtop-a2cfee92471f4fbb8e8971bc65fad7dd-1" data-toggle="tab">Youtube</a> </li> 
+      <li href="#tabtop-a2cfee92471f4fbb8e8971bc65fad7dd-2" data-toggle="tab"> <a href="#tabtop-a2cfee92471f4fbb8e8971bc65fad7dd-2" data-toggle="tab">Facebook</a> </li> 
+      <li href="#tabtop-a2cfee92471f4fbb8e8971bc65fad7dd-3" data-toggle="tab"> <a href="#tabtop-a2cfee92471f4fbb8e8971bc65fad7dd-3" data-toggle="tab">Instagram</a> </li> 
+      <li href="#tabtop-a2cfee92471f4fbb8e8971bc65fad7dd-4" data-toggle="tab"> <a href="#tabtop-a2cfee92471f4fbb8e8971bc65fad7dd-4" data-toggle="tab">Flickr</a> </li> 
+      <li href="#tabtop-a2cfee92471f4fbb8e8971bc65fad7dd-5" data-toggle="tab"> <a href="#tabtop-a2cfee92471f4fbb8e8971bc65fad7dd-5" data-toggle="tab">Pinterest</a> </li> 
+     </ul> 
+     <div class="tab-content top"> 
+      <div class="tab-pane active" id="tabtop-a2cfee92471f4fbb8e8971bc65fad7dd-0"> 
+       <div> 
+        <div class="tn-rte parbase"> 
+         <p><a href="https://twitter.com/TNAgriculture"></a><a id="twitter" class="anchor"></a>&nbsp;<a href="https://twitter.com/TNAgriculture">Agriculture</a></p> 
+         <p><a href="https://twitter.com/tnattygen">Attorney General and Reporter</a></p> 
+         <p><a href="https://twitter.com/TN_DCS">Children's Services</a></p> 
+         <p><a href="https://twitter.com/#!/TNFinancialAid">College Pays</a></p> 
+         <p><a href="https://twitter.com/TNCommerceInsur">Commerce and Insurance</a></p> 
+         <p><a href="http://twitter.com/tccy">Commission on Children and Youth</a></p> 
+         <p><a href="https://twitter.com/#!/TNTDOC1">Correction</a></p> 
+         <p><a href="https://twitter.com/TNCouncilDD">Council on Developmental Disabilities</a></p> 
+         <p><a href="https://twitter.com/#!/tnecd">Economic and Community Development</a></p> 
+         <p><a href="https://twitter.com/TNedu">Education</a></p> 
+         <p><a href="https://twitter.com/tnenvironment">Environment &amp; Conservation</a></p> 
+         <p><a href="/content/tn/finance/fa-social-media.html#twitter">Finance &amp; Administration</a></p> 
+         <p><a href="https://twitter.com/tnfosters">Fosters</a></p> 
+         <p><a href="https://www.twitter.com/collegefortn">GEAR UP TN</a></p> 
+         <p><a href="http://twitter.com/govbilllee">Governor's Office</a></p> 
+         <p><a href="https://twitter.com/TNDeptofHealth">Health</a></p> 
+         <p><a href="https://twitter.com/dohrtn">Human Resources</a></p> 
+         <p><a href="http://twitter.com/tnhumanrights">Human Rights Commission</a></p> 
+         <p><a href="https://twitter.com/TNHumanServices">Human Services</a></p> 
+         <p><a href="https://twitter.com/DIDD_TN">Intellectual and Developmental Disabilities</a></p> 
+         <p><a href="https://twitter.com/Jobs4_TN">Labor and Workforce Development</a></p> 
+         <p><a href="https://twitter.com/TNMilitaryDept">Military Department</a></p> 
+         <p><a href="http://www.twitter.com/tennesseepuc">Public Utility Commission</a></p> 
+         <p><a href="https://twitter.com/ReadtobeReadyTN">Read to be Ready</a></p> 
+         <p><a href="https://twitter.com/TNDeptofRevenue">Revenue</a></p> 
+         <p><a href="https://twitter.com/TNDeptofSafety">Safety &amp; Homeland Security</a></p> 
+         <p><a href="https://twitter.com/SBEd_TN">State Board of Education</a></p> 
+         <p><a href="https://www.twitter.com/SBEd_TN">State Board of Education Schools</a></p> 
+         <p><a href="http://twitter.com/TBInvestigation">TBI</a></p> 
+         <p><a href="https://twitter.com/myTDOT">TDOT</a></p> 
+         <p><a href="https://twitter.com/TN_Arts">Tennessee Arts Commission</a></p> 
+         <p><a href="http://twitter.com/t_e_m_a">Tennessee Emergency Management Agency</a></p> 
+         <p><a href="https://twitter.com/TNHigherEd">Tennessee Talent Toolkit</a></p> 
+         <p><a href="http://www.twitter.com/tnwildlife">Tennessee Wildlife Resources Agency</a></p> 
+         <p><a href="https://twitter.com/TNVacation">Tourist Development</a></p> 
+         <p><a href="https://twitter.com/TNDVS">Veterans Services</a></p> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="tab-pane " id="tabtop-a2cfee92471f4fbb8e8971bc65fad7dd-1"> 
+       <div> 
+        <div class="tn-rte parbase"> 
+         <p><a href="https://www.youtube.com/channel/UCcy9KqFvSPTUwDiRTaROR2Q"></a><a id="youtube" class="anchor"></a>&nbsp;<a href="https://www.youtube.com/channel/UCcy9KqFvSPTUwDiRTaROR2Q">Agriculture</a></p> 
+         <p><a href="http://www.youtube.com/dcscommunications">Children's Services</a></p> 
+         <p><a href="https://www.youtube.com/user/TNDCImedia/">Commerce and Insurance</a></p> 
+         <p><a href="https://www.youtube.com/channel/UCJ4gkVEa068ztIIjJQYBOBQ">Commission on Children and Youth</a></p> 
+         <p><a href="http://www.youtube.com/user/TNTDOC1">Correction</a></p> 
+         <p><a href="http://www.youtube.com/user/TNECD">Economic and Community Development</a></p> 
+         <p><a href="http://www.youtube.com/user/TNDeptofEducation">Education</a></p> 
+         <p><a href="https://www.youtube.com/user/TNEnvironment">Environment &amp; Conservation</a></p> 
+         <p><a href="/content/tn/finance/fa-social-media.html#youtube">Finance &amp; Administration</a></p> 
+         <p><a href="http://www.youtube.com/user/TnDFI?feature=guide">Financial Institutions</a></p> 
+         <p><a href="https://www.youtube.com/gearuptn">GEAR UP TN</a></p> 
+         <p><a href="https://www.youtube.com/user/TNDeptofHealth">Health</a></p> 
+         <p><a href="http://www.youtube.com/user/tennesseehumanrights">Human Rights Commission</a></p> 
+         <p><a href="https://www.youtube.com/user/DIDDTN/featured">Intellectual and Developmental Disabilities</a></p> 
+         <p><a href="https://www.youtube.com/channel/UCTDXjhU6l1pqZlmKk2lSWYw">Labor and Workforce Development</a></p> 
+         <p><a href="https://www.youtube.com/channel/UCOca3oGI7bmyFXwLwu8YBEw">Mental Health and Substance Abuse</a></p> 
+         <p><a href="http://www.youtube.com/TNMilitaryDept">Military Department</a></p> 
+         <p><a href="https://www.youtube.com/user/TDOR2013">Revenue</a></p> 
+         <p><a href="https://www.youtube.com/user/SafetyTN">Safety &amp; Homeland Security</a></p> 
+         <p><a href="https://www.youtube.com/channel/UCSaecKSTSEYqKZcuioPOCiw?view_as=public">State Board of Education</a></p> 
+         <p><a href="https://www.youtube.com/channel/UCSaecKSTSEYqKZcuioPOCiw">State Board of Education Schools</a></p> 
+         <p><a href="https://www.youtube.com/channel/UCNHcH8bfvJyVCPMxlA7pqQA">TACIR</a></p> 
+         <p><a href="https://www.youtube.com/channel/UCFKwjOBKQodTh_rIp-J644g">TBI</a></p> 
+         <p><a href="http://www.youtube.com/user/TDOTnews">TDOT</a></p> 
+         <p><a href="https://www.youtube.com/user/TCADOnline">Tennessee Commission on Aging and Disability</a></p> 
+         <p><a href="https://www.youtube.com/watch?v=3NqwOdWY4Ic">Tennessee State Museum</a></p> 
+         <p><a href="http://www.youtube.com/user/tennesseewildcast">Tennessee Wildlife Resources Agency</a></p> 
+         <p><a href="https://www.youtube.com/user/TNVacation">Tourist Development</a></p> 
+         <p><a href="https://www.youtube.com/user/TDVAServe">Veterans Services</a></p> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="tab-pane " id="tabtop-a2cfee92471f4fbb8e8971bc65fad7dd-2"> 
+       <div> 
+        <div class="tn-rte parbase"> 
+         <p><a id="facebook" class="anchor"></a>&nbsp;<a href="https://www.facebook.com/TNAgriculture">Agriculture</a></p> 
+         <p><a href="https://www.facebook.com/Tennessee-Attorney-General-1436615396648529/?ref=aymt_homepage_panel">Attorney General and Reporter</a></p> 
+         <p><a href="https://www.facebook.com/TNBoardofParole">Board of Parole</a></p> 
+         <p><a href="http://www.facebook.com/TNdcs">Children's Services</a></p> 
+         <p><a href="http://www.facebook.com/TnSAC">College Pays</a></p> 
+         <p><a href="http://www.facebook.com/TennesseeCommerceAndInsurance">Commerce and Insurance</a></p> 
+         <p><a href="http://www.facebook.com/tccyonfb">Commission on Children and Youth</a></p> 
+         <p><a href="http://www.facebook.com/TNDepartmentofCorrection">Correction</a></p> 
+         <p><a href="https://www.facebook.com/TNCouncilonDD">Council on Developmental Disabilities</a></p> 
+         <p><a href="http://www.facebook.com/tnecd">Economic and Community Development</a></p> 
+         <p><a href="https://www.facebook.com/TennesseeEducation">Education</a></p> 
+         <p><a href="https://www.facebook.com/TNEnvironment">Environment &amp; Conservation</a></p> 
+         <p><a href="/content/tn/finance/fa-social-media.html#facebook">Finance &amp; Administration</a></p> 
+         <p><a href="https://www.facebook.com/TNFosters/">Fosters</a></p> 
+         <p><a href="https://www.facebook.com/collegefortn">GEAR UP TN</a></p> 
+         <p><a href="http://www.facebook.com/govbilllee">Governor's Office</a></p> 
+         <p><a href="http://www.facebook.com/TNDeptofHealth">Health</a></p> 
+         <p><a href="https://www.facebook.com/pages/TN-Department-of-Human-Resources-Recruiting-Center/540764676016492">Human Resources</a></p> 
+         <p><a href="http://www.facebook.com/pages/Tennessee-Human-Rights-Commission/179318415437800?ref=sgm">Human Rights Commission</a></p> 
+         <p><a href="https://www.facebook.com/tennesseedepartmentofhumanservices/">Human Services</a></p> 
+         <p><a href="https://www.facebook.com/tn.didd">Intellectual and Developmental Disabilities</a></p> 
+         <p><a href="https://www.facebook.com/TNDeptofLaborWorkforce">Labor and Workforce Development</a></p> 
+         <p><a href="https://www.facebook.com/TNMentalHealthSubstanceAbuseServices?ref=aymt_homepage_panel">Mental Health and Substance Abuse</a></p> 
+         <p><a href="https://www.facebook.com/pages/Tennessee-Military-Department/183335701690711">Military Department</a></p> 
+         <p><a href="http://www.facebook.com/tennesseepuc">Public Utility Commission</a></p> 
+         <p><a href="https://www.facebook.com/TennesseeDepartmentOfRevenue">Revenue</a></p> 
+         <p><a href="https://www.facebook.com/TennesseeSafety">Safety &amp; Homeland Security</a></p> 
+         <p><a href="https://www.facebook.com/stateboardofeducation/?ref=aymt_homepage_panel">State Board of Education</a></p> 
+         <p><a href="https://www.facebook.com/stateboardofeducation">State Board of Education Schools</a></p> 
+         <p><a href="http://www.facebook.com/TN.ACIR">TACIR</a></p> 
+         <p><a href="http://www.facebook.com/#!/pages/Nashville-TN/Tennessee-Bureau-of-Investigation/214860218541439?sk=wall">TBI</a></p> 
+         <p><a href="http://www.facebook.com/pages/myTDOT/79232382550">TDOT</a></p> 
+         <p><a href="http://www.facebook.com/tnartscommission">Tennessee Arts Commission</a></p> 
+         <p><a href="https://www.facebook.com/TNAging/">Tennessee Commission on Aging and Disability</a></p> 
+         <p><a href="http://www.facebook.com/TNDisasterInfo">Tennessee Emergency Management Agency</a></p> 
+         <p><a href="http://www.facebook.com/pages/Nashville-TN/Tennessee-State-Museum/119338717939?ref=mf">Tennessee State Museum</a></p> 
+         <p><a href="https://www.facebook.com/TennesseeWildlifeResourcesAgency">Tennessee Wildlife Resources Agency</a></p> 
+         <p><a href="https://www.facebook.com/tnvacation">Tourist Development</a></p> 
+         <p><a href="https://www.facebook.com/myTDVS">Veterans Services</a></p> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="tab-pane " id="tabtop-a2cfee92471f4fbb8e8971bc65fad7dd-3"> 
+       <div> 
+        <div class="tn-rte parbase"> 
+         <p><a id="instagram" class="anchor"></a>&nbsp;<a href="https://www.instagram.com/tncommerceinsur/">Commerce and Insurance</a></p> 
+         <p><a href="http://instagram.com/tndepartmentofcorrection/">Correction</a></p> 
+         <p><a href="https://www.instagram.com/tnecd/">Economic and Community Development</a></p> 
+         <p><a href="https://www.instagram.com/tnfosters/">Fosters</a></p> 
+         <p><a href="https://www.instagram.com/collegefortn">GEAR UP TN</a></p> 
+         <p><a href="https://www.instagram.com/billleetn/">Governor's Office</a></p> 
+         <p><a href="https://www.instagram.com/tndeptoflaborworkforce/">Labor and Workforce Development</a></p> 
+         <p><a href="https://www.instagram.com/TennesseePUC/">Public Utility Commission</a></p> 
+         <p><a href="https://www.instagram.com/ReadtobeReadyTN/">Read to be Ready</a></p> 
+         <p><a href="https://instagram.com/TBInvestigation/">TBI</a></p> 
+         <p><a href="https://www.instagram.com/my_tdot/">TDOT</a></p> 
+         <p><a href="https://www.instagram.com/tnstatemuseum/">Tennessee State Museum</a></p> 
+         <p><a href="https://www.instagram.com/tnwildliferesourcesagency/">Tennessee Wildlife Resources Agency</a></p> 
+         <p><a href="http://instagram.com/tnvacation">Tourist Development</a></p> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="tab-pane " id="tabtop-a2cfee92471f4fbb8e8971bc65fad7dd-4"> 
+       <div> 
+        <div class="tn-rte parbase"> 
+         <p><a id="flickr" class="anchor"></a>&nbsp;<a href="https://www.flickr.com/photos/138586353@N07/">Commerce and Insurance</a></p> 
+         <p><a href="http://www.flickr.com/photos/tennecd/sets">Economic and Community Development</a></p> 
+         <p><a href="https://www.flickr.com/photos/tnenvironment">Environment &amp; Conservation</a></p> 
+         <p><a href="/content/tn/finance/fa-social-media.html#flickr">Finance &amp; Administration</a></p> 
+         <p><a href="https://www.flickr.com/photos/tndepthumanservices/">Human Services</a></p> 
+         <p><a href="https://www.flickr.com/photos/130228572@N06/">Intellectual and Developmental Disabilities</a></p> 
+         <p><a href="http://www.flickr.com/getonthecoach">Labor and Workforce Development</a></p> 
+         <p><a href="https://www.flickr.com/photos/119580055@N05/sets/">Military Department</a></p> 
+         <p><a href="http://www.flickr.com/photos/65358414@N03/sets/">Safety &amp; Homeland Security</a></p> 
+         <p><a href="http://www.flickr.com/photos/tndot/">TDOT</a></p> 
+         <p><a href="http://www.flickr.com/photos/t_e_m_a">Tennessee Emergency Management Agency</a></p> 
+         <p><a href="http://www.flickr.com/photos/78216395@N07/">Veterans Services</a></p> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="tab-pane " id="tabtop-a2cfee92471f4fbb8e8971bc65fad7dd-5"> 
+       <div> 
+        <div class="tn-rte parbase"> 
+         <p><a id="pinterest" class="anchor"></a>&nbsp;<a href="https://author.tn.gov/content/tn/finance/fa-social-media.html#pinterest">Finance &amp; Administration</a></p> 
+         <p><a href="https://www.pinterest.com/collegefortn">GEAR UP TN</a></p> 
+         <p><a href="https://www.pinterest.com/tsmuseum/">Tennessee State Museum</a></p> 
+         <p><a href="https://www.pinterest.com/tnvacation/">Tourist Development</a></p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div style="clear:both;"></div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="tn-backtotop">
+   <a href="#header" class="page-top icon-up"></a> 
+  </div> 
+  <noindex> 
+   <div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+     </div> 
+    </div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+     </div> 
+    </div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+      <div class="tn_footer tn-footer parbase"> 
+       <footer id="footer"> 
+        <div id="footer-top"> 
+         <div class="row"> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns"> 
+           <ul class="inline-list"> 
+            <li> <a href="/about-tn/flag-status.html" class="icon-flag" data-resource-path="/_jcr_content/footer/tn_footer"> </a> </li> 
+            <li id="footer-livechat" class="offline"> <a href="#" class="icon-chat" onclick="openFooterChat()" target="_blank"> Live Chat </a> 
+             <div class="livechat"> 
+              <script type="text/javascript">
+                                function openFooterChat() {
+                                    window.open ("https://help.tn.gov/sn_customerservice_tn_chat_selector.do", "popup", "width=900, height=600"); 
+                                 };
+                            </script> 
+             </div> </li> 
+           </ul> 
+          </div> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns text-right"> 
+           <ul class="inline-list"> 
+            <li> <a href="/help.html" class="icon-help-circled">Help</a> </li> 
+            <li id="footer-share"><a href="#" class="icon-export">Share</a> 
+             <div class="drop right"> 
+              <div class="box"> 
+               <span class="st_sharethis_large" displaytext="ShareThis"></span> 
+               <span class="st_facebook_large" displaytext="Facebook"></span> 
+               <span class="st_twitter_large" displaytext="Tweet"></span> 
+               <span class="st_googleplus_large" displaytext="Google +"></span> 
+               <span class="st_linkedin_large" displaytext="LinkedIn"></span> 
+               <script type="text/javascript">
+                                    var switchTo5x = true;
+                                </script> 
+               <script type="text/javascript" src="//ws.sharethis.com/button/buttons.js"></script> 
+               <script type="text/javascript">
+                                    if (typeof stLight !== 'undefined') {
+                                        stLight.options({
+                                            publisher : "5dc356bf-5442-455c-b483-ab8ca7d8cd15",
+                                            doNotHash : false,
+                                            doNotCopy : false,
+                                            hashAddressBar : false
+                                        });
+                                    }
+                                </script> 
+              </div> 
+             </div></li> 
+            <li id="footer-translate"><a href="#" class="icon-book">Translate</a> 
+             <div class="drop right"> 
+              <div class="box"> 
+               <div id="google_translate_element"></div> 
+              </div> 
+             </div></li> 
+            <li id="footer-fontsize"><a href="#" class="icon-font">Font Size</a> 
+             <div class="drop right"> 
+              <div class="box"> 
+               <ul class="inline-list"> 
+                <li><a class="button" data-font-size="small">a-</a></li> 
+                <li><a class="button active" data-font-size="normal">Normal</a></li> 
+                <li><a class="button" data-font-size="large">A+</a></li> 
+               </ul> 
+              </div> 
+             </div></li> 
+           </ul> 
+          </div> 
+         </div> 
+         <a class="starball"> <img src="/etc/clientlibs/tncore/main/img/footer-starball.png" alt="Tristar" width="100%"> </a> 
+        </div> 
+        <div id="footer-bottom"> 
+         <div class="row"> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns"> 
+           <ul class="inline-list"> 
+            <li> <a href="/state-services.html" class="first">TN.gov Services</a> <a href="/directory.html">TN.gov Directory</a> <a href="/transparenttn.html">Transparent TN</a> <a href="/web-policies/privacy-statement.html">Web Policies</a> </li> 
+           </ul> 
+          </div> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns text-right"> 
+           <ul class="inline-list"> 
+            <li> <a href="/about-tn/state-symbols.html">About Tennessee</a> <a href="/humanrights/file-a-discrimination-complaint/title-vi1/title-vi-disclaimer.html">Title VI</a> <a href="/web-policies/accessibility.html">Accessibility</a> <a href="/help.html">Help &amp; Contact</a> <a href="/survey.html">Survey</a> </li> 
+           </ul> 
+          </div> 
+         </div> 
+        </div> 
+       </footer> 
+       <div id="modal-footer"></div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <script type="text/javascript" src="/etc/clientlibs/tncore/main.min.73d9ee3d42191396dd2a3447bf54bab7.js"></script> 
+   <script type="text/javascript">_satellite.pageBottom();</script> 
+  </noindex> 
+  <div id="overlay"></div> 
+  <!-- Begin Dynamic Modal for Videos --> 
+  <div class="tn-videoModal modal fade" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="videoModal" aria-hidden="true"> 
+   <div class="modal-dialog"> 
+    <div class="modal-content"> 
+     <div class="modal-body"> 
+      <a href="#" data-dismiss="modal" class="close-video icon-cancel text-button">Close</a> 
+      <div class="videoWrapper"> 
+       <iframe src=""></iframe> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- End Dynamic Modal for Videos --> 
+  <!-- DTM Analytics Datalayer --> 
+  <script>
+            var digitalData = { pageInfo: {} };
+            digitalData.pageInfo.pageName = "social";
+        </script>   
+ </body>
+</html>

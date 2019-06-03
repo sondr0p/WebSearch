@@ -1,0 +1,2200 @@
+<!doctype html>
+<html class="no-js" lang="en">
+ <head> 
+  <!-- REQUIRED META INFORMATION --> 
+  <meta charset="UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <meta name="msapplication-tap-highlight" content="no"> 
+  <!-- PAGE TITLE --> 
+  <title>Press Releases | Press Office | Social Security Administration</title> 
+  <!-- PAGE META INFORMATION --> 
+  <meta name="DCTERMS:coder" content="kwatson"> 
+  <meta name="DCTERMS:coderOffice" content="OCOMM:OSDC"> 
+  <meta name="DCTERMS:contentOffice" content="OC"> 
+  <meta name="DCTERMS:contentOwner" content="Press Office"> 
+  <meta name="DCTERMS:dateCertified" content="2019-02-05"> 
+  <meta name="description" content="Listing of press releases from the Social Security Press Office."> 
+  <!-- STYLES --> 
+  <link rel="stylesheet" href="/framework/css/ssa.firefly.css"> 
+  <link rel="stylesheet" href="/news/assets/css/press-releases-home.css"> 
+  <style>
+  </style> 
+  <!-- SCRIPTS --> 
+  <script src="/framework/js/ssa.firefly.head.js"></script> 
+ </head> 
+ <body data-spanish-file="/espanol/noticias/prensa/comunicados/"> 
+  <!-- BANNER --> 
+  <aside class="accessibility" id="accessibility">
+   <a href="#content" id="skip-navigation">Skip to content</a>
+  </aside> 
+  <header class="bg-logo white" id="banner" role="banner"> 
+   <div class="fx fx-jc-sb px2 py0 wrapper"> 
+    <h1 class="fs2 fw4 ma0 l-fs3"><a class="fx fx-ai-c hover-yellow py3 white m-py2" href="/"><img alt="" class="svg3 m-svg5" src="/framework/images/logo.svg"> <span class="pl1 m-pl2">Social Security</span></a></h1> 
+    <nav class="fs1 fx print-dn">
+     <a class="fx fx-ai-c hover-yellow px2 white" href="https://search.ssa.gov/search?affiliate=ssa" id="ssa-search" title="SEARCH">
+      <svg class="svg1" focusable="false" viewbox="0 0 24 24">
+       <path d="M14.182.0q-1.994.0-3.814.78t-3.132 2.092-2.092 3.132-.78 3.814q0 1.713.558 3.281t1.59 2.847l-6.196 6.187q-.315.315-.315.776.0.469.311.78t.78.311q.46.0.776-.315l6.187-6.196q1.278 1.031 2.847 1.59t3.281.558q1.994.0 3.814-.78t3.132-2.092 2.092-3.132.78-3.814-.78-3.814-2.092-3.132-3.132-2.092-3.814-.78zm0 2.182q1.551.0 2.966.605t2.438 1.628 1.628 2.438.605 2.966-.605 2.966-1.628 2.438-2.438 1.628-2.966.605-2.966-.605-2.438-1.628-1.628-2.438-.605-2.966.605-2.966 1.628-2.438 2.438-1.628 2.966-.605z" vector-effect="non-scaling-stroke"></path>
+      </svg><span class="dn m-dib m-pl1">SEARCH</span></a> 
+     <a class="fx fx-ai-c hover-yellow px2 white" href="/site/menu/en/" id="ssa-menu" title="MENU">
+      <svg class="svg1" focusable="false" viewbox="0 0 24 24">
+       <path d="M3 5h18q.414.0.707.293T22 6t-.293.707T21 7H3q-.414.0-.707-.293T2 6t.293-.707T3 5zm0 12h18q.414.0.707.293T22 18t-.293.707T21 19H3q-.414.0-.707-.293T2 18t.293-.707T3 17zm0-6h18q.414.0.707.293T22 12t-.293.707T21 13H3q-.414.0-.707-.293T2 12t.293-.707T3 11z" vector-effect="non-scaling-stroke"></path>
+      </svg><span class="dn m-dib m-pl1">MENU</span></a> 
+     <a class="fx fx-ai-c hover-yellow px2 white" href="/site/languages/en/" id="ssa-languages" title="LANGUAGES">
+      <svg class="svg1" focusable="false" viewbox="0 0 14 16">
+       <path fill-rule="evenodd" d="M7 1C3.14 1 0 4.14.0 8s3.14 7 7 7c.48.0.94-.05 1.38-.14-.17-.08-.2-.73-.02-1.09.19-.41.81-1.45.2-1.8-.61-.35-.44-.5-.81-.91-.37-.41-.22-.47-.25-.58-.08-.34.36-.89.39-.94.02-.06.02-.27.0-.33.0-.08-.27-.22-.34-.23-.06.0-.11.11-.2.13-.09.02-.5-.25-.59-.33-.09-.08-.14-.23-.27-.34-.13-.13-.14-.03-.33-.11s-.8-.31-1.28-.48c-.48-.19-.52-.47-.52-.66-.02-.2-.3-.47-.42-.67-.14-.2-.16-.47-.2-.41-.04.06.25.78.2.81-.05.02-.16-.2-.3-.38-.14-.19.14-.09-.3-.95s.14-1.3.17-1.75c.03-.45.38.17.19-.13-.19-.3.0-.89-.14-1.11-.13-.22-.88.25-.88.25.02-.22.69-.58 1.16-.92.47-.34.78-.06 1.16.05.39.13.41.09.28-.05-.13-.13.06-.17.36-.13.28.05.38.41.83.36.47-.03.05.09.11.22s-.06.11-.38.3c-.3.2.02.22.55.61s.38-.25.31-.55c-.07-.3.39-.06.39-.06.33.22.27.02.5.08.23.06.91.64.91.64-.83.44-.31.48-.17.59.14.11-.28.3-.28.3-.17-.17-.19.02-.3.08-.11.06-.02.22-.02.22-.56.09-.44.69-.42.83.0.14-.38.36-.47.58-.09.2.25.64.06.66-.19.03-.34-.66-1.31-.41-.3.08-.94.41-.59 1.08.36.69.92-.19 1.11-.09.19.1-.06.53-.02.55.04.02.53.02.56.61.03.59.77.53.92.55.17.0.7-.44.77-.45.06-.03.38-.28 1.03.09.66.36.98.31 1.2.47.22.16.08.47.28.58.2.11 1.06-.03 1.28.31.22.34-.88 2.09-1.22 2.28-.34.19-.48.64-.84.92s-.81.64-1.27.91c-.41.23-.47.66-.66.8 3.14-.7 5.48-3.5 5.48-6.84.0-3.86-3.14-7-7-7L7 1zm1.64 6.56c-.09.03-.28.22-.78-.08-.48-.3-.81-.23-.86-.28.0.0-.05-.11.17-.14.44-.05.98.41 1.11.41.13.0.19-.13.41-.05.22.08.05.13-.05.14zM6.34 1.7c-.05-.03.03-.08.09-.14.03-.03.02-.11.05-.14.11-.11.61-.25.52.03-.11.27-.58.3-.66.25zm1.23.89c-.19-.02-.58-.05-.52-.14.3-.28-.09-.38-.34-.38-.25-.02-.34-.16-.22-.19.12-.03.61.02.7.08.08.06.52.25.55.38.02.13.0.25-.17.25zm1.47-.05c-.14.09-.83-.41-.95-.52-.56-.48-.89-.31-1-.41-.11-.1-.08-.19.11-.34.19-.15.69.06 1 .09.3.03.66.27.66.55.02.25.33.5.19.63h-.01z" vector-effect="non-scaling-stroke"></path>
+      </svg><span class="dn m-dib m-pl1">LANGUAGES</span></a> 
+     <a class="fx fx-ai-c hover-yellow px2 white" href="/site/signin/en/" id="ssa-signin" title="SIGN IN/UP">
+      <svg class="svg1" focusable="false" viewbox="0 0 24 24">
+       <path d="M12 17.016q-.797.0-1.406-.61t-.61-1.405.61-1.405 1.406-.61 1.406.61.61 1.406-.61 1.407-1.406.61zm6 3V9.986H6v10.03h12zm-6-17.11q-1.266.0-2.18.914T8.906 6H9v2.016h6.094V6q0-1.266-.914-2.18T12 2.906zm6 5.11q.797.0 1.406.586t.61 1.383v10.03q0 .798-.61 1.384T18 21.984H6q-.797.0-1.406-.586t-.61-1.384V9.986q0-.798.61-1.384T6 8.016h.984V6q0-2.063 1.477-3.54T12 .985t3.54 1.477T17.015 6v2.016H18z" vector-effect="non-scaling-stroke"></path>
+      </svg><span class="dn m-dib m-pl1">SIGN IN/UP</span></a>
+    </nav> 
+   </div> 
+  </header> 
+  <!-- MAIN CONTENT --> 
+  <main class="content" id="content" role="main"> 
+   <!-- TITLE BAR --> 
+   <section class="bg-ivory-200"> 
+    <!-- WRAPPER --> 
+    <div class="py2 wrapper"> 
+     <h2 class="fw4 ma0">Press Office</h2> 
+    </div> 
+   </section> 
+   <!-- WRAPPER --> 
+   <section class="wrapper"> 
+    <!-- GRID --> 
+    <div class="grid"> 
+     <!-- CELL --> 
+     <div class="cell cell-last print-dn w-100 m-cell-first m-w-30"> 
+      <!-- MENU (SIDEBAR) --> 
+      <nav class="pt1" role="navigation"> 
+       <h3 class="fs2 gray-lighter mb0">Menu</h3> 
+       <ul class="list-nb pl0"> 
+        <li class="bb py2"> <a class="db" href="/news/press/">Contact the Press Office</a> </li> 
+        <li class="bb"> <a class="bg-ocean-blue-500 db hover-teal teal pa2" href="/news/press/releases/">Press Releases</a> </li> 
+        <li class="bb py2"> <a class="db" href="/news/press/factsfig.html">Reports, Facts and Figures</a> </li> 
+        <li class="bb py2"> <a class="db" href="/news/newsletter/">Social Security Update</a> </li> 
+        <li class="bb py2"> <a class="db" href="https://twitter.com/SSAPress" rel="noopener noreferrer" target="_blank">Follow us @SSAPress</a> </li> 
+        <li class="bb py2"> <a class="db" href="/news/cola/">COLA</a> </li> 
+        <li class="py3"> <a class="bg-govdelivery br2 bs1 dib hover-bg-blue mb2 pa2 white" href="https://public.govdelivery.com/accounts/USSSA/subscriber/new?topic_id=USSSA_1" rel="noopener noreferrer" target="_blank"> 
+          <svg class="svg2 va-tt" focusable="false" viewbox="0 0 24 24">
+           <path d="M4 3h16q1.242 0 2.12.88T23 6v12q0 1.242-.88 2.12T20 21H4q-1.242 0-2.12-.88T1 18V6q0-1.242.88-2.12T4 3zm17 15V7.078l-8.375 6.703Q12.36 14 12 14t-.625-.22L3 7.08V18q0 .414.293.707T4 19h16q.414 0 .707-.293T21 18zM20 5H4q-.148 0-.328.055L12 11.72l8.328-6.665Q20.148 5 20 5z"></path>
+          </svg> Get Page Updates</a> </li> 
+       </ul> 
+      </nav> 
+     </div> 
+     <!-- CELL --> 
+     <article class="cell print-w-100 w-100 m-w-70"> 
+      <h3>Press Releases</h3> 
+      <!-- JS SEARCH --> 
+      <section id="js-search"> 
+       <!-- JS SEARCH FILTER --> 
+       <section id="js-search-filter"> 
+        <div class="bg-ocean-blue-500 white"> 
+         <div class="fx fx-ai-c"> 
+          <button accesskey="x" class="br0 bs0 dn ma0 w2" id="js-search-clear" title="Clear Search">X</button> 
+          <input accesskey="s" class="br0 w-100" id="js-search-input" placeholder="Search by title or year..." title="Search by title or year..."> 
+          <span class="px2" aria-atomic="true" role="status" id="js-search-count"></span> 
+         </div> 
+        </div> 
+       </section> 
+       <!-- JS SEARCH MESSAGE --> 
+       <section aria-atomic="true" aria-live="assertive" aria-relevant="all" class="bg-red-500 dn fw6 pa3 ta-c white" id="js-search-message" role="alert" tabindex="-1">
+        NO ENTRIES WERE FOUND
+       </section> 
+       <!-- JS SEARCH CONTENT --> 
+       <section class="py1"> 
+        <ul class="list-nb pl0" id="js-search-content"> 
+         <li class="bb py2"> <a href="2019/#5-2019-1"> 
+           <div class="gray-lighter">
+            May 10, 2019
+           </div> 
+           <div>
+            Emma and Liam Repeat as Social Security’s Top Baby Names for 2018
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2019/#4-2019-1"> 
+           <div class="gray-lighter">
+            April 22, 2019
+           </div> 
+           <div>
+            Social Security Combined Trust Funds Gain One Year Says Board of Trustees
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2019/#3-2019-1"> 
+           <div class="gray-lighter">
+            March 20, 2019
+           </div> 
+           <div>
+            Social Security and OIG Launch Public Service Announcement Campaign 
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2018/#10-2018-1"> 
+           <div class="gray-lighter">
+            October 11, 2018
+           </div> 
+           <div>
+            Social Security Announces 2.8 Percent Benefit Increase for 2019
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2018/#9-2018-1"> 
+           <div class="gray-lighter">
+            September 27, 2018
+           </div> 
+           <div>
+            Social Security, OIG Expand National Anti-Fraud Program
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2018/#8-2018-1"> 
+           <div class="gray-lighter">
+            August 20, 2018
+           </div> 
+           <div>
+            Social Security Fast-Tracks Decisions for People with Severe Disabilities
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2018/#6-2018-1"> 
+           <div class="gray-lighter">
+            June 5, 2018
+           </div> 
+           <div>
+            Social Security Combined Trust Fund Reserves Depletion Year Remains 2034 Says Board of Trustees
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2018/#5-2018-1"> 
+           <div class="gray-lighter">
+            May 11, 2018
+           </div> 
+           <div>
+            Emma and Liam Top Social Security’s Most Popular Baby Names for 2017
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2017/#11-2017-1"> 
+           <div class="gray-lighter">
+            November 27, 2017
+           </div> 
+           <div>
+            Updated 2018 Taxable Maximum Amount Announced
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2017/#10-2017-1"> 
+           <div class="gray-lighter">
+            October 13, 2017
+           </div> 
+           <div>
+            Social Security Announces 2.0 Percent Benefit Increase for 2018
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2017/#9-2017-1"> 
+           <div class="gray-lighter">
+            September 5, 2017
+           </div> 
+           <div>
+            Social Security Expedites Decisions to Those with Serious Disabilities
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2017/#8-2017-6"> 
+           <div class="gray-lighter">
+            August 31, 2017
+           </div> 
+           <div>
+            Important Social Security Information for People Affected by Hurricane Harvey
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2017/#7-2017-2"> 
+           <div class="gray-lighter">
+            July 19, 2017
+           </div> 
+           <div>
+            Social Security and Johns Hopkins Medicine Collaboration Makes Social Security Disability Process More Efficient
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2017/#7-2017-1"> 
+           <div class="gray-lighter">
+            July 13, 2017
+           </div> 
+           <div>
+            No Change for Social Security Combined Trust Fund Reserves Depletion Year Says Board of Trustees
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2017/#5-2017-1"> 
+           <div class="gray-lighter">
+            May 12, 2017
+           </div> 
+           <div>
+            Emma and Noah Remain Social Security’s Most Popular Baby Names for 2016
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2017/#4-2017-1"> 
+           <div class="gray-lighter">
+            April 10, 2017
+           </div> 
+           <div>
+            Social Security Launches First “National Social Security Month” in April
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2016/#11-2016-1"> 
+           <div class="gray-lighter">
+            November 9, 2016
+           </div> 
+           <div>
+            Social Security and Veterans Affairs Partnership Means Faster Disability Decisions for Veterans
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2016/#10-2016-1"> 
+           <div class="gray-lighter">
+            October 18, 2016
+           </div> 
+           <div>
+            Social Security Announces 0.3 Percent Benefit Increase for 2017
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2016/#9-2016-1"> 
+           <div class="gray-lighter">
+            September 23, 2016
+           </div> 
+           <div>
+            Social Security Publishes Final Rule to Revise Medical Criteria for Evaluating Mental Disorders
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2016/#8-2016-6"> 
+           <div class="gray-lighter">
+            August 31, 2016
+           </div> 
+           <div>
+            Social Security Checks Arriving Early for Those Anticipating High Intensity Storms
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2016/#6-2016-1"> 
+           <div class="gray-lighter">
+            June 22, 2016
+           </div> 
+           <div>
+            Social Security Board of Trustees: Long-Range Projection Unchanged for Trust Fund Reserve Depletion...
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2016/#5-2016-1"> 
+           <div class="gray-lighter">
+            May 6, 2016
+           </div> 
+           <div>
+            Emma and Noah Once Again Social Security’s Most Popular Baby Names for 2015
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2016/#4-2016-11"> 
+           <div class="gray-lighter">
+            April 28, 2016
+           </div> 
+           <div>
+            Social Security Combats Homelessness and Helps Veterans Access Benefits
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2016/#4-2016-1"> 
+           <div class="gray-lighter">
+            April 4, 2016
+           </div> 
+           <div>
+            Social Security Launches 3rd National my Social Security Week
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2015/#11-2015-1"> 
+           <div class="gray-lighter">
+            November 12, 2015
+           </div> 
+           <div>
+            Social Security Helps America Plan for Retirement
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2015/#10-2015-1"> 
+           <div class="gray-lighter">
+            October 15, 2015
+           </div> 
+           <div>
+            Law Does Not Provide for a Social Security Cost-of-Living Adjustment for 2016 
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2015/#8-2015-1"> 
+           <div class="gray-lighter">
+            August 14, 2015
+           </div> 
+           <div>
+            Happy 80th Anniversary, Social Security! Celebrating the Past and Building the Future
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2015/#7-2015-1"> 
+           <div class="gray-lighter">
+            July 22, 2015
+           </div> 
+           <div>
+            Social Security Board of Trustees: Trust Fund Reserve Gains One Year for Projected Depletion Date
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2015/#6-2015-1"> 
+           <div class="gray-lighter">
+            June 1, 2015
+           </div> 
+           <div>
+            Social Security Announces New Online Service for Replacement Medicare Cards
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2015/#5-2015-2"> 
+           <div class="gray-lighter">
+            May 26, 2015
+           </div> 
+           <div>
+            Look Who’s Turning 80: Social Security Announces Countdown to Agency’s 80th Anniversary
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2015/#5-2015-1"> 
+           <div class="gray-lighter">
+            May 8, 2015
+           </div> 
+           <div>
+            Noah and Emma Top Social Security's List of Most Popular Baby Names for 2014
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2015/#4-2015-8"> 
+           <div class="gray-lighter">
+            April 27, 2015
+           </div> 
+           <div>
+            Social Security Announces Vision 2025, a Long-Range Service Delivery Vision
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2015/#2-2015-1"> 
+           <div class="gray-lighter">
+            February 2, 2015
+           </div> 
+           <div>
+            Social Security Announces New Online Service for Replacement SSA-1099s
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2015/#1-2015-1"> 
+           <div class="gray-lighter">
+            January 22, 2015
+           </div> 
+           <div>
+            Social Security to Expand Field Office Hours Nationwide
+           </div> </a> </li> 
+         <li class="bb py2"> <a class="no-icon" href="/multimedia/video/GMSS_ACOSS/"> 
+           <div class="gray-lighter">
+            December 19, 2014
+           </div> 
+           <div>
+            Social Security Acting Commissioner Colvin Receives Honorary Degree
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2014/#10-2014-2"> 
+           <div class="gray-lighter">
+            October 22, 2014
+           </div> 
+           <div>
+            Social Security Announces 1.7 Percent Benefit Increase for 2015
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2014/#10-2014-1"> 
+           <div class="gray-lighter">
+            October 2, 2014
+           </div> 
+           <div>
+            Social Security Announces Representative Payee Pro Bono Pilot 
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2014/#9-2014-7"> 
+           <div class="gray-lighter">
+            September 29, 2014
+           </div> 
+           <div>
+            Social Security Opens New National Support Center
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2014/#9-2014-1"> 
+           <div class="gray-lighter">
+            September 16, 2014
+           </div> 
+           <div>
+            Agency Resumes Mailing Social Security Statements 
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2014/#8-2014-2"> 
+           <div class="gray-lighter">
+            August 18, 2014
+           </div> 
+           <div>
+            Social Security Launches 1st National my Social Security Week
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2014/#8-2014-1"> 
+           <div class="gray-lighter">
+            August 15, 2014
+           </div> 
+           <div>
+            Social Security, Office of Inspector General Partner with State of Michigan on Anti-Fraud Unit
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2014/#7-2014-2"> 
+           <div class="gray-lighter">
+            July 28, 2014
+           </div> 
+           <div>
+            Social Security Board of Trustees: No Change in Projected Year of Trust Fund Reserve Depletion
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2014/#7-2014-1"> 
+           <div class="gray-lighter">
+            July 17, 2014
+           </div> 
+           <div>
+            Social Security Extends Access to Benefit Verification
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2014/#6-2014-8"> 
+           <div class="gray-lighter">
+            June 27, 2014
+           </div> 
+           <div>
+            Social Security Leads Efforts to Improve Customer Service across Federal Government
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2014/#6-2014-1"> 
+           <div class="gray-lighter">
+            June 20, 2014
+           </div> 
+           <div>
+            Social Security Defines Policy for Same-Sex Married Couples
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2014/#5-2014-1"> 
+           <div class="gray-lighter">
+            May 9, 2014
+           </div> 
+           <div>
+            Noah and Sophia Win Social Security's Most Popular Baby Names for 2013
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2014/#4-2014-1"> 
+           <div class="gray-lighter">
+            April 14, 2014
+           </div> 
+           <div>
+            Statement of Carolyn W. Colvin Acting Commissioner of Social Security
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2014/#3-2014-9"> 
+           <div class="gray-lighter">
+            March 31, 2014
+           </div> 
+           <div>
+            Social Security Announces New Fraud Prevention Unit In New York
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2014/#3-2014-2"> 
+           <div class="gray-lighter">
+            March 18, 2014
+           </div> 
+           <div>
+            Social Security Launches New Expedited Disability Process for Veterans
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2014/#3-2014-1"> 
+           <div class="gray-lighter">
+            March 4, 2014
+           </div> 
+           <div>
+            Statement of Carolyn W. Colvin, Acting Commissioner of Social Security, about the FY 2015 President's Budget Request
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2014/#2-2014-1"> 
+           <div class="gray-lighter">
+            February 19, 2014
+           </div> 
+           <div>
+            Social Security Announces New Expedited Disability Process for Veterans
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2014/#1-2014-7"> 
+           <div class="gray-lighter">
+            January 31, 2014
+           </div> 
+           <div>
+            Social Security Publishes New Supplemental Security Income Rules Involving Same-Sex Married Couples
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2014/#1-2014-1"> 
+           <div class="gray-lighter">
+            January 15, 2014
+           </div> 
+           <div>
+            Social Security Announces New Compassionate Allowances Conditions
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2013/#12-2013-2"> 
+           <div class="gray-lighter">
+            December 16, 2013
+           </div> 
+           <div>
+            Statement of Carolyn W. Colvin, Acting Commissioner of Social Security, on New Payments to Same-Sex Married Couples
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2013/#10-2013-1"> 
+           <div class="gray-lighter">
+            October 30, 2013
+           </div> 
+           <div>
+            Social Security Announces 1.5 Percent Benefit Increase for 2014
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2013/#8-2013-1"> 
+           <div class="gray-lighter">
+            August 9, 2013
+           </div> 
+           <div>
+            Statement of Carolyn W. Colvin, Acting Commissioner of Social Security, on Payments to Same-Sex Couples
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2013/#7-2013-1"> 
+           <div class="gray-lighter">
+            July 17, 2013
+           </div> 
+           <div>
+            Update on the Supreme Court Decision Regarding the Defense of Marriage Act and Its Implications for Social Security Benefits
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2013/#5-2013-8"> 
+           <div class="gray-lighter">
+            May 31, 2013
+           </div> 
+           <div>
+            Social Security Board of Trustees: No Change in Projected Year of Trust Fund Reserve Depletion
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2013/#5-2013-2"> 
+           <div class="gray-lighter">
+            May 9, 2013
+           </div> 
+           <div>
+            Jacob and Sophia Repeat atop Social Security's Most Popular Baby Names List
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2013/#5-2013-1"> 
+           <div class="gray-lighter">
+            May 6, 2013
+           </div> 
+           <div>
+            Social Security Announces New Mobile Site for Smartphone Users
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2013/#1-2013-3"> 
+           <div class="gray-lighter">
+            January 29, 2013
+           </div> 
+           <div>
+            Commissioner Astrue Receives 2013 VIDA Award from the National Alliance for Hispanic Health
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2013/#1-2013-2"> 
+           <div class="gray-lighter">
+            January 28, 2013
+           </div> 
+           <div>
+            Commissioner Astrue Returning to Massachusetts
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2013/#1-2013-1"> 
+           <div class="gray-lighter">
+            January 7, 2013
+           </div> 
+           <div>
+            Social Security Announces New Online Services Available with a my Social Security Account
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2012/#12-2012-1"> 
+           <div class="gray-lighter">
+            December 6, 2012
+           </div> 
+           <div>
+            Social Security Announces New Compassionate Allowances Conditions
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2012/#11-2012-1"> 
+           <div class="gray-lighter">
+            November 7, 2012
+           </div> 
+           <div>
+            Social Security Field Offices to Close to the Public a Half Hour Early Each Day and at Noon on Wednesdays
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2012/#10-2012-2"> 
+           <div class="gray-lighter">
+            October 31, 2012
+           </div> 
+           <div>
+            Commissioner Astrue Receives 2012 President's Award from The Arc
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2012/#10-2012-1"> 
+           <div class="gray-lighter">
+            October 16, 2012
+           </div> 
+           <div>
+            Social Security Announces 1.7 Percent Benefit Increase for 2013
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2012/#7-2012-1"> 
+           <div class="gray-lighter">
+            July 13, 2012
+           </div> 
+           <div>
+            Social Security to Add Adult Huntington's Disease to Compassionate Allowances Program
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2012/#6-2012-2"> 
+           <div class="gray-lighter">
+            June 29, 2012
+           </div> 
+           <div>
+            One Million People Go Online to Access their Social Security Statement
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2012/#6-2012-1"> 
+           <div class="gray-lighter">
+            June 25, 2012
+           </div> 
+           <div>
+            Social Security and Kaiser Permanente Begin Partnership to Speed Up Disability Decisions
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2012/#5-2012-5"> 
+           <div class="gray-lighter">
+            May 24, 2012
+           </div> 
+           <div>
+            Social Security Makes Great Strides in Hiring Our Nation's Heroes
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2012/#5-2012-4"> 
+           <div class="gray-lighter">
+            May 14, 2012
+           </div> 
+           <div>
+            Jacob and Sophia Take Top Honors on Social Security's Most Popular Baby Names List
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2012/#5-2012-3"> 
+           <div class="gray-lighter">
+            May 10, 2012
+           </div> 
+           <div>
+            Suspense at Social Security to Continue
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2012/#5-2012-2"> 
+           <div class="gray-lighter">
+            May 7, 2012
+           </div> 
+           <div>
+            Statement of Michael J. Astrue, Commissioner of Social Security, on the Initial Success of the New Online Social Security Statement
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2012/#5-2012-1"> 
+           <div class="gray-lighter">
+            May 1, 2012
+           </div> 
+           <div>
+            Social Security Statement Now Available Online at www.socialsecurity.gov
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2012/#4-2012-3"> 
+           <div class="gray-lighter">
+            April 30, 2012
+           </div> 
+           <div>
+            Social Security and Department of Defense Implement New Process to Improve Efficiency for Wounded Warriors Applying for Disability Benefits
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2012/#4-2012-2"> 
+           <div class="gray-lighter">
+            April 23, 2012
+           </div> 
+           <div>
+            Social Security Board of Trustees: Projected Trust Fund Exhaustion Three Years Sooner Than Last Year
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2012/#4-2012-1"> 
+           <div class="gray-lighter">
+            April 11, 2012
+           </div> 
+           <div>
+            Social Security Announces New Conditions for Compassionate Allowances Program
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2011/#12-2011-1"> 
+           <div class="gray-lighter">
+            December 14, 2011
+           </div> 
+           <div>
+            Patty Duke Turns 65, Applies Online for Social Security and Medicare Benefits
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2011/#11-2011-2"> 
+           <div class="gray-lighter">
+            November 16, 2011
+           </div> 
+           <div>
+            Social Security Again Rated One of the "Best Places to Work in the Federal Government"
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2011/#11-2011-1"> 
+           <div class="gray-lighter">
+            November 15, 2011
+           </div> 
+           <div>
+            Social Security Launches New Spanish Online Services at www.segurosocial.gov
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2011/#10-2011-2"> 
+           <div class="gray-lighter">
+            October 19, 2011
+           </div> 
+           <div>
+            Social Security Announces 3.6 Percent Benefit Increase for 2012
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2011/#10-2011-1"> 
+           <div class="gray-lighter">
+            October 13, 2011
+           </div> 
+           <div>
+            Social Security Expands Compassionate Allowances Conditions
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2011/#9-2011-2"> 
+           <div class="gray-lighter">
+            September 23, 2011
+           </div> 
+           <div>
+            Employees Rank Social Security as One of the Best-Managed Federal Agencies
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2011/#9-2011-1"> 
+           <div class="gray-lighter">
+            September 16, 2011
+           </div> 
+           <div>
+            Social Security Executive Diane Braunstein Wins the 2011 Service to America Medal
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2011/#8-2011-1"> 
+           <div class="gray-lighter">
+            August 2, 2011
+           </div> 
+           <div>
+            Social Security Benefits Will Be Paid On Time
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2011/#7-2011-3"> 
+           <div class="gray-lighter">
+            July 22, 2011
+           </div> 
+           <div>
+            Social Security Field Offices to Begin Closing to the Public a Half Hour Early
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2011/#7-2011-2"> 
+           <div class="gray-lighter">
+            July 14, 2011
+           </div> 
+           <div>
+            Social Security Announces New Compassionate Allowances Conditions
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2011/#7-2011-1"> 
+           <div class="gray-lighter">
+            July 4, 2011
+           </div> 
+           <div>
+            Statement on Second Flawed Report from Syracuse University
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2011/#6-2011-2"> 
+           <div class="gray-lighter">
+            June 20, 2011
+           </div> 
+           <div>
+            Statement of Michael J. Astrue, Commissioner of Social Security, on Flawed Syracuse University Report
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2011/#6-2011-1"> 
+           <div class="gray-lighter">
+            June 9, 2011
+           </div> 
+           <div>
+            Get Direct Deposit to Stay Ahead of Hurricane Season
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2011/#5-2011-3"> 
+           <div class="gray-lighter">
+            May 13, 2011
+           </div> 
+           <div>
+            Social Security Board of Trustees: Projected Trust Fund Exhaustion One Year Sooner
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2011/#5-2011-2"> 
+           <div class="gray-lighter">
+            May 9, 2011
+           </div> 
+           <div>
+            Social Security Makes Help America Vote Act Data Available
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2011/#5-2011-1"> 
+           <div class="gray-lighter">
+            May 5, 2011
+           </div> 
+           <div>
+            Isabella and Jacob Again Reign Supreme on Social Security's Most Popular Baby Names List
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2011/#4-2011-2"> 
+           <div class="gray-lighter">
+            April 27, 2011
+           </div> 
+           <div>
+            "No Check - Go Direct" George Takei and Patty Duke Promote Direct Deposit
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2011/#4-2011-1"> 
+           <div class="gray-lighter">
+            April 6, 2011
+           </div> 
+           <div>
+            George Takei and Patty Duke Join Forces to Tell Americans to Boldly Go to www.socialsecurity.gov
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2011/#3-2011-1"> 
+           <div class="gray-lighter">
+            March 16, 2011
+           </div> 
+           <div>
+            Social Security Holds Compassionate Allowances Hearing on Autoimmune Diseases
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2011/#2-2011-2"> 
+           <div class="gray-lighter">
+            February 14, 2011
+           </div> 
+           <div>
+            Statement of Michael J. Astrue, Commissioner of Social Security, on the President's Fiscal Year 2012 Budget Request
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2011/#2-2011-1"> 
+           <div class="gray-lighter">
+            February 4, 2011
+           </div> 
+           <div>
+            Social Security Dedicates Robert M. Ball Federal Building
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2011/#1-2011-1"> 
+           <div class="gray-lighter">
+            January 25, 2011
+           </div> 
+           <div>
+            Social Security Invites the Public to Comment on its Regulations
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2010/#12-2010-5"> 
+           <div class="gray-lighter">
+            December 22, 2010
+           </div> 
+           <div>
+            Carolyn Colvin Confirmed as Deputy Commissioner of Social Security
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2010/#12-2010-4"> 
+           <div class="gray-lighter">
+            December 13, 2010
+           </div> 
+           <div>
+            Social Security's Online Retirement Estimator Available in Spanish at www.segurosocial.gov
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2010/#12-2010-3"> 
+           <div class="gray-lighter">
+            December 10, 2010
+           </div> 
+           <div>
+            Statements of Michael J. Astrue, Commissioner of Social Security, and John P. Melville, New York State Police Acting Superintendent, on the Theft of Personal Information in Upstate New York
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2010/#12-2010-2"> 
+           <div class="gray-lighter">
+            December 8, 2010
+           </div> 
+           <div>
+            Social Security Publishes New Rule Revising Withdrawal Policy
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2010/#12-2010-1"> 
+           <div class="gray-lighter">
+            December 3, 2010
+           </div> 
+           <div>
+            Statement of Michael J. Astrue, Commissioner of Social Security, on Senate Passage of H.R. 5773 Designating the Operations Building as the "Robert M. Ball Federal Building"
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2010/#11-2010-3"> 
+           <div class="gray-lighter">
+            November 17, 2010
+           </div> 
+           <div>
+            Social Security Clarifies Explanation of Proposed Disability Rule for People with Mental Disorders
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2010/#11-2010-2"> 
+           <div class="gray-lighter">
+            November 15, 2010
+           </div> 
+           <div>
+            Social Security Unveils New Home Page at www.socialsecurity.gov New Look Makes Finding Popular Services Even Easier
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2010/#11-2010-1"> 
+           <div class="gray-lighter">
+            November 9, 2010
+           </div> 
+           <div>
+            Social Security Holds Compassionate Allowances Hearing on Cardiovascular Disease and Multiple Organ Transplants
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2010/#10-2010-3"> 
+           <div class="gray-lighter">
+            October 26, 2010
+           </div> 
+           <div>
+            Social Security Breaks Ground on Jackson Teleservice Center
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2010/#10-2010-2"> 
+           <div class="gray-lighter">
+            October 15, 2010
+           </div> 
+           <div>
+            Under the Law No Social Security COLA for 2011
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2010/#10-2010-1"> 
+           <div class="gray-lighter">
+            October 13, 2010
+           </div> 
+           <div>
+            News Release Social Security Fast-Track Disability Processes Get Even Faster New Rules Will Further Speed Benefits to Tens of Thousands of Americans with Disabilities
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2010/#9-2010-3"> 
+           <div class="gray-lighter">
+            September 16, 2010
+           </div> 
+           <div>
+            Statement of Michael J. Astrue, Commissioner of Social Security, on H.R. 5773 Designating the Operations Building as the "Robert M. Ball Federal Building"
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2010/#9-2010-2"> 
+           <div class="gray-lighter">
+            September 9, 2010
+           </div> 
+           <div>
+            Social Security Among the Best Places to Work in the Federal Government
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2010/#9-2010-1"> 
+           <div class="gray-lighter">
+            September 1, 2010
+           </div> 
+           <div>
+            Social Security Checks Arriving Early Along Atlantic Coast Money Will Get to Atlantic Coast Residents Ahead of Hurricane Earl
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2010/#8-2010-2"> 
+           <div class="gray-lighter">
+            August 5, 2010
+           </div> 
+           <div>
+            Social Security Board of Trustees: Long-Range Financing Outlook Remains Unchanged
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2010/#8-2010-1"> 
+           <div class="gray-lighter">
+            August 2, 2010
+           </div> 
+           <div>
+            Social Security Opens New National Hearing Center in St. Louis Brings 200 Jobs to St. Louis
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2010/#7-2010-2"> 
+           <div class="gray-lighter">
+            July 26, 2010
+           </div> 
+           <div>
+            Share Your Personal Stories and Reflections to Help Social Security Celebrate 75 Years of Public Service
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2010/#7-2010-1"> 
+           <div class="gray-lighter">
+            July 23, 2010
+           </div> 
+           <div>
+            Social Security Proposes Legislation to End Furloughs of Federally Paid State Disability Workers
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2010/#5-2010-2"> 
+           <div class="gray-lighter">
+            May 7, 2010
+           </div> 
+           <div>
+            Isabella Reigns as New Queen of Baby Names - Takes Top Spot on Social Security's Most Popular Baby Names List
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2010/#5-2010-1"> 
+           <div class="gray-lighter">
+            May 4, 2010
+           </div> 
+           <div>
+            Social Security's Online Services Take Top Three Spots in Customer Satisfaction Survey
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2010/#4-2010-1"> 
+           <div class="gray-lighter">
+            April 7, 2010
+           </div> 
+           <div>
+            Social Security Releases Open Government Plan
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2010/#3-2010-5"> 
+           <div class="gray-lighter">
+            March 23, 2010
+           </div> 
+           <div>
+            The Cast of The Patty Duke Show Reunites to Tell Americans About New Online Medicare Application
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2010/#3-2010-4"> 
+           <div class="gray-lighter">
+            March 15, 2010
+           </div> 
+           <div>
+            Social Security Helps States with Mounting Disability Claims
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2010/#3-2010-3"> 
+           <div class="gray-lighter">
+            March 11, 2010
+           </div> 
+           <div>
+            Social Security to Provide Helpful Health Care Information to Over 3 Million Disability Applicants Each Year
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2010/#3-2010-2"> 
+           <div class="gray-lighter">
+            March 8, 2010
+           </div> 
+           <div>
+            Alzheimer's Association Gives Commissioner Astrue Humanitarian Award for 2010
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2010/#3-2010-1"> 
+           <div class="gray-lighter">
+            March 2, 2010
+           </div> 
+           <div>
+            Social Security Hearings Backlog Falls to Lowest Level Since 2005
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2010/#2-2010-5"> 
+           <div class="gray-lighter">
+            February 25, 2010
+           </div> 
+           <div>
+            Social Security Commissioner Astrue Calls for Prompt State Assembly Passage of Bill Ending Furloughs of Federally-Funded State Employees
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2010/#2-2010-4"> 
+           <div class="gray-lighter">
+            February 11, 2010
+           </div> 
+           <div>
+            Social Security Adds 38 New Compassionate Allowance Conditions Expansion Will Speed Benefits to Thousands of Americans with Disabilities
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2010/#2-2010-3"> 
+           <div class="gray-lighter">
+            February 10, 2010
+           </div> 
+           <div>
+            Social Security Launches New Open Government Webpage
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2010/#2-2010-2"> 
+           <div class="gray-lighter">
+            February 1, 2010
+           </div> 
+           <div>
+            Statement of Michael J. Astrue, Commissioner of Social Security, Commending the President's Fiscal Year 2011 Budget Request
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2010/#2-2010-1"> 
+           <div class="gray-lighter">
+            February 1, 2010
+           </div> 
+           <div>
+            Social Security Awards Nearly $20 Million in Recovery Act Contracts For Electronic Medical Records
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2010/#1-2010-3"> 
+           <div class="gray-lighter">
+            January 22, 2010
+           </div> 
+           <div>
+            Social Security Makes New Data Available to Public Commissioner Astrue Applauds President Obama's Transparency and Open Government Initiative
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2010/#1-2010-2"> 
+           <div class="gray-lighter">
+            January 8, 2010
+           </div> 
+           <div>
+            Chubby Checker and Social Security Commissioner Astrue Announce a New "Twist" in the Law
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2010/#1-2010-1"> 
+           <div class="gray-lighter">
+            January 4, 2010
+           </div> 
+           <div>
+            Social Security Administration Praises Court Ruling on "Illegal" Furloughs in California
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2009/#12-2009-1"> 
+           <div class="gray-lighter">
+            December 11, 2009
+           </div> 
+           <div>
+            Social Security Sending Corrected Benefit Notices
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2009/#11-2009-3"> 
+           <div class="gray-lighter">
+            November 20, 2009
+           </div> 
+           <div>
+            Commissioner Astrue Asks Inspector General to Investigate California and Hawaii Disability Determination Services
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2009/#11-2009-2"> 
+           <div class="gray-lighter">
+            November 18, 2009
+           </div> 
+           <div>
+            Social Security Holds Disability Hearing on Compassionate Allowances and Schizophrenia
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2009/#11-2009-1"> 
+           <div class="gray-lighter">
+            November 13, 2009
+           </div> 
+           <div>
+            Social Security Announces New Enhancements to Online Retirement Estimator
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2009/#10-2009-3"> 
+           <div class="gray-lighter">
+            October 30, 2009
+           </div> 
+           <div>
+            Patty Duke and Dr. David Kessler Team with Social Security in Flu Prevention Public Service Campaign
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2009/#10-2009-2"> 
+           <div class="gray-lighter">
+            October 16, 2009
+           </div> 
+           <div>
+            Social Security Files Statement of Interest in California Lawsuit Challenging Furlough of Federally-Paid State Disability Workers
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2009/#10-2009-1"> 
+           <div class="gray-lighter">
+            October 15, 2009
+           </div> 
+           <div>
+            Prompt Passage of Economic Recovery Act Payment for 2010 Needed
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2009/#9-2009-3"> 
+           <div class="gray-lighter">
+            September 30, 2009
+           </div> 
+           <div>
+            Social Security Hearings Backlog Down for First Time in Decade
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2009/#9-2009-2"> 
+           <div class="gray-lighter">
+            September 30, 2009
+           </div> 
+           <div>
+            Social Security Establishes Financial Literacy Research Consortium
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2009/#9-2009-1"> 
+           <div class="gray-lighter">
+            September 18, 2009
+           </div> 
+           <div>
+            Statement of Commissioner Astrue Regarding Extension of Funding for Return-to-Work Programs to Assist People with Disabilities
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2009/#8-2009-2"> 
+           <div class="gray-lighter">
+            August 27, 2009
+           </div> 
+           <div>
+            Social Security to Test Use of Microsoft's HealthVault in Disability Process
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2009/#8-2009-1"> 
+           <div class="gray-lighter">
+            August 7, 2009
+           </div> 
+           <div>
+            Social Security to Fund $24 Million in Contracts for Electronic Medical Records
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2009/#7-2009-2"> 
+           <div class="gray-lighter">
+            July 29, 2009
+           </div> 
+           <div>
+            Social Security Holds Compassionate Allowances Hearing on Early-Onset Alzheimer's Disease
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2009/#7-2009-1"> 
+           <div class="gray-lighter">
+            July 6, 2009
+           </div> 
+           <div>
+            Commissioner Astrue Thanks the Vice President for His Call to Exempt DDS Employees from Furloughs and Hiring Restrictions
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2009/#6-2009-1"> 
+           <div class="gray-lighter">
+            June 22, 2009
+           </div> 
+           <div>
+            Social Security to Open New Teleservice Center in Jackson, Tennessee
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2009/#5-2009-5"> 
+           <div class="gray-lighter">
+            May 20, 2009
+           </div> 
+           <div>
+            Social Security Continues to Rank as One of the "Best Places to Work in the Federal Government"
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2009/#5-2009-4"> 
+           <div class="gray-lighter">
+            May 15, 2009
+           </div> 
+           <div>
+            Commissioner Astrue Receives Public Health Leadership Award
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2009/#5-2009-3"> 
+           <div class="gray-lighter">
+            May 12, 2009
+           </div> 
+           <div>
+            Social Security Board of Trustees: Economic Downturn Leads to Worsening of Long-Range Financing Outlook
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2009/#5-2009-2"> 
+           <div class="gray-lighter">
+            May 8, 2009
+           </div> 
+           <div>
+            America's Parents Vote for Change on Social Security's Most Popular Baby Names List
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2009/#5-2009-1"> 
+           <div class="gray-lighter">
+            May 7, 2009
+           </div> 
+           <div>
+            Statement of Michael J. Astrue, Commissioner of Social Security, Commending the President's Fiscal Year 2010 Budget Request
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2009/#4-2009-1"> 
+           <div class="gray-lighter">
+            April 15, 2009
+           </div> 
+           <div>
+            Commissioner Astrue and Senator Bingaman Tour New National Hearing Center in Albuquerque
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2009/#3-2009-1"> 
+           <div class="gray-lighter">
+            March 26, 2009
+           </div> 
+           <div>
+            Vice President Biden Announces $250 Recovery Payments to Go to Social Security and SSI Beneficiaries in May
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2009/#2-2009-5"> 
+           <div class="gray-lighter">
+            February 25, 2009
+           </div> 
+           <div>
+            Social Security Administration Receives Top Marks
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2009/#2-2009-4"> 
+           <div class="gray-lighter">
+            February 13, 2009
+           </div> 
+           <div>
+            Commissioner Astrue Signs President's 
+            <i>Ethics Pledge</i> 
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2009/#2-2009-3"> 
+           <div class="gray-lighter">
+            February 12, 2009
+           </div> 
+           <div>
+            Social Security's Online Services Continue to Win Accolades
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2009/#2-2009-2"> 
+           <div class="gray-lighter">
+            February 5, 2009
+           </div> 
+           <div>
+            Statement of Commissioner Michael J. Astrue Concerning the American Federation of Government Employees' (AFGE) Advertisement Regarding the Employees' Activities Association (EAA)
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2009/#2-2009-1"> 
+           <div class="gray-lighter">
+            February 3, 2009
+           </div> 
+           <div>
+            Commissioner Astrue Asks Governors to Exempt State Disability Determination Service Employees from Hiring Restrictions
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2009/#1-2009-3"> 
+           <div class="gray-lighter">
+            January 28, 2009
+           </div> 
+           <div>
+            Social Security Expands Fast-Track Disability Processes
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2009/#1-2009-2"> 
+           <div class="gray-lighter">
+            January 16, 2009
+           </div> 
+           <div>
+            Commissioner Astrue Praises President-Elect Obama's Call for a National Conversation on Social Security
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2009/#1-2009-1"> 
+           <div class="gray-lighter">
+            January 6, 2009
+           </div> 
+           <div>
+            The Cousins Are Back and They're Filing Online for Social Security Benefits
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2008/#12-2008-1"> 
+           <div class="gray-lighter">
+            December 16, 2008
+           </div> 
+           <div>
+            Social Security to be First Government Agency to Use Nationwide Health Information Network
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2008/#11-2008-2"> 
+           <div class="gray-lighter">
+            November 18, 2008
+           </div> 
+           <div>
+            Social Security Holds Third Disability Hearing on Compassionate Allowances
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2008/#11-2008-1"> 
+           <div class="gray-lighter">
+            November 3, 2008
+           </div> 
+           <div>
+            Social Security's New 
+            <em>Retirement Estimator</em> Rated the Federal Government's Best Online Service
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2008/#10-2008-5"> 
+           <div class="gray-lighter">
+            October 27, 2008
+           </div> 
+           <div>
+            Social Security Announces Nationwide Launch of Compassionate Allowances
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2008/#10-2008-4"> 
+           <div class="gray-lighter">
+            October 17, 2008
+           </div> 
+           <div>
+            Social Security Continues to Make Progress Expediting Backlogged Disability Cases
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2008/#10-2008-3"> 
+           <div class="gray-lighter">
+            October 16, 2008
+           </div> 
+           <div>
+            Social Security Announces 5.8 Percent Benefit Increase for 2009
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2008/#10-2008-2"> 
+           <div class="gray-lighter">
+            October 6, 2008
+           </div> 
+           <div>
+            Social Security Asks Six States to Review Voter Registration Verification Procedures to Ensure Compliance with Federal Law
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2008/#10-2008-1"> 
+           <div class="gray-lighter">
+            October 1, 2008
+           </div> 
+           <div>
+            Annual Columbus Day Weekend Shutdown of Social Security Computer Center Will Not Affect Timely Registration of Voters
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2008/#9-2008-2"> 
+           <div class="gray-lighter">
+            September 24, 2008
+           </div> 
+           <div>
+            Social Security Commissioner Releases New Agency Strategic Plan
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2008/#9-2008-1"> 
+           <div class="gray-lighter">
+            September 8, 2008
+           </div> 
+           <div>
+            Social Security Checks Again Arriving Early in Gulf Coast States as Hurricane Ike Approaches
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2008/#8-2008-1"> 
+           <div class="gray-lighter">
+            August 29, 2008
+           </div> 
+           <div>
+            Social Security Checks Arriving Early in Gulf Coast States
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2008/#7-2008-1"> 
+           <div class="gray-lighter">
+            July 21, 2008
+           </div> 
+           <div>
+            Estimate Your Social Security Retirement Benefits Online Now
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2008/#5-2008-2"> 
+           <div class="gray-lighter">
+            May 20, 2008
+           </div> 
+           <div>
+            Social Security Announces Improvements to the Ticket to Work Program
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2008/#5-2008-1"> 
+           <div class="gray-lighter">
+            May 10, 2008
+           </div> 
+           <div>
+            Pop Culture Makes Mark on Social Security's Most Popular Baby Names List
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2008/#4-2008-1"> 
+           <div class="gray-lighter">
+            April 7, 2008
+           </div> 
+           <div>
+            Social Security Holds Second Disability Hearing on Compassionate Allowances - Agreement with National Institutes of Health Announced
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2008/#3-2008-1"> 
+           <div class="gray-lighter">
+            March 25, 2008
+           </div> 
+           <div>
+            Social Security Board of Trustees: Some Improvement in Long-Range Financing Outlook but Deficits Continue
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2008/#2-2008-3"> 
+           <div class="gray-lighter">
+            February 26, 2008
+           </div> 
+           <div>
+            Social Security Offers Positions to 144 Administrative Law Judges
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2008/#2-2008-2"> 
+           <div class="gray-lighter">
+            February 12, 2008
+           </div> 
+           <div>
+            Nation's First Baby Boomer Receives Her First Social Security Retirement Benefit
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2008/#2-2008-1"> 
+           <div class="gray-lighter">
+            February 4, 2008
+           </div> 
+           <div>
+            Statement of Michael J. Astrue, Commissioner of Social Security, Commending the President's Fiscal Year 2009 Budget Request
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2007/#12-2007-2"> 
+           <div class="gray-lighter">
+            December 17, 2007
+           </div> 
+           <div>
+            Social Security Opens National Hearing Center
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2007/#12-2007-1"> 
+           <div class="gray-lighter">
+            December 6, 2007
+           </div> 
+           <div>
+            Social Security Holds First Disability Hearing on Compassionate Allowances
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2007/#11-2007-1"> 
+           <div class="gray-lighter">
+            November 9, 2007
+           </div> 
+           <div>
+            Social Security Improves Service and Expands Outreach to Wounded Veterans
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2007/#10-2007-4"> 
+           <div class="gray-lighter">
+            October 22, 2007
+           </div> 
+           <div>
+            Social Security Updates Digestive Listings
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2007/#10-2007-3"> 
+           <div class="gray-lighter">
+            October 17, 2007
+           </div> 
+           <div>
+            Social Security Announces 2.3 Percent Benefit Increase for 2008
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2007/#10-2007-2"> 
+           <div class="gray-lighter">
+            October 15, 2007
+           </div> 
+           <div>
+            Nation's First Baby Boomer Files for Social Security Retirement Benefits -- Online!
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2007/#10-2007-1"> 
+           <div class="gray-lighter">
+            October 9, 2007
+           </div> 
+           <div>
+            Social Security Administration Attacks Disability Backlog
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2007/#9-2007-1"> 
+           <div class="gray-lighter">
+            September 5, 2007
+           </div> 
+           <div>
+            Commissioner Astrue Extends Social Security's Quick Disability Determination Nationwide
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2007/#5-2007-2"> 
+           <div class="gray-lighter">
+            May 25, 2007
+           </div> 
+           <div>
+            Social Security Expedites Survivors and Disability Applications for Military Service Members
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2007/#5-2007-1"> 
+           <div class="gray-lighter">
+            May 11, 2007
+           </div> 
+           <div>
+            Social Security Presents America's Favorite Baby Names for 2006
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2007/#4-2007-2"> 
+           <div class="gray-lighter">
+            April 23, 2007
+           </div> 
+           <div>
+            Social Security Board of Trustees Issues Annual Report
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2007/#4-2007-1"> 
+           <div class="gray-lighter">
+            April 19, 2007
+           </div> 
+           <div>
+            Social Security Rated One of the 'Best Places to Work in the Federal Government'
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2007/#2-2007-2"> 
+           <div class="gray-lighter">
+            February 16, 2007
+           </div> 
+           <div>
+            Statement of Michael J. Astrue, Commissioner of Social Security, Regarding the Agency's Fiscal Year 2007 Budget
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2007/#2-2007-1"> 
+           <div class="gray-lighter">
+            February 12, 2007
+           </div> 
+           <div>
+            Michael J. Astrue Sworn In As Commissioner Of Social Security
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2006/#11-2006-1"> 
+           <div class="gray-lighter">
+            November 7, 2006
+           </div> 
+           <div>
+            Public Warned about E-mail Scam
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2006/#10-2006-1"> 
+           <div class="gray-lighter">
+            October 18, 2006
+           </div> 
+           <div>
+            Social Security Announces 3.3 Percent Benefit Increase for 2007
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2006/#9-2006-1"> 
+           <div class="gray-lighter">
+            September 11, 2006
+           </div> 
+           <div>
+            Social Security and September 11 
+            <sup>th</sup>: Five Years Later - 2006
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2006/#5-2006-2"> 
+           <div class="gray-lighter">
+            May 12, 2006
+           </div> 
+           <div>
+            Social Security Delivers the Most Popular Baby Names for 2005
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2006/#5-2006-1"> 
+           <div class="gray-lighter">
+            May 1, 2006
+           </div> 
+           <div>
+            2006 Trustees Report - Long-Term Financing Challenges Remain
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2006/#3-2006-1"> 
+           <div class="gray-lighter">
+            March 28, 2006
+           </div> 
+           <div>
+            Commissioner Barnhart Unveils New Social Security Disability Determination Process
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2006/#2-2006-1"> 
+           <div class="gray-lighter">
+            February 17, 2006
+           </div> 
+           <div>
+            Public Warned about Identity Theft E-mail Scam
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2005/#10-2005-1"> 
+           <div class="gray-lighter">
+            October 14, 2005
+           </div> 
+           <div>
+            Social Security Announces 4.1 Percent Benefit Increase for 2006
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2005/#9-2005-2"> 
+           <div class="gray-lighter">
+            September 22, 2005
+           </div> 
+           <div>
+            More Than Three Million People Apply for Medicare Prescription Drug Help
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2005/#9-2005-1"> 
+           <div class="gray-lighter">
+            September 9, 2005
+           </div> 
+           <div>
+            Social Security Responds to Hurricane Katrina Agency Issues More Than 30,000 Emergency Checks to Date
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2005/#7-2005-1"> 
+           <div class="gray-lighter">
+            July 26, 2005
+           </div> 
+           <div>
+            Commissioner Barnhart Announces Proposed Regulation to Improve Social Security's Disability Process
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2005/#6-2005-1"> 
+           <div class="gray-lighter">
+            June 29, 2005
+           </div> 
+           <div>
+            Social Security Website the Newest Location for People to Apply For Extra Help with their Medicare Prescription Drug Costs
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2005/#5-2005-1"> 
+           <div class="gray-lighter">
+            May 6, 2005
+           </div> 
+           <div>
+            Social Security's Most Popular Baby Names for 2004 Have Arrived
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2005/#3-2005-1"> 
+           <div class="gray-lighter">
+            March 23, 2005
+           </div> 
+           <div>
+            Little Change in Social Security Solvency
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2005/#1-2005-1"> 
+           <div class="gray-lighter">
+            January 28, 2005
+           </div> 
+           <div>
+            Statement of Jo Anne Barnhart, Commissioner of Social Security
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2004/#10-2004-1"> 
+           <div class="gray-lighter">
+            October 19, 2004
+           </div> 
+           <div>
+            Social Security Announces 2.7 Percent Benefit Increase for 2005
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2004/#6-2004-1"> 
+           <div class="gray-lighter">
+            June 29, 2004
+           </div> 
+           <div>
+            United States and Mexico Sign Social Security Agreement
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2004/#5-2004-2"> 
+           <div class="gray-lighter">
+            May 28, 2004
+           </div> 
+           <div>
+            Social Security Recipients Warned About Potential Scams
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2004/#5-2004-1"> 
+           <div class="gray-lighter">
+            May 7, 2004
+           </div> 
+           <div>
+            Social Security Delivers Most Popular Baby Names for 2003
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2004/#4-2004-1"> 
+           <div class="gray-lighter">
+            April 1, 2004
+           </div> 
+           <div>
+            Social Security Announces $6.6 Million In HOPE Awards For Assistance To The Homeless
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2004/#3-2004-1"> 
+           <div class="gray-lighter">
+            March 23, 2004
+           </div> 
+           <div>
+            2004 Trustees Report - Little Change in Long Term Solvency of Social Security
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2004/#2-2004-1"> 
+           <div class="gray-lighter">
+            February 19, 2004
+           </div> 
+           <div>
+            United States and Japan Sign Social Security Agreement
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2003/#12-2003-1"> 
+           <div class="gray-lighter">
+            December 10, 2003
+           </div> 
+           <div>
+            Social Security Rated Among the Best in Government on Computer Security Report Card
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2003/#10-2003-1"> 
+           <div class="gray-lighter">
+            October 16, 2003
+           </div> 
+           <div>
+            Social Security Announces 2.1 Percent Benefit Increase for 2004
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2003/#9-2003-1"> 
+           <div class="gray-lighter">
+            September 25, 2003
+           </div> 
+           <div>
+            Commissioner Barnhart Presents Her Approach to Improving the Disability Determination Process
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2003/#6-2003-1"> 
+           <div class="gray-lighter">
+            June 27, 2003
+           </div> 
+           <div>
+            First Competitive Sourcing Study Rates Social Security Administration 'The Best'
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2003/#5-2003-2"> 
+           <div class="gray-lighter">
+            May 15, 2003
+           </div> 
+           <div>
+            Deputy Commissioner Lockhart: Delays in Strengthening Social Security Mean More Difficult Choices in the Future
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2003/#5-2003-1"> 
+           <div class="gray-lighter">
+            May 12, 2003
+           </div> 
+           <div>
+            Social Security Administration Delivers Most Popular Baby Names for 2002
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2003/#4-2003-2"> 
+           <div class="gray-lighter">
+            April 14, 2003
+           </div> 
+           <div>
+            A New Name for a New Website
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2003/#4-2003-1"> 
+           <div class="gray-lighter">
+            April 11, 2003
+           </div> 
+           <div>
+            Social Security Administration Acts to Protect Benefits for Families of Troops Serving Under Fire
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2003/#3-2003-1"> 
+           <div class="gray-lighter">
+            March 17, 2003
+           </div> 
+           <div>
+            Social Security Not Sustainable for the Long Term
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2003/#2-2003-1"> 
+           <div class="gray-lighter">
+            February 3, 2003
+           </div> 
+           <div>
+            Commissioner Barnhart: President's Budget for SSA Shows Commitment to Programs; Confidence in Agency
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2003/#1-2003-1"> 
+           <div class="gray-lighter">
+            January 30, 2003
+           </div> 
+           <div>
+            Supplemental Security Income Program Removed from High-Risk List
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2002/#11-2002-2"> 
+           <div class="gray-lighter">
+            November 19, 2002
+           </div> 
+           <div>
+            Social Security Earns Highest Grade from Congress on Computer Security Report Card
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2002/#11-2002-1"> 
+           <div class="gray-lighter">
+            November 13, 2002
+           </div> 
+           <div>
+            Social Security Administration Launches Second Phase of New Program to Help People with Disabilities Go to Work
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2002/#10-2002-2"> 
+           <div class="gray-lighter">
+            October 18, 2002
+           </div> 
+           <div>
+            Social Security Commissioner Jo Anne B. Barnhart Announces 1.4 Percent Social Security Increase
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2002/#10-2002-1"> 
+           <div class="gray-lighter">
+            October 16, 2002
+           </div> 
+           <div>
+            Social Security Announces New Initiatives to Promote Employment Opportunities for People with Disabilities
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2002/#9-2002-4"> 
+           <div class="gray-lighter">
+            September 30, 2002
+           </div> 
+           <div>
+            Social Security Announces New E-Government Project
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2002/#9-2002-3"> 
+           <div class="gray-lighter">
+            September 23, 2002
+           </div> 
+           <div>
+            Social Security Launches New Web Page For American Indians And Alaska Natives
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2002/#9-2002-2"> 
+           <div class="gray-lighter">
+            September 23, 2002
+           </div> 
+           <div>
+            Social Security Launches New Web Page For Asian Americans And Pacific Islanders
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2002/#9-2002-1"> 
+           <div class="gray-lighter">
+            September 11, 2002
+           </div> 
+           <div>
+            Social Security and September 11 
+            <sup>th</sup>: One Year Later
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2002/#7-2002-1"> 
+           <div class="gray-lighter">
+            July 30, 2002
+           </div> 
+           <div>
+            Social Security Administration's 
+            <i>Multi-Language Gateway</i> Internet Site Given E-Gov 2002 Explorer Award
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2002/#6-2002-1"> 
+           <div class="gray-lighter">
+            June 25, 2002
+           </div> 
+           <div>
+            Initiatives to Strengthen Integrity of the SSN
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2002/#5-2002-4"> 
+           <div class="gray-lighter">
+            May 17, 2002
+           </div> 
+           <div>
+            The Social Security Administration and the American Savings Education Council Announce National 'Save for Your Future' Campaign
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2002/#5-2002-3"> 
+           <div class="gray-lighter">
+            May 10, 2002
+           </div> 
+           <div>
+            Social Security Administration Announces 'Emily' and 'Jacob' As the Most Popular Baby Names
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2002/#5-2002-2"> 
+           <div class="gray-lighter">
+            May 6, 2002
+           </div> 
+           <div>
+            Social Security Administration Takes Action to Preserve Direct Deposit
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2002/#5-2002-1"> 
+           <div class="gray-lighter">
+            May 1, 2002
+           </div> 
+           <div>
+            Social Security Teams With America's Bravest To Promote Direct Deposit Direct Deposit - It's Safe, Convenient and Easy
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2002/#4-2002-1"> 
+           <div class="gray-lighter">
+            April 15, 2002
+           </div> 
+           <div>
+            Social Security Administration Earns Highest Grade in Government for Financial Management
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2002/#3-2002-1"> 
+           <div class="gray-lighter">
+            March 26, 2002
+           </div> 
+           <div>
+            Social Security Trust Funds: Long-Range Deficits Remain
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2002/#3-2002-1"> 
+           <div class="gray-lighter">
+            March 13, 2002
+           </div> 
+           <div>
+            James B. Lockhart III Sworn in as Deputy Commissioner of Social Security
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2002/#2-2002-1"> 
+           <div class="gray-lighter">
+            February 5, 2002
+           </div> 
+           <div>
+            Social Security Administration Launches New Program to Help People with Disabilities Go to Work
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2001/#11-2001-2"> 
+           <div class="gray-lighter">
+            November 28, 2001
+           </div> 
+           <div>
+            Social Security Administration Offers New Service For The Deaf And Hard Of Hearing
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2001/#11-2001-1"> 
+           <div class="gray-lighter">
+            November 19, 2001
+           </div> 
+           <div>
+            Jo Anne B. Barnhart Takes Charge At Social Security
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2001/#10-2001-3"> 
+           <div class="gray-lighter">
+            October 29, 2001
+           </div> 
+           <div>
+            Statement of Larry Massanari, Acting Commissioner of Social Security on Direct Deposit
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2001/#10-2001-2"> 
+           <div class="gray-lighter">
+            October 22, 2001
+           </div> 
+           <div>
+            Social Security Offers Spanish Language Immediate Claims Service
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2001/#10-2001-1"> 
+           <div class="gray-lighter">
+            October 19, 2001
+           </div> 
+           <div>
+            Acting Social Security Commissioner Larry G. Massanari Announces 2.6 Percent Social Security Increase
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2001/#9-2001-2"> 
+           <div class="gray-lighter">
+            September 25, 2001
+           </div> 
+           <div>
+            Social Security Unveils New 'Representing Clients' Website
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2001/#9-2001-1"> 
+           <div class="gray-lighter">
+            September 19, 2001
+           </div> 
+           <div>
+            Social Security Administration Responds To Terrorist Attacks On America
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2001/#7-2001-3"> 
+           <div class="gray-lighter">
+            July 12, 2001
+           </div> 
+           <div>
+            Social Security Administration to Issue One-Time Payments to Approximately 50 Million Beneficiaries
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2001/#7-2001-2"> 
+           <div class="gray-lighter">
+            July 5, 2001
+           </div> 
+           <div>
+            Social Security Launches New Spanish Language Page Specially Designed For Women
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2001/#7-2001-1"> 
+           <div class="gray-lighter">
+            July 5, 2001
+           </div> 
+           <div>
+            Social Security Administration Quality Review Identifies Eligibility for Social Security Disability Benefits
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2001/#5-2001-1"> 
+           <div class="gray-lighter">
+            May 15, 2001
+           </div> 
+           <div>
+            Social Security Launches New for Women Page And Online Application For Spouse's Benefits
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2001/#3-2001-1"> 
+           <div class="gray-lighter">
+            March 19, 2001
+           </div> 
+           <div>
+            Social Security Trust Funds Gain One Additional Year of Solvency
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2001/#1-2001-1"> 
+           <div class="gray-lighter">
+            January 3, 2001
+           </div> 
+           <div>
+            Social Security Administration Increase in SGA Level
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2000/#12-2000-1"> 
+           <div class="gray-lighter">
+            December 1, 2000
+           </div> 
+           <div>
+            Social Security Commissioner Kenneth S. Apfel Expresses Concern About The Agency's Ability To Serve The Public With Funding Levels Under Continuing Resolutions
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2000/#11-2000-2"> 
+           <div class="gray-lighter">
+            November 30, 2000
+           </div> 
+           <div>
+            Social Security Administration Announces Partnership with the American Savings Education Council and the Establishment of the 'National Save for Your Future' Campaign
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2000/#11-2000-1"> 
+           <div class="gray-lighter">
+            November 2, 2000
+           </div> 
+           <div>
+            Social Security Offers Online Filing For Retirement Benefits
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2000/#10-2000-3"> 
+           <div class="gray-lighter">
+            October 18, 2000
+           </div> 
+           <div>
+            Social Security Commissioner Kenneth S. Apfel Announces 3.5 Percent Social Security Increase
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2000/#10-2000-2"> 
+           <div class="gray-lighter">
+            October 12, 2000
+           </div> 
+           <div>
+            Social Security Completes First Full Year Of Mailing Annual Social Security Statements Unveils Two New Financial Planning Tools
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2000/#10-2000-1"> 
+           <div class="gray-lighter">
+            October 3, 2000
+           </div> 
+           <div>
+            Commissioner of Social Security to hold Chair at the Lyndon B. Johnson School of Public Affairs at the University of Texas at Austin
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2000/#9-2000-1"> 
+           <div class="gray-lighter">
+            September 14, 2000
+           </div> 
+           <div>
+            Social Security Administration Announces 'Computers For Kids' Campaign
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2000/#8-2000-1"> 
+           <div class="gray-lighter">
+            August 4, 2000
+           </div> 
+           <div>
+            Social Security Administration Kicks Off 65th Anniversary Celebration at Hyde Park, New York
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2000/#7-2000-3"> 
+           <div class="gray-lighter">
+            July 26, 2000
+           </div> 
+           <div>
+            President Clinton Announces Regulatory Changes Increasing Earnings Limits for Social Security Beneficiaries with Disabilities
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2000/#7-2000-2"> 
+           <div class="gray-lighter">
+            July 24, 2000
+           </div> 
+           <div>
+            Work Incentives Advisory Panel Is Appointed, Begins Discussions July 24
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2000/#7-2000-1"> 
+           <div class="gray-lighter">
+            July 11, 2000
+           </div> 
+           <div>
+            Medicare Beneficiaries Can File For Replacement Cards On Social Security Administration Web-site
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2000/#6-2000-1"> 
+           <div class="gray-lighter">
+            June 13, 2000
+           </div> 
+           <div>
+            Social Security Administration to Partner with CommerceNet to Conduct In-house Laboratory Testing of New Internet Technologies
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="2000/#5-2000-1"> 
+           <div class="gray-lighter">
+            May 31, 2000
+           </div> 
+           <div>
+            Social Security Administration Launches High Tech Web Site To Promote Return to Work Activities
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="1999/#12-1999-3"> 
+           <div class="gray-lighter">
+            December 21, 1999
+           </div> 
+           <div>
+            SSA is Y2K OK
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="1999/#12-1999-2"> 
+           <div class="gray-lighter">
+            December 13, 1999
+           </div> 
+           <div>
+            Congressionally Mandated Changes to Retirement Benefits Set to Take Effect in 2000
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="1999/#12-1999-1"> 
+           <div class="gray-lighter">
+            December 13, 1999
+           </div> 
+           <div>
+            Social Security Administration Earns High Marks in American Customer Satisfaction Index Survey
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="1999/#10-1999-2"> 
+           <div class="gray-lighter">
+            October 19, 1999
+           </div> 
+           <div>
+            Social Security Commissioner Kenneth S. Apfel Announces 2.4 Percent Social Security Increase
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="1999/#10-1999-1"> 
+           <div class="gray-lighter">
+            October 8, 1999
+           </div> 
+           <div>
+            Social Security Commissioner Kenneth S. Apfel Announces Federal Record Service Corporation Settlement
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="1999/#9-1999-1"> 
+           <div class="gray-lighter">
+            September 30, 1999
+           </div> 
+           <div>
+            Social Security Begins Issuing Annual Statements To 125 Million Workers
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="1999/#6-1999-2"> 
+           <div class="gray-lighter">
+            June 30, 1999
+           </div> 
+           <div>
+            Social Security Increases Earnings Limit for Beneficiaries with Disabilities
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="1999/#6-1999-1"> 
+           <div class="gray-lighter">
+            June 7, 1999
+           </div> 
+           <div>
+            Clinton/Gore Administration Announces Historic 5-year Affective Disorder Demonstration Project
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="1999/#5-1999-2"> 
+           <div class="gray-lighter">
+            May 27, 1999
+           </div> 
+           <div>
+            Federal Judge Imposes Preliminary Injunction Against Federal Record Service Corporation
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="1999/#5-1999-1"> 
+           <div class="gray-lighter">
+            May 6, 1999
+           </div> 
+           <div>
+            Social Security Commissioner Reacts To Federal Record Service Civil Suit
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="1999/#3-1999-2"> 
+           <div class="gray-lighter">
+            March 30, 1999
+           </div> 
+           <div>
+            Statement Of Kenneth S. Apfel Commissioner Of Social Security Concerning The Release Of The 1999 Annual Report Of The Social Security Board Of Trustees
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="1999/#3-1999-1"> 
+           <div class="gray-lighter">
+            March 30, 1999
+           </div> 
+           <div>
+            Social Security Trust Funds Gain Two Additional Years Of Solvency
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="1999/#2-1999-2"> 
+           <div class="gray-lighter">
+            February 12, 1999
+           </div> 
+           <div>
+            SSA Proposes Rule Change to Enable More Disability Beneficiaries to Return to Work
+           </div> </a> </li> 
+         <li class="bb py2"> <a href="1999/#2-1999-1"> 
+           <div class="gray-lighter">
+            February 30, 1999
+           </div> 
+           <div>
+            Statement From Kenneth S. Apfel
+           </div> </a> </li> 
+        </ul> 
+       </section> 
+      </section> 
+     </article> 
+    </div> 
+   </section> 
+  </main> 
+  <!-- FOOTER --> 
+  <footer class="fs1 pa3 print-dn l-ta-c" id="footer" role="contentinfo">
+   <div class="grid">
+    <div class="cell pt3 w-100 m-w-33 l-pt0 l-w-100">
+     <p class="fw5 mb2 l-dn">Important Information:</p>
+     <ul class="list-nb ma0 pa0">
+      <li class="l-dib"><a class="db l-pr2" href="/agency/">About Us</a></li>
+      <li class="l-dib"><a class="db l-pr2" href="/accessibility/">Accessibility</a></li>
+      <li class="l-dib"><a class="db l-pr2" href="/foia/">FOIA</a></li>
+      <li class="l-dib"><a class="db l-pr2" href="/agency/glossary/">Glossary</a></li>
+      <li class="l-dib"><a class="db l-pr2" href="/open/">Open Government</a></li>
+      <li class="l-dib l-pr2"><a class="db" href="/privacy/">Privacy</a></li>
+      <li class="l-dib"><a class="db" href="https://oig.ssa.gov/">Report Fraud, Waste or Abuse to our Office of the Inspector General</a></li>
+     </ul>
+    </div>
+    <div class="cell pt3 w-100 m-w-33 l-w-100">
+     <p class="fw5 mb2 l-dn">Other Government Websites:</p>
+     <ul class="list-nb ma0 pa0">
+      <li class="l-dib"><a class="db l-pr2" href="//www.benefits.gov">Benefits.gov</a></li>
+      <li class="l-dib"><a class="db l-pr2" href="//www.disability.gov/">Disability.gov</a></li>
+      <li class="l-dib"><a class="db l-pr2" href="//www.mymoney.gov">MyMoney.gov</a></li>
+      <li class="l-dib"><a class="db l-pr2" href="//www.regulations.gov">Regulations.gov</a></li>
+      <li class="l-dib"><a class="db l-pr2" href="//www.usa.gov">USA.gov</a></li>
+      <li class="l-dib"><a class="db" href="https://www.usa.gov/federal-agencies">Other Government Sites</a></li>
+     </ul>
+    </div>
+    <div class="cell pt3 w-100 m-w-33 l-w-100">
+     <p class="fw5 mb2 l-dn">Follow:</p>
+     <ul class="list-nb ma0 pa0">
+      <li class="dib"><a class="bg-twitter br-100 bs1 fx fx-ai-c fx-jc-c hover-bg-blue pa2 white" href="//twitter.com/socialsecurity/" title="Twitter">
+        <svg class="svg1" focusable="false" viewbox="0 0 24 24">
+         <path d="M23.44 4.83c-.8.37-1.5.38-2.22.02.93-.56.98-.96 1.32-2.02-.88.52-1.86.9-2.9 1.1-.82-.88-2-1.43-3.3-1.43-2.5.0-4.55 2.04-4.55 4.54.0.36.03.7.1 1.04-3.77-.2-7.12-2-9.36-4.75-.4.67-.6 1.45-.6 2.3.0 1.56.8 2.95 2 3.77-.74-.03-1.44-.23-2.05-.57v.06c0 2.2 1.56 4.03 3.64 4.44-.67.2-1.37.2-2.06.08.58 1.8 2.26 3.12 4.25 3.16C5.78 18.1 3.37 18.74 1 18.46c2 1.3 4.4 2.04 6.97 2.04 8.35.0 12.92-6.92 12.92-12.93.0-.2.0-.4-.02-.6.9-.63 1.96-1.22 2.56-2.14z" vector-effect="non-scaling-stroke"></path>
+        </svg></a></li>
+      <li class="dib pl1"><a class="bg-facebook br-100 bs1 fx fx-ai-c fx-jc-c hover-bg-blue pa2 white" href="//facebook.com/socialsecurity/" title="Facebook">
+        <svg class="svg1" focusable="false" viewbox="0 0 24 24">
+         <path d="M18.77 7.46H14.5v-1.9c0-.9.6-1.1 1-1.1h3V.5h-4.33C10.24.5 9.5 3.44 9.5 5.32v2.15h-3v4h3v12h5v-12h3.85l.42-4z" vector-effect="non-scaling-stroke"></path>
+        </svg></a></li>
+      <li class="dib pl1"><a class="bg-logo br-100 bs1 fx fx-ai-c fx-jc-c hover-bg-blue pa2 white" href="//instagram.com/socialsecurity/" title="Instagram">
+        <svg class="svg1" focusable="false" viewbox="0 0 90 90">
+         <path d="M44.9 8.091c11.974 0 13.371 0 18.16.3 4.39.199 6.785.899 8.381 1.498 2.096.799 3.592 1.798 5.189 3.396 1.596 1.598 2.494 3.097 3.392 5.194.599 1.599 1.297 3.996 1.497 8.391.199 4.695.299 6.193.299 18.18s0 13.385-.299 18.18c-.2 4.395-.898 6.792-1.497 8.39-.798 2.098-1.796 3.596-3.392 5.195-1.597 1.598-3.093 2.497-5.189 3.396-1.596.599-3.991 1.298-8.381 1.498-4.69.2-6.186.3-18.16.3-11.973 0-13.37 0-18.159-.3-4.391-.2-6.785-.899-8.382-1.498-2.095-.799-3.592-1.798-5.188-3.396-1.597-1.599-2.495-3.097-3.393-5.195-.598-1.598-1.297-3.995-1.496-8.39-.2-4.695-.3-6.193-.3-18.18s0-13.385.3-18.18c.199-4.395.898-6.792 1.496-8.391.798-2.097 1.796-3.596 3.393-5.194 1.596-1.598 3.093-2.497 5.188-3.396 1.597-.599 3.991-1.299 8.382-1.498 4.789-.2 6.186-.3 18.159-.3zM44.9 0C32.727 0 31.131.1 26.341.3c-4.789.199-8.082.999-10.875 2.097-2.994 1.099-5.488 2.697-7.983 5.195-2.494 2.497-3.991 4.994-5.188 7.991C1.197 18.479.399 21.676.2 26.471.1 31.165 0 32.764 0 44.95c0 12.187.1 13.785.299 18.579.2 4.795.998 8.091 2.096 10.888 1.097 2.997 2.694 5.494 5.188 7.991 2.495 2.498 4.989 3.996 7.982 5.195 2.894 1.098 6.087 1.898 10.876 2.097 4.79.2 6.286.3 18.559.3 12.273 0 13.769-.1 18.559-.3 4.789-.199 8.082-.999 10.876-2.097 2.993-1.099 5.487-2.697 7.982-5.195 2.494-2.497 3.991-4.994 5.188-7.991 1.098-2.896 1.896-6.093 2.096-10.888.199-4.794.299-6.293.299-18.579 0-12.286-.1-13.785-.299-18.579-.2-4.795-.998-8.091-2.096-10.888-1.097-2.997-2.694-5.494-5.188-7.991-2.495-2.498-4.989-3.996-7.982-5.195C71.541 1.199 68.348.4 63.559.2 58.67.1 57.073 0 44.9 0z"></path>
+         <path d="M44.9 21.876c-12.771 0-23.049 10.288-23.049 23.074 0 12.786 10.278 23.074 23.049 23.074 12.772 0 23.049-10.288 23.049-23.074 0-12.786-10.277-23.074-23.049-23.074zm0 38.057c-8.281 0-14.967-6.692-14.967-14.983S36.619 29.967 44.9 29.967c8.282 0 14.967 6.692 14.967 14.983S53.182 59.933 44.9 59.933z"></path>
+         <ellipse vector-effect="non-scaling-stroke" cx="68.847" cy="20.977" rx="5.388" ry="5.394"></ellipse>
+        </svg></a></li>
+      <li class="dib pl1"><a class="bg-youtube br-100 bs1 fx fx-ai-c fx-jc-c hover-bg-blue pa2 white" href="//youtube.com/socialsecurityonline/" title="YouTube">
+        <svg class="svg1" focusable="false" viewbox="0 0 38 38">
+         <path d="M26.2 19l-12.6 7.4V11.6L26.2 19zM38 25.8V12.1s.2-6.7-6.4-6.7H6.4S0 5.5.0 12.1v13.8s-.2 6.7 6.4 6.7h25.2s6.4-.1 6.4-6.8" vector-effect="non-scaling-stroke"></path>
+        </svg></a></li>
+      <li class="dib pl1"><a class="bg-blog br-100 bs1 fx fx-ai-c fx-jc-c hover-bg-blue pa2 white" href="//blog.ssa.gov/" title="Blog">
+        <svg class="svg1" focusable="false" viewbox="14 12 102 102">
+         <path d="M49.972 47.715c8.346.0 16.19 3.263 22.085 9.187 5.904 5.932 9.156 13.829 9.156 22.236H94.07c0-24.416-19.783-44.281-44.099-44.281v12.858zm.019-22.794c29.74.0 53.937 24.328 53.937 54.23h12.858c0-36.993-29.965-67.089-66.795-67.089v12.859zm20.753 60.594c0 8.048-2.738 14.939-8.212 20.677-5.476 5.738-12.07 8.607-19.787 8.607-7.783.0-14.412-2.852-19.886-8.558-5.475-5.704-8.211-12.614-8.211-20.727V44.259c0-2.77.829-4.913 2.487-6.431 1.659-1.517 3.616-2.275 5.873-2.275 2.255.0 4.212.76 5.871 2.28s2.489 3.667 2.489 6.44v41.322c0 3.37 1.116 6.227 3.349 8.572 2.232 2.345 4.925 3.517 8.079 3.517 3.085.0 5.761-1.175 8.027-3.527 2.266-2.352 3.399-5.216 3.399-8.596.0-3.377-1.039-5.994-3.116-7.85-2.078-1.854-4.897-2.782-8.459-2.782-2.572.0-4.618-.891-6.134-2.672-1.385-1.516-2.078-3.429-2.078-5.737.0-2.242.725-4.205 2.177-5.887 1.45-1.682 3.463-2.522 6.035-2.522 8.177.0 14.905 2.557 20.183 7.667 5.275 5.112 7.914 11.691 7.914 19.737z" vector-effect="non-scaling-stroke"></path>
+        </svg></a></li>
+      <li class="dib pl1"><a class="bg-black br-100 bs1 fx fx-ai-c fx-jc-c hover-bg-blue pa2 white" href="/socialmedia/" title="More Social Media">
+        <svg class="svg1" focusable="false" viewbox="0 0 32 32">
+         <path d="M16 0c.442.0.818.156 1.131.469.313.312.469.69.469 1.131v12.8h12.8c.441.0.819.156 1.131.469.313.312.469.69.469 1.131.0.442-.156.818-.469 1.131a1.54 1.54.0 0 1-1.131.469H17.6v12.8c0 .441-.156.819-.469 1.131A1.54 1.54.0 0 1 16 32a1.54 1.54.0 0 1-1.131-.469A1.54 1.54.0 0 1 14.4 30.4V17.6H1.6a1.54 1.54.0 0 1-1.131-.469A1.54 1.54.0 0 1 0 16c0-.441.156-.819.469-1.131s.69-.469 1.131-.469h12.8V1.6c0-.441.156-.819.469-1.131S15.559.0 16 0z" vector-effect="non-scaling-stroke"></path>
+        </svg></a></li>
+     </ul>
+    </div>
+   </div>
+   <p class="mt3 m-ta-c">This website is produced and published at U.S. taxpayer expense.</p>
+  </footer> 
+  <!-- SCRIPTS --> 
+  <script src="/framework/js/ssa.firefly.body.js"></script> 
+  <script src="/news/assets/js/press-releases-home.js"></script>  
+ </body>
+</html>

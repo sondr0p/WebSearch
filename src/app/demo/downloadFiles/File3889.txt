@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+ <head> 
+  <meta charset="utf-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <title>Mississippi State Department of Health</title> 
+  <!-- Bootstrap --> 
+  <link href="/msdh/water_invoice/Content/css?v=LurCh3YGxRJhVVZ5q3_TGSN0LXoFG60cmhGHzXyq8hA1" rel="stylesheet"> 
+  <script src="/msdh/water_invoice/bundles/modernizr?v=inCVuEFe6J4Q07A0AcRsbJic_UE5MwpRMNGcOtk94TE1"></script> 
+  <!--[if IE 8]>
+<style type="text/css">
+	/* css for IE 8 */
+    body.background {
+  /* Set rules to fill background */
+  min-height: 100%;
+  min-width: 1024px;
+	
+  /* Set up proportionate scaling */
+  width: 100%;
+  height: auto;
+	
+  /* Set up positioning */
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+</style>
+<![endif]--> 
+  <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]--> 
+ </head> 
+ <body class="background"> 
+  <!-- App Wrap --> 
+  <div class="container" id="appWrap"> 
+   <!-- Header --> 
+   <header class="row"> 
+    <div class="col-sm-12" id="header"> 
+     <div id="agency-logo" class="pull-right">
+      <img class="img-responsive" src="/msdh/water_invoice/Content/Images/agency-logo.png" alt="Department of Corrections"> 
+     </div> 
+    </div> 
+   </header> 
+   <!-- App --> 
+   <section id="app" class="row"> 
+    <div class="col-xs-12"> 
+     <h1>WELCOME TO THE ONLINE INVOICE SYSTEM</h1> 
+     <div class="divider"></div> 
+     <p>The following payment methods are accepted for online fee and fine payments: Visa, MasterCard, American Express, Discover, E-check. The total price of items or services purchased through this application includes funds used to develop, maintain, enhance and expand the service offerings of the state's eGovernment program. The base amount will be remitted back to the Mississippi State Department of Health for your invoice/fine payment.</p> 
+     <p>To pay your Mississippi State Department of Health invoice or fine, please enter your invoice number or system ID provided by the Bureau.</p> 
+     <form action="/msdh/water_invoice/" method="post" style="margin-top:20px;">
+      <input name="__RequestVerificationToken" type="hidden" value="FobeFC5W0AbOJq-YR7g95R-5FgiMOC-hWzv5zABgoqz3tNyXW8Ll-Et7T239Es8EMSC54yt3Ek2ENcNG6C28j7B4ZHc1">
+      <div class="validation-summary-valid validation-message" data-valmsg-summary="true">
+       <ul>
+        <li style="display:none"></li> 
+       </ul>
+      </div> 
+      <div class="row"> 
+       <div class="form-group col-sm-3"> 
+        <label for="Invoice_Number_System_ID">Invoice Number/System ID</label>: 
+        <input class="form-control" data-val="true" data-val-range="Please enter valid Invoice Number" data-val-range-max="2147483647" data-val-range-min="0" id="InvoiceNumber" name="InvoiceNumber" type="text" value=""> 
+       </div> 
+      </div> 
+      <div class="row"> 
+       <div class="col-sm-12"> 
+        <div class="divider"></div> 
+        <input type="submit" class="btn btn-primary" value="Locate Invoice"> 
+       </div> 
+      </div> 
+     </form> 
+    </div> 
+   </section> 
+   <footer class="row"> 
+    <div class="col-sm-12"> 
+     <div class="col-sm-7" id="footer-links"> 
+      <p><a href="http://www.msdh.state.ms.us/">MSDH Home</a> | <a href="https://www.ms.gov/help_portal" target="_blank">Help Portal</a> | |<a href="http://www.transparency.ms.gov" target="_blank">Transparency MS</a></p> 
+      <p>Copyright © 2019 Mississippi State Department of Health</p> 
+     </div> 
+     <div class="col-sm-5" id="footer-logo"> 
+      <a href="http://www.ms.gov"><img src="/msdh/water_invoice/Content/Images/logo-msGov-footer.png" alt="ms.gov"></a> 
+     </div> 
+    </div> 
+   </footer> 
+  </div> 
+  <!--JS--> 
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script> 
+  <script src="/msdh/water_invoice/bundles/scripts?v=Be_tdE20qd9VsyWojY-2WqevI35808dBXSTNG9iF1n41"></script> 
+  <script src="/msdh/water_invoice/bundles/js/msi?v=BPjMAby8nH3yHFd2RNC6F0jVuXU6GeG14LX_mbeTNkg1"></script> 
+  <script src="/msdh/water_invoice/bundles/js/datatables?v=1g_JKH6YM5ZSYr9A1SXApJdKUDDrlD2gu04CwR0BB7I1"></script>  
+ </body>
+</html>

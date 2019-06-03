@@ -1,0 +1,149 @@
+<html lang="en">
+ <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="description">
+  <meta name="author">
+  <link href="css/bootstrap.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="css/styles.css">
+  <link href="css/bootstrap-responsive.css" rel="stylesheet"> 
+  <script type="text/javascript" src="Scripts/jquery-1.4.1.min.js"></script> 
+  <script type="text/javascript" src="js/bootstrap.js"></script> 
+  <script type="text/javascript" src="js/bug.js"></script> 
+  <!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="css/ie7.css" />
+<![endif]--> 
+  <!--[if IE 8]>
+<link rel="stylesheet" type="text/css" href="css/ie8.css" />
+<![endif]--> 
+  <!--[if lt IE 9]>
+<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+<![endif]--> 
+  <link href="https://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow:regular,bold" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=PT+Sans+Caption:regular,bold" rel="stylesheet" type="text/css">
+  <title>
+	Mississippi Department of Public Safety - CDL Medical Card Submission
+</title>
+ </head>  
+ <body> 
+  <script type="text/javascript">
+$(window).load(function(){
+	if(window.location.hostname != "www.msegov.com")
+	{
+	    window.location.href = "https://www.msegov.com/dps/cdl_medcard/";
+	   
+	}
+});
+      </script> 
+  <div id="divReportBug" style="position:fixed; top:30%; left:2%;"> 
+   <img src="images/reportIssue_bttn.png" id="Button_ReportBug" onclick="javascript: reportBug();" alt="Report Bug"> 
+   <script type="text/javascript">
+            hideBugTool();
+        </script> 
+  </div> 
+  <div id="page" class="container"> 
+   <div id="globals"> 
+    <!--<div class="globalText"><img src="images/liveChat.png" width="76" height="22" alt="Live Help" /><img src="images/fees.png" width="51" height="22" alt="Fees" /></div>-->
+    <div class="msGovGlobal">
+     <a href="http://www.ms.gov" target="_blank"><img src="images/msGovGlobal.png" width="65" height="26" alt="ms.gov"></a>
+    </div> 
+   </div> 
+   <header id="banner-mobile"> 
+    <img src="images/cdl-med-card-banner-mobile.jpg"> 
+   </header> 
+   <header id="banner"> 
+    <img src="images/cdl-med-card-banner.jpg"> 
+   </header> 
+   <div class="row-fluid"> 
+    <div id="main" class="span12"> 
+     <h2>Licensee Verification</h2> 
+     <br> 
+     <ul> 
+      <li><span style="font-size:0.8em">DPS may reject any application based on the quality of the attached medical card image, the answers provided within the certification or other factors determined during DPS review of a user's submission.</span></li> 
+      <li><span style="font-size:0.8em">Refunds are prohibited, regardless of DPS’ decision to accept or reject a submission.</span></li> 
+      <li><span style="font-size:0.8em">DPS requires five (5) business days to approve or decline a user's submission and update the medical information in its administrative system.</span></li> 
+      <li><span style="font-size:0.8em">There is a $2.50 submission cost to process your medical card online.</span></li> 
+      <li><span style="font-size:0.8em">Please enter your driver’s license information <strong>EXACTLY</strong> as it appears on your license. Failure to enter the exact information could cause your application to be denied.</span></li> 
+     </ul> 
+     <p><span style="color:Red">*</span> Denotes a required field.</p> 
+     <form method="post" action="./default.aspx" id="form1" class="form"> 
+      <div class="aspNetHidden"> 
+       <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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"> 
+      </div> 
+      <div class="aspNetHidden"> 
+       <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="0DC07264"> 
+       <input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value=""> 
+      </div> 
+      <div id="MainContent_ValidationSummary1" style="color:Red;font-size:0.8em;display:none;"> 
+      </div> 
+      <div class="field field-block"> 
+       <label for="txtCDLNumber"><span style="color:Red">*</span>Commercial Driver's License Number:</label> 
+       <input name="ctl00$MainContent$txtCDLNumber" type="text" maxlength="9" id="MainContent_txtCDLNumber" class="input-validation-error"> 
+      </div> 
+      <div class="field field-block"> 
+       <label><span style="color:Red">*</span>First Name:</label> 
+       <input name="ctl00$MainContent$txtFirstName" type="text" id="MainContent_txtFirstName"> 
+      </div> 
+      <!--<div class="field field-block">
+            <label>Middle Name/Middle Initial:</label>
+            <input name="ctl00$MainContent$txtMiddleName" type="text" id="MainContent_txtMiddleName" /> 
+        </div>--> 
+      <div class="field field-block"> 
+       <label for="txtLastName"><span style="color:Red">*</span>Last Name (Omit suffix - Jr., Sr. etc):</label> 
+       <input name="ctl00$MainContent$txtLastName" type="text" id="MainContent_txtLastName"> 
+      </div> 
+      <div class="field field-block"> 
+       <label><span style="color:Red">*</span>Date of Birth:</label> 
+       <select name="ctl00$MainContent$ddlYear" id="MainContent_ddlYear" class="span4" style="display:inline-block;"> <option value="2003">2003</option> <option value="2002">2002</option> <option value="2001">2001</option> <option value="2000">2000</option> <option value="1999">1999</option> <option value="1998">1998</option> <option value="1997">1997</option> <option value="1996">1996</option> <option value="1995">1995</option> <option value="1994">1994</option> <option value="1993">1993</option> <option value="1992">1992</option> <option value="1991">1991</option> <option value="1990">1990</option> <option value="1989">1989</option> <option value="1988">1988</option> <option value="1987">1987</option> <option value="1986">1986</option> <option value="1985">1985</option> <option value="1984">1984</option> <option value="1983">1983</option> <option value="1982">1982</option> <option value="1981">1981</option> <option value="1980">1980</option> <option value="1979">1979</option> <option value="1978">1978</option> <option value="1977">1977</option> <option value="1976">1976</option> <option value="1975">1975</option> <option value="1974">1974</option> <option value="1973">1973</option> <option value="1972">1972</option> <option value="1971">1971</option> <option value="1970">1970</option> <option value="1969">1969</option> <option value="1968">1968</option> <option value="1967">1967</option> <option value="1966">1966</option> <option value="1965">1965</option> <option value="1964">1964</option> <option value="1963">1963</option> <option value="1962">1962</option> <option value="1961">1961</option> <option value="1960">1960</option> <option value="1959">1959</option> <option value="1958">1958</option> <option value="1957">1957</option> <option value="1956">1956</option> <option value="1955">1955</option> <option value="1954">1954</option> <option value="1953">1953</option> <option value="1952">1952</option> <option value="1951">1951</option> <option value="1950">1950</option> <option value="1949">1949</option> <option value="1948">1948</option> <option value="1947">1947</option> <option value="1946">1946</option> <option value="1945">1945</option> <option value="1944">1944</option> <option value="1943">1943</option> <option value="1942">1942</option> <option value="1941">1941</option> <option value="1940">1940</option> <option value="1939">1939</option> <option value="1938">1938</option> <option value="1937">1937</option> <option value="1936">1936</option> <option value="1935">1935</option> <option value="1934">1934</option> <option value="1933">1933</option> <option value="1932">1932</option> <option value="1931">1931</option> <option value="1930">1930</option> </select> 
+       <select name="ctl00$MainContent$ddlMonth" id="MainContent_ddlMonth" class="span5" style="display:inline-block;"> <option value="01">January</option> <option value="02">February</option> <option value="03">March</option> <option value="04">April</option> <option value="05">May</option> <option value="06">June</option> <option value="07">July</option> <option value="08">August</option> <option value="09">September</option> <option value="10">October</option> <option value="11">November</option> <option value="12">December</option> </select> 
+       <select name="ctl00$MainContent$ddlDay" id="MainContent_ddlDay" class="span3" style="display:inline-block;"> <option value="1">1</option> <option value="2">2</option> <option value="3">3</option> <option value="4">4</option> <option value="5">5</option> <option value="6">6</option> <option value="7">7</option> <option value="8">8</option> <option value="9">9</option> <option value="10">10</option> <option value="11">11</option> <option value="12">12</option> <option value="13">13</option> <option value="14">14</option> <option value="15">15</option> <option value="16">16</option> <option value="17">17</option> <option value="18">18</option> <option value="19">19</option> <option value="20">20</option> <option value="21">21</option> <option value="22">22</option> <option value="23">23</option> <option value="24">24</option> <option value="25">25</option> <option value="26">26</option> <option value="27">27</option> <option value="28">28</option> <option value="29">29</option> <option value="30">30</option> <option value="31">31</option> </select> 
+      </div> 
+      <hr> 
+      <input type="submit" name="ctl00$MainContent$btnContinue" value="Continue" id="MainContent_btnContinue" class="button01 button"> 
+      <script type="text/javascript">
+//<![CDATA[
+var Page_ValidationSummaries =  new Array(document.getElementById("MainContent_ValidationSummary1"));
+//]]>
+</script> 
+      <script type="text/javascript">
+//<![CDATA[
+var MainContent_ValidationSummary1 = document.all ? document.all["MainContent_ValidationSummary1"] : document.getElementById("MainContent_ValidationSummary1");
+MainContent_ValidationSummary1.validationGroup = "gp1";
+//]]>
+</script> 
+     </form> 
+    </div> 
+   </div> 
+   <footer id="footer"> 
+    <div class="msGovLogo">
+     <a href="http://www.ms.gov" target="_blank"><img src="images/msGov.png" alt="visit the ms.gov website"></a>
+    </div> 
+    <div class="footerText">
+     Mississippi Department of Public Safety CDL Medical Card Submission, ms.gov, copyright © 2019
+     <br> 
+     <br> 
+     <a href="https://www.ms.gov/help_portal" title="Ms.Gov Help Portal" target="_blank">Ms.Gov Help Portal</a> 
+     <br> 
+     <a href="https://www.transparency.mississippi.gov/home.php" target="_blank">Transparency Mississippi</a> 
+    </div> 
+   </footer> 
+  </div> 
+  <script type="text/javascript" src="js/print.js"></script> 
+  <script type="text/javascript" src="Scripts/global.js"></script> 
+  <script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-52103781-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('_https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>  
+ </body>
+</html>

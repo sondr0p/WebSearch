@@ -1,0 +1,390 @@
+<!doctype html>
+<html lang="en">
+ <head> 
+  <!-- emiProtocol == (none) --> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <style type="text/css">
+#cmaControlsContainer {
+  position: fixed;
+  left: 100%;
+  background-color: #fff;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  z-index: 9999999999;
+  display: block;
+  -webkit-transition-duration: 1s;
+  -o-transition-duration: 1s;
+  transition-duration: 1s;
+  -webkit-box-shadow: 2px 2px 15px 0px rgba(0, 0, 0, 0.4);
+  box-shadow: 2px 2px 15px 0px rgba(0, 0, 0, 0.4); }
+  #cmaControlsContainer #toolsToggle {
+    position: absolute;
+    right: 100%;
+    top: 0;
+    display: inline-block;
+    border-top-left-radius: 15px;
+    padding: 10px 25px 10px 10px;
+    background-color: #288079;
+    color: white;
+    font-size: 1.2em;
+    border-bottom-left-radius: 15px;
+    -webkit-box-shadow: 2px 2px 15px 0px rgba(0, 0, 0, 0.4);
+    box-shadow: 2px 2px 15px 0px rgba(0, 0, 0, 0.4); }
+    #cmaControlsContainer #toolsToggle:hover, #cmaControlsContainer #toolsToggle:focus {
+      background-color: white;
+      color: #288079; }
+  #cmaControlsContainer #cmaControls {
+    display: none;
+    padding: 10px 20px; }
+    #cmaControlsContainer #cmaControls a {
+      margin-bottom: 5px;
+      border-bottom: 1px solid black; }
+    #cmaControlsContainer #cmaControls a, #cmaControlsContainer #cmaControls select {
+      display: block; }
+  #cmaControlsContainer.open {
+    left: inherit;
+    right: 0; }
+    #cmaControlsContainer.open #cmaControls {
+      display: inline-block; }
+</style> 
+  <!-- State Of Michigan - Mon May 06 09:29:33 2019 --> 
+  <!-- e-Michigan Portal - Process #8, Server www --> 
+  <link rel="canonical" href="https://www.michigan.gov/treasury/0,4679,7-121-44435---,00.html"> 
+  <title>TREASURY - Unclaimed Property</title> 
+  <meta name="DESCRIPTION" content="MI Dept of Treasury - Unclaimed Property"> 
+  <meta name="KEYWORDS" content="No Keywords"> 
+  <base target="_top"> 
+  <!-- global styles -->
+  <link rel="stylesheet" type="text/css" href="/css/fullcalendar.css"> 
+  <!-- global scripts RD-->
+  <!-- AN styles added Jan 2016 for bootstrap migration--> 
+  <link rel="stylesheet" href="/font-som-icons/css/somicons.min.css"> 
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"> 
+  <link rel="stylesheet" type="text/css" href="/bootstrap/css/bootstrap.min.css"> 
+  <!-- global styles RD--> 
+  <link rel="stylesheet" type="text/css" href="/css/fullcalendar.css"> 
+  <link href="/css/jquery.bxslider.css" type="text/css" rel="stylesheet"> 
+  <link href="/css/rdLayout.css" type="text/css" rel="stylesheet"> 
+  <link href="/css/responsive-component-defaults.css" type="text/css" rel="stylesheet"> 
+  <!--javascripts --> 
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script> 
+  <script src="/bootstrap/js/bootstrap.min.js"></script> 
+  <script src="/js/fullcalendar.js" type="text/javascript"></script> 
+  <script src="/js/jquery.meanmenu.js"></script> 
+  <script src="/js/jquery.bxslider.js"></script> 
+  <script src="/js/jquery.rwdImageMaps.js"></script> 
+  <script src="/js/jquery.validate.js"></script> 
+  <script src="/js/additional-methods.js"></script> 
+  <script src="/js/responsiveComponents.js"></script> 
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.0/jquery.matchHeight-min.js"></script> 
+  <!--[if (lt IE 9)]>
+<script>
+document.createElement('header');
+document.createElement('nav');
+document.createElement('section');
+document.createElement('article');
+document.createElement('aside');
+document.createElement('footer');
+document.createElement('time');
+</script>
+<script src="/js/respond.js"></script>
+<link href="/css/migov_ie8.css" rel="stylesheet" media="all" />
+<![endif]--> 
+  <script src="/js/main_navigation_script.js" type="text/javascript"></script> 
+  <link rel="stylesheet" type="text/css" href="/css/main_navigation.css"> 
+  <!-- RD MODE globalRD.CSS -->
+  <style>  BODY {background-color : #ffffff}#subTop {display:none}a.themeLink, a.themeLink:visited {color: #1a2842;border: #1a2842 1px solid;background-color:  #ffffff}a.themeLink:hover {color: #ffffff;background-color: #1a2842;border: #1a2842 1px solid}/*------------LEFT NAV MAIN MENU----------------*/#mainnav UL#TOP_NAV_LINKS {BACKGROUND-COLOR: #1a2842}#mainnav LI A, #nav LI A {BACKGROUND-COLOR: #1a2842;color:#ffffff}#mainnav LI A:hover, #nav LI A:hover {BACKGROUND-COLOR: #ffffff;color: #1a2842}#mainnav LI A.current, #mainnav LI A.current:hover, #nav LI A.current, #nav LI A.current:hover,#mainnav LI A.current0, #mainnav LI A.current0:hover, #nav LI A.current0, #nav LI A.current0:hover{BACKGROUND-COLOR: #ffffff;color: #1a2842}/*----------RESPONSIVE TABBED/ACCORDION AGENCY COLORS------------------*/.responsive-tabs__list__item {background: #ffffff;color: #1a2842}.responsive-tabs__list__item:hover {background: #1a2842;color: #ffffff}.responsive-tabs__list__item--active, .responsive-tabs__list__item--active:hover {background: #1a2842;color: #ffffff}.responsive-tabs__heading {background: #1a2842}.responsive-tabs__heading h2, .responsive-tabs__heading a, .responsive-tabs__heading a:visited {color: #ffffff}.responsive-tabs__heading a:hover {color: #ffffff}.responsive-tabs__heading:hover, .responsive-tabs__heading:hover a {background: #ffffff;color: #1a2842}.responsive-tabs__heading--active {background: #1a2842;color: #ffffff}.responsive-tabs__heading--active a, .responsive-tabs__heading--active a:visited {background: #1a2842;color: #ffffff}/*----------RESPONSIVE ACCORDION AGENCY COLORS------------------*/.responsive-accordion__heading a:hover, .responsive-accordion__heading a:visited:hover,.responsive-accordion__heading  a.not-active:hover {BACKGROUND-COLOR: #ffffff;color:#1a2842}.responsive-accordion__heading a {BACKGROUND-COLOR: #1a2842;color:#ffffff; border: 0px solid #1a2842}.responsive-accordion a.not-active{pointer-events: all;}/*-----------SOCIAL NAV BAR COLORS--------------*/#social_nav_horizontalRD .utilityItems div a {background-color: #ffffff}/*---------CATEGORIZED LIST }-----------*/.cTitle,.catCallDisplayText1, .catCallDisplayText1 a {background-COLOR: #ffffff;COLOR: #1a2842</style>
+  <!-- Agency Header -->
+  <!-- Agency Header do not include the globalcss file -->
+  <link rel="stylesheet" href="/css/jquery.bxslider.css" type="text/css"> 
+  <link href="/css/responsive-component-defaults.css" type="text/css" rel="stylesheet"> 
+  <link href="/css/main_navigation_horizontal.css" rel="stylesheet" type="text/css"> 
+  <script src="/js/jquery.bxslider.js"></script> 
+  <script src="/js/responsiveComponents.js"></script> 
+  <script type="text/javascript"> 
+jQuery(document).ready(function () {
+jQuery('nav.main-navigation').meanmenu({
+meanScreenWidth:"1170",
+mainSite:false,
+main_width:"100%",
+menu_width:"100%",
+rightNavSite: true,
+horMenu:true,
+rightNav_width:"20%",
+topNavSearch_position:"-60px"
+});
+if (window.location.href.indexOf(",00.html") < 0 ) {   
+$( "#main.TW.page" ).addClass("full-width");
+} else { $( "#main.TW.page" ).addClass("innerPage");}
+});</script> 
+  <link href="/documents/treasury/treasury_401193_7.css" rel="stylesheet" type="text/css"> 
+  <style>
+#nav > li {width: calc(100% / 5)!important;max-width: calc(100% / 5)!important;}</style>
+  <!--/ Agency Header-->
+  <!--/ Agency Header-->
+  <link href="/css/rdHbContactInfo.css?1493914492" type="text/css" rel="stylesheet"> 
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js"></script> 
+  <script src="/js/gtm.js?v=1501512057"></script> 
+ </head> 
+ <body class="agy-treasury"> 
+  <div role="navigation" aria-label="skip nav"> 
+   <noscript> 
+    <div class="alert bg bg-accent-1 text-center"> 
+     <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> Browsers that can not handle javascript will not be able to access some features of this site. 
+     <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> 
+    </div> 
+    <style type="text/css">
+body.matching-heights-processing:before,body.matching-heights-processing:after {
+content:'';
+height:0px;
+width:0px;
+}
+</style> 
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WTW7M9" height="0" width="0" style="display:none;visibility:hidden"></iframe> 
+   </noscript> 
+   <div id="noAdBlock" style="display:none;" class="alert bg bg-accent-1 text-center"> 
+    <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> Some functions of this site are disabled for browsers blocking jQuery. 
+    <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> 
+   </div> 
+   <div id="_TopOfPage"></div> 
+   <script>
+			function doAnalyticsGo(sndx) {
+				var dest = sndx.options[sndx.selectedIndex].value;
+				if (dest == 0) {
+					alert('Please make a selection.');
+					return false;
+				} else {
+					document.location.href=dest;
+					return false;
+				}
+			}
+		</script>
+   <a href="#main" class="sr-only sr-only-focusable">Skip to main content</a> 
+  </div> 
+  <div id="container" class="container-fluid"> 
+   <!-- agencyHeaderNavPath agencyCreateHeaderNavRD --> 
+   <div id="bannerArea" role="banner">
+    <!-- HEADER 1.1 Live -->
+    <div id="superTop" role="navigation" aria-label="main navigation">
+     <ul id="bannerLinks">
+      <li><a href="/treasury" title="Home">Home</a></li>
+      <li><a href="/treasury/0,4679,7-121--8483--,00.html" title="Contact Us">Contact Us</a></li>
+      <li><a href="/treasury/0,4679,7-121-75939---,00.html" title="Forms">Forms</a></li>
+      <li><a href="/treasury/0,4679,7-121-1755---,00.html" title="About Treasury">About Treasury</a></li>
+      <li class="migovlink"><a href="http://www.michigan.gov/" title="MI Gov Home">MI.gov</a></li>
+     </ul>
+    </div>
+    <div id="screenwidth"></div>
+    <div id="siteBanner"> 
+     <a class="AGENCY_HEADER_L" accesskey="1" href="/treasury/"><img class="AGENCY_HEADER_L" src="/images/treasury/treas-header-logo_508722_7.png" alt="TREASURY - MI Dept of Treasury "></a> 
+     <img class="AGENCY_HEADER_R" src="/images/taxes/Mi-govTopBanner_176960_7.jpg" alt="MI Dept of Treasury ">
+    </div> 
+    <div class="siteBannerTxt">
+     MI Dept of Treasury 
+    </div> 
+    <!-- TOPNAV -->
+    <div id="topNavSearch"> 
+     <!-- SEARCH -->
+     <form id="searchform" onsubmit="location.href='https://search.michigan.gov/AppBuilder/search?ctx=TREASURY&amp;q=' + document.getElementById('query').value;return false;"> 
+      <input accesskey="s" type="TEXT" autocomplete="off" id="query" name="q" placeholder="Search" title="Search"> 
+      <input id="go" type="submit" value="search" name="button" onClick="location.href='https://search.michigan.gov/AppBuilder/search?ctx=TREASURY&amp;q=' + document.getElementById('query').value;return false;"> 
+     </form>
+     <!-- /SEARCH -->
+    </div>
+    <!-- utility bar /includes/utilityBarRD.html --> 
+    <script> 
+function emishare_click(social_utility) {
+                       var statusType = "";
+                       var createURL = "";
+                       var tempurl = "";
+                       url = location.href;
+                       //url = "http://mi.gov";
+                           createURL = encodeURIComponent(url);
+                           statusType = "Reading:"
+                           //alert(social_utility);
+                  
+                       t = document.title;
+                       if (social_utility == "twitter") {
+                           window.open('http://twitter.com/home?status= ' + statusType + "%20" + encodeURIComponent(url));
+                       }
+                       if (social_utility == "facebook") {
+                           window.open('http://www.facebook.com/sharer.php?u=' + createURL, 'sharer', 'toolbar=0,status=0,width=626,height=436');
+                       }
+                   
+                      return false;
+                  }
+</script> 
+    <div id="social_nav_horizontalRD">
+     <div class="utilityItems"> 
+      <div></div>
+      <div>
+       <a id="fb" href="#" onclick="return emishare_click('facebook')" title="Share this Link on Facebook"><img src="/images/fb.png" alt="Share this Link on Facebook"></a>
+      </div>
+      <div>
+       <a id="tw" href="http://www.twitter.com/" onclick="return emishare_click('twitter')" target="_blank" title="Tweet this page on Twitter"><img src="/images/tw.png" alt="Tweet this page on Twitter!"></a>
+      </div> 
+     </div>
+    </div>
+   </div>
+   <!-- LEFTNAV agencyCreateLeftNavRD --> 
+   <!-- bodyWrapper --> 
+   <div id="bodyWrapper"> 
+    <div id="menu" role="navigation" aria-label="Site" class=""> 
+     <div id="flyout">
+      <nav class="main-navigation">
+       <ul id="nav" class=""> 
+        <!-- State Of Michigan - Fri May 03 13:48:12 2019 --> 
+        <!-- e-Michigan Portal - Process #7 --> 
+        <!-- Begin Global Nav section -->
+        <!-- End Global Nav section --> 
+        <!-- Begin Responsive Navigation --> 
+        <li id="44433" class="id-44433 "> <a class="lvl1" title="Taxes" href="/taxes">Taxes</a> </li> 
+        <li id="44435" class="id-44435 "> <a class="lvl1" title="Unclaimed Property" href="/treasury/0,4679,7-121-44435---,00.html">Unclaimed Property</a> </li> 
+        <li id="1751" class="id-1751 has-subs"> <a class="lvl1" title="Local Government" href="/treasury/0,4679,7-121-1751---,00.html">Local Government</a> <a title="show sub link for Local Government" href="#ul_1751" data-target-list="ul_1557" class="toggle-sub-list" style="display:none;"></a> 
+         <ul id="ul_1751" class="sub-list"> 
+          <li id="2194" class="id-2194 has-subs"> <a class="lvl2" title="Local Government, Community Engagement and Finance" href="/treasury/0,4679,7-121-1751_2194---,00.html">Community Engagement and Finance</a> <a title="show sub link for Community Engagement and Finance" href="#ul_2194" data-target-list="ul_1751" class="toggle-sub-list" style="display:none;"></a> 
+           <ul id="ul_2194" class="sub-list"> 
+            <li id="84499" class="id-84499 "> <a class="lvl3" title="Local Government, Community Engagement and Finance, Local Retirement Reporting" href="/treasury/0,4679,7-121-1751_2194_84499---,00.html">Local Retirement Reporting</a> </li> 
+           </ul> </li> 
+          <li id="2197" class="id-2197 "> <a class="lvl2" title="Local Government, Revenue Sharing" href="/treasury/0,4679,7-121-1751_2197---,00.html">Revenue Sharing</a> </li> 
+          <li id="2228" class="id-2228 "> <a class="lvl2" title="Local Government, State Tax Commission" href="/treasury/0,4679,7-121-1751_2228---,00.html">State Tax Commission</a> </li> 
+          <li id="51556" class="id-51556 has-subs"> <a class="lvl2" title="Local Government, Local Fiscal Health" href="/treasury/0,4679,7-121-1751_51556---,00.html">Local Fiscal Health</a> <a title="show sub link for Local Fiscal Health" href="#ul_51556" data-target-list="ul_1751" class="toggle-sub-list" style="display:none;"></a> 
+           <ul id="ul_51556" class="sub-list"> 
+            <li id="64472" class="id-64472 "> <a class="lvl3" title="Local Government, Local Fiscal Health, Financial Emergency Information" href="/treasury/0,4679,7-121-1751_51556_64472---,00.html">Financial Emergency Information</a> </li> 
+            <li id="74806" class="id-74806 "> <a class="lvl3" title="Local Government, Local Fiscal Health, School Fiscal Accountability" href="/treasury/0,4679,7-121-1751_51556_74806---,00.html">School Fiscal Accountability</a> </li> 
+            <li id="77310" class="id-77310 "> <a class="lvl3" title="Local Government, Local Fiscal Health, Detroit Financial Review Commission" href="/treasury/0,4679,7-121-1751_51556_77310---,00.html">Detroit Financial Review Commission</a> </li> 
+           </ul> </li> 
+         </ul> </li> 
+        <li id="1753" class="id-1753 has-subs"> <a class="lvl1" title="State and Authority Finance" href="/treasury/0,4679,7-121-1753---,00.html">State and Authority Finance</a> <a title="show sub link for State and Authority Finance" href="#ul_1753" data-target-list="ul_1557" class="toggle-sub-list" style="display:none;"></a> 
+         <ul id="ul_1753" class="sub-list"> 
+          <li id="37610" class="id-37610 "> <a class="lvl2" title="State and Authority Finance, Finance Programs" href="/treasury/0,4679,7-121-1753_37610---,00.html">Finance Programs</a> </li> 
+          <li id="56435" class="id-56435 "> <a class="lvl2" title="State and Authority Finance, School Bond Qualification &amp; Loan" href="/treasury/0,4679,7-121-1753_56435---,00.html">School Bond Qualification &amp; Loan</a> </li> 
+          <li id="66271" class="id-66271 "> <a class="lvl2" title="State and Authority Finance, State Building Authority" href="/treasury/0,4679,7-121-1753_66271---,00.html">State Building Authority</a> </li> 
+          <li id="55952" class="id-55952 "> <a class="lvl2" title="State and Authority Finance, Michigan Finance Authority" href="/treasury/0,4679,7-121-1753_55952---,00.html">Michigan Finance Authority</a> </li> 
+          <li id="37613" class="id-37613 "> <a class="lvl2" title="State and Authority Finance, Additional Information" href="/treasury/0,4679,7-121-1753_37613---,00.html">Additional Information</a> </li> 
+         </ul> </li> 
+        <li id="44402" class="id-44402 has-subs"> <a class="lvl1" title="Reports &amp; Legal" href="/treasury/0,4679,7-121-44402---,00.html">Reports &amp; Legal</a> <a title="show sub link for Reports &amp; Legal" href="#ul_44402" data-target-list="ul_1557" class="toggle-sub-list" style="display:none;"></a> 
+         <ul id="ul_44402" class="sub-list"> 
+          <li id="44404" class="id-44404 "> <a class="lvl2" title="Reports &amp; Legal, Reports" href="/treasury/0,4679,7-121-44402_44404---,00.html">Reports</a> </li> 
+          <li id="44415" class="id-44415 "> <a class="lvl2" title="Reports &amp; Legal, Revenue Administrative Bulletins" href="/treasury/0,4679,7-121-44402_44415---,00.html">Revenue Administrative Bulletins</a> </li> 
+          <li id="44419" class="id-44419 "> <a class="lvl2" title="Reports &amp; Legal, Internal Policy Directives" href="/treasury/0,4679,7-121-44402_44419---,00.html">Internal Policy Directives</a> </li> 
+          <li id="44421" class="id-44421 "> <a class="lvl2" title="Reports &amp; Legal, Legal" href="/treasury/0,4679,7-121-44402_44421---,00.html">Legal</a> </li> 
+          <li id="44422" class="id-44422 "> <a class="lvl2" title="Reports &amp; Legal, Letter Rulings" href="/treasury/0,4679,7-121-44402_44422---,00.html">Letter Rulings</a> </li> 
+          <li id="76517" class="id-76517 "> <a class="lvl2" title="Reports &amp; Legal, Notices" href="/treasury/0,4679,7-121-44402_76517---,00.html">Notices</a> </li> 
+          <li id="80263" class="id-80263 "> <a class="lvl2" title="Reports &amp; Legal, Technical Advice Letter" href="/treasury/0,4679,7-121-44402_80263---,00.html">Technical Advice Letter</a> </li> 
+         </ul> </li> 
+       </ul> 
+      </nav> 
+     </div> 
+     <!-- End Flyout Navigation -->
+     <!-- Left Links -->
+     <!-- End Left Links --> 
+    </div> 
+    <!-- contentWrapper --> 
+    <div id="contentWrapper" class=""> 
+     <!-- main -->
+     <div id="main" class="DW page" role="main"> 
+      <h1 id="breadcrumb" role="navigation" aria-label="breadcrumbs"><span style="display: none" id="breadcrumblabel">You are here</span>
+       <ol class="breadcrumb" aria-labelledby="breadcrumblabel">
+        <li><a href="/treasury/">TREASURY</a></li> 
+        <li><a href="/treasury/0,4679,7-121-44435---,00.html" title="Unclaimed Property">Unclaimed Property</a></li>
+       </ol></h1> 
+      <!-- Body Begin --> 
+      <!-- State Of Michigan - Mon Apr 29 16:25:49 2019 --> 
+      <!--BEGIN MAIN CONTENT AREA-->
+      <div class="DW col1 col-md-8" style="">
+       <!-- ID COMPONENT_104448 -->
+       <!-- Begin CDA Create Content HTML --> 
+       <div class="fullContent">
+        <h2 id="TITLETXT_479666" class="TITLETEXT">Unclaimed Property</h2>
+        <!-- BODY --> 
+        <meta http-equiv="refresh" content="5;url=https://unclaimedproperty.michigan.gov/"> 
+        <p>This page has moved and you will be automatically redirected in 5 seconds. If you page does not redirect, please click this link: <a href="https://unclaimedproperty.michigan.gov/" target="_blank">https://unclaimedproperty.michigan.gov/</a></p> 
+       </div>
+       <!-- /End CDA Create Content-->
+       <!-- /ID COMPONENT_104448 -->
+      </div>
+      <!--END MAIN CONTENT AREA-->
+      <!-- Body End --> 
+     </div> 
+     <!-- START RIGHT_NAV 1557__1557__44435 ~ 7-121-1557__1557__44435--- ~ 7-121-1557__1557__44435--- --> 
+     <div id="rightNav" role="complementary" aria-label="right sidebar" class="no-pad"> 
+      <!-- State Of Michigan - Thu Feb 21 16:07:13 2019 --> 
+      <!-- BEGIN RIGHTNAV HTML CODE  --> 
+      <!-- Agency category -->
+      <!-- Begin Global Nav section RD -->
+      <!-- End Global Nav section RD -->
+      <!-- End My Interests/RightNav Links/Related Content/Right Links --> 
+      <!-- Cache Debug Info
+
+--> 
+      <!-- END RIGHT_NAV --> 
+     </div> 
+    </div>
+    <!-- /contentWrapper --> 
+   </div>
+   <!-- /bodyWrapper --> 
+   <!-- BOTTOMNAV --> 
+   <!-- BEGIN FOOTER RD --> 
+   <div id="footerArea" role="contentinfo" style="clear: both"> 
+    <!-- begin expanded footer -->
+    <div id="expandedFooter">
+     <div id="cat_75218" class="footer_4">
+      <h2>About Treasury</h2>
+      <ul>
+       <li><a href="/treasury/0,4679,7-121-1755-486323--,00.html">Treasurer Rachael Eubanks</a></li>
+       <li><a href="/treasury/0,4679,7-121-1755---,00.html">Deputy Treasurers</a></li>
+       <li><a href="/treasury/0,4679,7-121-1755_65909---,00.html">Public Meetings</a></li>
+       <li><a href="/documents/treasury/Department_of_Treasury_Overview_457185_7.pdf">Treasury Organization Chart</a></li>
+      </ul>
+     </div>
+     <div id="cat_75219" class="footer_4">
+      <h2>Communications</h2>
+      <ul>
+       <li><a href="/treasury/0,4679,7-121--8483--,00.html">Treasury Contact Information</a></li>
+       <li><a href="https://public.govdelivery.com/accounts/MITREAS/subscriber/new?topic_id=MITREAS_18">Sign up for Treasury Email Alerts</a><span><p><a class="dkblue" href="https://public.govdelivery.com/accounts/MITREAS/subscriber/new?topic_id=MITREAS_18" target="_blank" title="Sign up for Treasury Press Releases"><img alt="Sign up for email from Treasury!" src="/images/global/icon-govdelivery-bubble-32x32.png"></a></p> </span></li>
+       <li><a href="/treasury/0,4679,7-121-1755_1963---,00.html">Press Releases</a></li>
+      </ul>
+     </div>
+     <div id="cat_75220" class="footer_4">
+      <h2>Other Resources</h2>
+      <ul>
+       <li><a href="/treasury/0,4679,7-121-1755_37621-5821--,00.html">Investments</a></li>
+       <li><a href="/lottery">Michigan Lottery</a></li>
+       <li><a href="/mgcb">Michigan Gaming Control Board</a></li>
+      </ul>
+     </div>
+     <div id="cat_75224" class="footer_4">
+      <h2>State of Michigan</h2>
+      <ul>
+       <li><a href="/openmichigan/0,4648,7-266-58521_60201_60951---,00.html"></a><span><p><a href="/openmichigan/0,4648,7-266-58521_60201_60951---,00.html"><img alt="Open Michigan Scorecard" src="/images/treasury/Treasury_Scorecard_385135_7.png" style="height:44px; width:150px"></a></p> </span></li>
+      </ul>
+     </div>
+     <div id="agencylinks" class="footer_1">
+      <ul>
+       <li><a href="/treasury/0,4616,7-151----A,00.html">State Web Sites</a></li>
+       <li><a href="/treasury/0,4679,7-121--357926--,00.html">FOIA &amp; Transparency</a></li>
+      </ul>
+     </div>
+     <div id="policylinks" class="footer_1">
+      <ul>
+       <li><a href="/">Michigan.gov Home</a></li>
+       <li><a href="/adaform">ADA</a></li>
+       <li><a href="/minewswire">Michigan News</a></li>
+       <li><a href="/treasury/0,4679,7-121--281460--,00.html">Policies</a></li>
+      </ul>
+     </div>
+    </div>
+    <br>
+    <span class="copyright"><br>Copyright 2019 State of Michigan</span>
+    <!-- end expanded footer -->
+   </div> 
+  </div> 
+  <!--END DIV CONTAINER--> 
+  <!-- stmiws101.prdcloud.fms.ibmcloud.com rjp NT -->   
+ </body>
+</html>

@@ -1,0 +1,2413 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+ <head profile="http://www.w3.org/1999/xhtml/vocab"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"> 
+  <meta http-equiv="X-FRAME-Options" content="deny"> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <link rel="shortcut icon" href="https://www.senate.ca.gov/sites/senate.ca.gov/files/favicon.ico" type="image/vnd.microsoft.icon"> 
+  <link rel="shortlink" href="/node/63276"> 
+  <link rel="canonical" href="/senators"> 
+  <meta name="Generator" content="Drupal 7 (http://drupal.org)"> 
+  <title>Senators | senate.ca.gov</title> 
+  <style type="text/css" media="all">
+@import url("https://www.senate.ca.gov/modules/system/system.base.css?pro5bu");
+@import url("https://www.senate.ca.gov/modules/system/system.menus.css?pro5bu");
+@import url("https://www.senate.ca.gov/modules/system/system.messages.css?pro5bu");
+@import url("https://www.senate.ca.gov/modules/system/system.theme.css?pro5bu");
+</style> 
+  <style type="text/css" media="all">
+@import url("https://www.senate.ca.gov/sites/all/modules/contrib/ldap/ldap_user/ldap_user.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/all/modules/contrib/date/date_api/date.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?pro5bu");
+@import url("https://www.senate.ca.gov/modules/field/theme/field.css?pro5bu");
+@import url("https://www.senate.ca.gov/modules/node/node.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/all/modules/custom/scgmenublock/scgmenublock.css?pro5bu");
+@import url("https://www.senate.ca.gov/modules/user/user.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/all/modules/contrib/views/css/views.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/all/modules/contrib/ckeditor/css/ckeditor.css?pro5bu");
+</style> 
+  <style type="text/css" media="all">
+@import url("https://www.senate.ca.gov/sites/all/modules/contrib/ctools/css/ctools.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/dailyfileparser_d7/css/dfdisplay.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/all/modules/contrib/ldap/ldap_servers/ldap_servers.admin.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/all/modules/custom/lwpslideshow/css/lwpslideshow.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/all/modules/custom/lwpusermenu/css/lwpusermenu.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/scgaudiovideo/css/scgaudiovideo.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/scgcalendar/css/scgcalendar.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/scgcommittees/css/scgcommittees.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/scgoversight/css/scgoversight.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/scgsenators/css/scgsenators.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/wasmediaframework/css/wasmediaframework.css?pro5bu");
+</style> 
+  <style type="text/css" media="all">
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/css/style.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/vendors/bootstrapv320/css/bootstrap.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/vendors/font-awesome-403/css/font-awesome.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/vendors/FlexSlider/flexslider.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/css/main.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/css/fonts/fonts.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/css/audiovideo.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/css/content.css?pro5bu");
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/css/lwpgooglesearch.css?pro5bu");
+</style> 
+  <style type="text/css" media="print">
+@import url("https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/css/print.css?pro5bu");
+</style> 
+  <!--[if lt IE 7]>
+<link type="text/css" rel="stylesheet" href="https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/fix-ie.css?pro5bu" media="all" />
+<![endif]--> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/misc/jquery.js?v=1.4.4"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/misc/jquery-extend-3.4.0.js?v=1.4.4"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/misc/jquery.once.js?v=1.2"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/misc/drupal.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/wasmediaframework/js/doubledownload.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/all/modules/contrib/google_analytics/googleanalytics.js?pro5bu"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-64944606-1", {"cookieDomain":".senate.ca.gov"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/all/modules/custom/wasjwplayer/js/wasjwplayer.init.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/vendors/jquery-ui/js/jquery-1.10.2.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/vendors/jquery-ui/js/jquery-ui-1.10.4.custom.min.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/vendors/jquery-ui/js/jquery-migrate-1.2.1.min.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/vendors/bootstrapv320/js/bootstrap.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/vendors/jquery-scrollbox/jquery.scrollbox.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/vendors/smooth-div-scroll/js/jquery.mousewheel.min.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/vendors/FlexSlider/jquery.flexslider-min.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/scripts/modernizr.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/scripts/jquery.noconflict.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/scripts/main.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/themes/scg2014/scripts/audiovideo.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/all/modules/custom/lwpslideshow/js/lwpslideshow.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/scgaudiovideo/js/swfobject.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/scgaudiovideo/js/player.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/scgaudiovideo/js/scgaudiovideo.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/scgcalendar/js/scgcalendar.calendar.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/scgcommittees/js/scgcommittees.js?pro5bu"></script> 
+  <script type="text/javascript" src="https://www.senate.ca.gov/sites/senate.ca.gov/modules/custom/scgsenators/js/scgsenators.js?pro5bu"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"scg2014","theme_token":"VXRMf8XEJ3aPB1W7oxjKEUGXshNOOIPU271G-5I1HuU","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/senate.ca.gov\/modules\/custom\/wasmediaframework\/js\/doubledownload.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/custom\/wasjwplayer\/js\/wasjwplayer.init.js":1,"sites\/senate.ca.gov\/themes\/scg2014\/vendors\/jquery-ui\/js\/jquery-1.10.2.js":1,"sites\/senate.ca.gov\/themes\/scg2014\/vendors\/jquery-ui\/js\/jquery-ui-1.10.4.custom.min.js":1,"sites\/senate.ca.gov\/themes\/scg2014\/vendors\/jquery-ui\/js\/jquery-migrate-1.2.1.min.js":1,"sites\/senate.ca.gov\/themes\/scg2014\/vendors\/bootstrapv320\/js\/bootstrap.js":1,"sites\/senate.ca.gov\/themes\/scg2014\/vendors\/jquery-scrollbox\/jquery.scrollbox.js":1,"sites\/senate.ca.gov\/themes\/scg2014\/vendors\/smooth-div-scroll\/js\/jquery.mousewheel.min.js":1,"sites\/senate.ca.gov\/themes\/scg2014\/vendors\/FlexSlider\/jquery.flexslider-min.js":1,"sites\/senate.ca.gov\/themes\/scg2014\/scripts\/modernizr.js":1,"sites\/senate.ca.gov\/themes\/scg2014\/scripts\/jquery.noconflict.js":1,"sites\/senate.ca.gov\/themes\/scg2014\/scripts\/main.js":1,"sites\/senate.ca.gov\/themes\/scg2014\/scripts\/audiovideo.js":1,"sites\/all\/modules\/custom\/lwpslideshow\/js\/lwpslideshow.js":1,"sites\/senate.ca.gov\/modules\/custom\/scgaudiovideo\/js\/swfobject.js":1,"sites\/senate.ca.gov\/modules\/custom\/scgaudiovideo\/js\/player.js":1,"sites\/senate.ca.gov\/modules\/custom\/scgaudiovideo\/js\/scgaudiovideo.js":1,"sites\/senate.ca.gov\/modules\/custom\/scgcalendar\/js\/scgcalendar.calendar.js":1,"sites\/senate.ca.gov\/modules\/custom\/scgcommittees\/js\/scgcommittees.js":1,"sites\/senate.ca.gov\/modules\/custom\/scgsenators\/js\/scgsenators.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/ldap\/ldap_user\/ldap_user.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/scgmenublock\/scgmenublock.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/senate.ca.gov\/modules\/custom\/dailyfileparser_d7\/css\/dfdisplay.css":1,"sites\/all\/modules\/contrib\/ldap\/ldap_servers\/ldap_servers.admin.css":1,"sites\/all\/modules\/custom\/lwpgooglesearch\/lwpgooglesearch.css":1,"sites\/all\/modules\/custom\/lwpslideshow\/css\/lwpslideshow.css":1,"sites\/all\/modules\/custom\/lwpusermenu\/css\/lwpusermenu.css":1,"sites\/senate.ca.gov\/modules\/custom\/scgaudiovideo\/css\/scgaudiovideo.css":1,"sites\/senate.ca.gov\/modules\/custom\/scgcalendar\/css\/scgcalendar.css":1,"sites\/senate.ca.gov\/modules\/custom\/scgcommittees\/css\/scgcommittees.css":1,"sites\/senate.ca.gov\/modules\/custom\/scgoversight\/css\/scgoversight.css":1,"sites\/senate.ca.gov\/modules\/custom\/scgsenators\/css\/scgsenators.css":1,"sites\/senate.ca.gov\/modules\/custom\/wasmediaframework\/css\/wasmediaframework.css":1,"sites\/senate.ca.gov\/themes\/scg2014\/css\/style.css":1,"sites\/senate.ca.gov\/themes\/scg2014\/vendors\/bootstrapv320\/css\/bootstrap.css":1,"sites\/senate.ca.gov\/themes\/scg2014\/vendors\/font-awesome-403\/css\/font-awesome.css":1,"sites\/senate.ca.gov\/themes\/scg2014\/vendors\/FlexSlider\/flexslider.css":1,"sites\/senate.ca.gov\/themes\/scg2014\/css\/main.css":1,"sites\/senate.ca.gov\/themes\/scg2014\/css\/fonts\/fonts.css":1,"sites\/senate.ca.gov\/themes\/scg2014\/css\/audiovideo.css":1,"sites\/senate.ca.gov\/themes\/scg2014\/css\/content.css":1,"sites\/senate.ca.gov\/themes\/scg2014\/css\/lwpgooglesearch.css":1,"sites\/senate.ca.gov\/themes\/scg2014\/css\/print.css":1,"sites\/senate.ca.gov\/themes\/scg2014\/fix-ie.css":1}},"wasencoderinterface":{"oneClickToggle":"disabled","refreshTimeout":"60","refreshInterval":"10","conductorIp":"senencmgr01.calegis.net","conductorApiKey":"s3Wi3gLyJLrHcq1uJaJR"},"wasjwplayer":{"files":{"js":["\/sites\/all\/modules\/custom\/wasjwplayer\/vendors\/jwplayer\/jwplayer.js","\/sites\/all\/modules\/custom\/wasjwplayer\/js\/wasjwplayer.jwplayer.menu.js"],"css":["sites\/all\/modules\/custom\/wasjwplayer\/css\/wasjwplayer.jwplayer.menu.css","sites\/all\/modules\/custom\/wasjwplayer\/css\/wasjwplayer.css"],"images":{"arrow_white":"\/sites\/all\/modules\/custom\/wasjwplayer\/css\/arrow-white.png","copy_white":"\/sites\/all\/modules\/custom\/wasjwplayer\/css\/copy-white.png","time_white":"\/sites\/all\/modules\/custom\/wasjwplayer\/css\/time-white.png"}},"jwplayer_flash":"\/sites\/all\/modules\/custom\/wasjwplayer\/vendors\/jwplayer\/jwplayer.flash.swf","jwplayer_key":"D8HCIANpsYEo10RoCyq9Zavl0JFnnC09YUX\/v6oWlYqPfytg","jwplayer_aspectratio":"16:9","jwplayer_height":"","jwplayer_width":"100%","jwplayer_stretching":"uniform","jwplayer_hlshtml":0,"jwplayer_primary":"html5","jwplayer_autostart":0,"jwplayer_repeat":0},"urlIsAjaxTrusted":{"\/senators":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"}});
+//--><!]]>
+</script> 
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries --> 
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// --> 
+  <!--[if lt IE 9]>
+    <link rel="stylesheet" type="text/css" href="/sites/senate.ca.gov/themes/scg2014/css/ie.css" />
+  <![endif]--> 
+  <script>NS_CSM_td=275489977;NS_CSM_pd=275116664;NS_CSM_u="/clm10";NS_CSM_an="act_APPFLOW_SPLUNK_LOGGING";</script>
+  <script type="text/javascript">function sendTimingInfoInit(){setTimeout(sendTimingInfo,0)}function sendTimingInfo(){var wp=window.performance;if(wp){var c1,c2,t;c1=wp.timing;if(c1){var cm={};cm.ns=c1.navigationStart;if((t=c1.unloadEventStart)>0)cm.us=t;if((t=c1.unloadEventEnd)>0)cm.ue=t;if((t=c1.redirectStart)>0)cm.rs=t;if((t=c1.redirectEnd)>0)cm.re=t;cm.fs=c1.fetchStart;cm.dls=c1.domainLookupStart;cm.dle=c1.domainLookupEnd;cm.cs=c1.connectStart;cm.ce=c1.connectEnd;if((t=c1.secureConnectionStart)>0)cm.scs=t;cm.rqs=c1.requestStart;cm.rss=c1.responseStart;cm.rse=c1.responseEnd;cm.dl=c1.domLoading;cm.di=c1.domInteractive;cm.dcls=c1.domContentLoadedEventStart;cm.dcle=c1.domContentLoadedEventEnd;cm.dc=c1.domComplete;if((t=c1.loadEventStart)>0)cm.ls=t;if((t=c1.loadEventEnd)>0)cm.le=t;cm.tid=NS_CSM_td;cm.pid=NS_CSM_pd;cm.ac=NS_CSM_an;var xhttp=new XMLHttpRequest();if(xhttp){var JSON=JSON||{};JSON.stringify=JSON.stringify||function(ob){var t=typeof(ob);if(t!="object"||ob===null){if(t=="string")ob='"'+ob+'"';return String(ob);}else{var n,v,json=[],arr=(ob&&ob.constructor==Array);for(n in ob){v=ob[n];t=typeof(v);if(t=="string")v='"'+v+'"';else if(t=="object"&&v!==null)v=JSON.stringify(v);json.push((arr?"":'"'+n+'":')+String(v));}return(arr?"[":"{")+String(json)+(arr?"]":"}");}};xhttp.open("POST",NS_CSM_u,true);xhttp.send(JSON.stringify(cm));}}}}if(window.addEventListener)window.addEventListener("load",sendTimingInfoInit,false);else if(window.attachEvent)window.attachEvent("onload",sendTimingInfoInit);else window.onload=sendTimingInfoInit;</script>
+ </head> 
+ <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-63276 node-type-page"> 
+  <div id="skip-link"> 
+   <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a> 
+  </div> 
+  <div id="page"> 
+   <div id="wrapper"> 
+    <!-- #header --> 
+    <header> 
+     <div class="header-wrapper"> 
+      <div id="skipto" class="sr-only"> 
+       <ul> 
+        <li class="sr-only">Skip to: <a href="#middle_column">CONTENT</a> | </li> 
+        <li class="sr-only"><a href="#footer">FOOTER</a> | </li> 
+        <li class="sr-only"><a href="/sitemap">SITE MAP</a> | </li> 
+       </ul> 
+      </div> 
+      <div class="searchform-wrapper col-xs-12"> 
+       <div class="senateticker-wrapper col-xs-9"> 
+        <div class="senateticker col-xs-3 livestreamlink"> 
+         <a href="/calendar">Live Streams</a> 
+        </div> 
+        <div class="senateticker col-xs-3 ">
+         <a href="/media-archive">Media Archive</a>
+        </div> 
+        <div class="senateticker col-xs-3 ">
+         <a href="https://annex.assembly.ca.gov/">Capitol Annex</a>
+        </div> 
+        <div class="senateticker col-xs-3">
+         <a onclick="return googletranslatedisclaimer()" href="http://translate.google.com/#auto|es|www.senate.ca.gov" class="translate">Translate this site</a>
+        </div> 
+       </div> 
+       <div class="searchform col-xs-3"> 
+        <form id="searchform" action="/search" method="get" class="col-xs-3"> 
+         <label for="search-field" class="col-xs-1"><i class="fa-search"></i></label> 
+         <input class="search-field col-xs-11" type="text" placeholder="Enter your search terms here..." name="search_api_views_fulltext"> 
+         <button type="submit" class="sr-only" title="site search submit button"></button> 
+        </form> 
+       </div> 
+      </div> 
+      <div class="banner senate-red col-xs-12"> 
+       <img class="banner-seal" src="/sites/senate.ca.gov/themes/scg2014/images/senateseal75.png" alt="california state senate seal"> 
+       <div class="banner-sitename">
+        <a href="/">California State Senate</a>
+       </div> 
+      </div> 
+      <nav id="header-navigation" aria-label="Main menu"> 
+       <h2 class="element-invisible">Main menu</h2>
+       <ul class="nav nav-pills nav-justified" role="menubar" tabindex="0">
+        <li class="menu-218 first dropdown" role="menuitem"><a href="/">Home</a></li> 
+        <li class="menu-340 active-trail active dropdown" role="menuitem"><a href="/senators" class="active-trail active">Senators</a>
+         <ul class="dropdown-menu" role="menu" aria-hidden="true">
+          <li role="menuitem" tabindex="-1"><a href="/leadership">Senate Leadership</a></li>
+          <li role="menuitem" tabindex="-1"><a href="http://findyourrep.legislature.ca.gov/">Find My Senator</a></li>
+          <li role="menuitem" tabindex="-1"><a href="/senators" class="active">Senate Roster</a></li>
+          <li role="menuitem" tabindex="-1"><a href="http://senate.ca.gov/sites/senate.ca.gov/files/2019-20_senate_counties_represented.pdf">County Representation</a></li>
+         </ul></li> 
+        <li class="menu-347 dropdown" role="menuitem"><a href="/committees">Committees, Offices &amp; Caucuses</a>
+         <ul class="dropdown-menu" role="menu" aria-hidden="true">
+          <li role="menuitem" tabindex="-1"><a href="/committees">Committees</a></li>
+          <li role="menuitem" tabindex="-1"><a href="/officescaucuses">Offices &amp; Caucuses</a></li>
+         </ul></li> 
+        <li class="menu-346 dropdown" role="menuitem"><a href="/schedulespublications">Publications</a>
+         <ul class="dropdown-menu" role="menu" aria-hidden="true">
+          <li role="menuitem" tabindex="-1"><a href="/dailyfile">Daily File</a></li>
+          <li role="menuitem" tabindex="-1"><a href="/dailyjournals">Daily Journal</a></li>
+          <li role="menuitem" tabindex="-1"><a href="/content/senate-histories">Senate Histories</a></li>
+          <li role="menuitem" tabindex="-1"><a href="http://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=CONS&amp;tocTitle=+California+Constitution+-+CONS">California State Constitution</a></li>
+          <li role="menuitem" tabindex="-1"><a href="http://senate.ca.gov/sites/senate.ca.gov/files/2017-18_joint_legislative_handbook_0.pdf">Legislative Handbook</a></li>
+          <li role="menuitem" tabindex="-1"><a href="/schedulespublications">More...</a></li>
+         </ul></li> 
+        <li class="menu-348 dropdown" role="menuitem"><a href="/media">Media</a>
+         <ul class="dropdown-menu" role="menu" aria-hidden="true">
+          <li role="menuitem" tabindex="-1"><a href="/tvschedule">TV Schedule</a></li>
+          <li role="menuitem" tabindex="-1"><a href="https://senate.ca.gov/sites/senate.ca.gov/files/accreditedpress.pdf">Accredited Press</a></li>
+          <li role="menuitem" tabindex="-1"><a href="/media-archive">Media Archive</a></li>
+         </ul></li> 
+        <li class="menu-349 dropdown" role="menuitem"><a href="/citizensguide">Citizens' Guide</a>
+         <ul class="dropdown-menu" role="menu" aria-hidden="true">
+          <li role="menuitem" tabindex="-1"><a href="/legislativeprocess">Legislative Process</a></li>
+          <li role="menuitem" tabindex="-1"><a href="http://senate.ca.gov/sites/senate.ca.gov/files/the%20budget%20process.pdf">Budget Process</a></li>
+          <li role="menuitem" tabindex="-1"><a href="http://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=CONS&amp;tocTitle=+California+Constitution+-+CONS">California Constitution</a></li>
+          <li role="menuitem" tabindex="-1"><a href="/citizensguide">Rules</a></li>
+          <li role="menuitem" tabindex="-1"><a href="/faq">FAQs</a></li>
+          <li role="menuitem" tabindex="-1"><a href="/citizensguide">More...</a></li>
+         </ul></li> 
+        <li class="menu-350 dropdown" role="menuitem"><a href="/quicklinks">Quick Links</a>
+         <ul class="dropdown-menu" role="menu" aria-hidden="true">
+          <li role="menuitem" tabindex="-1"><a href="http://gov.ca.gov/home.php">Governor Of California</a></li>
+          <li role="menuitem" tabindex="-1"><a href="http://www.ltg.ca.gov/">Lieutenant Governor of California</a></li>
+          <li role="menuitem" tabindex="-1"><a href="http://assembly.ca.gov/">California State Assembly</a></li>
+          <li role="menuitem" tabindex="-1"><a href="http://congress.gov">U.S. Congress Information</a></li>
+          <li role="menuitem" tabindex="-1"><a href="http://www.sos.ca.gov/">Secretary of State</a></li>
+          <li role="menuitem" tabindex="-1"><a href="/quicklinks">More...</a></li>
+         </ul></li> 
+        <li class="menu-408 dropdown" role="menuitem"><a href="http://archive.senate.ca.gov" title="">Archive</a>
+         <ul class="dropdown-menu" role="menu" aria-hidden="true">
+          <li role="menuitem" tabindex="-1"><a href="http://archive.senate.ca.gov/member-archives">Member Archives</a></li>
+          <li role="menuitem" tabindex="-1"><a href="http://archive.senate.ca.gov/committee-archives">Committee Archives</a></li>
+          <li role="menuitem" tabindex="-1"><a href="http://secretary.senate.ca.gov/californiabluebook18502000">Historical Record</a></li>
+         </ul></li> 
+        <li class="menu-443 last dropdown" role="menuitem"><a href="/calendar">calendar</a>
+         <ul class="dropdown-menu" role="menu" aria-hidden="true">
+          <li role="menuitem" tabindex="-1"><a href="/legdeadlines">Legislative Calendar &amp; Deadlines</a></li>
+         </ul></li> 
+       </ul> 
+      </nav> 
+      <!-- phonenav --> 
+      <nav id="mobile-nav"> 
+       <div class="phone-menu-toggle clearfix"> 
+        <div class="phone-menu-right-side">
+         <i class="fa-align-justify"></i>
+        </div> 
+       </div>
+       <h2 class="element-invisible">Custom menu</h2>
+       <ul class="phone-menu-wrapper unstyled">
+        <li class="menu-218 first">
+         <div class="phone-menu-item clearfix">
+          <a href="/">Home</a>
+         </div></li> 
+        <li class="menu-340 active-trail active">
+         <div class="phone-menu-item clearfix">
+          <a href="/senators" class="active-trail active">Senators<i class="fa-chevron-down menu-toggle"></i></a>
+         </div>
+         <ul class="phone-submenu-wrapper unstyled">
+          <li class="nav-row"><a href="/leadership">Senate Leadership</a></li>
+          <li class="nav-row"><a href="http://findyourrep.legislature.ca.gov/">Find My Senator</a></li>
+          <li class="nav-row"><a href="/senators" class="active">Senate Roster</a></li>
+          <li class="nav-row"><a href="http://senate.ca.gov/sites/senate.ca.gov/files/2019-20_senate_counties_represented.pdf">County Representation</a></li>
+         </ul></li> 
+        <li class="menu-347">
+         <div class="phone-menu-item clearfix">
+          <a href="/committees">Committees, Offices &amp; Caucuses<i class="fa-chevron-down menu-toggle"></i></a>
+         </div>
+         <ul class="phone-submenu-wrapper unstyled">
+          <li class="nav-row"><a href="/committees">Committees</a></li>
+          <li class="nav-row"><a href="/officescaucuses">Offices &amp; Caucuses</a></li>
+         </ul></li> 
+        <li class="menu-346">
+         <div class="phone-menu-item clearfix">
+          <a href="/schedulespublications">Publications<i class="fa-chevron-down menu-toggle"></i></a>
+         </div>
+         <ul class="phone-submenu-wrapper unstyled">
+          <li class="nav-row"><a href="/dailyfile">Daily File</a></li>
+          <li class="nav-row"><a href="/dailyjournals">Daily Journal</a></li>
+          <li class="nav-row"><a href="/content/senate-histories">Senate Histories</a></li>
+          <li class="nav-row"><a href="http://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=CONS&amp;tocTitle=+California+Constitution+-+CONS">California State Constitution</a></li>
+          <li class="nav-row"><a href="http://senate.ca.gov/sites/senate.ca.gov/files/2017-18_joint_legislative_handbook_0.pdf">Legislative Handbook</a></li>
+          <li class="nav-row"><a href="/schedulespublications">More...</a></li>
+         </ul></li> 
+        <li class="menu-348">
+         <div class="phone-menu-item clearfix">
+          <a href="/media">Media<i class="fa-chevron-down menu-toggle"></i></a>
+         </div>
+         <ul class="phone-submenu-wrapper unstyled">
+          <li class="nav-row"><a href="/tvschedule">TV Schedule</a></li>
+          <li class="nav-row"><a href="https://senate.ca.gov/sites/senate.ca.gov/files/accreditedpress.pdf">Accredited Press</a></li>
+          <li class="nav-row"><a href="/media-archive">Media Archive</a></li>
+         </ul></li> 
+        <li class="menu-349">
+         <div class="phone-menu-item clearfix">
+          <a href="/citizensguide">Citizens' Guide<i class="fa-chevron-down menu-toggle"></i></a>
+         </div>
+         <ul class="phone-submenu-wrapper unstyled">
+          <li class="nav-row"><a href="/legislativeprocess">Legislative Process</a></li>
+          <li class="nav-row"><a href="http://senate.ca.gov/sites/senate.ca.gov/files/the%20budget%20process.pdf">Budget Process</a></li>
+          <li class="nav-row"><a href="http://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=CONS&amp;tocTitle=+California+Constitution+-+CONS">California Constitution</a></li>
+          <li class="nav-row"><a href="/citizensguide">Rules</a></li>
+          <li class="nav-row"><a href="/faq">FAQs</a></li>
+          <li class="nav-row"><a href="/citizensguide">More...</a></li>
+         </ul></li> 
+        <li class="menu-350">
+         <div class="phone-menu-item clearfix">
+          <a href="/quicklinks">Quick Links<i class="fa-chevron-down menu-toggle"></i></a>
+         </div>
+         <ul class="phone-submenu-wrapper unstyled">
+          <li class="nav-row"><a href="http://gov.ca.gov/home.php">Governor Of California</a></li>
+          <li class="nav-row"><a href="http://www.ltg.ca.gov/">Lieutenant Governor of California</a></li>
+          <li class="nav-row"><a href="http://assembly.ca.gov/">California State Assembly</a></li>
+          <li class="nav-row"><a href="http://congress.gov">U.S. Congress Information</a></li>
+          <li class="nav-row"><a href="http://www.sos.ca.gov/">Secretary of State</a></li>
+          <li class="nav-row"><a href="/quicklinks">More...</a></li>
+         </ul></li> 
+        <li class="menu-408">
+         <div class="phone-menu-item clearfix">
+          <a href="http://archive.senate.ca.gov" title="">Archive<i class="fa-chevron-down menu-toggle"></i></a>
+         </div>
+         <ul class="phone-submenu-wrapper unstyled">
+          <li class="nav-row"><a href="http://archive.senate.ca.gov/member-archives">Member Archives</a></li>
+          <li class="nav-row"><a href="http://archive.senate.ca.gov/committee-archives">Committee Archives</a></li>
+          <li class="nav-row"><a href="http://secretary.senate.ca.gov/californiabluebook18502000">Historical Record</a></li>
+         </ul></li> 
+        <li class="menu-443 last">
+         <div class="phone-menu-item clearfix">
+          <a href="/calendar">calendar<i class="fa-chevron-down menu-toggle"></i></a>
+         </div>
+         <ul class="phone-submenu-wrapper unstyled">
+          <li class="nav-row"><a href="/legdeadlines">Legislative Calendar &amp; Deadlines</a></li>
+         </ul></li> 
+       </ul> 
+      </nav> 
+      <!-- end #phone nav --> 
+     </div> 
+    </header> 
+    <!-- end #header --> 
+    <div class="main-container"> 
+     <!--messages--> 
+     <!--middle column--> 
+     <div class="column-wrapper"> 
+      <div class="middle-column col-md-9 col-md-push-3"> 
+       <div id="breadcrumb-container">
+        <h2 class="element-invisible">You are here</h2>
+        <ol class="breadcrumb">
+         <li><a href="/">Home</a> </li>
+         <li> <a href="/senators" class="active">Senators</a> </li>
+         <li> <a href="/senators" class="active">Senators</a></li>
+        </ol>
+       </div> 
+       <a id="main-content"></a> 
+       <!--tabs--> 
+       <div class="tabs"> 
+       </div> 
+       <h1 class="title" id="page-title"> Senators </h1> 
+       <!--content--> 
+       <div class="region region-content"> 
+        <div id="block-system-main" class="block block-system clearfix"> 
+         <div class="content"> 
+          <div id="node-63276" class="node node-page clearfix" about="/senators" typeof="foaf:Document"> 
+           <span property="dc:title" content="Senators" class="rdf-meta element-hidden"></span> 
+           <div class="content"> 
+            <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+             <div class="field-items">
+              <div class="field-item even" property="content:encoded">
+               <div class="dont-print" style="background: #eee; position: relative; float: right; padding-bottom: 10px; padding-top: 2px; padding-left: 10px; margin: 10px; top: -45px; padding-right: 10px"> 
+                <h3>Current Membership:</h3> 
+                <h5>28 Democrats</h5> 
+                <h5>10 Republicans</h5> 
+                <h5>&nbsp; 2 Vacancies</h5> 
+                <h5>&nbsp;Each Senator represents 931,349 Californians.</h5> 
+               </div> 
+               <p class="dont-print">On each Senator's Home Page you will find his/her contact information, Capitol and District addresses and phone numbers, a map of the district, the Member's biography, a list of all the legislation authored by that Senator, his/her committee memberships, press releases and other publications, district links, and more. Please note that not all Senators wish to have a public email address.</p> 
+              </div>
+             </div>
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <div id="block-scgsenators-senators-filter" class="block block-scgsenators clearfix"> 
+         <div class="content"> 
+          <div id="senator-filter" class="panel panel-default"> 
+           <div class="panel-heading"> 
+            <div class="row"> 
+             <div class="col-xs-4"> 
+              <label> <input id="senator-photo-filter" type="checkbox" checked> Senator Photo </label> 
+             </div> 
+             <div class="col-xs-4"> 
+              <label> <input id="senator-cap-office-filter" type="checkbox" checked> Capitol Office Address </label> 
+             </div> 
+             <div class="col-xs-4"> 
+              <label> <input id="senator-dis-office-filter" type="checkbox" checked> District Office Address </label> 
+             </div> 
+            </div> 
+            <div class="row"> 
+             <div class="col-xs-9"> 
+              <a href="/senators?sortbyalpha=DESC" type="button" class="btn btn-danger btn-sm senate-style" role="button">Alphabetical <span class="glyphicon glyphicon-arrow-up"></span> </a> 
+              <a href="/senators?sortbydistrict=ASC" type="button" class="btn btn-danger btn-sm senate-style" role="button">By District </a> 
+              <a href="/senators?sortbyparty=ASC" type="button" class="btn btn-danger btn-sm senate-style" role="button">By Party </a> 
+             </div> 
+             <div class="col-xs-3"> 
+              <button type="button" class="btn btn-default btn-sm pull-right printme">Print</button> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <div id="block-views-senator-roster-block" class="block block-views clearfix"> 
+         <div class="content"> 
+          <div class="view view-senator-roster view-id-senator_roster view-display-id-block view-dom-id-c714cc442737ff120bb0f2bc707e963f"> 
+           <div class="view-content"> 
+            <div class="views-row views-row-1 views-row-odd views-row-first clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/ben-allen.jpg" width="153" height="214" alt="Senator Benjamin Allen" title="Senator Benjamin Allen">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Benjamin Allen (D)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 26
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="http://sd26.senate.ca.gov/"><span class="sr-only"> Senator <h3>Benjamin Allen (D)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD26&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>Benjamin Allen (D)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 4076, Sacramento, CA 95814-4900; (916) 651-4026<br> &nbsp;</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Office</h3> 
+                <p>2512 Artesia Blvd., Suite 320, Redondo Beach, CA 90278; (310) 318-6994</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-2 views-row-even clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/archuleta_bob.jpg" width="153" height="214" alt="Senator Bob Archuleta" title="Senator Bob Archuleta">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Bob Archuleta (D)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 32
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="https://senate.ca.gov/sd32"><span class="sr-only"> Senator <h3>Bob Archuleta (D)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD32&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>Bob Archuleta (D)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 4066, Sacramento, CA 95814-4900; (916) 651-4032</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Office</h3> 
+                <p>12501 Imperial Highway, Suite 110, Norwalk, CA 90650; (562) 406-1001</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-3 views-row-odd clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/atkins_toni.jpg" width="153" height="214" alt="Senator Toni G. Atkins" title="Senator Toni G. Atkins">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Toni G. Atkins (D)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 39
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="http://sd39.senate.ca.gov"><span class="sr-only"> Senator <h3>Toni G. Atkins (D)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD39&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>Toni G. Atkins (D)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 205, Sacramento, CA 95814-4900; (916) 651-4039</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Office</h3> 
+                <p>1350 Front Street, Suite 4061, San Diego, CA 92101; (619) 645-3133</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-4 views-row-even clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/bates-patricia.jpg" width="153" height="214" alt="Senator Patricia C. Bates" title="Senator Patricia C. Bates">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Patricia C. Bates (R)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 36
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="http://senate.ca.gov/sd36"><span class="sr-only"> Senator <h3>Patricia C. Bates (R)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD36&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>Patricia C. Bates (R)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 3048, Sacramento, CA 95814-4900; (916) 651-4036</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Office</h3> 
+                <p>24031 El Toro Road, Suite 201A, Laguna Hills, CA 92653; (949) 598-5850<br> 169 Saxony Road, Suite 103, Encinitas, CA 92024; (760) 642-0809<br> &nbsp;</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-5 views-row-odd clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/beall-jim_0.jpg" width="153" height="214" alt="Senator Jim Beall" title="Senator Jim Beall">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Jim Beall (D)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 15
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="http://sd15.senate.ca.gov"><span class="sr-only"> Senator <h3>Jim Beall (D)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD15&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>Jim Beall (D)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 2082, Sacramento, CA 95814-4900; (916) 651-4015</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Office</h3> 
+                <p>2105 S. Bascom Avenue,&nbsp;Suite 154, Campbell, CA 95008; (408) 558-1295<br> 100 Paseo de San Antonio, Suite 209, San Jose, CA 95113; (408) 286-8318<br> &nbsp;</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-6 views-row-even clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/official_portrait_cropped_borgeas_4623_llsed1_2.jpg" width="153" height="214" alt="">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Andreas Borgeas (R)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 08
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="https://senate.ca.gov/sd08"><span class="sr-only"> Senator <h3>Andreas Borgeas (R)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD08&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>Andreas Borgeas (R)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 3082, Sacramento, CA 95814-4900; (916) 651-4008</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Office</h3> 
+                <p>567 W.&nbsp;Shaw Avenue, Suite A-3, Fresno, CA 93704; (559) 243-8580<br> 102 Grove Avenue, Suite B, Oakdale, CA 95361; (209) 848-8001<br> 460 Sutter Hill Road, Suite C, Sutter Creek, CA 95685; (209) 267-5033</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-7 views-row-odd clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/bradford.jpg" width="153" height="214" alt="Senator Steven Bradford" title="Senator Steven Bradford">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Steven Bradford (D)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 35
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="http://sd35.senate.ca.gov"><span class="sr-only"> Senator <h3>Steven Bradford (D)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD35&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>Steven Bradford (D)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 2059,&nbsp;Sacramento, CA 95814-4900; (916) 651-4035</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Office</h3> 
+                <p>One Manchester Blvd., Suite 600, Inglewood, CA 90301; (310) 412-6120<br> 302 W. 5th Street, Suite&nbsp;203 San Pedro, CA 90731. (310) 514-8573</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-8 views-row-even clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/2016-ad30_annacaballero.jpg" width="150" height="214" alt="Senator Anna M. Caballero" title="Senator Anna M. Caballero">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Anna M. Caballero (D)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 12
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="https://senate.ca.gov/sd12"><span class="sr-only"> Senator <h3>Anna M. Caballero (D)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD12&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>Anna M. Caballero (D)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 5052, Sacramento, CA 95814-4900; (916) 651-4012</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Offices</h3> 
+                <p>1640 N. Street, Suite 210, Merced, CA 95340; (209) 726-5495<br> 132 W. Gabilan Street, Suite 101, Salinas, CA 93901; (831) 769-8040</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-9 views-row-odd clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/180625_chang_150x220.jpg" width="150" height="200" alt="Senator Ling Ling Chang" title="Senator Ling Ling Chang">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Ling Ling Chang (R)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 29
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="http://senate.ca.gov/sd29"><span class="sr-only"> Senator <h3>Ling Ling Chang (R)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD29&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>Ling Ling Chang (R)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 4062, Sacramento, CA 95814-4900; (916) 651-4029</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Office</h3> 
+                <p>1800 E. Lambert Road, Suite 150,&nbsp;Brea, CA 92821; (714) 671-9474</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-10 views-row-even clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/dodd.jpg" width="153" height="214" alt="Senator Bill Dodd" title="Senator Bill Dodd">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Bill Dodd (D)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 03
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="http://sd03.senate.ca.gov"><span class="sr-only"> Senator <h3>Bill Dodd (D)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD03&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>Bill Dodd (D)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 4032, Sacramento, CA 95814-4900; (916) 651-4003</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Offices</h3> 
+                <p>2721 Napa Valley Corporate Drive, Building 4, Napa, CA 94558; (707) 224-1990<br> 555 Mason Street, Suite 275, Vacaville, CA 95688; (707) 454-3808<br> 420 Virginia Street, Suite 1-C, Vallejo, CA 94590; (707) 551-2389<br> 50 D Street, Suite 300, Santa Rosa, CA&nbsp;95404; (707) 576-2093</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-11 views-row-odd clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator_durazo.jpg" width="153" height="214" alt="Senator Maria Elena Durazo" title="Senator Maria Elena Durazo">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Maria Elena Durazo (D)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 24
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="https://senate.ca.gov/sd24"><span class="sr-only"> Senator <h3>Maria Elena Durazo (D)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD24&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>Maria Elena Durazo (D)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 5066, Sacramento, CA 95814-4900; (916) 651-4024</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Office</h3> 
+                <p>1808 W.&nbsp;Sunset Blvd., Los Angeles, CA 90026; (213) 483-9300</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-12 views-row-even clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/galgiani-cathleen.jpg" width="153" height="214" alt="Senator Cathleen Galgiani" title="Senator Cathleen Galgiani">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Cathleen Galgiani (D)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 05
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="http://sd05.senate.ca.gov"><span class="sr-only"> Senator <h3>Cathleen Galgiani (D)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD05&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>Cathleen Galgiani (D)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 5097, Sacramento, CA 95814-4900; (916) 651-4005</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Offices</h3> 
+                <p>31 E. Channel Street, Suite 440, Stockton, CA 95202; (209) 948-7930<br> 1010 10th Street, Suite 5800, Modesto, CA 95354; (209) 576-6273<br> &nbsp;</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-13 views-row-odd clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/glazer-steven.jpg" width="153" height="214" alt="Senator Steven M. Glazer" title="Senator Steven M. Glazer">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Steven M. Glazer (D)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 07
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="http://sd07.senate.ca.gov/"><span class="sr-only"> Senator <h3>Steven M. Glazer (D)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD07&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>Steven M. Glazer (D)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 5108, Sacramento, CA 95814-4900; (916) 651-4007</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Offices</h3> 
+                <p>51 Moraga Way, Suite 2, Orinda, CA 94563; (925) 258-1176<br> 420 W. 3rd Street, Antioch, CA 94509; (925) 754-1461&nbsp;&nbsp;</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-14 views-row-even clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator_grove.jpg" width="153" height="214" alt="Senator Shannon Grove" title="Senator Shannon Grove">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Shannon Grove (R)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 16
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="https://senate.ca.gov/sd16"><span class="sr-only"> Senator <h3>Shannon Grove (R)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD16&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>Shannon Grove (R)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 305, Sacramento, CA 95814-4900; (916) 651-4016</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Office</h3> 
+                <p>5701 Truxtun Avenue, Suite 150, Bakersfield, CA 93309; (661) 323-0443<br> 7248 Joshua Lane, Suite B, Yucca Valley, CA 92284; (760) 228-3136</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-15 views-row-odd clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/hertzberg_0705_lls_hsedcr.jpg" width="153" height="214" alt="Senator Robert M. Hertzberg" title="Senator Robert M. Hertzberg">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Robert M. Hertzberg (D)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 18
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="http://sd18.senate.ca.gov/"><span class="sr-only"> Senator <h3>Robert M. Hertzberg (D)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD18&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>Robert M. Hertzberg (D)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Address</h3> 
+                <p>State Capitol, Room 313, Sacramento, CA 95814-4900; (916) 651-4018</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Office</h3> 
+                <p>6150 Van Nuys Blvd., Suite 400, Van Nuys, CA 91401; (818) 901-5588</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-16 views-row-even clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator_hill.jpg" width="153" height="214" alt="Senator Jerry Hill" title="Senator Jerry Hill">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Jerry Hill (D)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 13
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="http://sd13.senate.ca.gov"><span class="sr-only"> Senator <h3>Jerry Hill (D)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD13&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>Jerry Hill (D)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 5035, Sacramento, CA 95814-4900; (916) 651-4013</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Office</h3> 
+                <p>1528 South El Camino Real, Suite 303, San Mateo, CA 94402; (650) 212-3313</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-17 views-row-odd clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/hueso-ben.jpg" width="153" height="214" alt="Senator Ben Hueso" title="Senator Ben Hueso">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Ben Hueso (D)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 40
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="http://sd40.senate.ca.gov/"><span class="sr-only"> Senator <h3>Ben Hueso (D)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD40&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>Ben Hueso (D)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 4035, Sacramento, CA 95814-4900; (916) 651-4040</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Offices</h3> 
+                <p>303 H Street, Suite 200, Chula Vista, CA 91910; (619) 409-7690<br> 1224 State Street, Suite D, El Centro, CA 92243; (760) 335-3442</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-18 views-row-even clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator_hurtado_0.jpg" width="153" height="214" alt="">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Melissa Hurtado (D)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 14
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="https://senate.ca.gov/sd14"><span class="sr-only"> Senator <h3>Melissa Hurtado (D)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD14&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>Melissa Hurtado (D)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 3070, Sacramento, CA 95814-4900; (916) 651-4014</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Office</h3> 
+                <p>1201 E. California Avenue, Suite A, Bakersfield, CA 93307; (661) 395-2620<br> 113 Court Street, Suite 205, Hanford, CA 93230; (559) 585-7161<br> 2550 Mariposa Mall, Suite 2016, Fresno, CA 93721; (559) 264-3070</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-19 views-row-odd clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/jackson-hannah-beth.jpg" width="153" height="214" alt="Senator Hannah-Beth Jackson" title="Senator Hannah-Beth Jackson">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Hannah-Beth Jackson (D)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 19
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="http://sd19.senate.ca.gov"><span class="sr-only"> Senator <h3>Hannah-Beth Jackson (D)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD19&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>Hannah-Beth Jackson (D)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 2032, Sacramento, CA 95814-4900; (916) 651-4019</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Offices</h3> 
+                <p>222 E. Carrillo Street, Suite 309, Santa Barbara, CA 93101; (805) 965-0862<br> 300 E. Esplanade Drive, Suite 430, Oxnard, CA 93036; (805) 988-1940</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-20 views-row-even clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/brian_jones_headshot_blue.jpg" width="153" height="214" alt="Senator Brian W. Jones" title="Senator Brian W. Jones">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Brian W. Jones (R)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 38
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="https://senate.ca.gov/sd38"><span class="sr-only"> Senator <h3>Brian W. Jones (R)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD38&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>Brian W. Jones (R)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 4088, Sacramento, CA 95814-4900; (916) 651-4038</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Offices</h3> 
+                <p>500 Fesler Street, Suite 201, El Cajon, CA 92020; (619) 596-3136<br> 720 N. Broadway, Suite 110, Escondido, CA 92025; (760) 796-4655</p> 
+                <p>&nbsp;</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-21 views-row-odd clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator-leyva.jpg" width="153" height="214" alt="Senator Connie M. Leyva" title="Senator Connie M. Leyva">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Connie M. Leyva (D)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 20
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="http://sd20.senate.ca.gov/"><span class="sr-only"> Senator <h3>Connie M. Leyva (D)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD20&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>Connie M. Leyva (D)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 4061, Sacramento, CA 95814-4900; (916) 651-4020</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Office</h3> 
+                <p>464 W. 4th Street, Suite 454B, San Bernardino, CA 92401; (909) 888-5360<br> 11760 Central Avenue, Suite 100, Chino, CA 91710; (909) 591-7016</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-22 views-row-even clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/mcguire-mike.jpg" width="153" height="215" alt="Senator Mike McGuire" title="Senator Mike McGuire">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Mike McGuire (D)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 02
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="http://sd02.senate.ca.gov/"><span class="sr-only"> Senator <h3>Mike McGuire (D)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD02&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>Mike McGuire (D)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 5061, Sacramento, CA 95814-4900; (916) 651-4002</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Offices</h3> 
+                <p>3501 Civic Center Drive, Suite 425, San Rafael, CA 94903; (415) 479-6612<br> 50 D Street, Suite 120A, Santa Rosa, CA 95404; (707) 576-2771<br> 200 South School Street, Suite F, Ukiah, CA 95482; (707) 468-8914<br> 1080 Mason Mall, Suite 4, Crescent City, CA&nbsp;95531; (707) 464-1255<br> 1036 5th Street, Suite D, Eureka, CA 95501; (707) 445-6508<br> 885 Lakeport Blvd., Lakeport, CA 95453;&nbsp; (707) 468-8914</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-23 views-row-odd clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/mitchell-holly.jpg" width="153" height="215" alt="Senator Holly J. Mitchell" title="Senator Holly J. Mitchell">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Holly J. Mitchell (D)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 30
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="http://sd30.senate.ca.gov/"><span class="sr-only"> Senator <h3>Holly J. Mitchell (D)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD30&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>Holly J. Mitchell (D)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 5050, Sacramento, CA 95814-4900; (916) 651-4030</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Office</h3> 
+                <p>700 State Drive, Suite 113, Los Angeles, CA 90037; (213) 745-6656</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-24 views-row-even clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/monning-bill.jpg" width="153" height="214" alt="Senator Bill Monning" title="Senator Bill Monning">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Bill Monning (D)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 17
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="http://sd17.senate.ca.gov"><span class="sr-only"> Senator <h3>Bill Monning (D)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD17&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>Bill Monning (D)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 4040, Sacramento, CA 95814-4900; (916) 651-4017</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Offices</h3> 
+                <p>1026 Palm Street, Suite 201, San Luis Obispo, CA&nbsp;&nbsp;93401; (805) 549-3784<br> 99 Pacific Street, Suite 575 F, Monterey, CA&nbsp;93940; (831) 657-6315<br> 701 Ocean Street, Suite 318A, Santa Cruz, CA&nbsp;&nbsp;95060; (831) 425-0401</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-25 views-row-odd clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/moorlach_sd37.jpg" width="153" height="214" alt="Senator John M. W. Moorlach">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>John M. W. Moorlach (R)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 37
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="http://senate.ca.gov/sd37"><span class="sr-only"> Senator <h3>John M. W. Moorlach (R)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD37&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>John M. W. Moorlach (R)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 2048, Sacramento, CA 95814-4900; (916) 651-4037</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Office</h3> 
+                <p>940 South Coast Drive, Suite 185, Costa Mesa, CA 92626; (714) 662-6050</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-26 views-row-even clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/morrell_hs_7678_1_lls_2.jpg" width="153" height="214" alt="Senator Mike Morrell" title="Senator Mike Morrell">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Mike Morrell (R)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 23
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="http://senate.ca.gov/sd23"><span class="sr-only"> Senator <h3>Mike Morrell (R)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="http://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD23&amp;inframe=Y&amp;iframe=true&amp;width=650&amp;height=650">Contact <span class="sr-only"> Senator <h3>Mike Morrell (R)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 3056, Sacramento, CA 95814-4900; (916) 651-4023</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Office</h3> 
+                <p>10350 Commerce Center Drive, Suite A-220, Rancho Cucamonga, CA&nbsp;&nbsp;91730; (909) 919-7731</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-27 views-row-odd clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/nielsen-jim.jpg" width="153" height="215" alt="Senator Jim Nielsen" title="Senator Jim Nielsen">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Jim Nielsen (R)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 04
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="http://senate.ca.gov/sd04"><span class="sr-only"> Senator <h3>Jim Nielsen (R)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD04&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>Jim Nielsen (R)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 5064, Sacramento, CA 95814-4900; (916) 651-4004</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Offices</h3> 
+                <p>2200A Douglas Blvd., Suite 100, Roseville, CA 95661; (916) 772-0571<br> 1110 Civic Center Blvd., Suite 202-A, Yuba City, CA 95993; (530) 751-8657<br> 2635 Forest Ave, Suite 110, Chico, CA 95928; (530) 879-7424</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-28 views-row-even clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/pan-richard.jpg" width="153" height="214" alt="Senator Richard Pan" title="Senator Richard Pan">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Richard Pan (D)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 06
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="http://senate.ca.gov/sd06"><span class="sr-only"> Senator <h3>Richard Pan (D)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD06&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>Richard Pan (D)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 5114, Sacramento, CA 95814-4900; (916) 651-4006</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Office</h3> 
+                <p>1020 N. Street, Room 576, Sacramento, CA 95814; (916) 651-1529<br> 2251 Florin Road, Suite 156, Sacramento, CA 95822; (916) 262-2904</p> 
+                <p>&nbsp;</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-29 views-row-odd clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/portantino_en_3444_lls_ed_v.jpg" width="153" height="214" alt="Senator Anthony J. Portantino" title="Senator Anthony J. Portantino">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Anthony J. Portantino (D)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 25
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="http://sd25.senate.ca.gov"><span class="sr-only"> Senator <h3>Anthony J. Portantino (D)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD25&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>Anthony J. Portantino (D)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 3086, Sacramento, CA 95814-4900; (916) 651-4025</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Offices</h3> 
+                <p>116 E. Broadway Street, Suite 204, Glendale, CA 91205; (818) 409-0400<br> 201 E. Bonita Avenue, San Dimas, CA 91773; (909) 599-7351</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-30 views-row-even clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/roth-richard.jpg" width="153" height="214" alt="Senator Richard D. Roth" title="Senator Richard D. Roth">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Richard D. Roth (D)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 31
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="http://sd31.senate.ca.gov"><span class="sr-only"> Senator <h3>Richard D. Roth (D)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD31&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>Richard D. Roth (D)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 2080, Sacramento, CA 95814-4900; (916) 651-4031</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Office</h3> 
+                <p>3737 Main Street, Suite 104, Riverside, CA 92501; (951) 680-6750</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-31 views-row-odd clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator_rubio.jpg" width="153" height="214" alt="Senator Susan Rubio" title="Senator Susan Rubio">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Susan Rubio (D)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 22
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="https://senate.ca.gov/sd22"><span class="sr-only"> Senator <h3>Susan Rubio (D)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD22&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>Susan Rubio (D)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 4052, Sacramento, CA 95814-4900; (916) 651-4022</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Offices</h3> 
+                <p>100 S. Vincent Avenue, Suite 401, West Covina, CA 91790; (626) 430-2499</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-32 views-row-even clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/skinner.jpg" width="153" height="214" alt="Senator Nancy Skinner" title="Senator Nancy Skinner">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Nancy Skinner (D)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 09
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="http://sd09.senate.ca.gov/"><span class="sr-only"> Senator <h3>Nancy Skinner (D)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD09&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>Nancy Skinner (D)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 5094, Sacramento, CA 95814-4900; (916) 651-4009</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Office</h3> 
+                <p>1515 Clay Street, Suite 2202, Oakland, CA 94612; (510) 286-1333</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-33 views-row-odd clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/stern.jpg" width="153" height="214" alt="Senator Henry I. Stern" title="Senator Henry I. Stern">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Henry I. Stern (D)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 27
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="http://sd27.senate.ca.gov/"><span class="sr-only"> Senator <h3>Henry I. Stern (D)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD27&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>Henry I. Stern (D)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 5080, Sacramento, CA 95814-4900; (916) 651-4027</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Office</h3> 
+                <p>5016 N. Parkway Calabasas, Suite 222, Calabasas, CA&nbsp;&nbsp;91302; (818) 876-3352</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-34 views-row-even clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/stone_7462_hs_2019_lls.jpg" width="153" height="214" alt="Senator Jeff Stone" title="Senator Jeff Stone">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Jeff Stone (R)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 28
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="http://senate.ca.gov/sd28"><span class="sr-only"> Senator <h3>Jeff Stone (R)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD28&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>Jeff Stone (R)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 4082, Sacramento, CA 95814-4900; (916) 651-4028</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Office</h3> 
+                <p>25186 Hancock Avenue, Suite 320, Murrieta, CA 92562; (951) 894-3530<br> 45-125 Smurr Street, Suite B, Indio, CA 92201; (760) 398-6442<br> &nbsp;</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-35 views-row-odd clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator_umberg.jpg" width="153" height="214" alt="Senator Thomas J. Umberg" title="Senator Thomas J. Umberg">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Thomas J. Umberg (D)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 34
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="https://senate.ca.gov/sd34"><span class="sr-only"> Senator <h3>Thomas J. Umberg (D)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD34&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>Thomas J. Umberg (D)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 3076, Sacramento, CA 95814-4900; (916) 651-4034</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Office</h3> 
+                <p>10971 Garden Grove Blvd., Suite D, Garden Grove, CA 92843; (714) 741-1034</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-36 views-row-even clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/wieckowski_9781_lls.jpg" width="153" height="214" alt="Senator Bob Wieckowski" title="Senator Bob Wieckowski">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Bob Wieckowski (D)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 10
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="http://sd10.senate.ca.gov/"><span class="sr-only"> Senator <h3>Bob Wieckowski (D)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD10&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>Bob Wieckowski (D)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 4085, Sacramento, CA 95814-4900; (916) 651-4010</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Offices</h3> 
+                <p>39510 Paseo Padre Parkway, Suite 280, Fremont, CA 94538; (510) 794-3900</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-37 views-row-odd clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/wiener.jpg" width="153" height="214" alt="Senator Scott D. Wiener" title="Senator Scott D. Wiener">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Scott D. Wiener (D)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 11
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="http://sd11.senate.ca.gov"><span class="sr-only"> Senator <h3>Scott D. Wiener (D)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD11&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>Scott D. Wiener (D)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 5100, Sacramento, CA 95814-4900; (916) 651-4011</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Office</h3> 
+                <p>
+                 <!--3501 Civic Center Dr., Suite 425, San Rafael, CA 94903<br /> -->
+                 <!--3501 Civic Center Dr., Suite 425, San Rafael, CA 94903<br /> --></p> 
+                <p>455 Golden Gate Avenue, Suite 14800, San Francisco, CA 94102; (415) 557-1300</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-38 views-row-even clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/wilk.jpg" width="153" height="214" alt="Senator Scott Wilk" title="Senator Scott Wilk">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3>Scott Wilk (R)</h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 21
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="http://senate.ca.gov/sd21"><span class="sr-only"> Senator <h3>Scott Wilk (R)</h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD21&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3>Scott Wilk (R)</h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 3063, Sacramento, CA 95814-4900; (916) 651-4021</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Offices</h3> 
+                <p>848 W. Lancaster Blvd., Suite 101, Lancaster, CA&nbsp;&nbsp;93534; (661) 729-6232<br> 23920 Valencia Blvd., Suite 250, Santa Clarita, CA 91355; (661) 286-1471<br> 14343 Civic Drive, First Floor, Victorville, CA 92392; (760) 843-8414</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-39 views-row-odd clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/vacate_senate-seal-portrait.png" width="153" height="214" alt="Senate Seal" title="Senate Seal">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3> &nbsp;Vacant </h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 01
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="https://district1.cssrc.us/"><span class="sr-only"> Senator <h3> &nbsp;Vacant </h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD01&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3> &nbsp;Vacant </h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 2054, Sacramento, CA 95814-4900; (916) 651-4001</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Offices</h3> 
+                <p>4080 Cavitt Stallman Road, Suite 100A, Granite Bay, CA 95746; (916) 771-5840<br> 1900 Churn Creek Road, Suite 204, Redding, CA 96002; (530) 224-7001</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+            <div class="views-row views-row-40 views-row-even views-row-last clear row contextual-links-region"> 
+             <div class="views-field views-field-field-senator-photo col-xs-2"> 
+              <div class="field-content">
+               <img class="img-responsive" typeof="foaf:Image" src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/vacate_senate-seal-portrait_0.png" width="153" height="214" alt="Senate Seal" title="Senate Seal">
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-last-name col-xs-10"> 
+              <div class="field-content">
+               <h3> &nbsp;&nbsp;Vacant </h3>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district col-xs-3"> 
+              <div class="field-content">
+               <span class="desktop-only">District</span> 33
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-weburl col-xs-4"> 
+              <div class="field-content">
+               <a href="https://sd33.senate.ca.gov/"><span class="sr-only"> Senator <h3> &nbsp;&nbsp;Vacant </h3></span> Homepage</a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-feedbackurl col-xs-3"> 
+              <div class="field-content">
+               <a href="https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD33&amp;inframe=Y">Contact <span class="sr-only"> Senator <h3> &nbsp;&nbsp;Vacant </h3></span></a>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-capitol-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>Capitol Office</h3> 
+                <p>State Capitol, Room 2068, Sacramento, CA 95814-4900; (916) 651-4033</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-field-senator-district-office col-xs-10 pull-right"> 
+              <div class="field-content">
+               <div class="">
+                <h3>District Office</h3> 
+                <p>3939 Atlantic Avenue, Suite 107, Long Beach, CA 90807 (562) 256-7921<br> 6550 Miles Avenue, Room 214, Huntington Park, CA 90255 (323) 277-4560</p> 
+               </div>
+              </div> 
+             </div> 
+             <div class="views-field views-field-contextual-links"> 
+              <span class="field-content"></span> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <!--end middle column--> 
+      <!--nested left column--> 
+      <!--left column--> 
+      <section> 
+       <div class="left-column col-md-3 col-md-pull-9"> 
+        <div class="region region-sidebar-left"> 
+         <div id="block-scgmenublock-menu-block" class="block block-scgmenublock clearfix"> 
+          <div class="content"> 
+           <ul class="menu">
+            <li class="first "><a href="/leadership">Senate Leadership</a></li> 
+            <li class=""><a href="http://findyourrep.legislature.ca.gov/" title="">Find My Senator</a></li> 
+            <li class=" active-trail"><a href="/senators" title="" class="active-trail active">Senate Roster</a></li> 
+            <li class="last "><a href="http://senate.ca.gov/sites/senate.ca.gov/files/2019-20_senate_counties_represented.pdf" title="">County Representation</a></li> 
+           </ul> 
+          </div> 
+         </div> 
+         <div id="block-lwpusermenu-lwpusermenu-toggle" class="block block-lwpusermenu clearfix"> 
+          <div class="content"> 
+           <form action="/senators" method="post" id="lwpusermenu-mode-form" accept-charset="UTF-8">
+            <div>
+             <input type="hidden" name="form_build_id" value="form-I6HlmF1lRVa5a_tcxc4NVb1Rw-Lg68goFmOn7GxtxVo"> 
+             <input type="hidden" name="form_id" value="lwpusermenu_mode_form"> 
+            </div>
+           </form> 
+          </div> 
+         </div> 
+         <div id="block-block-7" class="block block-block clearfix"> 
+          <div class="content"> 
+           <p class="text-center"><a href="http://senate.ca.gov/dailyfile"><img alt="Senate Daily File" src="/sites/senate.ca.gov/files/home-file.png" style="width: 210px; height: 60px; margin-top: 5px; margin-bottom: 5px;"></a><a href="http://leginfo.legislature.ca.gov/faces/billSearchClient.xhtml"><img alt="Find Legislation" src="/sites/senate.ca.gov/files/home-legis.png" style="width: 210px; height: 60px; margin-top: 5px; margin-bottom: 5px;"></a><a href="http://senate.ca.gov/senate-oversight-hearings"><img alt="Oversight Hearings Page" src="/sites/senate.ca.gov/files/home-oversight.png" style="width: 210px; height: 60px; margin-top: 5px; margin-bottom: 5px;"></a><a href="http://findyourrep.legislature.ca.gov/"><img alt="Find My Senator" src="/sites/senate.ca.gov/files/home-find.png" style="width: 210px; height: 60px; margin-top: 5px; margin-bottom: 5px;"></a><a href="http://registertovote.ca.gov/"><img alt="Register to Vote" src="/sites/senate.ca.gov/files/home-vote_0.png" style="width: 210px; height: 60px; margin-top: 5px; margin-bottom: 5px;"></a><a href="http://senate.ca.gov/calendar"><img alt="Senate Events" src="/sites/senate.ca.gov/files/senate-events.png" style="width: 210px; height: 210px;"></a></p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </section> 
+      <!--end left column--> 
+     </div> 
+     <!--end column wrapper--> 
+     <!--footer section--> 
+     <section> 
+      <div class="footer-wrapper senate-red clear"> 
+       <div id="footer"> 
+        <div class="region region-footer"> 
+         <div id="block-block-6" class="block block-block clearfix"> 
+          <div class="content"> 
+           <p><img alt="California State Senate Seal" src="/sites/senate.ca.gov/files/ctools/senate-seal-sm.png" style="width: 36px; height: 36px"></p> 
+           <ul>
+            <li><a href="/sitemap">Site Map</a></li> 
+            <li><a href="http://www.legislature.ca.gov/footer/use_privacy_policy.html">Privacy and Conditions of Use</a></li> 
+            <li><a href="/accessibility">Accessibility</a></li> 
+            <li><a href="#top">Back to Top</a></li> 
+            <li><a href="/feedback">Feedback</a></li> 
+            <li><a href="/senatejobs">Senate Jobs Available</a></li> 
+            <li><a href="http://wcu-reporting.legislature.ca.gov/">Reporting Inappropriate Workplace Conduct</a></li> 
+            <li>Copyright © 2014 State of California</li> 
+           </ul> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <!-- /#footer --> 
+      </div> 
+     </section> 
+     <!--end footer section--> 
+    </div>
+    <!-- /.container --> 
+   </div> 
+   <!-- /#wrapper --> 
+  </div>
+  <!--#page--> 
+  <div id="modal" class="modal fade"> 
+   <div class="modal-dialog modal-lg"> 
+    <div class="modal-content"> 
+     <div class="modal-header"> 
+      <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button> 
+      <h4 class="modal-title"></h4> 
+     </div> 
+     <div class="modal-body"> 
+      <p>Loading.....</p> 
+     </div> 
+     <div class="modal-footer"> 
+      <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button> 
+     </div> 
+    </div>
+    <!-- /.modal-content --> 
+   </div>
+   <!-- /.modal-dialog --> 
+  </div>
+  <!-- /.modal --> 
+  <div id="video-modal" class="modal fade" data-backdrop="static" data-keyboard="false">
+   <!-- data-backdrop="static" data-keyboard="false" disables escape and mouse click from closing modal--> 
+   <div class="modal-dialog modal-lg"> 
+    <div class="modal-content"> 
+     <div class="modal-header"> 
+      <div class="btn-toolbar pull-right"> 
+       <div class="btn-group"> 
+        <a id="video-popout-link" href="#" target="_blank" type="button" class="close btn-xs calendar-tooltip" data-toggle="tooltip" data-placement="right" title="Open in a new window"><span aria-hidden="true"><i class="fa fa-external-link"></i></span><span class="sr-only">open in new window</span></a> 
+       </div> 
+       <div class="btn-group"> 
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button> 
+       </div> 
+      </div> 
+      <h4 class="modal-title"></h4> 
+     </div> 
+     <div class="modal-body"> 
+      <p>Loading player......</p> 
+     </div> 
+     <div class="modal-footer"> 
+      <!-- <a href="#"  target="_blank" type="button" class="btn btn-success" id="video-download-link"><i class="fa-download"></i>Download Video</a> --> 
+      <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa-times"></i>Close</button> 
+     </div> 
+    </div>
+    <!-- /.modal-content --> 
+   </div>
+   <!-- /.modal-dialog --> 
+  </div>
+  <!-- /.modal --> 
+  <div id="control-modal" class="modal fade" data-backdrop="static" data-keyboard="false">
+   <!-- data-backdrop="static" data-keyboard="false" disables escape and mouse click from closing modal--> 
+   <div class="modal-dialog modal-lg"> 
+    <div class="modal-content"> 
+     <div class="modal-header"> 
+      <div class="btn-toolbar pull-right"> 
+       <div class="btn-group"> 
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button> 
+       </div> 
+      </div> 
+      <h4 class="modal-title"></h4> 
+     </div> 
+     <div class="modal-body"> 
+      <p>Loading</p> 
+     </div> 
+     <div class="modal-footer"> 
+      <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button> 
+     </div> 
+    </div>
+    <!-- /.modal-content --> 
+   </div>
+   <!-- /.modal-dialog --> 
+  </div>
+  <!-- /.modal --> 
+  <div class="modal fade" id="emailConfirmationMessage" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
+   <div class="modal-dialog"> 
+    <div class="modal-content"> 
+     <div class="modal-header"> 
+      <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button> 
+      <h4 class="modal-title" id="myModalLabel">Adjourn Confirmation</h4> 
+     </div> 
+     <div class="modal-body"> 
+      <div class="alert alert-success" role="alert">
+       An email will be sent to the Streaming Support distribution list and Adjourn the hearing.
+      </div> 
+     </div> 
+     <div class="modal-footer"> 
+      <button type="button" class="btn btn-primary sendAdjournEmail">Ok</button> 
+      <button type="button" class="btn btn-default" data-dismiss="modal">Close</button> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="modal fade" id="recessEmailConfirmationMessage" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
+   <div class="modal-dialog"> 
+    <div class="modal-content"> 
+     <div class="modal-header"> 
+      <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button> 
+      <h4 class="modal-title" id="myModalLabel">Recess Confirmation</h4> 
+     </div> 
+     <div class="modal-body"> 
+      <div class="alert alert-success" role="alert">
+       An email will be sent to the Streaming Support distribution list and the hearing will be recessed.
+      </div> 
+     </div> 
+     <div class="modal-footer"> 
+      <button type="button" class="btn btn-primary sendRecessEmail">Ok</button> 
+      <button type="button" class="btn btn-default" data-dismiss="modal">Close</button> 
+     </div> 
+    </div> 
+   </div> 
+  </div>  
+ </body>
+</html>

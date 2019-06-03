@@ -1,0 +1,1377 @@
+<!doctype html>
+<html class="no-js" dir="ltr" lang="en-US" prefix="og: http://ogp.me/ns#">
+ <head> 
+  <meta charset="utf-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <title>Highlights - Data.gov</title> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <!-- This site is optimized with the Yoast SEO plugin v7.9.1 - https://yoast.com/wordpress/plugins/seo/ --> 
+  <link rel="canonical" href="https://www.data.gov/highlights/"> 
+  <link rel="next" href="https://www.data.gov/highlights/page/2/"> 
+  <meta property="og:locale" content="en_US"> 
+  <meta property="og:type" content="object"> 
+  <meta property="og:title" content="Highlights - Data.gov"> 
+  <meta property="og:url" content="https://www.data.gov/highlights/"> 
+  <meta property="og:site_name" content="Data.gov"> 
+  <meta property="og:image" content="https://www.data.gov/media/2014/05/data_gov_logo_D_new.png"> 
+  <meta property="og:image:secure_url" content="https://www.data.gov/media/2014/05/data_gov_logo_D_new.png"> 
+  <!-- / Yoast SEO plugin. --> 
+  <link rel="dns-prefetch" href="//www.data.gov"> 
+  <link rel="dns-prefetch" href="//code.jquery.com"> 
+  <link rel="dns-prefetch" href="//dap.digitalgov.gov"> 
+  <link rel="dns-prefetch" href="//fonts.googleapis.com"> 
+  <link rel="dns-prefetch" href="//s.w.org"> 
+  <script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.data.gov\/wp\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script> 
+  <style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style> 
+  <link rel="stylesheet" href="https://www.data.gov/app/plugins/simple-tooltips/zebra_tooltips.css?ver=5.1.1"> 
+  <link rel="stylesheet" href="https://www.data.gov/wp/wp-includes/css/dist/block-library/style.min.css?ver=5.1.1"> 
+  <link rel="stylesheet" href="https://www.data.gov/app/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1"> 
+  <link rel="stylesheet" href="https://www.data.gov/app/plugins/m-wp-popup/css/colorbox/colorbox.css?ver=0.1"> 
+  <link rel="stylesheet" href="https://www.data.gov/app/plugins/category-sticky-post/css/plugin.css?ver=5.1.1"> 
+  <link rel="stylesheet" href="https://www.data.gov/app/plugins/wp-open311/public/assets/css/chosen.min.css?ver=1.0.0"> 
+  <link rel="stylesheet" href="https://www.data.gov/app/plugins/wp-open311/public/assets/css/public.css?ver=1.0.0"> 
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Abel%7CLato%3A100%2C300%2C400%2C700&amp;ver=5.1.1"> 
+  <link rel="stylesheet" href="https://www.data.gov/app/themes/roots-nextdatagov/assets/css/main.min.css?ver=3c5deb08e1805f39213846d8a3a6ff74"> 
+  <link rel="stylesheet" href="https://www.data.gov/app/themes/roots-nextdatagov/assets/css/rei.css?ver=5.1.1"> 
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script> 
+  <script type="text/javascript" src="https://www.data.gov/app/plugins/m-wp-popup/js/wpp-popup-frontend.js?ver=0.1" defer></script> 
+  <script type="text/javascript" src="https://www.data.gov/app/plugins/wp-open311/public/assets/js/chosen.jquery.min.js?ver=1.0.0" defer></script> 
+  <script type="text/javascript" src="https://www.data.gov/app/plugins/wp-open311/public/assets/js/public.js?ver=1.0.0" defer></script> 
+  <script type="text/javascript" src="https://www.data.gov/app/themes/roots-nextdatagov/assets/js/vendor/respond.min.js" defer></script> 
+  <script type="text/javascript" src="https://www.data.gov/app/themes/roots-nextdatagov/assets/js/vendor/modernizr-2.7.1.min.js" defer></script> 
+  <script type="text/javascript" src="https://www.data.gov/app/themes/roots-nextdatagov/assets/js/ext-link-handler.js?ver=5.1.1" defer></script> 
+  <script type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=GSA"></script> 
+  <script type="text/javascript" src="https://www.data.gov/app/plugins/google-analyticator/external-tracking.min.js?ver=6.5.4" defer></script> 
+  <link rel="https://api.w.org/" href="https://www.data.gov/wp-json/"> 
+  <meta name="tec-api-version" content="v1">
+  <meta name="tec-api-origin" content="https://www.data.gov">
+  <link rel="https://theeventscalendar.com/" href="https://www.data.gov/wp-json/tribe/events/v1/">
+  <!-- Google Analytics Tracking by Google Analyticator 6.5.4: http://www.videousermanuals.com/google-analyticator/ --> 
+  <script type="text/javascript">
+    var analyticsFileTypes = [''];
+    var analyticsSnippet = 'enabled';
+    var analyticsEventTracking = 'enabled';
+</script> 
+  <script type="text/javascript">
+	var _gaq = _gaq || [];
+  
+	_gaq.push(['_setAccount', 'UA-17367410-17']);
+    _gaq.push(['_addDevId', 'i9k95']); // Google Analyticator App ID with Google
+    _gaq.push(['_gat._anonymizeIp']);
+	_gaq.push(['_trackPageview']);
+	<!-- tracking for UA-42145528-2  start -->
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42145528-2', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+<!-- tracking for UA-42145528-2  end -->
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script> 
+  <style type="text/css" id="wp-custom-css">
+			/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+.twitter-feed h2 {display:none;}		</style> 
+  <link rel="alternate" type="application/rss+xml" title="Data.gov Feed" href="https://www.data.gov/feed/"> 
+  <link href="https://www.data.gov/app/themes/roots-nextdatagov/assets/img/favicon.ico" rel="shortcut icon"> 
+  <link rel="icon" type="image/png" href="https://www.data.gov/app/themes/roots-nextdatagov/assets/img/favicon-120.png" sizes="120x120"> 
+  <!--[if IE]>
+    <style type="text/css">
+        #cboxClose{
+            top:-8px !important;
+            right:-8px !important;
+        }
+    </style>
+    <![endif]--> 
+ </head> 
+ <body class="archive tax-featured term-highlights term-33832 tribe-no-js"> 
+  <!--div class="banner disclaimer">
+<center>This is a demonstration site exploring the future of Data.gov. <span id="stop-disclaimer"> Give us your feedback on <a href="https://twitter.com/usdatagov" class="local-link">Twitter</a>, <a href="http://quora.com" class="external ext-link" rel="external" onclick="this.target=&#039;_blank&#039;;">Quora</a></span>, <a href="https://github.com/GSA/datagov-design/" class="local-link">Github</a>, or <a href="/contact-engage">contact us</a></center>
+</div--> 
+  <!--div class="banner disclaimer"><center>Updates to Data.gov will be temporarily suspended between December 13, 9 PM EST and approximately December 27. <a href="/migration-notification">Learn More</a>.</center></div--> 
+  <!--[if lt IE 8]>
+<div class="alert alert-warning">
+    You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/" class="external ext-link" rel="external" onclick="this.target=&#039;_blank&#039;;">upgrade your
+    browser</a> to improve your experience.</div>
+<![endif]--> 
+  <header> 
+   <div class="banner navbar navbar-default navbar-static-top yamm" role="banner"> 
+    <div class="container"> 
+     <div class="searchbox-row skip-navigation"> 
+      <div class="sr-only skip-link"> 
+       <a href="#main">Jump to Content</a> 
+      </div> 
+      <div> 
+       <form role="search" method="get" class="search-form form-inline navbar-right navbar-nav  col-sm-6 col-md-6 col-lg-6" action="//catalog.data.gov/dataset"> 
+        <div class="input-group"> 
+         <label for="search-header" class="sr-only">Search for:</label> 
+         <input type="search" id="search-header" title="Example searches: Monthly House Price Indexes, Health Care Provider Charge Data, Credit Card Complaints, Manufacturing &amp; Trade Inventories &amp; Sales, Federal Student Loan Program Data" data-strings="{&quot;targets&quot;:[&quot;Monthly House Price Indexes&quot;,&quot;Health Care Provider Charge Data&quot;,&quot;Credit Card Complaints&quot;,&quot;Manufacturing &amp; Trade Inventories &amp; Sales&quot;,&quot;Federal Student Loan Program Data&quot;]}" value="" name="q" class="search-field form-control" placeholder="Search Data.gov"> 
+         <input type="hidden" name="sort" value="score desc, name asc"> 
+         <span class="input-group-btn"> <button type="submit" class="search-submit btn btn-default"> <i class="fa fa-search"></i> <span class="sr-only">Search</span> </button> </span> 
+        </div> 
+        <input type="hidden" name="as_sfid" value="AAAAAAWbc1py9hr0IWqerMlQVb9LxyxTZdM8SbfoIowY5HGE7JIbggoMeStQhA0QYVj7MXs_AM00oAS-sz8FeTEmtrA3WVUMfuYssJgUj77LqovMIpg1ZqvxStg4KisUaGjoT6c=">
+        <input type="hidden" name="as_fid" value="ea909caad8df2e055fdd367d478b0defdcab1f03">
+       </form> 
+      </div> 
+     </div> 
+     <div class="navbar-header"> 
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button> 
+      <a href="https://www.data.gov/" alt="Data.gov" class="local-link"><h1 class="navbar-brand">Data.gov</h1></a> 
+     </div> 
+     <nav class="collapse navbar-collapse" role="navigation"> 
+      <ul id="menu-primary-navigation" class="nav navbar-nav navbar-right">
+       <li class="menu-data"><a href="http://catalog.data.gov/dataset" class="local-link">Data</a></li> 
+       <li class="dropdown yamm-fw menu-topics"><a class="dropdown-toggle local-link" data-toggle="dropdown" data-target="#" href="https://www.data.gov/communities/">Topics <b class="caret"></b></a> 
+        <ul class="dropdown-menu topics"> 
+         <li class="menu-agriculture topic-food"><a href="https://www.data.gov/food/" class="local-link"><i></i><span>Agriculture</span></a></li> 
+         <li class="menu-climate topic-climate"><a href="https://www.data.gov/climate/" class="local-link"><i></i><span>Climate</span></a></li> 
+         <li class="menu-consumer topic-consumer"><a href="https://www.data.gov/consumer/" class="local-link"><i></i><span>Consumer</span></a></li> 
+         <li class="menu-ecosystems topic-ecosystems"><a href="https://www.data.gov/ecosystems/" class="local-link"><i></i><span>Ecosystems</span></a></li> 
+         <li class="menu-education topic-education"><a href="https://www.data.gov/education/" class="local-link"><i></i><span>Education</span></a></li> 
+         <li class="menu-energy topic-energy"><a href="https://www.data.gov/energy/" class="local-link"><i></i><span>Energy</span></a></li> 
+         <li class="menu-finance topic-finance"><a href="https://www.data.gov/finance/" class="local-link"><i></i><span>Finance</span></a></li> 
+         <li class="menu-health topic-health"><a href="https://www.data.gov/health/" class="local-link"><i></i><span>Health</span></a></li> 
+         <li class="menu-local-government topic-local"><a href="https://www.data.gov/local/" class="local-link"><i></i><span>Local Government</span></a></li> 
+         <li class="menu-manufacturing topic-manufacturing"><a href="https://www.data.gov/manufacturing/" class="local-link"><i></i><span>Manufacturing</span></a></li> 
+         <li class="menu-maritime topic-maritime"><a href="https://www.data.gov/maritime/" class="local-link"><i></i><span>Maritime</span></a></li> 
+         <li class="menu-ocean topic-ocean"><a href="https://www.data.gov/ocean/" class="local-link"><i></i><span>Ocean</span></a></li> 
+         <li class="menu-public-safety topic-safety"><a href="https://www.data.gov/safety/" class="local-link"><i></i><span>Public Safety</span></a></li> 
+         <li class="menu-science-research topic-research"><a href="https://www.data.gov/research/" class="local-link"><i></i><span>Science &amp; Research</span></a></li> 
+        </ul> </li> 
+       <li class="menu-impact"><a href="https://www.data.gov/impact/" class="local-link">Impact</a></li> 
+       <li class="menu-applications"><a href="https://www.data.gov/applications" class="local-link">Applications</a></li> 
+       <li class="menu-developers"><a href="https://www.data.gov/developers/" class="local-link">Developers</a></li> 
+       <li class="menu-contact"><a href="https://www.data.gov/contact" class="local-link">Contact</a></li> 
+      </ul> 
+     </nav> 
+    </div> 
+    <div id="external_disclaimer" class="tooltip" role="tooltip" aria-hidden="true">
+     This link will direct you to an external website that may have different content and privacy policies from Data.gov. 
+    </div> 
+   </div> 
+   <div class="container hidden print-logo"> 
+    <img src="/app/themes/roots-nextdatagov/assets/img/logo.svg"> 
+   </div> 
+   <div class="header banner page-heading"> 
+    <div class="container"> 
+     <div class="page-header"> 
+      <div class="tagline"> 
+      </div> 
+      <h1> <span class="category-header topic-highlights"><a href="https://www.data.gov/highlights/" class="local-link">
+         <div>
+          <i></i>
+         </div><span>Highlights</span></a></span> </h1> 
+     </div> 
+    </div> 
+   </div> 
+  </header> 
+  <div role="document"> 
+   <div class="content"> 
+    <main class="main" role="main" id="main"> 
+     <div class="wrap container"> 
+      <div class="highlights-listing"> 
+       <h1 style="clear:both;" class="category category-header topic-food"> <a href="/food"><i></i> <span>Agriculture</span></a> </h1> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Open Data Revolution to Fight Global Hunger</h2> 
+        </header> 
+        <article class="no-image"> 
+         <figure id="attachment_24615517" class="thumbnail wp-caption alignnone" style="width: 480px">
+          <img class="size-full wp-image-24615517" src="https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2017/06/carrillo-app-blog-060217.jpg" alt="" width="480" height="339" srcset="https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2017/06/carrillo-app-blog-060217.jpg 480w, https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2017/06/carrillo-app-blog-060217-300x212.jpg 300w" sizes="(max-width: 480px) 100vw, 480px">
+          <figcaption class="caption wp-caption-text">
+           <em>USDA-NRCS rangeland scientist Emilio Carrillo uses an open data mobile app called LandPKS for sustainable land use management.</em>
+          </figcaption>
+         </figure> 
+         <p>Every day, people around the world use data to make decisions.&nbsp; When heading out of town, most of us use weather apps to check the forecast anywhere in the world before packing our bags.&nbsp; However, when we travel to far-flung places, we may find ourselves packing food from home because we don’t know what may be available when we arrive.&nbsp; We have a global, comprehensive, open data set that enables weather forecasting, but not something similar for food and agriculture?</p> 
+         <p>In his first public remarks as head of USDA, Secretary Sonny Perdue noted that “…we want to make decisions based on facts and evidence,” “we want to be data-driven,” and “I need good data, I need good sound science to make decisions on…”</p> 
+         <p>USDA recognizes that farmers, ranchers, and consumers alike – use data daily, from deciding when to plant, harvest or sell their crops, when to turn out cattle to pasture, or where to buy fresh fruits and vegetables.&nbsp; This is why it is important that data be made available, open and accessible, to facilitate the best-informed decisions.</p> 
+         <p>Around the world, a movement called the “open data revolution” is under way to make data available for public use.&nbsp; This movement is expected to generate new insights, drive better decision-making, and enable governments, civil society, and the private sector to better target interventions and programs.</p> 
+         <p>All of this is why the U.S. Government, led by USDA, was a founding partner of the Global Open Data for Agriculture and Nutrition (GODAN) initiative and why it continues to support the advancement of open data for agriculture and nutrition around the world.&nbsp; Now with over 500 partners, GODAN continues to support the sharing of available, accessible, and usable open data for agriculture and nutrition to help ensure global food security.</p> 
+         <p>If we’re going to feed over 9 billion people by 2050, we need open data policies to make decisions based on facts and evidence. This global perspective will help identify data already available and data gaps that exist, and sharpen the focus on how open data can foster innovation and collaborative research, creating whole new kinds of growth around the world.</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+       </div>
+       <!--/.highlight--> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Introducing New Rural Housing Data from USDA</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p>For the first time, USDA’s Rural Housing Service is publicly releasing data across every program area in which the agency provides loans, guarantees, and grants—multifamily housing, single-family housing, and community facilities. This set of data will bring stakeholders and the public unprecedented insights into rural housing program delivery, impacts, challenges, and opportunities across the country. It will be updated regularly, so check back frequently for the latest release.</p> 
+         <p>Click <a href="https://catalog.data.gov/organization/4ae51f6c-467a-4f9d-b40a-2c52e83c326a?bureauCode=005%3A55&amp;_bureauCode_limit=0" class="local-link">here </a>for the data.</p> 
+         <figure id="attachment_22830532" class="thumbnail wp-caption aligncenter" style="width: 1024px">
+          <a href="https://www.policymap.com/" class="external ext-link" rel="external" onclick="this.target='_blank';"><img class="wp-image-22830532 size-large" src="https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2016/07/unnamed-1024x386.jpg" alt="Mapping applications like PolicyMap are incorporating USDA’s rural housing data and overlaying them with other indicators." width="1024" height="386" srcset="https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2016/07/unnamed-1024x386.jpg 1024w, https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2016/07/unnamed-300x113.jpg 300w, https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2016/07/unnamed-768x290.jpg 768w, https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2016/07/unnamed.jpg 1291w" sizes="(max-width: 1024px) 100vw, 1024px"></a>
+          <figcaption class="caption wp-caption-text">
+           Mapping applications like PolicyMap are incorporating USDA’s rural housing data and overlaying them with other indicators.
+          </figcaption>
+         </figure> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+       </div>
+       <!--/.highlight--> 
+       <div class="pull-right clearfix" style="margin-top:-45px;"> 
+        <a href="/food/highlights" class="more-link">More Highlights</a> 
+       </div> 
+       <h1 style="clear:both;" class="category category-header topic-arctic"> <a href="/arctic"><i></i> <span>Arctic</span></a> </h1> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Microsoft Launches “Innovation Challenge” around Food Resilience</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p class="p1"><b>WASHINGTON,&nbsp;July 27,&nbsp;2015</b>&nbsp;–&nbsp;The U.S. Department of Agriculture is partnering with Microsoft to launch the “Innovation Challenge,” a competition to develop software applications that help farmers, agriculture businesses, and consumers explore how climate change will affect their food systems.</p> 
+         <p class="p1">The Innovation Challenge was&nbsp;formally launched on July 27<span class="s1"><sup>th</sup></span>&nbsp;at a conference of the Agricultural &amp; Applied Economics&nbsp;Association in San Francisco. Challenge participants have 3 months to create their applications, with a top prize of $25,000 going to the most creative application that best exploits USDA data sets that are now being hosted on Microsoft Azure, Microsoft’s cloud computing platform.</p> 
+         <p class="p1">Entrants are invited to develop and publish new applications and tools that can help users analyze multiple sources of information, including key USDA data sets. In addition, Microsoft is granting cloud computing awards to aid university researchers and students that are looking to take part in the challenge.&nbsp; Challenge winners will be announced in December 2015.</p> 
+         <p class="p1">Full details of the challenge can be found at&nbsp;<a href="x-webdoc://979AC4A7-D7E8-4D6B-9B6D-65A5FEE005CD/%3Ehttp://usdaapps.challengepost.com%3C" class="external ext-link" rel="external" onclick="this.target='_blank';"><span class="s2">&gt;http://usdaapps.challengepost.com&lt;</span></a>.</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+       </div>
+       <!--/.highlight--> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Launch of Energy &amp; Infrastructure Resilience theme of Climate.Data.Gov</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p>To help communities, governments, businesses, and research institutions better understand and plan for the risks of storms, floods, and other climate-change-related impacts, the U.S. Government is enhancing accessibility and releasing today a collection of datasets containing scientific and technical information that may help inform the current and potential future effects of climate change on energy and infrastructure.</p> 
+         <p>These data are also being made available via mapping services on&nbsp;Geoplatform.gov. The resources provided here can be used to explore and develop insights for a number of relevant questions, such as:</p> 
+         <p>1) How are fundamental energy resources impacted by climate?</p> 
+         <p>2) How might changes in climate and natural resource availability impact energy conversion infrastructure and processes?</p> 
+         <p>3) How might climate impact energy transmission and distribution systems?</p> 
+         <p>4) How might energy demands be impacted by climate change, including heating and cooling but also energy losses and energy used for adaptation by other sectors?</p> 
+         <p>5) What capacity do we currently have to adapt energy systems, and how might technology solutions, systems designs, and operational changes improve energy system resilience for climate change?</p> 
+         <p>6) How might climate change impact energy infrastructure and its interactions with networked and interconnected infrastructure systems?</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+       </div>
+       <!--/.highlight--> 
+       <div class="pull-right clearfix" style="margin-top:-45px;"> 
+        <a href="/arctic/highlights" class="more-link">More Highlights</a> 
+       </div> 
+       <h1 style="clear:both;" class="category category-header topic-business"> <a href="/business"><i></i> <span>Business</span></a> </h1> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">U.S. International Trade in Goods and Services</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p>This monthly report provides national trade data including imports, exports, and balance of payments for goods and services. Statistics are also reported on a year-to-date basis. Data are continuously compiled and processed. Documents are collected as shipments arrive and depart, and are processed on a flow basis.</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+        <div class="dataset-link clearfix"> 
+         <a class="btn btn-default pull-right local-link" href="http://catalog.data.gov/dataset/us-international-trade-in-goods-and-services"> <span class="glyphicon glyphicon-download"></span> View this Dataset </a> 
+        </div> 
+       </div>
+       <!--/.highlight--> 
+       <div class="pull-right clearfix" style="margin-top:-45px;"> 
+        <a href="/business/highlights" class="more-link">More Highlights</a> 
+       </div> 
+       <h1 style="clear:both;" class="category category-header topic-cities"> <a href="/cities"><i></i> <span>Cities</span></a> </h1> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Seattle Real-Time Fire 911 Calls</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p>Provides Seattle Fire Department 911 dispatches updated every 5 minutes.&nbsp; Available in an easy to explore, interactive format.</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+        <div class="dataset-link clearfix"> 
+         <a class="btn btn-default pull-right external ext-link" href="https://data.seattle.gov/Public-Safety/Seattle-Real-Time-Fire-911-Calls/kzjm-xkqj" rel="external" onclick="this.target='_blank';"> <span class="glyphicon glyphicon-download"></span> View this Dataset </a> 
+        </div> 
+       </div>
+       <!--/.highlight--> 
+       <div class="pull-right clearfix" style="margin-top:-45px;"> 
+        <a href="/cities/highlights" class="more-link">More Highlights</a> 
+       </div> 
+       <h1 style="clear:both;" class="category category-header topic-climate"> <a href="/climate"><i></i> <span>Climate</span></a> </h1> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Microsoft Launches “Innovation Challenge” around Food Resilience</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p class="p1"><b>WASHINGTON,&nbsp;July 27,&nbsp;2015</b>&nbsp;–&nbsp;The U.S. Department of Agriculture is partnering with Microsoft to launch the “Innovation Challenge,” a competition to develop software applications that help farmers, agriculture businesses, and consumers explore how climate change will affect their food systems.</p> 
+         <p class="p1">The Innovation Challenge was&nbsp;formally launched on July 27<span class="s1"><sup>th</sup></span>&nbsp;at a conference of the Agricultural &amp; Applied Economics&nbsp;Association in San Francisco. Challenge participants have 3 months to create their applications, with a top prize of $25,000 going to the most creative application that best exploits USDA data sets that are now being hosted on Microsoft Azure, Microsoft’s cloud computing platform.</p> 
+         <p class="p1">Entrants are invited to develop and publish new applications and tools that can help users analyze multiple sources of information, including key USDA data sets. In addition, Microsoft is granting cloud computing awards to aid university researchers and students that are looking to take part in the challenge.&nbsp; Challenge winners will be announced in December 2015.</p> 
+         <p class="p1">Full details of the challenge can be found at&nbsp;<a href="x-webdoc://979AC4A7-D7E8-4D6B-9B6D-65A5FEE005CD/%3Ehttp://usdaapps.challengepost.com%3C" class="external ext-link" rel="external" onclick="this.target='_blank';"><span class="s2">&gt;http://usdaapps.challengepost.com&lt;</span></a>.</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+       </div>
+       <!--/.highlight--> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">First International Conference on Surface Transportation System Resilience to Climate Change and Extreme Weather Events</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p style="text-align: center;"><strong>September 16-18, 2015</strong></p> 
+         <p style="text-align: center;"><strong>The National Academy of Sciences Building</strong><strong><br> </strong><strong>Washington,&nbsp;DC</strong></p> 
+         <p class="p1">The Transportation Research Board will host a conference September 16-18, 2015 to provide transportation professionals with information about emerging best practices and research results on how to adapt surface transportation networks to the potential impacts of climate change and extreme weather events. The conference will examine efforts to mainstream consideration of climate change and extreme weather resilience in all aspects of the transportation sector, including planning and programming, capital improvements, and operations and maintenance.</p> 
+         <p class="p1"> </p>
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+       </div>
+       <!--/.highlight--> 
+       <div class="pull-right clearfix" style="margin-top:-45px;"> 
+        <a href="/climate/highlights" class="more-link">More Highlights</a> 
+       </div> 
+       <h1 style="clear:both;" class="category category-header topic-coastalflooding"> <a href="/coastalflooding"><i></i> <span>Coastal Flooding</span></a> </h1> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Microsoft Launches “Innovation Challenge” around Food Resilience</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p class="p1"><b>WASHINGTON,&nbsp;July 27,&nbsp;2015</b>&nbsp;–&nbsp;The U.S. Department of Agriculture is partnering with Microsoft to launch the “Innovation Challenge,” a competition to develop software applications that help farmers, agriculture businesses, and consumers explore how climate change will affect their food systems.</p> 
+         <p class="p1">The Innovation Challenge was&nbsp;formally launched on July 27<span class="s1"><sup>th</sup></span>&nbsp;at a conference of the Agricultural &amp; Applied Economics&nbsp;Association in San Francisco. Challenge participants have 3 months to create their applications, with a top prize of $25,000 going to the most creative application that best exploits USDA data sets that are now being hosted on Microsoft Azure, Microsoft’s cloud computing platform.</p> 
+         <p class="p1">Entrants are invited to develop and publish new applications and tools that can help users analyze multiple sources of information, including key USDA data sets. In addition, Microsoft is granting cloud computing awards to aid university researchers and students that are looking to take part in the challenge.&nbsp; Challenge winners will be announced in December 2015.</p> 
+         <p class="p1">Full details of the challenge can be found at&nbsp;<a href="x-webdoc://979AC4A7-D7E8-4D6B-9B6D-65A5FEE005CD/%3Ehttp://usdaapps.challengepost.com%3C" class="external ext-link" rel="external" onclick="this.target='_blank';"><span class="s2">&gt;http://usdaapps.challengepost.com&lt;</span></a>.</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+       </div>
+       <!--/.highlight--> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Launch of Energy &amp; Infrastructure Resilience theme of Climate.Data.Gov</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p>To help communities, governments, businesses, and research institutions better understand and plan for the risks of storms, floods, and other climate-change-related impacts, the U.S. Government is enhancing accessibility and releasing today a collection of datasets containing scientific and technical information that may help inform the current and potential future effects of climate change on energy and infrastructure.</p> 
+         <p>These data are also being made available via mapping services on&nbsp;Geoplatform.gov. The resources provided here can be used to explore and develop insights for a number of relevant questions, such as:</p> 
+         <p>1) How are fundamental energy resources impacted by climate?</p> 
+         <p>2) How might changes in climate and natural resource availability impact energy conversion infrastructure and processes?</p> 
+         <p>3) How might climate impact energy transmission and distribution systems?</p> 
+         <p>4) How might energy demands be impacted by climate change, including heating and cooling but also energy losses and energy used for adaptation by other sectors?</p> 
+         <p>5) What capacity do we currently have to adapt energy systems, and how might technology solutions, systems designs, and operational changes improve energy system resilience for climate change?</p> 
+         <p>6) How might climate change impact energy infrastructure and its interactions with networked and interconnected infrastructure systems?</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+       </div>
+       <!--/.highlight--> 
+       <div class="pull-right clearfix" style="margin-top:-45px;"> 
+        <a href="/coastalflooding/highlights" class="more-link">More Highlights</a> 
+       </div> 
+       <h1 style="clear:both;" class="category category-header topic-consumer"> <a href="/consumer"><i></i> <span>Consumer</span></a> </h1> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Financial Services Consumer Complaint Database</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p>The <a href="http://catalog.data.gov/dataset/consumer-complaint-database" class="local-link">Consumer Complaint Database</a> contains data from the complaints received by the Consumer Financial Protection Bureau (<abbr>CFPB</abbr>) on financial products and services, including bank accounts, credit cards, credit reporting, debt collection, money transfers, mortgages, student loans, and other types of consumer credit. The database contains over 100,000 anonymized complaints and is refreshed daily. Data available about each complaint includes the name of the provider, type of complaint, date, zip code, and other information. The <abbr title="Consumer Financial Protection Bureau">CFPB</abbr> does not verify the accuracy of all facts alleged in the complaints, but takes steps to confirm a commercial relationship between the consumer and the identified company exists.</p> 
+         <p class="description"><strong>Data in Action: Combatting Fraud</strong></p> 
+         <p class="description">One company uses big-data analytics to find grey charges on users’ credit cards and debit cards by drawing upon billing dispute data from the web, banks, and the <abbr title="Consumer Financial Protection Bureau">CFPB</abbr>’s open consumer complaint database.</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+        <div class="dataset-link clearfix"> 
+         <a class="btn btn-default pull-right local-link" href="http://catalog.data.gov/dataset/consumer-complaint-database"> <span class="glyphicon glyphicon-download"></span> View this Dataset </a> 
+        </div> 
+       </div>
+       <!--/.highlight--> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Product Recalls</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p>The Safety community contains <a href="http://catalog.data.gov/dataset?ext_prev_extent=-139.21874999999997%2C8.754794702435618%2C-61.87499999999999%2C61.77312286453146&amp;groups=safety3175&amp;q=recall&amp;_groups_limit=0&amp;ext_location=&amp;sort=score+desc%2C+name+asc&amp;ext_bbox=" class="local-link">product recall data</a> from around the Federal government. It includes recalls related to cars and many different kinds of products – from household products to outdoor, sports, and recreation products to child-related products.</p> 
+         <p><strong>Data in Action</strong>:</p> 
+         <p><a href="http://www.recallsplus.com/" class="external ext-link" rel="external" onclick="this.target='_blank';">SAP Recalls Plus</a> allows consumers to create watch lists or specific product alerts around government created product safety recall lists.</p> 
+         <p><a href="http://wemakeitsafer.com/" class="external ext-link" rel="external" onclick="this.target='_blank';">We Make it Safer</a> uses government recall history to let users compare products they own to products on safety recall lists.</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+        <div class="dataset-link clearfix"> 
+         <a class="btn btn-default pull-right local-link" href="http://catalog.data.gov/dataset?q=recall&amp;groups=safety3175"> <span class="glyphicon glyphicon-download"></span> View this Dataset </a> 
+        </div> 
+       </div>
+       <!--/.highlight--> 
+       <div class="pull-right clearfix" style="margin-top:-45px;"> 
+        <a href="/consumer/highlights" class="more-link">More Highlights</a> 
+       </div> 
+       <h1 style="clear:both;" class="category category-header topic-counties"> <a href="/counties"><i></i> <span>Counties</span></a> </h1> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Montgomery County Employee Salaries</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p>Salary information for all active, permanent employees of Montgomery County, Maryland, as of January 15, 2013. This data will be updated annually. This is presented as an interactive, easy-to-explore dataset.</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+        <div class="dataset-link clearfix"> 
+         <a class="btn btn-default pull-right external ext-link" href="https://data.montgomerycountymd.gov/Government/Employee-Salaries/jydr-f7vx" rel="external" onclick="this.target='_blank';"> <span class="glyphicon glyphicon-download"></span> View this Dataset </a> 
+        </div> 
+       </div>
+       <!--/.highlight--> 
+       <div class="pull-right clearfix" style="margin-top:-45px;"> 
+        <a href="/counties/highlights" class="more-link">More Highlights</a> 
+       </div> 
+       <h1 style="clear:both;" class="category category-header topic-developers"> <a href="/developers"><i></i> <span>Developers</span></a> </h1> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Financial Services Consumer Complaint Database</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p>The <a href="http://catalog.data.gov/dataset/consumer-complaint-database" class="local-link">Consumer Complaint Database</a> contains data from the complaints received by the Consumer Financial Protection Bureau (<abbr>CFPB</abbr>) on financial products and services, including bank accounts, credit cards, credit reporting, debt collection, money transfers, mortgages, student loans, and other types of consumer credit. The database contains over 100,000 anonymized complaints and is refreshed daily. Data available about each complaint includes the name of the provider, type of complaint, date, zip code, and other information. The <abbr title="Consumer Financial Protection Bureau">CFPB</abbr> does not verify the accuracy of all facts alleged in the complaints, but takes steps to confirm a commercial relationship between the consumer and the identified company exists.</p> 
+         <p class="description"><strong>Data in Action: Combatting Fraud</strong></p> 
+         <p class="description">One company uses big-data analytics to find grey charges on users’ credit cards and debit cards by drawing upon billing dispute data from the web, banks, and the <abbr title="Consumer Financial Protection Bureau">CFPB</abbr>’s open consumer complaint database.</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+        <div class="dataset-link clearfix"> 
+         <a class="btn btn-default pull-right local-link" href="http://catalog.data.gov/dataset/consumer-complaint-database"> <span class="glyphicon glyphicon-download"></span> View this Dataset </a> 
+        </div> 
+       </div>
+       <!--/.highlight--> 
+       <div class="pull-right clearfix" style="margin-top:-45px;"> 
+        <a href="/developers/highlights" class="more-link">More Highlights</a> 
+       </div> 
+       <h1 style="clear:both;" class="category category-header topic-disasters-legacy"> <a href="/disasters-legacy"><i></i> <span>Disasters</span></a> </h1> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Join the Third Annual Safety Datapalooza Livestream</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p>The Third Annual Safety Datapalooza is being held today from 9 AM to 1 PM ET at the U.S. Patent and Trademark Office. The event will be livestreamed at <a href="http://livestream.com/uspto/SafetyDatapalooza" target="_blank" class="external ext-link" rel="external" onclick="this.target='_blank';">http://livestream.com/uspto/SafetyDatapalooza</a>.</p> 
+         <p>From 10:50 – 11:30 AM ET, the Innovation for Disaster Response and Recovery Initiative will be featured during a panel moderated by the White House Office of Science and Technology Policy. Panelists from the National Institutes of Health, U.S. Department of Homeland Security, U.S. Department of Energy, U.S. Geological Survey, and the Data.gov team will discuss recent technology and innovation milestones, #opendata efforts, and opportunities for public engagement.</p> 
+         <p>This year’s Safety Datapalooza will provide an overview of ongoing programs as well as new commitments. Senior government representatives will join innovators from private, nonprofit, and academic organizations, sharing examples of projects that have used freely available government data to build products, services, and apps that advance public safety in creative and powerful ways.</p> 
+         <p>The event will include new safety data resources in the areas of transportation, food, occupational, and consumer product safety, as well as tools to improve disaster preparedness and emergency response.</p> 
+         <p>Follow @SafetyDataGov on Twitter and #SafetyData #DisasterTech for the latest information about the event and ongoing efforts.</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+       </div>
+       <!--/.highlight--> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Launching Disasters.Data.Gov to Empower First Responders and Survivors with Innovative Tools and Data</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p>Strengthening our Nation’s resilience to disasters is a shared responsibility, with all community members contributing their unique skills and perspectives. Whether you’re a data steward who can <a href="http://www.data.gov/disasters/call-action-open-data/" class="local-link">unlock information and foster a culture of open data</a>, an innovator who can help <a href="http://www.data.gov/disasters/innovator-challenge/" class="local-link">address disaster preparedness challenges</a>, or a volunteer ready to <a href="http://www.data.gov/disasters/get-involved/" class="local-link">join the “Innovation for Disasters” movement</a>, we are excited for you to visit the new <a href="http://disasters.data.gov" class="local-link">disasters.data.gov</a> site, launching today.</p> 
+         <p><a href="/disasters/launching-disasters-data-gov-empower-first-responders-survivors-innovative-tools-data">Read more</a></p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+       </div>
+       <!--/.highlight--> 
+       <div class="pull-right clearfix" style="margin-top:-45px;"> 
+        <a href="/disasters-legacy/highlights" class="more-link">More Highlights</a> 
+       </div> 
+       <h1 style="clear:both;" class="category category-header topic-ecosystem-vulnerability"> <a href="/ecosystem-vulnerability"><i></i> <span>Ecosystem Vulnerability</span></a> </h1> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Microsoft Launches “Innovation Challenge” around Food Resilience</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p class="p1"><b>WASHINGTON,&nbsp;July 27,&nbsp;2015</b>&nbsp;–&nbsp;The U.S. Department of Agriculture is partnering with Microsoft to launch the “Innovation Challenge,” a competition to develop software applications that help farmers, agriculture businesses, and consumers explore how climate change will affect their food systems.</p> 
+         <p class="p1">The Innovation Challenge was&nbsp;formally launched on July 27<span class="s1"><sup>th</sup></span>&nbsp;at a conference of the Agricultural &amp; Applied Economics&nbsp;Association in San Francisco. Challenge participants have 3 months to create their applications, with a top prize of $25,000 going to the most creative application that best exploits USDA data sets that are now being hosted on Microsoft Azure, Microsoft’s cloud computing platform.</p> 
+         <p class="p1">Entrants are invited to develop and publish new applications and tools that can help users analyze multiple sources of information, including key USDA data sets. In addition, Microsoft is granting cloud computing awards to aid university researchers and students that are looking to take part in the challenge.&nbsp; Challenge winners will be announced in December 2015.</p> 
+         <p class="p1">Full details of the challenge can be found at&nbsp;<a href="x-webdoc://979AC4A7-D7E8-4D6B-9B6D-65A5FEE005CD/%3Ehttp://usdaapps.challengepost.com%3C" class="external ext-link" rel="external" onclick="this.target='_blank';"><span class="s2">&gt;http://usdaapps.challengepost.com&lt;</span></a>.</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+       </div>
+       <!--/.highlight--> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Launch of Energy &amp; Infrastructure Resilience theme of Climate.Data.Gov</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p>To help communities, governments, businesses, and research institutions better understand and plan for the risks of storms, floods, and other climate-change-related impacts, the U.S. Government is enhancing accessibility and releasing today a collection of datasets containing scientific and technical information that may help inform the current and potential future effects of climate change on energy and infrastructure.</p> 
+         <p>These data are also being made available via mapping services on&nbsp;Geoplatform.gov. The resources provided here can be used to explore and develop insights for a number of relevant questions, such as:</p> 
+         <p>1) How are fundamental energy resources impacted by climate?</p> 
+         <p>2) How might changes in climate and natural resource availability impact energy conversion infrastructure and processes?</p> 
+         <p>3) How might climate impact energy transmission and distribution systems?</p> 
+         <p>4) How might energy demands be impacted by climate change, including heating and cooling but also energy losses and energy used for adaptation by other sectors?</p> 
+         <p>5) What capacity do we currently have to adapt energy systems, and how might technology solutions, systems designs, and operational changes improve energy system resilience for climate change?</p> 
+         <p>6) How might climate change impact energy infrastructure and its interactions with networked and interconnected infrastructure systems?</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+       </div>
+       <!--/.highlight--> 
+       <div class="pull-right clearfix" style="margin-top:-45px;"> 
+        <a href="/ecosystem-vulnerability/highlights" class="more-link">More Highlights</a> 
+       </div> 
+       <h1 style="clear:both;" class="category category-header topic-ecosystems"> <a href="/ecosystems"><i></i> <span>Ecosystems</span></a> </h1> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title"></h2> 
+        </header> 
+        <article class="no-image"> 
+         <div class="greyblock" style="background: none; margin-top: -32px; padding-top: 0px;"> 
+          <h3 style="text-align: center; font-size: 21px;">Biodiversity Resource Hub</h3> 
+          <p style="text-align: center; margin-top: 28px; margin-bottom: 0px;"><a class="local-link external ext-link" href="https://bison.usgs.gov/" target="_blank" rel="external" onclick="this.target='_blank';"><img class=" wp-image-133482 aligncenter" title="California poppy (Eschscholzia californica) occurrence map" src="https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2014/01/bison_home_tn.png" alt="" width="265" height="150"></a></p> 
+          <p style="text-align: left; font-size: 21px;"><a class="local-link external ext-link" href="https://bison.usgs.gov/" target="_blank" rel="external" onclick="this.target='_blank';">Biodiversity Information Serving Our Nation</a></p> 
+         </div> 
+         <div class="greyblock" style="background: none; margin-top: -32px; padding-top: 0px;"> 
+          <h3 style="text-align: center; font-size: 21px; margin-bottom: 5px;">Ecosystem Services Resource Hub</h3> 
+          <p style="text-align: center; margin-bottom: 0px;"><a class="local-link external ext-link" href="http://enviroatlas.epa.gov/enviroatlas/" target="_blank" rel="external" onclick="this.target='_blank';"><img class="aligncenter wp-image-133512" title="Access to nature has implications for health and well-being; map shows access to parks for Durham, NC" src="https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2014/01/enviro_atlas_home_tn.png" alt="" width="265" height="150"></a></p> 
+          <p style="text-align: left; font-size: 21px;"><a class="local-link external ext-link" href="http://enviroatlas.epa.gov/enviroatlas/" target="_blank" rel="external" onclick="this.target='_blank';">EnviroAtlas</a></p> 
+         </div> 
+         <div class="greyblock" style="background: none; margin-top: -32px; padding-top: 0px;"> 
+          <h3 style="text-align: center; font-size: 21px; margin-bottom: 5px;">Land Cover Dynamics Resource Hub</h3> 
+          <p style="text-align: center; font-size: 23px; margin-bottom: 0px;"><a class="local-link external ext-link" href="http://www.mrlc.gov/" target="_blank" rel="external" onclick="this.target='_blank';"><img class="aligncenter wp-image-133532" title="NLCD 2006 conterminous United States land cover" src="https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2014/01/us_map_home_tn.png" alt="" width="265" height="150"></a></p> 
+          <p style="text-align: left; font-size: 21px;"><a class="local-link external ext-link" href="http://www.mrlc.gov/" target="_blank" rel="external" onclick="this.target='_blank';">Multi-Resolution Land Characteristics Consortium</a></p> 
+         </div> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+       </div>
+       <!--/.highlight--> 
+       <div class="pull-right clearfix" style="margin-top:-45px;"> 
+        <a href="/ecosystems/highlights" class="more-link">More Highlights</a> 
+       </div> 
+       <h1 style="clear:both;" class="category category-header topic-education"> <a href="/education"><i></i> <span>Education</span></a> </h1> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Higher Education Datasets</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p>Integrated Postsecondary Education Data System (<abbr>IPED</abbr>s) includes information from every college, university, and technical and vocational institution that participates in the federal student financial aid programs. Datasets include year-over-year enrollments, program completions, graduation rates, faculty and staff, finances, institutional prices, and student financial aid.</p> 
+         <p>Examples of this data in action are:</p> 
+         <p><a href="https://www.alltuition.com/" class="external ext-link" rel="external" onclick="this.target='_blank';">Alltuition</a> makes college more affordable by matching prospective students with the grants, scholarships, and loans they qualify for based on their demographic data.</p> 
+         <p><a href="http://www.simpletuition.com/" class="external ext-link" rel="external" onclick="this.target='_blank';">Simple Tuition</a> uses higher education data to match students with the most affordable college loans and repayment options.</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+        <div class="dataset-link clearfix"> 
+         <a class="btn btn-default pull-right local-link" href="https://catalog.data.gov/dataset?tags=integrated-postsecondary-education-data-system&amp;q=Integrated+Postsecondary+Education+Data+System"> <span class="glyphicon glyphicon-download"></span> View this Dataset </a> 
+        </div> 
+       </div>
+       <!--/.highlight--> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Open Badges</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p>Open Badges is an innovative infrastructure that allows colleges and industry organizations to award micro-credentials (badges) to students who demonstrate proficiency in specific competencies. A student may earn a particular competency badge by demonstrating prior experience, or by participating in courses or informal learning experiences. Because the technology behind the badges is open, a learner can collect badges from any number of different organizations and showcase them in one single place.</p> 
+         <p><a href="http://www.openbadges.org/" class="external ext-link" rel="external" onclick="this.target='_blank';">Examples of these datasets in action</a></p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+        <div class="dataset-link clearfix"> 
+         <a class="btn btn-default pull-right external ext-link" href="http://www.ed.gov/edblogs/technology/education-data-initiative/" rel="external" onclick="this.target='_blank';"> <span class="glyphicon glyphicon-download"></span> View this Dataset </a> 
+        </div> 
+       </div>
+       <!--/.highlight--> 
+       <div class="pull-right clearfix" style="margin-top:-45px;"> 
+        <a href="/education/highlights" class="more-link">More Highlights</a> 
+       </div> 
+       <h1 style="clear:both;" class="category category-header topic-energy"> <a href="/energy"><i></i> <span>Energy</span></a> </h1> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Hourly information on U.S. electricity supply, demand, and flows now available from the U.S. Energy Information Administration</h2> 
+        </header> 
+        <div class="featured-image col-md-4"> 
+         <img width="300" height="258" src="https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2016/08/unnamed-300x258.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2016/08/unnamed-300x258.jpg 300w, https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2016/08/unnamed.jpg 325w" sizes="(max-width: 300px) 100vw, 300px"> 
+        </div> 
+        <article class="col-md-8"> 
+         <p><span style="font-weight: 400;">To a federal statistical agency like the U.S. Energy Information Administration (EIA), there’s nothing more satisfying than providing needed information that can facilitate more informed analysis and policy decisions on a national and regional level. EIA recently launched a new </span><a href="http://www.eia.gov/beta/realtime_grid" class="external ext-link" rel="external" onclick="this.target='_blank';"><span style="font-weight: 400;">U.S. Electric System Operating Data tool</span></a><span style="font-weight: 400;">, which provides hourly electricity operating data, including actual and forecast demand, net generation, and the power flowing between electric systems. &nbsp;The tool features nearly real-time demand data, plus analysis and visualizations of hourly, daily, and weekly electricity supply and demand on a national and regional level for all of the 66 electric system </span><a href="http://www.eia.gov/todayinenergy/detail.cfm?id=27152" class="external ext-link" rel="external" onclick="this.target='_blank';"><span style="font-weight: 400;">balancing authorities</span></a><span style="font-weight: 400;"> that make up the U.S. electric grid.</span></p> 
+         <p><span style="font-weight: 400;">The information is collected directly from each interconnected electric system </span><span style="font-weight: 400;">on the EIA-930 survey, the first hourly data collection conducted by a federal statistical agency. &nbsp;Although electric system balancing authorities covering most of the United States have released voluminous public, nearly real-time information on </span><span style="font-weight: 400;">grid operations since the late 1990s, EIA’s U.S. Electric System Operating Data tool expands the availability of data to the entire contiguous 48 states, and makes it available in a consistent format from a single source.</span></p> 
+         <p><span style="font-weight: 400;">Among other applications, the data can be used to provide timely information on electric system recovery after power interruptions and to help evaluate the effects of renewable energy, smart grid, and demand-response programs on power system </span><span style="font-weight: 400;">operations. &nbsp;The tool allows you to visualize and analyze:</span></p> 
+         <ul> 
+          <li style="font-weight: 400;"><span style="font-weight: 400;">Total U.S. and regional electricity demand on an hourly basis</span></li> 
+          <li style="font-weight: 400;"><span style="font-weight: 400;">The hourly flow of electricity between electric systems</span></li> 
+          <li style="font-weight: 400;"><span style="font-weight: 400;">The wide variety in electric systems’ daily demand shapes and the seasonality of daily demand patterns</span></li> 
+          <li style="font-weight: 400;"><span style="font-weight: 400;">The extent to which electric systems rely on internal and external sources of supply to meet their demand</span></li> 
+          <li style="font-weight: 400;"><span style="font-weight: 400;">Potential stress on electric systems when actual demand significantly exceeds forecasted demand</span></li> 
+          <li style="font-weight: 400;"><span style="font-weight: 400;">Total hourly flows of electricity with Canada and Mexico</span></li> 
+         </ul> 
+         <p><span style="font-weight: 400;">To learn more, watch the U.S. Electric System Operating data tool </span><a href="https://www.youtube.com/watch?v=L3EY3gPZyCk&amp;feature=youtu.be" class="external ext-link" rel="external" onclick="this.target='_blank';"><span style="font-weight: 400;">promotional video</span></a><span style="font-weight: 400;">, along with a </span><a href="https://www.youtube.com/playlist?list=PL2OD0gKF-sIX0OleecIN9sDxNZg9tLBhp" class="external ext-link" rel="external" onclick="this.target='_blank';"><span style="font-weight: 400;">set of four video tutorials</span></a><span style="font-weight: 400;">.</span></p> 
+         <p><span style="font-weight: 400;">And have fun exploring!</span></p> 
+         <p>&nbsp;</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+       </div>
+       <!--/.highlight--> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">APIs from the Energy Information Administration</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p>The Energy Information Administration collects statistics on energy generation, distribution and consumption in the United States. Their new APIs provide developers easy access to EIA’s extensive data on electricity, petroleum, natural gas, and more.</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+        <div class="dataset-link clearfix"> 
+         <a class="btn btn-default pull-right external ext-link" href="http://www.eia.gov/beta/api/" rel="external" onclick="this.target='_blank';"> <span class="glyphicon glyphicon-download"></span> View this Dataset </a> 
+        </div> 
+       </div>
+       <!--/.highlight--> 
+       <div class="pull-right clearfix" style="margin-top:-45px;"> 
+        <a href="/energy/highlights" class="more-link">More Highlights</a> 
+       </div> 
+       <h1 style="clear:both;" class="category category-header topic-energy-infrastructure"> <a href="/energy-infrastructure"><i></i> <span>Energy Infrastructure</span></a> </h1> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Microsoft Launches “Innovation Challenge” around Food Resilience</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p class="p1"><b>WASHINGTON,&nbsp;July 27,&nbsp;2015</b>&nbsp;–&nbsp;The U.S. Department of Agriculture is partnering with Microsoft to launch the “Innovation Challenge,” a competition to develop software applications that help farmers, agriculture businesses, and consumers explore how climate change will affect their food systems.</p> 
+         <p class="p1">The Innovation Challenge was&nbsp;formally launched on July 27<span class="s1"><sup>th</sup></span>&nbsp;at a conference of the Agricultural &amp; Applied Economics&nbsp;Association in San Francisco. Challenge participants have 3 months to create their applications, with a top prize of $25,000 going to the most creative application that best exploits USDA data sets that are now being hosted on Microsoft Azure, Microsoft’s cloud computing platform.</p> 
+         <p class="p1">Entrants are invited to develop and publish new applications and tools that can help users analyze multiple sources of information, including key USDA data sets. In addition, Microsoft is granting cloud computing awards to aid university researchers and students that are looking to take part in the challenge.&nbsp; Challenge winners will be announced in December 2015.</p> 
+         <p class="p1">Full details of the challenge can be found at&nbsp;<a href="x-webdoc://979AC4A7-D7E8-4D6B-9B6D-65A5FEE005CD/%3Ehttp://usdaapps.challengepost.com%3C" class="external ext-link" rel="external" onclick="this.target='_blank';"><span class="s2">&gt;http://usdaapps.challengepost.com&lt;</span></a>.</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+       </div>
+       <!--/.highlight--> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Launch of Energy &amp; Infrastructure Resilience theme of Climate.Data.Gov</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p>To help communities, governments, businesses, and research institutions better understand and plan for the risks of storms, floods, and other climate-change-related impacts, the U.S. Government is enhancing accessibility and releasing today a collection of datasets containing scientific and technical information that may help inform the current and potential future effects of climate change on energy and infrastructure.</p> 
+         <p>These data are also being made available via mapping services on&nbsp;Geoplatform.gov. The resources provided here can be used to explore and develop insights for a number of relevant questions, such as:</p> 
+         <p>1) How are fundamental energy resources impacted by climate?</p> 
+         <p>2) How might changes in climate and natural resource availability impact energy conversion infrastructure and processes?</p> 
+         <p>3) How might climate impact energy transmission and distribution systems?</p> 
+         <p>4) How might energy demands be impacted by climate change, including heating and cooling but also energy losses and energy used for adaptation by other sectors?</p> 
+         <p>5) What capacity do we currently have to adapt energy systems, and how might technology solutions, systems designs, and operational changes improve energy system resilience for climate change?</p> 
+         <p>6) How might climate change impact energy infrastructure and its interactions with networked and interconnected infrastructure systems?</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+       </div>
+       <!--/.highlight--> 
+       <div class="pull-right clearfix" style="margin-top:-45px;"> 
+        <a href="/energy-infrastructure/highlights" class="more-link">More Highlights</a> 
+       </div> 
+       <h1 style="clear:both;" class="category category-header topic-finance"> <a href="/finance"><i></i> <span>Finance</span></a> </h1> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Small Business Lending with Open Data</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p><strong>Data in Action: Bringing Capital to Main Street&nbsp;</strong></p> 
+         <p>Open data is helping bring capital to Main Street businesses. For example, one fast-growing lender is combining data from a wide range of government sources to make working capital loans to small businesses.&nbsp;Using open data on industry-level economic trends, the company is able to build finer-tuned predictive models. Another data analytics startup is working with banks to unlock insights about businesses from new government sources. Critical data about businesses are buried in unexpected places. For example, it is possible to estimate the number of employees a given company has based on existing, <a href="https://catalog.data.gov/dataset/ebsa-form-5500-annual-return-report-filing-enforcement-data" target="_blank" class="local-link">publicly available data</a> about participants its retirement plan.</p> 
+         <p>Check out our extensive <a href="https://catalog.data.gov/dataset?groups=finance3432#topic=finance_navigation" class="local-link">data</a>, including the&nbsp;<a href="http://catalog.data.gov/dataset/producer-price-index" target="_blank" class="local-link">BLS Producer Price Index</a>,&nbsp;<a href="http://www.census.gov/mtis/" target="_blank" class="external ext-link" rel="external" onclick="this.target='_blank';">Census data on manufacturing and trade inventories and sales</a>,&nbsp;<a href="http://catalog.data.gov/dataset/monthly-retail-trade-survey" target="_blank" class="local-link">monthly</a>&nbsp;and&nbsp;<a href="http://catalog.data.gov/dataset/annual-retail-trade-survey" target="_blank" class="local-link">annual retail trade survey data</a>, the&nbsp;<a href="http://catalog.data.gov/dataset/north-american-industry-classification-system-naics" target="_blank" class="local-link">NAICS business data classification system</a>&nbsp;to start innovating to bring capital to America’s small businesses today!</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+        <div class="dataset-link clearfix"> 
+         <a class="btn btn-default pull-right local-link" href="http://catalog.data.gov/group/finance3432"> <span class="glyphicon glyphicon-download"></span> View this Dataset </a> 
+        </div> 
+       </div>
+       <!--/.highlight--> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Federal Student Loan and Financial Aid Open Data</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p>The Department of Education’s <a href="http://studentaid.ed.gov/" class="external ext-link" rel="external" onclick="this.target='_blank';">Office of Federal Student Aid</a> delivers aid to students, including through federal loan, grant, and work-study programs. There is extensive data available related to these programs, including information about over 6,000 individual colleges and postsecondary institutions. For example, there is data available on <a href="http://ifap.ed.gov/DefaultManagement/finalcdrg.html" class="external ext-link" rel="external" onclick="this.target='_blank';">cohort federal student loan default rates</a> by school, lender, state, and institution type.</p> 
+         <p>Got to the <a href="http://studentaid.ed.gov/data-center" class="external ext-link" rel="external" onclick="this.target='_blank';">Federal Student Aid Data Center</a>.</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+        <div class="dataset-link clearfix"> 
+         <a class="btn btn-default pull-right external ext-link" href="http://studentaid.ed.gov/data-center" rel="external" onclick="this.target='_blank';"> <span class="glyphicon glyphicon-download"></span> View this Dataset </a> 
+        </div> 
+       </div>
+       <!--/.highlight--> 
+       <div class="pull-right clearfix" style="margin-top:-45px;"> 
+        <a href="/finance/highlights" class="more-link">More Highlights</a> 
+       </div> 
+       <h1 style="clear:both;" class="category category-header topic-foodresilience"> <a href="/foodresilience"><i></i> <span>Food Resilience</span></a> </h1> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Microsoft Launches “Innovation Challenge” around Food Resilience</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p class="p1"><b>WASHINGTON,&nbsp;July 27,&nbsp;2015</b>&nbsp;–&nbsp;The U.S. Department of Agriculture is partnering with Microsoft to launch the “Innovation Challenge,” a competition to develop software applications that help farmers, agriculture businesses, and consumers explore how climate change will affect their food systems.</p> 
+         <p class="p1">The Innovation Challenge was&nbsp;formally launched on July 27<span class="s1"><sup>th</sup></span>&nbsp;at a conference of the Agricultural &amp; Applied Economics&nbsp;Association in San Francisco. Challenge participants have 3 months to create their applications, with a top prize of $25,000 going to the most creative application that best exploits USDA data sets that are now being hosted on Microsoft Azure, Microsoft’s cloud computing platform.</p> 
+         <p class="p1">Entrants are invited to develop and publish new applications and tools that can help users analyze multiple sources of information, including key USDA data sets. In addition, Microsoft is granting cloud computing awards to aid university researchers and students that are looking to take part in the challenge.&nbsp; Challenge winners will be announced in December 2015.</p> 
+         <p class="p1">Full details of the challenge can be found at&nbsp;<a href="x-webdoc://979AC4A7-D7E8-4D6B-9B6D-65A5FEE005CD/%3Ehttp://usdaapps.challengepost.com%3C" class="external ext-link" rel="external" onclick="this.target='_blank';"><span class="s2">&gt;http://usdaapps.challengepost.com&lt;</span></a>.</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+       </div>
+       <!--/.highlight--> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Launch of Energy &amp; Infrastructure Resilience theme of Climate.Data.Gov</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p>To help communities, governments, businesses, and research institutions better understand and plan for the risks of storms, floods, and other climate-change-related impacts, the U.S. Government is enhancing accessibility and releasing today a collection of datasets containing scientific and technical information that may help inform the current and potential future effects of climate change on energy and infrastructure.</p> 
+         <p>These data are also being made available via mapping services on&nbsp;Geoplatform.gov. The resources provided here can be used to explore and develop insights for a number of relevant questions, such as:</p> 
+         <p>1) How are fundamental energy resources impacted by climate?</p> 
+         <p>2) How might changes in climate and natural resource availability impact energy conversion infrastructure and processes?</p> 
+         <p>3) How might climate impact energy transmission and distribution systems?</p> 
+         <p>4) How might energy demands be impacted by climate change, including heating and cooling but also energy losses and energy used for adaptation by other sectors?</p> 
+         <p>5) What capacity do we currently have to adapt energy systems, and how might technology solutions, systems designs, and operational changes improve energy system resilience for climate change?</p> 
+         <p>6) How might climate change impact energy infrastructure and its interactions with networked and interconnected infrastructure systems?</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+       </div>
+       <!--/.highlight--> 
+       <div class="pull-right clearfix" style="margin-top:-45px;"> 
+        <a href="/foodresilience/highlights" class="more-link">More Highlights</a> 
+       </div> 
+       <h1 style="clear:both;" class="category category-header topic-geospatial"> <a href="/geospatial"><i></i> <span>Geospatial</span></a> </h1> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">AirAtlas: Air Quality in National Parks</h2> 
+        </header> 
+        <div class="featured-image col-md-4"> 
+         <img width="300" height="201" src="https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2013/12/nitrogendep2002-300x201.gif" class="attachment-medium size-medium wp-post-image" alt=""> 
+        </div> 
+        <article class="col-md-8"> 
+         <p>AirAtlas is a series of web maps that show estimated air quality statistics for atmospheric deposition, ozone, and visibility in the contiguous U.S. The maps also show National Park Service (NPS) units and monitoring locations for each of those air pollutant categories. Specific estimates of each statistic are available for every NPS unit in the contiguous U.S.</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+        <div class="dataset-link clearfix"> 
+         <a class="btn btn-default pull-right external ext-link" href="http://nature.nps.gov/air/maps/airatlas/index.cfm" rel="external" onclick="this.target='_blank';"> <span class="glyphicon glyphicon-download"></span> View this Dataset </a> 
+        </div> 
+       </div>
+       <!--/.highlight--> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Everything you ever wanted to know about earthquakes? Yeah, we’ve got that.</h2> 
+        </header> 
+        <div class="featured-image col-md-4"> 
+         <img width="300" height="230" src="https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2013/12/mapinterface1-300x230.gif" class="attachment-medium size-medium wp-post-image" alt=""> 
+        </div> 
+        <article class="col-md-8"> 
+         <p>The USGS Earthquake Hazards program has everything you ever wanted to know about earthquakes and more — from maps to tips to trivia to data in a multitude of formats, serving everyone from your neighbor to your neighborhood scientist.&nbsp;The USGS locates about 50 earthquakes each day and 20,000 a year, and&nbsp;75 million Americans in 39 states live in places that are at risk of earthquakes. Where do you live?</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+        <div class="dataset-link clearfix"> 
+         <a class="btn btn-default pull-right external ext-link" href="http://earthquake.usgs.gov/" rel="external" onclick="this.target='_blank';"> <span class="glyphicon glyphicon-download"></span> View this Dataset </a> 
+        </div> 
+       </div>
+       <!--/.highlight--> 
+       <div class="pull-right clearfix" style="margin-top:-45px;"> 
+        <a href="/geospatial/highlights" class="more-link">More Highlights</a> 
+       </div> 
+       <h1 style="clear:both;" class="category category-header topic-development"> <a href="/development"><i></i> <span>Global Development</span></a> </h1> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Women’s Empowerment in Agriculture Index: Proof of Concept</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p>The index tracks change in women’s empowerment that occurs as a direct or indirect result of&nbsp;<a href="http://www.feedthefuture.gov/" class="external ext-link" rel="external" onclick="this.target='_blank';">Feed the Future</a>&nbsp;interventions in targeted geographic zones within the initiative’s 19 focus countries. Data for the WEAI will be collected every two years in all 19 countries, and baselines were collected in 2011 and 2012. USAID and partners will conduct data analyses to understand the relationships among empowerment, livelihoods, and food security, as well as relationships among the various components of the index.</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+        <div class="dataset-link clearfix"> 
+         <a class="btn btn-default pull-right local-link" href="http://catalog.data.gov/dataset/womens-empowerment-in-agriculture-index-proof-of-concept"> <span class="glyphicon glyphicon-download"></span> View this Dataset </a> 
+        </div> 
+       </div>
+       <!--/.highlight--> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Demographic and Health Surveys</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p>The Demographic and Health Surveys (<abbr>DHS</abbr>) program has collected, analyzed, and disseminated accurate data on population, health, HIV, and nutrition through more than 300 surveys in over 90 countries. These surveys cover AIDS indicators, gender, malaria indicators, youth, family planning, health facility provisions, benchmarking surveys, key indicators, geographic details, and qualitative interviews.</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+        <div class="dataset-link clearfix"> 
+         <a class="btn btn-default pull-right external ext-link" href="http://measuredhs.com/" rel="external" onclick="this.target='_blank';"> <span class="glyphicon glyphicon-download"></span> View this Dataset </a> 
+        </div> 
+       </div>
+       <!--/.highlight--> 
+       <div class="pull-right clearfix" style="margin-top:-45px;"> 
+        <a href="/development/highlights" class="more-link">More Highlights</a> 
+       </div> 
+       <h1 style="clear:both;" class="category category-header topic-health"> <a href="/health"><i></i> <span>Health</span></a> </h1> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Hospital Charge Data</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p>Data are being released that show significant variation across the country and within communities in what providers charge for common services. These data include information comparing the charges for the 100 most common inpatient services and 30 common outpatient services. &nbsp;Providers determine what they will charge for items and services provided to patients and these charges are the amount the providers bills for an item or service.</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+        <div class="dataset-link clearfix"> 
+         <a class="btn btn-default pull-right external ext-link" href="https://data.cms.gov/Medicare/Inpatient-Prospective-Payment-System-IPPS-Provider/97k6-zzx3" rel="external" onclick="this.target='_blank';"> <span class="glyphicon glyphicon-download"></span> View this Dataset </a> 
+        </div> 
+       </div>
+       <!--/.highlight--> 
+       <div class="pull-right clearfix" style="margin-top:-45px;"> 
+        <a href="/health/highlights" class="more-link">More Highlights</a> 
+       </div> 
+       <h1 style="clear:both;" class="category category-header topic-humanhealth"> <a href="/humanhealth"><i></i> <span>Human Health</span></a> </h1> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Microsoft Launches “Innovation Challenge” around Food Resilience</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p class="p1"><b>WASHINGTON,&nbsp;July 27,&nbsp;2015</b>&nbsp;–&nbsp;The U.S. Department of Agriculture is partnering with Microsoft to launch the “Innovation Challenge,” a competition to develop software applications that help farmers, agriculture businesses, and consumers explore how climate change will affect their food systems.</p> 
+         <p class="p1">The Innovation Challenge was&nbsp;formally launched on July 27<span class="s1"><sup>th</sup></span>&nbsp;at a conference of the Agricultural &amp; Applied Economics&nbsp;Association in San Francisco. Challenge participants have 3 months to create their applications, with a top prize of $25,000 going to the most creative application that best exploits USDA data sets that are now being hosted on Microsoft Azure, Microsoft’s cloud computing platform.</p> 
+         <p class="p1">Entrants are invited to develop and publish new applications and tools that can help users analyze multiple sources of information, including key USDA data sets. In addition, Microsoft is granting cloud computing awards to aid university researchers and students that are looking to take part in the challenge.&nbsp; Challenge winners will be announced in December 2015.</p> 
+         <p class="p1">Full details of the challenge can be found at&nbsp;<a href="x-webdoc://979AC4A7-D7E8-4D6B-9B6D-65A5FEE005CD/%3Ehttp://usdaapps.challengepost.com%3C" class="external ext-link" rel="external" onclick="this.target='_blank';"><span class="s2">&gt;http://usdaapps.challengepost.com&lt;</span></a>.</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+       </div>
+       <!--/.highlight--> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Launch of Energy &amp; Infrastructure Resilience theme of Climate.Data.Gov</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p>To help communities, governments, businesses, and research institutions better understand and plan for the risks of storms, floods, and other climate-change-related impacts, the U.S. Government is enhancing accessibility and releasing today a collection of datasets containing scientific and technical information that may help inform the current and potential future effects of climate change on energy and infrastructure.</p> 
+         <p>These data are also being made available via mapping services on&nbsp;Geoplatform.gov. The resources provided here can be used to explore and develop insights for a number of relevant questions, such as:</p> 
+         <p>1) How are fundamental energy resources impacted by climate?</p> 
+         <p>2) How might changes in climate and natural resource availability impact energy conversion infrastructure and processes?</p> 
+         <p>3) How might climate impact energy transmission and distribution systems?</p> 
+         <p>4) How might energy demands be impacted by climate change, including heating and cooling but also energy losses and energy used for adaptation by other sectors?</p> 
+         <p>5) What capacity do we currently have to adapt energy systems, and how might technology solutions, systems designs, and operational changes improve energy system resilience for climate change?</p> 
+         <p>6) How might climate change impact energy infrastructure and its interactions with networked and interconnected infrastructure systems?</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+       </div>
+       <!--/.highlight--> 
+       <div class="pull-right clearfix" style="margin-top:-45px;"> 
+        <a href="/humanhealth/highlights" class="more-link">More Highlights</a> 
+       </div> 
+       <h1 style="clear:both;" class="category category-header topic-jobs-and-skills"> <a href="/jobs-and-skills"><i></i> <span>Jobs &amp; Skills</span></a> </h1> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Job Openings and Labor Turnover Survey</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p>The Job Openings and Labor Turnover Survey (JOLTS) program produces data on job openings, hires, and separations, providing an assessment of the availability of unfilled jobs, and information to help assess the presence or extent of labor shortages in the United States.</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+        <div class="dataset-link clearfix"> 
+         <a class="btn btn-default pull-right local-link" href="http://catalog.data.gov/dataset/job-openings-and-labor-turnover-survey-f70f4"> <span class="glyphicon glyphicon-download"></span> View this Dataset </a> 
+        </div> 
+       </div>
+       <!--/.highlight--> 
+       <div class="pull-right clearfix" style="margin-top:-45px;"> 
+        <a href="/jobs-and-skills/highlights" class="more-link">More Highlights</a> 
+       </div> 
+       <h1 style="clear:both;" class="category category-header topic-law"> <a href="/law"><i></i> <span>Law</span></a> </h1> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">EPA Consent Decrees</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p>What are the latest actions by the Environmental Protection Agency (EPA) to enforce environmental laws like the Clean Air Act and the Clean Water Act? The EPA Consent Decree dataset provides updated information on EPA enforcement actions to stop violations of environmental laws. The settlements and consent decrees dataset provides full information about the location of the violation, the company involved, the settlement terms and penalties, and the health and environmental benefits that will result from the enforcement action.</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+        <div class="dataset-link clearfix"> 
+         <a class="btn btn-default pull-right local-link" href="http://catalog.data.gov/dataset/consent-decrees"> <span class="glyphicon glyphicon-download"></span> View this Dataset </a> 
+        </div> 
+       </div>
+       <!--/.highlight--> 
+       <div class="pull-right clearfix" style="margin-top:-45px;"> 
+        <a href="/law/highlights" class="more-link">More Highlights</a> 
+       </div> 
+       <h1 style="clear:both;" class="category category-header topic-local"> <a href="/local"><i></i> <span>Local Government</span></a> </h1> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Local Severe Weather Warning Systems in Missouri</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p>List of severe weather alert systems throughout Missouri provided by local governments, media outlets, and other sources. This is an easy-to-explore, interactive dataset.</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+        <div class="dataset-link clearfix"> 
+         <a class="btn btn-default pull-right external ext-link" href="https://data.mo.gov/Public-Safety/Local-Severe-Weather-Warning-Systems-in-Missouri/n59h-ggai" rel="external" onclick="this.target='_blank';"> <span class="glyphicon glyphicon-download"></span> View this Dataset </a> 
+        </div> 
+       </div>
+       <!--/.highlight--> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Montgomery County Employee Salaries</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p>Salary information for all active, permanent employees of Montgomery County, Maryland, as of January 15, 2013. This data will be updated annually. This is presented as an interactive, easy-to-explore dataset.</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+        <div class="dataset-link clearfix"> 
+         <a class="btn btn-default pull-right external ext-link" href="https://data.montgomerycountymd.gov/Government/Employee-Salaries/jydr-f7vx" rel="external" onclick="this.target='_blank';"> <span class="glyphicon glyphicon-download"></span> View this Dataset </a> 
+        </div> 
+       </div>
+       <!--/.highlight--> 
+       <div class="pull-right clearfix" style="margin-top:-45px;"> 
+        <a href="/local/highlights" class="more-link">More Highlights</a> 
+       </div> 
+       <h1 style="clear:both;" class="category category-header topic-manufacturing"> <a href="/manufacturing"><i></i> <span>Manufacturing</span></a> </h1> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Federal R&amp;D Facilities for Entrepreneurs and Innovators</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p>As part of the Administration’s <a href="https://obamawhitehouse.archives.gov/blog/2014/03/14/lab-market-accelerating-research-breakthroughs-and-economic-growth2" class="external ext-link" rel="external" onclick="this.target='_blank';">Lab-to-Market initiative</a>, agencies are publishing machine-readable data on over 700 Federal R&amp;D facilities that may be utilized by entrepreneurs and innovators to research, prototype, and test new technologies. These facilities, operated by <a href="http://catalog.data.gov/dataset/agency-data-on-user-facilities" class="local-link">NASA</a>, the <a href="http://catalog.data.gov/dataset/doe-facilities" class="local-link">Department of Energy (DOE)</a>, and the <a href="http://catalog.data.gov/dataset/nih-core-facilities" class="local-link">National Institute of Health (NIH)</a>, include cutting-edge research tools and together represent billions of dollars of taxpayer investment.</p> 
+         <p>Each facility has its own set of use policies, so a contact person is included in the data wherever possible. For example, some entrepreneurs may be able to access NASA’s National Center for Advanced Manufacturing to produce the high-strength, defect-free joints required for cutting-edge aeronautics, or DOE’s Manufacturing Demonstration Facility at Oak Ridge National Laboratory for collaborative projects in additive manufacturing, composites and carbon fiber, and other leading clean energy technologies. <a href="research/federal-rd-facilities-open-collaboration/">Learn more…</a></p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+        <div class="dataset-link clearfix"> 
+         <a class="btn btn-default pull-right local-link" href="http://catalog.data.gov/dataset/agency-data-on-user-facilities"> <span class="glyphicon glyphicon-download"></span> View this Dataset </a> 
+        </div> 
+       </div>
+       <!--/.highlight--> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Manufacturing and Construction Statistics from the U.S. Census Bureau</h2> 
+        </header> 
+        <div class="featured-image col-md-4"> 
+         <img width="300" height="192" src="https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2013/12/cbsa_us_1107_large-300x192.gif" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2013/12/cbsa_us_1107_large-300x192.gif 300w, https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2013/12/cbsa_us_1107_large-1024x658.gif 1024w" sizes="(max-width: 300px) 100vw, 300px"> 
+        </div> 
+        <article class="col-md-8"> 
+         <p>The Census Bureau collects a variety of statistics on the manufacturing industry in the United States, including shipments, inventories and orders, energy consumption, plant capacity, exports, and more.</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+        <div class="dataset-link clearfix"> 
+         <a class="btn btn-default pull-right external ext-link" href="http://www.census.gov/mcd/" rel="external" onclick="this.target='_blank';"> <span class="glyphicon glyphicon-download"></span> View this Dataset </a> 
+        </div> 
+       </div>
+       <!--/.highlight--> 
+       <div class="pull-right clearfix" style="margin-top:-45px;"> 
+        <a href="/manufacturing/highlights" class="more-link">More Highlights</a> 
+       </div> 
+       <h1 style="clear:both;" class="category category-header topic-maritime"> <a href="/maritime"><i></i> <span>Maritime</span></a> </h1> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Of Sturgeon and Ships</h2> 
+        </header> 
+        <div class="featured-image col-md-4"> 
+         <img width="300" height="263" src="https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2019/03/James-river-example-vessel-tracks-300x263.png" class="attachment-medium size-medium wp-post-image" alt="Map of the Lower James River, Virginia, with vessel track lines overlaid on the map." srcset="https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2019/03/James-river-example-vessel-tracks-300x263.png 300w, https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2019/03/James-river-example-vessel-tracks.png 700w" sizes="(max-width: 300px) 100vw, 300px"> 
+        </div> 
+        <article class="col-md-8"> 
+         <p>The <a href="https://www.navcen.uscg.gov/" rel="noopener noreferrer external" target="_blank" class="external ext-link" onclick="this.target='_blank';">U.S. Coast Guard</a> maintains an archive of historical vessel position movements, collected through the Nationwide Automatic Identification System (NAIS). Originally designed to improve maritime safety and security, these historical vessel position records have proven to be a valuable resource for a variety of engineers and researchers studying the aquatic world. For example, fishery resource managers with the responsibility of improving multiple sturgeon populations have used historical data from the NAIS to evaluate where fish and vessels might interact. Before sturgeon populations crashed in the late 1800s, harvests along the Atlantic coast were measured in thousands of tons. If sturgeon populations rebound to their historical levels it could mean the renaissance of a commercial and recreational fishery that has been lost for generations. Understanding where sturgeon might be at risk from vessel strikes or propeller cuts is just one small part of a larger conservation and recovery effort around the country. The public can request historical vessel position data through the U.S. Coast Guard Navigation Center (NAVCEN) online portal. To learn more about sturgeon and efforts to rebuild fish stocks visit the <a href="https://www.fisheries.noaa.gov/species/atlantic-sturgeon" rel="noopener noreferrer external" target="_blank" class="external ext-link" onclick="this.target='_blank';">NOAA Fisheries website</a>.</p> 
+         <a href="https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2018/05/James-river-example-vessel-tracks.png" class="ext-image" rel="external" onclick="this.target='_blank';">Vessel track lines, James River, VA</a> Vessel tracks through the James River, Virginia. Processed using the AISAP tool developed by USACE-ERDC. 
+         <p><strong>References:</strong></p> 
+         <p>U.S. Coast Guard NAIS and Data Requests: https://www.navcen.uscg.gov/<br> E. J. Hilton, B. Kynard, M. T. Balazik, A. Z. Horodysky, and C. B. Dillman. 2016. Review of the biology, fisheries, and conservation status of the Atlantic Sturgeon, (Acipenser oxyrinchus oxyrinchus Mitchill, 1815). Journal of Applied Ichthyology, 32: 30-66.</p> 
+         <p>NOAA Fisheries, Species Directory, Atlantic Sturgeon: https://www.fisheries.noaa.gov/species/atlantic-sturgeon</p> 
+         <p><strong>Data.Gov Links related to this topic:</strong></p> 
+         <p>Green Sturgeon Acoustic Monitoring: https://catalog.data.gov/dataset/green-sturgeon-acoustic-monitoring</p> 
+         <p>White Sturgeon Distribution, Pacific Northwest: https://catalog.data.gov/dataset/white-sturgeon-distribution-pacific-northwest-updated-march-2006</p> 
+         <p>USGS National Hydrography Dataset: https://catalog.data.gov/dataset/usgs-national-hydrography-dataset-nhd-downloadable-data-collection-national-geospatial-data-as</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+       </div>
+       <!--/.highlight--> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Safety at Sea – U.S. Coast Guard Marine Casualty and Pollution Data for Researchers</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p>The U.S. Coast Guard (USCG)&nbsp;is responsible for investigating reportable marine casualties, accidents, and serious marine incidents.&nbsp; The relevant mission statement and&nbsp;specific&nbsp;regulations&nbsp;can be found on the <a href="https://homeport.uscg.mil/Lists/Content/DispForm.aspx?ID=2602" class="external ext-link" rel="external" onclick="this.target='_blank';">USCG Investigations Division homepage</a>.&nbsp; After an incident has been reported, it is entered into a national database of all marine casualty and pollution incidents.&nbsp; These important <a href="https://homeport.uscg.mil/missions/investigations/marine-casualty-pollution-investigations" class="external ext-link" rel="external" onclick="this.target='_blank';">historical records can then&nbsp;be accessed </a>by researchers interested in understanding&nbsp;maritime safety, accident prevention, or trends in certain types of maritime incidents through time.&nbsp; Other agencies interested in maritime transportation performance measures rely on the USCG&nbsp;data to <a href="http://navigation.usace.army.mil/MTS/Performance/Safety" class="external ext-link" rel="external" onclick="this.target='_blank';">examine incident trends </a>on U.S. waterways.&nbsp; Files for the <a href="https://homeport.uscg.mil/Lists/Content/DispForm.aspx?&amp;ID=211&amp;Source=https://homeport.uscg.mil/missions/investigations/marine-casualty-pollution-investigations" class="external ext-link" rel="external" onclick="this.target='_blank';">Marine Casualty and Pollution Data for Researchers datasets </a>can be downloaded directly from the U.S. Coast Guard Homeport website by following the drop-down menu options on the homepage&nbsp;<strong>Missions</strong>: <strong>Investigations</strong>: <a href="https://homeport.uscg.mil/missions/investigations/marine-casualty-pollution-investigations" class="external ext-link" rel="external" onclick="this.target='_blank';">Marine Casualty Pollution Investigations </a>page at https://homeport.uscg.mil/missions/investigations/marine-casualty-pollution-investigations.</p> 
+         <p>&nbsp;</p> 
+         <p>As described by the USCG,&nbsp;“the Marine Casualty and Pollution Data files provide details about marine casualty and pollution incidents investigated by Coast Guard Offices throughout the United States. The database can be used to analyze marine accidents and pollution incidents by a variety of factors including vessel or facility type, injuries, fatalities, pollutant details, location, and date.&nbsp; The data collection period began in 1982 for marine casualties and 1973 for polluting incidents, and is ongoing. Documentation includes entity and attribute descriptions along with suggested solutions to general marine pollution, vessel casualty, and personnel injury and death questions.”</p> 
+         <p>Visitors to the USCG Homeport data download site should note that there are three files available fore download, but it is the&nbsp;second file on the list (named MISLE_DATA.zip) that contains all available marine casualty data from January 2002 – July 2015.&nbsp; The files extracted from MISLE_DATA.zip&nbsp;can be opened with most standard spreadsheet editing software programs.</p> 
+         <p>Source: USCG Marine Casualty and Pollution Data, https://homeport.uscg.mil/missions/investigations/marine-casualty-pollution-investigations</p> 
+         <p>&nbsp;</p> 
+         <p><strong>Data.Gov Links Related to this topic:</strong></p> 
+         <p>USCG Marine Safety Information Data, https://catalog.data.gov/dataset/marine-safety-information-data</p> 
+         <p>USCG Facility Pollution Database, https://catalog.data.gov/dataset/uscg-facility-pollution</p> 
+         <p>&nbsp;</p> 
+         <figure id="attachment_24907821" class="thumbnail wp-caption aligncenter" style="width: 714px">
+          <img class="size-full wp-image-24907821" src="https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2017/11/USCG-incidents-investigations.jpg" alt="U.S. Coast Guard closed and unresolved incident investigations, 2002 - 2015 (part year)" width="714" height="492" srcset="https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2017/11/USCG-incidents-investigations.jpg 714w, https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2017/11/USCG-incidents-investigations-300x207.jpg 300w" sizes="(max-width: 714px) 100vw, 714px">
+          <figcaption class="caption wp-caption-text">
+           U.S. Coast Guard closed and open incident investigations, 2002 through 2015 (part year).
+          </figcaption>
+         </figure> 
+         <p>&nbsp;</p> 
+         <p>&nbsp;</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+       </div>
+       <!--/.highlight--> 
+       <div class="pull-right clearfix" style="margin-top:-45px;"> 
+        <a href="/maritime/highlights" class="more-link">More Highlights</a> 
+       </div> 
+       <h1 style="clear:both;" class="category category-header topic-meta"> <a href="/meta"><i></i> <span>Meta - The Data.gov Blog</span></a> </h1> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Safety at Sea – U.S. Coast Guard Marine Casualty and Pollution Data for Researchers</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p>The U.S. Coast Guard (USCG)&nbsp;is responsible for investigating reportable marine casualties, accidents, and serious marine incidents.&nbsp; The relevant mission statement and&nbsp;specific&nbsp;regulations&nbsp;can be found on the <a href="https://homeport.uscg.mil/Lists/Content/DispForm.aspx?ID=2602" class="external ext-link" rel="external" onclick="this.target='_blank';">USCG Investigations Division homepage</a>.&nbsp; After an incident has been reported, it is entered into a national database of all marine casualty and pollution incidents.&nbsp; These important <a href="https://homeport.uscg.mil/missions/investigations/marine-casualty-pollution-investigations" class="external ext-link" rel="external" onclick="this.target='_blank';">historical records can then&nbsp;be accessed </a>by researchers interested in understanding&nbsp;maritime safety, accident prevention, or trends in certain types of maritime incidents through time.&nbsp; Other agencies interested in maritime transportation performance measures rely on the USCG&nbsp;data to <a href="http://navigation.usace.army.mil/MTS/Performance/Safety" class="external ext-link" rel="external" onclick="this.target='_blank';">examine incident trends </a>on U.S. waterways.&nbsp; Files for the <a href="https://homeport.uscg.mil/Lists/Content/DispForm.aspx?&amp;ID=211&amp;Source=https://homeport.uscg.mil/missions/investigations/marine-casualty-pollution-investigations" class="external ext-link" rel="external" onclick="this.target='_blank';">Marine Casualty and Pollution Data for Researchers datasets </a>can be downloaded directly from the U.S. Coast Guard Homeport website by following the drop-down menu options on the homepage&nbsp;<strong>Missions</strong>: <strong>Investigations</strong>: <a href="https://homeport.uscg.mil/missions/investigations/marine-casualty-pollution-investigations" class="external ext-link" rel="external" onclick="this.target='_blank';">Marine Casualty Pollution Investigations </a>page at https://homeport.uscg.mil/missions/investigations/marine-casualty-pollution-investigations.</p> 
+         <p>&nbsp;</p> 
+         <p>As described by the USCG,&nbsp;“the Marine Casualty and Pollution Data files provide details about marine casualty and pollution incidents investigated by Coast Guard Offices throughout the United States. The database can be used to analyze marine accidents and pollution incidents by a variety of factors including vessel or facility type, injuries, fatalities, pollutant details, location, and date.&nbsp; The data collection period began in 1982 for marine casualties and 1973 for polluting incidents, and is ongoing. Documentation includes entity and attribute descriptions along with suggested solutions to general marine pollution, vessel casualty, and personnel injury and death questions.”</p> 
+         <p>Visitors to the USCG Homeport data download site should note that there are three files available fore download, but it is the&nbsp;second file on the list (named MISLE_DATA.zip) that contains all available marine casualty data from January 2002 – July 2015.&nbsp; The files extracted from MISLE_DATA.zip&nbsp;can be opened with most standard spreadsheet editing software programs.</p> 
+         <p>Source: USCG Marine Casualty and Pollution Data, https://homeport.uscg.mil/missions/investigations/marine-casualty-pollution-investigations</p> 
+         <p>&nbsp;</p> 
+         <p><strong>Data.Gov Links Related to this topic:</strong></p> 
+         <p>USCG Marine Safety Information Data, https://catalog.data.gov/dataset/marine-safety-information-data</p> 
+         <p>USCG Facility Pollution Database, https://catalog.data.gov/dataset/uscg-facility-pollution</p> 
+         <p>&nbsp;</p> 
+         <figure id="attachment_24907821" class="thumbnail wp-caption aligncenter" style="width: 714px">
+          <img class="size-full wp-image-24907821" src="https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2017/11/USCG-incidents-investigations.jpg" alt="U.S. Coast Guard closed and unresolved incident investigations, 2002 - 2015 (part year)" width="714" height="492" srcset="https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2017/11/USCG-incidents-investigations.jpg 714w, https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2017/11/USCG-incidents-investigations-300x207.jpg 300w" sizes="(max-width: 714px) 100vw, 714px">
+          <figcaption class="caption wp-caption-text">
+           U.S. Coast Guard closed and open incident investigations, 2002 through 2015 (part year).
+          </figcaption>
+         </figure> 
+         <p>&nbsp;</p> 
+         <p>&nbsp;</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+       </div>
+       <!--/.highlight--> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Roundtable on Open Data for Economic Growth</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p style="text-align: center;"><img class="aligncenter wp-image-24679645 " src="https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2017/07/omb-logo-e1500052684610.png" alt="" width="123" height="123"></p> 
+         <hr> 
+         <p><b><i>On July 25, 2017, the Executive Office of the President Office of Management and Budget (OMB) will host a Roundtable on Open Data as a driver for economic growth. Here’s why we’re focusing on this opportunity—and how you can help us. </i></b></p> 
+         <hr> 
+         <p>Open data is free, publicly available data that anyone can access and use without restrictions. U.S. Federal Open Data is a strategic national resource. American businesses depend on this government data to optimize their operations, improve their marketing, and develop new products and services. Federal Open Data also helps guide business investment, foster innovation, improve employment opportunities, and spur economic growth.</p> 
+         <p>The value of Federal Open Data to the United States has been estimated at hundreds of billions of dollars. The U.S. Department of Commerce calculates that internet publishing, consulting and market research firms use this data to generate more than $200 billion in revenues each year. Other studies have found that U.S. weather, GPS, Census, and health data support billions more in revenue in other sectors.</p> 
+         <p><em><strong>How do companies use government data to build their business?</strong></em></p> 
+         <table class=" aligncenter"> 
+          <tbody> 
+           <tr> 
+            <td><img class="wp-image-24675143 alignleft" src="https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2017/07/Screen-Shot-2017-07-11-at-10.10.33-AM-e1499801122343.png" alt="" width="46" height="40"></td> 
+            <td>&nbsp;<p></p> <p style="text-align: left; padding-left: 5px;"><b>Finance</b><span style="font-weight: 400;"> companies use a wide variety of data types to evaluate credit, guide investments, and quantify risks, including the risks of lending to individuals or businesses.</span></p> </td> 
+           </tr> 
+           <tr> 
+            <td><img class="wp-image-24675144 alignleft" src="https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2017/07/Screen-Shot-2017-07-11-at-10.10.39-AM.png" alt="" width="46" height="40"></td> 
+            <td>&nbsp;<p></p> <p><b>Healthcare</b><span style="font-weight: 400;"> companies tailor Precision Medicine treatments to individual needs, while others empower patients to find the best care at the best price by using data on hospitals, medical groups, medicines, and patient outcomes.</span></p></td> 
+           </tr> 
+           <tr> 
+            <td><img class="wp-image-24675145 alignleft" src="https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2017/07/Screen-Shot-2017-07-11-at-10.10.45-AM.png" alt="" width="46" height="40"></td> 
+            <td>&nbsp;<p></p> <p style="text-align: left; padding-left: 5px;"><b>Consumer retailers</b><span style="font-weight: 400;"> use GPS and weather data to improve shipping along supply chains. They also use Census data to target their marketing, choose new business locations, and identify consumer trends.</span></p> </td> 
+           </tr> 
+           <tr> 
+            <td><img class="wp-image-24675146 alignleft" src="https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2017/07/Screen-Shot-2017-07-11-at-10.10.51-AM.png" alt="" width="46" height="40"></td> 
+            <td>&nbsp;<p></p> <p style="text-align: left; padding-left: 5px;"><b>Transportation and trade</b><span style="font-weight: 400;"> companies use Federal data to make transportation more efficient, improve safety, and facilitate trade.</span></p> </td> 
+           </tr> 
+           <tr> 
+            <td style="text-align: left;"><img class="aligncenter wp-image-24686802 size-full" src="https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2017/07/globe-e1500899326957.jpg" alt="" width="46" height="44"></td> 
+            <td>&nbsp;<p></p> <p style="text-align: left; padding-left: 5px;"><b>Geospatial</b><span style="font-weight: 400;"> companies use open data to build mobile applications, GPS navigation tools, and real-time mapping platforms – all to find population growth trends, reduce road congestion, track flu outbreaks, and improve disaster response.</span></p> </td> 
+           </tr> 
+          </tbody> 
+         </table> 
+         <p>&nbsp;</p> 
+         <hr> 
+         <p><b>The Roundtable on Open Data for Economic Growth will emphasize how companies create value from and leverage freely available government data.</b><span style="font-weight: 400;"> Leaders in government and industry will explore the economic and societal benefits of Open Data for American businesses and entrepreneurs.</span></p> 
+         <p><span style="font-weight: 400;">This Roundtable methodology may be applied to other topics, for example, how Federal Open Data improves:</span></p> 
+         <ul> 
+          <li style="font-weight: 400;"><span style="font-weight: 400;">Return on investment for taxpayer dollars, and Federal spending</span></li> 
+          <li style="font-weight: 400;"><span style="font-weight: 400;">U.S. government efficiencies</span></li> 
+          <li style="font-weight: 400;"><span style="font-weight: 400;">Data-driven government and evidence-based policy</span></li> 
+         </ul> 
+         <p>We welcome your input. If you have suggestions for this Roundtable or future topics, please email <a href="mailto:datagov@gsa.gov?subject=2017 Roundtable on Open Data for Economic Growth">datagov@gsa.gov</a></p> 
+         <p>&nbsp;</p> 
+         <p><a href="https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2017/07/0-OpenDataRT1-EconomicGrowth-Agenda-DRAFT.pdf" class="external ext-link" rel="external" onclick="this.target='_blank';">Update 7/26/2017: Roundtable on Open Data for Economic Growth Agenda</a></p> 
+         <p>&nbsp;</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+       </div>
+       <!--/.highlight--> 
+       <div class="pull-right clearfix" style="margin-top:-45px;"> 
+        <a href="/meta/highlights" class="more-link">More Highlights</a> 
+       </div> 
+       <h1 style="clear:both;" class="category category-header topic-ocean"> <a href="/ocean"><i></i> <span>Ocean</span></a> </h1> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Water Column Sonar Data Collection</h2> 
+        </header> 
+        <div class="featured-image col-md-4"> 
+         <img width="300" height="144" src="https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2014/06/watercolumn_sonar-300x144.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2014/06/watercolumn_sonar-300x144.jpg 300w, https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2014/06/watercolumn_sonar.jpg 384w" sizes="(max-width: 300px) 100vw, 300px"> 
+        </div> 
+        <article class="col-md-8"> 
+         <p class="indent" style="color: #363636;"><span>NOAA collects and uses active acoustic (or sonar) data for a variety of mapping requirements. As the national archive for multibeam bathymetric data, NGDC manages over 15 million nautical miles of ship trackline data from sources worldwide. In 2011, NGDC, in partnership with NOAA’s National Marine Fisheries Service (NMFS), initiated a new archive for high resolution data collected with sonars capable of mapping the water column.</span></p> 
+         <p class="indent" style="color: #363636;"><span>Water column sonar data are collected on NOAA fishery survey vessels and academic and international fleets, and are used to assess the physical and biological characteristics of the ocean. Primary uses include 3-D mapping of fish schools and other mid-water marine organisms, assessing biological abundance, species identification, and habitat characterization. These data are also useful for evaluating underwater gas seeps, remotely monitoring undersea oil spills, and bathymetry.</span></p> 
+         <p class="indent" style="color: #363636;"><span>NGDC is working with scientists at NMFS and the Joint Hydrographic Center to ensure the long-term preservation and world-wide dissemination of these data.</span></p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+        <div class="dataset-link clearfix"> 
+         <a class="btn btn-default pull-right local-link" href="http://catalog.data.gov/dataset/water-column-sonar-data-collection"> <span class="glyphicon glyphicon-download"></span> View this Dataset </a> 
+        </div> 
+       </div>
+       <!--/.highlight--> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Maritime Limits and Boundaries of the United States</h2> 
+        </header> 
+        <div class="featured-image col-md-4"> 
+         <img width="268" height="215" src="https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2014/04/maritimeboundaries.jpg" class="attachment-medium size-medium wp-post-image" alt=""> 
+        </div> 
+        <article class="col-md-8"> 
+         <p>NOAA is responsible for depicting on its nautical charts the limits of the 12 nautical mile Territorial Sea, 24 nautical mile Contiguous Zone, and 200 nautical mile Exclusive Economic Zone (EEZ). The outer limit of each of these zones is measured from the U.S. normal baseline, which coincides with the low water line depicted on NOAA charts and includes closing lines across the entrances of legal bays and rivers, consistent with international law. </p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+        <div class="dataset-link clearfix"> 
+         <a class="btn btn-default pull-right local-link" href="https://catalog.data.gov/dataset/maritime-limits-and-boundaries-of-united-states-of-america"> <span class="glyphicon glyphicon-download"></span> View this Dataset </a> 
+        </div> 
+       </div>
+       <!--/.highlight--> 
+       <div class="pull-right clearfix" style="margin-top:-45px;"> 
+        <a href="/ocean/highlights" class="more-link">More Highlights</a> 
+       </div> 
+       <h1 style="clear:both;" class="category category-header topic-safety"> <a href="/safety"><i></i> <span>Safety</span></a> </h1> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Product Recalls</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p>The Safety community contains <a href="http://catalog.data.gov/dataset?ext_prev_extent=-139.21874999999997%2C8.754794702435618%2C-61.87499999999999%2C61.77312286453146&amp;groups=safety3175&amp;q=recall&amp;_groups_limit=0&amp;ext_location=&amp;sort=score+desc%2C+name+asc&amp;ext_bbox=" class="local-link">product recall data</a> from around the Federal government. It includes recalls related to cars and many different kinds of products – from household products to outdoor, sports, and recreation products to child-related products.</p> 
+         <p><strong>Data in Action</strong>:</p> 
+         <p><a href="http://www.recallsplus.com/" class="external ext-link" rel="external" onclick="this.target='_blank';">SAP Recalls Plus</a> allows consumers to create watch lists or specific product alerts around government created product safety recall lists.</p> 
+         <p><a href="http://wemakeitsafer.com/" class="external ext-link" rel="external" onclick="this.target='_blank';">We Make it Safer</a> uses government recall history to let users compare products they own to products on safety recall lists.</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+        <div class="dataset-link clearfix"> 
+         <a class="btn btn-default pull-right local-link" href="http://catalog.data.gov/dataset?q=recall&amp;groups=safety3175"> <span class="glyphicon glyphicon-download"></span> View this Dataset </a> 
+        </div> 
+       </div>
+       <!--/.highlight--> 
+       <div class="pull-right clearfix" style="margin-top:-45px;"> 
+        <a href="/safety/highlights" class="more-link">More Highlights</a> 
+       </div> 
+       <h1 style="clear:both;" class="category category-header topic-research"> <a href="/research"><i></i> <span>Science &amp; Research</span></a> </h1> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Of Sturgeon and Ships</h2> 
+        </header> 
+        <div class="featured-image col-md-4"> 
+         <img width="300" height="263" src="https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2019/03/James-river-example-vessel-tracks-300x263.png" class="attachment-medium size-medium wp-post-image" alt="Map of the Lower James River, Virginia, with vessel track lines overlaid on the map." srcset="https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2019/03/James-river-example-vessel-tracks-300x263.png 300w, https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2019/03/James-river-example-vessel-tracks.png 700w" sizes="(max-width: 300px) 100vw, 300px"> 
+        </div> 
+        <article class="col-md-8"> 
+         <p>The <a href="https://www.navcen.uscg.gov/" rel="noopener noreferrer external" target="_blank" class="external ext-link" onclick="this.target='_blank';">U.S. Coast Guard</a> maintains an archive of historical vessel position movements, collected through the Nationwide Automatic Identification System (NAIS). Originally designed to improve maritime safety and security, these historical vessel position records have proven to be a valuable resource for a variety of engineers and researchers studying the aquatic world. For example, fishery resource managers with the responsibility of improving multiple sturgeon populations have used historical data from the NAIS to evaluate where fish and vessels might interact. Before sturgeon populations crashed in the late 1800s, harvests along the Atlantic coast were measured in thousands of tons. If sturgeon populations rebound to their historical levels it could mean the renaissance of a commercial and recreational fishery that has been lost for generations. Understanding where sturgeon might be at risk from vessel strikes or propeller cuts is just one small part of a larger conservation and recovery effort around the country. The public can request historical vessel position data through the U.S. Coast Guard Navigation Center (NAVCEN) online portal. To learn more about sturgeon and efforts to rebuild fish stocks visit the <a href="https://www.fisheries.noaa.gov/species/atlantic-sturgeon" rel="noopener noreferrer external" target="_blank" class="external ext-link" onclick="this.target='_blank';">NOAA Fisheries website</a>.</p> 
+         <a href="https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2018/05/James-river-example-vessel-tracks.png" class="ext-image" rel="external" onclick="this.target='_blank';">Vessel track lines, James River, VA</a> Vessel tracks through the James River, Virginia. Processed using the AISAP tool developed by USACE-ERDC. 
+         <p><strong>References:</strong></p> 
+         <p>U.S. Coast Guard NAIS and Data Requests: https://www.navcen.uscg.gov/<br> E. J. Hilton, B. Kynard, M. T. Balazik, A. Z. Horodysky, and C. B. Dillman. 2016. Review of the biology, fisheries, and conservation status of the Atlantic Sturgeon, (Acipenser oxyrinchus oxyrinchus Mitchill, 1815). Journal of Applied Ichthyology, 32: 30-66.</p> 
+         <p>NOAA Fisheries, Species Directory, Atlantic Sturgeon: https://www.fisheries.noaa.gov/species/atlantic-sturgeon</p> 
+         <p><strong>Data.Gov Links related to this topic:</strong></p> 
+         <p>Green Sturgeon Acoustic Monitoring: https://catalog.data.gov/dataset/green-sturgeon-acoustic-monitoring</p> 
+         <p>White Sturgeon Distribution, Pacific Northwest: https://catalog.data.gov/dataset/white-sturgeon-distribution-pacific-northwest-updated-march-2006</p> 
+         <p>USGS National Hydrography Dataset: https://catalog.data.gov/dataset/usgs-national-hydrography-dataset-nhd-downloadable-data-collection-national-geospatial-data-as</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+       </div>
+       <!--/.highlight--> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Federal R&amp;D Facilities for Entrepreneurs and Innovators</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p>As part of the Administration’s <a href="https://obamawhitehouse.archives.gov/blog/2014/03/14/lab-market-accelerating-research-breakthroughs-and-economic-growth2" class="external ext-link" rel="external" onclick="this.target='_blank';">Lab-to-Market initiative</a>, agencies are publishing machine-readable data on over 700 Federal R&amp;D facilities that may be utilized by entrepreneurs and innovators to research, prototype, and test new technologies. These facilities, operated by <a href="http://catalog.data.gov/dataset/agency-data-on-user-facilities" class="local-link">NASA</a>, the <a href="http://catalog.data.gov/dataset/doe-facilities" class="local-link">Department of Energy (DOE)</a>, and the <a href="http://catalog.data.gov/dataset/nih-core-facilities" class="local-link">National Institute of Health (NIH)</a>, include cutting-edge research tools and together represent billions of dollars of taxpayer investment.</p> 
+         <p>Each facility has its own set of use policies, so a contact person is included in the data wherever possible. For example, some entrepreneurs may be able to access NASA’s National Center for Advanced Manufacturing to produce the high-strength, defect-free joints required for cutting-edge aeronautics, or DOE’s Manufacturing Demonstration Facility at Oak Ridge National Laboratory for collaborative projects in additive manufacturing, composites and carbon fiber, and other leading clean energy technologies. <a href="research/federal-rd-facilities-open-collaboration/">Learn more…</a></p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+        <div class="dataset-link clearfix"> 
+         <a class="btn btn-default pull-right local-link" href="http://catalog.data.gov/dataset/agency-data-on-user-facilities"> <span class="glyphicon glyphicon-download"></span> View this Dataset </a> 
+        </div> 
+       </div>
+       <!--/.highlight--> 
+       <div class="pull-right clearfix" style="margin-top:-45px;"> 
+        <a href="/research/highlights" class="more-link">More Highlights</a> 
+       </div> 
+       <h1 style="clear:both;" class="category category-header topic-states"> <a href="/states"><i></i> <span>States</span></a> </h1> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Local Severe Weather Warning Systems in Missouri</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p>List of severe weather alert systems throughout Missouri provided by local governments, media outlets, and other sources. This is an easy-to-explore, interactive dataset.</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+        <div class="dataset-link clearfix"> 
+         <a class="btn btn-default pull-right external ext-link" href="https://data.mo.gov/Public-Safety/Local-Severe-Weather-Warning-Systems-in-Missouri/n59h-ggai" rel="external" onclick="this.target='_blank';"> <span class="glyphicon glyphicon-download"></span> View this Dataset </a> 
+        </div> 
+       </div>
+       <!--/.highlight--> 
+       <div class="pull-right clearfix" style="margin-top:-45px;"> 
+        <a href="/states/highlights" class="more-link">More Highlights</a> 
+       </div> 
+       <h1 style="clear:both;" class="category category-header topic-transportation"> <a href="/transportation"><i></i> <span>Transportation</span></a> </h1> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Microsoft Launches “Innovation Challenge” around Food Resilience</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p class="p1"><b>WASHINGTON,&nbsp;July 27,&nbsp;2015</b>&nbsp;–&nbsp;The U.S. Department of Agriculture is partnering with Microsoft to launch the “Innovation Challenge,” a competition to develop software applications that help farmers, agriculture businesses, and consumers explore how climate change will affect their food systems.</p> 
+         <p class="p1">The Innovation Challenge was&nbsp;formally launched on July 27<span class="s1"><sup>th</sup></span>&nbsp;at a conference of the Agricultural &amp; Applied Economics&nbsp;Association in San Francisco. Challenge participants have 3 months to create their applications, with a top prize of $25,000 going to the most creative application that best exploits USDA data sets that are now being hosted on Microsoft Azure, Microsoft’s cloud computing platform.</p> 
+         <p class="p1">Entrants are invited to develop and publish new applications and tools that can help users analyze multiple sources of information, including key USDA data sets. In addition, Microsoft is granting cloud computing awards to aid university researchers and students that are looking to take part in the challenge.&nbsp; Challenge winners will be announced in December 2015.</p> 
+         <p class="p1">Full details of the challenge can be found at&nbsp;<a href="x-webdoc://979AC4A7-D7E8-4D6B-9B6D-65A5FEE005CD/%3Ehttp://usdaapps.challengepost.com%3C" class="external ext-link" rel="external" onclick="this.target='_blank';"><span class="s2">&gt;http://usdaapps.challengepost.com&lt;</span></a>.</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+       </div>
+       <!--/.highlight--> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">First International Conference on Surface Transportation System Resilience to Climate Change and Extreme Weather Events</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p style="text-align: center;"><strong>September 16-18, 2015</strong></p> 
+         <p style="text-align: center;"><strong>The National Academy of Sciences Building</strong><strong><br> </strong><strong>Washington,&nbsp;DC</strong></p> 
+         <p class="p1">The Transportation Research Board will host a conference September 16-18, 2015 to provide transportation professionals with information about emerging best practices and research results on how to adapt surface transportation networks to the potential impacts of climate change and extreme weather events. The conference will examine efforts to mainstream consideration of climate change and extreme weather resilience in all aspects of the transportation sector, including planning and programming, capital improvements, and operations and maintenance.</p> 
+         <p class="p1"> </p>
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+       </div>
+       <!--/.highlight--> 
+       <div class="pull-right clearfix" style="margin-top:-45px;"> 
+        <a href="/transportation/highlights" class="more-link">More Highlights</a> 
+       </div> 
+       <h1 style="clear:both;" class="category category-header topic-tribal-nations"> <a href="/tribal-nations"><i></i> <span>Tribal Nations</span></a> </h1> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Microsoft Launches “Innovation Challenge” around Food Resilience</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p class="p1"><b>WASHINGTON,&nbsp;July 27,&nbsp;2015</b>&nbsp;–&nbsp;The U.S. Department of Agriculture is partnering with Microsoft to launch the “Innovation Challenge,” a competition to develop software applications that help farmers, agriculture businesses, and consumers explore how climate change will affect their food systems.</p> 
+         <p class="p1">The Innovation Challenge was&nbsp;formally launched on July 27<span class="s1"><sup>th</sup></span>&nbsp;at a conference of the Agricultural &amp; Applied Economics&nbsp;Association in San Francisco. Challenge participants have 3 months to create their applications, with a top prize of $25,000 going to the most creative application that best exploits USDA data sets that are now being hosted on Microsoft Azure, Microsoft’s cloud computing platform.</p> 
+         <p class="p1">Entrants are invited to develop and publish new applications and tools that can help users analyze multiple sources of information, including key USDA data sets. In addition, Microsoft is granting cloud computing awards to aid university researchers and students that are looking to take part in the challenge.&nbsp; Challenge winners will be announced in December 2015.</p> 
+         <p class="p1">Full details of the challenge can be found at&nbsp;<a href="x-webdoc://979AC4A7-D7E8-4D6B-9B6D-65A5FEE005CD/%3Ehttp://usdaapps.challengepost.com%3C" class="external ext-link" rel="external" onclick="this.target='_blank';"><span class="s2">&gt;http://usdaapps.challengepost.com&lt;</span></a>.</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+       </div>
+       <!--/.highlight--> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Launch of Energy &amp; Infrastructure Resilience theme of Climate.Data.Gov</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p>To help communities, governments, businesses, and research institutions better understand and plan for the risks of storms, floods, and other climate-change-related impacts, the U.S. Government is enhancing accessibility and releasing today a collection of datasets containing scientific and technical information that may help inform the current and potential future effects of climate change on energy and infrastructure.</p> 
+         <p>These data are also being made available via mapping services on&nbsp;Geoplatform.gov. The resources provided here can be used to explore and develop insights for a number of relevant questions, such as:</p> 
+         <p>1) How are fundamental energy resources impacted by climate?</p> 
+         <p>2) How might changes in climate and natural resource availability impact energy conversion infrastructure and processes?</p> 
+         <p>3) How might climate impact energy transmission and distribution systems?</p> 
+         <p>4) How might energy demands be impacted by climate change, including heating and cooling but also energy losses and energy used for adaptation by other sectors?</p> 
+         <p>5) What capacity do we currently have to adapt energy systems, and how might technology solutions, systems designs, and operational changes improve energy system resilience for climate change?</p> 
+         <p>6) How might climate change impact energy infrastructure and its interactions with networked and interconnected infrastructure systems?</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+       </div>
+       <!--/.highlight--> 
+       <div class="pull-right clearfix" style="margin-top:-45px;"> 
+        <a href="/tribal-nations/highlights" class="more-link">More Highlights</a> 
+       </div> 
+       <h1 style="clear:both;" class="category category-header topic-water"> <a href="/water"><i></i> <span>Water</span></a> </h1> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Microsoft Launches “Innovation Challenge” around Food Resilience</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p class="p1"><b>WASHINGTON,&nbsp;July 27,&nbsp;2015</b>&nbsp;–&nbsp;The U.S. Department of Agriculture is partnering with Microsoft to launch the “Innovation Challenge,” a competition to develop software applications that help farmers, agriculture businesses, and consumers explore how climate change will affect their food systems.</p> 
+         <p class="p1">The Innovation Challenge was&nbsp;formally launched on July 27<span class="s1"><sup>th</sup></span>&nbsp;at a conference of the Agricultural &amp; Applied Economics&nbsp;Association in San Francisco. Challenge participants have 3 months to create their applications, with a top prize of $25,000 going to the most creative application that best exploits USDA data sets that are now being hosted on Microsoft Azure, Microsoft’s cloud computing platform.</p> 
+         <p class="p1">Entrants are invited to develop and publish new applications and tools that can help users analyze multiple sources of information, including key USDA data sets. In addition, Microsoft is granting cloud computing awards to aid university researchers and students that are looking to take part in the challenge.&nbsp; Challenge winners will be announced in December 2015.</p> 
+         <p class="p1">Full details of the challenge can be found at&nbsp;<a href="x-webdoc://979AC4A7-D7E8-4D6B-9B6D-65A5FEE005CD/%3Ehttp://usdaapps.challengepost.com%3C" class="external ext-link" rel="external" onclick="this.target='_blank';"><span class="s2">&gt;http://usdaapps.challengepost.com&lt;</span></a>.</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+       </div>
+       <!--/.highlight--> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Launch of Energy &amp; Infrastructure Resilience theme of Climate.Data.Gov</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p>To help communities, governments, businesses, and research institutions better understand and plan for the risks of storms, floods, and other climate-change-related impacts, the U.S. Government is enhancing accessibility and releasing today a collection of datasets containing scientific and technical information that may help inform the current and potential future effects of climate change on energy and infrastructure.</p> 
+         <p>These data are also being made available via mapping services on&nbsp;Geoplatform.gov. The resources provided here can be used to explore and develop insights for a number of relevant questions, such as:</p> 
+         <p>1) How are fundamental energy resources impacted by climate?</p> 
+         <p>2) How might changes in climate and natural resource availability impact energy conversion infrastructure and processes?</p> 
+         <p>3) How might climate impact energy transmission and distribution systems?</p> 
+         <p>4) How might energy demands be impacted by climate change, including heating and cooling but also energy losses and energy used for adaptation by other sectors?</p> 
+         <p>5) What capacity do we currently have to adapt energy systems, and how might technology solutions, systems designs, and operational changes improve energy system resilience for climate change?</p> 
+         <p>6) How might climate change impact energy infrastructure and its interactions with networked and interconnected infrastructure systems?</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+       </div>
+       <!--/.highlight--> 
+       <div class="pull-right clearfix" style="margin-top:-45px;"> 
+        <a href="/water/highlights" class="more-link">More Highlights</a> 
+       </div> 
+       <h1 style="clear:both;" class="category category-header topic-weather"> <a href="/weather"><i></i> <span>Weather</span></a> </h1> 
+       <div class="highlight  clearfix"> 
+        <header> 
+         <h2 class="entry-title">Weather Service Data</h2> 
+        </header> 
+        <article class="no-image"> 
+         <p>The National Weather Service provides weather, water, and climate data, forecasts and warnings. A National Mosaic view of National Weather Service (NWS)’s radar imagery allows interactivity with the display providing you with the ability to customize the way you “look” at weather. Called RIDGE2 (Radar Integrated Display with Geospatial Elements, version 2), the radar image can be layered with geospatial elements such as topography maps, highways, state/county boundaries, and weather warnings. Outside of this interface, a user can also make use of this radar mosaic image overlay to add to user’s geobrowser of choice.</p> 
+         <p>See this data in action at:</p> 
+         <p>The <a href="http://weather.com/" class="external ext-link" rel="external" onclick="this.target='_blank';">Weather Channel</a> broadcasts weather forecasts and weather-related news over their cable channel and web properties.</p> 
+         <p><a href="http://www.climate.com/" class="external ext-link" rel="external" onclick="this.target='_blank';">Climate Corporation</a> offers weather insurance that helps farmers protect their potential profits against bad weather that can cause yield shortfalls.</p> 
+         <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+        </article> 
+       </div>
+       <!--/.highlight--> 
+       <div class="pull-right clearfix" style="margin-top:-45px;"> 
+        <a href="/weather/highlights" class="more-link">More Highlights</a> 
+       </div> 
+      </div> 
+     </div> 
+    </main> 
+    <!-- /.main --> 
+   </div> 
+   <!-- /.content --> 
+  </div> 
+  <!-- /.wrap --> 
+  <footer class="content-info" role="contentinfo"> 
+   <div class="container"> 
+    <div class="row"> 
+     <!--
+    <div class="col-lg-4">
+            <p>&copy; 2019 Data.gov</p>
+    </div>
+    --> 
+     <div class="col-md-6 col-lg-6"> 
+      <div class="footer-logo"> 
+       <a class="logo-brand local-link" href="https://www.data.gov/" alt="Data.gov">Data.gov</a> 
+      </div> 
+      <ul id="menu-footer2" class="nav">
+       <li class="menu-privacy-and-website-policies"><a href="https://www.data.gov/privacy-policy" class="local-link">Privacy and Website Policies</a></li> 
+       <li class="menu-usa-gov"><a href="https://www.usa.gov/" class="external ext-link" rel="external" onclick="this.target='_blank';">USA.GOV</a></li> 
+       <li class="menu-performance-gov"><a href="http://www.performance.gov/" class="external ext-link" rel="external" onclick="this.target='_blank';">PERFORMANCE.GOV</a></li> 
+      </ul> 
+     </div> 
+     <nav class="col-md-3 col-lg-3" role="navigation"> 
+      <ul id="menu-footer" class="nav">
+       <li class="menu-about"><a href="https://www.data.gov/about" class="local-link">About</a></li> 
+       <li class="menu-open-government"><a href="https://www.data.gov/open-gov/" class="local-link">Open Government</a></li> 
+       <li class="menu-blog"><a href="https://www.data.gov/meta/" class="local-link">Blog</a></li> 
+       <li class="menu-metrics"><a href="https://www.data.gov/metrics" class="local-link">Metrics</a></li> 
+       <li class="menu-events"><a href="/events/">Events</a></li> 
+       <li class="menu-log-in"><a href="https://www.data.gov/wp/wp-login.php" class="local-link">Log In</a></li> 
+      </ul> 
+     </nav> 
+     <div class="col-md-3 col-lg-3 social-nav"> 
+      <nav role="navigation"> 
+       <ul id="menu-social_navigation" class="nav">
+        <li><a href="https://twitter.com/usdatagov" title="This link will direct you to an external website that may have different content and privacy policies from Data.gov." class="local-link"><i class="fa fa-twitter"></i><span>Twitter</span></a></li> 
+        <li><a href="http://github.com/GSA/data.gov/" title="This link will direct you to an external website that may have different content and privacy policies from Data.gov." class="local-link"><i class="fa fa-github"></i><span>Github</span></a></li> 
+       </ul> 
+      </nav> 
+     </div> 
+    </div> 
+   </div> 
+  </footer> 
+  <script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script> 
+  <script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};var tribe_system_info = {"sysinfo_optin_nonce":"9826b768c7","clipboard_btn_text":"Copy to clipboard","clipboard_copied_text":"System info copied","clipboard_fail_text":"Press \"Cmd + C\" to copy"};/* ]]> */ </script>
+  <script type="text/javascript" src="https://www.data.gov/app/plugins/simple-tooltips/zebra_tooltips.js?ver=5.1.1" defer></script> 
+  <script type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.data.gov\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script> 
+  <script type="text/javascript" src="https://www.data.gov/app/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1" defer></script> 
+  <script type="text/javascript" src="https://www.data.gov/app/plugins/the-events-calendar/common/vendor/datatables/datatables.min.js?ver=4.9.3" defer></script> 
+  <script type="text/javascript" src="https://www.data.gov/app/themes/roots-nextdatagov/assets/js/scripts.min.js?ver=9ab03eaa29bcfa40a4e8e34e7afda278" defer></script> 
+  <script type="text/javascript" src="https://code.jquery.com/jquery-migrate-3.0.1.min.js"></script> 
+  <script type="text/javascript" src="https://www.data.gov/wp/wp-includes/js/wp-embed.min.js?ver=5.1.1"></script> 
+  <script type="text/javascript">
+                    jQuery(function() {
+                                                
+                        jQuery(".tooltips img").closest(".tooltips").css("display", "inline-block");
+                    
+                        new jQuery.Zebra_Tooltips(jQuery('.tooltips').not('.custom_m_bubble'), {
+                            'background_color':     '#000000',
+                            'color':				'#ffffff',
+                            'max_width':  250,
+                            'opacity':    .95, 
+                            'position':    'center'
+                        });
+                        
+                                            
+                    });
+                </script>   
+ </body>
+</html>

@@ -1,0 +1,866 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+ <head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="X-UA-Compatible" content="IE=11"> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <meta name="Generator" content="Drupal 7 (http://drupal.org)"> 
+  <link rel="canonical" href="/division-publications/acts-and-resolutions"> 
+  <link rel="shortlink" href="/node/4636"> 
+  <meta name="MobileOptimized" content="width"> 
+  <meta name="HandheldFriendly" content="true"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <link rel="shortcut icon" href="https://sos.tn.gov/sites/default/files/SOS-blue-logo_12.png" type="image/png"> 
+  <link rel="apple-touch-icon" href="https://sos-tn-gov-files.tnsosfiles.com/apple-touch-icon.png" type="image/png"> 
+  <title>Acts and Resolutions | Tennessee Secretary of State</title> 
+  <style type="text/css" media="all">
+@import url("https://sos.tn.gov/modules/system/system.base.css?psdtta");
+@import url("https://sos.tn.gov/modules/system/system.menus.css?psdtta");
+@import url("https://sos.tn.gov/modules/system/system.messages.css?psdtta");
+@import url("https://sos.tn.gov/modules/system/system.theme.css?psdtta");
+</style> 
+  <style type="text/css" media="all">
+@import url("https://sos.tn.gov/modules/aggregator/aggregator.css?psdtta");
+@import url("https://sos.tn.gov/sites/all/modules/date/date_api/date.css?psdtta");
+@import url("https://sos.tn.gov/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?psdtta");
+@import url("https://sos.tn.gov/sites/all/modules/date/date_repeat_field/date_repeat_field.css?psdtta");
+@import url("https://sos.tn.gov/modules/field/theme/field.css?psdtta");
+@import url("https://sos.tn.gov/modules/node/node.css?psdtta");
+@import url("https://sos.tn.gov/modules/search/search.css?psdtta");
+@import url("https://sos.tn.gov/modules/user/user.css?psdtta");
+@import url("https://sos.tn.gov/sites/all/modules/youtube/css/youtube.css?psdtta");
+@import url("https://sos.tn.gov/sites/all/modules/views/css/views.css?psdtta");
+@import url("https://sos.tn.gov/sites/all/modules/ckeditor/css/ckeditor.css?psdtta");
+</style> 
+  <style type="text/css" media="all">
+@import url("https://sos.tn.gov/sites/all/modules/colorbox/styles/default/colorbox_style.css?psdtta");
+@import url("https://sos.tn.gov/sites/all/modules/ctools/css/ctools.css?psdtta");
+@import url("https://sos.tn.gov/sites/all/modules/panels/css/panels.css?psdtta");
+@import url("https://sos.tn.gov/sites/all/modules/custom_search/custom_search.css?psdtta");
+</style> 
+  <link type="text/css" rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" media="all"> 
+  <style type="text/css" media="all">
+@import url("https://sos.tn.gov/sites/all/libraries/superfish/css/superfish.css?psdtta");
+</style> 
+  <style type="text/css" media="all">
+@import url("https://sos.tn.gov/sites/all/themes/startupgrowth/bootstrap/css/bootstrap.css?psdtta");
+@import url("https://sos.tn.gov/sites/all/themes/startupgrowth/js/flexslider/flexslider.css?psdtta");
+@import url("https://sos.tn.gov/sites/all/themes/startupgrowth/js/rs-plugin/css/settings.css?psdtta");
+@import url("https://sos.tn.gov/sites/all/themes/startupgrowth/style.css?psdtta");
+</style> 
+  <style type="text/css" media="all">
+@import url("https://sos.tn.gov/sites/all/themes/startupgrowth/style-blue.css?psdtta");
+@import url("https://sos.tn.gov/sites/all/themes/startupgrowth/fonts/lato-font.css?psdtta");
+@import url("https://sos.tn.gov/sites/all/themes/startupgrowth/fonts/sourcecodepro-font.css?psdtta");
+@import url("https://sos.tn.gov/sites/all/themes/startupgrowth/fonts/ptserif-blockquote-font.css?psdtta");
+</style> 
+  <!--[if (IE 9)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="https://sos.tn.gov/sites/all/themes/startupgrowth/ie9.css?psdtta" media="all" />
+<![endif]--> 
+  <style type="text/css" media="all">
+@import url("https://sos.tn.gov/sites/all/themes/startupgrowth/local.css?psdtta");
+</style> 
+  <!-- HTML5 element support for IE6-8 --> 
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]--> 
+  <script type="text/javascript" src="https://sos.tn.gov/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.3"></script> 
+  <script type="text/javascript" src="https://sos.tn.gov/misc/jquery-extend-3.4.0.js?v=1.8.3"></script> 
+  <script type="text/javascript" src="https://sos.tn.gov/misc/jquery.once.js?v=1.2"></script> 
+  <script type="text/javascript" src="https://sos.tn.gov/misc/drupal.js?psdtta"></script> 
+  <script type="text/javascript" src="https://sos.tn.gov/sites/all/libraries/colorbox/jquery.colorbox-min.js?psdtta"></script> 
+  <script type="text/javascript" src="https://sos.tn.gov/sites/all/modules/colorbox/js/colorbox.js?psdtta"></script> 
+  <script type="text/javascript" src="https://sos.tn.gov/sites/all/modules/colorbox/styles/default/colorbox_style.js?psdtta"></script> 
+  <script type="text/javascript" src="https://sos.tn.gov/sites/all/modules/colorbox/js/colorbox_load.js?psdtta"></script> 
+  <script type="text/javascript" src="https://sos.tn.gov/sites/all/modules/colorbox/js/colorbox_inline.js?psdtta"></script> 
+  <script type="text/javascript" src="https://sos.tn.gov/sites/all/modules/custom_search/js/custom_search.js?psdtta"></script> 
+  <script type="text/javascript" src="https://sos.tn.gov/sites/all/modules/google_analytics/googleanalytics.js?psdtta"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-3640513-9", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script> 
+  <script type="text/javascript" src="https://sos.tn.gov/sites/all/themes/startupgrowth/bootstrap/js/bootstrap.min.js?psdtta"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) {
+		$(window).scroll(function() {
+			if($(this).scrollTop() != 0) {
+				$("#toTop").addClass("show");
+			} else {
+				$("#toTop").removeClass("show");
+			}
+		});
+
+		$("#toTop").click(function() {
+			$("body,html").animate({scrollTop:0},800);
+		});
+
+		});
+//--><!]]>
+</script> 
+  <script type="text/javascript" src="https://sos.tn.gov/sites/all/themes/startupgrowth/js/jquery.mobilemenu.js?psdtta"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) {
+		$("#main-navigation ul.main-menu, #main-navigation .content>ul.menu").mobileMenu({
+			prependTo: "#main-navigation",
+			combine: false,
+			nested: 1,
+			switchWidth: 767,
+            topOptionText: Drupal.settings.startupgrowth['topoptiontext']
+		});
+
+		});
+//--><!]]>
+</script> 
+  <script type="text/javascript" src="https://sos.tn.gov/sites/all/themes/startupgrowth/js/isotope/isotope.pkgd.js?psdtta"></script> 
+  <script type="text/javascript" src="https://sos.tn.gov/sites/all/themes/startupgrowth/js/misc_functions.js?psdtta"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) {
+		preventSearchSubmitWithPlaceholder("search_block_form_input");
+	});
+//--><!]]>
+</script> 
+  <script type="text/javascript" src="https://sos.tn.gov/sites/all/libraries/superfish/supposition.js?psdtta"></script> 
+  <script type="text/javascript" src="https://sos.tn.gov/sites/all/libraries/superfish/superfish.js?psdtta"></script> 
+  <script type="text/javascript" src="https://sos.tn.gov/sites/all/libraries/superfish/supersubs.js?psdtta"></script> 
+  <script type="text/javascript" src="https://sos.tn.gov/sites/all/modules/superfish/superfish.js?psdtta"></script> 
+  <script type="text/javascript" src="https://sos.tn.gov/sites/all/themes/startupgrowth/js/flexslider/jquery.flexslider.js?psdtta"></script> 
+  <script type="text/javascript" src="https://sos.tn.gov/sites/all/themes/startupgrowth/js/rs-plugin/js/jquery.themepunch.plugins.min.js?psdtta"></script> 
+  <script type="text/javascript" src="https://sos.tn.gov/sites/all/themes/startupgrowth/js/rs-plugin/js/jquery.themepunch.revolution.min.js?psdtta"></script> 
+  <script type="text/javascript" src="https://sos.tn.gov/sites/all/themes/startupgrowth/js/jquery.browser.min.js?psdtta"></script> 
+  <script type="text/javascript" src="https://sos.tn.gov/sites/all/themes/startupgrowth/js/qwidgetcollapse.js?psdtta"></script> 
+  <script type="text/javascript" src="https://sos.tn.gov/sites/all/themes/startupgrowth/js/qwidgetslideright.js?psdtta"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"startupgrowth","theme_token":"dR-mj1-civ1wMfcfyONofn0xyEZrpayq-Hp2fejzrlw","js":{"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/custom_search\/js\/custom_search.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/all\/themes\/startupgrowth\/bootstrap\/js\/bootstrap.min.js":1,"2":1,"sites\/all\/themes\/startupgrowth\/js\/jquery.mobilemenu.js":1,"3":1,"sites\/all\/themes\/startupgrowth\/js\/isotope\/isotope.pkgd.js":1,"sites\/all\/themes\/startupgrowth\/js\/misc_functions.js":1,"4":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1,"sites\/all\/themes\/startupgrowth\/js\/flexslider\/jquery.flexslider.js":1,"sites\/all\/themes\/startupgrowth\/js\/rs-plugin\/js\/jquery.themepunch.plugins.min.js":1,"sites\/all\/themes\/startupgrowth\/js\/rs-plugin\/js\/jquery.themepunch.revolution.min.js":1,"sites\/all\/themes\/startupgrowth\/js\/jquery.browser.min.js":1,"sites\/all\/themes\/startupgrowth\/js\/qwidgetcollapse.js":1,"sites\/all\/themes\/startupgrowth\/js\/qwidgetslideright.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/youtube\/css\/youtube.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/custom_search\/custom_search.css":1,"\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.2.0\/css\/font-awesome.min.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/themes\/startupgrowth\/bootstrap\/css\/bootstrap.css":1,"sites\/all\/themes\/startupgrowth\/js\/flexslider\/flexslider.css":1,"sites\/all\/themes\/startupgrowth\/js\/rs-plugin\/css\/settings.css":1,"sites\/all\/themes\/startupgrowth\/style.css":1,"sites\/all\/themes\/startupgrowth\/style-blue.css":1,"sites\/all\/themes\/startupgrowth\/fonts\/lato-font.css":1,"sites\/all\/themes\/startupgrowth\/fonts\/sourcecodepro-font.css":1,"sites\/all\/themes\/startupgrowth\/fonts\/ptserif-blockquote-font.css":1,"sites\/all\/themes\/startupgrowth\/ie9.css":1,"sites\/all\/themes\/startupgrowth\/local.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"custom_search":{"form_target":"_self","solr":1},"better_exposed_filters":{"views":{"acts":{"displays":{"block_2":{"filters":[]},"block_3":{"filters":[]}}}}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"superfish":{"1":{"id":"1","sf":{"pathLevels":"0","delay":"200","animation":{"opacity":"show"},"speed":"\u0027fast\u0027","autoArrows":false,"dropShadows":false,"disableHI":false},"plugins":{"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"15","maxWidth":"27","extraWidth":1}}}},"urlIsAjaxTrusted":{"\/division-publications\/acts-and-resolutions":true},"startupgrowth":{"topoptiontext":"Select a page"}});
+//--><!]]>
+</script> 
+ </head> 
+ <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-4636 node-type-page no-banner sff-7 slff-7 hff-7 pff-7 form-style-1" id="background"> 
+  <div id="skip-link"> 
+   <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a> 
+  </div> 
+  <div id="toTop">
+   <i class="fa fa-angle-up"></i>
+  </div> 
+  <!-- #header --> 
+  <header id="header" role="banner" class="clearfix"> 
+   <div class="container"> 
+    <!-- #header-inside --> 
+    <div id="header-inside" class="clearfix"> 
+     <div class="row"> 
+      <div class="col-md-3"> 
+       <!-- #header-inside-left --> 
+       <div id="header-inside-left" class="clearfix"> 
+        <div id="logo"> 
+         <a href="/" title="Home" rel="home"> <img src="https://sos.tn.gov/sites/default/files/Hargett-Homepage_1.jpg" alt="Home"> </a> 
+        </div> 
+        <div id="site-name"> 
+         <a href="/" title="Home">Tennessee Secretary of State</a> 
+        </div> 
+        <div id="site-slogan">
+          Tre Hargett 
+        </div> 
+       </div> 
+       <!-- EOF:#header-inside-left --> 
+      </div> 
+      <div class="col-md-9"> 
+       <!-- #header-inside-right --> 
+       <div id="header-inside-right" class="clearfix"> 
+        <!-- #main-navigation --> 
+        <div id="main-navigation" class="clearfix  with-search-bar "> 
+         <nav role="navigation"> 
+          <div class="region region-navigation"> 
+           <div id="block-superfish-1" class="block block-superfish clearfix"> 
+            <div class="content"> 
+             <ul id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-none sf-total-items-8 sf-parent-items-5 sf-single-items-3">
+              <li id="menu-1239-1" class="first odd sf-depth-1 sf-total-children-11 sf-parent-children-2 sf-single-children-9 menuparent"><a href="/business-services" class="sf-depth-1 menuparent">Business Services</a>
+               <ul>
+                <li id="menu-2219-1" class="first odd sf-depth-2 sf-no-children"><a href="/business-services/apostilles" class="menu sf-menu sf-depth-2">Apostilles and Authentication Services</a></li>
+                <li id="menu-2706-1" class="middle even sf-depth-2 sf-no-children"><a href="/tennessee-quarterly-business-and-economic-indicators-reports" class="menu sf-menu sf-depth-2">Business and Economic Indicators Reports</a></li>
+                <li id="menu-2211-1" class="middle odd sf-depth-2 sf-total-children-9 sf-parent-children-1 sf-single-children-8 menuparent"><a href="/business-services/business-entity-filings" class="menu sf-menu sf-depth-2 menuparent">Business Entity Filings</a>
+                 <ul>
+                  <li id="menu-2702-1" class="first odd sf-depth-3 sf-no-children"><a href="https://tnbear.tn.gov/Ecommerce/FilingSearch.aspx" class="menu sf-menu sf-depth-3">Business Information Search</a></li>
+                  <li id="menu-2203-1" class="middle even sf-depth-3 sf-no-children"><a href="/business-services/for-profit-corporations" class="menu sf-menu sf-depth-3">For Profit Corporations</a></li>
+                  <li id="menu-2204-1" class="middle odd sf-depth-3 sf-no-children"><a href="/business-services/non-profit-corporations" class="menu sf-menu sf-depth-3">Non Profit Corporations</a></li>
+                  <li id="menu-2205-1" class="middle even sf-depth-3 sf-no-children"><a href="/business-services/limited-liability-companies" class="menu sf-menu sf-depth-3">Limited Liability Companies</a></li>
+                  <li id="menu-2207-1" class="middle odd sf-depth-3 sf-no-children"><a href="/business-services/general-partnerships" class="menu sf-menu sf-depth-3">General Partnerships</a></li>
+                  <li id="menu-2209-1" class="middle even sf-depth-3 sf-no-children"><a href="/business-services/limited-partnerships" class="menu sf-menu sf-depth-3">Limited Partnerships</a></li>
+                  <li id="menu-2206-1" class="middle odd sf-depth-3 sf-no-children"><a href="/business-services/limited-liability-partnerships" class="menu sf-menu sf-depth-3">Limited Liability Partnerships</a></li>
+                  <li id="menu-2705-1" class="middle even sf-depth-3 sf-no-children"><a href="https://sos.tn.gov/products/business-services/request-copy-documents-form" class="menu sf-menu sf-depth-3" title="">Request for Copy of Documents</a></li>
+                  <li id="menu-3019-1" class="last odd sf-depth-3 sf-total-children-1 sf-parent-children-0 sf-single-children-1 menuparent"><a href="/business-services/more-business-entity-filings" class="menu sf-menu menu-node-unpublished menu-node-unpublished sf-depth-3 menuparent">More Business Entity Filings</a>
+                   <ul>
+                    <li id="menu-3020-1" class="firstandlast odd sf-depth-4 sf-no-children"><a href="/products/business-services/profit-benefit-corporation" class="menu sf-menu sf-depth-4">For-Profit Benefit Corporation</a></li>
+                   </ul></li>
+                 </ul></li>
+                <li id="menu-2218-1" class="middle even sf-depth-2 sf-no-children"><a href="/business-services/motor-vehicle-temporary-liens" class="menu sf-menu sf-depth-2">Motor Vehicle Temporary Liens</a></li>
+                <li id="menu-2217-1" class="middle odd sf-depth-2 sf-no-children"><a href="/business-services/municipal-clerks" class="menu sf-menu sf-depth-2">Municipal Clerks</a></li>
+                <li id="menu-1968-1" class="middle even sf-depth-2 sf-no-children"><a href="/notary-commissions" class="menu sf-menu sf-depth-2">Notary Commissions</a></li>
+                <li id="menu-2486-1" class="middle odd sf-depth-2 sf-no-children"><a href="/business-services/nonresident-fiduciaries" class="menu sf-menu sf-depth-2">Nonresident Fiduciaries</a></li>
+                <li id="menu-2216-1" class="middle even sf-depth-2 sf-no-children"><a href="/business-services/summons" class="menu sf-menu sf-depth-2">Summons/ Service of Process</a></li>
+                <li id="menu-2223-1" class="middle odd sf-depth-2 sf-no-children"><a href="/business-services/trademarks" class="menu sf-menu sf-depth-2">Trademarks</a></li>
+                <li id="menu-2150-1" class="middle even sf-depth-2 sf-total-children-6 sf-parent-children-0 sf-single-children-6 menuparent"><a href="/business-services/ucc" class="menu sf-menu sf-depth-2 menuparent" title="">Uniform Commercial Code (UCC)</a>
+                 <ul>
+                  <li id="menu-2152-1" class="first odd sf-depth-3 sf-no-children"><a href="https://tnbear.tn.gov/UCC/ecommerce/default.aspx" class="menu sf-menu sf-depth-3" title="">All UCC Online Services</a></li>
+                  <li id="menu-2159-1" class="middle even sf-depth-3 sf-no-children"><a href="https://tnbear.tn.gov/UCC/Ecommerce/UCCSearch.aspx" class="menu sf-menu sf-depth-3" title="">UCC Database Search</a></li>
+                  <li id="menu-2153-1" class="middle odd sf-depth-3 sf-no-children"><a href="/business-services/ucc-forms" class="menu sf-menu sf-depth-3" title="">UCC Forms and Fees</a></li>
+                  <li id="menu-2154-1" class="middle even sf-depth-3 sf-no-children"><a href="/business-services/ucc-faqs" class="menu sf-menu sf-depth-3" title="">UCC FAQs</a></li>
+                  <li id="menu-2155-1" class="middle odd sf-depth-3 sf-no-children"><a href="/business-services/ucc-laws" class="menu sf-menu sf-depth-3" title="">UCC Laws and Rules</a></li>
+                  <li id="menu-2158-1" class="last even sf-depth-3 sf-no-children"><a href="/business-services/ucc-video-tutorials" class="menu sf-menu sf-depth-3" title="">UCC Video Tutorials</a></li>
+                 </ul></li>
+                <li id="menu-2215-1" class="last odd sf-depth-2 sf-no-children"><a href="/business-services/wc" class="menu sf-menu sf-depth-2">Workers' Compensation Exemption Registry</a></li>
+               </ul></li>
+              <li id="menu-1062-1" class="middle even sf-depth-1 sf-total-children-8 sf-parent-children-4 sf-single-children-4 menuparent"><a href="/charitable" class="sf-depth-1 menuparent">Charitable</a>
+               <ul>
+                <li id="menu-2221-1" class="first odd sf-depth-2 sf-no-children"><a href="/charitable/athlete-agent" class="menu sf-menu sf-depth-2" title="">Athlete Agent Registration</a></li>
+                <li id="menu-2095-1" class="middle even sf-depth-2 sf-no-children"><a href="/charitable/catastrophic-illness-trust" class="sf-depth-2">Catastrophic Illness Trust</a></li>
+                <li id="menu-2096-1" class="middle odd sf-depth-2 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="/charitable/gaming" class="sf-depth-2 menuparent">Charitable Gaming</a>
+                 <ul>
+                  <li id="menu-2132-1" class="first odd sf-depth-3 sf-no-children"><a href="https://tnsos.org/charitable/index.php" class="menu sf-menu sf-depth-3" title="">Gaming Events Search</a></li>
+                  <li id="menu-2133-1" class="middle even sf-depth-3 sf-no-children"><a href="/charitable/gaming-faqs" class="menu sf-menu sf-depth-3">Gaming FAQs</a></li>
+                  <li id="menu-2183-1" class="middle odd sf-depth-3 sf-no-children"><a href="/charitable-solicitations-and-gaming/charitable-gaming-forms" class="menu sf-menu sf-depth-3">Gaming Forms</a></li>
+                  <li id="menu-2186-1" class="last even sf-depth-3 sf-no-children"><a href="/charitable/gaming-resource-guides" class="menu sf-menu sf-depth-3" title="">Gaming Helpful Links</a></li>
+                 </ul></li>
+                <li id="menu-2097-1" class="middle even sf-depth-2 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><a href="/charitable/charitable-organizations" class="sf-depth-2 menuparent">Charitable Organizations</a>
+                 <ul>
+                  <li id="menu-2703-1" class="first odd sf-depth-3 sf-no-children"><a href="/charitable/charitable-organizations-forms" class="menu sf-menu sf-depth-3">Charitable Organizations Forms</a></li>
+                  <li id="menu-2101-1" class="middle even sf-depth-3 sf-no-children"><a href="https://sgssos.tn.gov/Login.aspx" class="menu sf-menu sf-depth-3">Charitable Organizations Online Filing</a></li>
+                  <li id="menu-2187-1" class="middle odd sf-depth-3 sf-no-children"><a href="/charitable-solicitations-and-gaming/charitable-organizations-helpful-links" class="menu sf-menu sf-depth-3">Charitable Organizations Helpful Links</a></li>
+                  <li id="menu-2129-1" class="middle even sf-depth-3 sf-no-children"><a href="http://tnsos.org/charitable/CharitableOrgReports.php" class="menu sf-menu sf-depth-3">Charitable Organizations Search</a></li>
+                  <li id="menu-2134-1" class="last odd sf-depth-3 sf-no-children"><a href="/products/charitable-solicitations-and-gaming/charitable-organization-faqs" class="menu sf-menu sf-depth-3">Charitable Organizations Registration FAQs</a></li>
+                 </ul></li>
+                <li id="menu-2098-1" class="middle odd sf-depth-2 sf-no-children"><a href="/charitable/disaster-relief-fundraising" class="sf-depth-2">Disaster Relief Fundraising</a></li>
+                <li id="menu-2707-1" class="middle even sf-depth-2 sf-no-children"><a href="/charitable/donation-bins" class="menu sf-menu sf-depth-2">Donation Bins</a></li>
+                <li id="menu-3272-1" class="middle odd sf-depth-2 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><a href="/fantasysports" class="sf-depth-2 menuparent">Fantasy Sports</a>
+                 <ul>
+                  <li id="menu-3273-1" class="first odd sf-depth-3 sf-no-children"><a href="/products/fantasy-sports-application-form" class="sf-depth-3">Fantasy Sports Application Form</a></li>
+                  <li id="menu-3274-1" class="middle even sf-depth-3 sf-no-children"><a href="/products/fantasy-sports-rules-regulations" class="sf-depth-3">Fantasy Sports Rules &amp; Regulations</a></li>
+                  <li id="menu-3455-1" class="middle odd sf-depth-3 sf-no-children"><a href="/products/fantasy-sports-audit-information" class="sf-depth-3">Fantasy Sports Audit Information</a></li>
+                  <li id="menu-3463-1" class="middle even sf-depth-3 sf-no-children"><a href="/products/fantasy-sports-operators" class="sf-depth-3">Fantasy Sports Operators</a></li>
+                  <li id="menu-3676-1" class="last odd sf-depth-3 sf-no-children"><a href="/products/renewal-application-licensed-fantasy-sports-operators" class="sf-depth-3">Renewal Application for Licensed Fantasy Sports Operators</a></li>
+                 </ul></li>
+                <li id="menu-2100-1" class="last even sf-depth-2 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><a href="/charitable/professional-solicitors" class="sf-depth-2 menuparent">Professional Solicitors</a>
+                 <ul>
+                  <li id="menu-2135-1" class="first odd sf-depth-3 sf-no-children"><a href="/products/charitable-solicitations-and-gaming/professional-solicitor-faqs" class="menu sf-menu sf-depth-3">Professional Solicitors FAQs</a></li>
+                  <li id="menu-2191-1" class="middle even sf-depth-3 sf-no-children"><a href="/charitable/ps-forms" class="menu sf-menu sf-depth-3">Professional Solicitors Forms</a></li>
+                  <li id="menu-2130-1" class="last odd sf-depth-3 sf-no-children"><a href="http://tnsos.org/charitable/PSReports.php" class="menu sf-menu sf-depth-3">Professional Solicitors Search</a></li>
+                 </ul></li>
+               </ul></li>
+              <li id="menu-3177-1" class="middle odd sf-depth-1 sf-no-children"><a href="/civics" class="sf-depth-1">Civics</a></li>
+              <li id="menu-2185-1" class="middle even sf-depth-1 sf-total-children-6 sf-parent-children-0 sf-single-children-6 menuparent"><a href="/elections" class="menu sf-menu sf-depth-1 menuparent">Elections</a>
+               <ul>
+                <li id="menu-2094-1" class="first odd sf-depth-2 sf-no-children"><a href="/elections/candidate-information" class="sf-depth-2">Candidate Information</a></li>
+                <li id="menu-2077-1" class="middle even sf-depth-2 sf-no-children"><a href="/elections/voter-information" class="menu sf-menu sf-depth-2">Voter Information</a></li>
+                <li id="menu-2105-1" class="middle odd sf-depth-2 sf-no-children"><a href="/elections/election-information" class="sf-depth-2">Election Information</a></li>
+                <li id="menu-2072-1" class="middle even sf-depth-2 sf-no-children"><a href="/elections/elections-faqs" class="menu sf-menu sf-depth-2" title="">Elections FAQs</a></li>
+                <li id="menu-4696-1" class="middle odd sf-depth-2 sf-no-children"><a href="/products/elections/state-election-commission" class="sf-depth-2">State Election Commission</a></li>
+                <li id="menu-2082-1" class="last even sf-depth-2 sf-no-children"><a href="/elections/thocb" class="menu sf-menu sf-depth-2">TN Highway Officials Certification Board</a></li>
+               </ul></li>
+              <li id="menu-2301-1" class="active-trail middle odd sf-depth-1 sf-total-children-8 sf-parent-children-2 sf-single-children-6 menuparent"><a href="/publications" class="menu sf-menu sf-depth-1 menuparent">Publications</a>
+               <ul>
+                <li id="menu-1966-1" class="active-trail first odd sf-depth-2 sf-no-children"><a href="/division-publications/acts-and-resolutions" class="menu sf-menu sf-depth-2 active">Acts and Resolutions</a></li>
+                <li id="menu-2282-1" class="middle even sf-depth-2 sf-no-children"><a href="/products/division-publications/boards-and-commissions-vacancy-and-membership-information" class="menu sf-menu sf-depth-2">Boards and Commissions</a></li>
+                <li id="menu-3462-1" class="middle odd sf-depth-2 sf-no-children"><a href="/tennessee-quarterly-business-and-economic-indicators-reports" title="" class="sf-depth-2">Business and Economic Indicators Reports</a></li>
+                <li id="menu-2283-1" class="middle even sf-depth-2 sf-no-children"><a href="/products/division-publications/executive-orders" class="menu sf-menu sf-depth-2">Executive Orders</a></li>
+                <li id="menu-1978-1" class="middle odd sf-depth-2 sf-no-children"><a href="/content/governors-proclamations" class="menu sf-menu sf-depth-2">Governor's Proclamations</a></li>
+                <li id="menu-2281-1" class="middle even sf-depth-2 sf-no-children"><a href="/oaths" class="menu sf-menu sf-depth-2">Oaths of Office</a></li>
+                <li id="menu-1964-1" class="middle odd sf-depth-2 sf-total-children-8 sf-parent-children-0 sf-single-children-8 menuparent"><a href="/division-publications/rules-and-regulations" class="menu sf-menu sf-depth-2 menuparent">Rules and Regulations</a>
+                 <ul>
+                  <li id="menu-2701-1" class="first odd sf-depth-3 sf-no-children"><a href="/products/division-publications/administrative-register" class="menu sf-menu sf-depth-3">Administrative Register</a></li>
+                  <li id="menu-2479-1" class="middle even sf-depth-3 sf-no-children"><a href="http://tnsos.org/rules/ArchivedRules.php" class="menu sf-menu sf-depth-3">Archived Rule Filings</a></li>
+                  <li id="menu-2480-1" class="middle odd sf-depth-3 sf-no-children"><a href="http://tnsos.org/rules/ArchivedRulemakingHearings.php" class="menu sf-menu sf-depth-3">Archived Rulemaking Hearings</a></li>
+                  <li id="menu-2481-1" class="middle even sf-depth-3 sf-no-children"><a href="/effective-rules" class="menu sf-menu sf-depth-3">Effective Rules</a></li>
+                  <li id="menu-2487-1" class="middle odd sf-depth-3 sf-no-children"><a href="/products/division-publications/emergency-rules-and-regulations" class="menu sf-menu sf-depth-3">Emergency Rules and Regulations</a></li>
+                  <li id="menu-2482-1" class="middle even sf-depth-3 sf-no-children"><a href="http://tnsos.org/rules/PendingRules.php" class="menu sf-menu sf-depth-3">Pending Rules</a></li>
+                  <li id="menu-2483-1" class="middle odd sf-depth-3 sf-no-children"><a href="http://tnsos.org/rules/RulemakingHearings.php" class="menu sf-menu sf-depth-3">Rulemaking Hearing Notices</a></li>
+                  <li id="menu-2711-1" class="last even sf-depth-3 sf-no-children"><a href="/products/division-publications/tenncare-rules-and-regulations" class="menu sf-menu sf-depth-3">Tenncare Rules and Regulations</a></li>
+                 </ul></li>
+                <li id="menu-1965-1" class="last even sf-depth-2 sf-total-children-1 sf-parent-children-0 sf-single-children-1 menuparent"><a href="/content/tennessee-blue-book" class="menu sf-menu sf-depth-2 menuparent">Tennessee Blue Book</a>
+                 <ul>
+                  <li id="menu-2899-1" class="firstandlast odd sf-depth-3 sf-no-children"><a href="http://sos.tn.gov/products/executive/blue-book-lesson-plans" class="menu sf-menu sf-depth-3">Blue Book Lesson Plans</a></li>
+                 </ul></li>
+               </ul></li>
+              <li id="menu-2056-1" class="middle even sf-depth-1 sf-total-children-10 sf-parent-children-2 sf-single-children-8 menuparent"><a href="/tsla" class="menu sf-menu sf-depth-1 menuparent">Library &amp; Archives</a>
+               <ul>
+                <li id="menu-2139-1" class="first odd sf-depth-2 sf-total-children-1 sf-parent-children-0 sf-single-children-1 menuparent"><a href="/products/tsla/archives-development-program" class="menu sf-menu sf-depth-2 menuparent">Archives Development</a>
+                 <ul>
+                  <li id="menu-2546-1" class="firstandlast odd sf-depth-3 sf-no-children"><a href="http://tnsos.net/TSLA/archives/index.php" class="menu sf-menu sf-depth-3">Tennessee Archives Directory</a></li>
+                 </ul></li>
+                <li id="menu-2140-1" class="middle even sf-depth-2 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><a href="https://sos.tn.gov/tsla" class="menu sf-menu sf-depth-2 menuparent" title="">Catalogs</a>
+                 <ul>
+                  <li id="menu-2195-1" class="first odd sf-depth-3 sf-no-children"><a href="https://tnsla.ent.sirsi.net/client/en_US/tnslapublic/" class="menu sf-menu sf-depth-3" title="">TSLA Catalog</a></li>
+                  <li id="menu-2196-1" class="middle even sf-depth-3 sf-no-children"><a href="http://tenn-agent.auto-graphics.com/agent/login.asp?cid=tenn&amp;lid=TNS " class="menu sf-menu sf-depth-3" title="">TN Statewide Catalog</a></li>
+                  <li id="menu-3677-1" class="last odd sf-depth-3 sf-no-children"><a href="http://www.accessiblelibrary.org" title="" class="sf-depth-3">Library for the Blind Catalog</a></li>
+                 </ul></li>
+                <li id="menu-2225-1" class="middle odd sf-depth-2 sf-no-children"><a href="https://sos.tn.gov/tsla/education" class="menu sf-menu sf-depth-2" title="">Education Outreach</a></li>
+                <li id="menu-2284-1" class="middle even sf-depth-2 sf-no-children"><a href="https://sos.tn.gov/tsla/government-publications" class="menu sf-menu menu-node-unpublished sf-depth-2" title="">Government Publications</a></li>
+                <li id="menu-2297-1" class="middle odd sf-depth-2 sf-no-children"><a href="/tsla/history" class="menu sf-menu sf-depth-2">History and Genealogy</a></li>
+                <li id="menu-2285-1" class="middle even sf-depth-2 sf-no-children"><a href="/products/tsla/legislative-history-recording" class="menu sf-menu sf-depth-2">Legislative History &amp; Recording</a></li>
+                <li id="menu-3460-1" class="middle odd sf-depth-2 sf-no-children"><a href="/tsla/labm" class="sf-depth-2">Library for Accessible Books and Media</a></li>
+                <li id="menu-2287-1" class="middle even sf-depth-2 sf-no-children"><a href="/products/tsla/public-library-services-resources" class="menu sf-menu sf-depth-2">Public Library Services &amp; Resources</a></li>
+                <li id="menu-2294-1" class="middle odd sf-depth-2 sf-no-children"><a href="/products/tsla/visiting-library-archives" class="menu sf-menu sf-depth-2">Visitor Information</a></li>
+                <li id="menu-2475-1" class="last even sf-depth-2 sf-no-children"><a href="/products/tsla/ordering-records-tennessee-state-library-and-archives" class="menu sf-menu sf-depth-2">Ordering</a></li>
+               </ul></li>
+              <li id="menu-4693-1" class="middle odd sf-depth-1 sf-no-children"><a href="/safeathome" title="Safe At Home" class="sf-depth-1">Safe At Home</a></li>
+              <li id="menu-2353-1" class="last even sf-depth-1 sf-no-children"><a href="/contacts" class="menu sf-menu sf-depth-1">Contact Us</a></li>
+             </ul> 
+            </div> 
+           </div> 
+          </div> 
+         </nav> 
+        </div> 
+        <!-- EOF: #main-navigation --> 
+        <div id="search-area-box" class="clearfix"> 
+         <div class="region region-search-area"> 
+          <div id="block-search-form" class="block block-search clearfix"> 
+           <div class="content"> 
+            <form class="search-form" role="search" action="/division-publications/acts-and-resolutions" method="post" id="search-block-form" accept-charset="UTF-8">
+             <div>
+              <div class="container-inline"> 
+               <h2 class="element-invisible">Search form</h2> 
+               <div class="form-item form-type-textfield form-item-search-block-form"> 
+                <input title="" class="custom-search-box form-text" placeholder="" onblur="if (this.value == '') {this.value = 'I want to...';}" onfocus="if (this.value == 'I want to...') {this.value = '';}" id="search_block_form_input" aria-label="Search this site" type="text" name="search_block_form" value="I want to..." size="15" maxlength="128"> 
+               </div> 
+               <div class="form-actions form-wrapper" id="edit-actions">
+                <input title="Search this site" value="" type="submit" id="edit-submit" name="op" class="form-submit">
+               </div>
+               <input type="hidden" name="form_build_id" value="form-2qTm8X6wUdPGWy5BzL9Q25Dtm2vJQnWCVxY77yW9rr4"> 
+               <input type="hidden" name="form_id" value="search_block_form"> 
+              </div> 
+             </div>
+            </form> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <!-- EOF:#header-inside-right --> 
+      </div> 
+     </div> 
+    </div> 
+    <!-- EOF: #header-inside --> 
+   </div>
+   <!-- #alert --> 
+   <!-- EOF:#alert --> 
+  </header> 
+  <!-- EOF: #header -->  
+  <!-- EOF:#search box --> 
+  <!-- #page --> 
+  <div id="page" class="clearfix"> 
+   <!-- #messages-console --> 
+   <!-- EOF: #messages-console --> 
+   <!-- #main-content --> 
+   <div id="main-content"> 
+    <div class="container"> 
+     <div class="row"> 
+      <section class="col-md-12"> 
+       <!-- #main --> 
+       <div id="main" class="clearfix"> 
+        <h1 class="title" id="page-title">Acts and Resolutions</h1> 
+        <!-- #tabs --> 
+        <div class="tabs"> 
+        </div> 
+        <!-- EOF: #tabs --> 
+        <!-- #action links --> 
+        <!-- EOF: #action links --> 
+        <div class="region region-content"> 
+         <div id="block-system-main" class="block block-system content-section clearfix"> 
+          <div class="content"> 
+           <article id="node-4636" class="node node-page clearfix"> 
+            <div class="node-main-content full-width"> 
+             <div class="content"> 
+              <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+               <div class="field-items">
+                <div class="field-item even">
+                 <p class="content_text" style="font-size: 12px; line-height: 18px; color: rgb(0, 0, 0); font-family: Verdana, Arial, Helvetica, sans-serif;">Pursuant to Title 12, Chapter 6, Section 116 of the Tennessee Code Annotated, it is the duty of the Secretary of State to prepare and distribute the printed acts of the General Assembly. "Notwithstanding any other provision of law, the Secretary of State is authorized to fulfill the provisions of this part by publishing the text of the public acts in electronic form by use of the Internet."</p> 
+                 <p class="content_text" style="font-size: 12px; line-height: 18px; color: rgb(0, 0, 0); font-family: Verdana, Arial, Helvetica, sans-serif;"><span style="color: rgb(0, 0, 0); font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px;"><strong>Note:</strong> Acts and Resolutions&nbsp;will be available when received from the Governor's office</span></p> 
+                 <h3 class="content_text"><a href="http://tnsos.org/acts/Resolutions.111th.php?showall">111th General Assembly Resolutions</a></h3> 
+                 <h3 class="content_text"><a href="https://tnsos.org/acts/PublicActs.111.php?showall">111th General Assembly Public Acts</a></h3> 
+                 <h3 class="content_text"><a href="http://tnsos.org/acts/PrivateActs.111.php?showall">111th General Assembly Private Acts</a>?</h3> 
+                </div>
+               </div>
+              </div> 
+             </div> 
+            </div> 
+           </article> 
+          </div> 
+         </div> 
+         <div id="block-views-acts-block-2" class="block block-views highlighted-programs-block clearfix"> 
+          <h2 class="title">Acts - Current Session</h2> 
+          <div class="content"> 
+           <div class="view view-acts view-id-acts view-display-id-block_2 view-dom-id-cbff55307e0f341fd3a5bd786bc2d54c"> 
+            <div class="view-content"> 
+             <div class="views-row views-row-1 views-row-odd views-row-first col-md-12 col-sm-12"> 
+              <div class="views-field views-field-field-link"> 
+               <div class="field-content">
+                <h5><a href="http://tnsos.org/acts/PublicActs.111.php?showall" class="external-link">111th General Assembly Public Acts</a></h5>
+               </div> 
+              </div> 
+             </div> 
+             <div class="views-row views-row-2 views-row-even views-row-last col-md-12 col-sm-12"> 
+              <div class="views-field views-field-field-link"> 
+               <div class="field-content">
+                <h5><a href="https://tnsos.org/acts/Resolutions.111th.php?showall" class="external-link">111th General Assembly Resolutions</a></h5>
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div id="block-views-acts-block-3" class="block block-views highlighted-programs-block clearfix"> 
+          <h2 class="title">Acts - Archived Sessions</h2> 
+          <div class="content"> 
+           <div class="view view-acts view-id-acts view-display-id-block_3 view-dom-id-efa0e891d5a970e4de5776091ae51303"> 
+            <div class="view-content"> 
+             <div class="views-row views-row-1 views-row-odd views-row-first col-md-12 col-sm-12"> 
+              <div class="views-field views-field-field-link"> 
+               <div class="field-content">
+                <h5><a href="http://tnsos.org/acts/Resolutions.110th.php?showall" class="external-link">110th General Assembly Resolutions</a></h5>
+               </div> 
+              </div> 
+             </div> 
+             <div class="views-row views-row-2 views-row-even col-md-12 col-sm-12"> 
+              <div class="views-field views-field-field-link"> 
+               <div class="field-content">
+                <h5><a href="http://tnsos.org/acts/PublicActs.110.php?showall" class="external-link">110th General Assembly Public Acts</a></h5>
+               </div> 
+              </div> 
+             </div> 
+             <div class="views-row views-row-3 views-row-odd col-md-12 col-sm-12"> 
+              <div class="views-field views-field-field-link"> 
+               <div class="field-content">
+                <h5><a href="http://tnsos.org/acts/PrivateActs.110.php?showall" class="external-link">110th General Assembly Private Acts</a></h5>
+               </div> 
+              </div> 
+             </div> 
+             <div class="views-row views-row-4 views-row-even col-md-12 col-sm-12"> 
+              <div class="views-field views-field-field-link"> 
+               <div class="field-content">
+                <h5><a href="/products/division-publications/109th-general-assembly-second-extraordinary-session">109th General Assembly Second Extraordinary Session</a></h5>
+               </div> 
+              </div> 
+             </div> 
+             <div class="views-row views-row-5 views-row-odd col-md-12 col-sm-12"> 
+              <div class="views-field views-field-field-link"> 
+               <div class="field-content">
+                <h5><a href="http://tnsos.org/acts/Resolutions.109th.php" class="external-link">109th General Assembly Resolutions</a></h5>
+               </div> 
+              </div> 
+             </div> 
+             <div class="views-row views-row-6 views-row-even col-md-12 col-sm-12"> 
+              <div class="views-field views-field-field-link"> 
+               <div class="field-content">
+                <h5><a href="http://tnsos.org/acts/PublicActs.109.php" class="external-link">109th General Assembly Public Acts</a></h5>
+               </div> 
+              </div> 
+             </div> 
+             <div class="views-row views-row-7 views-row-odd col-md-12 col-sm-12"> 
+              <div class="views-field views-field-field-link"> 
+               <div class="field-content">
+                <h5><a href="http://tnsos.org/acts/PrivateActs.109.php" class="external-link">109th General Assembly Private Acts</a></h5>
+               </div> 
+              </div> 
+             </div> 
+             <div class="views-row views-row-8 views-row-even col-md-12 col-sm-12"> 
+              <div class="views-field views-field-field-link"> 
+               <div class="field-content">
+                <h5><a href="http://tnsos.org/acts/Resolutions.108th.php?showall" class="external-link">108th General Assembly Resolutions</a></h5>
+               </div> 
+              </div> 
+             </div> 
+             <div class="views-row views-row-9 views-row-odd col-md-12 col-sm-12"> 
+              <div class="views-field views-field-field-link"> 
+               <div class="field-content">
+                <h5><a href="http://tnsos.org/acts/PublicActs.108.php?showall" class="external-link">108th General Assembly Public Acts</a></h5>
+               </div> 
+              </div> 
+             </div> 
+             <div class="views-row views-row-10 views-row-even col-md-12 col-sm-12"> 
+              <div class="views-field views-field-field-link"> 
+               <div class="field-content">
+                <h5><a href="http://tnsos.org/acts/PrivateActs.108.php?showall" class="external-link">108th General Assembly Private Acts</a></h5>
+               </div> 
+              </div> 
+             </div> 
+             <div class="views-row views-row-11 views-row-odd col-md-12 col-sm-12"> 
+              <div class="views-field views-field-field-link"> 
+               <div class="field-content">
+                <h5><a href="http://tnsos.org/acts/Resolutions.107th.php?showall" class="external-link">107th General Assembly Resolutions</a></h5>
+               </div> 
+              </div> 
+             </div> 
+             <div class="views-row views-row-12 views-row-even col-md-12 col-sm-12"> 
+              <div class="views-field views-field-field-link"> 
+               <div class="field-content">
+                <h5><a href="http://tnsos.org/acts/PublicActs.107.php?showall" class="external-link">107th General Assembly Public Acts</a></h5>
+               </div> 
+              </div> 
+             </div> 
+             <div class="views-row views-row-13 views-row-odd col-md-12 col-sm-12"> 
+              <div class="views-field views-field-field-link"> 
+               <div class="field-content">
+                <h5><a href="http://tnsos.org/acts/PrivateActs.107.php?showall" class="external-link">107th General Assembly Private Acts</a></h5>
+               </div> 
+              </div> 
+             </div> 
+             <div class="views-row views-row-14 views-row-even col-md-12 col-sm-12"> 
+              <div class="views-field views-field-field-link"> 
+               <div class="field-content">
+                <h5><a href="http://sharetngov.tnsosfiles.com/sos/acts/106/resolutions/106th%20General%20Assembly%20Resolutions%20Index.pdf" class="external-link">106th General Assembly Resolutions Index</a></h5>
+               </div> 
+              </div> 
+             </div> 
+             <div class="views-row views-row-15 views-row-odd col-md-12 col-sm-12"> 
+              <div class="views-field views-field-field-link"> 
+               <div class="field-content">
+                <h5><a href="http://tnsos.org/acts/Resolutions.106th.php" class="external-link">106th General Assembly Published Resolutions</a></h5>
+               </div> 
+              </div> 
+             </div> 
+             <div class="views-row views-row-16 views-row-even col-md-12 col-sm-12"> 
+              <div class="views-field views-field-field-link"> 
+               <div class="field-content">
+                <h5><a href="http://tnsos.org/acts/PublicActs.106th.php" class="external-link">106th General Assembly Public Acts</a></h5>
+               </div> 
+              </div> 
+             </div> 
+             <div class="views-row views-row-17 views-row-odd col-md-12 col-sm-12"> 
+              <div class="views-field views-field-field-link"> 
+               <div class="field-content">
+                <h5><a href="http://tnsos.org/acts/PrivateActs.106th.php" class="external-link">106th General Assembly Private Acts</a></h5>
+               </div> 
+              </div> 
+             </div> 
+             <div class="views-row views-row-18 views-row-even col-md-12 col-sm-12"> 
+              <div class="views-field views-field-field-link"> 
+               <div class="field-content">
+                <h5><a href="http://sharetngov.tnsosfiles.com/sos/acts/105/resolutions/105th%20General%20Assembly%20Resolutions%20Index.pdf" class="external-link">105th General Assembly Resolutions Index</a></h5>
+               </div> 
+              </div> 
+             </div> 
+             <div class="views-row views-row-19 views-row-odd col-md-12 col-sm-12"> 
+              <div class="views-field views-field-field-link"> 
+               <div class="field-content">
+                <h5><a href="http://tnsos.org/acts/Resolutions.105th.php" class="external-link">105th General Assembly Published Resolutions</a></h5>
+               </div> 
+              </div> 
+             </div> 
+             <div class="views-row views-row-20 views-row-even col-md-12 col-sm-12"> 
+              <div class="views-field views-field-field-link"> 
+               <div class="field-content">
+                <h5><a href="http://tnsos.org/acts/PublicActs.105th.php" class="external-link">105th General Assembly Public Acts</a></h5>
+               </div> 
+              </div> 
+             </div> 
+             <div class="views-row views-row-21 views-row-odd col-md-12 col-sm-12"> 
+              <div class="views-field views-field-field-link"> 
+               <div class="field-content">
+                <h5><a href="http://tnsos.org/acts/PrivateActs.105th.php" class="external-link">105th General Assembly Private Acts</a></h5>
+               </div> 
+              </div> 
+             </div> 
+             <div class="views-row views-row-22 views-row-even col-md-12 col-sm-12"> 
+              <div class="views-field views-field-field-link"> 
+               <div class="field-content">
+                <h5><a href="/products/division-publications/104th-general-assembly-resolutions">104th General Assembly Resolutions</a></h5>
+               </div> 
+              </div> 
+             </div> 
+             <div class="views-row views-row-23 views-row-odd col-md-12 col-sm-12"> 
+              <div class="views-field views-field-field-link"> 
+               <div class="field-content">
+                <h5><a href="/products/division-publications/104th-general-assembly-public-acts">104th General Assembly Public Acts</a></h5>
+               </div> 
+              </div> 
+             </div> 
+             <div class="views-row views-row-24 views-row-even col-md-12 col-sm-12"> 
+              <div class="views-field views-field-field-link"> 
+               <div class="field-content">
+                <h5><a href="/products/division-publications/104th-general-assembly-private-acts">104th General Assembly Private Acts</a></h5>
+               </div> 
+              </div> 
+             </div> 
+             <div class="views-row views-row-25 views-row-odd col-md-12 col-sm-12"> 
+              <div class="views-field views-field-field-link"> 
+               <div class="field-content">
+                <h5><a href="/products/division-publications/103rd-general-assembly-resolutions">103rd General Assembly Resolutions</a></h5>
+               </div> 
+              </div> 
+             </div> 
+             <div class="views-row views-row-26 views-row-even col-md-12 col-sm-12"> 
+              <div class="views-field views-field-field-link"> 
+               <div class="field-content">
+                <h5><a href="/products/division-publications/103rd-general-assembly-public-acts">103rd General Assembly Public Acts</a></h5>
+               </div> 
+              </div> 
+             </div> 
+             <div class="views-row views-row-27 views-row-odd col-md-12 col-sm-12"> 
+              <div class="views-field views-field-field-link"> 
+               <div class="field-content">
+                <h5><a href="/products/division-publications/103rd-general-assembly-private-acts">103rd General Assembly Private Acts</a></h5>
+               </div> 
+              </div> 
+             </div> 
+             <div class="views-row views-row-28 views-row-even col-md-12 col-sm-12"> 
+              <div class="views-field views-field-field-link"> 
+               <div class="field-content">
+                <h5><a href="/products/division-publications/102nd-general-assembly-resolutions">102nd General Assembly Resolutions</a></h5>
+               </div> 
+              </div> 
+             </div> 
+             <div class="views-row views-row-29 views-row-odd col-md-12 col-sm-12"> 
+              <div class="views-field views-field-field-link"> 
+               <div class="field-content">
+                <h5><a href="/products/division-publications/102nd-general-assembly-public-acts">102nd General Assembly Public Acts</a></h5>
+               </div> 
+              </div> 
+             </div> 
+             <div class="views-row views-row-30 views-row-even col-md-12 col-sm-12"> 
+              <div class="views-field views-field-field-link"> 
+               <div class="field-content">
+                <h5><a href="/products/division-publications/102nd-general-assembly-private-acts">102nd General Assembly Private Acts</a></h5>
+               </div> 
+              </div> 
+             </div> 
+             <div class="views-row views-row-31 views-row-odd col-md-12 col-sm-12"> 
+              <div class="views-field views-field-field-link"> 
+               <div class="field-content">
+                <h5><a href="/products/division-publications/101st-general-assembly-resolutions">101st General Assembly Resolutions</a></h5>
+               </div> 
+              </div> 
+             </div> 
+             <div class="views-row views-row-32 views-row-even col-md-12 col-sm-12"> 
+              <div class="views-field views-field-field-link"> 
+               <div class="field-content">
+                <h5><a href="/products/division-publications/101st-general-assembly-public-acts">101st General Assembly Public Acts</a></h5>
+               </div> 
+              </div> 
+             </div> 
+             <div class="views-row views-row-33 views-row-odd col-md-12 col-sm-12"> 
+              <div class="views-field views-field-field-link"> 
+               <div class="field-content">
+                <h5><a href="/products/division-publications/101st-general-assembly-private-acts">101st General Assembly Private Acts</a></h5>
+               </div> 
+              </div> 
+             </div> 
+             <div class="views-row views-row-34 views-row-even views-row-last col-md-12 col-sm-12"> 
+              <div class="views-field views-field-field-link"> 
+               <div class="field-content">
+                <h5><a href="/products/division-publications/100th-general-assembly-public-acts">100th General Assembly Public Acts</a></h5>
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <!-- EOF:#main --> 
+      </section> 
+     </div> 
+    </div> 
+   </div> 
+   <!-- EOF:#main-content --> 
+  </div> 
+  <!-- EOF: #page --> 
+  <!-- #footer-top --> 
+  <div id="footer-top" class="clearfix"> 
+   <div class="container"> 
+    <!-- #footer-top-inside --> 
+    <div id="footer-top-inside" class="clearfix"> 
+     <div class="row"> 
+      <div class="col-md-12"> 
+       <div class="region region-footer-top"> 
+        <div id="block-block-24" class="block block-block clearfix"> 
+         <div class="content"> 
+          <div class="footer-division">
+           Division of Publications
+          </div> 
+          <div class="footer-contact-info">
+           312 Rosa L. Parks Avenue Snodgrass Tower, 8th Floor Nashville, TN 37243
+           <br> 615-741-2650
+           <br>
+           <a href="mailto:publications.information@tn.gov">publications.information@tn.gov</a>
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <!-- EOF:#footer-top-inside --> 
+   </div> 
+  </div> 
+  <!-- EOF: #footer-top --> 
+  <!-- #footer --> 
+  <footer id="footer" class="clearfix"> 
+   <div class="container"> 
+    <div class="row"> 
+     <div class="col-sm-3"> 
+      <div class="footer-area"> 
+       <div class="region region-footer-first"> 
+        <div id="block-block-8" class="block block-block clearfix"> 
+         <h2 class="title">Our Mission</h2> 
+         <div class="content"> 
+          <p style="color:white">Our mission is to exceed the expectations of our customers, the taxpayers, by operating at the highest levels of accuracy, cost-effectiveness and accountability in a customer-centered environment.</p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="col-sm-3"> 
+      <div class="footer-area"> 
+       <div class="region region-footer-second"> 
+        <div id="block-block-10" class="block block-block footer-menu-list clearfix"> 
+         <h2 class="title">Customer Support</h2> 
+         <div class="content"> 
+          <ul>
+           <li><a href="https://sos.tn.gov/contacts">Contact Us</a></li> 
+           <li><a href="https://sos.tn.gov/node/5755">Library &amp; Archives&nbsp;Visitor&nbsp;Information</a></li> 
+          </ul> 
+         </div> 
+        </div> 
+        <div id="block-block-9" class="block block-block footer-menu-list clearfix"> 
+         <h2 class="title">Department Information</h2> 
+         <div class="content"> 
+          <ul>
+           <li><a href="https://sos.tn.gov/node/5060">About the Secretary of State's&nbsp;Office</a></li> 
+           <li><a href="https://sos.tn.gov/node/5497">Secretary of State Bio</a></li> 
+           <li><a href="https://sos.tn.gov/newsroom">Secretary of State Newsroom</a></li> 
+           <li><a href="https://sos.tn.gov/node/6107">Sign up for email updates</a></li> 
+          </ul> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="col-sm-3"> 
+      <div class="footer-area"> 
+       <div class="region region-footer-third"> 
+        <div id="block-block-11" class="block block-block footer-menu-list clearfix"> 
+         <h2 class="title">Divisions</h2> 
+         <div class="content"> 
+          <ul>
+           <li><a href="https://sos.tn.gov/apd">Administrative Hearings</a></li> 
+           <li><a href="https://sos.tn.gov/business-services">Business Services</a></li> 
+           <li><a href="https://sos.tn.gov/charitable">Charitable Solicitations and Gaming</a></li> 
+           <li><a href="https://sos.tn.gov/elections">Elections</a></li> 
+           <li><a href="https://sos.tn.gov/hr">Human Resources and Organizational Development</a></li> 
+           <li><a href="https://sos.tn.gov/tsla">Library &amp; Archives</a></li> 
+           <li><a href="https://sos.tn.gov/publications">Division of Publications</a></li> 
+           <li><a href="https://sos.tn.gov/rmd">Records Management</a></li> 
+          </ul> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="col-sm-3"> 
+      <div class="footer-area"> 
+       <div class="region region-footer-fourth"> 
+        <div id="block-block-14" class="block block-block footer-menu-list clearfix"> 
+         <h2 class="title">Links</h2> 
+         <div class="content"> 
+          <ul>
+           <li><a href="http://capitol.tn.gov">Tennessee General Assembly</a></li> 
+           <li><a href="https://www.tn.gov/tref/">Bureau of Ethics and Campaign Finance</a></li> 
+           <li><a href="http://www.lexisnexis.com/hottopics/tncode/">Tennessee Code Unannotated</a></li> 
+           <li><a href="http://www.comptroller.tn.gov/">State Comptroller</a></li> 
+           <li><a href="http://treasury.tn.gov/">State Treasurer</a></li> 
+           <li><a href="http://nass.org">National Association of Secretaries of State</a></li> 
+           <li><a href="http://sos-tn-gov-files.s3.amazonaws.com/Title%20VI%20Form.pdf" target="_blank">Title VI / EEO Information</a></li> 
+           <li><a href="https://sos.tn.gov/node/7457">Public Records Policy and Records Request Form</a></li> 
+          </ul> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </footer> 
+  <!-- EOF #footer --> 
+  <div id="subfooter" class="clearfix"> 
+   <div class="container"> 
+    <!-- #subfooter-inside --> 
+    <div id="subfooter-inside" class="clearfix"> 
+     <div class="row"> 
+      <div class="col-md-4"> 
+       <!-- #subfooter-left --> 
+       <div class="subfooter-area left"> 
+        <div class="region region-sub-footer-left"> 
+         <div id="block-block-2" class="block block-block clearfix"> 
+          <div class="content"> 
+           <p><img alt="Tri Stars Icon" src="https://sos-tn-gov-files.s3.amazonaws.com/circle_stars.png" style="vertical-align: top; margin-right: 3px; margin-left: 0px; float: left;"></p> 
+           <p style="padding-top: 10px;"><a href="https://sos.tn.gov" style="color:white; text-decoration: none">Tennessee Secretary of State</a><br> Tre Hargett</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <!-- EOF: #subfooter-left --> 
+      </div> 
+      <div class="col-md-8"> 
+       <!-- #subfooter-right --> 
+       <div class="subfooter-area right"> 
+        <div class="region region-footer"> 
+         <div id="block-block-16" class="block block-block clearfix"> 
+          <div class="content"> 
+           <p><a href="https://twitter.com/sectrehargett" target="_blank"><img alt="Twitter Logo" src="https://sos-tn-gov-files.s3.amazonaws.com/socialicons_%20twitter.png" style="width: 85px; height: 86px; margin: 10px;"></a><a href="https://www.facebook.com/TennesseeSecretaryofState" target="_blank"><img alt="Facebook Logo" src="https://sos-tn-gov-files.s3.amazonaws.com/socialicons_facebook.png" style="width: 86px; height: 86px; margin: 10px;"></a> <a href="https://instagram.com/sectrehargett/" target="_blank"><img alt="Instagram Logo" src="https://sos-tn-gov-files.s3.amazonaws.com/socialicons_instagram.png" style="width: 86px; height: 86px; margin: 10px; border-width: 0px; border-style: solid;"></a> <a href="https://www.youtube.com/c/sectrehargett" target="_blank"><img alt="YouTube Logo" src="https://sos-tn-gov-files.s3.amazonaws.com/socialicons_youtube.png" style="width: 86px; height: 86px; border-width: 0px; border-style: solid; margin: 10px;" typeof="foaf:Image"></a><a href="https://sos.tn.gov/node/5387" target="_blank"><img alt="RSS Feed Logo" class="media-image attr__typeof__foaf:Image img__fid__707 img__view_mode__media_original attr__format__media_original" src="https://sos-tn-gov-files.s3.amazonaws.com/socialicons_rss.png" style="width: 85px; height: 86px; margin: 10px; border-width: 0px; border-style: solid;" typeof="foaf:Image"></a><a href="https://sos.tn.gov/node/6107" target="_blank"><img alt="Email Icon" src="https://sos-tn-gov-files.s3.amazonaws.com/socialicons_subscribe-02.png" style="width: 86px; height: 86px; margin: 10px; border-width: 0px; border-style: solid;" typeof="foaf:Image"></a></p> 
+           <p class="rtecenter">© 2017 Tennessee Secretary&nbsp;of State |&nbsp;<a href="https://sos.tn.gov/node/5591">Web and Social Media Policies</a></p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <!-- EOF: #subfooter-right --> 
+      </div> 
+     </div> 
+    </div> 
+    <!-- EOF: #subfooter-inside --> 
+   </div> 
+  </div>
+  <!-- EOF:#subfooter --> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+		jQuery(document).ready(function($) {
+
+	    $(window).load(function() {
+
+        $(".filters").fadeIn("slow");
+        $(".filter-items").fadeIn("slow");
+        var container = $(".filter-items"),
+        filters= $(".filters");
+
+        container.isotope({
+            itemSelector: ".isotope-item",
+            layoutMode : "masonry",
+            transitionDuration: "0.6s",
+resizable: false, // disable normal resizing,
+    layoutMode: "fitRows",
+            filter: "*"
+        });
+
+		$(".filters").prepend( "<li class=\"active\"><a href=\"#\" data-filter=\"*\">All</a></li>" );
+        filters.find("a").click(function(){
+            var $this = $(this);
+            var selector = $this.attr("data-filter").replace(/\s+/g, "-");
+
+            filters.find("li.active").removeClass("active");
+            $this.parent().addClass("active");
+
+            container.isotope({ filter: selector });
+            return false;
+        });
+
+
+	    });
+
+		});
+//--><!]]>
+</script>   
+ </body>
+</html>

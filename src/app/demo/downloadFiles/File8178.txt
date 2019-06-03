@@ -1,0 +1,364 @@
+<!doctype html>
+<html class="no-js" dir="ltr" lang="en-US" prefix="og: http://ogp.me/ns#">
+ <head> 
+  <meta charset="utf-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <title>Launching Disasters.Data.Gov to Empower First Responders and Survivors with Innovative Tools and Data - Data.gov</title> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <!-- This site is optimized with the Yoast SEO plugin v7.9.1 - https://yoast.com/wordpress/plugins/seo/ --> 
+  <link rel="canonical" href="https://www.data.gov/disasters-legacy/launching-disasters-data-gov-empower-first-responders-survivors-innovative-tools-data/"> 
+  <meta property="og:locale" content="en_US"> 
+  <meta property="og:type" content="article"> 
+  <meta property="og:title" content="Launching Disasters.Data.Gov to Empower First Responders and Survivors with Innovative Tools and Data - Data.gov"> 
+  <meta property="og:description" content="Strengthening our Nation’s resilience to disasters is a shared responsibility, with all community members contributing their unique skills and perspectives. Whether you’re a data steward who can&nbsp;unlock information and foster a culture of open data, an innovator who can help&nbsp;address … Continued"> 
+  <meta property="og:url" content="https://www.data.gov/disasters-legacy/launching-disasters-data-gov-empower-first-responders-survivors-innovative-tools-data/"> 
+  <meta property="og:site_name" content="Data.gov"> 
+  <meta property="article:section" content="Disasters"> 
+  <meta property="article:published_time" content="2014-12-14T12:00:05-04:00"> 
+  <meta property="article:modified_time" content="2017-10-02T18:22:02-04:00"> 
+  <meta property="og:updated_time" content="2017-10-02T18:22:02-04:00"> 
+  <meta property="og:image" content="https://www.data.gov/media/2014/05/data_gov_logo_D_new.png"> 
+  <meta property="og:image:secure_url" content="https://www.data.gov/media/2014/05/data_gov_logo_D_new.png"> 
+  <!-- / Yoast SEO plugin. --> 
+  <link rel="dns-prefetch" href="//www.data.gov"> 
+  <link rel="dns-prefetch" href="//code.jquery.com"> 
+  <link rel="dns-prefetch" href="//dap.digitalgov.gov"> 
+  <link rel="dns-prefetch" href="//fonts.googleapis.com"> 
+  <link rel="dns-prefetch" href="//s.w.org"> 
+  <script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.data.gov\/wp\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script> 
+  <style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style> 
+  <link rel="stylesheet" href="https://www.data.gov/app/plugins/simple-tooltips/zebra_tooltips.css?ver=5.1.1"> 
+  <link rel="stylesheet" href="https://www.data.gov/wp/wp-includes/css/dist/block-library/style.min.css?ver=5.1.1"> 
+  <link rel="stylesheet" href="https://www.data.gov/app/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1"> 
+  <link rel="stylesheet" href="https://www.data.gov/app/plugins/m-wp-popup/css/colorbox/colorbox.css?ver=0.1"> 
+  <link rel="stylesheet" href="https://www.data.gov/app/plugins/wp-open311/public/assets/css/chosen.min.css?ver=1.0.0"> 
+  <link rel="stylesheet" href="https://www.data.gov/app/plugins/wp-open311/public/assets/css/public.css?ver=1.0.0"> 
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Abel%7CLato%3A100%2C300%2C400%2C700&amp;ver=5.1.1"> 
+  <link rel="stylesheet" href="https://www.data.gov/app/themes/roots-nextdatagov/assets/css/main.min.css?ver=3c5deb08e1805f39213846d8a3a6ff74"> 
+  <link rel="stylesheet" href="https://www.data.gov/app/themes/roots-nextdatagov/assets/css/rei.css?ver=5.1.1"> 
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script> 
+  <script type="text/javascript" src="https://www.data.gov/app/plugins/m-wp-popup/js/wpp-popup-frontend.js?ver=0.1" defer></script> 
+  <script type="text/javascript" src="https://www.data.gov/app/plugins/wp-open311/public/assets/js/chosen.jquery.min.js?ver=1.0.0" defer></script> 
+  <script type="text/javascript" src="https://www.data.gov/app/plugins/wp-open311/public/assets/js/public.js?ver=1.0.0" defer></script> 
+  <script type="text/javascript" src="https://www.data.gov/app/themes/roots-nextdatagov/assets/js/vendor/respond.min.js" defer></script> 
+  <script type="text/javascript" src="https://www.data.gov/app/themes/roots-nextdatagov/assets/js/vendor/modernizr-2.7.1.min.js" defer></script> 
+  <script type="text/javascript" src="https://www.data.gov/app/themes/roots-nextdatagov/assets/js/ext-link-handler.js?ver=5.1.1" defer></script> 
+  <script type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=GSA"></script> 
+  <script type="text/javascript" src="https://www.data.gov/app/plugins/google-analyticator/external-tracking.min.js?ver=6.5.4" defer></script> 
+  <link rel="https://api.w.org/" href="https://www.data.gov/wp-json/"> 
+  <link rel="alternate" type="application/json+oembed" href="https://www.data.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.data.gov%2Fdisasters-legacy%2Flaunching-disasters-data-gov-empower-first-responders-survivors-innovative-tools-data%2F"> 
+  <link rel="alternate" type="text/xml+oembed" href="https://www.data.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.data.gov%2Fdisasters-legacy%2Flaunching-disasters-data-gov-empower-first-responders-survivors-innovative-tools-data%2F&amp;format=xml"> 
+  <meta name="tec-api-version" content="v1">
+  <meta name="tec-api-origin" content="https://www.data.gov">
+  <link rel="https://theeventscalendar.com/" href="https://www.data.gov/wp-json/tribe/events/v1/">
+  <!-- Google Analytics Tracking by Google Analyticator 6.5.4: http://www.videousermanuals.com/google-analyticator/ --> 
+  <script type="text/javascript">
+    var analyticsFileTypes = [''];
+    var analyticsSnippet = 'enabled';
+    var analyticsEventTracking = 'enabled';
+</script> 
+  <script type="text/javascript">
+	var _gaq = _gaq || [];
+  
+	_gaq.push(['_setAccount', 'UA-17367410-17']);
+    _gaq.push(['_addDevId', 'i9k95']); // Google Analyticator App ID with Google
+    _gaq.push(['_gat._anonymizeIp']);
+	_gaq.push(['_trackPageview']);
+	<!-- tracking for UA-42145528-2  start -->
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42145528-2', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+<!-- tracking for UA-42145528-2  end -->
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script> 
+  <style type="text/css" id="wp-custom-css">
+			/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+.twitter-feed h2 {display:none;}		</style> 
+  <link rel="alternate" type="application/rss+xml" title="Data.gov Feed" href="https://www.data.gov/feed/"> 
+  <link href="https://www.data.gov/app/themes/roots-nextdatagov/assets/img/favicon.ico" rel="shortcut icon"> 
+  <link rel="icon" type="image/png" href="https://www.data.gov/app/themes/roots-nextdatagov/assets/img/favicon-120.png" sizes="120x120"> 
+  <!--[if IE]>
+    <style type="text/css">
+        #cboxClose{
+            top:-8px !important;
+            right:-8px !important;
+        }
+    </style>
+    <![endif]--> 
+ </head> 
+ <body class="post-template-default single single-post postid-15832422 single-format-standard tribe-no-js launching-disasters-data-gov-empower-first-responders-survivors-innovative-tools-data"> 
+  <!--div class="banner disclaimer">
+<center>This is a demonstration site exploring the future of Data.gov. <span id="stop-disclaimer"> Give us your feedback on <a href="https://twitter.com/usdatagov" class="local-link">Twitter</a>, <a href="http://quora.com" class="external ext-link" rel="external" onclick="this.target=&#039;_blank&#039;;">Quora</a></span>, <a href="https://github.com/GSA/datagov-design/" class="local-link">Github</a>, or <a href="/contact-engage">contact us</a></center>
+</div--> 
+  <!--div class="banner disclaimer"><center>Updates to Data.gov will be temporarily suspended between December 13, 9 PM EST and approximately December 27. <a href="/migration-notification">Learn More</a>.</center></div--> 
+  <!--[if lt IE 8]>
+<div class="alert alert-warning">
+    You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/" class="external ext-link" rel="external" onclick="this.target=&#039;_blank&#039;;">upgrade your
+    browser</a> to improve your experience.</div>
+<![endif]--> 
+  <header> 
+   <div class="banner navbar navbar-default navbar-static-top yamm" role="banner"> 
+    <div class="container"> 
+     <div class="searchbox-row skip-navigation"> 
+      <div class="sr-only skip-link"> 
+       <a href="#main">Jump to Content</a> 
+      </div> 
+      <div> 
+       <form role="search" method="get" class="search-form form-inline navbar-right navbar-nav  col-sm-6 col-md-6 col-lg-6" action="//catalog.data.gov/dataset"> 
+        <div class="input-group"> 
+         <label for="search-header" class="sr-only">Search for:</label> 
+         <input type="search" id="search-header" title="Example searches: Monthly House Price Indexes, Health Care Provider Charge Data, Credit Card Complaints, Manufacturing &amp; Trade Inventories &amp; Sales, Federal Student Loan Program Data" data-strings="{&quot;targets&quot;:[&quot;Monthly House Price Indexes&quot;,&quot;Health Care Provider Charge Data&quot;,&quot;Credit Card Complaints&quot;,&quot;Manufacturing &amp; Trade Inventories &amp; Sales&quot;,&quot;Federal Student Loan Program Data&quot;]}" value="" name="q" class="search-field form-control" placeholder="Search Data.gov"> 
+         <input type="hidden" name="sort" value="score desc, name asc"> 
+         <span class="input-group-btn"> <button type="submit" class="search-submit btn btn-default"> <i class="fa fa-search"></i> <span class="sr-only">Search</span> </button> </span> 
+        </div> 
+        <input type="hidden" name="as_sfid" value="AAAAAAWpm_L1WyADAlPkzwjn291yvWeuEtSusBN60hrt5GccaYt5zcLiirtoTEylZD22kv_kUoOvtr0JTR3Nz8-B4S4fZ925bjomdBmp82irIXvgjJIIxelc9os2SIoIDKfLauo=">
+        <input type="hidden" name="as_fid" value="1e997bbb75e227cd717f1dde35d98b7518b16bca">
+       </form> 
+      </div> 
+     </div> 
+     <div class="navbar-header"> 
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button> 
+      <a href="https://www.data.gov/" alt="Data.gov" class="local-link"><h1 class="navbar-brand">Data.gov</h1></a> 
+     </div> 
+     <nav class="collapse navbar-collapse" role="navigation"> 
+      <ul id="menu-primary-navigation" class="nav navbar-nav navbar-right">
+       <li class="menu-data"><a href="http://catalog.data.gov/dataset" class="local-link">Data</a></li> 
+       <li class="dropdown yamm-fw menu-topics"><a class="dropdown-toggle local-link" data-toggle="dropdown" data-target="#" href="https://www.data.gov/communities/">Topics <b class="caret"></b></a> 
+        <ul class="dropdown-menu topics"> 
+         <li class="menu-agriculture topic-food"><a href="https://www.data.gov/food/" class="local-link"><i></i><span>Agriculture</span></a></li> 
+         <li class="menu-climate topic-climate"><a href="https://www.data.gov/climate/" class="local-link"><i></i><span>Climate</span></a></li> 
+         <li class="menu-consumer topic-consumer"><a href="https://www.data.gov/consumer/" class="local-link"><i></i><span>Consumer</span></a></li> 
+         <li class="menu-ecosystems topic-ecosystems"><a href="https://www.data.gov/ecosystems/" class="local-link"><i></i><span>Ecosystems</span></a></li> 
+         <li class="menu-education topic-education"><a href="https://www.data.gov/education/" class="local-link"><i></i><span>Education</span></a></li> 
+         <li class="menu-energy topic-energy"><a href="https://www.data.gov/energy/" class="local-link"><i></i><span>Energy</span></a></li> 
+         <li class="menu-finance topic-finance"><a href="https://www.data.gov/finance/" class="local-link"><i></i><span>Finance</span></a></li> 
+         <li class="menu-health topic-health"><a href="https://www.data.gov/health/" class="local-link"><i></i><span>Health</span></a></li> 
+         <li class="menu-local-government topic-local"><a href="https://www.data.gov/local/" class="local-link"><i></i><span>Local Government</span></a></li> 
+         <li class="menu-manufacturing topic-manufacturing"><a href="https://www.data.gov/manufacturing/" class="local-link"><i></i><span>Manufacturing</span></a></li> 
+         <li class="menu-maritime topic-maritime"><a href="https://www.data.gov/maritime/" class="local-link"><i></i><span>Maritime</span></a></li> 
+         <li class="menu-ocean topic-ocean"><a href="https://www.data.gov/ocean/" class="local-link"><i></i><span>Ocean</span></a></li> 
+         <li class="menu-public-safety topic-safety"><a href="https://www.data.gov/safety/" class="local-link"><i></i><span>Public Safety</span></a></li> 
+         <li class="menu-science-research topic-research"><a href="https://www.data.gov/research/" class="local-link"><i></i><span>Science &amp; Research</span></a></li> 
+        </ul> </li> 
+       <li class="menu-impact"><a href="https://www.data.gov/impact/" class="local-link">Impact</a></li> 
+       <li class="menu-applications"><a href="https://www.data.gov/applications" class="local-link">Applications</a></li> 
+       <li class="menu-developers"><a href="https://www.data.gov/developers/" class="local-link">Developers</a></li> 
+       <li class="menu-contact"><a href="https://www.data.gov/contact" class="local-link">Contact</a></li> 
+      </ul> 
+     </nav> 
+    </div> 
+    <div id="external_disclaimer" class="tooltip" role="tooltip" aria-hidden="true">
+     This link will direct you to an external website that may have different content and privacy policies from Data.gov. 
+    </div> 
+   </div> 
+   <div class="container hidden print-logo"> 
+    <img src="/app/themes/roots-nextdatagov/assets/img/logo.svg"> 
+   </div> 
+   <div class="header banner page-heading"> 
+    <div class="container"> 
+     <div class="page-header"> 
+      <h1> <span class="category-header topic-disasters-legacy"><a href="https://www.data.gov/disasters-legacy/" class="local-link">
+         <div>
+          <i></i>
+         </div><span>Disasters</span></a></span> </h1> 
+     </div> 
+    </div> 
+   </div> 
+  </header> 
+  <div role="document"> 
+   <div class="content"> 
+    <main class="main" role="main" id="main"> 
+     <!-- adding parameter to url which passes the term slug for the cross site navigation--> 
+     <script type="text/javascript">
+    jQuery(function ($) {
+        var comm = 'topic=disasters_navigation';
+
+        $('#main a[href*="catalog.data.gov"]').add('#main a[href*="fe-data.reisys.com"]').not('#main a[href*="#topic"]').each(function () {
+            var newHref = $(this).attr('href') + '#topic=disasters_navigation';
+            $(this).attr('href', newHref);
+        });
+    });
+</script> 
+     <div class="wrap container"> 
+      <article class="post-15832422 post type-post status-publish format-standard hentry category-disasters-legacy"> 
+       <header> 
+        <h1 class="entry-title">Launching Disasters.Data.Gov to Empower First Responders and Survivors with Innovative Tools and Data</h1> 
+        <div class="entry-meta" xmlns="//www.w3.org/1999/html"> 
+         <time class="published" datetime="2014-12-14T12:00:05-04:00">December 14, 2014&nbsp;&nbsp;<i>By Meredith Lee, Heather King, Brian Forde</i></time> 
+        </div> 
+       </header> 
+       <div class="entry-content"> 
+        <p>Strengthening our Nation’s resilience to disasters is a shared responsibility, with all community members contributing their unique skills and perspectives. Whether you’re a data steward who can&nbsp;<a href="http://www.data.gov/disasters/call-action-open-data/" class="local-link">unlock information and foster a culture of open data</a>, an innovator who can help&nbsp;<a href="http://www.data.gov/disasters/innovator-challenge/" class="local-link">address disaster preparedness challenges</a>, or a volunteer ready to&nbsp;<a href="http://www.data.gov/disasters/get-involved/" class="local-link">join the “Innovation for Disasters” movement</a>, we are excited for you to visit the new <a href="http://disasters.data.gov" class="local-link">disasters.data.gov</a> site, launching today.</p> 
+        <p>First previewed at the <a href="http://mashable.com/2013/05/05/brian-forde-sandy-technology/" class="external ext-link" rel="external" onclick="this.target='_blank';">White House Innovation for Disaster Response and Recovery Initiative</a>&nbsp;<a href="http://www.whitehouse.gov/blog/2014/08/04/more-1500-people-participate-white-house-innovation-disaster-response-and-recovery-d" class="external ext-link" rel="external" onclick="this.target='_blank';">Demo Day</a>, <a href="http://disasters.data.gov" class="local-link">disasters.data.gov</a> is designed to be a public resource to foster collaboration and the continual improvement of disaster-related open data, free tools, and new ways to empower first responders, survivors, and government officials with the information needed in the wake of a disaster.</p> 
+        <p>Today, the Administration is unveiling the first in a series of&nbsp;<a title="Innovator Challenge" href="/disasters/innovator-challenge/"><span style="text-decoration: underline;"><span style="color: #0066cc;">Innovator Challenges</span></span></a> that highlight pressing needs from the disaster preparedness community. The inaugural Innovator Challenge focuses on a need identified from firsthand experience of local emergency management, responders, survivors, and Federal departments and agencies. The challenge asks innovators across the nation: “How might we leverage real-time sensors, open data, social media, and other tools to help reduce the number of fatalities from flooding?”</p> 
+        <p>&nbsp;</p> 
+        <p><em>In addition to this first Innovator Challenge, here are some highlights from </em><a href="http://disasters.data.gov" class="local-link"><em>disasters.data.gov</em></a><em>:</em></p> 
+        <ul> 
+         <li><a href="https://www.data.gov/disasters/types/" class="local-link"><strong>“Types of Disasters” Landing Pages</strong></a><strong>: </strong>Disasters take many forms. The <a href="http://disasters.data.gov" class="local-link">data.gov</a> portal brings together and categorizes open data sets, apps, and tools to make relevant resources easier to find. Today, the site includes landing pages for <a href="https://www.data.gov/disasters/types/earthquakes" class="local-link">Earthquakes</a>, <a href="https://www.data.gov/disasters/types/floods" class="local-link">Floods</a>, <a href="https://www.data.gov/disasters/types/hurricanes" class="local-link">Hurricanes</a>, <a href="https://www.data.gov/disasters/types/severe-winter-weather" class="local-link">Severe Winter Weather</a>, <a href="https://www.data.gov/disasters/types/tornadoes" class="local-link">Tornadoes</a>, and <a href="https://www.data.gov/disasters/types/wildfires" class="local-link">Wildfires</a>. More categories and content will be added as the website expands.</li> 
+        </ul> 
+        <p>&nbsp;</p> 
+        <ul> 
+         <li><a href="http://www.data.gov/disasters/apps-tools/" class="local-link"><strong>Apps &amp; Tools</strong></a><strong>:</strong> The portal includes an initial set of apps and tools that can be deployed at minimal cost by first responders, emergency managers, volunteer organizations, survivors, and other stakeholders. The apps and tools featured were presented at the White House Innovation for Disaster Response and Recovery&nbsp;<a href="http://www.whitehouse.gov/blog/2014/08/04/more-1500-people-participate-white-house-innovation-disaster-response-and-recovery-d" class="external ext-link" rel="external" onclick="this.target='_blank';">Demo Day</a>&nbsp;and include sharing economy platforms, crowdsourcing options, and services to enable communications, contribute to a culture of preparedness, and alert the public.</li> 
+        </ul> 
+        <p>&nbsp;</p> 
+        <ul> 
+         <li><a href="http://www.data.gov/disasters/call-action-open-data/" class="local-link"><strong>Get Involved – Call to Data Stewards</strong></a><strong>:</strong> Datasets relevant to disaster preparedness (including prevention, protection, mitigation, response, and recovery) have traditionally been closed by default to the public. To help empower the community with information that can improve community resilience, the Administration is working with&nbsp;stakeholders&nbsp;to open a series of disaster-related datasets from all levels of government and the private sector. Learn more <a href="http://www.data.gov/disasters/call-action-open-data/" class="local-link">here</a>.</li> 
+        </ul> 
+        <p>&nbsp;</p> 
+        <ul> 
+         <li><a href="http://www.data.gov/disasters/join-movement/" class="local-link"><strong>Get Involved – Join the “Innovation for Disasters” Movement</strong></a><strong>:</strong> Whether you visit the portal as a tech entrepreneur, developer, hardware tinkerer, journalist, researcher, government official, first responder, or potential volunteer, there are numerous ways to join the Innovation for Disasters movement and get involved. Learn more <a href="http://www.data.gov/disasters/join-movement/" class="local-link">here</a>.</li> 
+        </ul> 
+        <p>&nbsp;</p> 
+        <p>The&nbsp;White House Innovation for Disaster Response and Recovery Initiative&nbsp;was launched by the Administration in response to Hurricane Sandy to find the most effective ways for technology to empower survivors, first responders, and all levels of government with critical information and resources. After over two years of continued dialogue and <a href="https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/white_house_innovation_for_disaster_response_-_2014-july29.pdf" class="external ext-link" rel="external" onclick="this.target='_blank';">major commitments from the public and private sector</a>, the first <a href="http://www.whitehouse.gov/blog/2014/11/07/hardware-hacking-disaster-response-red-hook-brooklyn" class="external ext-link" rel="external" onclick="this.target='_blank';">hardware hackathon for disaster preparedness held in support of the Initiative</a>, and numerous workshops, we are thrilled to launch <a href="http://disasters.data.gov" class="local-link">disasters.data.gov</a> as the Initiative’s first major online presence.</p> 
+        <p><a href="http://disasters.data.gov" class="local-link">Disasters.data.gov</a> seeks to leverage the creativity and social entrepreneurship of innovators everywhere to help strengthen national preparedness. The Administration will continue working to shape the portal into a useful “go-to” resource that captures a diverse range of contributions in disaster preparedness technology and innovation. We invite you to take the site for a spin, email <a href="mailto:disastertech@ostp.gov?subject=Disasters.data.gov%20Open%20Data">disastertech@ostp.gov</a> with your feedback, and <a href="http://www.data.gov/disasters/get-involved/" class="local-link">get involved</a> to help build a more resilient community.</p> 
+        <p>&nbsp;</p> 
+        <p><em>Meredith Lee is AAAS Science and Technology Policy Fellow at the U.S. Department of Homeland Security</em></p> 
+        <p><em>Heather King is Director for Preparedness Policy at the National Security Council</em></p> 
+        <p><em>Brian Forde is Senior Advisor for Mobile and Data Innovation at the White House Office of Science and Technology Policy</em></p> 
+        <div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div> 
+       </div> 
+       <em></em> 
+       <footer> 
+       </footer> 
+      </article> 
+      <section id="comments"> 
+       <h3>3 Responses to “Launching Disasters.Data.Gov to Empower First Responders and Survivors with Innovative Tools and Data”</h3> 
+       <ol class="media-list"> 
+        <li id="comment-1249232" class="comment even thread-even depth-1 media comment-1249232"> <img alt="" src="https://secure.gravatar.com/avatar/12c513fbfd5889efe931b74ae7983d6f?s=64&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/12c513fbfd5889efe931b74ae7983d6f?s=128&amp;d=mm&amp;r=g 2x" class="avatar pull-left media-object avatar-64 photo" height="64" width="64">
+         <div class="media-body"> 
+          <h4 class="media-heading">Paul Van Reed</h4> 
+          <time datetime="2014-12-17T08:36:23-04:00"><a href="https://www.data.gov/disasters-legacy/launching-disasters-data-gov-empower-first-responders-survivors-innovative-tools-data/#comment-1249232" class="local-link">December 17, 2014</a></time> 
+          <p>As a Records Manager for a Federal Agency and student of Emergency and Disaster Management (MA candidate E&amp;DM) with a focus on the information governance and records management issues related to disaster events (particularly those with an environmental component), I am interested in seeing this effort take a broad and inclusive focus to include disaster response efforts as defined by CERCLA, the Clean Water Act and the Public Health Safety Act in addition to Stafford Act responses.</p> 
+         </div></li> 
+        <li id="comment-1392542" class="comment odd alt thread-odd thread-alt depth-1 media comment-1392542"> <img alt="" src="https://secure.gravatar.com/avatar/daf9e476f07fb2d2eee28548d5c23967?s=64&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/daf9e476f07fb2d2eee28548d5c23967?s=128&amp;d=mm&amp;r=g 2x" class="avatar pull-left media-object avatar-64 photo" height="64" width="64">
+         <div class="media-body"> 
+          <h4 class="media-heading">Linda M.</h4> 
+          <time datetime="2015-01-05T10:13:26-04:00"><a href="https://www.data.gov/disasters-legacy/launching-disasters-data-gov-empower-first-responders-survivors-innovative-tools-data/#comment-1392542" class="local-link">January 5, 2015</a></time> 
+          <p>I would like to receive weekly summaries of the topics covered in your blog but do not see an option to register for it. I do not have the time to check the site, but do not want to miss out on the opportunities presented within the topics discussed.</p> 
+         </div></li> 
+        <li id="comment-1585062" class="comment even thread-even depth-1 media comment-1585062"> <img alt="" src="https://secure.gravatar.com/avatar/11c70d7060617b102b2d464c654d0507?s=64&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/11c70d7060617b102b2d464c654d0507?s=128&amp;d=mm&amp;r=g 2x" class="avatar pull-left media-object avatar-64 photo" height="64" width="64">
+         <div class="media-body"> 
+          <h4 class="media-heading">Jerry M.</h4> 
+          <time datetime="2015-03-12T21:15:00-04:00"><a href="https://www.data.gov/disasters-legacy/launching-disasters-data-gov-empower-first-responders-survivors-innovative-tools-data/#comment-1585062" class="local-link">March 12, 2015</a></time> 
+          <p>Yes, I am interested in being a first responder, to disasters, with our removal equipment… </p> 
+          <p>Would it be possible to receive more info concerning the proper channels to achieving this? Thanks!!</p> 
+         </div></li> 
+       </ol> 
+       <div class="alert alert-warning">
+         Comments are closed. 
+       </div> 
+      </section>
+      <!-- /#comments --> 
+     </div> 
+    </main> 
+    <!-- /.main --> 
+   </div> 
+   <!-- /.content --> 
+  </div> 
+  <!-- /.wrap --> 
+  <footer class="content-info" role="contentinfo"> 
+   <div class="container"> 
+    <div class="row"> 
+     <!--
+    <div class="col-lg-4">
+            <p>&copy; 2019 Data.gov</p>
+    </div>
+    --> 
+     <div class="col-md-6 col-lg-6"> 
+      <div class="footer-logo"> 
+       <a class="logo-brand local-link" href="https://www.data.gov/" alt="Data.gov">Data.gov</a> 
+      </div> 
+      <ul id="menu-footer2" class="nav">
+       <li class="menu-privacy-and-website-policies"><a href="https://www.data.gov/privacy-policy" class="local-link">Privacy and Website Policies</a></li> 
+       <li class="menu-usa-gov"><a href="https://www.usa.gov/" class="external ext-link" rel="external" onclick="this.target='_blank';">USA.GOV</a></li> 
+       <li class="menu-performance-gov"><a href="http://www.performance.gov/" class="external ext-link" rel="external" onclick="this.target='_blank';">PERFORMANCE.GOV</a></li> 
+      </ul> 
+     </div> 
+     <nav class="col-md-3 col-lg-3" role="navigation"> 
+      <ul id="menu-footer" class="nav">
+       <li class="menu-about"><a href="https://www.data.gov/about" class="local-link">About</a></li> 
+       <li class="menu-open-government"><a href="https://www.data.gov/open-gov/" class="local-link">Open Government</a></li> 
+       <li class="menu-blog"><a href="https://www.data.gov/meta/" class="local-link">Blog</a></li> 
+       <li class="menu-metrics"><a href="https://www.data.gov/metrics" class="local-link">Metrics</a></li> 
+       <li class="menu-events"><a href="/events/">Events</a></li> 
+       <li class="menu-log-in"><a href="https://www.data.gov/wp/wp-login.php" class="local-link">Log In</a></li> 
+      </ul> 
+     </nav> 
+     <div class="col-md-3 col-lg-3 social-nav"> 
+      <nav role="navigation"> 
+       <ul id="menu-social_navigation" class="nav">
+        <li><a href="https://twitter.com/usdatagov" title="This link will direct you to an external website that may have different content and privacy policies from Data.gov." class="local-link"><i class="fa fa-twitter"></i><span>Twitter</span></a></li> 
+        <li><a href="http://github.com/GSA/data.gov/" title="This link will direct you to an external website that may have different content and privacy policies from Data.gov." class="local-link"><i class="fa fa-github"></i><span>Github</span></a></li> 
+       </ul> 
+      </nav> 
+     </div> 
+    </div> 
+   </div> 
+  </footer> 
+  <script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script> 
+  <script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};var tribe_system_info = {"sysinfo_optin_nonce":"9826b768c7","clipboard_btn_text":"Copy to clipboard","clipboard_copied_text":"System info copied","clipboard_fail_text":"Press \"Cmd + C\" to copy"};/* ]]> */ </script>
+  <script type="text/javascript" src="https://www.data.gov/app/plugins/simple-tooltips/zebra_tooltips.js?ver=5.1.1" defer></script> 
+  <script type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.data.gov\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script> 
+  <script type="text/javascript" src="https://www.data.gov/app/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1" defer></script> 
+  <script type="text/javascript" src="https://www.data.gov/app/plugins/the-events-calendar/common/vendor/datatables/datatables.min.js?ver=4.9.3" defer></script> 
+  <script type="text/javascript" src="https://www.data.gov/app/themes/roots-nextdatagov/assets/js/scripts.min.js?ver=9ab03eaa29bcfa40a4e8e34e7afda278" defer></script> 
+  <script type="text/javascript" src="https://code.jquery.com/jquery-migrate-3.0.1.min.js"></script> 
+  <script type="text/javascript" src="https://www.data.gov/wp/wp-includes/js/wp-embed.min.js?ver=5.1.1"></script> 
+  <script type="text/javascript">
+                    jQuery(function() {
+                                                
+                        jQuery(".tooltips img").closest(".tooltips").css("display", "inline-block");
+                    
+                        new jQuery.Zebra_Tooltips(jQuery('.tooltips').not('.custom_m_bubble'), {
+                            'background_color':     '#000000',
+                            'color':				'#ffffff',
+                            'max_width':  250,
+                            'opacity':    .95, 
+                            'position':    'center'
+                        });
+                        
+                                            
+                    });
+                </script>   
+ </body>
+</html>

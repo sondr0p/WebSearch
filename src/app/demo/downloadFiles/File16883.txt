@@ -1,0 +1,241 @@
+<!doctype html>
+<html class="no-js is-languages" lang="en">
+ <head> 
+  <!-- REQUIRED META INFORMATION --> 
+  <meta charset="UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <meta name="msapplication-tap-highlight" content="no"> 
+  <title>Languages | Social Security Administration</title> 
+  <!-- OCOMM META INFORMATION --> 
+  <meta name="DCTERMS:contentOffice" content="OCOMM:OSDC"> 
+  <meta name="DCTERMS:contentOwner" content="orosario,mesquilin"> 
+  <meta name="DCTERMS:coderOffice" content="OCOMM:OSDC"> 
+  <meta name="DCTERMS:coder" content="rnavedo"> 
+  <meta name="DCTERMS:dateCertified" content="2017-09-12"> 
+  <meta name="description" content="Listing of language resources for Social Security."> 
+  <!-- STYLES --> 
+  <link rel="stylesheet" href="/framework/css/ssa.firefly.css"> 
+  <style>
+        .is-languages [id="ssa-languages"] {
+            background-color: #fff;
+            color: #212121 !important;
+            font-weight: 500;
+            cursor: text;
+        }
+    </style> 
+  <!-- SCRIPTS --> 
+  <script src="/framework/js/ssa.firefly.head.js"></script> 
+ </head> 
+ <body> 
+  <!-- BANNER --> 
+  <aside class="accessibility" id="accessibility">
+   <a href="#content" id="skip-navigation">Skip to content</a>
+  </aside> 
+  <header class="bg-logo white" id="banner" role="banner"> 
+   <div class="fx fx-jc-sb px2 py0 wrapper"> 
+    <h1 class="fs2 fw4 ma0 l-fs3"><a class="fx fx-ai-c hover-yellow py3 white m-py2" href="/"><img alt="" class="svg3 m-svg5" src="/framework/images/logo.svg"> <span class="pl1 m-pl2">Social Security</span></a></h1> 
+    <nav class="fs1 fx print-dn">
+     <a class="fx fx-ai-c hover-yellow px2 white" href="https://search.ssa.gov/search?affiliate=ssa" id="ssa-search" title="SEARCH">
+      <svg class="svg1" focusable="false" viewbox="0 0 24 24">
+       <path d="M14.182.0q-1.994.0-3.814.78t-3.132 2.092-2.092 3.132-.78 3.814q0 1.713.558 3.281t1.59 2.847l-6.196 6.187q-.315.315-.315.776.0.469.311.78t.78.311q.46.0.776-.315l6.187-6.196q1.278 1.031 2.847 1.59t3.281.558q1.994.0 3.814-.78t3.132-2.092 2.092-3.132.78-3.814-.78-3.814-2.092-3.132-3.132-2.092-3.814-.78zm0 2.182q1.551.0 2.966.605t2.438 1.628 1.628 2.438.605 2.966-.605 2.966-1.628 2.438-2.438 1.628-2.966.605-2.966-.605-2.438-1.628-1.628-2.438-.605-2.966.605-2.966 1.628-2.438 2.438-1.628 2.966-.605z" vector-effect="non-scaling-stroke"></path>
+      </svg><span class="dn m-dib m-pl1">SEARCH</span></a> 
+     <a class="fx fx-ai-c hover-yellow px2 white" href="/site/menu/en/" id="ssa-menu" title="MENU">
+      <svg class="svg1" focusable="false" viewbox="0 0 24 24">
+       <path d="M3 5h18q.414.0.707.293T22 6t-.293.707T21 7H3q-.414.0-.707-.293T2 6t.293-.707T3 5zm0 12h18q.414.0.707.293T22 18t-.293.707T21 19H3q-.414.0-.707-.293T2 18t.293-.707T3 17zm0-6h18q.414.0.707.293T22 12t-.293.707T21 13H3q-.414.0-.707-.293T2 12t.293-.707T3 11z" vector-effect="non-scaling-stroke"></path>
+      </svg><span class="dn m-dib m-pl1">MENU</span></a> 
+     <a class="fx fx-ai-c hover-yellow px2 white" href="/site/languages/en/" id="ssa-languages" title="LANGUAGES">
+      <svg class="svg1" focusable="false" viewbox="0 0 14 16">
+       <path fill-rule="evenodd" d="M7 1C3.14 1 0 4.14.0 8s3.14 7 7 7c.48.0.94-.05 1.38-.14-.17-.08-.2-.73-.02-1.09.19-.41.81-1.45.2-1.8-.61-.35-.44-.5-.81-.91-.37-.41-.22-.47-.25-.58-.08-.34.36-.89.39-.94.02-.06.02-.27.0-.33.0-.08-.27-.22-.34-.23-.06.0-.11.11-.2.13-.09.02-.5-.25-.59-.33-.09-.08-.14-.23-.27-.34-.13-.13-.14-.03-.33-.11s-.8-.31-1.28-.48c-.48-.19-.52-.47-.52-.66-.02-.2-.3-.47-.42-.67-.14-.2-.16-.47-.2-.41-.04.06.25.78.2.81-.05.02-.16-.2-.3-.38-.14-.19.14-.09-.3-.95s.14-1.3.17-1.75c.03-.45.38.17.19-.13-.19-.3.0-.89-.14-1.11-.13-.22-.88.25-.88.25.02-.22.69-.58 1.16-.92.47-.34.78-.06 1.16.05.39.13.41.09.28-.05-.13-.13.06-.17.36-.13.28.05.38.41.83.36.47-.03.05.09.11.22s-.06.11-.38.3c-.3.2.02.22.55.61s.38-.25.31-.55c-.07-.3.39-.06.39-.06.33.22.27.02.5.08.23.06.91.64.91.64-.83.44-.31.48-.17.59.14.11-.28.3-.28.3-.17-.17-.19.02-.3.08-.11.06-.02.22-.02.22-.56.09-.44.69-.42.83.0.14-.38.36-.47.58-.09.2.25.64.06.66-.19.03-.34-.66-1.31-.41-.3.08-.94.41-.59 1.08.36.69.92-.19 1.11-.09.19.1-.06.53-.02.55.04.02.53.02.56.61.03.59.77.53.92.55.17.0.7-.44.77-.45.06-.03.38-.28 1.03.09.66.36.98.31 1.2.47.22.16.08.47.28.58.2.11 1.06-.03 1.28.31.22.34-.88 2.09-1.22 2.28-.34.19-.48.64-.84.92s-.81.64-1.27.91c-.41.23-.47.66-.66.8 3.14-.7 5.48-3.5 5.48-6.84.0-3.86-3.14-7-7-7L7 1zm1.64 6.56c-.09.03-.28.22-.78-.08-.48-.3-.81-.23-.86-.28.0.0-.05-.11.17-.14.44-.05.98.41 1.11.41.13.0.19-.13.41-.05.22.08.05.13-.05.14zM6.34 1.7c-.05-.03.03-.08.09-.14.03-.03.02-.11.05-.14.11-.11.61-.25.52.03-.11.27-.58.3-.66.25zm1.23.89c-.19-.02-.58-.05-.52-.14.3-.28-.09-.38-.34-.38-.25-.02-.34-.16-.22-.19.12-.03.61.02.7.08.08.06.52.25.55.38.02.13.0.25-.17.25zm1.47-.05c-.14.09-.83-.41-.95-.52-.56-.48-.89-.31-1-.41-.11-.1-.08-.19.11-.34.19-.15.69.06 1 .09.3.03.66.27.66.55.02.25.33.5.19.63h-.01z" vector-effect="non-scaling-stroke"></path>
+      </svg><span class="dn m-dib m-pl1">LANGUAGES</span></a> 
+     <a class="fx fx-ai-c hover-yellow px2 white" href="/site/signin/en/" id="ssa-signin" title="SIGN IN/UP">
+      <svg class="svg1" focusable="false" viewbox="0 0 24 24">
+       <path d="M12 17.016q-.797.0-1.406-.61t-.61-1.405.61-1.405 1.406-.61 1.406.61.61 1.406-.61 1.407-1.406.61zm6 3V9.986H6v10.03h12zm-6-17.11q-1.266.0-2.18.914T8.906 6H9v2.016h6.094V6q0-1.266-.914-2.18T12 2.906zm6 5.11q.797.0 1.406.586t.61 1.383v10.03q0 .798-.61 1.384T18 21.984H6q-.797.0-1.406-.586t-.61-1.384V9.986q0-.798.61-1.384T6 8.016h.984V6q0-2.063 1.477-3.54T12 .985t3.54 1.477T17.015 6v2.016H18z" vector-effect="non-scaling-stroke"></path>
+      </svg><span class="dn m-dib m-pl1">SIGN IN/UP</span></a>
+    </nav> 
+   </div> 
+  </header> 
+  <!-- MAIN CONTENT --> 
+  <main class="content" id="content" role="main"> 
+   <div class="wrapper"> 
+    <div class="mb3"> 
+     <a class="bg-ocean-blue-500 db hover-bg-blue pa2 white m-w-50 l-w-33" href="/espanol/" id="link-language-toggle">En español</a> 
+    </div> 
+    <div class="l-grid"> 
+     <div class="l-cell l-w-70"> 
+      <h3 class="bg-ivory-200 bs1 fs2 fw5 pa2">Social Security Information in Other Languages</h3> 
+      <ul class="list-mc pl0"> 
+       <li><a class="bg-ocean-blue-500 db hover-bg-blue mb2 pa2 white" href="https://www.youtube.com/watch?v=H9T8cDmFVEg" target="_blank"> 
+         <svg xmlns="http://www.w3.org/2000/svg" class="svg1" focusable="false" viewbox="4.365 16.883 32 25.239">
+          <path fill="none" d="M22.973 30.334c.294.479.572.931 1.104 1.123.221.08.504.124.799.124h.049c.024-.001 2.456-.067 2.786-1.966.046-.264.07-.49.037-.736-.08-.589-.362-1.069-.795-1.354-.29-.189-.858-.515-1.419-.556-.392-.031-.731.124-1.03.259l-.107.048a3.448 3.448 0 0 0-.983.627 2.54 2.54 0 0 0-.408.502c-.097.147-.197.299-.342.419-.095.076-.201.133-.303.188l-.089.048a1.315 1.315 0 0 1-.382.146.835.835 0 0 1 .379.204c.296.262.503.599.704.924zM17.758 28.672c-.294-.479-.572-.931-1.105-1.123a2.428 2.428 0 0 0-.801-.124h-.047c-.024.001-2.456.067-2.787 1.966-.046.264-.07.489-.037.736.08.589.362 1.069.795 1.354.493.323 1.01.526 1.419.557.392.03.732-.126 1.031-.26l.106-.048c.397-.174.728-.385.983-.626.099-.094.193-.2.288-.326.042-.057.081-.116.121-.176.097-.147.197-.3.342-.419.096-.078.204-.136.308-.191l.085-.046a1.31 1.31 0 0 1 .381-.146.838.838 0 0 1-.379-.205c-.295-.261-.503-.597-.703-.923z"></path>
+          <path d="M19.556 29.997a.818.818 0 0 0-.452-.209c.193-.06.355-.234.457-.498a2.47 2.47 0 0 0 .169-.802c.08-3.371-4.196-4.096-5.176-4.218.118-.181.292-.333.494-.432.44-.213.993-.284 1.751-.22a7.47 7.47 0 0 1 1.02.168c.091.021.182.042.275.058l.106.019c.159.028.338.061.518.061.298 0 .516-.096.649-.285.218-.311.144-.785-.037-1.074-.15-.239-.401-.356-.623-.46l-.127-.061a4.906 4.906 0 0 0-.568-.227c-.521-.183-1.014-.262-1.535-.347-.272-.044-.554-.09-.848-.151a4.837 4.837 0 0 0-.695-.074 8.29 8.29 0 0 1-.461-.036c.906-.74 2.647-1.601 2.662-1.607.276-.122.47-.34.532-.598.042-.181.027-.51-.14-.675-.257-.253-.611-.382-1.051-.382-1.36 0-3.24 1.222-4.007 1.764.213-.651.549-1.784.565-1.839.11-.296.044-.511-.031-.638a.739.739 0 0 0-.529-.344c-.433-.065-.765.385-.977.675l-.037.051c-.048.065-.1.129-.151.192l-.089.112c-.099.125-.202.25-.305.375-.311.377-.632.767-.874 1.195a7.98 7.98 0 0 0-.438.97c-.089.225-.181.456-.286.675-.332.694-.441 1.09-.613 1.828-.108.469-.336.911-.557 1.34-.085.164-.169.328-.248.494-.058.122-.118.245-.178.367-.177.364-.361.74-.501 1.122-.066.18-.125.36-.185.542-.108.328-.22.667-.368.985-.372.796-.919 1.472-1.456 2.082-.271.31-.518.585-.796.831l-.051.046.008.068c.486 4.02 2.517 5.875 2.603 5.952l.112.1.084-.124c.818-1.21 2.682-1.567 2.963-1.615.625.27 1.344.406 2.137.406a7.138 7.138 0 0 0 2.005-.28c1.373-.221 3.65-1.375 3.746-1.425.258-.131.479-.374.641-.551.343-.376.604-.819.833-1.242a5.31 5.31 0 0 0 .176-.365l.088-.191c.19-.401.255-.702.049-1.147a1.003 1.003 0 0 0-.253-.361zm-1.096-.051l-.085.046c-.104.056-.212.113-.308.191a1.719 1.719 0 0 0-.342.419c-.04.06-.079.119-.121.176a2.531 2.531 0 0 1-.288.326 3.424 3.424 0 0 1-.983.626l-.106.048c-.299.134-.639.29-1.031.26-.409-.03-.927-.233-1.419-.557-.433-.285-.715-.766-.795-1.354a2.332 2.332 0 0 1 .037-.736c.331-1.898 2.762-1.965 2.787-1.966h.047c.295 0 .58.044.801.124.533.192.811.645 1.105 1.123.2.326.408.662.705.924.125.11.253.18.379.205a1.288 1.288 0 0 0-.383.145zM36.357 28.166c-.486-4.021-2.517-5.876-2.603-5.953l-.112-.1-.084.124c-.819 1.21-2.682 1.567-2.964 1.616-.625-.271-1.344-.407-2.137-.407a7.172 7.172 0 0 0-2.005.28c-1.373.222-3.65 1.375-3.746 1.425-.257.131-.479.374-.641.552-.344.376-.604.818-.833 1.241a5.243 5.243 0 0 0-.179.37 6.32 6.32 0 0 1-.086.187c-.19.4-.255.702-.049 1.148.072.153.155.271.256.36a.824.824 0 0 0 .451.208c-.193.06-.355.234-.456.498a2.464 2.464 0 0 0-.169.802c-.08 3.372 4.196 4.096 5.176 4.218a1.234 1.234 0 0 1-.494.432c-.44.213-.992.284-1.75.22a7.858 7.858 0 0 1-1.019-.168c-.092-.021-.183-.042-.276-.058l-.106-.019c-.159-.028-.339-.061-.519-.061-.298 0-.516.096-.649.285-.218.312-.144.786.037 1.074.15.239.401.356.623.461.042.02.085.039.126.061.191.094.392.164.569.227.521.182 1.013.262 1.534.346.272.044.554.09.848.152.211.044.457.059.695.073.155.009.313.019.461.036-.906.74-2.647 1.601-2.662 1.607-.276.122-.47.34-.531.599-.042.181-.027.51.14.675.257.253.611.382 1.051.382 1.36 0 3.24-1.222 4.007-1.765a89.49 89.49 0 0 0-.566 1.839c-.11.297-.043.511.032.639a.739.739 0 0 0 .611.35c.396 0 .696-.409.894-.68l.038-.052a6.37 6.37 0 0 1 .162-.206l.08-.099c.1-.126.203-.252.308-.379.309-.375.629-.764.871-1.191a7.79 7.79 0 0 0 .438-.972c.089-.224.181-.454.285-.673.331-.693.441-1.089.613-1.828.109-.468.337-.91.557-1.339.085-.165.17-.329.249-.495a30.6 30.6 0 0 1 .177-.366c.177-.364.361-.74.501-1.123.066-.181.126-.362.186-.544a8.58 8.58 0 0 1 .368-.983c.372-.796.919-1.472 1.455-2.082.272-.311.52-.587.795-.831l.052-.046-.01-.067zm-14.086.894l.089-.048c.103-.056.208-.112.303-.188.146-.12.246-.271.342-.419.04-.06.079-.12.12-.176.094-.126.188-.233.288-.326.255-.241.586-.452.983-.627l.107-.048c.298-.135.638-.29 1.03-.259.561.041 1.13.366 1.419.556.434.285.716.766.795 1.354.033.246.009.473-.037.736-.331 1.898-2.762 1.965-2.786 1.966h-.049c-.294 0-.578-.044-.799-.124-.533-.192-.811-.645-1.104-1.123-.201-.325-.408-.662-.705-.924a.825.825 0 0 0-.379-.204 1.32 1.32 0 0 0 .383-.146z" fill="#fff"></path>
+         </svg> - American Sign Language</a></li> 
+       <li><a class="bg-ocean-blue-500 db hover-bg-blue mb2 pa2 white" href="/multilanguage/Arabic/arabic.htm">??????? - Arabic</a></li> 
+       <li><a class="bg-ocean-blue-500 db hover-bg-blue mb2 pa2 white" href="/multilanguage/Armenian/armenian.htm">????? - Armenian</a></li> 
+       <li><a class="bg-ocean-blue-500 db hover-bg-blue mb2 pa2 white" href="/multilanguage/Chinese/chinese.htm">?? - Chinese (Traditional/Long Form)</a></li> 
+       <li><a class="bg-ocean-blue-500 db hover-bg-blue mb2 pa2 white" href="/multilanguage/Farsi/farsi.htm">????? - Farsi</a></li> 
+       <li><a class="bg-ocean-blue-500 db hover-bg-blue mb2 pa2 white" href="/multilanguage/French/french.htm">Français - French</a></li> 
+       <li><a class="bg-ocean-blue-500 db hover-bg-blue mb2 pa2 white" href="/multilanguage/Greek/greek.htm">???????? - Greek</a></li> 
+       <li><a class="bg-ocean-blue-500 db hover-bg-blue mb2 pa2 white" href="/multilanguage/Haitcreo/haitcreo.htm">Kreyòl Ayisien - Haitian Creole</a></li> 
+       <li><a class="bg-ocean-blue-500 db hover-bg-blue mb2 pa2 white" href="/multilanguage/Hmong/hmong.html">Hmong </a></li> 
+       <li><a class="bg-ocean-blue-500 db hover-bg-blue mb2 pa2 white" href="/multilanguage/Italian/italian.htm">Italiano - Italian</a></li> 
+       <li><a class="bg-ocean-blue-500 db hover-bg-blue mb2 pa2 white" href="/multilanguage/Korean/korean.htm"><strong>???</strong> - Korean</a></li> 
+       <li><a class="bg-ocean-blue-500 db hover-bg-blue mb2 pa2 white" href="/multilanguage/Polish/polish.htm">Polski - Polish</a></li> 
+       <li><a class="bg-ocean-blue-500 db hover-bg-blue mb2 pa2 white" href="/multilanguage/Portuguese/portuguese.htm">Português - Portuguese</a></li> 
+       <li><a class="bg-ocean-blue-500 db hover-bg-blue mb2 pa2 white" href="/multilanguage/Russian/russian.htm">P?????? - Russian</a></li> 
+       <li><a class="bg-ocean-blue-500 db hover-bg-blue mb2 pa2 white" href="/multilanguage/Somali/somali.html">Af Soomaali - Somali </a></li> 
+       <li><a class="bg-ocean-blue-500 db hover-bg-blue mb2 pa2 white" href="/espanol/publist2.html">Español - Spanish</a></li> 
+       <li><a class="bg-ocean-blue-500 db hover-bg-blue mb2 pa2 white" href="/multilanguage/Tagalog/tagalog.htm">Tagalog</a></li> 
+       <li><a class="bg-ocean-blue-500 db hover-bg-blue mb2 pa2 white" href="/multilanguage/Vietname/vietnamese.htm">Ti?ng Vi?t - Vietnamese</a></li> 
+      </ul> 
+     </div> 
+     <div class="l-cell l-w-30"> 
+      <h3 class="bg-ivory-200 bs1 fs2 fw5 pa2">Related Information</h3> 
+      <ul class="list-nb px2"> 
+       <li class="pb2"><a href="/pubs/LAP2018-19.pdf" target="_blank">2018-2019 Social Security Administration Language Access Plan</a></li> 
+       <li class="bt py2">Your Payments While You Are Outside The United States ( Publication No. 05-10137) 
+        <ul class="mt1"> 
+         <li><a href="/pubs/EN-05-10137.pdf" target="_blank">English</a></li> 
+         <li><a href="/pubs/FR-05-10143.pdf" target="_blank">French</a></li> 
+         <li><a href="/pubs/GM-05-10146.pdf" target="_blank">German</a></li> 
+         <li><a href="/pubs/GR-05-10145.pdf" target="_blank">Greek</a></li> 
+         <li><a href="/pubs/IT-05-10152.pdf" target="_blank">Italian</a></li> 
+         <li><a href="/pubs/ES-05-10138.pdf" target="_blank">Spanish</a></li> 
+        </ul> </li> 
+       <li class="bt pt2"><a href="/multilanguage/langlist1.htm">Free Interpreter Services</a></li> 
+      </ul> 
+      <div class="alert-blue mx1">
+        If you had difficulty receiving services due to a language barrier issue, please contact the 
+       <a href="/agency/rcds.html">Regional Communications Director for your state</a>. 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </main> 
+  <!-- FOOTER --> 
+  <footer class="fs1 pa3 print-dn l-ta-c" id="footer" role="contentinfo">
+   <div class="grid">
+    <div class="cell pt3 w-100 m-w-33 l-pt0 l-w-100">
+     <p class="fw5 mb2 l-dn">Important Information:</p>
+     <ul class="list-nb ma0 pa0">
+      <li class="l-dib"><a class="db l-pr2" href="/agency/">About Us</a></li>
+      <li class="l-dib"><a class="db l-pr2" href="/accessibility/">Accessibility</a></li>
+      <li class="l-dib"><a class="db l-pr2" href="/foia/">FOIA</a></li>
+      <li class="l-dib"><a class="db l-pr2" href="/agency/glossary/">Glossary</a></li>
+      <li class="l-dib"><a class="db l-pr2" href="/open/">Open Government</a></li>
+      <li class="l-dib l-pr2"><a class="db" href="/privacy/">Privacy</a></li>
+      <li class="l-dib"><a class="db" href="https://oig.ssa.gov/">Report Fraud, Waste or Abuse to our Office of the Inspector General</a></li>
+     </ul>
+    </div>
+    <div class="cell pt3 w-100 m-w-33 l-w-100">
+     <p class="fw5 mb2 l-dn">Other Government Websites:</p>
+     <ul class="list-nb ma0 pa0">
+      <li class="l-dib"><a class="db l-pr2" href="//www.benefits.gov">Benefits.gov</a></li>
+      <li class="l-dib"><a class="db l-pr2" href="//www.disability.gov/">Disability.gov</a></li>
+      <li class="l-dib"><a class="db l-pr2" href="//www.mymoney.gov">MyMoney.gov</a></li>
+      <li class="l-dib"><a class="db l-pr2" href="//www.regulations.gov">Regulations.gov</a></li>
+      <li class="l-dib"><a class="db l-pr2" href="//www.usa.gov">USA.gov</a></li>
+      <li class="l-dib"><a class="db" href="https://www.usa.gov/federal-agencies">Other Government Sites</a></li>
+     </ul>
+    </div>
+    <div class="cell pt3 w-100 m-w-33 l-w-100">
+     <p class="fw5 mb2 l-dn">Follow:</p>
+     <ul class="list-nb ma0 pa0">
+      <li class="dib"><a class="bg-twitter br-100 bs1 fx fx-ai-c fx-jc-c hover-bg-blue pa2 white" href="//twitter.com/socialsecurity/" title="Twitter">
+        <svg class="svg1" focusable="false" viewbox="0 0 24 24">
+         <path d="M23.44 4.83c-.8.37-1.5.38-2.22.02.93-.56.98-.96 1.32-2.02-.88.52-1.86.9-2.9 1.1-.82-.88-2-1.43-3.3-1.43-2.5.0-4.55 2.04-4.55 4.54.0.36.03.7.1 1.04-3.77-.2-7.12-2-9.36-4.75-.4.67-.6 1.45-.6 2.3.0 1.56.8 2.95 2 3.77-.74-.03-1.44-.23-2.05-.57v.06c0 2.2 1.56 4.03 3.64 4.44-.67.2-1.37.2-2.06.08.58 1.8 2.26 3.12 4.25 3.16C5.78 18.1 3.37 18.74 1 18.46c2 1.3 4.4 2.04 6.97 2.04 8.35.0 12.92-6.92 12.92-12.93.0-.2.0-.4-.02-.6.9-.63 1.96-1.22 2.56-2.14z" vector-effect="non-scaling-stroke"></path>
+        </svg></a></li>
+      <li class="dib pl1"><a class="bg-facebook br-100 bs1 fx fx-ai-c fx-jc-c hover-bg-blue pa2 white" href="//facebook.com/socialsecurity/" title="Facebook">
+        <svg class="svg1" focusable="false" viewbox="0 0 24 24">
+         <path d="M18.77 7.46H14.5v-1.9c0-.9.6-1.1 1-1.1h3V.5h-4.33C10.24.5 9.5 3.44 9.5 5.32v2.15h-3v4h3v12h5v-12h3.85l.42-4z" vector-effect="non-scaling-stroke"></path>
+        </svg></a></li>
+      <li class="dib pl1"><a class="bg-logo br-100 bs1 fx fx-ai-c fx-jc-c hover-bg-blue pa2 white" href="//instagram.com/socialsecurity/" title="Instagram">
+        <svg class="svg1" focusable="false" viewbox="0 0 90 90">
+         <path d="M44.9 8.091c11.974 0 13.371 0 18.16.3 4.39.199 6.785.899 8.381 1.498 2.096.799 3.592 1.798 5.189 3.396 1.596 1.598 2.494 3.097 3.392 5.194.599 1.599 1.297 3.996 1.497 8.391.199 4.695.299 6.193.299 18.18s0 13.385-.299 18.18c-.2 4.395-.898 6.792-1.497 8.39-.798 2.098-1.796 3.596-3.392 5.195-1.597 1.598-3.093 2.497-5.189 3.396-1.596.599-3.991 1.298-8.381 1.498-4.69.2-6.186.3-18.16.3-11.973 0-13.37 0-18.159-.3-4.391-.2-6.785-.899-8.382-1.498-2.095-.799-3.592-1.798-5.188-3.396-1.597-1.599-2.495-3.097-3.393-5.195-.598-1.598-1.297-3.995-1.496-8.39-.2-4.695-.3-6.193-.3-18.18s0-13.385.3-18.18c.199-4.395.898-6.792 1.496-8.391.798-2.097 1.796-3.596 3.393-5.194 1.596-1.598 3.093-2.497 5.188-3.396 1.597-.599 3.991-1.299 8.382-1.498 4.789-.2 6.186-.3 18.159-.3zM44.9 0C32.727 0 31.131.1 26.341.3c-4.789.199-8.082.999-10.875 2.097-2.994 1.099-5.488 2.697-7.983 5.195-2.494 2.497-3.991 4.994-5.188 7.991C1.197 18.479.399 21.676.2 26.471.1 31.165 0 32.764 0 44.95c0 12.187.1 13.785.299 18.579.2 4.795.998 8.091 2.096 10.888 1.097 2.997 2.694 5.494 5.188 7.991 2.495 2.498 4.989 3.996 7.982 5.195 2.894 1.098 6.087 1.898 10.876 2.097 4.79.2 6.286.3 18.559.3 12.273 0 13.769-.1 18.559-.3 4.789-.199 8.082-.999 10.876-2.097 2.993-1.099 5.487-2.697 7.982-5.195 2.494-2.497 3.991-4.994 5.188-7.991 1.098-2.896 1.896-6.093 2.096-10.888.199-4.794.299-6.293.299-18.579 0-12.286-.1-13.785-.299-18.579-.2-4.795-.998-8.091-2.096-10.888-1.097-2.997-2.694-5.494-5.188-7.991-2.495-2.498-4.989-3.996-7.982-5.195C71.541 1.199 68.348.4 63.559.2 58.67.1 57.073 0 44.9 0z"></path>
+         <path d="M44.9 21.876c-12.771 0-23.049 10.288-23.049 23.074 0 12.786 10.278 23.074 23.049 23.074 12.772 0 23.049-10.288 23.049-23.074 0-12.786-10.277-23.074-23.049-23.074zm0 38.057c-8.281 0-14.967-6.692-14.967-14.983S36.619 29.967 44.9 29.967c8.282 0 14.967 6.692 14.967 14.983S53.182 59.933 44.9 59.933z"></path>
+         <ellipse vector-effect="non-scaling-stroke" cx="68.847" cy="20.977" rx="5.388" ry="5.394"></ellipse>
+        </svg></a></li>
+      <li class="dib pl1"><a class="bg-youtube br-100 bs1 fx fx-ai-c fx-jc-c hover-bg-blue pa2 white" href="//youtube.com/socialsecurityonline/" title="YouTube">
+        <svg class="svg1" focusable="false" viewbox="0 0 38 38">
+         <path d="M26.2 19l-12.6 7.4V11.6L26.2 19zM38 25.8V12.1s.2-6.7-6.4-6.7H6.4S0 5.5.0 12.1v13.8s-.2 6.7 6.4 6.7h25.2s6.4-.1 6.4-6.8" vector-effect="non-scaling-stroke"></path>
+        </svg></a></li>
+      <li class="dib pl1"><a class="bg-blog br-100 bs1 fx fx-ai-c fx-jc-c hover-bg-blue pa2 white" href="//blog.ssa.gov/" title="Blog">
+        <svg class="svg1" focusable="false" viewbox="14 12 102 102">
+         <path d="M49.972 47.715c8.346.0 16.19 3.263 22.085 9.187 5.904 5.932 9.156 13.829 9.156 22.236H94.07c0-24.416-19.783-44.281-44.099-44.281v12.858zm.019-22.794c29.74.0 53.937 24.328 53.937 54.23h12.858c0-36.993-29.965-67.089-66.795-67.089v12.859zm20.753 60.594c0 8.048-2.738 14.939-8.212 20.677-5.476 5.738-12.07 8.607-19.787 8.607-7.783.0-14.412-2.852-19.886-8.558-5.475-5.704-8.211-12.614-8.211-20.727V44.259c0-2.77.829-4.913 2.487-6.431 1.659-1.517 3.616-2.275 5.873-2.275 2.255.0 4.212.76 5.871 2.28s2.489 3.667 2.489 6.44v41.322c0 3.37 1.116 6.227 3.349 8.572 2.232 2.345 4.925 3.517 8.079 3.517 3.085.0 5.761-1.175 8.027-3.527 2.266-2.352 3.399-5.216 3.399-8.596.0-3.377-1.039-5.994-3.116-7.85-2.078-1.854-4.897-2.782-8.459-2.782-2.572.0-4.618-.891-6.134-2.672-1.385-1.516-2.078-3.429-2.078-5.737.0-2.242.725-4.205 2.177-5.887 1.45-1.682 3.463-2.522 6.035-2.522 8.177.0 14.905 2.557 20.183 7.667 5.275 5.112 7.914 11.691 7.914 19.737z" vector-effect="non-scaling-stroke"></path>
+        </svg></a></li>
+      <li class="dib pl1"><a class="bg-black br-100 bs1 fx fx-ai-c fx-jc-c hover-bg-blue pa2 white" href="/socialmedia/" title="More Social Media">
+        <svg class="svg1" focusable="false" viewbox="0 0 32 32">
+         <path d="M16 0c.442.0.818.156 1.131.469.313.312.469.69.469 1.131v12.8h12.8c.441.0.819.156 1.131.469.313.312.469.69.469 1.131.0.442-.156.818-.469 1.131a1.54 1.54.0 0 1-1.131.469H17.6v12.8c0 .441-.156.819-.469 1.131A1.54 1.54.0 0 1 16 32a1.54 1.54.0 0 1-1.131-.469A1.54 1.54.0 0 1 14.4 30.4V17.6H1.6a1.54 1.54.0 0 1-1.131-.469A1.54 1.54.0 0 1 0 16c0-.441.156-.819.469-1.131s.69-.469 1.131-.469h12.8V1.6c0-.441.156-.819.469-1.131S15.559.0 16 0z" vector-effect="non-scaling-stroke"></path>
+        </svg></a></li>
+     </ul>
+    </div>
+   </div>
+   <p class="mt3 m-ta-c">This website is produced and published at U.S. taxpayer expense.</p>
+  </footer> 
+  <!-- SCRIPTS --> 
+  <script src="/framework/js/ssa.firefly.body.js"></script> 
+  <script>
+        // handle banner links
+        (function (window, document) {
+
+            // execute the following JavaScript in strict mode
+            'use strict';
+
+            // modern browser check
+            if ('visibilityState' in document) {
+
+                var banner = document.getElementById('banner');
+
+                if (banner) {
+
+                    var ssaLanguagesLink = document.getElementById('ssa-languages');
+
+                    if (ssaLanguagesLink) {
+
+                        ssaLanguagesLink.addEventListener('click', function (event) {
+                            event.preventDefault();
+                            window.history.back();
+                        }, false);
+
+                    } // end check for languages link
+
+                    var ssaLanguagesLinkToggle = document.getElementById('link-language-toggle');
+
+                    // check if cookies/sessionStorage are allowed
+                    var checkSessionStorage = function () {
+                        if (navigator.cookieEnabled) {
+                            if (typeof sessionStorage !== 'undefined') {
+                            try {
+                                sessionStorage.setItem('test', '1');
+                                sessionStorage.removeItem('test');
+                                return true;
+                            } catch (e) {
+                                return false;
+                            }
+                            } else {
+                            return false;
+                            }
+                        } else {
+                            return false;
+                        }
+                    };
+
+                    // verify link exists and session storage is accessible
+                    if (ssaLanguagesLinkToggle && checkSessionStorage()) {
+
+                        if (sessionStorage.getItem('languageToggle')) {
+
+                            ssaLanguagesLinkToggle.href = sessionStorage.getItem('languageToggle');
+
+                        } // end check for language toggle key
+
+                    } // end check for language links toggle
+
+                } // end check for banner
+
+            } // end check for browser support
+
+        }(window, document));
+    </script>   
+ </body>
+</html>

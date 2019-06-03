@@ -1,0 +1,1017 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+ <head> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <base href="https://www.fdlp.gov/index.php"> 
+  <meta http-equiv="content-type" content="text/html; charset=utf-8"> 
+  <meta name="keywords" content="FDLP, Federal Depository Library Program"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta name="description" content="Federal Depository Library Program"> 
+  <title>Home</title> 
+  <link href="/?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0"> 
+  <link href="/?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0"> 
+  <link href="/templates/fdlp/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"> 
+  <link href="/media/com_hikashop/css/hikashop.css?v=403" rel="stylesheet" type="text/css"> 
+  <link href="/media/com_hikashop/css/frontend_custom1.css?t=1555002915" rel="stylesheet" type="text/css"> 
+  <link href="/media/com_hikashop/css/font-awesome.css?v=5.2.0" rel="stylesheet" type="text/css"> 
+  <link href="/cache/widgetkit/widgetkit-ba38d738.css" rel="stylesheet" type="text/css"> 
+  <link href="/templates/fdlp/css/template.css" rel="stylesheet" type="text/css"> 
+  <link href="/media/mod_rseventspro_upcoming/css/style.css?2651ce3e7e7a83dbda58587663e47859" rel="stylesheet" type="text/css"> 
+  <link href="/templates/fdlp/css/djmegamenu.css?v=4.0.0.free" rel="stylesheet" type="text/css"> 
+  <link href="/modules/mod_djmegamenu/assets/css/animations.css?v=4.0.0.free" rel="stylesheet" type="text/css"> 
+  <link href="/modules/mod_djmegamenu/assets/css/offcanvas.css?v=4.0.0.free" rel="stylesheet" type="text/css"> 
+  <link href="/modules/mod_djmegamenu/mobilethemes/light/djmobilemenu.css?v=4.0.0.free" rel="stylesheet" type="text/css"> 
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"> 
+  <link href="/modules/mod_djmegamenu/themes/default/css/djmegamenu.css?v=4.0.0.free" rel="stylesheet" type="text/css"> 
+  <style type="text/css">
+		.dj-hideitem, li.item-2831 { display: none !important; }
+
+		@media (min-width: 980px) {	
+			#dj-megamenu336mobile { display: none; }
+		}
+		@media (max-width: 979px) {
+			#dj-megamenu336, #dj-megamenu336sticky, #dj-megamenu336placeholder { display: none !important; }
+		}
+	
+		@media (min-width: 980px) {	
+			#dj-megamenu339mobile { display: none; }
+		}
+		@media (max-width: 979px) {
+			#dj-megamenu339, #dj-megamenu339sticky, #dj-megamenu339placeholder { display: none !important; }
+		}
+	
+	</style> 
+  <script type="application/json" class="joomla-script-options new">{"csrf.token":"cdcea3f96afa56623ff141cf948f760e","system.paths":{"root":"","base":""},"system.keepalive":{"interval":300000,"uri":"\/component\/ajax\/?format=json"}}</script> 
+  <script src="/media/jui/js/jquery.min.js?2651ce3e7e7a83dbda58587663e47859" type="text/javascript"></script> 
+  <script src="/media/jui/js/jquery-noconflict.js?2651ce3e7e7a83dbda58587663e47859" type="text/javascript"></script> 
+  <script src="/media/com_hikashop/js/hikashop.js?v=403" type="text/javascript"></script> 
+  <script src="/media/jui/js/jquery-migrate.min.js?2651ce3e7e7a83dbda58587663e47859" type="text/javascript"></script> 
+  <script src="/media/system/js/caption.js?2651ce3e7e7a83dbda58587663e47859" type="text/javascript"></script> 
+  <script src="/cache/widgetkit/widgetkit-836c59ce.js" type="text/javascript"></script> 
+  <script src="/plugins/system/maximenuckmobile/assets/maximenuckmobile.js" type="text/javascript"></script> 
+  <script src="/media/jui/js/bootstrap.min.js?2651ce3e7e7a83dbda58587663e47859" type="text/javascript"></script> 
+  <script src="/templates/fdlp/js/fdlp.js" type="text/javascript"></script> 
+  <script src="/templates/fdlp/js/bootstrap-tooltip.js" type="text/javascript"></script> 
+  <script src="/templates/fdlp/js/bootstrap-popover.js" type="text/javascript"></script> 
+  <script src="/templates/fdlp/js/bootstrap-clickover.js" type="text/javascript"></script> 
+  <script src="/templates/fdlp/js/bootstrap-affix.js" type="text/javascript"></script> 
+  <script src="/templates/fdlp/js/respond.min.js" type="text/javascript"></script> 
+  <script src="/modules/mod_djmegamenu/assets/js/jquery.djmegamenu.js?v=4.0.0.free" type="text/javascript" defer></script> 
+  <script src="/modules/mod_djmegamenu/assets/js/jquery.djmobilemenu.js?v=4.0.0.free" type="text/javascript" defer></script> 
+  <script src="/media/system/js/mootools-core.js?2651ce3e7e7a83dbda58587663e47859" type="text/javascript"></script> 
+  <script src="/media/system/js/core.js?2651ce3e7e7a83dbda58587663e47859" type="text/javascript"></script> 
+  <script src="/media/com_finder/js/autocompleter.js" type="text/javascript"></script> 
+  <!--[if lt IE 9]><script src="/media/system/js/polyfill.event.js?2651ce3e7e7a83dbda58587663e47859" type="text/javascript"></script><![endif]--> 
+  <script src="/media/system/js/keepalive.js?2651ce3e7e7a83dbda58587663e47859" type="text/javascript"></script> 
+  <script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});var CKTEXT_PLG_MAXIMENUCK_MENU = 'Menu';jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });Browser.Engine = new Object();
+Browser.Engine.presto = false;
+	(function(){
+		var cb = function() {
+			var add = function(css, id) {
+				if(document.getElementById(id)) return;
+				
+				var l = document.createElement('link'); l.rel = 'stylesheet'; l.id = id; l.href = css;
+				var h = document.getElementsByTagName('head')[0]; h.appendChild(l);
+			}
+			add('/media/djextensions/css/animate.min.css', 'animate_min_css');
+			add('/media/djextensions/css/animate.ext.css', 'animate_ext_css');
+		};
+		var raf = requestAnimationFrame || mozRequestAnimationFrame || webkitRequestAnimationFrame || msRequestAnimationFrame;
+		if (raf) raf(cb);
+		else window.addEventListener('load', cb);
+	})();
+	(function(){
+		var cb = function() {
+			var add = function(css, id) {
+				if(document.getElementById(id)) return;
+				
+				var l = document.createElement('link'); l.rel = 'stylesheet'; l.id = id; l.href = css;
+				var h = document.getElementsByTagName('head')[0]; h.appendChild(l);
+			}
+			add('/media/djextensions/css/animate.min.css', 'animate_min_css');
+			add('/media/djextensions/css/animate.ext.css', 'animate_ext_css');
+		};
+		var raf = requestAnimationFrame || mozRequestAnimationFrame || webkitRequestAnimationFrame || msRequestAnimationFrame;
+		if (raf) raf(cb);
+		else window.addEventListener('load', cb);
+	})();
+	</script> 
+  <link href="/component/obrss/news-and-events" rel="alternate" type="application/rss+xml" title="News &amp; Events (rss2.0)"> 
+  <link href="/component/obrss/news-events-test" rel="alternate" type="application/atom+xml" title="News &amp; Events (ATOM 0.3)"> 
+  <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet" type="text/css"> 
+  <style type="text/css">
+      h1,h2,h3,h4,h5,h6,.site-title, div.header-search ul.nav.menu li a, div#topnav span.titreck, ul.featuredbuttons li a {
+        font-family: 'Open Sans', Helvetica, sans-serif;
+        font-weight: 300;
+      }
+    </style> 
+  <!--[if lt IE 9]>
+    <script src="/media/jui/js/html5.js"></script>
+  <![endif]--> 
+  <script type="text/javascript">
+    jQuery(document).ready(function() {
+        jQuery('[rel="clickover"]').clickover();
+
+
+    });
+</script> 
+  <link rel="stylesheet" href="https://www.fdlp.gov/templates/fdlp/css/updated.css" type="text/css"> 
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-58540512-1', 'www.fdlp.gov');
+  ga('send', 'pageview');
+
+</script> 
+  <!-- Universal Google Analytics Plugin by PB Web Development --> 
+ </head> 
+ <body class="site com_content view-featured layout- task- itemid-101  ">
+  <div class="dj-offcanvas-wrapper">
+   <div class="dj-offcanvas-pusher">
+    <div class="dj-offcanvas-pusher-in"> 
+     <!--Top Navigation --> 
+     <div class="visible-phone navigation"> 
+     </div> 
+     <div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
+      <div class="modal-header"> 
+       <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button> 
+       <h3 id="myModalLabel">Welcome</h3> 
+      </div> 
+      <div class="modal-body row-fluid"> 
+       <div class="span6">
+        <form action="https://www.fdlp.gov/" method="post" id="login-form" class="form-inline"> 
+         <div class="pretext"> 
+          <p>Enter your library number and GPO-issued password to access exclusive FDLP features.</p> 
+         </div> 
+         <div class="userdata"> 
+          <div id="form-login-username" class="control-group"> 
+           <div class="controls"> 
+            <div class="input-prepend input-append"> 
+             <span class="add-on"><i class="icon-user tip" title="Username"></i><label for="modlgn-username" class="element-invisible">Username</label></span>
+             <input id="modlgn-username" type="text" name="username" class="input-small" tabindex="1" size="18" placeholder="Username">
+             <a href="/component/users/?view=remind&amp;Itemid=101" class="btn hasTooltip" title="Forgot your username?"><i class="icon-question-sign"></i></a> 
+            </div> 
+           </div> 
+          </div> 
+          <div id="form-login-password" class="control-group"> 
+           <div class="controls"> 
+            <div class="input-prepend input-append"> 
+             <span class="add-on"><i class="icon-lock tip" title="Password"></i><label for="modlgn-passwd" class="element-invisible">Password</label></span>
+             <input id="modlgn-passwd" type="password" name="password" class="input-small" tabindex="2" size="18" placeholder="Password"> 
+            </div> 
+           </div> 
+          </div> 
+          <div id="form-login-remember" class="control-group checkbox"> 
+           <label for="modlgn-remember" class="control-label">Remember Me</label> 
+           <input id="modlgn-remember" type="checkbox" name="remember" class="inputbox" value="yes"> 
+          </div> 
+          <div id="form-login-submit" class="control-group"> 
+           <div class="controls"> 
+            <button type="submit" tabindex="3" name="Submit" class="btn btn-primary btn">Log in</button> 
+           </div> 
+          </div> 
+          <input type="hidden" name="option" value="com_users"> 
+          <input type="hidden" name="task" value="user.login"> 
+          <input type="hidden" name="return" value="aHR0cHM6Ly93d3cuZmRscC5nb3YvaW5kZXgucGhw"> 
+          <input type="hidden" name="cdcea3f96afa56623ff141cf948f760e" value="1"> 
+         </div> 
+         <div class="posttext"> 
+          <p>Lost your library password or having technical difficulties?<br> Contact <a href="http://www.gpo.gov/askgpo/">askGPO </a>for help.</p> 
+         </div> 
+        </form> 
+       </div> 
+       <div class="span5"></div> 
+      </div> 
+      <div class="modal-footer"> 
+       <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button> 
+      </div> 
+     </div> 
+     <div id="topbar" class="navbar navbar-fixed-top navbar-inverse"> 
+      <div class="navbar-inner"> 
+       <div class="dashboard-login rel visible-phone">
+        <a href="#myModal" role="button" data-toggle="modal">Login</a> &nbsp;|&nbsp; 
+        <a href="https://www.gpo.gov/askgpo/">Contact Us</a>
+       </div> 
+       <div class="container"> 
+        <div class="pull-left"> 
+         <div class="dj-megamenu-wrapper"> 
+          <ul id="dj-megamenu339" class="dj-megamenu dj-megamenu-default horizontalMenu " data-options="{&quot;wrap&quot;:null,&quot;animIn&quot;:&quot;fadeInUp&quot;,&quot;animOut&quot;:&quot;zoomOut&quot;,&quot;animSpeed&quot;:&quot;normal&quot;,&quot;openDelay&quot;:0,&quot;closeDelay&quot;:&quot;500&quot;,&quot;event&quot;:&quot;mouseenter&quot;,&quot;fixed&quot;:0,&quot;offset&quot;:0,&quot;theme&quot;:&quot;default&quot;,&quot;direction&quot;:&quot;ltr&quot;,&quot;wcag&quot;:&quot;1&quot;}" data-trigger="979"> 
+           <li class="dj-up itemid2831 first dj-hideitem"><a class="dj-up_a  home" href="/" title="Homepage"><span>Home</span></a></li>
+           <li class="dj-up itemid102 parent"><a class="dj-up_a   collect" href="#"><span class="dj-drop">Collection Tools<em class="arrow" aria-hidden="true"></em></span></a>
+            <div class="dj-subwrap  multiple_cols subcols3" style="">
+             <div class="dj-subwrap-in" style="width:900px;">
+              <div class="dj-subcol" style="width:300px">
+               <ul class="dj-submenu">
+                <li class="itemid163 first"><a href="/collection-tools/claims" title="Submit a request within 60 days for any publication in your depository shipment that is missing, misprinted or damaged.">Claims</a></li>
+                <li class="itemid160"><a href="https://selections.fdlp.gov" target="_blank" title="Manage your item selection profile."><em class="dj-icon fa fa-lock " aria-hidden="true"></em><span class="image-title">DSIMS</span></a></li>
+                <li class="itemid164"><a href="https://selections.fdlp.gov/itemlister" target="_blank" title="View both selected and non-selected item numbers for any Federal depository library."><em class="dj-icon  fa fa-external-link" aria-hidden="true"></em><span class="image-title">Item Lister</span></a></li>
+                <li class="itemid168"><a href="/file-repository/collection-management/list-of-classes" title="Browse the list of Federal information products that are available for selection by depository libraries.">List of Classes</a></li>
+                <li class="itemid165"><a href="/collection-tools/lostdocs" title="Report fugitive documents or other Federal information products that have not been cataloged by GPO.">LostDocs</a></li>
+               </ul>
+              </div>
+              <div class="dj-subcol" style="width:300px">
+               <ul class="dj-submenu">
+                <li class="itemid166 first"><a href="/collection-tools/fdlp-exchange" title="Post or review lists of withdrawn or needed publications from Federal depository libraries.">FDLP eXchange</a></li>
+                <li class="itemid162"><a href="http://purlreferrals.fdlp.gov" target="_blank" title="Find statistical information derived from your library¹s PURL traffic to measure usage of online resources."><em class="dj-icon fa fa-lock" aria-hidden="true"></em><span class="image-title">PURL Usage Reporting Tool</span></a></li>
+                <li class="itemid167"><a href="/collection-tools/shipping-lists" title="View shipping lists included in depository distribution boxes.">Shipping Lists</a></li>
+                <li class="itemid635"><a href="/collection-tools/shipping-list-this-week">Shipping List This Week</a></li>
+               </ul>
+              </div>
+              <div class="dj-subcol" style="width:300px">
+               <ul class="dj-submenu">
+                <li class="itemid169 first"><a href="/file-repository/collection-management/union-list-of-item-selections" title="View all item number selections of all depositories at once; this is typically used to compare your depository's selection profile against others in your state or region.">UNION-L</a></li>
+                <li class="itemid3287"><a href="https://github.com/usgpo/cataloging-records" target="_blank"><em class="dj-icon  fa fa-external-link" aria-hidden="true"></em><span class="image-title">CGP on GitHub</span></a></li>
+                <li class="itemid3291"><a href="https://libguides.fdlp.gov/" target="_blank"><em class="dj-icon  fa fa-external-link" aria-hidden="true"></em><span class="image-title">FDLP LibGuides</span></a></li>
+                <li class="itemid170"><a href="/webtech-notes" title="Search and view updates to the List of Classes and corrections to information found on shipping lists.">WEBTech Notes</a></li>
+               </ul>
+              </div>
+              <div style="clear:both;height:0"></div>
+             </div>
+            </div></li>
+           <li class="dj-up itemid103 parent"><a class="dj-up_a    reqguide" href="#"><span class="dj-drop">Requirements &amp; Guidance<em class="arrow" aria-hidden="true"></em></span></a>
+            <div class="dj-subwrap  multiple_cols subcols2" style="">
+             <div class="dj-subwrap-in" style="width:600px;">
+              <div class="dj-subcol" style="width:300px">
+               <ul class="dj-submenu">
+                <li class="itemid171 first"><a href="/requirements-guidance/legal-requirements" title="Full-text of the Federal depository library obligations that govern FDLP member libraries.">Legal Requirements</a></li>
+                <li class="itemid172"><a href="/requirements-guidance/guidance" title="Contains advice on how to comply with the FDLP regulations.">Guidance</a></li>
+                <li class="itemid173"><a href="/requirements-guidance/instructions" title="Provides an overview of FDLP-related tools and services. Also includes information on the features, functionality, and usage.">Instructions</a></li>
+               </ul>
+              </div>
+              <div class="dj-subcol" style="width:300px">
+               <ul class="dj-submenu">
+                <li class="itemid174 first"><a href="/requirements-guidance/collections-and-databases" title="Describes the various products and services that are uniquely available to Federal depository libraries.">Collections &amp; Databases</a></li>
+                <li class="itemid2124"><a href="/promotion">Promotion</a></li>
+               </ul>
+              </div>
+              <div style="clear:both;height:0"></div>
+             </div>
+            </div></li>
+           <li class="dj-up itemid3185 parent"><a class="dj-up_a  " href="#"><span class="dj-drop">Preservation<em class="arrow" aria-hidden="true"></em></span></a>
+            <div class="dj-subwrap  single_column subcols1" style="">
+             <div class="dj-subwrap-in" style="width:300px;">
+              <div class="dj-subcol" style="width:300px">
+               <ul class="dj-submenu">
+                <li class="itemid3186 first"><a href="/preservation/preservation-at-gpo">Preservation at GPO</a></li>
+                <li class="itemid3533"><a href="/preservation/trusted-digital-repository-iso-16363-2012-audit-and-certification">Trusted Digital Repository ISO 16363:2012 Audit and Certification </a></li>
+               </ul>
+              </div>
+              <div style="clear:both;height:0"></div>
+             </div>
+            </div></li>
+           <li class="dj-up itemid104 parent"><a class="dj-up_a   about" href="#"><span class="dj-drop">About the FDLP<em class="arrow" aria-hidden="true"></em></span></a>
+            <div class="dj-subwrap  multiple_cols subcols3" style="">
+             <div class="dj-subwrap-in" style="width:900px;">
+              <div class="dj-subcol" style="width:300px">
+               <ul class="dj-submenu">
+                <li class="itemid182 first"><a href="/about-the-fdlp/supdocs" title="The Superintendent of Documents (SuDocs) is in charge of the dissemination of information at the U.S. Government Printing Office (GPO).">Superintendent of Documents</a></li>
+                <li class="itemid183"><a href="/about-the-fdlp/federal-depository-libraries" title="Federal depository libraries are located throughout the United States and its territories. They provide local, no-fee access to Government information and professional assistance for Federal information products.">Federal Depository Libraries</a></li>
+                <li class="itemid184"><a href="/about-the-fdlp/depository-library-council" title="The Depository Library Council (DLC) serves as an advisory committee to the Public Printer of the United States and the Superintendent of Documents.">Depository Library Council</a></li>
+                <li class="itemid1015"><a href="/about-the-fdlp/fdlp-academy">FDLP Academy</a></li>
+               </ul>
+              </div>
+              <div class="dj-subcol" style="width:300px">
+               <ul class="dj-submenu">
+                <li class="itemid1008 first"><a href="/about-the-fdlp/events-and-conferences">Events and Conferences</a></li>
+                <li class="itemid859"><a href="/about-the-fdlp/fdlp-events-calendar">FDLP Events Calendar</a></li>
+                <li class="itemid188"><a href="/about-the-fdlp/partnerships" title="Through agreements with Federal depository libraries and Federal agencies, both the American public and Federal depository libraries have enhanced access to a variety of Federal information products and services.">Partnerships</a></li>
+                <li class="itemid187"><a href="/about-the-fdlp/projects" title="Outlines current and previous efforts to improve the products and services of the FDLP.">Projects</a></li>
+               </ul>
+              </div>
+              <div class="dj-subcol" style="width:300px">
+               <ul class="dj-submenu">
+                <li class="itemid637 first"><a href="/file-repository">File Repository</a></li>
+                <li class="itemid181"><a href="/about-the-fdlp/mission-and-history" title="Learn about the FDLP¹s mission, vision, and core values.">Mission &amp; History</a></li>
+                <li class="itemid2136"><a href="/about-the-fdlp/gpo-on-the-go">GPO on the Go</a></li>
+               </ul>
+              </div>
+              <div style="clear:both;height:0"></div>
+             </div>
+            </div></li>
+           <li class="dj-up itemid524 parent"><a class="dj-up_a  catindex" href="#"><span class="dj-drop">Cataloging &amp; Classification<em class="arrow" aria-hidden="true"></em></span></a>
+            <div class="dj-subwrap  single_column subcols1" style="">
+             <div class="dj-subwrap-in" style="width:300px;">
+              <div class="dj-subcol" style="width:300px">
+               <ul class="dj-submenu">
+                <li class="itemid525 first"><a href="/cataloging-guidelines">Cataloging Guidelines</a></li>
+                <li class="itemid3201"><a href="https://www.fdlp.gov/classification-guidelines/introduction-to-the-classification-guidelines">Superintendent of Documents Classification Guidelines</a></li>
+                <li class="itemid530"><a href="/catalogingandclassification/cataloging-articles">Cataloging &amp; Indexing</a></li>
+                <li class="itemid2970"><a href="/catalogingandclassification/regional-depositories-oclc-holding-symbols-to-gpo-cataloging">Regional Depositories’ OCLC Holding Symbols to GPO Cataloging</a></li>
+                <li class="itemid630"><a href="http://catalog.gpo.gov/" target="_blank"><em class="dj-icon fa fa-external-link" aria-hidden="true"></em><span class="image-title">Catalog of U.S. Government Publications</span></a></li>
+                <li class="itemid3289"><a href="/catalogingandclassification/sources-of-gpo-cataloging-records">Sources of GPO Cataloging Records</a></li>
+                <li class="itemid3418"><a href="/catalogingandclassification/cataloging-record-distribution-program">Cataloging Record Distribution Program</a></li>
+               </ul>
+              </div>
+              <div style="clear:both;height:0"></div>
+             </div>
+            </div></li>
+          </ul> 
+          <div id="dj-megamenu339mobile" class="dj-megamenu-offcanvas dj-megamenu-offcanvas-light "> 
+           <a href="#" class="dj-mobile-open-btn" aria-label="Open mobile menu"><span class="fa fa-bars" aria-hidden="true"></span></a> 
+           <aside id="dj-megamenu339offcanvas" class="dj-offcanvas dj-offcanvas-light " data-effect="3"> 
+            <div class="dj-offcanvas-top"> 
+             <a href="#" class="dj-offcanvas-close-btn" aria-label="Close mobile menu"><span class="fa fa-close" aria-hidden="true"></span></a> 
+            </div> 
+            <div class="dj-offcanvas-content"> 
+             <ul class="dj-mobile-nav dj-mobile-light "> 
+              <li class="dj-mobileitem itemid-2831"><a class=" home" href="/" title="Homepage">Home</a></li>
+              <li class="dj-mobileitem itemid-102 deeper parent"><a class="  collect" href="#">Collection Tools</a>
+               <ul class="dj-mobile-nav-child">
+                <li class="dj-mobileitem itemid-163"><a href="/collection-tools/claims" title="Submit a request within 60 days for any publication in your depository shipment that is missing, misprinted or damaged.">Claims</a></li>
+                <li class="dj-mobileitem itemid-160"><a href="https://selections.fdlp.gov" target="_blank" title="Manage your item selection profile."><em class="fa fa-lock " aria-hidden="true"></em><span class="image-title">DSIMS</span></a></li>
+                <li class="dj-mobileitem itemid-164"><a href="https://selections.fdlp.gov/itemlister" target="_blank" title="View both selected and non-selected item numbers for any Federal depository library."><em class=" fa fa-external-link" aria-hidden="true"></em><span class="image-title">Item Lister</span></a></li>
+                <li class="dj-mobileitem itemid-168"><a href="/file-repository/collection-management/list-of-classes" title="Browse the list of Federal information products that are available for selection by depository libraries.">List of Classes</a></li>
+                <li class="dj-mobileitem itemid-165"><a href="/collection-tools/lostdocs" title="Report fugitive documents or other Federal information products that have not been cataloged by GPO.">LostDocs</a></li>
+                <li class="dj-mobileitem itemid-166"><a href="/collection-tools/fdlp-exchange" title="Post or review lists of withdrawn or needed publications from Federal depository libraries.">FDLP eXchange</a></li>
+                <li class="dj-mobileitem itemid-162"><a href="http://purlreferrals.fdlp.gov" target="_blank" title="Find statistical information derived from your library¹s PURL traffic to measure usage of online resources."><em class="fa fa-lock" aria-hidden="true"></em><span class="image-title">PURL Usage Reporting Tool</span></a></li>
+                <li class="dj-mobileitem itemid-167"><a href="/collection-tools/shipping-lists" title="View shipping lists included in depository distribution boxes.">Shipping Lists</a></li>
+                <li class="dj-mobileitem itemid-635"><a href="/collection-tools/shipping-list-this-week">Shipping List This Week</a></li>
+                <li class="dj-mobileitem itemid-169"><a href="/file-repository/collection-management/union-list-of-item-selections" title="View all item number selections of all depositories at once; this is typically used to compare your depository's selection profile against others in your state or region.">UNION-L</a></li>
+                <li class="dj-mobileitem itemid-3287"><a href="https://github.com/usgpo/cataloging-records" target="_blank"><em class=" fa fa-external-link" aria-hidden="true"></em><span class="image-title">CGP on GitHub</span></a></li>
+                <li class="dj-mobileitem itemid-3291"><a href="https://libguides.fdlp.gov/" target="_blank"><em class=" fa fa-external-link" aria-hidden="true"></em><span class="image-title">FDLP LibGuides</span></a></li>
+                <li class="dj-mobileitem itemid-170"><a href="/webtech-notes" title="Search and view updates to the List of Classes and corrections to information found on shipping lists.">WEBTech Notes</a></li>
+               </ul></li>
+              <li class="dj-mobileitem itemid-103 deeper parent"><a class="   reqguide" href="#">Requirements &amp; Guidance</a>
+               <ul class="dj-mobile-nav-child">
+                <li class="dj-mobileitem itemid-171"><a href="/requirements-guidance/legal-requirements" title="Full-text of the Federal depository library obligations that govern FDLP member libraries.">Legal Requirements</a></li>
+                <li class="dj-mobileitem itemid-172"><a href="/requirements-guidance/guidance" title="Contains advice on how to comply with the FDLP regulations.">Guidance</a></li>
+                <li class="dj-mobileitem itemid-173"><a href="/requirements-guidance/instructions" title="Provides an overview of FDLP-related tools and services. Also includes information on the features, functionality, and usage.">Instructions</a></li>
+                <li class="dj-mobileitem itemid-174"><a href="/requirements-guidance/collections-and-databases" title="Describes the various products and services that are uniquely available to Federal depository libraries.">Collections &amp; Databases</a></li>
+                <li class="dj-mobileitem itemid-2124"><a href="/promotion">Promotion</a></li>
+               </ul></li>
+              <li class="dj-mobileitem itemid-3185 deeper parent"><a href="#">Preservation</a>
+               <ul class="dj-mobile-nav-child">
+                <li class="dj-mobileitem itemid-3186"><a href="/preservation/preservation-at-gpo">Preservation at GPO</a></li>
+                <li class="dj-mobileitem itemid-3533"><a href="/preservation/trusted-digital-repository-iso-16363-2012-audit-and-certification">Trusted Digital Repository ISO 16363:2012 Audit and Certification </a></li>
+               </ul></li>
+              <li class="dj-mobileitem itemid-104 deeper parent"><a class="  about" href="#">About the FDLP</a>
+               <ul class="dj-mobile-nav-child">
+                <li class="dj-mobileitem itemid-182"><a href="/about-the-fdlp/supdocs" title="The Superintendent of Documents (SuDocs) is in charge of the dissemination of information at the U.S. Government Printing Office (GPO).">Superintendent of Documents</a></li>
+                <li class="dj-mobileitem itemid-183"><a href="/about-the-fdlp/federal-depository-libraries" title="Federal depository libraries are located throughout the United States and its territories. They provide local, no-fee access to Government information and professional assistance for Federal information products.">Federal Depository Libraries</a></li>
+                <li class="dj-mobileitem itemid-184"><a href="/about-the-fdlp/depository-library-council" title="The Depository Library Council (DLC) serves as an advisory committee to the Public Printer of the United States and the Superintendent of Documents.">Depository Library Council</a></li>
+                <li class="dj-mobileitem itemid-1015"><a href="/about-the-fdlp/fdlp-academy">FDLP Academy</a></li>
+                <li class="dj-mobileitem itemid-1008"><a href="/about-the-fdlp/events-and-conferences">Events and Conferences</a></li>
+                <li class="dj-mobileitem itemid-859"><a href="/about-the-fdlp/fdlp-events-calendar">FDLP Events Calendar</a></li>
+                <li class="dj-mobileitem itemid-188"><a href="/about-the-fdlp/partnerships" title="Through agreements with Federal depository libraries and Federal agencies, both the American public and Federal depository libraries have enhanced access to a variety of Federal information products and services.">Partnerships</a></li>
+                <li class="dj-mobileitem itemid-187"><a href="/about-the-fdlp/projects" title="Outlines current and previous efforts to improve the products and services of the FDLP.">Projects</a></li>
+                <li class="dj-mobileitem itemid-637"><a href="/file-repository">File Repository</a></li>
+                <li class="dj-mobileitem itemid-181"><a href="/about-the-fdlp/mission-and-history" title="Learn about the FDLP¹s mission, vision, and core values.">Mission &amp; History</a></li>
+                <li class="dj-mobileitem itemid-2136"><a href="/about-the-fdlp/gpo-on-the-go">GPO on the Go</a></li>
+               </ul></li>
+              <li class="dj-mobileitem itemid-524 deeper parent"><a class=" catindex" href="#">Cataloging &amp; Classification</a>
+               <ul class="dj-mobile-nav-child">
+                <li class="dj-mobileitem itemid-525"><a href="/cataloging-guidelines">Cataloging Guidelines</a></li>
+                <li class="dj-mobileitem itemid-3201"><a href="https://www.fdlp.gov/classification-guidelines/introduction-to-the-classification-guidelines">Superintendent of Documents Classification Guidelines</a></li>
+                <li class="dj-mobileitem itemid-530"><a href="/catalogingandclassification/cataloging-articles">Cataloging &amp; Indexing</a></li>
+                <li class="dj-mobileitem itemid-2970"><a href="/catalogingandclassification/regional-depositories-oclc-holding-symbols-to-gpo-cataloging">Regional Depositories’ OCLC Holding Symbols to GPO Cataloging</a></li>
+                <li class="dj-mobileitem itemid-630"><a href="http://catalog.gpo.gov/" target="_blank"><em class="fa fa-external-link" aria-hidden="true"></em><span class="image-title">Catalog of U.S. Government Publications</span></a></li>
+                <li class="dj-mobileitem itemid-3289"><a href="/catalogingandclassification/sources-of-gpo-cataloging-records">Sources of GPO Cataloging Records</a></li>
+                <li class="dj-mobileitem itemid-3418"><a href="/catalogingandclassification/cataloging-record-distribution-program">Cataloging Record Distribution Program</a></li>
+               </ul></li>
+             </ul> 
+            </div> 
+            <div class="dj-offcanvas-end" tabindex="0"></div> 
+           </aside> 
+          </div> 
+         </div>
+         <ul class="nav menu "> 
+          <li class="item-152 deeper parent dropdown"><a class="dropdown-toggle" href="#" title="The U.S Government Publishing Office (GPO) provides publishing and dissemination services for the official and authentic Government publications to Congress, Federal agencies, Federal depository libraries, and the American public." data-toggle="dropdown"> <span>Other GPO Sites</span></a>
+           <ul class="nav-child unstyled small dropdown-menu">
+            <li class="item-269"><a href="http://www.gpo.gov"> <span>U.S. Government Publishing Office</span></a></li>
+            <li class="item-1972"><a href="https://www.gpo.gov/fdsys/"> <span>Federal Digital System (FDsys)</span></a></li>
+            <li class="item-151"><a href="https://www.govinfo.gov/"> <span>govinfo</span></a></li>
+            <li class="item-161"><a href="http://bookstore.gpo.gov"> <span>U.S. Government Bookstore</span></a></li>
+            <li class="item-150"><a href="http://bensguide.gpo.gov"> <span>Ben's Guide to the U.S. Government</span></a></li>
+           </ul></li>
+         </ul> 
+        </div> 
+        <div class="dashboard-login hidden-phone">
+         <a href="#myModal" role="button" data-toggle="modal">Login</a>
+        </div> 
+        <div class="pull-right"> 
+         <ul class="nav menu iconmenu"> 
+          <li class="item-153"><a class="fa fa-envelope-o hasTooltip tt-bottom" href="/news-and-events" title="Subscribe to Our Email Alerts" data-placement="bottom"> <span>Subscribe to Our Email Alerts</span></a></li>
+          <li class="item-156"><a class="fa fa-rss hasTooltip tt-bottom" href="/rss" title="Grab our RSS" data-placement="bottom"><span>RSS</span></a></li>
+          <li class="item-308"><a class="fa fa-newspaper-o hasTooltip tt-bottom" href="/fdlp-connection" title="Subscribe to our Newsletter" data-placement="bottom"><span>Subscribe to our Newsletter</span></a></li>
+         </ul> 
+         <div class="custom"> 
+          <div class="font-resize hidden-phone">
+           <a id="jfontsize-minus" class="smaller" href="#" title="Font Size: Smaller">A</a> 
+           <a id="jfontsize-plus" class="larger" title="Font Size: Larger" href="#">A</a>
+          </div>
+         </div> 
+         <ul class="nav menu "> 
+          <li class="item-2829"><a href="/contact-us"><span>Contact Us</span></a></li>
+          <li class="item-2830"><a class="myModalLogin" role="button" data-toggle="modal" href="#myModal"> <span>Login</span></a></li>
+         </ul> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <!-- Header --> 
+     <div class="header"> 
+      <div class="header-inner"> 
+       <a class="brand pull-left" href="/"> <img src="https://www.fdlp.gov/images/fdlp_logo.png" alt="FDLP"> </a> 
+       <div class="header-search pull-right"> 
+        <div class="moduletable"> 
+         <script type="text/javascript">
+//<![CDATA[
+	window.addEvent('domready', function() {
+		var value;
+
+		// Set the input value if not already set.
+		if (!document.id('appendedDropdownButton').getProperty('value')) {
+			document.id('appendedDropdownButton').setProperty('value', 'Search ...');
+		}
+
+		// Get the current value.
+		value = document.id('appendedDropdownButton').getProperty('value');
+
+		// If the current value equals the default value, clear it.
+		document.id('appendedDropdownButton').addEvent('focus', function() {
+			if (this.getProperty('value') == 'Search ...') {
+				this.setProperty('value', '');
+			}
+		});
+
+		// If the current value is empty, set the previous value.
+		document.id('appendedDropdownButton').addEvent('blur', function() {
+			if (!this.getProperty('value')) {
+				this.setProperty('value', value);
+			}
+		});
+
+		document.id('mod-finder-searchform').addEvent('submit', function(e){
+			e = new Event(e);
+			e.stop();
+
+			// Disable select boxes with no value selected.
+			if (document.id('mod-finder-advanced') != null) {
+				document.id('mod-finder-advanced').getElements('select').each(function(s){
+					if (!s.getProperty('value')) {
+						s.setProperty('disabled', 'disabled');
+					}
+				});
+			}
+
+			document.id('mod-finder-searchform').submit();
+		});
+
+		/*
+		 * This segment of code sets up the autocompleter.
+		 */
+								var url = '/component/finder/?task=suggestions.display&format=json&tmpl=component';
+			var ModCompleter = new Autocompleter.Request.JSON(document.id('appendedDropdownButton'), url, {'postVar': 'q'});
+			});
+//]]>
+</script> 
+         <div class="search"> 
+          <form id="mod-finder-searchform" action="/search" method="get" class="form-inline"> 
+           <div class="input-append"> 
+            <input name="q" class="span2" id="appendedDropdownButton" type="text"> 
+            <div class="btn-group"> 
+             <button class="btn dropdown-toggle" data-toggle="dropdown">Search <span class="caret"></span></button> 
+             <ul class="dropdown-menu"> 
+              <li><a href="javascript:void(0);" onclick="searchSubmit('site');">Site</a></li> 
+              <li><a href="javascript:void(0);" onclick="searchSubmit('news');">News</a></li> 
+              <li class="divider"></li> 
+              <li><a href="javascript:void(0);" onclick="searchSubmit('cgp');">CGP</a></li> 
+              <li><a href="javascript:void(0);" onclick="searchSubmit('fdsys');">govinfo</a></li> 
+             </ul> 
+            </div>
+            <!-- /btn-group --> 
+           </div>
+           <!-- /input-append --> 
+           <input type="hidden" id="st" name="st" value=""> 
+           <input type="hidden" name="f" id="filter" value=""> 
+           <input type="hidden" id="ordering" name="ordering" value="0"> 
+          </form> 
+          <form class="form-inline" style="margin: 0;" action="//catalog.gpo.gov/F" method="post" id="cgpSearchForm"> 
+           <input type="hidden" id="req" name="request" value=""> 
+           <input type="hidden" name="func" value="find-b"> 
+          </form> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="clearfix"></div> 
+      </div> 
+     </div> 
+     <div class="nohidden-phone"> 
+      <div id="navigation" class="navigation" data-spy="affix" data-offset-top="150"> 
+       <div class="container"> 
+        <div class="dj-megamenu-wrapper"> 
+         <ul id="dj-megamenu336" class="dj-megamenu dj-megamenu-override horizontalMenu " data-options="{&quot;wrap&quot;:null,&quot;animIn&quot;:&quot;fadeIn&quot;,&quot;animOut&quot;:&quot;fadeOut&quot;,&quot;animSpeed&quot;:&quot;fast&quot;,&quot;openDelay&quot;:0,&quot;closeDelay&quot;:&quot;0&quot;,&quot;event&quot;:&quot;mouseenter&quot;,&quot;fixed&quot;:0,&quot;offset&quot;:0,&quot;theme&quot;:&quot;override&quot;,&quot;direction&quot;:&quot;ltr&quot;,&quot;wcag&quot;:&quot;1&quot;}" data-trigger="979"> 
+          <li class="dj-up itemid2831 first dj-hideitem"><a class="dj-up_a  home" href="/" title="Homepage"><span>Home</span></a></li>
+          <li class="dj-up itemid102 parent"><a class="dj-up_a   collect" href="#"><span class="dj-drop">Collection Tools<em class="arrow" aria-hidden="true"></em></span></a>
+           <div class="dj-subwrap  multiple_cols subcols3" style="">
+            <div class="dj-subwrap-in" style="width:903px;">
+             <div class="dj-subcol" style="width:301px">
+              <ul class="dj-submenu">
+               <li class="itemid163 first"><a href="/collection-tools/claims" title="Submit a request within 60 days for any publication in your depository shipment that is missing, misprinted or damaged.">Claims</a></li>
+               <li class="itemid160"><a href="https://selections.fdlp.gov" target="_blank" title="Manage your item selection profile."><em class="dj-icon fa fa-lock " aria-hidden="true"></em><span class="image-title">DSIMS</span></a></li>
+               <li class="itemid164"><a href="https://selections.fdlp.gov/itemlister" target="_blank" title="View both selected and non-selected item numbers for any Federal depository library."><em class="dj-icon  fa fa-external-link" aria-hidden="true"></em><span class="image-title">Item Lister</span></a></li>
+               <li class="itemid168"><a href="/file-repository/collection-management/list-of-classes" title="Browse the list of Federal information products that are available for selection by depository libraries.">List of Classes</a></li>
+               <li class="itemid165"><a href="/collection-tools/lostdocs" title="Report fugitive documents or other Federal information products that have not been cataloged by GPO.">LostDocs</a></li>
+              </ul>
+             </div>
+             <div class="dj-subcol" style="width:301px">
+              <ul class="dj-submenu">
+               <li class="itemid166 first"><a href="/collection-tools/fdlp-exchange" title="Post or review lists of withdrawn or needed publications from Federal depository libraries.">FDLP eXchange</a></li>
+               <li class="itemid162"><a href="http://purlreferrals.fdlp.gov" target="_blank" title="Find statistical information derived from your library¹s PURL traffic to measure usage of online resources."><em class="dj-icon fa fa-lock" aria-hidden="true"></em><span class="image-title">PURL Usage Reporting Tool</span></a></li>
+               <li class="itemid167"><a href="/collection-tools/shipping-lists" title="View shipping lists included in depository distribution boxes.">Shipping Lists</a></li>
+               <li class="itemid635"><a href="/collection-tools/shipping-list-this-week">Shipping List This Week</a></li>
+              </ul>
+             </div>
+             <div class="dj-subcol" style="width:301px">
+              <ul class="dj-submenu">
+               <li class="itemid169 first"><a href="/file-repository/collection-management/union-list-of-item-selections" title="View all item number selections of all depositories at once; this is typically used to compare your depository's selection profile against others in your state or region.">UNION-L</a></li>
+               <li class="itemid3287"><a href="https://github.com/usgpo/cataloging-records" target="_blank"><em class="dj-icon  fa fa-external-link" aria-hidden="true"></em><span class="image-title">CGP on GitHub</span></a></li>
+               <li class="itemid3291"><a href="https://libguides.fdlp.gov/" target="_blank"><em class="dj-icon  fa fa-external-link" aria-hidden="true"></em><span class="image-title">FDLP LibGuides</span></a></li>
+               <li class="itemid170"><a href="/webtech-notes" title="Search and view updates to the List of Classes and corrections to information found on shipping lists.">WEBTech Notes</a></li>
+              </ul>
+             </div>
+             <div style="clear:both;height:0"></div>
+            </div>
+           </div></li>
+          <li class="dj-up itemid103 parent"><a class="dj-up_a    reqguide" href="#"><span class="dj-drop">Requirements &amp; Guidance<em class="arrow" aria-hidden="true"></em></span></a>
+           <div class="dj-subwrap  multiple_cols subcols2" style="">
+            <div class="dj-subwrap-in" style="width:602px;">
+             <div class="dj-subcol" style="width:301px">
+              <ul class="dj-submenu">
+               <li class="itemid171 first"><a href="/requirements-guidance/legal-requirements" title="Full-text of the Federal depository library obligations that govern FDLP member libraries.">Legal Requirements</a></li>
+               <li class="itemid172"><a href="/requirements-guidance/guidance" title="Contains advice on how to comply with the FDLP regulations.">Guidance</a></li>
+               <li class="itemid173"><a href="/requirements-guidance/instructions" title="Provides an overview of FDLP-related tools and services. Also includes information on the features, functionality, and usage.">Instructions</a></li>
+              </ul>
+             </div>
+             <div class="dj-subcol" style="width:301px">
+              <ul class="dj-submenu">
+               <li class="itemid174 first"><a href="/requirements-guidance/collections-and-databases" title="Describes the various products and services that are uniquely available to Federal depository libraries.">Collections &amp; Databases</a></li>
+               <li class="itemid2124"><a href="/promotion">Promotion</a></li>
+              </ul>
+             </div>
+             <div style="clear:both;height:0"></div>
+            </div>
+           </div></li>
+          <li class="dj-up itemid3185 parent"><a class="dj-up_a  " href="#"><span class="dj-drop">Preservation<em class="arrow" aria-hidden="true"></em></span></a>
+           <div class="dj-subwrap  single_column subcols1" style="">
+            <div class="dj-subwrap-in" style="width:301px;">
+             <div class="dj-subcol" style="width:301px">
+              <ul class="dj-submenu">
+               <li class="itemid3186 first"><a href="/preservation/preservation-at-gpo">Preservation at GPO</a></li>
+               <li class="itemid3533"><a href="/preservation/trusted-digital-repository-iso-16363-2012-audit-and-certification">Trusted Digital Repository ISO 16363:2012 Audit and Certification </a></li>
+              </ul>
+             </div>
+             <div style="clear:both;height:0"></div>
+            </div>
+           </div></li>
+          <li class="dj-up itemid104 parent"><a class="dj-up_a   about" href="#"><span class="dj-drop">About the FDLP<em class="arrow" aria-hidden="true"></em></span></a>
+           <div class="dj-subwrap  multiple_cols subcols3" style="">
+            <div class="dj-subwrap-in" style="width:903px;">
+             <div class="dj-subcol" style="width:301px">
+              <ul class="dj-submenu">
+               <li class="itemid182 first"><a href="/about-the-fdlp/supdocs" title="The Superintendent of Documents (SuDocs) is in charge of the dissemination of information at the U.S. Government Printing Office (GPO).">Superintendent of Documents</a></li>
+               <li class="itemid183"><a href="/about-the-fdlp/federal-depository-libraries" title="Federal depository libraries are located throughout the United States and its territories. They provide local, no-fee access to Government information and professional assistance for Federal information products.">Federal Depository Libraries</a></li>
+               <li class="itemid184"><a href="/about-the-fdlp/depository-library-council" title="The Depository Library Council (DLC) serves as an advisory committee to the Public Printer of the United States and the Superintendent of Documents.">Depository Library Council</a></li>
+               <li class="itemid1015"><a href="/about-the-fdlp/fdlp-academy">FDLP Academy</a></li>
+              </ul>
+             </div>
+             <div class="dj-subcol" style="width:301px">
+              <ul class="dj-submenu">
+               <li class="itemid1008 first"><a href="/about-the-fdlp/events-and-conferences">Events and Conferences</a></li>
+               <li class="itemid859"><a href="/about-the-fdlp/fdlp-events-calendar">FDLP Events Calendar</a></li>
+               <li class="itemid188"><a href="/about-the-fdlp/partnerships" title="Through agreements with Federal depository libraries and Federal agencies, both the American public and Federal depository libraries have enhanced access to a variety of Federal information products and services.">Partnerships</a></li>
+               <li class="itemid187"><a href="/about-the-fdlp/projects" title="Outlines current and previous efforts to improve the products and services of the FDLP.">Projects</a></li>
+              </ul>
+             </div>
+             <div class="dj-subcol" style="width:301px">
+              <ul class="dj-submenu">
+               <li class="itemid637 first"><a href="/file-repository">File Repository</a></li>
+               <li class="itemid181"><a href="/about-the-fdlp/mission-and-history" title="Learn about the FDLP¹s mission, vision, and core values.">Mission &amp; History</a></li>
+               <li class="itemid2136"><a href="/about-the-fdlp/gpo-on-the-go">GPO on the Go</a></li>
+              </ul>
+             </div>
+             <div style="clear:both;height:0"></div>
+            </div>
+           </div></li>
+          <li class="dj-up itemid524 parent"><a class="dj-up_a  catindex" href="#"><span class="dj-drop">Cataloging &amp; Classification<em class="arrow" aria-hidden="true"></em></span></a>
+           <div class="dj-subwrap  single_column subcols1" style="">
+            <div class="dj-subwrap-in" style="width:301px;">
+             <div class="dj-subcol" style="width:301px">
+              <ul class="dj-submenu">
+               <li class="itemid525 first"><a href="/cataloging-guidelines">Cataloging Guidelines</a></li>
+               <li class="itemid3201"><a href="https://www.fdlp.gov/classification-guidelines/introduction-to-the-classification-guidelines">Superintendent of Documents Classification Guidelines</a></li>
+               <li class="itemid530"><a href="/catalogingandclassification/cataloging-articles">Cataloging &amp; Indexing</a></li>
+               <li class="itemid2970"><a href="/catalogingandclassification/regional-depositories-oclc-holding-symbols-to-gpo-cataloging">Regional Depositories’ OCLC Holding Symbols to GPO Cataloging</a></li>
+               <li class="itemid630"><a href="http://catalog.gpo.gov/" target="_blank"><em class="dj-icon fa fa-external-link" aria-hidden="true"></em><span class="image-title">Catalog of U.S. Government Publications</span></a></li>
+               <li class="itemid3289"><a href="/catalogingandclassification/sources-of-gpo-cataloging-records">Sources of GPO Cataloging Records</a></li>
+               <li class="itemid3418"><a href="/catalogingandclassification/cataloging-record-distribution-program">Cataloging Record Distribution Program</a></li>
+              </ul>
+             </div>
+             <div style="clear:both;height:0"></div>
+            </div>
+           </div></li>
+         </ul> 
+         <div id="dj-megamenu336mobile" class="dj-megamenu-offcanvas dj-megamenu-offcanvas-light "> 
+          <a href="#" class="dj-mobile-open-btn" aria-label="Open mobile menu"><span class="fa fa-bars" aria-hidden="true"></span></a> 
+          <aside id="dj-megamenu336offcanvas" class="dj-offcanvas dj-offcanvas-light " data-effect="3"> 
+           <div class="dj-offcanvas-top"> 
+            <a href="#" class="dj-offcanvas-close-btn" aria-label="Close mobile menu"><span class="fa fa-close" aria-hidden="true"></span></a> 
+           </div> 
+           <div class="dj-offcanvas-content"> 
+            <ul class="dj-mobile-nav dj-mobile-light "> 
+             <li class="dj-mobileitem itemid-2831"><a class=" home" href="/" title="Homepage">Home</a></li>
+             <li class="dj-mobileitem itemid-102 deeper parent"><a class="  collect" href="#">Collection Tools</a>
+              <ul class="dj-mobile-nav-child">
+               <li class="dj-mobileitem itemid-163"><a href="/collection-tools/claims" title="Submit a request within 60 days for any publication in your depository shipment that is missing, misprinted or damaged.">Claims</a></li>
+               <li class="dj-mobileitem itemid-160"><a href="https://selections.fdlp.gov" target="_blank" title="Manage your item selection profile."><em class="fa fa-lock " aria-hidden="true"></em><span class="image-title">DSIMS</span></a></li>
+               <li class="dj-mobileitem itemid-164"><a href="https://selections.fdlp.gov/itemlister" target="_blank" title="View both selected and non-selected item numbers for any Federal depository library."><em class=" fa fa-external-link" aria-hidden="true"></em><span class="image-title">Item Lister</span></a></li>
+               <li class="dj-mobileitem itemid-168"><a href="/file-repository/collection-management/list-of-classes" title="Browse the list of Federal information products that are available for selection by depository libraries.">List of Classes</a></li>
+               <li class="dj-mobileitem itemid-165"><a href="/collection-tools/lostdocs" title="Report fugitive documents or other Federal information products that have not been cataloged by GPO.">LostDocs</a></li>
+               <li class="dj-mobileitem itemid-166"><a href="/collection-tools/fdlp-exchange" title="Post or review lists of withdrawn or needed publications from Federal depository libraries.">FDLP eXchange</a></li>
+               <li class="dj-mobileitem itemid-162"><a href="http://purlreferrals.fdlp.gov" target="_blank" title="Find statistical information derived from your library¹s PURL traffic to measure usage of online resources."><em class="fa fa-lock" aria-hidden="true"></em><span class="image-title">PURL Usage Reporting Tool</span></a></li>
+               <li class="dj-mobileitem itemid-167"><a href="/collection-tools/shipping-lists" title="View shipping lists included in depository distribution boxes.">Shipping Lists</a></li>
+               <li class="dj-mobileitem itemid-635"><a href="/collection-tools/shipping-list-this-week">Shipping List This Week</a></li>
+               <li class="dj-mobileitem itemid-169"><a href="/file-repository/collection-management/union-list-of-item-selections" title="View all item number selections of all depositories at once; this is typically used to compare your depository's selection profile against others in your state or region.">UNION-L</a></li>
+               <li class="dj-mobileitem itemid-3287"><a href="https://github.com/usgpo/cataloging-records" target="_blank"><em class=" fa fa-external-link" aria-hidden="true"></em><span class="image-title">CGP on GitHub</span></a></li>
+               <li class="dj-mobileitem itemid-3291"><a href="https://libguides.fdlp.gov/" target="_blank"><em class=" fa fa-external-link" aria-hidden="true"></em><span class="image-title">FDLP LibGuides</span></a></li>
+               <li class="dj-mobileitem itemid-170"><a href="/webtech-notes" title="Search and view updates to the List of Classes and corrections to information found on shipping lists.">WEBTech Notes</a></li>
+              </ul></li>
+             <li class="dj-mobileitem itemid-103 deeper parent"><a class="   reqguide" href="#">Requirements &amp; Guidance</a>
+              <ul class="dj-mobile-nav-child">
+               <li class="dj-mobileitem itemid-171"><a href="/requirements-guidance/legal-requirements" title="Full-text of the Federal depository library obligations that govern FDLP member libraries.">Legal Requirements</a></li>
+               <li class="dj-mobileitem itemid-172"><a href="/requirements-guidance/guidance" title="Contains advice on how to comply with the FDLP regulations.">Guidance</a></li>
+               <li class="dj-mobileitem itemid-173"><a href="/requirements-guidance/instructions" title="Provides an overview of FDLP-related tools and services. Also includes information on the features, functionality, and usage.">Instructions</a></li>
+               <li class="dj-mobileitem itemid-174"><a href="/requirements-guidance/collections-and-databases" title="Describes the various products and services that are uniquely available to Federal depository libraries.">Collections &amp; Databases</a></li>
+               <li class="dj-mobileitem itemid-2124"><a href="/promotion">Promotion</a></li>
+              </ul></li>
+             <li class="dj-mobileitem itemid-3185 deeper parent"><a href="#">Preservation</a>
+              <ul class="dj-mobile-nav-child">
+               <li class="dj-mobileitem itemid-3186"><a href="/preservation/preservation-at-gpo">Preservation at GPO</a></li>
+               <li class="dj-mobileitem itemid-3533"><a href="/preservation/trusted-digital-repository-iso-16363-2012-audit-and-certification">Trusted Digital Repository ISO 16363:2012 Audit and Certification </a></li>
+              </ul></li>
+             <li class="dj-mobileitem itemid-104 deeper parent"><a class="  about" href="#">About the FDLP</a>
+              <ul class="dj-mobile-nav-child">
+               <li class="dj-mobileitem itemid-182"><a href="/about-the-fdlp/supdocs" title="The Superintendent of Documents (SuDocs) is in charge of the dissemination of information at the U.S. Government Printing Office (GPO).">Superintendent of Documents</a></li>
+               <li class="dj-mobileitem itemid-183"><a href="/about-the-fdlp/federal-depository-libraries" title="Federal depository libraries are located throughout the United States and its territories. They provide local, no-fee access to Government information and professional assistance for Federal information products.">Federal Depository Libraries</a></li>
+               <li class="dj-mobileitem itemid-184"><a href="/about-the-fdlp/depository-library-council" title="The Depository Library Council (DLC) serves as an advisory committee to the Public Printer of the United States and the Superintendent of Documents.">Depository Library Council</a></li>
+               <li class="dj-mobileitem itemid-1015"><a href="/about-the-fdlp/fdlp-academy">FDLP Academy</a></li>
+               <li class="dj-mobileitem itemid-1008"><a href="/about-the-fdlp/events-and-conferences">Events and Conferences</a></li>
+               <li class="dj-mobileitem itemid-859"><a href="/about-the-fdlp/fdlp-events-calendar">FDLP Events Calendar</a></li>
+               <li class="dj-mobileitem itemid-188"><a href="/about-the-fdlp/partnerships" title="Through agreements with Federal depository libraries and Federal agencies, both the American public and Federal depository libraries have enhanced access to a variety of Federal information products and services.">Partnerships</a></li>
+               <li class="dj-mobileitem itemid-187"><a href="/about-the-fdlp/projects" title="Outlines current and previous efforts to improve the products and services of the FDLP.">Projects</a></li>
+               <li class="dj-mobileitem itemid-637"><a href="/file-repository">File Repository</a></li>
+               <li class="dj-mobileitem itemid-181"><a href="/about-the-fdlp/mission-and-history" title="Learn about the FDLP¹s mission, vision, and core values.">Mission &amp; History</a></li>
+               <li class="dj-mobileitem itemid-2136"><a href="/about-the-fdlp/gpo-on-the-go">GPO on the Go</a></li>
+              </ul></li>
+             <li class="dj-mobileitem itemid-524 deeper parent"><a class=" catindex" href="#">Cataloging &amp; Classification</a>
+              <ul class="dj-mobile-nav-child">
+               <li class="dj-mobileitem itemid-525"><a href="/cataloging-guidelines">Cataloging Guidelines</a></li>
+               <li class="dj-mobileitem itemid-3201"><a href="https://www.fdlp.gov/classification-guidelines/introduction-to-the-classification-guidelines">Superintendent of Documents Classification Guidelines</a></li>
+               <li class="dj-mobileitem itemid-530"><a href="/catalogingandclassification/cataloging-articles">Cataloging &amp; Indexing</a></li>
+               <li class="dj-mobileitem itemid-2970"><a href="/catalogingandclassification/regional-depositories-oclc-holding-symbols-to-gpo-cataloging">Regional Depositories’ OCLC Holding Symbols to GPO Cataloging</a></li>
+               <li class="dj-mobileitem itemid-630"><a href="http://catalog.gpo.gov/" target="_blank"><em class="fa fa-external-link" aria-hidden="true"></em><span class="image-title">Catalog of U.S. Government Publications</span></a></li>
+               <li class="dj-mobileitem itemid-3289"><a href="/catalogingandclassification/sources-of-gpo-cataloging-records">Sources of GPO Cataloging Records</a></li>
+               <li class="dj-mobileitem itemid-3418"><a href="/catalogingandclassification/cataloging-record-distribution-program">Cataloging Record Distribution Program</a></li>
+              </ul></li>
+            </ul> 
+           </div> 
+           <div class="dj-offcanvas-end" tabindex="0"></div> 
+          </aside> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <!-- Body --> 
+     <div class="body" id="page-body"> 
+      <div class="container"> 
+       <div id="system-message-container"> 
+        <div id="system-message"> 
+         <div class="alert alert-message"> 
+          <a class="close" data-dismiss="alert">×</a> 
+          <h4 class="alert-heading">Message</h4> 
+          <div> 
+           <p class="alert-message">We're sorry that page is not valid. </p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="row-fluid"> 
+        <div class="span8"> 
+         <div class="custom"> 
+          <div id="myCarousel" class="carousel slide">
+           <!-- Carousel items --> 
+           <div class="carousel-inner"> 
+            <div class="active item">
+             <img title="New Council Members" src="/images/carousel/new-council-mem-banner.png" alt="Banner showing three new council members" width="620" height="261"> 
+             <div class="carousel-caption"> 
+              <p>Join GPO in welcoming the <a style="color: #e7a018;" title="newest members" href="/news-and-events/4042-gpo-director-names-new-members-to-the-depository-library-council-2019">newest members</a> of the Depository Library Council. Their terms begin June 1, 2019.</p> 
+             </div> 
+            </div> 
+            <div class="item">
+             <img title="FDLP eXchange" src="/images/carousel/fdlp-exchange-banner.png" alt="eXchange banner" width="620" height="261"> 
+             <div class="carousel-caption"> 
+              <p>FDLP eXchange supports the exchange of depository publications nationwide through an automated process. <a style="color: #e7a018;" title="Learn more" href="/project-list/fdlp-exchange">Learn more</a>, and access training videos, templates, and other informational resources.</p> 
+             </div> 
+            </div> 
+            <div class="item">
+             <img title="Preservation trusted digital" src="/images/banners/PTAB-Banner.png" alt="PTAB Banner2" width="620" height="261"> 
+             <div class="carousel-caption"> 
+              <p>GPO has made history by becoming the first organization in the U.S. and second organization in the world to achieve ISO 16363:2012 for <strong>govinfo</strong>. <a style="color: #e7a018;" href="/preservation/trusted-digital-repository-iso-16363-2012-audit-and-certification">Learn more</a>.</p> 
+             </div> 
+            </div> 
+            <div class="item">
+             <img title="GPO on the Go carousel" src="/images/carousel/GPO-on-the-Go-carousel.png" alt="GPO on the Go carousel" width="620" height="261"> 
+             <div class="carousel-caption"> 
+              <p>Staff from the U.S. Government Publishing Office (GPO) have been on the go, visiting Federal depository libraries around the country to provide advice and support. <a style="color: #e7a018;" title="Link to read more" href="/about-the-fdlp/gpo-on-the-go">Read more</a>.</p> 
+             </div> 
+            </div> 
+           </div> 
+           <!-- Carousel nav --> 
+           <p><a class="left carousel-control" href="#myCarousel" data-slide="prev">‹</a><a class="right carousel-control" href="#myCarousel" data-slide="next">›</a></p> 
+          </div>
+         </div> 
+        </div> 
+        <div class="span4">
+         <ul class="nav menu featuredbuttons"> 
+          <li class="item-114"><a class="btn btn-large info" href="/fdlp-basics"><span>FDLP Basics<span class="subheading">Learn About The Program</span></span></a></li>
+          <li class="item-115"><a class="btn btn-large newto" href="/govdocs-quickstart-guide"><span>New to GovDocs?<span class="subheading">View Our Quickstart Guide</span></span></a></li>
+          <li class="item-116"><a class="btn btn-large join" href="/join-the-fdlp"><span>Join the FDLP<span class="subheading">Learn about the Benefits</span></span></a></li>
+         </ul> 
+        </div> 
+       </div> 
+       <div class="row-fluid"> 
+        <div id="content" class="span12"> 
+         <!-- Begin Content --> 
+         <!--  --> 
+         <div class="blog-featured" itemscope itemtype="https://schema.org/Blog"> 
+         </div> 
+         <!-- End Content --> 
+        </div> 
+        <!--Bottom Three --> 
+        <div class="row-fluid"> 
+         <div class="span12"> 
+          <div class="span4"> 
+           <div class="moduletable-news"> 
+            <h3>News &amp; Events</h3> 
+            <div class="accordion" id="newsmod99"> 
+             <div class="accordion-group"> 
+              <div class="accordion-heading"> 
+               <a class="accordion-toggle" data-toggle="collapse" data-parent="#newsmod99" href="#news99-4072"> FDLP eXchange Tip of the Week: New Web Pages </a>  
+              </div> 
+              <div id="news99-4072" class="accordion-body collapse"> 
+               <div class="accordion-inner"> 
+                <small><span class="">May 31, 2019</span></small>
+                <br> FDLP eXchange web pages have been updated to make them easier to use. Instead of one page, there are now five pages broken out by... 
+                <span class="mod-articles-category-readmore"> <a class="mod-articles-category-title " href="/news-and-events/4072-fdlp-exchange-tip-of-the-week-new-web-pages"> Read More ... </a> </span> 
+               </div> 
+              </div> 
+             </div> 
+             <div class="accordion-group"> 
+              <div class="accordion-heading"> 
+               <a class="accordion-toggle" data-toggle="collapse" data-parent="#newsmod99" href="#news99-4071"> Recommendations &amp; Commendations from the DLC to GPO </a>  
+              </div> 
+              <div id="news99-4071" class="accordion-body collapse"> 
+               <div class="accordion-inner"> 
+                <small><span class="">May 30, 2019</span></small>
+                <br> The Depository Library Council (DLC) to the GPO Director, upon the close of the spring 2019 Depository Library Council Virtual... 
+                <span class="mod-articles-category-readmore"> <a class="mod-articles-category-title " href="/news-and-events/4071-recommendations-commendations-from-the-dlc-to-gpo-2"> Read More ... </a> </span> 
+               </div> 
+              </div> 
+             </div> 
+             <div class="accordion-group"> 
+              <div class="accordion-heading"> 
+               <a class="accordion-toggle" data-toggle="collapse" data-parent="#newsmod99" href="#news99-4070"> Federal Depository Libraries in the Paths of Tornadoes and Storms </a>  
+              </div> 
+              <div id="news99-4070" class="accordion-body collapse"> 
+               <div class="accordion-inner"> 
+                <small><span class="">May 30, 2019</span></small>
+                <br> A number of Federal depository libraries were in the paths of tornadoes and other storms this week. GPO is committed to helping... 
+                <span class="mod-articles-category-readmore"> <a class="mod-articles-category-title " href="/news-and-events/4070-federal-depository-libraries-in-the-paths-of-tornadoes-and-storms"> Read More ... </a> </span> 
+               </div> 
+              </div> 
+             </div> 
+             <div class="accordion-group"> 
+              <div class="accordion-heading"> 
+               <a class="accordion-toggle" data-toggle="collapse" data-parent="#newsmod99" href="#news99-4068"> New Historic Publications on FDLP.gov </a>  
+              </div> 
+              <div id="news99-4068" class="accordion-body collapse"> 
+               <div class="accordion-inner"> 
+                <small><span class="">May 29, 2019</span></small>
+                <br> New featured titles have been added to the 
+                <a href="/about-fdlp/3955-historic-publications">Historic Publications</a> page for Spring 2019. Hop over to FDLP.gov to see some of the... 
+                <span class="mod-articles-category-readmore"> <a class="mod-articles-category-title " href="/news-and-events/4068-new-historic-publications-on-fdlp-gov"> Read More ... </a> </span> 
+               </div> 
+              </div> 
+             </div> 
+             <div class="accordion-group"> 
+              <div class="accordion-heading"> 
+               <a class="accordion-toggle" data-toggle="collapse" data-parent="#newsmod99" href="#news99-4067"> Final Report of the ISO 16363 Audit of govinfo from PTAB </a>  
+              </div> 
+              <div id="news99-4067" class="accordion-body collapse"> 
+               <div class="accordion-inner"> 
+                <small><span class="">May 29, 2019</span></small>
+                <br> The 
+                <a href="/file-repository/preservation/3910-the-ptab-iso-16363-audit-of-the-gpo-govinfo-repository-system-public-report">final audit report</a> from the Primary Trustworthy Digital Repository Authorisation Body on the audit of 
+                <strong>govinfo</strong> is now available.... 
+                <span class="mod-articles-category-readmore"> <a class="mod-articles-category-title " href="/news-and-events/4067-final-report-of-the-iso-16363-audit-of-govinfo-from-ptab"> Read More ... </a> </span> 
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+            <a href="/news-and-events" class="btn"><i class="icon-chevron-right"></i> View All</a> 
+           </div> 
+           <div class="moduletable"> 
+            <div class="custom"> 
+             <p><a href="/about-fdlp/3955-historic-publications" title="Link to Historic Publications"><img src="/images/Historic-publications/Spring-2019/historic-publications-mini-banner-spring-2019.png" alt="historic publications mini banner spring 2019" height="156" width="306" style="margin: 0px;"></a></p>
+            </div> 
+           </div> 
+           <div class="moduletable"> 
+            <div class="custom"> 
+             <p style="background-color: #8380ab; padding: 15px;"><img src="/images/banners/Karen-Russ-Research-Award-2019.jpg" width="306" height="236" alt="Karen Russ Research Award 2019"><br><br><span style="color: #00ffff; background-color: #8380ab;"><span style="color: #ffffff; font-size: 9.5pt;">The Ottenheimer Library at the University of Arkansas at Little Rock <a href="https://ualr.edu/library/2019/05/08/library-recognizes-kumpuris-with-russ-award/" style="color: #e7a018;" link="" to="" karen="" russ="" memorial="" award="" target="_blank" rel="noopener">presented</a> the first Karen Russ Memorial Award for Excellence in Research award to Sajni Kumpuris. It is awarded each spring to the student who best utilizes Government data in his/her research. The award honors the legacy of Karen Russ, long-time pillar of the FDLP community, former DLC Chair, and Depository Coordinator</span>.</span></p>
+            </div> 
+           </div> 
+          </div> 
+          <div class="span4"> 
+           <div class="moduletable-rounded"> 
+            <h3>Upcoming Events</h3> 
+            <div id="rsepro-upcoming-module"> 
+             <ul class="rsepro_upcoming-rounded"> 
+              <li class=""> <a target="_blank" href="/2014-10-22-12-10-03/fdlp-event-list/event/482-webinar-who-what-where-when-and-how-legislative-research-when-you-ve-reached-the-end-of-what-you-know">Webinar: Who, What, Where, When, and How? Legislative Research When You've Reached the End of What You Know</a> <small>(June 05, 2019 1:00 pm EDT)</small> </li> 
+             </ul> 
+             <ul class="rsepro_upcoming-rounded"> 
+              <li class=""> <a target="_blank" href="/2014-10-22-12-10-03/fdlp-event-list/event/484-webinar-providing-access-to-digital-documents">Webinar: Providing Access to Digital Documents</a> <small>(July 25, 2019 2:00 pm EDT)</small> </li> 
+             </ul> 
+             <ul class="rsepro_upcoming-rounded"> 
+              <li class=""> <a target="_blank" href="/2014-10-22-12-10-03/fdlp-event-list/event/477-fall-2019-federal-depository-library-conference-registration-opens-this-june">Fall 2019 Federal Depository Library Conference – Registration opens this June!</a> <small>(October 21, 2019 3:54 pm EDT)</small> </li> 
+             </ul> 
+            </div> 
+           </div> 
+           <div class="moduletable-rounded"> 
+            <div class="custom-rounded"> 
+             <p><a href="/all-newsletters/depository-library-spotlight/4038-depository-spotlight-university-of-hawai-i-at-manoa-library" title="Depository Library Spotlight Toledo Lucas County Public Library"><img title="Depository Library Spotlight Toledo Lucas County Public Library" src="/images/Depository-Library-Spotlight-Images/University-of-Hawaii-at-Manoa-Library/Usual_suspects_1.jpg" alt="Usual suspects 1" width="527" height="346"></a></p> 
+             <p><a href="/all-newsletters/depository-library-spotlight/4038-depository-spotlight-university-of-hawai-i-at-manoa-library">Depository Spotlight: University of Hawai?i at M?noa Library </a></p>
+            </div> 
+           </div> 
+           <div class="moduletable-rounded"> 
+            <div class="custom-rounded"> 
+             <p><a href="/all-newsletters/partnership-showcase/3894-partnership-showcase-arthur-lakes-library-colorado-school-of-mines" title="Partnership Showcase Colorado School of Mines, Arthur Lakes Library"><img title="2018 NDI" src="/images/newsletters/connection/partnership-showcase/Updated0072-PreservationSteward02-201812.jpg" alt="Updated0072 PreservationSteward02 201812" width="367" height="275"></a></p> 
+             <p><a href="/all-newsletters/partnership-showcase/3894-partnership-showcase-arthur-lakes-library-colorado-school-of-mines">Partnership Showcase: Colorado School of Mines, Arthur Lakes Library</a></p>
+            </div> 
+           </div> 
+          </div> 
+          <div class="span4"> 
+           <div class="moduletable-rounded"> 
+            <div class="custom-rounded"> 
+             <p><a href="/file-repository/preservation/3910-the-ptab-iso-16363-audit-of-the-gpo-govinfo-repository-system-public-report"><img src="/images/News-Events-Images/ptab-mini-banner.png" width="306" height="156" alt="ptab mini banner" style="float: left;"></a><br style="clear: both;"></p> 
+             <p>Final report from the Primary Trustworthy Digital Repository Authorisation Body on the audit of <strong>govinfo</strong> (May 2019)</p>
+            </div> 
+           </div> 
+           <div class="moduletable"> 
+            <h3>Get Connected to GPO</h3> 
+            <div class="custom"> 
+             <ul style="list-style: none; margin-left: 5px;"> 
+              <li style="display: inline;"><a href="https://www.facebook.com/USGPO?v=wall" target="_blank" title="Link to GPO's Facebook page"><img src="/images/homeicon/facebook.png" alt="facebook" style="margin-right: 5px;" height="30" width="30"></a></li> 
+              <li style="display: inline;"><a href="https://www.youtube.com/user/gpoprinter" target="_blank" title="Link to GPO's YouTube page"><img src="/images/homeicon/youtube.png" alt="YouTube" style="margin-right: 5px;" height="30" width="30"></a></li> 
+              <li style="display: inline;"><a href="https://twitter.com/usgpo" target="_blank" title="Link to GPO's Twitter page"><img src="/images/homeicon/twitter.png" alt="Twitter" style="margin-right: 5px;" height="30" width="30"></a></li> 
+              <li style="display: inline;"><a href="http://govbooktalk.gpo.gov/" target="_blank" title="Link to GPO's Book Talk Blog page"><img src="/images/homeicon/booktalkblog.png" alt="booktalks" style="margin-right: 5px;" height="30" width="30"></a></li> 
+              <li style="display: inline;"><a href="http://www.pinterest.com/usgpo/" target="_blank" title="Link to GPO's Pinterest"><img src="/images/homeicon/pinterest.png" alt="pinterest" style="margin-right: 5px;" height="30" width="30"></a></li> 
+              <li style="display: inline;"><a href="http://www.instagram.com/usgpo/" target="_blank" title="Link to GPO's Instagram"><img src="/images/homeicon/instagram.png" alt="instagram" style="margin-right: 5px;" height="30" width="30"></a></li> 
+              <li style="display: inline;"><a href="https://www.linkedin.com/company/u.s.-government-printing-office" target="_blank" title="Link to GPO's Linkedin"><img src="/images/homeicon/linkedin30px2.png" alt="linkedin30px2" style="margin-right: 5px;" height="30" width="30"></a></li> 
+              <li style="display: inline;"></li> 
+             </ul> 
+             <p>&nbsp;</p>
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <!-- Footer --> 
+      <div class="footer"> 
+       <div class="container"> 
+        <div class="row-fluid"> 
+         <div class="row-fluid"> 
+          <div class="span3"> 
+           <div class="moduletable-red"> 
+            <h3>Collection Tools</h3> 
+            <ul class="nav menu "> 
+             <li class="item-117"><a href="/collection-tools/claims" title="Submit a request within 60 days for any publication in your depository shipment that is missing, misprinted or damaged."> <span>Claims</span></a></li>
+             <li class="item-121"><a href="http://selections.fdlp.gov" title="Manage your item selection profile"> <span>DSIMS</span></a></li>
+             <li class="item-123"><a href="http://selections.fdlp.gov/itemlister" title="View both selected and non-selected item numbers for any Federal depository library."> <span>Item Lister</span></a></li>
+             <li class="item-124"><a href="/file-repository/collection-management/list-of-classes" title="Browse the list of Federal information products that are available for selection by depository libraries. "> <span>List of Classes</span></a></li>
+             <li class="item-125"><a href="/collection-tools/lostdocs" title="Report fugitive documents or other Federal information products that have not been cataloged by GPO."> <span>LostDocs</span></a></li>
+             <li class="item-126"><a href="/fdlp-exchange-page" title="Post or review lists of withdrawn or needed publications from Federal depository libraries."><span>FDLP eXchange</span></a></li>
+             <li class="item-127"><a href="http://purlreferrals.fdlp.gov" target="_blank" title="Find statistical information derived from your library¹s PURL traffic to measure usage of online resources."> <span>PURL Usage Reporting Tool</span></a></li>
+             <li class="item-128"><a href="/collection-tools/shipping-lists" title="View shipping lists included in depository distribution boxes."> <span>Shipping Lists</span></a></li>
+             <li class="item-636"><a href="/collection-tools/shipping-list-this-week"> <span>Shipping List This Week</span></a></li>
+             <li class="item-129"><a href="/file-repository/collection-management/union-list-of-item-selections" title="View all item number selections of all depositories at once; this is typically used to compare your depository's selection profile against others in your state or region."> <span>Union-L</span></a></li>
+             <li class="item-633"><a href="/webtech-notes"><span>WEBTech Notes</span></a></li>
+             <li class="item-3286"><a href="https://github.com/usgpo/cataloging-records"> <span>CGP on GitHub</span></a></li>
+             <li class="item-3292"><a href="https://libguides.fdlp.gov/" target="_blank"> <span>FDLP LibGuides</span></a></li>
+            </ul> 
+           </div> 
+          </div> 
+          <div class="span3"> 
+           <div class="moduletable-blue"> 
+            <h3>Requirements &amp; Guidance</h3> 
+            <ul class="nav menu "> 
+             <li class="item-131"><a href="/requirements-guidance/legal-requirements" title="Full-text of the Federal depository library obligations that govern FDLP member libraries."> <span>Legal Requirements</span></a></li>
+             <li class="item-132"><a href="/requirements-guidance/guidance" title="Contains advice on how to comply with the FDLP regulations."> <span>Guidance</span></a></li>
+             <li class="item-134"><a href="/requirements-guidance/collections-and-databases" title="Describes the various products and services that are uniquely available to Federal depository libraries."> <span>Collections &amp; Databases</span></a></li>
+             <li class="item-2129"><a href="/promotion"> <span>Promotion</span></a></li>
+             <li class="item-4684 parent dropdown"><a href="/requirements-guidance-2/guidance"> <span>Requirements &amp; Guidance</span></a></li>
+            </ul> 
+           </div> 
+           <div class="moduletable-gpoish"> 
+            <h3 class="-red2">GPO Websites</h3> 
+            <ul class="nav menu "> 
+             <li class="item-648"><a href="https://www.gpo.gov" target="_blank"> <span>U.S. Government Publishing Office</span></a></li>
+             <li class="item-649"><a href="http://www.fdsys.gov" target="_blank"> <span>Federal Digital System (FDsys)</span></a></li>
+             <li class="item-1971"><a href="https://govinfo.gov/"> <span>govinfo</span></a></li>
+             <li class="item-650"><a href="http://bookstore.gpo.gov/" target="_blank"> <span>U.S. Government Bookstore</span></a></li>
+             <li class="item-651"><a href="http://bensguide.gpo.gov/" target="_blank"> <span>Ben's Guide to U.S. Government</span></a></li>
+            </ul> 
+           </div> 
+          </div> 
+          <div class="span3"> 
+           <div class="moduletable-peri"> 
+            <h3>Preservation</h3> 
+            <ul class="nav menu "> 
+             <li class="item-3187"><a href="/preservation/preservation-at-gpo"> <span>Preservation at GPO</span></a></li>
+             <li class="item-3532"><a href="/preservation/trusted-digital-repository-iso-16363-2012-audit-and-certification"> <span>Trusted Digital Repository ISO 16363:2012 Audit and Certification</span></a></li>
+            </ul> 
+           </div> 
+           <div class="moduletable-green"> 
+            <h3>About the FDLP</h3> 
+            <ul class="nav menu "> 
+             <li class="item-138"><a href="/about-the-fdlp/supdocs" title="The Superintendent of Documents (SuDocs) is in charge of the dissemination of information at the U.S. Government Printing Office (GPO)."> <span>Superintendent of Documents</span></a></li>
+             <li class="item-139"><a href="/about-the-fdlp/federal-depository-libraries" title="Federal depository libraries are located throughout the United States and its territories. They provide local, no-fee access to Government information and professional assistance for Federal information products."> <span>Federal Depository Libraries</span></a></li>
+             <li class="item-140"><a href="/about-the-fdlp/depository-library-council" title="The Depository Library Council (DLC) serves as an advisory committee to the Public Printer of the United States and the Superintendent of Documents."> <span>Depository Library Council</span></a></li>
+             <li class="item-1012"><a href="/about-the-fdlp/fdlp-academy"> <span>FDLP Academy</span></a></li>
+             <li class="item-1013"><a href="/about-the-fdlp/events-and-conferences"> <span>Events and Conferences</span></a></li>
+             <li class="item-1014"><a href="/about-the-fdlp/fdlp-events-calendar"> <span>FDLP Events Calendar</span></a></li>
+             <li class="item-144"><a href="/about-the-fdlp/partnerships" title="Through agreements with Federal depository libraries and Federal agencies, both the American public and Federal depository libraries have enhanced access to a variety of Federal information products and services."> <span>Partnerships</span></a></li>
+             <li class="item-143 parent dropdown"><a href="/about-the-fdlp/projects" title="Outlines current and previous efforts to improve the products and services of the FDLP."> <span>Projects</span></a></li>
+             <li class="item-577"><a href="/file-repository"><span>File Repository</span></a></li>
+             <li class="item-137"><a href="/about-the-fdlp/mission-and-history" title="Learn about the FDLP¹s mission, vision, and core values."> <span>Mission &amp; History</span></a></li>
+            </ul> 
+           </div> 
+          </div> 
+          <div class="span3"> 
+           <div class="moduletable-gold"> 
+            <h3>Cataloging &amp; Classification</h3> 
+            <ul class="nav menu "> 
+             <li class="item-584"><a href="/cataloging-guidelines"> <span>Cataloging Guidelines</span></a></li>
+             <li class="item-3200"><a href="/classification-guidelines/introduction-to-the-classification-guidelines"> <span>Superintendent of Documents Classification Guidelines</span></a></li>
+             <li class="item-634"><a href="/catalogingandclassification/cataloging-articles"> <span>Cataloging and Indexing</span></a></li>
+             <li class="item-2971"><a href="/catalogingandclassification/regional-depositories-oclc-holding-symbols-to-gpo-cataloging"> <span>Regional Depositories’ OCLC Holding Symbols to GPO Cataloging</span></a></li>
+             <li class="item-631"><a href="http://catalog.gpo.gov/" target="_blank"> <span>Catalog of U.S. Government Publications</span></a></li>
+             <li class="item-3417"><a href="/catalogingandclassification/cataloging-record-distribution-program"> <span>Cataloging Record Distribution Program</span></a></li>
+             <li class="item-3288"><a href="/catalogingandclassification/sources-of-gpo-cataloging-records"> <span>Sources of GPO Cataloging Records</span></a></li>
+            </ul> 
+           </div> 
+           <div class="moduletable-gpoish"> 
+            <h3>FDLP Home</h3> 
+            <ul class="nav menu "> 
+             <li class="item-145"><a href="/news-and-events"><span>News &amp; Events</span></a></li>
+             <li class="item-147"><a href="/fdlp-basics" title="View an overview of the Federal Depository Library Program."> <span>FDLP Basics</span></a></li>
+             <li class="item-148"><a href="/govdocs-quickstart-guide" target="_blank" title="View a beginner's guide for getting started in the world of govdocs."> <span>New to GovDocs?</span></a></li>
+             <li class="item-149"><a href="/join-the-fdlp" title="Learn about how to become a Federal depository library."> <span>Join the FDLP</span></a></li>
+             <li class="item-380"><a href="/standards-and-best-practices"><span>Standards &amp; Best Practices</span></a></li>
+            </ul> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="navbar navbar-inverse"> 
+        <div class="navbar-inner"> 
+         <div class="container"> 
+          <div> 
+           <div class="custom"> 
+            <p class="pagination-centered">Federal Depository Library Program (FDLP) • 732 N Capitol Street, NW, Washington, DC 20401 | <a href="/privacy-policy">Privacy Policy</a></p>
+           </div> 
+          </div> 
+          <div class="pull-right"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div>
+    </div>
+   </div>
+   <script type="text/javascript">/*joomlatools job scheduler*/
+!function(){function e(e,t,n,o){try{o=new(this.XMLHttpRequest||ActiveXObject)("MSXML2.XMLHTTP.3.0"),o.open("POST",e,1),o.setRequestHeader("X-Requested-With","XMLHttpRequest"),o.setRequestHeader("Content-type","application/x-www-form-urlencoded"),o.onreadystatechange=function(){o.readyState>3&&t&&t(o.responseText,o)},o.send(n)}catch(c){}}function t(n){e(n,function(e,o){try{if(200==o.status){var c=JSON.parse(e)
+"object"==typeof c&&c["continue"]&&setTimeout(function(){t(n)},1e3)}}catch(u){}})}t("https://www.fdlp.gov/index.php?option=com_joomlatools&controller=scheduler")}()</script>  
+  </div>
+ </body>
+</html>

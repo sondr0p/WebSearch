@@ -1,0 +1,48 @@
+<!--?xml version="1.0" encoding="UTF-8" ?-->
+<!-- jsf:pagecode language="java" location="/src/pagecode/Index.java" -->
+<!-- /jsf:pagecode --><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head> 
+  <link rel="stylesheet" href="theme/Master.css" type="text/css"> 
+  <!--[if IE]>
+		<link rel="stylesheet" type="text/css" href="theme/ie.css" />
+	<![endif]--> 
+  <title>Mississippi Department of Agriculture and Commerce - Seeds Permitting Application</title> 
+  <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8"> 
+  <link rel="stylesheet" type="text/css" title="Style" href="theme/stylesheet.css">
+ </head>
+ <body>
+  <div id="containerGroup"> 
+   <div id="container">
+    <div id="header"> 
+     <img src="images/header_logo.png"> 
+     <div id="navMenu"></div> 
+    </div>
+    <form id="form1" name="form1" method="post" action="/MDACSeeds/index.faces" enctype="application/x-www-form-urlencoded" class="form"> 
+     <div id="pageContent">
+      <span id="form1:group1" class="mainPageLeftColumn"> <img src="images/seeds_main_image.jpg"></span>
+      <span id="form1:group2" class="mainPageRightColumn"> <br> <h1>Welcome to the Seed Registration Online System</h1> <img src="images/dotted_rule.gif"> <br><span class="mainPageRightText"> Welcome to the Mississippi Department of Agriculture and Commerce Bureau of Plant Industry Seed Registration Online System.<br><br> This registration system allows you to manage your seed permitting and inspection fee reporting in an easier and more cost efficient way. By taking advantage of this convenient online application, you may process your registrations, renewals and inspection fees online.<br><br> If you are a first time user, you must register as a new registering agent in order to begin registration. Once you have registered as a new registering agent and have validated an email address, you will be able to enter company information. After the information is entered, you will be able to perform registration and renewals and report inspection fees online. <br><br> Through this online application, you will also be able to pay online. Payments will be accepted by the following methods: Visa, Mastercard, American Express, Discover, e-check. <br><br></span> <br> <img src="images/dotted_rule.gif"> <br> <br>
+       <table id="form1:grid1" class="mainPageCenter">
+        <tbody> 
+         <tr>
+          <td><span id="form1:group3" class="panelGroup"><script type="text/javascript" src="/MDACSeeds/javax.faces.resource/oamSubmit.js.faces?ln=org.apache.myfaces"><!--
+
+//--></script><a href="#" onclick="return myfaces.oam.submitForm('form1','form1:btnRegister');" id="form1:btnRegister" type="submit" class="buttonClass">Register </a></span></td>
+          <td><span id="form1:group4" class="panelGroup"><a href="#" onclick="return myfaces.oam.submitForm('form1','form1:btnLogin');" id="form1:btnLogin" type="submit" class="buttonClass">Log In</a></span></td>
+         </tr> 
+        </tbody> 
+       </table></span> 
+     </div> 
+     <!-- end pageContent -->
+     <input type="hidden" name="form1_SUBMIT" value="1">
+     <input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="TJukJ6rh4rD1Cir8emdMeXm2cvNntMhB6WsyMt49eozknHzSEdvqZ3y4f7CcsjCT4VNLF6LG37uTemAk9fcVlYHYj7mNE0G70eitJd+WdjC6D7jU3Abf3/dvjYw=">
+    </form> 
+    <br class="clear"> 
+    <br class="clear"> 
+   </div> 
+   <!-- end container -->
+   <p class="footer">Copyright 2013, Mississippi Department of Agriculture and Commerce. All rights reserved.</p>
+  </div> 
+  <br> 
+ </body>
+</html>

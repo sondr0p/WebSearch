@@ -1,0 +1,609 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+	Get Active - healthfinder.gov
+</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+  <meta name="keywords" content="exercise, get active, importance of good health">
+  <meta name="description" content="Regular physical activity can help people stay healthy and live longer. Share this guide to help people learn about the benefits of physical activity.">
+  <link rel="canonical" href="https://healthfinder.gov:443/HealthTopics/Dispatch.aspx?q1=doctor-visits/screening-tests/talk-with-your-doctor-about-depression/HealthTopics/Category/health-conditions-and-diseases&amp;q2=diabetes&amp;q3=get-active">
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+  <meta name="verify-v1" content="SGDyDYxOiYbFQAhohrwKuaxwOiCVv2eZij6NzZ678Cg=">
+  <meta name="y_key" content="e1fae57e8f96398e">
+  <link href="/css/reset.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/styles.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/styles-esp.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/font-awesome.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/flexslider.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/jquery.tweet.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/colorbox/colorbox.css" rel="stylesheet" media="all">
+  <link href="/css/redmond/jquery-ui-1.8.20.custom.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/jquery.dataTables.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/jquery.dataTables_themeroller.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/quickguide.css" rel="stylesheet" media="all">
+  <link href="/css/myhealthfinder.css" rel="stylesheet" media="all">
+  <link href="/css/ecards.css" rel="stylesheet" media="all">
+  <link href="/css/quiz.css" rel="stylesheet" media="all">
+  <link href="/css/surveys.css" rel="stylesheet" media="screen">
+  <link href="/css/odphp-global-nav.css" rel="stylesheet" media="all"> 
+  <!--[if (gte IE 6)&(lte IE 8)]>
+        <script type="text/javascript" src="/js/selectivizr-min.js"></script>
+    <![endif]--> 
+  <!--[if IE 7]>
+        <link rel="stylesheet" type="text/css" media="all" href="/css/ie7.css" /><link rel="stylesheet" type="text/css" media="all" href="/css/font-awesome-ie7.css" />
+        <![endif]--> 
+  <!--[if IE 8]><link rel="stylesheet" type="text/css" media="all" href="/css/ie8.css" /><![endif]--> 
+  <link type="text/css" rel="stylesheet" href="/css/search-suggest.css">
+  <link type="text/css" rel="stylesheet" href="/css/print.css" media="print"> 
+ </head> 
+ <body id="body" class="english"> 
+  <!-- Google Tag Manager --> 
+  <noscript>
+   <iframe src="//www.googletagmanager.com/ns.html?id=GTM-5TG7CH&amp;NoJavascriptType=web&amp;NoJavascriptCID=627ec98a-419e-5568-944b-a1d68f9e3a69&amp;NoJavascriptURL=https%3a%2f%2fhealthfinder.gov%2fHealthTopics%2fCategory%2fdoctor-visits%2fscreening-tests%2ftalk-with-your-doctor-about-depression%2fHealthTopics%2fCategory%2fhealth-conditions-and-diseases%2fdiabetes%2fget-active&amp;NoJavascriptLang=en-US&amp;NoJavascriptReferrer=&amp;NoJavascriptTitle=" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript> 
+  <script>(function (w, d, s, l, i) {
+w[l] = w[l] || []; w[l].push({
+'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'AnalyticsLogicLayer', 'GTM-5TG7CH');</script> 
+  <!-- End Google Tag Manager --> 
+  <div id="HideIfWidget1"> 
+   <div class="global-nav"> 
+    <div class="global-nav-odphp">
+     <span>Office of Disease Prevention and Health Promotion</span>
+    </div> 
+    <ul> 
+     <li><a href="https://health.gov/" class="global-nav-healthgov">health.gov</a></li> 
+     <li><a href="https://healthfinder.gov/" class="global-nav-healthfinder global-nav-current">healthfinder.gov</a></li> 
+     <li><a href="https://healthypeople.gov/" class="global-nav-healthypeople">healthypeople.gov</a></li> 
+    </ul> 
+   </div> 
+   <img class="print-logo" src="/images/footer-hf-logo.png" alt="Department of Health and Human Services"> 
+  </div> 
+  <div id="page"> 
+   <div id="HideIfWidget2"> 
+    <a href="https://www.hhs.gov/" class="parent-banner">U.S. Department of Health and Human Services</a> 
+    <div id="header" class="clearfix" role="banner"> 
+     <div id="skip"> 
+      <a class="skipnav" href="#skipnav" tabindex="1">Skip to Content</a> 
+     </div> 
+     <div id="espanol">
+      <a href="/espanol">En español</a>
+     </div> 
+     <div id="mobile-menu-trigger" class="mobile-hide"> 
+      <h2>Menu</h2> 
+     </div> 
+     <div id="logo"> 
+      <a href="/"> <img src="/images/logo.png" alt="healthfinder.gov"> </a> 
+     </div> 
+     <div id="search-box" role="search"> 
+      <form action="/search" method="get"> 
+       <label for="searchText">Search healthfinder.gov:</label> 
+       <input id="searchText" aria-autocomplete="both" aria-haspopup="true" autocomplete="off" class="search_text" type="search" name="q"> 
+       <span class="query-suggestions-wrap"> <span id="query_suggestions" class="query-suggestions" aria-live="off"></span> </span> 
+       <span id="query_status" class="query-status" aria-live="polite"></span> 
+       <input id="searchButton" class="search_button" value="Go" type="submit"> 
+      </form> 
+     </div> 
+     <!-- /#search-box --> 
+     <div class="clear"></div> 
+    </div> 
+   </div> 
+   <div id="content" class="clearfix"> 
+    <div id="HideIfWidget3"> 
+     <div class="main_menu"> 
+      <div id="engMenu1_mainMenu" role="navigation">
+       <ul class="menu menu-hide"> 
+        <li data-path="/healthtopics/topic.aspx"> <a href="/Default.aspx">Home</a> </li> 
+        <li data-path="/healthtopics/topic.aspx" class="active"> <a href="/HealthTopics/">Health Topics A to Z</a> </li> 
+        <li data-path="/healthtopics/topic.aspx"> <a href="/myhealthfinder/">myhealthfinder</a> </li> 
+        <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/">Free Web Content</a> 
+         <ul> 
+          <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/HealthTopics/">Health and Wellness Topics</a> </li> 
+          <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/PreventiveServices/">myhealthfinder: Preventive Services Recommendations</a> </li> 
+          <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/Videos/">Videos</a> </li> 
+          <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/HealthWidgets/">Health Widgets and Badges</a> </li> 
+          <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/Developer/">APIs for Developers</a> </li> 
+         </ul> </li> 
+        <li data-path="/healthtopics/topic.aspx"> <a href="/FindServices/">Find Services Near&nbsp;You</a> </li> 
+        <li data-path="/healthtopics/topic.aspx"> <a href="/NHO/">National Health Observances</a> </li> 
+        <li class="mobile-hide espanol" data-path="/healthtopics/topic.aspx"> <a href="/espanol">En español</a> </li> 
+       </ul>
+      </div> 
+      <div class="connect clearfix"> 
+       <p class="connect-text">Find us on:</p> 
+       <a class="facebook connect-button" href="https://www.facebook.com/healthfinder" title="Facebook"> <img src="/images/icon-fb.png" alt="Facebook icon"></a> 
+       <a class="twitter connect-button" href="https://www.twitter.com/healthfinder" title="Twitter"> <img src="/images/icon-twitter.png" alt="Twitter icon"></a> 
+       <!-- <a class="rss connect-button" href="/News/rss.asp" title="RSS">
+        <img src="/images/icon-rss.png" alt="RSS icon" /></a> --> 
+       <div class="email-updates-container"> 
+        <a id="email-updates" href="https://public.govdelivery.com/accounts/USOPHSODPHPHF/subscriber/new?topic_id=USOPHSODPHPHF_1" target="_blank">Get Email Updates</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="main_content" role="main"> 
+     <div id="HideIfWidget4"> 
+      <div id="breadcrumb"> 
+       <span id="engBreadcrumbs1_SiteMapPath1"><span><a href="/Default.aspx">Home</a></span><span> &gt; </span><span><a href="/HealthTopics/Default.aspx">Health Topics A to Z</a></span><span> &gt; </span><span><a href="/HealthTopics/Category/health-conditions-and-diseases">Health Conditions and Diseases</a></span><span> &gt; </span><span><a href="/HealthTopics/Category/health-conditions-and-diseases/diabetes">Diabetes</a></span><span> &gt; </span><span>Get Active</span></span> 
+      </div> 
+      <div id="engBreadcrumbs1_addThisPanel"> 
+       <div id="addThisCode" class="clearfix"> 
+        <!-- AddToAny BEGIN --> 
+        <div class="a2a_kit a2a_kit_size_32 a2a_default_style"> 
+         <a class="a2a_dd" href="https://www.addtoany.com/share"></a> 
+         <a class="a2a_button_facebook"></a> 
+         <a class="a2a_button_twitter"></a> 
+        </div> 
+        <script>
+      var a2a_config = a2a_config || {};
+      a2a_config.onclick = 1;
+      </script> 
+        <script async src="https://static.addtoany.com/menu/page.js"></script> 
+        <!-- AddToAny END --> 
+       </div> 
+      </div> 
+      <span id="skipnav"></span> 
+     </div> 
+     <form method="post" action="../../../../../../../../Topic.aspx?id=22&amp;type=topic&amp;noredirect=1&amp;category=8" id="MainForm"> 
+      <div class="aspNetHidden"> 
+       <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzIwMTkxNzIzD2QWAmYPZBYEAgEPZBYGAgIPFgIeBFRleHQFUjxtZXRhIG5hbWU9ImtleXdvcmRzIiBjb250ZW50PSJleGVyY2lzZSwgZ2V0IGFjdGl2ZSwgaW1wb3J0YW5jZSBvZiBnb29kIGhlYWx0aCIgLz5kAgMPFgIfAAW8ATxtZXRhIG5hbWU9ImRlc2NyaXB0aW9uIiBjb250ZW50PSJSZWd1bGFyIHBoeXNpY2FsIGFjdGl2aXR5IGNhbiBoZWxwIHBlb3BsZSBzdGF5IGhlYWx0aHkgYW5kIGxpdmUgbG9uZ2VyLiBTaGFyZSB0aGlzIGd1aWRlIHRvIGhlbHAgcGVvcGxlIGxlYXJuIGFib3V0IHRoZSBiZW5lZml0cyBvZiBwaHlzaWNhbCBhY3Rpdml0eS4iIC8+ZAIGDxYCHwAF7gE8bGluayByZWw9J2Nhbm9uaWNhbCcgaHJlZj0naHR0cHM6Ly9oZWFsdGhmaW5kZXIuZ292OjQ0My9IZWFsdGhUb3BpY3MvRGlzcGF0Y2guYXNweD9xMT1kb2N0b3ItdmlzaXRzL3NjcmVlbmluZy10ZXN0cy90YWxrLXdpdGgteW91ci1kb2N0b3ItYWJvdXQtZGVwcmVzc2lvbi9IZWFsdGhUb3BpY3MvQ2F0ZWdvcnkvaGVhbHRoLWNvbmRpdGlvbnMtYW5kLWRpc2Vhc2VzJnEyPWRpYWJldGVzJnEzPWdldC1hY3RpdmUnIC8+ZAIDDxYCHgVjbGFzcwUHZW5nbGlzaBYKAgEPZBYCAgUPDxYCHgdWaXNpYmxlaGRkAgIPZBYEAgEPZBYCZg8WAh4JaW5uZXJodG1sBecLPHVsIGNsYXNzPSJtZW51IG1lbnUtaGlkZSI+DQogIDxsaSBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgPGEgaHJlZj0iL0RlZmF1bHQuYXNweCI+SG9tZTwvYT4NCiAgPC9saT4NCiAgPGxpIGRhdGEtcGF0aD0iL2hlYWx0aHRvcGljcy90b3BpYy5hc3B4IiBjbGFzcz0iYWN0aXZlIj4NCiAgICA8YSBocmVmPSIvSGVhbHRoVG9waWNzLyI+SGVhbHRoIFRvcGljcyBBIHRvIFo8L2E+DQogIDwvbGk+DQogIDxsaSBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgPGEgaHJlZj0iL215aGVhbHRoZmluZGVyLyI+bXloZWFsdGhmaW5kZXI8L2E+DQogIDwvbGk+DQogIDxsaSBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgPGEgaHJlZj0iL0ZyZWVDb250ZW50LyI+RnJlZSBXZWIgQ29udGVudDwvYT4NCiAgICA8dWw+DQogICAgICA8bGkgZGF0YS1wYXRoPSIvaGVhbHRodG9waWNzL3RvcGljLmFzcHgiPg0KICAgICAgICA8YSBocmVmPSIvRnJlZUNvbnRlbnQvSGVhbHRoVG9waWNzLyI+SGVhbHRoIGFuZCBXZWxsbmVzcyBUb3BpY3M8L2E+DQogICAgICA8L2xpPg0KICAgICAgPGxpIGRhdGEtcGF0aD0iL2hlYWx0aHRvcGljcy90b3BpYy5hc3B4Ij4NCiAgICAgICAgPGEgaHJlZj0iL0ZyZWVDb250ZW50L1ByZXZlbnRpdmVTZXJ2aWNlcy8iPm15aGVhbHRoZmluZGVyOiBQcmV2ZW50aXZlIFNlcnZpY2VzIFJlY29tbWVuZGF0aW9uczwvYT4NCiAgICAgIDwvbGk+DQogICAgICA8bGkgZGF0YS1wYXRoPSIvaGVhbHRodG9waWNzL3RvcGljLmFzcHgiPg0KICAgICAgICA8YSBocmVmPSIvRnJlZUNvbnRlbnQvVmlkZW9zLyI+VmlkZW9zPC9hPg0KICAgICAgPC9saT4NCiAgICAgIDxsaSBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgICAgIDxhIGhyZWY9Ii9GcmVlQ29udGVudC9IZWFsdGhXaWRnZXRzLyI+SGVhbHRoIFdpZGdldHMgYW5kIEJhZGdlczwvYT4NCiAgICAgIDwvbGk+DQogICAgICA8bGkgZGF0YS1wYXRoPSIvaGVhbHRodG9waWNzL3RvcGljLmFzcHgiPg0KICAgICAgICA8YSBocmVmPSIvRnJlZUNvbnRlbnQvRGV2ZWxvcGVyLyI+QVBJcyBmb3IgRGV2ZWxvcGVyczwvYT4NCiAgICAgIDwvbGk+DQogICAgPC91bD4NCiAgPC9saT4NCiAgPGxpIGRhdGEtcGF0aD0iL2hlYWx0aHRvcGljcy90b3BpYy5hc3B4Ij4NCiAgICA8YSBocmVmPSIvRmluZFNlcnZpY2VzLyI+RmluZCBTZXJ2aWNlcyBOZWFywqBZb3U8L2E+DQogIDwvbGk+DQogIDxsaSBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgPGEgaHJlZj0iL05ITy8iPk5hdGlvbmFsIEhlYWx0aCBPYnNlcnZhbmNlczwvYT4NCiAgPC9saT4NCiAgPGxpIGNsYXNzPSJtb2JpbGUtaGlkZSBlc3Bhbm9sIiBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgPGEgaHJlZj0iL2VzcGFub2wiPkVuIGVzcGHDsW9sPC9hPg0KICA8L2xpPg0KPC91bD5kAgMPDxYCHwJoZGQCAw9kFgICAw8PFgIfAmhkZAIFD2QWAmYPZBYOAgEPZBYCAgEPDxYEHgtOYXZpZ2F0ZVVybAVSL2VzcGFub2wvdGVtYXMvQ2F0ZWdvcnkvZW5mZXJtZWRhZGVzLXktcHJvYmxlbWFzLWRlLXNhbHVkL2RpYWJldGVzL21hbnRlbnRlLWFjdGl2bx8CZ2RkAgMPFgIfAAUKR2V0IEFjdGl2ZWQCBw8PFgIeCEltYWdlVXJsBSkvSGVhbHRoVG9waWNzL2dsbWVkaWEvaWNvbnMvZ2V0YWN0aXZlLmpwZxYCHgNhbHRlZAIJD2QWAmYPFgIeC18hSXRlbUNvdW50AgIWBGYPZBYEZg8VAQpUaGUgQmFzaWNzZAIBDxYCHwcCAxYGZg9kFgJmDxUDCnRoZS1iYXNpY3MBMQhPdmVydmlld2QCAQ9kFgJmDxUDCnRoZS1iYXNpY3MBMg9IZWFsdGggQmVuZWZpdHNkAgIPZBYCZg8VAwp0aGUtYmFzaWNzATMRSGVhbHRoIENvbmRpdGlvbnNkAgEPZBYEZg8VAQxUYWtlIEFjdGlvbiFkAgEPFgIfBwIFFgpmD2QWAmYPFQMLdGFrZS1hY3Rpb24BMQtHZXQgU3RhcnRlZGQCAQ9kFgJmDxUDC3Rha2UtYWN0aW9uATINQnVpbGQgTXVzY2xlc2QCAg9kFgJmDxUDC3Rha2UtYWN0aW9uATMOVHJhY2sgUHJvZ3Jlc3NkAgMPZBYCZg8VAwt0YWtlLWFjdGlvbgE0EUFkZCBNb3JlIEFjdGl2aXR5ZAIED2QWAmYPFQMLdGFrZS1hY3Rpb24BNRJDaGFsbGVuZ2UgWW91cnNlbGZkAgsPFgIfBwICFgRmD2QWBGYPFQIKdGhlLWJhc2ljcwpUaGUgQmFzaWNzZAIBDxYCHwcCAxYGZg9kFgRmDxUEAjcwClRoZSBCYXNpY3MIT3ZlcnZpZXevDDxwPlJlZ3VsYXIgcGh5c2ljYWwgYWN0aXZpdHkgaXMgZ29vZCBmb3IgZXZlcnlvbmUmIzM5O3MgaGVhbHRoISBQaHlzaWNhbCBhY3Rpdml0eSBpcyBhbnl0aGluZyB0aGF0IGdldHMgeW91ciBib2R5IG1vdmluZy4gQWltIGZvciAyIGhvdXJzIGFuZCAzMCBtaW51dGVzIG9mIG1vZGVyYXRlIGFjdGl2aXR5IGVhY2ggd2Vlay48L3A+PHA+SWYgeW91IGhhdmVuJiMzOTt0IGJlZW4gYWN0aXZlIGJlZm9yZSwgc3RhcnQgYXQgYSBjb21mb3J0YWJsZSBsZXZlbC4gT25jZSB5b3UgZ2V0IHRoZSBoYW5nIG9mIGl0LCBhZGQgYSBsaXR0bGUgbW9yZSBhY3Rpdml0eSBlYWNoIHRpbWUuIFRoZW4gdHJ5IGdldHRpbmcgYWN0aXZlIG1vcmUgb2Z0ZW4uPC9wPjxoMz5XaGF0IGtpbmRzIG9mIGFjdGl2aXR5IHNob3VsZCBJIGRvPzwvaDM+PHA+VG8gZ2V0IGFsbCB0aGUgaGVhbHRoIGJlbmVmaXRzIG9mIHBoeXNpY2FsIGFjdGl2aXR5LCBkbyBhIGNvbWJpbmF0aW9uIG9mIGFlcm9iaWMgYW5kIG11c2NsZS1zdHJlbmd0aGVuaW5nIGFjdGl2aXRpZXMuPC9wPjx1bD48bGk+PHN0cm9uZz5BZXJvYmljPC9zdHJvbmc+ICgmbGRxdW87YWlyLU9ILWJpayZyZHF1bzspIGFjdGl2aXRpZXMgbWFrZSB5b3UgYnJlYXRoZSBoYXJkZXIgYW5kIGNhdXNlIHlvdXIgaGVhcnQgdG8gYmVhdCBmYXN0ZXIuIFdhbGtpbmcgZmFzdCBpcyBhbiBleGFtcGxlIG9mIGFlcm9iaWMgYWN0aXZpdHkuPC9saT48bGk+PHN0cm9uZz5NdXNjbGUtc3RyZW5ndGhlbmluZzwvc3Ryb25nPiBhY3Rpdml0aWVzIG1ha2UgeW91ciBtdXNjbGVzIHN0cm9uZ2VyLiBNdXNjbGUtc3RyZW5ndGhlbmluZyBhY3Rpdml0aWVzIGluY2x1ZGUgbGlmdGluZyB3ZWlnaHRzLCB1c2luZyByZXNpc3RhbmNlIGJhbmRzLCBhbmQgZG9pbmcgcHVzaC11cHMuPC9saT48L3VsPjxwPlVzZSB0aGVzZSByZXNvdXJjZXMgdG8gbGVhcm4gbW9yZSBhYm91dCBwaHlzaWNhbCBhY3Rpdml0eSBmb3I6PC9wPjx1bD48bGk+PGEgaHJlZj0iaHR0cHM6Ly9oZWFsdGguZ292L1BBR3VpZGVsaW5lcy9wZGYvYWR1bHRndWlkZS5wZGYiIHRhcmdldD0iX2JsYW5rIj5BZHVsdHMgW1BERiAtIDEuMSBNQl08L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cDovL2dvNGxpZmUubmlhLm5paC5nb3YvZ2V0LXN0YXJ0ZWQiIHRhcmdldD0iX2JsYW5rIj5PbGRlciBhZHVsdHM8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cDovL3d3dy5jZGMuZ292L3BoeXNpY2FsYWN0aXZpdHkvZXZlcnlvbmUvZ3VpZGVsaW5lcy9jaGlsZHJlbi5odG1sIiB0YXJnZXQ9Il9ibGFuayI+Q2hpbGRyZW48L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cubmhsYmkubmloLmdvdi9oZWFsdGgvZWR1Y2F0aW9uYWwvd2VjYW4vZ2V0LWFjdGl2ZS9mYW1pbHktYWN0aXZlLXRpbWUuaHRtIiB0YXJnZXQ9Il9ibGFuayI+RmFtaWxpZXM8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cuY2RjLmdvdi9waHlzaWNhbGFjdGl2aXR5L2Jhc2ljcy9wcmVnbmFuY3kvaW5kZXguaHRtIiB0YXJnZXQ9Il9ibGFuayI+UHJlZ25hbnQgd29tZW4gb3Igd29tZW4gd2hvIGp1c3QgaGFkIGEgYmFieTwvYT48L2xpPjwvdWw+ZAIBD2QWBgIBDw8WAh8CZ2RkAgMPDxYEHwAFD0hlYWx0aCBCZW5lZml0cx8CZxYCHgRocmVmBQ0jdGhlLWJhc2ljc18yZAIJDw8WAh8ABQ8xIG9mIDggc2VjdGlvbnNkZAIBD2QWBGYPFQQDNDM3ClRoZSBCYXNpY3MPSGVhbHRoIEJlbmVmaXRznwc8aDM+V2hhdCBhcmUgdGhlIGJlbmVmaXRzIG9mIHBoeXNpY2FsIGFjdGl2aXR5PzwvaDM+PHA+UGh5c2ljYWwgYWN0aXZpdHkgaW5jcmVhc2VzIHlvdXIgY2hhbmNlcyBvZiBsaXZpbmcgbG9uZ2VyLiBJdCBjYW4gYWxzbyBoZWxwOjwvcD48dWw+PGxpPkNvbnRyb2wgeW91ciBibG9vZCBwcmVzc3VyZSwgYmxvb2Qgc3VnYXIsIGFuZCB3ZWlnaHQ8L2xpPjxsaT5Mb3dlciB5b3VyICZsZHF1bztiYWQmcmRxdW87IGNob2xlc3Rlcm9sIGFuZCByYWlzZSB5b3VyICZsZHF1bztnb29kJnJkcXVvOyBjaG9sZXN0ZXJvbDwvbGk+PGxpPlByZXZlbnQgaGVhcnQgZGlzZWFzZSwgY29sb3JlY3RhbCBjYW5jZXIsIGJyZWFzdCBjYW5jZXIsIGFuZCB0eXBlIDIgZGlhYmV0ZXM8L2xpPjwvdWw+PHA+QW5kIHRoYXQmcnNxdW87cyBub3QgYWxsLiBCZWluZyBtb3JlIGFjdGl2ZSBjYW46PC9wPjx1bD48bGk+QmUgZnVuPC9saT48bGk+SGVscCB5b3Ugc2xlZXAgYmV0dGVyPC9saT48bGk+TWFrZSB5b3VyIGJvbmVzLCBtdXNjbGVzLCBhbmQgam9pbnRzIHN0cm9uZ2VyPC9saT48bGk+TG93ZXIgeW91ciBjaGFuY2VzIG9mIGJlY29taW5nIGRlcHJlc3NlZDwvbGk+PGxpPlJlZHVjZSBmYWxscyBhbmQgYXJ0aHJpdGlzIHBhaW48L2xpPjxsaT5IZWxwIHlvdSBmZWVsIGJldHRlciBhYm91dCB5b3Vyc2VsZjwvbGk+PC91bD48aDM+SXMgcGh5c2ljYWwgYWN0aXZpdHkgZm9yIGV2ZXJ5b25lPzwvaDM+PHA+WWVzISBQaHlzaWNhbCBhY3Rpdml0eSBpcyBnb29kIGZvciBwZW9wbGUgb2YgYWxsIGFnZXMgYW5kIGJvZHkgdHlwZXMuIEV2ZW4gaWYgeW91IGZlZWwgb3V0IG9mIHNoYXBlIG9yIHlvdSBoYXZlbiZyc3F1bzt0IGJlZW4gYWN0aXZlIGluIGEgbG9uZyB0aW1lLCB5b3UgY2FuIGZpbmQgYWN0aXZpdGllcyB0aGF0IHdpbGwgd29yayBmb3IgeW91LjwvcD5kAgEPZBYKAgEPDxYCHwJnZGQCAw8PFgQfAAURSGVhbHRoIENvbmRpdGlvbnMfAmcWAh8IBQ0jdGhlLWJhc2ljc18zZAIFDw8WAh8CZ2RkAgcPDxYEHwAFCE92ZXJ2aWV3HwJnFgIfCAUNI3RoZS1iYXNpY3NfMWQCCQ8PFgIfAAUPMiBvZiA4IHNlY3Rpb25zZGQCAg9kFgRmDxUEAzI2NQpUaGUgQmFzaWNzEUhlYWx0aCBDb25kaXRpb25zuQo8aDM+V2hhdCBpZiBJJnJzcXVvO20gb3ZlcndlaWdodD88L2gzPjxwPklmIHlvdSBhcmUgb3ZlcndlaWdodCBvciBvYmVzZSwgZ2V0dGluZyBhY3RpdmUgY2FuIGhlbHAgeW91IGxvd2VyIHlvdXIgcmlzayBvZjo8L3A+PHVsPjxsaT5UeXBlIDIgZGlhYmV0ZXM8L2xpPjxsaT5IaWdoIGJsb29kIHByZXNzdXJlPC9saT48bGk+SGVhcnQgZGlzZWFzZTwvbGk+PGxpPlN0cm9rZTwvbGk+PGxpPlNvbWUgdHlwZXMgb2YgY2FuY2VyPC9saT48L3VsPjxwPjxhIGhyZWY9Imh0dHA6Ly93aW4ubmlkZGsubmloLmdvdi9wdWJsaWNhdGlvbnMvYWN0aXZlLmh0bSIgdGFyZ2V0PSJfYmxhbmsiPkZpbmQgb3V0IG1vcmUgYWJvdXQgaG93IHlvdSBjYW4gYmUgYWN0aXZlIGF0IGFueSBzaXplPC9hPi48L3A+PGgzPldoYXQgaWYgSSBoYXZlIGEgaGVhbHRoIGNvbmRpdGlvbj88L2gzPjxwPklmIHlvdSBoYXZlIGEgaGVhbHRoIGNvbmRpdGlvbiZuYnNwO2xpa2UgdHlwZSAyIGRpYWJldGVzIG9yIGhpZ2ggYmxvb2QgcHJlc3N1cmUsIHBoeXNpY2FsIGFjdGl2aXR5IGNhbiBoZWxwIHlvdSBtYW5hZ2UgaXQuJm5ic3A7QXNrIHlvdXImbmJzcDtkb2N0b3Igd2hhdCB0eXBlcyBvZiBhY3Rpdml0eSBhcmUgYmVzdCBmb3IgeW91LjwvcD48dWw+PGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cubmlkZGsubmloLmdvdi9oZWFsdGgtaW5mb3JtYXRpb24vaGVhbHRoLXRvcGljcy9EaWFiZXRlcy9waHlzaWNhbC1hY3Rpdml0eS1kaWFiZXRlcy9QYWdlcy9waHlzaWNhbC1hY3Rpdml0eS1kaWFiZXRlcy5hc3B4IiB0YXJnZXQ9Il9ibGFuayI+R2V0IHRpcHMgb24gcGh5c2ljYWwgYWN0aXZpdHkgYW5kIGRpYWJldGVzPC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cubmhsYmkubmloLmdvdi9oZWFsdGgvaGVhbHRoLXRvcGljcy90b3BpY3MvaGJwL3RyZWF0bWVudCNQaHlzaWNhbEFjdGl2aXR5IiB0YXJnZXQ9Il9ibGFuayI+TGVhcm4gaG93IHBoeXNpY2FsIGFjdGl2aXR5IGhlbHBzIGhpZ2ggYmxvb2QgcHJlc3N1cmU8L2E+PC9saT48L3VsPjxoMz5XaGF0IGlmIEkgaGF2ZSBhIGRpc2FiaWxpdHk/PC9oMz48cD5JZiB5b3UgaGF2ZSBhIGRpc2FiaWxpdHksIHlvdXIgZG9jdG9yIGNhbiBoZWxwIHlvdSBjaG9vc2UgdGhlIGJlc3QgYWN0aXZpdGllcyBmb3IgeW91LiBZb3UgY2FuIGFsc28gPGEgaHJlZj0iL0hlYWx0aFRvcGljcy9DYXRlZ29yeS9oZWFsdGgtY29uZGl0aW9ucy1hbmQtZGlzZWFzZXMvb2Jlc2l0eS9zdGF5LWFjdGl2ZS13aXRoLWEtZGlzYWJpbGl0eS1xdWljay10aXBzIj51c2UgdGhlc2UgdGlwcyB0byBzdGF5IGFjdGl2ZSB3aXRoIGEgZGlzYWJpbGl0eTwvYT4uPC9wPmQCAQ9kFgoCAQ8PFgIfAmdkZAIDDw8WBB8ABQtHZXQgU3RhcnRlZB8CZxYCHwgFDiN0YWtlLWFjdGlvbl8xZAIFDw8WAh8CZ2RkAgcPDxYEHwAFD0hlYWx0aCBCZW5lZml0cx8CZxYCHwgFDSN0aGUtYmFzaWNzXzJkAgkPDxYCHwAFDzMgb2YgOCBzZWN0aW9uc2RkAgEPZBYEZg8VAgt0YWtlLWFjdGlvbgxUYWtlIEFjdGlvbiFkAgEPFgIfBwIFFgpmD2QWBGYPFQQDMjU5C1Rha2UgQWN0aW9uC0dldCBTdGFydGVktg08aDM+U3RhcnQgc2xvd2x5LjwvaDM+PHA+SWYgeW91IGhhdmVuJiMzOTt0IGJlZW4gYWN0aXZlIGJlZm9yZSwgc3RhcnQgb3V0IHNsb3dseSBhbmQgYWRkIG5ldyBwaHlzaWNhbCBhY3Rpdml0aWVzIGxpdHRsZSBieSBsaXR0bGUuIEFmdGVyIGEgZmV3IHdlZWtzIG9yIG1vbnRocywgZG8gdGhlbSBsb25nZXIgYW5kIG1vcmUgb2Z0ZW4uIElmIHlvdSBhcmVuJnJzcXVvO3Qgc3VyZSB3aGVyZSB0byBzdGFydCwgPGEgaHJlZj0iaHR0cDovL3d3dy5jZGMuZ292L3BoeXNpY2FsYWN0aXZpdHkvZG93bmxvYWRzL3BhX2V4YW1wbGVzLnBkZiIgdGFyZ2V0PSJfYmxhbmsiPmNoZWNrIG91dCB0aGVzZSBleGFtcGxlcyBvZiBwaHlzaWNhbCBhY3Rpdml0eSBwbGFucyBbUERGJm5ic3A7LSZuYnNwOzc4Jm5ic3A7S0JdPC9hPi48L3A+PHA+Rm9yIGhlbHAgZ2V0dGluZyBtb3RpdmF0ZWQsIDxhIGhyZWY9Imh0dHBzOi8vd3d3LnN1cGVydHJhY2tlci51c2RhLmdvdi9QYWxhUGx1cy5hc3B4IiB0YXJnZXQ9Il9ibGFuayI+c2lnbiB1cCBmb3IgdGhlIFByZXNpZGVudGlhbCBBY3RpdmUgTGlmZXN0eWxlIEF3YXJkIChQQUxBKykgY2hhbGxlbmdlPC9hPi48L3A+PGgzPkNob29zZSBhY3Rpdml0aWVzIHRoYXQgeW91IGVuam95LjwvaDM+PHA+VGVhbSB1cCB3aXRoIGEgZnJpZW5kIG9yIGpvaW4gYSBmaXRuZXNzIGNsYXNzLiBBc2sgeW91ciBmYW1pbHkgYW5kIGZyaWVuZHMgdG8gYmUgYWN0aXZlIHdpdGggeW91LiBQbGF5IGdhbWVzIGxpa2UgdGVubmlzIG9yIGJhc2tldGJhbGwsIG9yIHRha2UgYSBjbGFzcyBpbiBkYW5jZSBvciBtYXJ0aWFsIGFydHMuPC9wPjxwPkV2ZXJ5ZGF5IGFjdGl2aXRpZXMgY2FuIGFkZCB1cCB0byBhbiBhY3RpdmUgbGlmZXN0eWxlLiBZb3UgY2FuOjwvcD48dWw+PGxpPkdvIGZvciBhIGJyaXNrIHdhbGsgYXJvdW5kIHRoZSBuZWlnaGJvcmhvb2Q8L2xpPjxsaT5SaWRlIGEgYmljeWNsZSB0byB3b3JrIG9yIGp1c3QgZm9yIGZ1bjwvbGk+PGxpPlBsYXkgb3V0ZG9vciBnYW1lcyB3aXRoIHlvdXIgY2hpbGRyZW48L2xpPjxsaT48YSBocmVmPSJodHRwOi8vd3d3Lm5pZGRrLm5paC5nb3YvaGVhbHRoLWluZm9ybWF0aW9uL2hlYWx0aC10b3BpY3Mvd2VpZ2h0LWNvbnRyb2wvdGlwcy1oZWxwLWdldC1hY3RpdmUvUGFnZXMvdGlwcy1oZWxwLXlvdS1nZXQtYWN0aXZlLmFzcHgiIHRhcmdldD0iX2JsYW5rIj5Vc2UgdGhlc2UgdGlwcyBvbiBnZXR0aW5nIGFjdGl2ZTwvYT48L2xpPjwvdWw+PGgzPkhhdmUgZnVuIHdpdGggeW91ciBmYW1pbHkuPC9oMz48cD5JZiB5b3UgaGF2ZSBjaGlsZHJlbiwgeW91IGNhbiBiZSBhIHJvbGUgbW9kZWwgZm9yIG1ha2luZyBoZWFsdGh5IGNob2ljZXMuIEVuY291cmFnZSB5b3VyIHdob2xlIGZhbWlseSB0byBnZXQgYWN0aXZlIG91dHNpZGUgJm5kYXNoOyBnbyBmb3IgYSBoaWtlIG9yIG9yZ2FuaXplIGEgZmFtaWx5IHNvY2NlciBnYW1lLjwvcD48cD5JZiBzb21lb25lIHlvdSBrbm93IGhhcyB0cm91YmxlIG1ha2luZyB0aW1lIGZvciBwaHlzaWNhbCBhY3Rpdml0eSwmbmJzcDs8YSBocmVmPSIvSGVhbHRoVG9waWNzL0NhdGVnb3J5L2hlYWx0aC1jb25kaXRpb25zLWFuZC1kaXNlYXNlcy9kaWFiZXRlcy9oZWxwLWEtbG92ZWQtb25lLWdldC1tb3JlLWFjdGl2ZS1xdWljay10aXBzIj51c2UgdGhlc2UgdGlwcyB0byBoZWxwIHlvdXIgbG92ZWQgb25lIGdldCBtb3JlIGFjdGl2ZTwvYT4uPC9wPmQCAQ9kFgoCAQ8PFgIfAmdkZAIDDw8WBB8ABQ1CdWlsZCBNdXNjbGVzHwJnFgIfCAUOI3Rha2UtYWN0aW9uXzJkAgUPDxYCHwJnZGQCBw8PFgQfAAURSGVhbHRoIENvbmRpdGlvbnMfAmcWAh8IBQ0jdGhlLWJhc2ljc18zZAIJDw8WAh8ABQ80IG9mIDggc2VjdGlvbnNkZAIBD2QWBGYPFQQDMjYzC1Rha2UgQWN0aW9uDUJ1aWxkIE11c2NsZXOJBjxoMz5TdHJlbmd0aGVuIHlvdXIgbXVzY2xlcy48L2gzPjxwPlRyeSBzb21lIG9mIHRoZXNlIGFjdGl2aXRpZXMgYSBmZXcgZGF5cyBhIHdlZWs6PC9wPjx1bD48bGk+Q3J1bmNoZXMgKHNpdC11cHMpPC9saT48bGk+SGVhdnkgZ2FyZGVuaW5nLCBsaWtlJm5ic3A7ZGlnZ2luZyBvciBzaG92ZWxpbmc8L2xpPjxsaT5Eb2luZyBwdXNoLXVwcyBvbiB0aGUgZmxvb3Igb3IgYWdhaW5zdCB0aGUgd2FsbDwvbGk+PGxpPkxpZnRpbmcgc21hbGwgd2VpZ2h0cyAmbmRhc2g7Jm5ic3A7eW91IGNhbiBldmVuIHVzZSBib3R0bGVkIHdhdGVyIG9yIGNhbnMgb2YgZm9vZCBhcyB3ZWlnaHRzPC9saT48L3VsPjxwPjxhIGhyZWY9Imh0dHA6Ly93d3cuY2RjLmdvdi9waHlzaWNhbGFjdGl2aXR5L2V2ZXJ5b25lL3ZpZGVvcy9pbmRleC5odG1sIiB0YXJnZXQ9Il9ibGFuayI+V2F0Y2ggdGhlc2UgdmlkZW9zIGZvciBtdXNjbGUgc3RyZW5ndGhlbmluZyBleGVyY2lzZXM8L2E+IHRvIGRvIGF0IGhvbWUgb3IgYXQgdGhlIGd5bS48L3A+PHA+SWYgeW91IGRvIG11c2NsZS1zdHJlbmd0aGVuaW5nIGFjdGl2aXRpZXMgd2l0aCB3ZWlnaHRzLCZuYnNwOzxhIGhyZWY9Imh0dHA6Ly93d3cubWF5b2NsaW5pYy5vcmcvaGVhbHRoeS1saWZlc3R5bGUvZml0bmVzcy9pbi1kZXB0aC93ZWlnaHQtdHJhaW5pbmcvYXJ0LTIwMDQ1ODQyP3A9MSIgdGFyZ2V0PSJfYmxhbmsiPmNoZWNrIG91dCB0aGUgZG8mcnNxdW87cyBhbmQgZG9uJnJzcXVvO3RzIG9mIHRyYWluaW5nIHdpdGggd2VpZ2h0czwvYT4uPC9wPmQCAQ9kFgoCAQ8PFgIfAmdkZAIDDw8WBB8ABQ5UcmFjayBQcm9ncmVzcx8CZxYCHwgFDiN0YWtlLWFjdGlvbl8zZAIFDw8WAh8CZ2RkAgcPDxYEHwAFC0dldCBTdGFydGVkHwJnFgIfCAUOI3Rha2UtYWN0aW9uXzFkAgkPDxYCHwAFDzUgb2YgOCBzZWN0aW9uc2RkAgIPZBYEZg8VBAMyNjQLVGFrZSBBY3Rpb24OVHJhY2sgUHJvZ3Jlc3OgBzxoMz5UcmFjayB5b3VyIHByb2dyZXNzLjwvaDM+PHA+PGEgaHJlZj0iaHR0cHM6Ly9oZWFsdGguZ292L3BhZ3VpZGVsaW5lcy9ndWlkZWxpbmVzL2tlZXBpbmd0cmFjay5wZGYiPlVzZSB0aGlzIGFjdGl2aXR5IGxvZyB0byBrZWVwIHRyYWNrIG9mIHlvdXIgcGh5c2ljYWwgYWN0aXZpdHkgW1BERiAtIDE3MCBLQl08L2E+LiBXcml0ZSBkb3duIHlvdXIgZ29hbHMgYW5kIHRyYWNrIHlvdXIgYWN0aXZpdGllcyBlYWNoIHdlZWsuIEFzIHlvdSBnZXQgbW9yZSBhY3RpdmUsIHlvdSBjYW4gc2V0IGhpZ2hlciBnb2FscyE8L3A+PGgzPlVzZSBhIHBlZG9tZXRlci48L2gzPjxwPkEgcGVkb21ldGVyIGNsaXBzIG9udG8geW91ciBiZWx0IG9yIHdhaXN0YmFuZCBhbmQgY291bnRzIHRoZSZuYnNwO251bWJlciBvZiBzdGVwcyB5b3UgdGFrZS4gTWFrZSBpdCB5b3VyIGdvYWwgdG8gdGFrZSBhdCBsZWFzdCAxMCwwMDAgc3RlcHMgYSBkYXkuJm5ic3A7SW5jcmVhc2UgdGhlIG51bWJlciBvZiBzdGVwcyB5b3UmbmJzcDt0YWtlIGVhY2ggZGF5IHVudGlsIHlvdSByZWFjaCB5b3VyIGdvYWwuPC9wPjxwPjxpbWcgYWx0PSJSZWQgUGVkb21ldGVyIiBzcmM9Ii9IZWFsdGhUb3BpY3MvZ2xtZWRpYS9pY29ucy9yZWRfcGVkb21ldGVyLmdpZiIgLz48YnIgLz5BIHBlZG9tZXRlciBjb3VudHMgdGhlIG51bWJlciBvZiBzdGVwcyB5b3UgdGFrZS48L3A+PGgzPkJlIHJlYWxpc3RpYy48L2gzPjxwPlJlbWVtYmVyLCBpdCZyc3F1bztzIG5vdCBhbGwgb3Igbm90aGluZy4gRXZlbiAxMCBtaW51dGVzIG9mIGFjdGl2aXR5IGlzIGJldHRlciB0aGFuIG5vbmUhPC9wPjxwPkZpbmQgYSB0aW1lIHRoYXQgd29ya3MgZm9yIHlvdS4gU2VlIGlmIHlvdSBjYW4gZml0IGluIDEwIG1pbnV0ZXMgb2YgYWN0aXZpdHkgYmVmb3JlIHdvcmsgb3IgYWZ0ZXIgZGlubmVyLjwvcD5kAgEPZBYKAgEPDxYCHwJnZGQCAw8PFgQfAAURQWRkIE1vcmUgQWN0aXZpdHkfAmcWAh8IBQ4jdGFrZS1hY3Rpb25fNGQCBQ8PFgIfAmdkZAIHDw8WBB8ABQ1CdWlsZCBNdXNjbGVzHwJnFgIfCAUOI3Rha2UtYWN0aW9uXzJkAgkPDxYCHwAFDzYgb2YgOCBzZWN0aW9uc2RkAgMPZBYEZg8VBAMyNjALVGFrZSBBY3Rpb24RQWRkIE1vcmUgQWN0aXZpdHn6BjxoMz5HZXQgcmVhZHkgdG8gZ2V0IG1vcmUgYWN0aXZlLjwvaDM+PHA+WW91IG1heSBhbHJlYWR5IGJlIGZlZWxpbmcgdGhlIGJlbmVmaXRzIG9mIGdldHRpbmcgYWN0aXZlLCBzdWNoIGFzIHNsZWVwaW5nIGJldHRlciBvciBnZXR0aW5nIHN0cm9uZ2VyLjwvcD48cD5IZXJlIGFyZSAyIHdheXMgdG8gYWRkIG1vcmUgYWN0aXZpdHkgdG8geW91ciBsaWZlOjwvcD48dWw+PGxpPjxzdHJvbmc+QmUgYWN0aXZlIGZvciBsb25nZXIgZWFjaCB0aW1lLiZuYnNwOzwvc3Ryb25nPklmIHlvdSBhcmUgd2Fsa2luZyAzIGRheXMgYSB3ZWVrIGZvciAzMCBtaW51dGVzLCB0cnkgd2Fsa2luZyBmb3IgYW4gYWRkaXRpb25hbCAxMCBtaW51dGVzIG9yIG1vcmUgZWFjaCBkYXkuPC9saT48bGk+PHN0cm9uZz5CZSBhY3RpdmUgbW9yZSBvZnRlbi4mbmJzcDs8L3N0cm9uZz5JZiB5b3UgYXJlIHJpZGluZyB5b3VyIGJpa2UgdG8gd29yayAyIGRheXMgYSB3ZWVrLCB0cnkgcmlkaW5nIHlvdXIgYmlrZSB0byB3b3JrIDQgZGF5cyBhIHdlZWsuPC9saT48L3VsPjxoMz5GaW5kIHRpbWUgaW4geW91ciBzY2hlZHVsZS48L2gzPjxwPkxvb2sgYXQgeW91ciBzY2hlZHVsZSBmb3IgdGhlIHdlZWsuIEZpbmQgYSBmZXcgMzAtbWludXRlIHRpbWUgcGVyaW9kcyB5b3UgY2FuIHVzZSBmb3IgbW9yZSBwaHlzaWNhbCBhY3Rpdml0eS4gUHV0IHRoZW0gaW4geW91ciBjYWxlbmRhci4gPGEgaHJlZj0iaHR0cDovL3d3dy5uaGxiaS5uaWguZ292L2hlYWx0aC9wdWJsaWMvaGVhcnQvb2Jlc2l0eS93ZWNhbi9nZXQtYWN0aXZlL2FjdGl2aXR5LXBsYW4uaHRtIiB0YXJnZXQ9Il9ibGFuayI+VHJ5IHRoZXNlIHdheXMgdG8gYnVpbGQgbW9yZSBhY3RpdmUgdGltZSBpbnRvIHlvdXIgYnVzeSB3ZWVrPC9hPi48L3A+ZAIBD2QWCgIBDw8WAh8CZ2RkAgMPDxYEHwAFEkNoYWxsZW5nZSBZb3Vyc2VsZh8CZxYCHwgFDiN0YWtlLWFjdGlvbl81ZAIFDw8WAh8CZ2RkAgcPDxYEHwAFDlRyYWNrIFByb2dyZXNzHwJnFgIfCAUOI3Rha2UtYWN0aW9uXzNkAgkPDxYCHwAFDzcgb2YgOCBzZWN0aW9uc2RkAgQPZBYEZg8VBAMyNjELVGFrZSBBY3Rpb24SQ2hhbGxlbmdlIFlvdXJzZWxmjgg8aDM+T25jZSB5b3UmIzM5O3ZlIHN0YXJ0ZWQsIGtlZXAgaXQgdXAuPC9oMz48cD5JZiB5b3UgYXJlIGFscmVhZHkgYWN0aXZlIGZvciAyIGhvdXJzIGFuZCAzMCBtaW51dGVzIGVhY2ggd2VlaywgeW91IGNhbiBnZXQgZXZlbiBtb3JlIGhlYWx0aCBiZW5lZml0cyBieSBzdGVwcGluZyB1cCB5b3VyIHJvdXRpbmUuPC9wPjxwPkdldHRpbmcgbW9yZSBwaHlzaWNhbCZuYnNwO2FjdGl2aXR5IGNhbiBmdXJ0aGVyIGxvd2VyIHlvdXIgcmlzayBmb3I6PC9wPjx1bD48bGk+SGVhcnQgZGlzZWFzZTwvbGk+PGxpPlR5cGUgMiBkaWFiZXRlczwvbGk+PGxpPkJyZWFzdCBjYW5jZXI8L2xpPjxsaT5Db2xvcmVjdGFsIGNhbmNlcjwvbGk+PC91bD48aDM+RG8gbW9yZSB2aWdvcm91cyBhY3Rpdml0aWVzLjwvaDM+PHA+SW4gZ2VuZXJhbCwgMTUgbWludXRlcyBvZiB2aWdvcm91cyBhY3Rpdml0eSBoYXMgdGhlIHNhbWUgYmVuZWZpdHMgYXMgMzAgbWludXRlcyBvZiBtb2RlcmF0ZSBhY3Rpdml0eS4gVHJ5IGpvZ2dpbmcgZm9yIDE1IG1pbnV0ZXMgaW5zdGVhZCBvZiB3YWxraW5nIGZvciAzMCZuYnNwO21pbnV0ZXMuPC9wPjxoND5NaXggaXQgdXAuPC9oND48cD5NaXggdmlnb3JvdXMgYWN0aXZpdGllcyB3aXRoIG1vZGVyYXRlIG9uZXMuIFRyeSBqb2luaW5nIGEgZml0bmVzcyBncm91cCBvciBneW0gY2xhc3MuIERvbiZyc3F1bzt0IGZvcmdldCB0byBkbyBtdXNjbGUtc3RyZW5ndGhlbmluZyBhY3Rpdml0aWVzIDIgZGF5cyBhIHdlZWsuPC9wPjxoMz5DaGFsbGVuZ2UgeW91cnNlbGYuPC9oMz48cD48YSBocmVmPSJodHRwczovL3d3dy5zdXBlcnRyYWNrZXIudXNkYS5nb3YvUHJlc2lkZW50aWFsQ2hhbXBpb25zLmFzcHgiIHRhcmdldD0iX2JsYW5rIj5DaGVjayBvdXQgdGhlIFByZXNpZGVudGlhbCBDaGFtcGlvbnMgcHJvZ3JhbTwvYT4gdG8gZ2V0IHBlcnNvbmFsaXplZCBhY3Rpdml0eSBsb2dzLCB0cmFpbmluZyB0aXBzLCBhbmQgbW9yZS4gU2VlIGp1c3QgaG93IGhpZ2ggeW91IGNhbiByYWlzZSB5b3VyIGFjdGl2aXR5IGxldmVsITwvcD5kAgEPZBYGAgUPDxYCHwJnZGQCBw8PFgQfAAURQWRkIE1vcmUgQWN0aXZpdHkfAmcWAh8IBQ4jdGFrZS1hY3Rpb25fNGQCCQ8PFgIfAAUPOCBvZiA4IHNlY3Rpb25zZGQCDw9kFghmDxYEHwAFDk1hcmNoIDI2LCAyMDE4HwJnZAIBDw8WBB8EBR0vSGVhbHRoVG9waWNzL1NvdXJjZXMuYXNweCMyMh8CZ2RkAgIPDxYCHwJnZGQCAw8PFgQfBAUqL0ZpbmRTZXJ2aWNlcy9TZWFyY2hDb250ZXh0LmFzcHg/dG9waWM9NjU3HwJnZGQCEQ8PFgIfAmdkFgJmDxYCHwcCAxYGZg9kFgQCAQ8PFgIfBAVQL0hlYWx0aFRvcGljcy9DYXRlZ29yeS9oZWFsdGgtY29uZGl0aW9ucy1hbmQtZGlzZWFzZXMvZGlhYmV0ZXMvd2F0Y2gteW91ci13ZWlnaHRkFgJmDw8WAh8FBS8vSGVhbHRoVG9waWNzL2dsbWVkaWEvaWNvbnMvd2F0Y2h5b3Vyd2VpZ2h0LmpwZxYCHwYFEVdhdGNoIFlvdXIgV2VpZ2h0ZAIDDw8WBB8ABRFXYXRjaCBZb3VyIFdlaWdodB8EBVAvSGVhbHRoVG9waWNzL0NhdGVnb3J5L2hlYWx0aC1jb25kaXRpb25zLWFuZC1kaXNlYXNlcy9kaWFiZXRlcy93YXRjaC15b3VyLXdlaWdodGRkAgEPZBYEAgEPDxYCHwQFZS9IZWFsdGhUb3BpY3MvQ2F0ZWdvcnkvaGVhbHRoLWNvbmRpdGlvbnMtYW5kLWRpc2Vhc2VzL29iZXNpdHkvc3RheS1hY3RpdmUtYXMteW91LWdldC1vbGRlci1xdWljay10aXBzZBYCZg8PFgIfBQVGL0hlYWx0aFRvcGljcy9nbG1lZGlhL3Rvb2xzX2ljb25zL3N0YXlhY3RpdmVhc3lvdWdldG9sZGVycXVpY2t0aXBzLmpwZxYCHwYFLVN0YXkgQWN0aXZlIEFzIFlvdSBHZXQgT2xkZXI6IFF1aWNrJm5ic3A7dGlwc2QCAw8PFgQfAAUtU3RheSBBY3RpdmUgQXMgWW91IEdldCBPbGRlcjogUXVpY2smbmJzcDt0aXBzHwQFZS9IZWFsdGhUb3BpY3MvQ2F0ZWdvcnkvaGVhbHRoLWNvbmRpdGlvbnMtYW5kLWRpc2Vhc2VzL29iZXNpdHkvc3RheS1hY3RpdmUtYXMteW91LWdldC1vbGRlci1xdWljay10aXBzZGQCAg9kFgQCAQ8PFgIfBAVlL0hlYWx0aFRvcGljcy9DYXRlZ29yeS9oZWFsdGgtY29uZGl0aW9ucy1hbmQtZGlzZWFzZXMvb2Jlc2l0eS9zdGF5LWFjdGl2ZS1kdXJpbmctcHJlZ25hbmN5LXF1aWNrLXRpcHNkFgJmDw8WAh8FBUgvSGVhbHRoVG9waWNzL2dsbWVkaWEvdG9vbHNfaWNvbnMvc3RheWFjdGl2ZWR1cmluZ3ByZWduYW5jeXF1aWNrdGlwcy5qcGcWAh8GBS1TdGF5IEFjdGl2ZSBEdXJpbmcgUHJlZ25hbmN5OiBRdWljayZuYnNwO3RpcHNkAgMPDxYEHwAFLVN0YXkgQWN0aXZlIER1cmluZyBQcmVnbmFuY3k6IFF1aWNrJm5ic3A7dGlwcx8EBWUvSGVhbHRoVG9waWNzL0NhdGVnb3J5L2hlYWx0aC1jb25kaXRpb25zLWFuZC1kaXNlYXNlcy9vYmVzaXR5L3N0YXktYWN0aXZlLWR1cmluZy1wcmVnbmFuY3ktcXVpY2stdGlwc2RkAgYPZBYEAgEPZBYCAgEPFgIfAAUXU2F0dXJkYXksIEp1bmUgMDEsIDIwMTlkAgMPDxYCHwJoZGRkiPiJn8zAIQ5n+o/kFQD5KuqPdLFouvwpvu5yUjOFOsA="> 
+      </div> 
+      <div class="aspNetHidden"> 
+       <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="942D1C1E"> 
+      </div> 
+      <div class="health_topic_content health-topic-topic"> 
+       <div id="content_utilities" class="utilities"> 
+        <div class="helpers"> 
+         <div class="print"> 
+          <a href="javascript:window.print()" class="button print-button"> Print This Topic </a> 
+         </div> 
+         <div class="espanol"> 
+          <a id="content_translationLink" class="button" href="/espanol/temas/Category/enfermedades-y-problemas-de-salud/diabetes/mantente-activo">En español</a> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="health_topic_content_inner_wrap clearfix"> 
+        <div class="pageTitle"> 
+         <h1 class="syndicate"> Get Active </h1> 
+         <img id="content_contentImage" class="icon-image" alt="" src="/HealthTopics/glmedia/icons/getactive.jpg"> 
+        </div> 
+        <div id="content_quickguide_select_wrap_bg" class="quickguide_select_wrap-bg"> 
+         <div id="quickguide_select_wrap" class="quickguide_select_wrap"> 
+          <p id="quickguide-menu-trigger" class="quickguide-menu-trigger menu-hide">Browse Sections</p> 
+          <ul id="quickguide_select" class="quickguide_select menu-hide"> 
+           <li><span>The Basics</span> 
+            <ul> 
+             <li> <a href="#the-basics_1">Overview</a> </li> 
+             <li> <a href="#the-basics_2">Health Benefits</a> </li> 
+             <li> <a href="#the-basics_3">Health Conditions</a> </li> 
+            </ul> </li> 
+           <li><span>Take Action!</span> 
+            <ul> 
+             <li> <a href="#take-action_1">Get Started</a> </li> 
+             <li> <a href="#take-action_2">Build Muscles</a> </li> 
+             <li> <a href="#take-action_3">Track Progress</a> </li> 
+             <li> <a href="#take-action_4">Add More Activity</a> </li> 
+             <li> <a href="#take-action_5">Challenge Yourself</a> </li> 
+            </ul> </li> 
+          </ul> 
+         </div> 
+        </div> 
+        <!-- /quickguide_select_wrap-bg --> 
+        <div class="content-page-box quickguide_tabbed_content"> 
+         <div class="quickguide_content"> 
+          <div class="quickguide_areas"> 
+           <div id="the-basics" class="topic_area"> 
+            <h2 class="topic_area_title syndicate">The Basics</h2> 
+            <div class="pages"> 
+             <div class="page" id="page_70"> 
+              <h2 class="topic_page_title">The Basics: <span>Overview</span></h2> 
+              <div class="syndicate"> 
+               <p>Regular physical activity is good for everyone's health! Physical activity is anything that gets your body moving. Aim for 2 hours and 30 minutes of moderate activity each week.</p>
+               <p>If you haven't been active before, start at a comfortable level. Once you get the hang of it, add a little more activity each time. Then try getting active more often.</p>
+               <h3>What kinds of activity should I do?</h3>
+               <p>To get all the health benefits of physical activity, do a combination of aerobic and muscle-strengthening activities.</p>
+               <ul>
+                <li><strong>Aerobic</strong> (“air-OH-bik”) activities make you breathe harder and cause your heart to beat faster. Walking fast is an example of aerobic activity.</li>
+                <li><strong>Muscle-strengthening</strong> activities make your muscles stronger. Muscle-strengthening activities include lifting weights, using resistance bands, and doing push-ups.</li>
+               </ul>
+               <p>Use these resources to learn more about physical activity for:</p>
+               <ul>
+                <li><a href="https://health.gov/PAGuidelines/pdf/adultguide.pdf" target="_blank">Adults [PDF - 1.1 MB]</a></li>
+                <li><a href="http://go4life.nia.nih.gov/get-started" target="_blank">Older adults</a></li>
+                <li><a href="http://www.cdc.gov/physicalactivity/everyone/guidelines/children.html" target="_blank">Children</a></li>
+                <li><a href="https://www.nhlbi.nih.gov/health/educational/wecan/get-active/family-active-time.htm" target="_blank">Families</a></li>
+                <li><a href="https://www.cdc.gov/physicalactivity/basics/pregnancy/index.htm" target="_blank">Pregnant women or women who just had a baby</a></li>
+               </ul> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_0_topic_navigation_0" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_0_pageNextLabel_0" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_0_pageNext_0" class="button next" href="#the-basics_2">Health Benefits</a> </span> 
+                <span class="content_page_link left"> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_0_pageRange_0" class="content_page_range">1 of 8 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+             <div class="page" id="page_437"> 
+              <h2 class="topic_page_title">The Basics: <span>Health Benefits</span></h2> 
+              <div class="syndicate"> 
+               <h3>What are the benefits of physical activity?</h3>
+               <p>Physical activity increases your chances of living longer. It can also help:</p>
+               <ul>
+                <li>Control your blood pressure, blood sugar, and weight</li>
+                <li>Lower your “bad” cholesterol and raise your “good” cholesterol</li>
+                <li>Prevent heart disease, colorectal cancer, breast cancer, and type 2 diabetes</li>
+               </ul>
+               <p>And that’s not all. Being more active can:</p>
+               <ul>
+                <li>Be fun</li>
+                <li>Help you sleep better</li>
+                <li>Make your bones, muscles, and joints stronger</li>
+                <li>Lower your chances of becoming depressed</li>
+                <li>Reduce falls and arthritis pain</li>
+                <li>Help you feel better about yourself</li>
+               </ul>
+               <h3>Is physical activity for everyone?</h3>
+               <p>Yes! Physical activity is good for people of all ages and body types. Even if you feel out of shape or you haven’t been active in a long time, you can find activities that will work for you.</p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_0_topic_navigation_1" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_0_pageNextLabel_1" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_0_pageNext_1" class="button next" href="#the-basics_3">Health Conditions</a> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_0_pagePrevLabel_1" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_0_pagePrev_1" class="button previous" href="#the-basics_1">Overview</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_0_pageRange_1" class="content_page_range">2 of 8 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+             <div class="page" id="page_265"> 
+              <h2 class="topic_page_title">The Basics: <span>Health Conditions</span></h2> 
+              <div class="syndicate"> 
+               <h3>What if I’m overweight?</h3>
+               <p>If you are overweight or obese, getting active can help you lower your risk of:</p>
+               <ul>
+                <li>Type 2 diabetes</li>
+                <li>High blood pressure</li>
+                <li>Heart disease</li>
+                <li>Stroke</li>
+                <li>Some types of cancer</li>
+               </ul>
+               <p><a href="http://win.niddk.nih.gov/publications/active.htm" target="_blank">Find out more about how you can be active at any size</a>.</p>
+               <h3>What if I have a health condition?</h3>
+               <p>If you have a health condition&nbsp;like type 2 diabetes or high blood pressure, physical activity can help you manage it.&nbsp;Ask your&nbsp;doctor what types of activity are best for you.</p>
+               <ul>
+                <li><a href="http://www.niddk.nih.gov/health-information/health-topics/Diabetes/physical-activity-diabetes/Pages/physical-activity-diabetes.aspx" target="_blank">Get tips on physical activity and diabetes</a></li>
+                <li><a href="http://www.nhlbi.nih.gov/health/health-topics/topics/hbp/treatment#PhysicalActivity" target="_blank">Learn how physical activity helps high blood pressure</a></li>
+               </ul>
+               <h3>What if I have a disability?</h3>
+               <p>If you have a disability, your doctor can help you choose the best activities for you. You can also <a href="/HealthTopics/Category/health-conditions-and-diseases/obesity/stay-active-with-a-disability-quick-tips">use these tips to stay active with a disability</a>.</p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_0_topic_navigation_2" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_0_pageNextLabel_2" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_0_pageNext_2" class="button next" href="#take-action_1">Get Started</a> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_0_pagePrevLabel_2" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_0_pagePrev_2" class="button previous" href="#the-basics_2">Health Benefits</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_0_pageRange_2" class="content_page_range">3 of 8 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+            </div> 
+            <div class="clear"></div> 
+           </div> 
+           <div id="take-action" class="topic_area"> 
+            <h2 class="topic_area_title syndicate">Take Action!</h2> 
+            <div class="pages"> 
+             <div class="page" id="page_259"> 
+              <h2 class="topic_page_title">Take Action: <span>Get Started</span></h2> 
+              <div class="syndicate"> 
+               <h3>Start slowly.</h3>
+               <p>If you haven't been active before, start out slowly and add new physical activities little by little. After a few weeks or months, do them longer and more often. If you aren’t sure where to start, <a href="http://www.cdc.gov/physicalactivity/downloads/pa_examples.pdf" target="_blank">check out these examples of physical activity plans [PDF&nbsp;-&nbsp;78&nbsp;KB]</a>.</p>
+               <p>For help getting motivated, <a href="https://www.supertracker.usda.gov/PalaPlus.aspx" target="_blank">sign up for the Presidential Active Lifestyle Award (PALA+) challenge</a>.</p>
+               <h3>Choose activities that you enjoy.</h3>
+               <p>Team up with a friend or join a fitness class. Ask your family and friends to be active with you. Play games like tennis or basketball, or take a class in dance or martial arts.</p>
+               <p>Everyday activities can add up to an active lifestyle. You can:</p>
+               <ul>
+                <li>Go for a brisk walk around the neighborhood</li>
+                <li>Ride a bicycle to work or just for fun</li>
+                <li>Play outdoor games with your children</li>
+                <li><a href="http://www.niddk.nih.gov/health-information/health-topics/weight-control/tips-help-get-active/Pages/tips-help-you-get-active.aspx" target="_blank">Use these tips on getting active</a></li>
+               </ul>
+               <h3>Have fun with your family.</h3>
+               <p>If you have children, you can be a role model for making healthy choices. Encourage your whole family to get active outside – go for a hike or organize a family soccer game.</p>
+               <p>If someone you know has trouble making time for physical activity,&nbsp;<a href="/HealthTopics/Category/health-conditions-and-diseases/diabetes/help-a-loved-one-get-more-active-quick-tips">use these tips to help your loved one get more active</a>.</p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_1_topic_navigation_0" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_1_pageNextLabel_0" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pageNext_0" class="button next" href="#take-action_2">Build Muscles</a> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_1_pagePrevLabel_0" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pagePrev_0" class="button previous" href="#the-basics_3">Health Conditions</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_1_pageRange_0" class="content_page_range">4 of 8 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+             <div class="page" id="page_263"> 
+              <h2 class="topic_page_title">Take Action: <span>Build Muscles</span></h2> 
+              <div class="syndicate"> 
+               <h3>Strengthen your muscles.</h3>
+               <p>Try some of these activities a few days a week:</p>
+               <ul>
+                <li>Crunches (sit-ups)</li>
+                <li>Heavy gardening, like&nbsp;digging or shoveling</li>
+                <li>Doing push-ups on the floor or against the wall</li>
+                <li>Lifting small weights –&nbsp;you can even use bottled water or cans of food as weights</li>
+               </ul>
+               <p><a href="http://www.cdc.gov/physicalactivity/everyone/videos/index.html" target="_blank">Watch these videos for muscle strengthening exercises</a> to do at home or at the gym.</p>
+               <p>If you do muscle-strengthening activities with weights,&nbsp;<a href="http://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842?p=1" target="_blank">check out the do’s and don’ts of training with weights</a>.</p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_1_topic_navigation_1" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_1_pageNextLabel_1" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pageNext_1" class="button next" href="#take-action_3">Track Progress</a> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_1_pagePrevLabel_1" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pagePrev_1" class="button previous" href="#take-action_1">Get Started</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_1_pageRange_1" class="content_page_range">5 of 8 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+             <div class="page" id="page_264"> 
+              <h2 class="topic_page_title">Take Action: <span>Track Progress</span></h2> 
+              <div class="syndicate"> 
+               <h3>Track your progress.</h3>
+               <p><a href="https://health.gov/paguidelines/guidelines/keepingtrack.pdf">Use this activity log to keep track of your physical activity [PDF - 170 KB]</a>. Write down your goals and track your activities each week. As you get more active, you can set higher goals!</p>
+               <h3>Use a pedometer.</h3>
+               <p>A pedometer clips onto your belt or waistband and counts the&nbsp;number of steps you take. Make it your goal to take at least 10,000 steps a day.&nbsp;Increase the number of steps you&nbsp;take each day until you reach your goal.</p>
+               <p><img alt="Red Pedometer" src="/HealthTopics/glmedia/icons/red_pedometer.gif"><br>A pedometer counts the number of steps you take.</p>
+               <h3>Be realistic.</h3>
+               <p>Remember, it’s not all or nothing. Even 10 minutes of activity is better than none!</p>
+               <p>Find a time that works for you. See if you can fit in 10 minutes of activity before work or after dinner.</p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_1_topic_navigation_2" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_1_pageNextLabel_2" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pageNext_2" class="button next" href="#take-action_4">Add More Activity</a> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_1_pagePrevLabel_2" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pagePrev_2" class="button previous" href="#take-action_2">Build Muscles</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_1_pageRange_2" class="content_page_range">6 of 8 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+             <div class="page" id="page_260"> 
+              <h2 class="topic_page_title">Take Action: <span>Add More Activity</span></h2> 
+              <div class="syndicate"> 
+               <h3>Get ready to get more active.</h3>
+               <p>You may already be feeling the benefits of getting active, such as sleeping better or getting stronger.</p>
+               <p>Here are 2 ways to add more activity to your life:</p>
+               <ul>
+                <li><strong>Be active for longer each time.&nbsp;</strong>If you are walking 3 days a week for 30 minutes, try walking for an additional 10 minutes or more each day.</li>
+                <li><strong>Be active more often.&nbsp;</strong>If you are riding your bike to work 2 days a week, try riding your bike to work 4 days a week.</li>
+               </ul>
+               <h3>Find time in your schedule.</h3>
+               <p>Look at your schedule for the week. Find a few 30-minute time periods you can use for more physical activity. Put them in your calendar. <a href="http://www.nhlbi.nih.gov/health/public/heart/obesity/wecan/get-active/activity-plan.htm" target="_blank">Try these ways to build more active time into your busy week</a>.</p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_1_topic_navigation_3" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_1_pageNextLabel_3" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pageNext_3" class="button next" href="#take-action_5">Challenge Yourself</a> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_1_pagePrevLabel_3" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pagePrev_3" class="button previous" href="#take-action_3">Track Progress</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_1_pageRange_3" class="content_page_range">7 of 8 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+             <div class="page" id="page_261"> 
+              <h2 class="topic_page_title">Take Action: <span>Challenge Yourself</span></h2> 
+              <div class="syndicate"> 
+               <h3>Once you've started, keep it up.</h3>
+               <p>If you are already active for 2 hours and 30 minutes each week, you can get even more health benefits by stepping up your routine.</p>
+               <p>Getting more physical&nbsp;activity can further lower your risk for:</p>
+               <ul>
+                <li>Heart disease</li>
+                <li>Type 2 diabetes</li>
+                <li>Breast cancer</li>
+                <li>Colorectal cancer</li>
+               </ul>
+               <h3>Do more vigorous activities.</h3>
+               <p>In general, 15 minutes of vigorous activity has the same benefits as 30 minutes of moderate activity. Try jogging for 15 minutes instead of walking for 30&nbsp;minutes.</p>
+               <h4>Mix it up.</h4>
+               <p>Mix vigorous activities with moderate ones. Try joining a fitness group or gym class. Don’t forget to do muscle-strengthening activities 2 days a week.</p>
+               <h3>Challenge yourself.</h3>
+               <p><a href="https://www.supertracker.usda.gov/PresidentialChampions.aspx" target="_blank">Check out the Presidential Champions program</a> to get personalized activity logs, training tips, and more. See just how high you can raise your activity level!</p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_1_topic_navigation_4" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_1_pagePrevLabel_4" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pagePrev_4" class="button previous" href="#take-action_4">Add More Activity</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_1_pageRange_4" class="content_page_range">8 of 8 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+            </div> 
+            <div class="clear"></div> 
+           </div> 
+           <div id="content_pageDisplayToggleWrap" class="pageDisplayToggleWrap"> 
+            <a href="#" id="pageDisplayToggle" class="pageDisplayToggle">View All</a> 
+           </div> 
+           <div id="content_resourceLinks"> 
+            <div class="resource-links clearfix"> 
+             <p class="last-updated"> <strong>Content last updated on:</strong> March 26, 2018 </p> 
+             <p class="source-links"> <a id="content_contentReviewLink" href="/HealthTopics/Sources.aspx#22">Reviewer Information</a> <span id="content_breakBetweenLinks">&nbsp;|&nbsp;</span> <a id="content_moreResourcesLink" href="/FindServices/SearchContext.aspx?topic=657">Find More Resources</a> </p> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="clear"></div> 
+         </div> 
+         <!-- /.quickguide_content --> 
+         <div class="clear"></div> 
+        </div> 
+        <!-- /.content-page-box --> 
+       </div> 
+       <!-- /.health_topic_content_inner_wrap --> 
+       <div class="shadow-wide"></div> 
+       <div class="content-page-box health-topics-also-interested clearfix"> 
+        <div id="content_interestsPanel" class="topic_interests"> 
+         <h2>You may also be interested in:</h2> 
+         <ul> 
+          <li> <a id="content_interestsRepeater_imageLink_0" class="image_link" href="/HealthTopics/Category/health-conditions-and-diseases/diabetes/watch-your-weight"><img id="content_interestsRepeater_image_0" alt="Watch Your Weight" src="/HealthTopics/glmedia/icons/watchyourweight.jpg"></a> <a id="content_interestsRepeater_titleLink_0" class="title_link" href="/HealthTopics/Category/health-conditions-and-diseases/diabetes/watch-your-weight">Watch Your Weight</a> </li> 
+          <li> <a id="content_interestsRepeater_imageLink_1" class="image_link" href="/HealthTopics/Category/health-conditions-and-diseases/obesity/stay-active-as-you-get-older-quick-tips"><img id="content_interestsRepeater_image_1" alt="Stay Active As You Get Older: Quick&amp;nbsp;tips" src="/HealthTopics/glmedia/tools_icons/stayactiveasyougetolderquicktips.jpg"></a> <a id="content_interestsRepeater_titleLink_1" class="title_link" href="/HealthTopics/Category/health-conditions-and-diseases/obesity/stay-active-as-you-get-older-quick-tips">Stay Active As You Get Older: Quick&nbsp;tips</a> </li> 
+          <li> <a id="content_interestsRepeater_imageLink_2" class="image_link" href="/HealthTopics/Category/health-conditions-and-diseases/obesity/stay-active-during-pregnancy-quick-tips"><img id="content_interestsRepeater_image_2" alt="Stay Active During Pregnancy: Quick&amp;nbsp;tips" src="/HealthTopics/glmedia/tools_icons/stayactiveduringpregnancyquicktips.jpg"></a> <a id="content_interestsRepeater_titleLink_2" class="title_link" href="/HealthTopics/Category/health-conditions-and-diseases/obesity/stay-active-during-pregnancy-quick-tips">Stay Active During Pregnancy: Quick&nbsp;tips</a> </li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="shadow health-topics-also-interested"></div> 
+       <!-- ./box-left --> 
+      </div> 
+      <!-- /.health-topic-tool --> 
+      <div id="resizable_embedded_link"></div> 
+     </form> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+   </div> 
+   <div id="HideIfWidget5"> 
+    <div id="footer" role="complementary"> 
+     <ul class="footer-links-wide"> 
+      <li><a href="/aboutus/">About Us</a></li> 
+      <li><a href="/aboutus/accessibility.aspx">Accessibility</a></li> 
+      <li><a href="/aboutus/contactus.aspx">Contact Us</a></li> 
+      <li><a href="/Developer">Developers</a></li> 
+      <li><a href="/aboutus/disclaimer.aspx">Disclaimers</a></li> 
+      <li><a href="/aboutus/foia.aspx">Freedom of Information Act</a></li> 
+      <li><a href="https://www.hhs.gov/civil-rights/for-individuals/nondiscrimination/index.html" target="_blank">Nondiscrimination Notice</a></li> 
+      <li><a href="/aboutus/privacy.aspx">Privacy Policy</a></li> 
+      <li><a href="/sitemap.aspx">Site Map</a></li> 
+      <li class="last"><a href="/aboutus/plugins.aspx">Viewers &amp; Players</a></li> 
+      <li class="clear"></li> 
+     </ul> 
+     <div class="clear"></div> 
+     <div class="footer-language"> 
+      <p>Language Assistance Available</p> 
+      <ul class="footer-links-wide"> 
+       <li><a lang="es" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#spanish" target="_blank">Español</a></li> 
+       <li><a lang="zh" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#chinese" target="_blank">????</a></li> 
+       <li><a lang="vi" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#vietnamese" target="_blank">Ti?ng Vi?t</a></li> 
+       <li><a lang="ko" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#korean" target="_blank">???</a></li> 
+       <li><a lang="fr" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#french" target="_blank">Français</a></li> 
+       <li><a lang="pl" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#polish" target="_blank">Polski</a></li> 
+       <li><a lang="pt" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#portugese" target="_blank">Português</a></li> 
+       <li><a lang="it" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#italian" target="_blank">Italiano</a></li> 
+       <li><a lang="tl" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#tagalog" target="_blank">Tagalog</a></li> 
+       <li><a lang="ru" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#russian" target="_blank">???????</a></li> 
+       <li><a lang="ar" dir="rtl" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#arabic" target="_blank">???????</a></li> 
+       <li><a lang="sg" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#creole" target="_blank">Kreyòl Ayisyen</a></li> 
+       <li><a lang="de" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#german" target="_blank">Deutsch</a></li> 
+       <li><a lang="ja" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#japanese" target="_blank">???</a></li> 
+       <li><a lang="fa" dir="rtl" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#farsi" target="_blank">?????</a></li> 
+       <li class="last"><a href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#english" target="_blank">English</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+     <div id="footer-bottom"> 
+      <div class="footer-text">
+        A Federal Government website managed by the 
+       <a class="hhs-text-link" href="https://www.hhs.gov/">U.S. Department of Health and Human Services</a> 
+       <br class="hidden-mobile-break"> healthfinder.gov is sponsored by the National Health Information Center 
+       <span class="address-block">200 Independence Avenue, S.W., Washington, DC 20201</span> 
+       <span class="page-updated">Page last updated: Saturday, June 01, 2019</span> 
+      </div> 
+      <div class="logo-box"> 
+       <a class="logo-hhs" href="https://www.hhs.gov/" title="Department of Health and Human Services"> <img src="/images/footer-hhs-logo.png" alt="Department of Health and Human Services"></a> 
+       <a class="logo-odphp" href="https://health.gov/" title="Office of Disease Prevention and Health Promotion"> <img src="/images/odphp-logo-black.png" class="odphp-logo" alt="Office of Disease Prevention and Health Promotion"></a> 
+       <a class="logo-healthfinder" href="https://healthfinder.gov" title="healthfinder.gov"> <img src="/images/footer-hf-logo.png" alt="healthfinder.gov logo"></a> 
+      </div> 
+      <div class="clear"></div> 
+     </div> 
+     <!-- /#footer-bottom --> 
+     <div class="clear"></div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="up_scrollable_indicator"></div> 
+  <div id="down_scrollable_indicator"></div> 
+  <script src="/js/jquery-1.8.3.min.js" type="text/javascript"></script> 
+  <script src="/js/jquery-ui-1.8.16.custom.min.js" type="text/javascript"></script> 
+  <script src="/js/jquery.cycle.all.js" type="text/javascript"></script> 
+  <script src="/js/jquery.colorbox-min.js" type="text/javascript"></script> 
+  <script src="/js/jquery.flexslider.modified.js" type="text/javascript"></script> 
+  <script src="/js/jquery.ba-hashchange.min.js" type="text/javascript"></script> 
+  <script src="/js/healthfinder.js" type="text/javascript"></script> 
+  <script src="/js/jquery.ddslick.min.js" type="text/javascript"></script> 
+  <script src="/js/myhealthfinder.js" type="text/javascript"></script> 
+  <script src="/js/global-nav.js" type="text/javascript"></script> 
+  <script src="/js/outlink.js" type="text/javascript"></script> 
+  <script src="/js/search-suggest.js" type="text/javascript"></script> 
+  <!--AddThis code--> 
+  <script type="text/javascript">
+        var addthis_config = {
+            ui_language: "en"
+      };
+    </script> 
+  <script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=xa-50c0b9a52a842762"></script> 
+  <!-- Document Download tracking --> 
+  <script src="/js/ga_download_tracker.js" type="text/javascript"></script> 
+  <!--CrazyEgg tracking code --> 
+  <script type="text/javascript">
+        setTimeout(function () {
+            var a = document.createElement("script");
+            var b = document.getElementsByTagName("script")[0];
+            a.src = document.location.protocol + "//dnn506yrbagrg.cloudfront.net/pages/scripts/0013/7844.js?" + Math.floor(new Date().getTime() / 3600000);
+            a.async = true; a.type = "text/javascript"; b.parentNode.insertBefore(a, b)
+        }, 1);
+    </script> 
+  <!--BEGIN QUALTRICS SITE INTERCEPT sitewide --> 
+  <script type="text/javascript">
+        (function () {
+            var g = function (e, h, f, g) {
+                this.get = function (a) { for (var a = a + "=", c = document.cookie.split(";"), b = 0, e = c.length; b < e; b++) { for (var d = c[b]; " " == d.charAt(0) ;) d = d.substring(1, d.length); if (0 == d.indexOf(a)) return d.substring(a.length, d.length) } return null };
+                this.set = function (a, c) { var b = "", b = new Date; b.setTime(b.getTime() + 6048E5); b = "; expires=" + b.toGMTString(); document.cookie = a + "=" + c + b + "; path=/; " };
+                this.check = function () { var a = this.get(f); if (a) a = a.split(":"); else if (100 != e) "v" == h && (e = Math.random() >= e / 100 ? 0 : 100), a = [h, e, 0], this.set(f, a.join(":")); else return !0; var c = a[1]; if (100 == c) return !0; switch (a[0]) { case "v": return !1; case "r": return c = a[2] % Math.floor(100 / c), a[2]++, this.set(f, a.join(":")), !c } return !0 };
+                this.xgo = function () { if (this.check()) { var a = document.createElement("script"); a.type = "text/javascript"; a.src = g + "&t=" + (new Date()).getTime(); document.body && document.body.appendChild(a) } };
+                this.go = function () { wait_for_session_delay(30, this.xgo, this); };
+                this.start = function () { var a = this; window.addEventListener ? window.addEventListener("load", function () { a.go() }, !1) : window.attachEvent && window.attachEvent("onload", function () { a.go() }) }
+            };
+            try { (new g(100, "r", "QSI_S_SI_eDVjXbuzcR5eE0B", "//znbqj3egyjwfzib9r-communicatehealth.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_eDVjXbuzcR5eE0B&Q_LOC=" + encodeURIComponent(window.location.href))).start() } catch (i) { }
+        })();
+    </script> 
+  <div id="SI_eDVjXbuzcR5eE0B"> 
+   <!--DO NOT REMOVE-CONTENTS PLACED HERE--> 
+  </div> 
+  <!--END SITE INTERCEPT--> 
+  <!--BEGIN QUALTRICS SITE INTERCEPT feedback link --> 
+  <script type="text/javascript">
+        (function () {
+            var g = function (e, h, f, g) {
+                this.get = function (a) { for (var a = a + "=", c = document.cookie.split(";"), b = 0, e = c.length; b < e; b++) { for (var d = c[b]; " " == d.charAt(0) ;) d = d.substring(1, d.length); if (0 == d.indexOf(a)) return d.substring(a.length, d.length) } return null };
+                this.set = function (a, c) { var b = "", b = new Date; b.setTime(b.getTime() + 6048E5); b = "; expires=" + b.toGMTString(); document.cookie = a + "=" + c + b + "; path=/; " };
+                this.check = function () { var a = this.get(f); if (a) a = a.split(":"); else if (100 != e) "v" == h && (e = Math.random() >= e / 100 ? 0 : 100), a = [h, e, 0], this.set(f, a.join(":")); else return !0; var c = a[1]; if (100 == c) return !0; switch (a[0]) { case "v": return !1; case "r": return c = a[2] % Math.floor(100 / c), a[2]++, this.set(f, a.join(":")), !c } return !0 };
+                this.go = function () { if (this.check()) { var a = document.createElement("script"); a.type = "text/javascript"; a.src = g + "&t=" + (new Date()).getTime(); document.body && document.body.appendChild(a) } };
+                this.start = function () { var a = this; window.addEventListener ? window.addEventListener("load", function () { a.go() }, !1) : window.attachEvent && window.attachEvent("onload", function () { a.go() }) }
+            };
+            try { (new g(100, "r", "QSI_S_SI_cXQyslZ7nyPxAbz", "//znbqj3egyjwfzib9r-communicatehealth.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_cXQyslZ7nyPxAbz&Q_LOC=" + encodeURIComponent(window.location.href))).start() } catch (i) { }
+        })();
+    </script> 
+  <div id="SI_cXQyslZ7nyPxAbz"> 
+   <!--DO NOT REMOVE-CONTENTS PLACED HERE--> 
+  </div> 
+  <!--END SITE INTERCEPT--> 
+  <!--BEGIN QUALTRICS SITE INTERCEPT - page level --> 
+  <script type="text/javascript">
+        (function () {
+            var g = function (e, h, f, g) {
+                this.get = function (a) { for (var a = a + "=", c = document.cookie.split(";"), b = 0, e = c.length; b < e; b++) { for (var d = c[b]; " " == d.charAt(0) ;) d = d.substring(1, d.length); if (0 == d.indexOf(a)) return d.substring(a.length, d.length) } return null };
+                this.set = function (a, c) { var b = "", b = new Date; b.setTime(b.getTime() + 6048E5); b = "; expires=" + b.toGMTString(); document.cookie = a + "=" + c + b + "; path=/; " };
+                this.check = function () { var a = this.get(f); if (a) a = a.split(":"); else if (100 != e) "v" == h && (e = Math.random() >= e / 100 ? 0 : 100), a = [h, e, 0], this.set(f, a.join(":")); else return !0; var c = a[1]; if (100 == c) return !0; switch (a[0]) { case "v": return !1; case "r": return c = a[2] % Math.floor(100 / c), a[2]++, this.set(f, a.join(":")), !c } return !0 };
+                this.go = function () { if (this.check()) { var a = document.createElement("script"); a.type = "text/javascript"; a.src = g + "&t=" + (new Date()).getTime(); document.body && document.body.appendChild(a) } };
+                this.start = function () { var a = this; window.addEventListener ? window.addEventListener("load", function () { a.go() }, !1) : window.attachEvent && window.attachEvent("onload", function () { a.go() }) }
+            };
+            try { (new g(100, "r", "QSI_S_SI_abZk2DnPlZAGHjL", "//znbqj3egyjwfzib9r-communicatehealth.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_abZk2DnPlZAGHjL&Q_LOC=" + encodeURIComponent(window.location.href))).start() } catch (i) { }
+        })();
+    </script> 
+  <div id="SI_abZk2DnPlZAGHjL"> 
+   <!--DO NOT REMOVE-CONTENTS PLACED HERE--> 
+  </div> 
+  <!--END SITE INTERCEPT--> 
+  <script src="https://health.gov/ui/js/lib/survey-wrapper.js"></script> 
+  <script src="/js/quickguide.js" type="text/javascript"></script>   
+ </body>
+</html>

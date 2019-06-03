@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="utf-8"?> <?xml-stylesheet href="https://www.fdlp.gov/components/com_obrss/assets/xsl/atom-to-html.xsl" type="text/xsl"?> 
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/"> 
+ <channel> 
+  <title>News &amp; Events (ATOM 0.3)</title> 
+  <description><![CDATA[News and events information related to the Federal Depository Library Program (FDLP).]]>
+  </description> 
+  <link>
+   https://www.fdlp.gov/
+  </link> 
+  <lastBuildDate>
+   Sat, 01 Jun 2019 11:46:23 -0400
+  </lastBuildDate> 
+  <generator>
+   FeedCreator 1.8.3 (obRSS 3.4.2)
+  </generator> 
+  <atom:link href="https://www.fdlp.gov/rss/news-events-test" rel="self" type="application/rss+xml" /> 
+  <image> 
+   <url>
+    https://www.fdlp.gov/fdlp_logo_small.png
+   </url> 
+   <title>News &amp; Events (ATOM 0.3)</title> 
+   <link>
+    https://www.fdlp.gov/
+   </link> 
+   <description>
+    News and events information related to the Federal Depository Library Program (FDLP).
+   </description> 
+  </image> 
+  <item> 
+   <title>FDLP eXchange Tip of the Week: New Web Pages</title> 
+   <link>
+    http://www.fdlp.gov/?id=4072
+   </link> 
+   <description><![CDATA[<p>FDLP eXchange web pages have been updated to make them easier to use. Instead of one page, there are now five pages broken out by function. Read <a href="https://www.fdlp.gov/req-guide/instructions/exchange-tips-of-the-week">Tip 33</a> to learn more.</p><br /><a href="http://www.fdlp.gov/?id=4072" target="_blank">Read more ...</a>]]>
+   </description> 
+   <pubDate>
+    Fri, 31 May 2019 14:35:56 -0400
+   </pubDate> 
+   <guid isPermaLink="false">
+    http://www.fdlp.gov/?id=4072
+   </guid> 
+  </item> 
+  <item> 
+   <title>Recommendations &amp; Commendations from the DLC to GPO </title> 
+   <link>
+    http://www.fdlp.gov/?id=4071
+   </link> 
+   <description><![CDATA[<p>The Depository Library Council (DLC) to the GPO Director, upon the close of the spring 2019 Depository Library Council Virtual Meeting, began work on developing formal recommendations and commendations for the U.S. Government Publishing Office (GPO). On May 29, 2019, <a href="https://www.fdlp.gov/file-repository/about-the-fdlp/federal-depository-library-council/council-recommendations/3916-recommendations-commendations-of-the-depository-library-council-to-the-gpo-director-spring-2019">two recommendations and one commendation</a> were presented. These are being reviewed and discussed in detail by GPO staff. Formal GPO responses are being drafted and will be shared with the FDLP community in the near future.</p><br /><a href="http://www.fdlp.gov/?id=4071" target="_blank">Read more ...</a>]]>
+   </description> 
+   <pubDate>
+    Thu, 30 May 2019 13:02:19 -0400
+   </pubDate> 
+   <guid isPermaLink="false">
+    http://www.fdlp.gov/?id=4071
+   </guid> 
+  </item> 
+  <item> 
+   <title>Federal Depository Libraries in the Paths of Tornadoes and Storms </title> 
+   <link>
+    http://www.fdlp.gov/?id=4070
+   </link> 
+   <description><![CDATA[<p>A number of Federal depository libraries were in the paths of tornadoes and other storms this week. GPO is committed to helping depository libraries recover in any way that we can.</p>
+<p>We are keeping track of libraries in areas that are affected by these disasters and are monitoring any closings so that shipments can be suspended. Once libraries reopen, we will contact them to offer any assistance we can provide.</p>
+<p>In the event of a natural or man-made disaster, when safe to do so, depository library staff are asked to inform their regional depository and GPO’s Office of Outreach and Support via <a href="mailto:fdlpoutreach@gpo.gov">email</a> or by phone at (202) 512-1119 if they are closed and when they anticipate reopening. Our staff will be happy to consult with you about maintaining free public access to Government information, arranging for temporary address changes for depository deliveries, and more.</p>
+<p>If you have questions about damage assessment, please contact GPO at <a href="mailto:preservefedinfo@gpo.gov">preservefedinfo@gpo.gov</a>. Numerous ‘what to do if…’ information sheets <a href="https://www.fdlp.gov/preservation/preservation-at-gpo">are available</a> from FDLP.gov’s Preservation page with information dealing with water damage, mold, or access restrictions that might be caused by these storms.</p>
+<p>If you have any questions, our staff will be happy to consult with you about lost or damaged items. We will keep the larger depository community informed as relief efforts continue over time.</p><br /><a href="http://www.fdlp.gov/?id=4070" target="_blank">Read more ...</a>]]>
+   </description> 
+   <pubDate>
+    Thu, 30 May 2019 08:27:59 -0400
+   </pubDate> 
+   <guid isPermaLink="false">
+    http://www.fdlp.gov/?id=4070
+   </guid> 
+  </item> 
+  <item> 
+   <title>New Historic Publications on FDLP.gov</title> 
+   <link>
+    http://www.fdlp.gov/?id=4068
+   </link> 
+   <description><![CDATA[<p>New featured titles have been added to the <a href="https://www.fdlp.gov/about-fdlp/3955-historic-publications">Historic Publications</a> page for Spring 2019. Hop over to FDLP.gov to see some of the interesting publications added to the Catalog of U.S. Government Publications this quarter including, ‘A Summer in the Life of Wild Mallards,’ contributed by the Washington State Library.</p><br /><a href="http://www.fdlp.gov/?id=4068" target="_blank">Read more ...</a>]]>
+   </description> 
+   <pubDate>
+    Wed, 29 May 2019 11:09:37 -0400
+   </pubDate> 
+   <guid isPermaLink="false">
+    http://www.fdlp.gov/?id=4068
+   </guid> 
+  </item> 
+  <item> 
+   <title>Final Report of the ISO 16363 Audit of govinfo from PTAB </title> 
+   <link>
+    http://www.fdlp.gov/?id=4067
+   </link> 
+   <description><![CDATA[<p>The <a href="https://www.fdlp.gov/file-repository/preservation/3910-the-ptab-iso-16363-audit-of-the-gpo-govinfo-repository-system-public-report">final audit report</a> from the Primary Trustworthy Digital Repository Authorisation Body on the audit of <strong>govinfo</strong> is now available. This represents the final deliverable from the independent auditor that awarded GPO with the Trustworthy Digital Repository certification for U.S. Government information.</p><br /><a href="http://www.fdlp.gov/?id=4067" target="_blank">Read more ...</a>]]>
+   </description> 
+   <pubDate>
+    Wed, 29 May 2019 10:32:29 -0400
+   </pubDate> 
+   <guid isPermaLink="false">
+    http://www.fdlp.gov/?id=4067
+   </guid> 
+  </item> 
+  <item> 
+   <title>FDLP eXchange Tip of the Week: Disaster Recovery &amp; Digitization</title> 
+   <link>
+    http://www.fdlp.gov/?id=4063
+   </link> 
+   <description><![CDATA[<p><strong>FDLP eXchange Tip of the Week: Disaster Recovery &amp; Digitization</strong></p>
+<p><span style="background-color: rgba(255, 255, 255, 0);">Did you know that you can specify which of your needs are for disaster recovery or digitization?&nbsp;<a href="https://www.fdlp.gov/req-guide/instructions/exchange-tips-of-the-week" title="Link to Tip 32" target="_blank" rel="noopener">Read Tip 32</a>&nbsp;to learn more.</span></p><br /><a href="http://www.fdlp.gov/?id=4063" target="_blank">Read more ...</a>]]>
+   </description> 
+   <pubDate>
+    Fri, 24 May 2019 12:54:16 -0400
+   </pubDate> 
+   <guid isPermaLink="false">
+    http://www.fdlp.gov/?id=4063
+   </guid> 
+  </item> 
+  <item> 
+   <title>U.S. Government Publishing Office 2018 Annual Report</title> 
+   <link>
+    http://www.fdlp.gov/?id=4062
+   </link> 
+   <description><![CDATA[<p>The U.S. Government Publishing Office 2018 Annual Report is available online. The record has been updated in the Catalog of U.S. Government Publications (CGP) and <strong>govinfo</strong>.</p>
+<p>Bibliographic information is as follows:</p>
+<ul>
+<li>Class: GP 1.1:</li>
+<li>Item number: 0548-A-03 (online)</li>
+<li>CGP System Number: <a href="https://catalog.gpo.gov/F/?func=direct&amp;doc_number=000980184&amp;local_base=GPO01PUB" title="Link To CGP Document" target="_blank" rel="noopener">980184</a></li>
+<li>PURL: <a href="http://purl.fdlp.gov/GPO/gpo67698" title="Link to PURL Document" target="_blank" rel="noopener">gpo67698</a></li>
+<li><a href="https://www.govinfo.gov/app/details/GOVPUB-GP-4e68e1fd6a56abaa6d8bebb2b754c1a2" title="Link to document on govinfo site" target="_blank" rel="noopener"><strong>govinfo</strong></a></li>
+</ul><br /><a href="http://www.fdlp.gov/?id=4062" target="_blank">Read more ...</a>]]>
+   </description> 
+   <pubDate>
+    Wed, 22 May 2019 12:03:41 -0400
+   </pubDate> 
+   <guid isPermaLink="false">
+    http://www.fdlp.gov/?id=4062
+   </guid> 
+  </item> 
+  <item> 
+   <title>Webinar: Providing Access to Digital Documents</title> 
+   <link>
+    http://www.fdlp.gov/?id=4061
+   </link> 
+   <description><![CDATA[<p>Register to attend the live training webinar, "<a href="http://login.icohere.com/registration/register.cfm?reg=5832&amp;evt=20190725providing" title="Link to Webinar" target="_blank" rel="noopener">Providing Access to Digital Documents</a>"</p>
+<div style="width: 280px; float: right; margin-bottom: 10px; margin-top: 5px;">
+<table style="width: 265px; background-color: #d2e7f5; float: right;" border="0" align="right">
+<tbody>
+<tr>
+<td align="center"><strong></strong></td>
+<td colspan="2">
+<p style="font-family: sans-serif; font-size: 12px; line-height: 14px;"><strong>Date: Thursday, July 25, 2019</strong><br /><strong>Time: 2:00 pm - 3:00 pm (EDT)</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 1%; text-align: center;"><strong></strong></td>
+<td style="width: 1%; text-align: center;"><strong></strong></td>
+<td style="width: 1%; text-align: center;">&nbsp;<strong></strong></td>
+</tr>
+<tr>
+<td colspan="3">
+<p style="font-family: sans-serif; font-size: 12px; line-height: 14px; margin-bottom: 10px; margin-left: 10px;"><strong>Recording and closed captioning are available. All webinars are free of charge.</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<ul>
+<li><strong>Speaker:&nbsp;</strong>Jaime Hays, Outreach Librarian, Library Services and Content Management, GPO</li>
+<li><strong>Learning outcomes:&nbsp;</strong>This webinar will present basic information about digital U.S. Government documents. Different methods for making documents available will be explained, and examples of how libraries provide patron access will be provided.</li>
+<li><strong>Expected level of knowledge for participants:&nbsp;</strong>No prerequisite knowledge required</li>
+</ul>
+<p>Upon registering, a confirmation email from sqldba @ icohere.com will be sent with instructions for joining the webinar. To ensure delivery of that email, configure your junk mail or spam filter(s) to permit messages from that address. If you do not receive it, please <a href="https://www.fdlp.gov/component/rsform/form/16-outreach-and-support-contact-form" title="notify GPO">notify GPO</a>. In order to attend or present at a GPO-hosted webinar, a WebEx plug-in must be installed. <a href="http://login.icohere.com/help/help_1/webEx/guide_WebEx_pop.htm" title="Download instructions" target="_blank" rel="noopener">Download instructions</a>.</p><br /><a href="http://www.fdlp.gov/?id=4061" target="_blank">Read more ...</a>]]>
+   </description> 
+   <pubDate>
+    Tue, 21 May 2019 08:46:22 -0400
+   </pubDate> 
+   <guid isPermaLink="false">
+    http://www.fdlp.gov/?id=4061
+   </guid> 
+  </item> 
+  <item> 
+   <title>New Electronic Titles for April 2019</title> 
+   <link>
+    http://www.fdlp.gov/?id=4060
+   </link> 
+   <description><![CDATA[<p>New Electronic Titles (NET) are now available for April 2019. These files are accessible from the&nbsp;<a href="https://catalog.gpo.gov/F/?func=file&amp;file_name=find-net&amp;local_base=NEWTITLE" target="_blank" rel="noopener">New Titles</a>&nbsp;section of the Catalog of U.S. Government Publications (CGP).</p><br /><a href="http://www.fdlp.gov/?id=4060" target="_blank">Read more ...</a>]]>
+   </description> 
+   <pubDate>
+    Mon, 20 May 2019 12:00:40 -0400
+   </pubDate> 
+   <guid isPermaLink="false">
+    http://www.fdlp.gov/?id=4060
+   </guid> 
+  </item> 
+  <item> 
+   <title>Webinar: Who, What, Where, When, and How? Legislative Research When You've Reached the End of What You Know</title> 
+   <link>
+    http://www.fdlp.gov/?id=4059
+   </link> 
+   <description><![CDATA[<p>Register to attend the live training webinar, "<a href="http://login.icohere.com/registration/register.cfm?reg=5839&amp;evt=190505" target="_blank" rel="noopener">Who, What, Where, When, and How? Legislative Research When You've Reached the End of What You Know</a>."</p>
+<div style="width: 280px; float: right; margin-bottom: 10px; margin-top: 5px;">
+<table style="width: 265px; background-color: #d2e7f5; float: right;" border="0" align="right">
+<tbody>
+<tr>
+<td align="center"><strong></strong></td>
+<td colspan="2">
+<p style="font-family: sans-serif; font-size: 12px; line-height: 14px;"><strong>Date: Wednesday, June 5, 2019</strong><br /><strong>Time: 1:00 pm - 2:00 pm (EDT)</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 1%; text-align: center;"><strong></strong></td>
+<td style="width: 1%; text-align: center;"><strong></strong></td>
+<td style="width: 1%; text-align: center;">&nbsp;<strong></strong></td>
+</tr>
+<tr>
+<td colspan="3">
+<p style="font-family: sans-serif; font-size: 12px; line-height: 14px; margin-bottom: 10px; margin-left: 10px;"><strong>Recording and closed captioning are available. All webinars are free of charge.</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<ul>
+<li><strong>Speakers:&nbsp;</strong>
+<ul>
+<li>Andrea Sevetson, Senior Customer Experience Training &amp; Consulting Partner, ProQuest</li>
+<li>Jesse Silva, Scholarly Resources Strategy and Federal Government Information Librarian, UC Berkeley</li>
+</ul>
+</li>
+<li><strong>Learning outcomes:&nbsp;</strong>We all reach the limits of our knowledge or resources for tracking U.S. Congressional legislation. In this webinar, Jesse and Andrea will review some of the harder questions and how they answered them, covering many of the tools, strategies, and little known sources they've learned about and used along the way.</li>
+<li><strong>Expected level of knowledge for participants:&nbsp;</strong>No prerequisite knowledge required</li>
+</ul>
+<p>Upon registering, a confirmation email from sqldba @ icohere.com will be sent with instructions for joining the webinar. To ensure delivery of that email, configure your junk mail or spam filter(s) to permit messages from that address. If you do not receive it, please <a href="https://www.fdlp.gov/component/rsform/form/16-outreach-and-support-contact-form" title="notify GPO">notify GPO</a>. In order to attend or present at a GPO-hosted webinar, a WebEx plug-in must be installed. <a href="http://login.icohere.com/help/help_1/webEx/guide_WebEx_pop.htm" title="Download instructions" target="_blank" rel="noopener">Download instructions</a>.</p><br /><a href="http://www.fdlp.gov/?id=4059" target="_blank">Read more ...</a>]]>
+   </description> 
+   <pubDate>
+    Fri, 17 May 2019 16:32:02 -0400
+   </pubDate> 
+   <guid isPermaLink="false">
+    http://www.fdlp.gov/?id=4059
+   </guid> 
+  </item> 
+  <item> 
+   <title>FDLP exchange Tip of the Week: 3 Phases of Offering</title> 
+   <link>
+    http://www.fdlp.gov/?id=4058
+   </link> 
+   <description><![CDATA[<p>FDLP eXchange was designed to pass offers through three distinct phases before becoming eligible for discard: Regional Review, Selective Review, and National Offers. Revisit <a href="https://www.fdlp.gov/req-guide/instructions/exchange-tips-of-the-week">Tip 6</a>, listed under the tip category ‘needs and offers,’ for a detailed explanation of the phases.</p><br /><a href="http://www.fdlp.gov/?id=4058" target="_blank">Read more ...</a>]]>
+   </description> 
+   <pubDate>
+    Thu, 16 May 2019 07:44:59 -0400
+   </pubDate> 
+   <guid isPermaLink="false">
+    http://www.fdlp.gov/?id=4058
+   </guid> 
+  </item> 
+  <item> 
+   <title>FDLP eXchange Monthly Maintenance Tomorrow</title> 
+   <link>
+    http://www.fdlp.gov/?id=4057
+   </link> 
+   <description><![CDATA[<p>Tomorrow, the U.S. Government Publishing Office (GPO) will perform scheduled maintenance on the FDLP eXchange.</p>
+<ul>
+<li>Start Date: Thursday, May 16, 2019 9:00am (EDT)</li>
+<li>End Date: Thursday, May 16, 2019 12:00pm (EDT)</li>
+<li>Total Duration: 3 hours</li>
+</ul>
+<p>The site should be accessible during maintenance, but certain functions may not be available. During the period, users are advised&nbsp;<strong><span style="text-decoration: underline;">not to</span></strong>:</p>
+<ul>
+<li>Add new items.</li>
+<li>Request or otherwise process pending items.</li>
+<li>Message other libraries.</li>
+</ul>
+<p>We apologize for the inconvenience and appreciate your cooperation during this time.</p><br /><a href="http://www.fdlp.gov/?id=4057" target="_blank">Read more ...</a>]]>
+   </description> 
+   <pubDate>
+    Wed, 15 May 2019 15:48:04 -0400
+   </pubDate> 
+   <guid isPermaLink="false">
+    http://www.fdlp.gov/?id=4057
+   </guid> 
+  </item> 
+  <item> 
+   <title>DLC Delivers FR Modernization Act Issue Brief</title> 
+   <link>
+    http://www.fdlp.gov/?id=4053
+   </link> 
+   <description><![CDATA[<p>In March 2019, the GPO Acting Director Herb Jackson <a href="https://www.fdlp.gov/file-repository/about-the-fdlp/federal-depository-library-council/council-reports-to-gpo/3903-dlc-charge-from-gpo-director-fr-modernization-act">charged</a> the Depository Library Council (DLC) with reviewing the Federal Register Modernization Act, H.R. 1654, and providing an issue brief on how its passage might impact the Federal Depository Library Program (FDLP).</p>
+<p>The DLC sought the opinions, comments, and questions of the broader depository library community during a <a href="https://www.fdlp.gov/spring-2019-depository-library-council-virtual-meeting">discussion session</a> of its virtual meeting in April 2019. The feedback obtained during this session informed their deliberations and the recommendations made in their issue brief.</p>
+<p>The DLC <a href="https://www.fdlp.gov/file-repository/about-the-fdlp/federal-depository-library-council/council-reports-to-gpo/3902-dlc-issue-brief-the-federal-register-modernization-act-h-r-1654-s-1078">issue brief</a> on the Federal Register Modernization Act is now available on FDLP.gov.</p><br /><a href="http://www.fdlp.gov/?id=4053" target="_blank">Read more ...</a>]]>
+   </description> 
+   <pubDate>
+    Mon, 13 May 2019 15:10:07 -0400
+   </pubDate> 
+   <guid isPermaLink="false">
+    http://www.fdlp.gov/?id=4053
+   </guid> 
+  </item> 
+  <item> 
+   <title>Office of Technology Assessment Funding for FY20</title> 
+   <link>
+    http://www.fdlp.gov/?id=4052
+   </link> 
+   <description><![CDATA[<p>The latest <a href="https://appropriations.house.gov/sites/democrats.appropriations.house.gov/files/FY2020%20Leg%20Branch%20Sub%20Markup%20Draft.pdf" title="FY 2020 legislative branch appropriations bill" target="_blank" rel="noopener">FY 2020 legislative branch appropriations bill</a> includes $6 million in initial funding to restore the Office of Technology Assessment (OTA), which was defunded more than 20 years ago. Advocates say it could help Congress understand emerging technology and its social and policy implications.</p>
+<p>The OTA provided Congress with analysis of technology issues from 1972 to 1995. The agency’s mission was to ensure lawmakers had the information they needed on new or expanding technologies and objective information assessing impacts, policy proposals, and scientific expertise “to match that of the executive branch.”</p>
+<p>The University of North Texas (UNT) Libraries’ CyberCemetery contains the <a href="http://govinfo.library.unt.edu/ota/default.htm" title="OTA historic collection" target="_blank" rel="noopener">OTA historic collection</a>, including documents and videos. The CyberCemetery is an archive of Government websites that have ceased operation (usually websites of defunct Government agencies and commissions that have issued a final report). GPO and UNT created a partnership to provide permanent public access to the websites and publications of defunct U.S. Government agencies and commissions.</p>
+<p>Follow the bill’s progress on <a href="https://www.govinfo.gov/" title="govinfo" target="_blank" rel="noopener">govinfo</a>.</p><br /><a href="http://www.fdlp.gov/?id=4052" target="_blank">Read more ...</a>]]>
+   </description> 
+   <pubDate>
+    Fri, 10 May 2019 13:05:08 -0400
+   </pubDate> 
+   <guid isPermaLink="false">
+    http://www.fdlp.gov/?id=4052
+   </guid> 
+  </item> 
+  <item> 
+   <title>FDLP eXchange Maintenance This Weekend</title> 
+   <link>
+    http://www.fdlp.gov/?id=4051
+   </link> 
+   <description><![CDATA[<p>On Saturday, May 11, 2019 maintenance will begin on the servers that host FDLP eXchange. Please note that there may be network connectivity disruptions during the maintenance window. Please refrain from using FDLP eXchange during this timeframe.</p>
+<ul>
+<li>Maintenance Start Time: Saturday, May 11, 2019, 9:00 p.m. (EDT)</li>
+<li>Maintenance End Time: Sunday, May 12, 2019 3:00 a.m. (EDT)&nbsp;</li>
+</ul>
+<p>We apologize for the inconvenience and appreciate your patience as we work to improve the functionally of the FDLP eXchange.</p><br /><a href="http://www.fdlp.gov/?id=4051" target="_blank">Read more ...</a>]]>
+   </description> 
+   <pubDate>
+    Fri, 10 May 2019 08:30:41 -0400
+   </pubDate> 
+   <guid isPermaLink="false">
+    http://www.fdlp.gov/?id=4051
+   </guid> 
+  </item> 
+  <item> 
+   <title>Bibliographic Records for Online Versions of the FDLP Basic Collection on GitHub Repository</title> 
+   <link>
+    http://www.fdlp.gov/?id=4050
+   </link> 
+   <description><![CDATA[<p>Library Services and Content Management (LSCM) has added a bibliographic record set for the Basic Collection to the <a href="https://github.com/usgpo/cataloging-records" title="CGP on GitHub repository" target="_blank" rel="noopener">CGP on GitHub repository</a>. The set of 21 bibliographic records represents the online versions of the resources on the <a href="https://www.fdlp.gov/requirements-guidance/collections-and-databases/1442-basic-collection" title="FDLP Basic Collection">FDLP Basic Collection</a> list. These are resources that every library in the FDLP is required to have accessible for the public’s immediate use, because the titles are vital sources of information supporting the public's right to know about the workings and essential activities of their Federal Government. This record set for the online versions may be useful to new depository libraries and to libraries that are or are considering becoming all digital depositories.</p>
+<p>LSCM will update this record set as needed when changes are made to the Basic Collection. LSCM reviews the Basic Collection on an ongoing basis, at least once a year, and whenever the agency publication status of a resource changes.</p><br /><a href="http://www.fdlp.gov/?id=4050" target="_blank">Read more ...</a>]]>
+   </description> 
+   <pubDate>
+    Thu, 09 May 2019 14:53:58 -0400
+   </pubDate> 
+   <guid isPermaLink="false">
+    http://www.fdlp.gov/?id=4050
+   </guid> 
+  </item> 
+  <item> 
+   <title>Free Webinars from GPO in Full Bloom This May</title> 
+   <link>
+    http://www.fdlp.gov/?id=4048
+   </link> 
+   <description><![CDATA[<p><em>This message has been cross-posted. Please excuse any duplication.</em></p>
+<p>Check out these free, educational webinars from the U.S. Government Publishing Office (GPO) taking place this May.</p>
+<ul><!-- <li><a href="https://www.fdlp.gov/about-the-fdlp/fdlp-events-calendar/event/476-stay-mentally-alert-government-resources-for-good-mental-health" title="Stay Mentally Alert: Government Resources for Good Mental Health">Stay Mentally Alert: Government Resources for Good Mental Health</a>, Jane Canfield (Pontifical Catholic University of Puerto Rico), Wednesday, May 8, 2019, 2:00 – 3:00 p.m. (EDT)</li> -->
+<li><a href="https://www.fdlp.gov/about-the-fdlp/fdlp-events-calendar/event/474-compiling-a-monthly-new-electronic-titles-alert" title="Compiling a Monthly New Electronic Titles Alert">Compiling a Monthly New Electronic Titles Alert</a>, Richard Todd (University of Tulsa College of Law), Thursday, May 9, 2019, 2:00 – 3:00 p.m. (EDT)</li>
+<li><a href="https://www.fdlp.gov/about-the-fdlp/fdlp-events-calendar/event/480-ptab-insights-into-the-iso16363-audit-of-gpo" title="PTAB Insights into the ISO16363 Audit of GPO">PTAB Insights into the ISO16363 Audit of GPO</a>, Primary Trustworthy Digital Repository Authorisation Body Ltd. (PTAB) Auditors David Giaretta, John Garrett, Steve Hughes, &amp; Bruce Ambacher, Wednesday, May 22, 2019, 11:00 a.m. – 12:00 p.m. (EDT)</li>
+<li><a href="https://www.fdlp.gov/about-the-fdlp/fdlp-events-calendar/event/479-web-scraping-for-the-coding-challenged" title="Web Scraping for the Coding-Challenged">Web Scraping for the Coding-Challenged</a>, Carl Olson (Towson University), Thursday, May 23, 2019, 1:00 – 2:00 p.m. (EDT)</li>
+<li><a href="https://www.fdlp.gov/about-the-fdlp/fdlp-events-calendar/event/481-virtual-discussion-on-the-future-development-of-fdlp-exchange" title="Virtual Discussion on the Future Development of FDLP eXchange">Virtual Discussion on the Future Development of FDLP eXchange</a>, Lisa Russell &amp; Cori Holder (GPO), Wednesday, May 29, 2019, 2:00 – 3:00 p.m. (EDT)</li>
+<li><a href="https://www.fdlp.gov/about-the-fdlp/fdlp-events-calendar/event/478-enjoy-that-vacation-and-find-a-new-hobby-government-resources-on-travel-recreation-and-safe-and-interesting-hobbies" title="Enjoy That Vacation and Find a New Hobby: Government Resources on Travel, Recreation, and Safe and Interesting Hobbies">Enjoy That Vacation and Find a New Hobby: Government Resources on Travel, Recreation, and Safe and Interesting Hobbies</a>, Jane Canfield (Pontifical Catholic University of Puerto Rico), Thursday, May 30, 2019, 2:00 – 3:00 p.m. (EDT)</li>
+</ul>
+<p>Attendees will receive a Certificate of Participation from GPO for each webinar they attend. Closed captioning is available for all webinars. Registrants will be sent access information upon registering.</p>
+<p>View the <a href="https://www.fdlp.gov/fdlp-academy/fdlp-academy-training-repository" title="FDLP Academy Training Repository">FDLP Academy Training Repository</a> for recorded webinars and webcasts. All are encouraged to share and re-post information about these free training opportunities.</p><br /><a href="http://www.fdlp.gov/?id=4048" target="_blank">Read more ...</a>]]>
+   </description> 
+   <pubDate>
+    Tue, 07 May 2019 15:12:03 -0400
+   </pubDate> 
+   <guid isPermaLink="false">
+    http://www.fdlp.gov/?id=4048
+   </guid> 
+  </item> 
+  <item> 
+   <title>Virtual Discussion on the Future Development of FDLP eXchange</title> 
+   <link>
+    http://www.fdlp.gov/?id=4047
+   </link> 
+   <description><![CDATA[<p>Register to attend the live training webinar,&nbsp;"<a href="http://login.icohere.com/registration/register.cfm?reg=5806&amp;evt=20190529-virtual-discussion-fdlp-exchange&amp;t=1557240896922" title="Virtual Discussion on the Future Development of FDLP eXchange" target="_blank" rel="noopener">Virtual Discussion on the Future Development of FDLP eXchange</a>."</p>
+<div style="width: 280px; float: right; margin-bottom: 10px; margin-top: 5px;">
+<table style="width: 265px; background-color: #d2e7f5; float: right;" border="0" align="right">
+<tbody>
+<tr>
+<td align="center"><strong></strong></td>
+<td colspan="2">
+<p style="font-family: sans-serif; font-size: 12px; line-height: 14px;"><strong>Date: Wednesday, May 29, 2019</strong><br /><strong>Time: 2:00 p.m.-3:00 p.m. (EDT)</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 1%; text-align: center;"><strong></strong></td>
+<td style="width: 1%; text-align: center;"><strong></strong></td>
+<td style="width: 1%; text-align: center;">&nbsp;<strong></strong></td>
+</tr>
+<tr>
+<td colspan="3">
+<p style="font-family: sans-serif; font-size: 12px; line-height: 14px; margin-bottom: 10px; margin-left: 10px;"><strong>Recording and closed captioning are available. All webinars are free of charge.</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<ul>
+<li><strong>Speakers:&nbsp;</strong>
+<ul>
+<li>Lisa Russell, Lead Program Analyst, Library Services &amp; Content Management (LSCM), U.S. Government Publishing Office (GPO)</li>
+<li>Cori Holder, Web Content Specialist, LSCM, GPO</li>
+</ul>
+</li>
+<li><strong>Learning outcomes:</strong>&nbsp;Join GPO for a discussion of future development plans for FDLP eXchange.</li>
+<li><strong>Expected level of knowledge for participants:&nbsp;</strong>No prerequisite knowledge required, however, viewers are encouraged to review the <a href="https://www.fdlp.gov/file-repository/fdlp-academy-video-suppplemental-materials/3895-fdlp-exchange-virtual-discussion-topics-may-29-2019" title="FDLP eXchange Virtual Discussion Topics handout">FDLP eXchange Virtual Discussion Topics handout</a> before the webinar.</li>
+</ul>
+<p>Upon registering, a confirmation email from sqldba @ icohere.com will be sent with instructions for joining the webinar. To ensure delivery of that email, configure your junk mail or spam filter(s) to permit messages from that address. If you do not receive it, please <a href="https://www.fdlp.gov/component/rsform/form/16-outreach-and-support-contact-form" title="Link to notify GPO">notify GPO</a>. In order to attend or present at a GPO-hosted webinar, a WebEx plug-in must be installed. <a href="http://login.icohere.com/help/help_1/webEx/guide_WebEx_pop.htm" title="Link to Download instructions" target="_blank" rel="noopener">Download instructions</a>.</p><br /><a href="http://www.fdlp.gov/?id=4047" target="_blank">Read more ...</a>]]>
+   </description> 
+   <pubDate>
+    Tue, 07 May 2019 10:48:15 -0400
+   </pubDate> 
+   <guid isPermaLink="false">
+    http://www.fdlp.gov/?id=4047
+   </guid> 
+  </item> 
+  <item> 
+   <title>Monthly Maintenance for the CGP This Wednesday</title> 
+   <link>
+    http://www.fdlp.gov/?id=4046
+   </link> 
+   <description><![CDATA[<p>The Catalog of U.S. Government Publications (CGP), MetaLib, and Federal Depository Library Directory (FDLD) will undergo routine maintenance from Wednesday, May 8, 2019 at 6:00 p.m. (Eastern) through Thursday, May 9, 2019 at 6:00 a.m. (Eastern). During the maintenance period, these services may experience brief, intermittent downtime.</p>
+<p>The CGP, MetaLib, and the FDLD undergo regularly-scheduled monthly maintenance, usually every third Wednesday of every month. This allows for regular performance and security updates, which ensure long-term uptime and reliability of our services. This month due to the number and type of updates needed, we are scheduling it earlier in the month and for a longer duration.</p>
+<p>Thank you for your cooperation, and we apologize for the inconvenience.</p><br /><a href="http://www.fdlp.gov/?id=4046" target="_blank">Read more ...</a>]]>
+   </description> 
+   <pubDate>
+    Mon, 06 May 2019 12:21:08 -0400
+   </pubDate> 
+   <guid isPermaLink="false">
+    http://www.fdlp.gov/?id=4046
+   </guid> 
+  </item> 
+  <item> 
+   <title>Two Weeks Left - Survey on U.S. Code Annual Supplements</title> 
+   <link>
+    http://www.fdlp.gov/?id=4045
+   </link> 
+   <description><![CDATA[<p>There are just two weeks left to participate in the survey of Federal depository libraries on the use of the United States Code (USC) (Y 1.2/5:) and its supplements. GPO’s Office of the Superintendent of Documents is working with the Office of the Law Revision Counsel (OLRC) of the U.S. House of Representatives to conduct the survey. OLRC is the office that produces the USC, and they are investigating whether it can be produced more efficiently by eliminating printed USC annual supplements.</p>
+<p>The USC and its annual supplements have been distributed through the FDLP since 1940. Today nearly 700 depository libraries receive the tangible version of the USC, and nearly 1,000 select the online format. This makes Federal depository libraries well suited for offering comments and responding to the survey.</p>
+<p>The OLRC wants to continue to serve the needs of its users, and your completion of the survey will provide important feedback. The Superintendent of Documents encourages all depository libraries to participate.</p>
+<p>Please <a href="https://www.surveymonkey.com/r/JQSPBNL" title="complete the survey" target="_blank" rel="noopener">complete the survey</a> by <strong>May 20, 2019</strong>. You may <a href="https://www.fdlp.gov/file-repository/collection-management/3876-fdlp-survey-united-states-code-elimination-of-printed-annual-supplements?utm_source=newsletter_1848&amp;utm_medium=email&amp;utm_campaign=depository-library-survey-u-s-code-annual-supplements" title="review a copy of the survey">review a copy of the survey</a> before you begin. Use this QR code to open the survey on your mobile device.</p><br /><a href="http://www.fdlp.gov/?id=4045" target="_blank">Read more ...</a>]]>
+   </description> 
+   <pubDate>
+    Mon, 06 May 2019 11:49:19 -0400
+   </pubDate> 
+   <guid isPermaLink="false">
+    http://www.fdlp.gov/?id=4045
+   </guid> 
+  </item> 
+  <item> 
+   <title>FDLP eXchange Tip of the Week: Bulk Actions - Current and Future</title> 
+   <link>
+    http://www.fdlp.gov/?id=4044
+   </link> 
+   <description><![CDATA[<p>There are a few bulk actions that were included in FDLP eXchange to decrease users’ workloads. Based on user requests, GPO is investigating enhancements that will provide additional bulk functionality. <a href="https://www.fdlp.gov/req-guide/instructions/exchange-tips-of-the-week">Read Tip 31</a> to learn more.</p><br /><a href="http://www.fdlp.gov/?id=4044" target="_blank">Read more ...</a>]]>
+   </description> 
+   <pubDate>
+    Fri, 03 May 2019 13:39:50 -0400
+   </pubDate> 
+   <guid isPermaLink="false">
+    http://www.fdlp.gov/?id=4044
+   </guid> 
+  </item> 
+  <item> 
+   <title>LSCM’s Response to PCC’s New Policy on ISBD Punctuation</title> 
+   <link>
+    http://www.fdlp.gov/?id=4043
+   </link> 
+   <description><![CDATA[<p>In response to the Program for Cooperative Cataloging’s (PCC) recent announcement about the new policy on ISBD punctuation in bibliographic records, LSCM will exercise the option to continue the current practice of including terminal periods at the end of descriptive fields. For complete information on the policy, please consult PCC’s <a href="http://www.loc.gov/aba/pcc/documents/guidelines-terminal-periods.pdf" title="Link to policy guidelines" target="_blank" rel="noopener">policy guidelines</a> and <a href="http://www.loc.gov/aba/pcc/documents/final_punctuation_all_MARC_field.xlsx" title="Link to spreadsheet of fields" target="_blank" rel="noopener">spreadsheet of fields</a> eligible for the new policy.</p>
+<p>While LSCM staff will retain terminal punctuation in their original cataloging, the PCC policy does stipulate that when cataloging staff update a PCC record, they must maintain the original punctuation pattern in the record. LSCM will not add omitted periods in descriptive fields when exporting records from OCLC to the CGP. Therefore some GPO records will reflect the new policy and contain descriptive fields without terminal periods. LSCM’s Projects and Systems staff have confirmed that the presence of records without terminal periods in some descriptive fields will not impact the CGP in any way.</p>
+<p>If you have any questions and concerns, please submit them through <a href="https://www.gpo.gov/askgpo" title="Link to askGPO" target="_blank" rel="noopener">askGPO</a>, under the category, Federal Depository Libraries, and the subcategory, Cataloging.</p><br /><a href="http://www.fdlp.gov/?id=4043" target="_blank">Read more ...</a>]]>
+   </description> 
+   <pubDate>
+    Thu, 02 May 2019 09:01:31 -0400
+   </pubDate> 
+   <guid isPermaLink="false">
+    http://www.fdlp.gov/?id=4043
+   </guid> 
+  </item> 
+  <item> 
+   <title>GPO Director Names New Members to the Depository Library Council </title> 
+   <link>
+    http://www.fdlp.gov/?id=4042
+   </link> 
+   <description><![CDATA[<p style="background: white;">U.S. Government Publishing Office (GPO) Acting Deputy Director John Crawford announces the appointment of three new members to the Depository Library Council (DLC), each of whom serves a three-year term. DLC members advise the GPO Director on policy matters relating to the Federal Depository Library Program (FDLP). In addition to experience working in various types of libraries, the new DLC members have experience with and knowledge of current developments in the fields of library science and U.S. Government information. With the increasing dissemination of information in electronic formats, these new members will help position the DLC and the FDLP for the GPO’s ongoing mission of <em>Keeping America Informed</em>.</p>
+<p style="background: white;">"Libraries play a vital role in helping GPO provide the public with free access to Government information,” said GPO Acting Deputy Director John Crawford. “GPO looks forward to working with these new members who will be valuable assets to the Council.”</p>
+<p style="background: white;">These three new DLC members will serve from June 1, 2019 – May 31, 2022.</p>
+<p style="background: white;"><strong><span style="color: #222222; background: white;">Laura Sare: </span></strong><span style="color: #222222; background: white;">Government Information Librarian, Texas A&amp;M University. Laura is an active member of the American Library Association (ALA)’s Government Documents Roundtable (GODORT) and has served on several GODORT committees, currently as Chair of the Publications Committee. She is the lead editor of GODORT’s journal <em>DttP: Documents to the People</em>, and she won the Margaret T. Lane/Virginia F. Sanders Memorial Research </span><span style="background: white;">Award </span>for an article in <em>portal: Libraries and the Academy</em><span style="background: white;">.<span style="color: #222222;"> Laura is the Communications Working Group Coordinator for the Technical Report Archive &amp; Image Library (TRAIL) that digitizes technical reports and makes them freely available online.</span></span></p>
+<p>&nbsp;&nbsp;</p>
+<p><strong>Will Stringfellow</strong>: Coordinator of Government Documents, Central Library of the Jean and Alexander Heard Libraries at Vanderbilt University.&nbsp;Will serves as the Federal Depository Coordinator overseeing the U.S. Federal and United Nations Depository collections. He manages all aspects of the government documents collection including legal compliance, technical services, stack maintenance, and disposition of the FDLP and UN documents. He supervises three government document student assistants and is currently managing a multi-year deaccession project involving over 100,000 maps and 25 student assistants.</p>
+<p>&nbsp;</p>
+<p>&nbsp;&nbsp;</p>
+<p><strong>Rick Mikulski: </strong>Assistant Professor and Government Documents and Social Sciences Librarian, Portland State University (PSU). Rick provides research support and instruction&nbsp;to the College of Urban and Public Affairs, coordinates the library’s data management services, and oversees PSU’s regional FDLP collection. He is a&nbsp;GOVDOC-L&nbsp;moderator, an active member of&nbsp;GODORT&nbsp;and the&nbsp;Documents Interest Group of Oregon, and has formally been an elected officer of the<em>&nbsp;</em>Documents Association of New Jersey.</p>
+<p>&nbsp;&nbsp;</p><br /><a href="http://www.fdlp.gov/?id=4042" target="_blank">Read more ...</a>]]>
+   </description> 
+   <pubDate>
+    Wed, 01 May 2019 13:05:39 -0400
+   </pubDate> 
+   <guid isPermaLink="false">
+    http://www.fdlp.gov/?id=4042
+   </guid> 
+  </item> 
+  <item> 
+   <title>U.S. Commission on International Religious Freedom 2019 Annual Report Available</title> 
+   <link>
+    http://www.fdlp.gov/?id=4041
+   </link> 
+   <description><![CDATA[<p>GPO’s Library Services &amp; Content Management cataloged the newly-released 2019 Annual Report of the United States Commission on International Religious Freedom.</p>
+<p><strong>Title</strong>: Annual Report of the United States Commission on International Religious Freedom<br /><strong>SuDoc Number</strong>: Y 3.R 27:1/<br /><strong>Item Number</strong>: 1095 (online)<br /><strong>PURL</strong>: &nbsp;<a href="http://purl.fdlp.gov/GPO/gpo49628">Document<br /></a><strong>CGP System Number</strong>: <a href="https://catalog.gpo.gov/F/?func=direct&amp;doc_number=000658156&amp;local_base=GPO01PUB">000658156</a> (EL)</p><br /><a href="http://www.fdlp.gov/?id=4041" target="_blank">Read more ...</a>]]>
+   </description> 
+   <pubDate>
+    Wed, 01 May 2019 08:03:16 -0400
+   </pubDate> 
+   <guid isPermaLink="false">
+    http://www.fdlp.gov/?id=4041
+   </guid> 
+  </item> 
+  <item> 
+   <title>Webinar: PTAB Insights into the ISO16363 Audit of GPO</title> 
+   <link>
+    http://www.fdlp.gov/?id=4040
+   </link> 
+   <description><![CDATA[<p>Register to attend the live training webinar, "<a href="http://login.icohere.com/registration/register.cfm?reg=5758&amp;evt=IGPOA05222019" title="Link to PTAB Insights into the ISO16363 Audit of GPO" target="_blank" rel="noopener">PTAB Insights into the ISO16363 Audit of GPO</a>."</p>
+<div style="width: 280px; float: right; margin-bottom: 10px; margin-top: 5px;">
+<table style="width: 265px; background-color: #d2e7f5; float: right;" border="0" align="right">
+<tbody>
+<tr>
+<td align="center"><strong></strong></td>
+<td colspan="2">
+<p style="font-family: sans-serif; font-size: 12px; line-height: 14px;"><strong>Date: Wednesday, May 22, 2019</strong><br /><strong>Time: 11:00 a.m. - 12:00 p.m. (EDT)</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 1%; text-align: center;"><strong></strong></td>
+<td style="width: 1%; text-align: center;"><strong></strong></td>
+<td style="width: 1%; text-align: center;">&nbsp;<strong></strong></td>
+</tr>
+<tr>
+<td colspan="3">
+<p style="font-family: sans-serif; font-size: 12px; line-height: 14px; margin-bottom: 10px; margin-left: 10px;"><strong>Recording and closed captioning are available. All webinars are free of charge.</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<ul>
+<li><strong>Speakers:&nbsp;</strong>
+<ul>
+<li>David Giaretta, Primary Trustworthy Digital Repository Authorisation Body Ltd. (PTAB) Lead Auditor and Director of PTAB</li>
+<li>John Garrett, PTAB Lead Auditor and Principal at Garrett Software and Co-chair of CCSDS Data Archive Interoperability Working Group, formerly Principal Analyst at NASA’s National Space Science Data Archive</li>
+<li>Steve Hughes, PTAB Auditor and Principal Computer Scientist at the National Aeronautics and Space Administration (NASA) Jet Propulsion Laboratory</li>
+<li>Bruce Ambacher, PTAB Auditor and Research Associate at University of Maryland, formerly Information Technology Specialist at NARA and Visiting Professor at University of Maryland</li>
+</ul>
+</li>
+<li><strong>Learning outcomes:</strong> Participants will learn how the <a href="https://www.fdlp.gov/preservation/trusted-digital-repository-iso-16363-2012-audit-and-certification" title="Link to ISO 16363 audit of GPO">ISO 16363 audit of GPO</a> was carried out in a way to ensure impartiality, competence, and respect for confidentiality. Participants will gain an understanding of the international processes involved, as well as PTAB’s specific procedures required. They will gain and appreciation of the level of preparation by GPO and the breadth and depth of investigation by PTAB for the audit. Benefits of certification, including its international recognition, will be discussed briefly.</li>
+<li><strong>Expected level of knowledge for participants:</strong>
+<ul>
+<li>A basic understanding of digital preservation.</li>
+<li>Awareness of the OAIS and ISO16363 (Repository Audit Metrics) standards would be useful.</li>
+</ul>
+</li>
+</ul>
+<p>Upon registering, a confirmation email from sqldba @ icohere.com will be sent with instructions for joining the webinar. To ensure delivery of that email, configure your junk mail or spam filter(s) to permit messages from that address. If you do not receive it, please <a href="https://www.fdlp.gov/component/rsform/form/16-outreach-and-support-contact-form" title="Link to notify GPO">notify GPO</a>. In order to attend or present at a GPO-hosted webinar, a WebEx plug-in must be installed. <a href="http://login.icohere.com/help/help_1/webEx/guide_WebEx_pop.htm" title="Link to Download instructions" target="_blank" rel="noopener">Download instructions</a>.</p><br /><a href="http://www.fdlp.gov/?id=4040" target="_blank">Read more ...</a>]]>
+   </description> 
+   <pubDate>
+    Tue, 30 Apr 2019 14:52:46 -0400
+   </pubDate> 
+   <guid isPermaLink="false">
+    http://www.fdlp.gov/?id=4040
+   </guid> 
+  </item> 
+  <item> 
+   <title>Webinar: Web Scraping for the Coding-Challenged&nbsp;</title> 
+   <link>
+    http://www.fdlp.gov/?id=4039
+   </link> 
+   <description><![CDATA[<p>Register to attend the live training webinar, "<a href="http://login.icohere.com/registration/register.cfm?reg=5792&amp;evt=IGPOA05232019">Web Scraping for the Coding-Challenged</a>."</p>
+<div style="width: 280px; float: right; margin-bottom: 10px; margin-top: 5px;">
+<table style="width: 265px; background-color: #d2e7f5; float: right;" border="0" align="right">
+<tbody>
+<tr>
+<td align="center"><strong></strong></td>
+<td colspan="2">
+<p style="font-family: sans-serif; font-size: 12px; line-height: 14px;"><strong>Date: Thursday, May 23, 2019</strong><br /><strong>Time: 1:00 pm - 2:00 pm (EDT)</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 1%; text-align: center;"><strong></strong></td>
+<td style="width: 1%; text-align: center;"><strong></strong></td>
+<td style="width: 1%; text-align: center;">&nbsp;<strong></strong></td>
+</tr>
+<tr>
+<td colspan="3">
+<p style="font-family: sans-serif; font-size: 12px; line-height: 14px; margin-bottom: 10px; margin-left: 10px;"><strong>Recording and closed captioning are available. All webinars are free of charge.</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<ul>
+<li><strong>Speaker: </strong>Carl Olson, Government Information Coordinator, Towson University, Cook Library</li>
+<li><strong>Learning outcomes</strong>: Government data is available on the web in many different formats. Documents in PDF, static pages or dynamic search results can be difficult to transfer into interactive formats such as .CSV or Excel. Most software tools for harvesting internet content belong to computer experts. However, journalists, marketing analysts, and information professionals use simple web-scraping techniques to harvest internet data tables. This webinar will demonstrate a small number of simple tools librarians can use to harvest usable data from Government websites.</li>
+<li><strong>Expected level of knowledge for participants</strong>: No prerequisite knowledge required</li>
+</ul>
+<p>Upon registering, a confirmation email from sqldba @ icohere.com will be sent with instructions for joining the webinar. To ensure delivery of that email, configure your junk mail or spam filter(s) to permit messages from that address. If you do not receive it, please <a href="https://www.fdlp.gov/component/rsform/form/16-outreach-and-support-contact-form" title="Link to notify GPO">notify GPO</a>. In order to attend or present at a GPO-hosted webinar, a WebEx plug-in must be installed. <a href="http://login.icohere.com/help/help_1/webEx/guide_WebEx_pop.htm" title="Link to Download instructions" target="_blank" rel="noopener">Download instructions</a>.</p><br /><a href="http://www.fdlp.gov/?id=4039" target="_blank">Read more ...</a>]]>
+   </description> 
+   <pubDate>
+    Tue, 30 Apr 2019 10:46:28 -0400
+   </pubDate> 
+   <guid isPermaLink="false">
+    http://www.fdlp.gov/?id=4039
+   </guid> 
+  </item> 
+  <item> 
+   <title>Webinar: Enjoy That Vacation and Find a New Hobby: Government Resources on Travel, Recreation, and Safe and Interesting Hobbies</title> 
+   <link>
+    http://www.fdlp.gov/?id=4037
+   </link> 
+   <description><![CDATA[<p>Register to attend the live training webinar, "<a href="http://login.icohere.com/registration/register.cfm?reg=5784&amp;evt=CT-JaneC-053019&amp;t=1556542505753" title="Link to Enjoy That Vacation and Find a New Hobby: Government Resources on Travel, Recreation, and Safe and Interesting Hobbies" target="_blank" rel="noopener">Enjoy That Vacation and Find a New Hobby: Government Resources on Travel, Recreation, and Safe and Interesting Hobbies</a>."</p>
+<div style="width: 280px; float: right; margin-bottom: 10px; margin-top: 5px;">
+<table style="width: 265px; background-color: #d2e7f5; float: right;" border="0" align="right">
+<tbody>
+<tr>
+<td align="center"><strong></strong></td>
+<td colspan="2">
+<p style="font-family: sans-serif; font-size: 12px; line-height: 14px;"><strong>Date: Thursday, May 30, 2019</strong><br /><strong>Time: 2:00 pm - 3:00 pm (EDT)</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 1%; text-align: center;"><strong></strong></td>
+<td style="width: 1%; text-align: center;"><strong></strong></td>
+<td style="width: 1%; text-align: center;">&nbsp;<strong></strong></td>
+</tr>
+<tr>
+<td colspan="3">
+<p style="font-family: sans-serif; font-size: 12px; line-height: 14px; margin-bottom: 10px; margin-left: 10px;"><strong>Recording and closed captioning are available. All webinars are free of charge.</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<ul>
+<li><strong>Speaker:</strong> Jane Canfield, Coordinator of Federal Documents, Pontifical Catholic University of Puerto Rico</li>
+<li><strong>Learning outcomes:</strong> “<em>All work and no play make Jack a dull boy</em>” is an old expression that many of us know. This webinar will provide information on Government resources on leisure time, vacation planning, and hobbies. Topics covered will include hobbies which can help the disabled and avoid dementia. Hobbies can also be a source of extra income. Vacation time is important to maintain balance in our lives, and this webinar will offer resources from agencies such as OSHA and explore the science of leisure time with information from sources like PubMed. And to add a touch of fun, we’ll pay a virtual visit to some of our national parks which offer great vacation and leisure time activities. So join us for a fun and informative webinar, and of course, it will include some sources of hobby and vacation information for your users who speak other languages.&nbsp;</li>
+<li><strong>Expected level of knowledge for participants:</strong> No prerequisite knowledge required</li>
+</ul>
+<p>Upon registering, a confirmation email from sqldba @ icohere.com will be sent with instructions for joining the webinar. To ensure delivery of that email, configure your junk mail or spam filter(s) to permit messages from that address. If you do not receive it, please <a href="https://www.fdlp.gov/component/rsform/form/16-outreach-and-support-contact-form" title="Link to notify GPO">notify GPO</a>. In order to attend or present at a GPO-hosted webinar, a WebEx plug-in must be installed. <a href="http://login.icohere.com/help/help_1/webEx/guide_WebEx_pop.htm" title="Link to Download instructions" target="_blank" rel="noopener">Download instructions</a>.</p><br /><a href="http://www.fdlp.gov/?id=4037" target="_blank">Read more ...</a>]]>
+   </description> 
+   <pubDate>
+    Mon, 29 Apr 2019 08:58:15 -0400
+   </pubDate> 
+   <guid isPermaLink="false">
+    http://www.fdlp.gov/?id=4037
+   </guid> 
+  </item> 
+  <item> 
+   <title>FDLP eXchange Monthly Maintenance</title> 
+   <link>
+    http://www.fdlp.gov/?id=4035
+   </link> 
+   <description><![CDATA[<p>Next week, the U.S. Government Publishing Office (GPO) will perform scheduled maintenance on the FDLP eXchange.</p>
+<ul>
+<li>Start Date: Monday, April 29, 2019</li>
+<li>End Date: Monday, April 29, 2019</li>
+<li>Total Duration: 9:00 a.m. – 12:00 p.m. (EDT)</li>
+</ul>
+<p>The site should be accessible during maintenance, but certain functions may not be available. During the period, users are advised <strong>not to:</strong></p>
+<ul>
+<li>Add new items.</li>
+<li>Request or otherwise process pending items.</li>
+<li>Message other libraries.</li>
+</ul>
+<p>We apologize for the inconvenience and appreciate your cooperation during this time.</p><br /><a href="http://www.fdlp.gov/?id=4035" target="_blank">Read more ...</a>]]>
+   </description> 
+   <pubDate>
+    Thu, 25 Apr 2019 10:11:56 -0400
+   </pubDate> 
+   <guid isPermaLink="false">
+    http://www.fdlp.gov/?id=4035
+   </guid> 
+  </item> 
+  <item> 
+   <title>Mueller Report: Tangible Distribution and Special Opportunity for Non-selecting Libraries</title> 
+   <link>
+    http://www.fdlp.gov/?id=4034
+   </link> 
+   <description><![CDATA[<p>The U.S. Government Official Edition of the Report on the Investigation into Russian Interference in the 2016 Presidential Election (Mueller Report) is now available on <strong>govinfo:</strong></p>
+<p><strong>Report on the Investigation into Russian Interference in the 2016 Presidential Election</strong></p>
+<p><strong>Class:</strong> J 1.128:R 92/OFFICIAL<br /> <strong>Item Number:</strong> 0717-A-65<br /> <strong>PURL:</strong> <a href="https://purl.fdlp.gov/GPO/gpo119314" target="_blank" rel="noopener">https://purl.fdlp.gov/GPO/gpo119314</a><br /> <strong>CGP:</strong> <a href="https://catalog.gpo.gov/F/?func=direct&amp;doc_number=001097661&amp;local_base=GPO01PUB" target="_blank" rel="noopener">001097661</a></p>
+<p>The report will also be distributed in tangible format to depository libraries beginning April 24, 2019. Cataloging and distribution information is as follows:</p>
+<p><strong>Report on the Investigation into Russian Interference in the 2016 Presidential Election</strong></p>
+<p><strong>Class:</strong> J 1.128:R 92/OFFICIAL<br /> <strong>Item Number:</strong> 0717-A-65<br /> <strong>Shipping List:</strong> 2019-0201-P<br /> <strong>CGP:</strong> <a href="https://catalog.gpo.gov/F/?func=direct&amp;doc_number=001097749&amp;local_base=GPO01PUB" target="_blank" rel="noopener">001097749</a></p>
+<p>The Superintendent of Documents has acquired a limited number of additional copies of the Report on the Investigation into Russian Interference in the 2016 Presidential Election for distribution to depository libraries that <strong>do not select</strong> item number 0717-A-65. This includes all digital or mostly digital depository libraries that do not currently select tangible item numbers.</p>
+<p>Requests to receive the report will be filled on a first-come, first-served basis. Libraries that do not select item number 0717-A-65 can request <strong>one</strong> copy of the report, which will be subject to the same retention requirements as tangible materials distributed to depository libraries through item selection. Please log in to FDLP.gov and <a href="https://www.fdlp.gov/index.php?option=com_rsform&amp;view=rsform&amp;formId=161">complete this form</a> by Wednesday, May 8, 2019, to request.</p>
+<p><strong>Update: All available copies have been requested.</strong></p><br /><a href="http://www.fdlp.gov/?id=4034" target="_blank">Read more ...</a>]]>
+   </description> 
+   <pubDate>
+    Wed, 24 Apr 2019 15:21:55 -0400
+   </pubDate> 
+   <guid isPermaLink="false">
+    http://www.fdlp.gov/?id=4034
+   </guid> 
+  </item> 
+  <item> 
+   <title>FDLP eXchange Tip of the Week: Your Library Name Field</title> 
+   <link>
+    http://www.fdlp.gov/?id=4033
+   </link> 
+   <description><![CDATA[<p>Recently, LSCM staff have been getting numerous questions about the Library Name field in FDLP eXchange. Users have noted that it contains both their library name and institution name, while the Parent Institution field only contains the institution name. A previous Tip of the Week, Tip 10, addressed this issue. Take a look back at <a href="https://www.fdlp.gov/project-list/fdlp-exchange#tip10">Tip 10</a> to learn more.</p><br /><a href="http://www.fdlp.gov/?id=4033" target="_blank">Read more ...</a>]]>
+   </description> 
+   <pubDate>
+    Wed, 24 Apr 2019 08:16:23 -0400
+   </pubDate> 
+   <guid isPermaLink="false">
+    http://www.fdlp.gov/?id=4033
+   </guid> 
+  </item> 
+ </channel> 
+</rss>

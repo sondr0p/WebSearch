@@ -1,0 +1,145 @@
+<!doctype html>
+<html>
+ <head> 
+  <meta charset="utf-8" content=""> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <title>Holder Report Upload Application - Sign In</title> 
+  <meta name="apple-mobile-web-app-capable" content="yes"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"> 
+  <meta name="apple-mobile-web-app-status-bar-style" content="black"> 
+  <script src="/mtd/unclaimed_upload/Content/base/jQuery/js/jquery-2.1.4.js"></script> 
+  <script src="/mtd/unclaimed_upload/Content/base/jQuery/js/jquery.unobtrusive-ajax.js"></script> 
+  <script src="/mtd/unclaimed_upload/Content/base/jQuery/js/jquery.validate.js"></script> 
+  <script src="/mtd/unclaimed_upload/Content/base/jQuery/js/jquery.validate.unobtrusive.js"></script> 
+  <script src="/mtd/unclaimed_upload/Content/base/bootstrap/js/bootstrap.js"></script> 
+  <script src="/mtd/unclaimed_upload/Content/base/modernizr/js/modernizr-2.8.3.js"></script> 
+  <script src="/mtd/unclaimed_upload/Content/base/json2/js/json2.js"></script> 
+  <script src="/mtd/unclaimed_upload/Content/base/moment/js/moment.js"></script> 
+  <script src="/mtd/unclaimed_upload/Content/base/twitter-bootstrap-wizard/js/jquery.bootstrap.wizard.js"></script> 
+  <script src="/mtd/unclaimed_upload/Content/agency/adminLTE/plugins/datepicker/bootstrap-datepicker.js"></script> 
+  <script src="/mtd/unclaimed_upload/Content/agency/adminLTE/plugins/slimScroll/jquery.slimscroll.js"></script> 
+  <script src="/mtd/unclaimed_upload/Content/agency/adminLTE/plugins/fullcalendar/fullcalendar.js"></script> 
+  <script src="/mtd/unclaimed_upload/Content/agency/adminLTE/js/app.js"></script> 
+  <script src="/mtd/unclaimed_upload/Scripts/jquery.unobtrusive-ajax.js" type="text/javascript"></script> 
+  <script src="/mtd/unclaimed_upload/Content/agency/js/bootstrap-datetimepicker.js"></script> 
+  <script src="/mtd/unclaimed_upload/Content/agency/js/multiple-select.js"></script> 
+  <script src="/mtd/unclaimed_upload/Content/agency/js/scripts.js"></script> 
+  <script src="/mtd/unclaimed_upload/Content/agency/js/jquery.maskedinput.min.js"></script> 
+  <link href="/mtd/unclaimed_upload/Content/base/bootstrap/css/bootstrap.css" rel="stylesheet"> 
+  <link href="/mtd/unclaimed_upload/Content/base/font-awesome/css/font-awesome.css" rel="stylesheet"> 
+  <link href="/mtd/unclaimed_upload/Content/base/msi/css/style.css" rel="stylesheet"> 
+  <link href="/mtd/unclaimed_upload/Content/agency/css/jquery-ui.css" rel="stylesheet"> 
+  <link href="/mtd/unclaimed_upload/Content/agency/css/multiple-select.css" rel="stylesheet"> 
+  <link href="/mtd/unclaimed_upload/Content/agency/css/style.css" rel="stylesheet"> 
+  <link rel="shortcut icon" href="/mtd/unclaimed_upload/Content/agency/images/favicon.ico"> 
+  <script type="text/javascript">
+$(window).load(function(){
+	if(window.location.protocol === "http:")
+{
+	    window.location.href = "https://" + window.location.host + window.location.pathname;
+}
+});
+      </script> 
+ </head> 
+ <body class="public"> 
+  <div class="header"> 
+   <div class="row"> 
+    <div class="col-sm-6 col-xs-12 logo">
+     <img src="/mtd/unclaimed_upload/Content/agency/images/agency-logo.png" alt="">
+    </div> 
+    <div class="col-sm-6 col-xs-12 title">
+     <h1>Holder Report Upload Application</h1>
+    </div> 
+    <!-- Global site tag (gtag.js) - Google Analytics --> 
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-55801552-3"></script> 
+    <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-55801552-3');
+                </script> 
+   </div> 
+  </div> 
+  <div class="appSection"> 
+   <table id="appFrame"> 
+    <tbody>
+     <tr> 
+      <td id="aFnav"> 
+       <ul id="navBara" class="nav nav-pills nav-stacked"> 
+        <li role="presentation"><a href="#" onclick="document.location='/mtd/unclaimed_upload/Home/ForgotPassword'" class="nBtn mBtn" title="Forgot Password">Forgot Password</a></li> 
+        <li role="presentation"><a href="#" onclick="document.location='/mtd/unclaimed_upload/Home/Register'" class="nBtn mBtn" title="Register">Register</a></li> 
+       </ul> </td> 
+      <td id="aFapp"> 
+       <div id="appTarget"></div> 
+       <form action="/mtd/unclaimed_upload/Home/SignIn" class="form-style-1" method="post">
+        <div class="row"> 
+         <div class="col-lg-12"> 
+          <h2>Sign In</h2> 
+          <div id="info"> 
+           <p> Only registered users may access the content of this site.<br> Create a new account by clicking the "Register" button.<br> If you have forgotten your password, click "Forgot Password". </p> 
+          </div>
+          <p>Please enter your credentials below and click "Submit" to proceed.</p> 
+         </div> 
+        </div> 
+        <div class="padBottom row"> 
+         <div class="col-lg-12"> 
+          <div class="validation-summary-valid validation-summary-errors" data-valmsg-summary="true">
+           <ul>
+            <li style="display:none"></li> 
+           </ul>
+          </div> 
+         </div> 
+        </div> 
+        <div class="row"> 
+         <div class="col-lg-6 col-sm-6"> 
+          <div class="row-fluid"> 
+           <label for="Email">Email</label> 
+          </div> 
+          <div class="row-fluid"> 
+           <input data-val="true" data-val-maxlength="The field Email must be a string or array type with a maximum length of '80'." data-val-maxlength-max="80" data-val-regex="Incorrect Format Email Format" data-val-regex-pattern="^([0-9a-zA-Z]([-.\w]*[0-9a-zA-Z])*@([0-9a-zA-Z][-\w]*[0-9a-zA-Z]\.)+[a-zA-Z]{2,9})$" data-val-required="Email Required" id="Email" name="Email" placeholder="Email (Required)" type="text" value=""> 
+          </div> 
+          <div class="row-fluid"> 
+           <label for="Password">Password</label> 
+          </div> 
+          <div class="row-fluid"> 
+           <input data-val="true" data-val-required="Password Required" id="Password" name="Password" placeholder="Password (Required)" type="password" value=""> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="row"> 
+         <div class="col-lg-12"> 
+          <button type="submit" class="btnApp">Submit</button> 
+         </div> 
+        </div> 
+       </form> </td> 
+     </tr> 
+    </tbody>
+   </table> 
+   <div class="row"> 
+    <div class="nv col-sm-2 col-xs-12"> 
+    </div>
+    <div class="col-sm-10 col-xs-12"> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="footer"> 
+   <div class="row"> 
+    <div class="col-sm-7"> 
+     <nav> 
+      <strong><a href="http://www.treasurerlynnfitch.ms.gov/">Office of the Mississippi State Treasurer, Lynn Fitch</a><br></strong> Holder Report Upload Application 
+      <br> For policy-related questions, please contact: 
+      <strong><a href="tel:601-359-2513">601-359-2513</a></strong> or 
+      <strong><a href="mailto:UPReporting@treasury.ms.gov">UPReporting@treasury.ms.gov</a></strong>
+      <br> For technical support with the site, please visit 
+      <strong><a href="https://www.ms.gov/help_portal" target="_blank">Ms.Gov Help Portal</a></strong> 
+     </nav>
+    </div> 
+    <div class="col-sm-5 msgov">
+     <a href="http://www.ms.gov/" target="_blank"><img src="/mtd/unclaimed_upload/Content/base/msi/images/logo-msGov-footer.png" alt=""></a>
+    </div> 
+   </div> 
+  </div> 
+  <!-- inline scripts always should come last -->   
+ </body>
+</html>

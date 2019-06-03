@@ -1,0 +1,582 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+	Your Source for Reliable Health Information - healthfinder.gov
+</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+  <link rel="canonical" href="https://healthfinder.gov:443/espanol/default.aspx">
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+  <meta name="verify-v1" content="SGDyDYxOiYbFQAhohrwKuaxwOiCVv2eZij6NzZ678Cg=">
+  <meta name="y_key" content="e1fae57e8f96398e">
+  <link href="/css/reset.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/styles.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/styles-esp.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/font-awesome.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/flexslider.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/jquery.tweet.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/colorbox/colorbox.css" rel="stylesheet" media="all">
+  <link href="/css/redmond/jquery-ui-1.8.20.custom.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/jquery.dataTables.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/jquery.dataTables_themeroller.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/quickguide.css" rel="stylesheet" media="all">
+  <link href="/css/myhealthfinder.css" rel="stylesheet" media="all">
+  <link href="/css/ecards.css" rel="stylesheet" media="all">
+  <link href="/css/quiz.css" rel="stylesheet" media="all">
+  <link href="/css/surveys.css" rel="stylesheet" media="screen">
+  <link href="/css/odphp-global-nav.css" rel="stylesheet" media="all"> 
+  <!--[if (gte IE 6)&(lte IE 8)]>
+        <script type="text/javascript" src="/js/selectivizr-min.js"></script>
+    <![endif]--> 
+  <!--[if IE 7]>
+        <link rel="stylesheet" type="text/css" media="all" href="/css/ie7.css" /><link rel="stylesheet" type="text/css" media="all" href="/css/font-awesome-ie7.css" />
+        <![endif]--> 
+  <!--[if IE 8]><link rel="stylesheet" type="text/css" media="all" href="/css/ie8.css" /><![endif]--> 
+  <link type="text/css" rel="stylesheet" href="/css/search-suggest.css">
+  <link type="text/css" rel="stylesheet" href="/css/print.css" media="print"> 
+ </head> 
+ <body id="body" class="home espanol"> 
+  <!-- Google Tag Manager --> 
+  <noscript>
+   <iframe src="//www.googletagmanager.com/ns.html?id=GTM-5TG7CH&amp;NoJavascriptType=web&amp;NoJavascriptCID=39e43b36-2573-599d-afee-fc110f58d697&amp;NoJavascriptURL=https%3a%2f%2fhealthfinder.gov%2fespanol%2f&amp;NoJavascriptLang=es-ES&amp;NoJavascriptReferrer=&amp;NoJavascriptTitle=Your+Source+for+Reliable+Health+Information+-+healthfinder.gov" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript> 
+  <script>(function (w, d, s, l, i) {
+w[l] = w[l] || []; w[l].push({
+'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'AnalyticsLogicLayer', 'GTM-5TG7CH');</script> 
+  <!-- End Google Tag Manager --> 
+  <div id="HideIfWidget1"> 
+   <div class="global-nav"> 
+    <div class="global-nav-odphp">
+     <span>Office of Disease Prevention and Health Promotion</span>
+    </div> 
+    <ul> 
+     <li><a href="https://health.gov/" class="global-nav-healthgov">health.gov</a></li> 
+     <li><a href="https://healthfinder.gov/" class="global-nav-healthfinder global-nav-current">healthfinder.gov</a></li> 
+     <li><a href="https://healthypeople.gov/" class="global-nav-healthypeople">healthypeople.gov</a></li> 
+    </ul> 
+   </div> 
+   <img class="print-logo" src="/images/footer-hf-logo.png" alt="Department of Health and Human Services"> 
+  </div> 
+  <div id="page"> 
+   <div id="HideIfWidget2"> 
+    <a href="https://www.hhs.gov/" class="parent-banner">U.S. Department of Health and Human Services</a> 
+    <div id="header" class="clearfix" role="banner"> 
+     <div id="skip"> 
+      <a class="skipnav" href="#skipnav" tabindex="1">Skip to Content</a> 
+     </div> 
+     <div id="espanol">
+      <a href="/">In English</a>
+     </div> 
+     <div id="mobile-menu-trigger" class="mobile-hide"> 
+      <h2>Menu</h2> 
+     </div> 
+     <div id="logo"> 
+      <a href="/espanol" title="healthfinder.gov"> <img src="/espanol/images/logo.png" alt="healthfinder.gov"> </a> 
+     </div> 
+     <!-- Search --> 
+     <div id="search-box" role="search"> 
+      <form method="get" name="search" id="search" action="/espanol/buscar"> 
+       <label for="searchText">Buscar en healthfinder.gov:</label> 
+       <input name="q" type="search" autocomplete="off" id="searchText" title="Buscar" class="search_text" aria-autocomplete="both" aria-haspopup="true"> 
+       <span class="query-suggestions-wrap"> <span id="query_suggestions" class="query-suggestions" aria-live="off"></span> </span> 
+       <span id="query_status" class="query-status" aria-live="polite"></span> 
+       <input id="searchButton" class="search_button" value="Ir" type="submit"> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="content" class="clearfix"> 
+    <div id="HideIfWidget3"> 
+     <div class="main_menu"> 
+      <div id="espMenu1_mainMenu" role="navigation">
+       <ul class="menu menu-hide"> 
+        <li class="active"> <a href="/espanol/Default.aspx">Página principal</a> </li> 
+        <li> <a href="/espanol/temas/">Temas de salud A-Z</a> </li> 
+        <li> <a href="/espanol/miBuscadorDeSalud/">miBuscador de salud</a> </li> 
+        <li> <a href="/FreeContent/">Contenido gratuito (en inglés)</a> 
+         <ul> 
+          <li> <a href="/FreeContent/HealthTopics/">Health and Wellness Topics</a> </li> 
+          <li> <a href="/FreeContent/PreventiveServices/">Preventive Services Recommendations</a> </li> 
+          <li> <a href="/FreeContent/Developer/">APIs for Developers</a> </li> 
+         </ul> </li> 
+        <li> <a href="/FindServices/">Busque servicios de salud (en inglés)</a> </li> 
+        <li class="last"> <a href="/NHO/">Días dedicados a la salud (en inglés)</a> </li> 
+       </ul>
+      </div> 
+      <div class="connect clearfix"> 
+       <p class="connect-text">Estamos en:</p> 
+       <a class="facebook connect-button" href="https://www.facebook.com/healthfinder" title="Facebook"> <img src="/images/icon-fb.png" alt="Facebook icon"></a> 
+       <a class="twitter connect-button" href="https://www.twitter.com/healthfinder" title="Twitter"> <img src="/images/icon-twitter.png" alt="Twitter icon"></a> 
+       <!--<a class="rss connect-button" href="/espanol/noticias/rss.asp" title="RSS">
+        <img src="/images/icon-rss.png" alt="RSS icon" /></a> --> 
+       <div class="email-updates-container"> 
+        <a id="email-updates" href="https://public.govdelivery.com/accounts/USOPHSODPHPHF/subscriber/new?topic_id=USOPHSODPHPHF_1" target="_blank">Suscríbase</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="main_content" role="main"> 
+     <div id="HideIfWidget4"> 
+      <div id="breadcrumb"> 
+       <span id="espBreadcrumbs1_SiteMapPath1"><span>Página principal</span></span> 
+      </div> 
+      <div id="espBreadcrumbs1_addThisPanel"> 
+       <div id="addThisCode" class="clearfix"> 
+        <!-- AddToAny BEGIN --> 
+        <div class="a2a_kit a2a_kit_size_32 a2a_default_style"> 
+         <a class="a2a_dd" href="https://www.addtoany.com/share"></a> 
+         <a class="a2a_button_facebook"></a> 
+         <a class="a2a_button_twitter"></a> 
+        </div> 
+        <script>
+      var a2a_config = a2a_config || {};
+      a2a_config.onclick = 1;
+      </script> 
+        <script async src="https://static.addtoany.com/menu/page.js"></script> 
+        <!-- AddToAny END --> 
+       </div> 
+      </div> 
+      <span id="skipnav"></span> 
+     </div> 
+     <form method="post" action="../Default.aspx" id="MainForm"> 
+      <div class="aspNetHidden"> 
+       <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value=""> 
+       <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value=""> 
+       <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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b3JkI3cfAmhkFgJmDxUBAVdkAgMPZBYCZg8VAQFXZAIXD2QWBAIBDw8WBB8FBRgvZXNwYW5vbC90ZW1hcy9LZXl3b3JkI3gfAmhkFgJmDxUBAVhkAgMPZBYCZg8VAQFYZAIYD2QWBAIBDw8WBB8FBRgvZXNwYW5vbC90ZW1hcy9LZXl3b3JkI3kfAmhkFgJmDxUBAVlkAgMPZBYCZg8VAQFZZAIZD2QWBAIBDw8WBB8FBRgvZXNwYW5vbC90ZW1hcy9LZXl3b3JkI3ofAmhkFgJmDxUBAVpkAgMPZBYCZg8VAQFaZAJPDxYCHwQCAhYEZg9kFgJmDxUGRGh0dHBzOi8vbWVkaWEuaGVhbHRoZGF5LmNvbS9JbWFnZXMvaWNpbWFnZXMvMTUwMDMuanBnP3Jlc2l6ZT0xODA6MTM1a0xhIG1lbm9wYXVzaWEgcHJlbWF0dXJhIG8gdGVtcHJhbmEgZXMgbSZhYWN1dGU7cyBwcm9iYWJsZSBlbiBsYXMgbXVqZXJlcyBzaW4gaGlqb3MsIHNlZyZ1YWN1dGU7biB1biBlc3R1ZGlvfi9lc3Bhbm9sL25vdGljaWFzL0FydGljdWxvLzcxOTA2Ni9sYS1tZW5vcGF1c2lhLXByZW1hdHVyYS1vLXRlbXByYW5hLWVzLW1hcy1wcm9iYWJsZS1lbi1sYXMtbXVqZXJlcy1zaW4taGlqb3Mtc2VndW4tdW4tZXN0dWRpb2tMYSBtZW5vcGF1c2lhIHByZW1hdHVyYSBvIHRlbXByYW5hIGVzIG0mYWFjdXRlO3MgcHJvYmFibGUgZW4gbGFzIG11amVyZXMgc2luIGhpam9zLCBzZWcmdWFjdXRlO24gdW4gZXN0dWRpbxpKdWV2ZXMgMjYgZGUgZW5lcm8gZGUgMjAxNwBkAgEPZBYCZg8VBkRodHRwczovL21lZGlhLmhlYWx0aGRheS5jb20vSW1hZ2VzL2ljaW1hZ2VzLzE1MTM0LmpwZz9yZXNpemU9MTgwOjEzNWlMYXMgcGVyc29uYXMgbWF5b3JlcyBxdWUgZXN0JmFhY3V0ZTtuIG0mYWFjdXRlO3MgZW4gZm9ybWEgcG9kciZpYWN1dGU7YW4gdGVuZXIgdW4gY2VyZWJybyBtJmFhY3V0ZTtzIHNhbm9vL2VzcGFub2wvbm90aWNpYXMvQXJ0aWN1bG8vNzE5MDcxL2xhcy1wZXJzb25hcy1tYXlvcmVzLXF1ZS1lc3Rhbi1tYXMtZW4tZm9ybWEtcG9kcmlhbi10ZW5lci11bi1jZXJlYnJvLW1hcy1zYW5vaUxhcyBwZXJzb25hcyBtYXlvcmVzIHF1ZSBlc3QmYWFjdXRlO24gbSZhYWN1dGU7cyBlbiBmb3JtYSBwb2RyJmlhY3V0ZTthbiB0ZW5lciB1biBjZXJlYnJvIG0mYWFjdXRlO3Mgc2FubxpKdWV2ZXMgMjYgZGUgZW5lcm8gZGUgMjAxNwBkAgYPZBYEAgEPDxYCHwJoZGQCAw9kFgICAQ9kFgICAQ8WAh8ABRtTw6FiYWRvIDAxIGRlIGp1bmlvIGRlIDIwMTlkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYFBR5jdGwwMCRjb250ZW50JGN0bDMzJGZlbWFsZUN0cmwFHmN0bDAwJGNvbnRlbnQkY3RsMzMkZmVtYWxlQ3RybAUcY3RsMDAkY29udGVudCRjdGwzMyRtYWxlQ3RybAUcY3RsMDAkY29udGVudCRjdGwzMyRtYWxlQ3RybAUgY3RsMDAkY29udGVudCRjdGwzMyRwcmVnbmFudEN0cmwSLr+m98dYgbiPIiePvITGoFoGkloakAAnb16vQjh8Hg=="> 
+      </div> 
+      <script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['MainForm'];
+if (!theForm) {
+    theForm = document.MainForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script> 
+      <div class="aspNetHidden"> 
+       <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334"> 
+       <input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAUe/jm/xoeYwT0VC3RgOELRDgXcWCZPSDhYb8ROWcNyDRTXuzEw09HWB5FuF2cWkCrmQigiW+rG6d/WpXOHUFJJ+NNj2xbzSp2fdCA/m7beeTAPQuW0PN30UuMfgUhIYnYo7A2NJWFtE3EgbGbsZEJh"> 
+      </div> 
+      <div class="flexslider"> 
+       <ul class="slides"> 
+        <li> 
+         <div class="slide" style="background-image:url(/images/HF-banner-01.jpg);"> 
+          <div class="slide-content"> 
+           <h2> <a href="/espanol/temas/Category/consultas-con-el-doctor/pruebas-de-deteccion/hazte-la-prueba-para-medir-la-densidad-de-los-huesos">Hazte la prueba para medir la densidad de los huesos</a></h2> 
+           <p> <a href="/espanol/temas/Category/consultas-con-el-doctor/pruebas-de-deteccion/hazte-la-prueba-para-medir-la-densidad-de-los-huesos">Con esta prueba se determina qué tan fuertes tienes los huesos.</a></p> 
+           <a class="button" href="/espanol/temas/Category/consultas-con-el-doctor/pruebas-de-deteccion/hazte-la-prueba-para-medir-la-densidad-de-los-huesos">Más información</a> 
+          </div> 
+          <!-- /.slide-content --> 
+         </div> </li> 
+        <!-- /.slide --> 
+        <li> 
+         <div class="slide" style="background-image:url(/images/HF-banner-02.jpg);"> 
+          <div class="slide-content"> 
+           <h2> <a href="/espanol/temas/Category/la-crianza-de-los-hijos/nutricion-y-actividad-fisica/que-debes-saber-antes-de-ir-a-nadar-toma-estas-medidas-de-seguridad">Consejos: Cómo nadar sin peligro</a></h2> 
+           <p> <a href="/espanol/temas/Category/la-crianza-de-los-hijos/nutricion-y-actividad-fisica/que-debes-saber-antes-de-ir-a-nadar-toma-estas-medidas-de-seguridad">Entérate de cómo mantenerte seguro dentro del agua y cerca de ella.</a></p> 
+           <a class="button" href="/espanol/temas/Category/la-crianza-de-los-hijos/nutricion-y-actividad-fisica/que-debes-saber-antes-de-ir-a-nadar-toma-estas-medidas-de-seguridad">Más información</a> 
+          </div> 
+          <!-- /.slide-content --> 
+         </div> </li> 
+        <!-- /.slide --> 
+        <li> 
+         <div class="slide" style="background-image:url(/images/HF-banner-03.jpg);"> 
+          <div class="slide-content"> 
+           <h2> <a href="/espanol/temas/Category/enfermedades-y-problemas-de-salud/cancer/como-hablar-con-un-ser-querido-sobre-la-importancia-de-dejar-de-fumar">Temas para hablar con un ser querido: Dejar de fumar</a></h2> 
+           <p> <a href="/espanol/temas/Category/enfermedades-y-problemas-de-salud/cancer/como-hablar-con-un-ser-querido-sobre-la-importancia-de-dejar-de-fumar">La mayoría de los fumadores quieren dejar de fumar. Habla hoy mismo con esa persona.</a></p> 
+           <a class="button" href="/espanol/temas/Category/enfermedades-y-problemas-de-salud/cancer/como-hablar-con-un-ser-querido-sobre-la-importancia-de-dejar-de-fumar">Más información</a> 
+          </div> 
+          <!-- /.slide-content --> 
+         </div> </li> 
+        <!-- /.slide --> 
+        <li> 
+         <div class="slide" style="background-image:url(/images/HF-banner-04.jpg);"> 
+          <div class="slide-content"> 
+           <h2> <a href="/espanol/temas/Category/la-crianza-de-los-hijos/precauciones-de-seguridad/toma-medidas-para-prevenir-el-cancer-de-piel">Toma precauciones para prevenir el cáncer de piel</a></h2> 
+           <p> <a href="/espanol/temas/Category/la-crianza-de-los-hijos/precauciones-de-seguridad/toma-medidas-para-prevenir-el-cancer-de-piel">La mejor forma de prevenir el cáncer de piel es proteger la piel del sol.</a></p> 
+           <a class="button" href="/espanol/temas/Category/la-crianza-de-los-hijos/precauciones-de-seguridad/toma-medidas-para-prevenir-el-cancer-de-piel">Más información</a> 
+          </div> 
+          <!-- /.slide-content --> 
+         </div> </li> 
+        <!-- /.slide --> 
+        <li> 
+         <div class="slide" style="background-image:url(/images/HF-banner-05.jpg);"> 
+          <div class="slide-content"> 
+           <h2> <a href="/espanol/temas/Category/consultas-con-el-doctor/pruebas-de-deteccion/habla-con-el-doctor-sobre-la-depresion">Habla con el doctor sobre la depresión</a></h2> 
+           <p> <a href="/espanol/temas/Category/consultas-con-el-doctor/pruebas-de-deteccion/habla-con-el-doctor-sobre-la-depresion">Buscar ayuda es el primer paso para sentirte mejor.</a></p> 
+           <a class="button" href="/espanol/temas/Category/consultas-con-el-doctor/pruebas-de-deteccion/habla-con-el-doctor-sobre-la-depresion">Más información</a> 
+          </div> 
+          <!-- /.slide-content --> 
+         </div> </li> 
+        <!-- /.slide --> 
+       </ul> 
+      </div> 
+      <div class="shadow-wide"></div> 
+      <div class="two-thirds"> 
+       <div class="content-page-box content-page-box-front"> 
+        <h2> Temas de salud</h2> 
+        <p class="mobile-block push"><span class="mobile-block"> Información para mantener su salud y la de sus seres queridos</span></p> 
+        <div class="front-thumbs"> 
+         <a href="/espanol/temas/Category/enfermedades-y-problemas-de-salud"> <p><span> Enfermedades y problemas de salud</span></p> <img src="/images/HealthTopics/category-1-hp.png" alt="Enfermedades y problemas de salud"> </a> 
+         <a href="/espanol/temas/Category/nutricion-y-actividad-fisica"> <p><span> Nutrición y actividad física</span></p> <img src="/images/HealthTopics/category-2-hp.png" alt="Nutrición y actividad física"> </a> 
+         <a href="/espanol/temas/Category/embarazo"> <p><span> Embarazo</span></p> <img src="/images/HealthTopics/category-5-hp.png" alt="Embarazo"> </a> 
+         <a href="/espanol/temas/Category/consultas-con-el-doctor"> <p><span> Consultas con el doctor</span></p> <img src="/images/HealthTopics/category-3-hp.png" alt="Consultas con el doctor"> </a> 
+         <a href="/espanol/temas/Category/como-llevar-una-vida-sana"> <p><span> Cómo llevar una vida sana</span></p> <img src="/images/HealthTopics/category-4-hp.png" alt="Cómo llevar una vida sana"> </a> 
+         <a href="/espanol/temas/Category/la-crianza-de-los-hijos"> <p><span> La crianza de los hijos</span></p> <img src="/images/HealthTopics/category-6-hp.png" alt="La crianza de los hijos"> </a> 
+         <div class="clear"></div> 
+        </div> 
+        <p> Temas de salud en orden alfabético</p> 
+        <ul class="jump-links-list"> 
+         <li> <a id="content_keywordLetterRepeater_letterLink_0" href="/espanol/temas/Keyword#a">A</a> </li> 
+         <li> <a id="content_keywordLetterRepeater_letterLink_1" href="/espanol/temas/Keyword#b">B</a> </li> 
+         <li> <a id="content_keywordLetterRepeater_letterLink_2" href="/espanol/temas/Keyword#c">C</a> </li> 
+         <li> <a id="content_keywordLetterRepeater_letterLink_3" href="/espanol/temas/Keyword#d">D</a> </li> 
+         <li> <a id="content_keywordLetterRepeater_letterLink_4" href="/espanol/temas/Keyword#e">E</a> </li> 
+         <li> <span id="content_keywordLetterRepeater_nonLink_5">F</span> </li> 
+         <li> <a id="content_keywordLetterRepeater_letterLink_6" href="/espanol/temas/Keyword#g">G</a> </li> 
+         <li> <a id="content_keywordLetterRepeater_letterLink_7" href="/espanol/temas/Keyword#h">H</a> </li> 
+         <li> <a id="content_keywordLetterRepeater_letterLink_8" href="/espanol/temas/Keyword#i">I</a> </li> 
+         <li> <span id="content_keywordLetterRepeater_nonLink_9">J</span> </li> 
+         <li> <span id="content_keywordLetterRepeater_nonLink_10">K</span> </li> 
+         <li> <a id="content_keywordLetterRepeater_letterLink_11" href="/espanol/temas/Keyword#l">L</a> </li> 
+         <li> <a id="content_keywordLetterRepeater_letterLink_12" href="/espanol/temas/Keyword#m">M</a> </li> 
+         <li> <a id="content_keywordLetterRepeater_letterLink_13" href="/espanol/temas/Keyword#n">N</a> </li> 
+         <li> <a id="content_keywordLetterRepeater_letterLink_14" href="/espanol/temas/Keyword#o">O</a> </li> 
+         <li> <a id="content_keywordLetterRepeater_letterLink_15" href="/espanol/temas/Keyword#p">P</a> </li> 
+         <li> <a id="content_keywordLetterRepeater_letterLink_16" href="/espanol/temas/Keyword#q">Q</a> </li> 
+         <li> <a id="content_keywordLetterRepeater_letterLink_17" href="/espanol/temas/Keyword#r">R</a> </li> 
+         <li> <a id="content_keywordLetterRepeater_letterLink_18" href="/espanol/temas/Keyword#s">S</a> </li> 
+         <li> <a id="content_keywordLetterRepeater_letterLink_19" href="/espanol/temas/Keyword#t">T</a> </li> 
+         <li> <span id="content_keywordLetterRepeater_nonLink_20">U</span> </li> 
+         <li> <a id="content_keywordLetterRepeater_letterLink_21" href="/espanol/temas/Keyword#v">V</a> </li> 
+         <li> <span id="content_keywordLetterRepeater_nonLink_22">W</span> </li> 
+         <li> <span id="content_keywordLetterRepeater_nonLink_23">X</span> </li> 
+         <li> <span id="content_keywordLetterRepeater_nonLink_24">Y</span> </li> 
+         <li> <span id="content_keywordLetterRepeater_nonLink_25">Z</span> </li> 
+        </ul> 
+        <p class="mobile-block"> <a class="button browse-all-button mobile-clearfix" href="/espanol/temas">Ver todos los temas de salud</a></p> 
+        <div class="clear"></div> 
+       </div> 
+       <!-- /.content-page-box --> 
+       <div class="shadow-wide"></div> 
+      </div> 
+      <div class="one-third"> 
+       <div class="content-page-box content-page-box-front myhealthfinder_tool_wrapper myhealthfinder_homepage"> 
+        <div onkeypress="javascript:return WebForm_FireDefaultButton(event, 'content_ctl33_myHFSubmit')"> 
+         <div id="myHFFormWrapper"> 
+          <div id="myHealthfinderWidgetBox"> 
+           <div class="MyHFWidget-header"> 
+            <h2><i>mi</i>Buscador de salud</h2> 
+           </div> 
+           <div id="myHealthfinderWidgetForm" class="form"> 
+            <p>¿Para quién es la información que estás buscando hoy?</p> 
+            <div class="row age_row"> 
+             <label for="ageCtrl">Edad:</label>
+             <input type="number" id="ageCtrl" name="ageCtrl" min="0" tabindex="4"> 
+            </div> 
+            <div class="row gender_row"> 
+             <span class="label sex">Sexo:</span> 
+             <div class="sex-group"> 
+              <div class="radio femaleCtrl"> 
+               <input id="content_ctl33_femaleCtrl" type="radio" name="ctl00$content$ctl33$gender" value="femaleCtrl" tabindex="3">
+               <label for="content_ctl33_femaleCtrl">Mujer</label> 
+              </div> 
+              <div class="radio"> 
+               <input id="content_ctl33_maleCtrl" type="radio" name="ctl00$content$ctl33$gender" value="maleCtrl" tabindex="2">
+               <label for="content_ctl33_maleCtrl">Hombre</label> 
+              </div> 
+             </div> 
+            </div> 
+            <div id="pregnantRow" class="row pregnant_row pregnant"> 
+             <div class="row_content"> 
+              <input id="content_ctl33_pregnantCtrl" type="checkbox" name="ctl00$content$ctl33$pregnantCtrl" tabindex="5"> 
+              <label for="content_ctl33_pregnantCtrl">¿Embarazada?</label> 
+             </div> 
+            </div> 
+            <div class="row submit_row"> 
+             <a id="content_ctl33_myHFSubmit" tabindex="6" class="results-button" href="javascript:__doPostBack('ctl00$content$ctl33$myHFSubmit','')">Comienza aquí</a> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <script>
+  (function () {
+
+    function toggleClass(element, tClass, state, classes, hasClass) {
+      classes = element.className;
+      hasClass = classes.indexOf(tClass) !== -1;
+      if(state === undefined) {
+        state = !hasClass;
+      }
+      element.className = state
+          ? classes + ( hasClass ? "" : " " + tClass)
+          : classes.replace(tClass, "").replace("  "," ");
+    }
+
+    var
+      ageCtrl = document.getElementById('ageCtrl'),
+      maleCtrl = document.getElementById('content_ctl33_maleCtrl'),
+      femaleCtrl = document.getElementById('content_ctl33_femaleCtrl'),
+      pregnantCtrl = document.getElementById('content_ctl33_pregnantCtrl'),
+      pregnantRow = document.getElementById('pregnantRow'),
+      myHFSubmit = document.getElementById('content_ctl33_myHFSubmit'),
+
+      getAge = function() {
+        var
+          ageStr = ageCtrl.value,
+          age = parseInt(ageStr, 10);
+        if(age == 0 && ageStr !== '0'){
+          age = -1;
+        } 
+        return age;
+      },
+
+      controlsUpdate = function () {
+        var
+          age = getAge(),
+          male = maleCtrl.checked,
+          female = femaleCtrl.checked,
+          pregnantParam = (female && pregnantCtrl.checked ? '&pregnant=1' : ''),
+          gender = male ? 'male' : 'female',
+          enabled, pregnantOK, gender;
+
+        enabled = (age >= 0 && (male || female));
+        toggleClass(myHFSubmit,'disabled',!enabled);
+        if(enabled){
+          myHFSubmit.removeAttribute('disabled');
+        } else {
+          myHFSubmit.setAttribute('disabled', true);
+        }
+
+        pregnantOK = female && age > 10 && age < 50;
+        pregnantRow.setAttribute('aria-hidden', !pregnantOK);
+        pregnantRow.style.visibility = pregnantOK ? 'visible' : 'hidden';
+
+      };
+
+      ageCtrl.onkeyup = controlsUpdate;
+      maleCtrl.onchange = controlsUpdate;
+      femaleCtrl.onchange = controlsUpdate;
+      pregnantCtrl.onchange = controlsUpdate;
+      myHFSubmit.onclick = function () {
+        var age = getAge();
+        if (maleCtrl.checked || age <= 10 || age >= 50) {
+          pregnantCtrl.checked = false;
+        }
+        if (this.getAttribute('disabled')) { return false };
+        AnalyticsLogicLayer.push({
+          'Widget Name': 'MyHFHomePage',
+          'event': 'Widget Click',
+        });
+      };
+
+      controlsUpdate();
+
+    })();
+</script> 
+        <div class="clear"></div> 
+       </div> 
+       <!-- /.content-page-box --> 
+       <div class="shadow"></div> 
+       <div class="content-page-box homepage-quiz-box clearfix"> 
+        <h2> Responda a una prueba de salud</h2> 
+        <p> Cada prueba tiene consejos y recursos para ayudarle a mantenerse saludable.</p> 
+        <p class="no-margin-p"> <a class="button" href="/espanol/prueba">Ver todas las pruebas de salud</a></p> 
+       </div> 
+       <!-- /.content-page-box --> 
+       <div class="shadow"></div> 
+      </div> 
+      <!--<div class="content-page-box latest-health-news">
+        <h2>
+            &uacute;ltimas noticias de salud</h2>
+        <div class="news-items">
+            
+                    <div class="news-item">
+                        <div class="news-image">
+                            <img src='https://media.healthday.com/Images/icimages/15003.jpg?resize=180:135' alt='La menopausia prematura o temprana es m&aacute;s probable en las mujeres sin hijos, seg&uacute;n un estudio' />
+                        </div>
+                        <h3><a href='/espanol/noticias/Articulo/719066/la-menopausia-prematura-o-temprana-es-mas-probable-en-las-mujeres-sin-hijos-segun-un-estudio'>La menopausia prematura o temprana es m&aacute;s probable en las mujeres sin hijos, seg&uacute;n un estudio</a></h3>
+                        <span>Jueves 26 de enero de 2017</span>
+                        <p></p>
+                        <div class="clear"></div>
+                    </div>
+                
+                    <div class="news-item">
+                        <div class="news-image">
+                            <img src='https://media.healthday.com/Images/icimages/15134.jpg?resize=180:135' alt='Las personas mayores que est&aacute;n m&aacute;s en forma podr&iacute;an tener un cerebro m&aacute;s sano' />
+                        </div>
+                        <h3><a href='/espanol/noticias/Articulo/719071/las-personas-mayores-que-estan-mas-en-forma-podrian-tener-un-cerebro-mas-sano'>Las personas mayores que est&aacute;n m&aacute;s en forma podr&iacute;an tener un cerebro m&aacute;s sano</a></h3>
+                        <span>Jueves 26 de enero de 2017</span>
+                        <p></p>
+                        <div class="clear"></div>
+                    </div>
+                
+        </div>
+        <!-- /.news-items --> 
+      <!--<div class="clear"></div>
+        <a class="button" href="/espanol/noticias">Ver m&aacute;s noticias de salud</a>
+        <div class="clear"></div>
+    </div>--> 
+      <!-- /.content-page-box --> 
+      <!--<div class="shadow-wide"></div>--> 
+      <div id="resizable_embedded_link"></div> 
+      <script src="/WebResource.axd?d=YHaPRvwot1KP2UZQHOrEar50xX-qKp7UnwcQk9n1Zxu4Fap02uDG0HmYB_HobRXTm9_YBtODkXUf9jSNWqSbpsrW3hZj7KNFvwOorM3hIzU1&amp;t=636809332873435865" type="text/javascript"></script> 
+     </form> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+   </div> 
+   <div id="HideIfWidget5"> 
+    <div id="footer" role="complementary"> 
+     <ul class="footer-links-wide"> 
+      <li><a href="/espanol/sobrenosotros/" title="Sobre nosotros">Sobre nosotros</a></li> 
+      <li><a href="/espanol/sobrenosotros/Accesibilidad.aspx" title="Accesibilidad">Accesibilidad</a></li> 
+      <li><a href="/espanol/sobrenosotros/Privacidad.aspx" title="Política de privacidad">Política de privacidad</a></li> 
+      <li><a href="/espanol/sobrenosotros/Libertad.aspx" title="Ley de libertad de lnformación">Ley de Libertad de Información</a></li> 
+      <li><a href="/espanol/sobrenosotros/Descargo.aspx" title="Descargo de responsabilidad">Descargo de responsabilidad</a></li> 
+      <li><a href="/espanol/sobrenosotros/Escribanos.aspx" title="Escríbanos" target="_blank">Escríbanos</a></li> 
+      <li><a href="/espanol/Mapa.aspx" title="Mapa del sitio" target="_blank">Mapa del sitio</a></li> 
+      <li><a href="/espanol/sobrenosotros/Reproductores.aspx" title="Visualizadores y reproductores">Visualizadores y reproductores</a></li> 
+      <li class="last"><a href="https://www.hhs.gov/civil-rights/for-individuals/nondiscrimination/index.html" target="_blank">Aviso sobre la ausencia de discriminación (en inglés)</a></li> 
+      <li class="clear"></li> 
+     </ul> 
+     <div class="clear"></div> 
+     <div class="footer-language"> 
+      <p>Se ofrece asistencia en distintos idiomas</p> 
+      <ul class="footer-links-wide"> 
+       <li><a lang="es" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#spanish" target="_blank">Español</a></li> 
+       <li><a lang="zh" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#chinese" target="_blank">????</a></li> 
+       <li><a lang="vi" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#vietnamese" target="_blank">Ti?ng Vi?t</a></li> 
+       <li><a lang="ko" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#korean" target="_blank">???</a></li> 
+       <li><a lang="fr" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#french" target="_blank">Français</a></li> 
+       <li><a lang="pl" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#polish" target="_blank">Polski</a></li> 
+       <li><a lang="pt" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#portugese" target="_blank">Português</a></li> 
+       <li><a lang="it" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#italian" target="_blank">Italiano</a></li> 
+       <li><a lang="tl" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#tagalog" target="_blank">Tagalog</a></li> 
+       <li><a lang="ru" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#russian" target="_blank">???????</a></li> 
+       <li><a lang="ar" dir="rtl" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#arabic" target="_blank">???????</a></li> 
+       <li><a lang="sg" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#creole" target="_blank">Kreyòl Ayisyen</a></li> 
+       <li><a lang="de" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#german" target="_blank">Deutsch</a></li> 
+       <li><a lang="ja" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#japanese" target="_blank">???</a></li> 
+       <li><a lang="fa" dir="rtl" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#farsi" target="_blank">?????</a></li> 
+       <li class="last"><a href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#english" target="_blank">English</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+     <div id="footer-bottom"> 
+      <div class="footer-text">
+        healthfinder.gov está patrocinado por el Centro Nacional de Información sobre la Salud.
+       <br> 
+       <span id="espFooter1_dateSpan">Última revisión: Sábado 01 de junio de 2019</span>. 
+      </div> 
+      <div class="logo-box"> 
+       <a class="logo-hhs" href="https://www.hhs.gov/" title="Department of Health and Human Services"> <img src="/images/footer-hhs-logo.png" alt="Department of Health and Human Services"></a> 
+       <a class="logo-odphp" href="https://health.gov/" title="Office of Disease Prevention and Health Promotion"> <img src="/images/odphp-logo-black.png" class="odphp-logo" alt="Office of Disease Prevention and Health Promotion"></a> 
+       <a class="logo-healthfinder" href="https://healthfinder.gov" title="healthfinder.gov"> <img src="/images/footer-hf-logo.png" alt="healthfinder.gov logo"></a> 
+      </div> 
+      <div class="clear"></div> 
+     </div> 
+     <!-- /#footer-bottom --> 
+     <div class="clear"></div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="up_scrollable_indicator"></div> 
+  <div id="down_scrollable_indicator"></div> 
+  <script src="/js/jquery-1.8.3.min.js" type="text/javascript"></script> 
+  <script src="/js/jquery-ui-1.8.16.custom.min.js" type="text/javascript"></script> 
+  <script src="/js/jquery.cycle.all.js" type="text/javascript"></script> 
+  <script src="/js/jquery.colorbox-min.js" type="text/javascript"></script> 
+  <script src="/js/jquery.flexslider.modified.js" type="text/javascript"></script> 
+  <script src="/js/jquery.ba-hashchange.min.js" type="text/javascript"></script> 
+  <script src="/js/healthfinder.js" type="text/javascript"></script> 
+  <script src="/js/jquery.ddslick.min.js" type="text/javascript"></script> 
+  <script src="/js/myhealthfinder.js" type="text/javascript"></script> 
+  <script src="/js/global-nav.js" type="text/javascript"></script> 
+  <script src="/js/outlink.js" type="text/javascript"></script> 
+  <script src="/js/search-suggest.js" type="text/javascript"></script> 
+  <!--AddThis code--> 
+  <script type="text/javascript">
+        var addthis_config = {
+            ui_language: "es"
+      };
+    </script> 
+  <script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=xa-50c0b9a52a842762"></script> 
+  <!-- Document Download tracking --> 
+  <script src="/js/ga_download_tracker.js" type="text/javascript"></script> 
+  <!--CrazyEgg tracking code --> 
+  <script type="text/javascript">
+        setTimeout(function () {
+            var a = document.createElement("script");
+            var b = document.getElementsByTagName("script")[0];
+            a.src = document.location.protocol + "//dnn506yrbagrg.cloudfront.net/pages/scripts/0013/7844.js?" + Math.floor(new Date().getTime() / 3600000);
+            a.async = true; a.type = "text/javascript"; b.parentNode.insertBefore(a, b)
+        }, 1);
+    </script> 
+  <!--BEGIN QUALTRICS SITE INTERCEPT sitewide --> 
+  <script type="text/javascript">
+        (function () {
+            var g = function (e, h, f, g) {
+                this.get = function (a) { for (var a = a + "=", c = document.cookie.split(";"), b = 0, e = c.length; b < e; b++) { for (var d = c[b]; " " == d.charAt(0) ;) d = d.substring(1, d.length); if (0 == d.indexOf(a)) return d.substring(a.length, d.length) } return null };
+                this.set = function (a, c) { var b = "", b = new Date; b.setTime(b.getTime() + 6048E5); b = "; expires=" + b.toGMTString(); document.cookie = a + "=" + c + b + "; path=/; " };
+                this.check = function () { var a = this.get(f); if (a) a = a.split(":"); else if (100 != e) "v" == h && (e = Math.random() >= e / 100 ? 0 : 100), a = [h, e, 0], this.set(f, a.join(":")); else return !0; var c = a[1]; if (100 == c) return !0; switch (a[0]) { case "v": return !1; case "r": return c = a[2] % Math.floor(100 / c), a[2]++, this.set(f, a.join(":")), !c } return !0 };
+                this.xgo = function () { if (this.check()) { var a = document.createElement("script"); a.type = "text/javascript"; a.src = g + "&t=" + (new Date()).getTime(); document.body && document.body.appendChild(a) } };
+                this.go = function () { wait_for_session_delay(30, this.xgo, this); };
+                this.start = function () { var a = this; window.addEventListener ? window.addEventListener("load", function () { a.go() }, !1) : window.attachEvent && window.attachEvent("onload", function () { a.go() }) }
+            };
+            try { (new g(100, "r", "QSI_S_SI_eDVjXbuzcR5eE0B", "//znbqj3egyjwfzib9r-communicatehealth.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_eDVjXbuzcR5eE0B&Q_LOC=" + encodeURIComponent(window.location.href))).start() } catch (i) { }
+        })();
+    </script> 
+  <div id="SI_eDVjXbuzcR5eE0B"> 
+   <!--DO NOT REMOVE-CONTENTS PLACED HERE--> 
+  </div> 
+  <!--END SITE INTERCEPT--> 
+  <!--BEGIN QUALTRICS SITE INTERCEPT feedback link --> 
+  <script type="text/javascript">
+        (function () {
+            var g = function (e, h, f, g) {
+                this.get = function (a) { for (var a = a + "=", c = document.cookie.split(";"), b = 0, e = c.length; b < e; b++) { for (var d = c[b]; " " == d.charAt(0) ;) d = d.substring(1, d.length); if (0 == d.indexOf(a)) return d.substring(a.length, d.length) } return null };
+                this.set = function (a, c) { var b = "", b = new Date; b.setTime(b.getTime() + 6048E5); b = "; expires=" + b.toGMTString(); document.cookie = a + "=" + c + b + "; path=/; " };
+                this.check = function () { var a = this.get(f); if (a) a = a.split(":"); else if (100 != e) "v" == h && (e = Math.random() >= e / 100 ? 0 : 100), a = [h, e, 0], this.set(f, a.join(":")); else return !0; var c = a[1]; if (100 == c) return !0; switch (a[0]) { case "v": return !1; case "r": return c = a[2] % Math.floor(100 / c), a[2]++, this.set(f, a.join(":")), !c } return !0 };
+                this.go = function () { if (this.check()) { var a = document.createElement("script"); a.type = "text/javascript"; a.src = g + "&t=" + (new Date()).getTime(); document.body && document.body.appendChild(a) } };
+                this.start = function () { var a = this; window.addEventListener ? window.addEventListener("load", function () { a.go() }, !1) : window.attachEvent && window.attachEvent("onload", function () { a.go() }) }
+            };
+            try { (new g(100, "r", "QSI_S_SI_cXQyslZ7nyPxAbz", "//znbqj3egyjwfzib9r-communicatehealth.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_cXQyslZ7nyPxAbz&Q_LOC=" + encodeURIComponent(window.location.href))).start() } catch (i) { }
+        })();
+    </script> 
+  <div id="SI_cXQyslZ7nyPxAbz"> 
+   <!--DO NOT REMOVE-CONTENTS PLACED HERE--> 
+  </div> 
+  <!--END SITE INTERCEPT--> 
+  <!--BEGIN QUALTRICS SITE INTERCEPT - page level --> 
+  <script type="text/javascript">
+        (function () {
+            var g = function (e, h, f, g) {
+                this.get = function (a) { for (var a = a + "=", c = document.cookie.split(";"), b = 0, e = c.length; b < e; b++) { for (var d = c[b]; " " == d.charAt(0) ;) d = d.substring(1, d.length); if (0 == d.indexOf(a)) return d.substring(a.length, d.length) } return null };
+                this.set = function (a, c) { var b = "", b = new Date; b.setTime(b.getTime() + 6048E5); b = "; expires=" + b.toGMTString(); document.cookie = a + "=" + c + b + "; path=/; " };
+                this.check = function () { var a = this.get(f); if (a) a = a.split(":"); else if (100 != e) "v" == h && (e = Math.random() >= e / 100 ? 0 : 100), a = [h, e, 0], this.set(f, a.join(":")); else return !0; var c = a[1]; if (100 == c) return !0; switch (a[0]) { case "v": return !1; case "r": return c = a[2] % Math.floor(100 / c), a[2]++, this.set(f, a.join(":")), !c } return !0 };
+                this.go = function () { if (this.check()) { var a = document.createElement("script"); a.type = "text/javascript"; a.src = g + "&t=" + (new Date()).getTime(); document.body && document.body.appendChild(a) } };
+                this.start = function () { var a = this; window.addEventListener ? window.addEventListener("load", function () { a.go() }, !1) : window.attachEvent && window.attachEvent("onload", function () { a.go() }) }
+            };
+            try { (new g(100, "r", "QSI_S_SI_abZk2DnPlZAGHjL", "//znbqj3egyjwfzib9r-communicatehealth.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_abZk2DnPlZAGHjL&Q_LOC=" + encodeURIComponent(window.location.href))).start() } catch (i) { }
+        })();
+    </script> 
+  <div id="SI_abZk2DnPlZAGHjL"> 
+   <!--DO NOT REMOVE-CONTENTS PLACED HERE--> 
+  </div> 
+  <!--END SITE INTERCEPT--> 
+  <script src="https://health.gov/ui/js/lib/survey-wrapper.js"></script>   
+ </body>
+</html>

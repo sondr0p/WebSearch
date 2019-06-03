@@ -1,0 +1,1885 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+ <head> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <base href="https://www.fdlp.gov/catalogingandclassification/cataloging-record-distribution-program"> 
+  <meta http-equiv="content-type" content="text/html; charset=utf-8"> 
+  <meta name="keywords" content="FDLP, Federal Depository Library Program"> 
+  <meta name="author" content="John Braddock"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta name="description" content="Federal Depository Library Program"> 
+  <title>Cataloging Record Distribution Program</title> 
+  <link href="/templates/fdlp/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"> 
+  <link href="/media/com_hikashop/css/hikashop.css?v=403" rel="stylesheet" type="text/css"> 
+  <link href="/media/com_hikashop/css/frontend_custom1.css?t=1555002915" rel="stylesheet" type="text/css"> 
+  <link href="/media/com_hikashop/css/font-awesome.css?v=5.2.0" rel="stylesheet" type="text/css"> 
+  <link href="/modules/mod_aridatatables/includes/js/widgets/datatable/css/datatable_jui.css" rel="stylesheet" type="text/css"> 
+  <link href="/modules/mod_aridatatables/includes/js/widgets/datatable/plugins/tabletools/css/TableTools_JUI.css" rel="stylesheet" type="text/css"> 
+  <link href="/modules/mod_aridatatables/includes/assets/jui/flick/style.css" rel="stylesheet" type="text/css"> 
+  <link href="/cache/widgetkit/widgetkit-ba38d738.css" rel="stylesheet" type="text/css"> 
+  <link href="/templates/fdlp/css/template.css" rel="stylesheet" type="text/css"> 
+  <link href="https://www.fdlp.gov/modules/mod_aikon_scroll_top/assets/css/scrolltop.css" rel="stylesheet" type="text/css"> 
+  <link href="/templates/fdlp/css/djmegamenu.css?v=4.0.0.free" rel="stylesheet" type="text/css"> 
+  <link href="/modules/mod_djmegamenu/assets/css/animations.css?v=4.0.0.free" rel="stylesheet" type="text/css"> 
+  <link href="/modules/mod_djmegamenu/assets/css/offcanvas.css?v=4.0.0.free" rel="stylesheet" type="text/css"> 
+  <link href="/modules/mod_djmegamenu/mobilethemes/light/djmobilemenu.css?v=4.0.0.free" rel="stylesheet" type="text/css"> 
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"> 
+  <link href="/modules/mod_djmegamenu/themes/default/css/djmegamenu.css?v=4.0.0.free" rel="stylesheet" type="text/css"> 
+  <style type="text/css">
+#at_227 { width: 100%; border-collapse: separate; border-width: 0px; border-spacing: 0px;} #at_227 th, #at_227 td { padding: 0px; } table.dataTable tr.odd { background-color: #e1e9fc; }		.dj-hideitem, li.item-2831 { display: none !important; }
+
+
+#aSt-module-387.aikonScrollTop {
+	background-color: #205493;
+	border-radius: 8px;
+	width: 55px;
+	height: 40px;
+	color: #ffffff;
+	bottom: 430px;
+	transition: all 0.2s ease;
+	-webkit-transition: all 0.2s ease;
+	
+/* Echo the left / right attributes and apply side animation */
+	right: -100px; left: auto;	
+} 
+	
+#aSt-module-387.aikonScrollTop:hover {
+	background-color: #4773aa;
+	transition: all 0.2s ease;
+	-webkit-transition: all 0.2s ease;
+}
+		
+#aSt-module-387.aikonScrollTop:active {
+	background-color: #4773aa;
+	transition: all 0.2s ease;
+	-webkit-transition: all 0.2s ease;
+}
+	
+#aSt-module-387.aikonScrollTop i#the-ast-arrow {
+	color: #ffffff;
+	font-size: 15px;
+}
+	
+#aSt-module-387.aikonScrollTop:hover i#the-ast-arrow {
+	color: #ffffff;
+	transition: all 0.2s ease;
+	-webkit-transition: all 0.2s ease;
+}
+	
+	/* Hide module on mobile or tablet */
+	
+@media screen and (max-width: 480px){
+			#aSt-module-387.aikonScrollTop {
+				display: none;	
+				}
+			}
+#aSt-module-387.aikonScrollTop.ast-visible {
+
+right: 10px; left: auto;	
+}
+	
+#aSt-module-387.aikonScrollTop.astBottomFade.ast-visible {
+	bottom: 430px;
+}
+
+	
+	
+#aSt-module-387.aikonScrollTop.astBottomFade {
+	bottom: -150px;
+}
+	
+#aSt-module-387.aikonScrollTop.astFadeIn {
+	opacity: 0; 
+}
+		
+#aSt-module-387.aikonScrollTop.astFadeIn.ast-visible {
+	opacity: 1;
+}
+	
+	
+
+		@media (min-width: 980px) {	
+			#dj-megamenu336mobile { display: none; }
+		}
+		@media (max-width: 979px) {
+			#dj-megamenu336, #dj-megamenu336sticky, #dj-megamenu336placeholder { display: none !important; }
+		}
+	
+		@media (min-width: 980px) {	
+			#dj-megamenu339mobile { display: none; }
+		}
+		@media (max-width: 979px) {
+			#dj-megamenu339, #dj-megamenu339sticky, #dj-megamenu339placeholder { display: none !important; }
+		}
+	
+	</style> 
+  <script type="application/json" class="joomla-script-options new">{"csrf.token":"e7507701923b8e6a0f8bf3bc38ed901f","system.paths":{"root":"","base":""},"system.keepalive":{"interval":300000,"uri":"\/component\/ajax\/?format=json"}}</script> 
+  <script src="/media/jui/js/jquery.min.js?2651ce3e7e7a83dbda58587663e47859" type="text/javascript"></script> 
+  <script src="/media/jui/js/jquery-noconflict.js?2651ce3e7e7a83dbda58587663e47859" type="text/javascript"></script> 
+  <script src="/media/com_hikashop/js/hikashop.js?v=403" type="text/javascript"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js" type="text/javascript"></script> 
+  <script src="/modules/mod_aridatatables/includes/js/jquery.noconflict.js" type="text/javascript"></script> 
+  <script src="/modules/mod_aridatatables/includes/js/widgets/datatable/js/jquery.dataTables.min.js" type="text/javascript"></script> 
+  <script src="/modules/mod_aridatatables/includes/js/widgets/datatable/js/jquery.dataTables.extra.js" type="text/javascript"></script> 
+  <script src="/modules/mod_aridatatables/includes/js/widgets/datatable/plugins/tabletools/js/TableTools.min.js" type="text/javascript"></script> 
+  <script src="/modules/mod_aridatatables/includes/js/widgets/datatable/plugins/fixedcolumns/js/FixedColumns.min.js" type="text/javascript"></script> 
+  <script src="/media/jui/js/jquery-migrate.min.js?2651ce3e7e7a83dbda58587663e47859" type="text/javascript"></script> 
+  <script src="/cache/widgetkit/widgetkit-836c59ce.js" type="text/javascript"></script> 
+  <script src="/plugins/system/maximenuckmobile/assets/maximenuckmobile.js" type="text/javascript"></script> 
+  <script src="/media/jui/js/bootstrap.min.js?2651ce3e7e7a83dbda58587663e47859" type="text/javascript"></script> 
+  <script src="/templates/fdlp/js/fdlp.js" type="text/javascript"></script> 
+  <script src="/templates/fdlp/js/bootstrap-tooltip.js" type="text/javascript"></script> 
+  <script src="/templates/fdlp/js/bootstrap-popover.js" type="text/javascript"></script> 
+  <script src="/templates/fdlp/js/bootstrap-clickover.js" type="text/javascript"></script> 
+  <script src="/templates/fdlp/js/bootstrap-affix.js" type="text/javascript"></script> 
+  <script src="/templates/fdlp/js/respond.min.js" type="text/javascript"></script> 
+  <script src="https://www.fdlp.gov/modules/mod_aikon_scroll_top/assets/js/scrolltop.js" type="text/javascript"></script> 
+  <script src="/plugins/system/floatingmoduleck/assets/floatingmoduleck.js" type="text/javascript"></script> 
+  <script src="/modules/mod_djmegamenu/assets/js/jquery.djmegamenu.js?v=4.0.0.free" type="text/javascript" defer></script> 
+  <script src="/modules/mod_djmegamenu/assets/js/jquery.djmobilemenu.js?v=4.0.0.free" type="text/javascript" defer></script> 
+  <script src="/media/system/js/mootools-core.js?2651ce3e7e7a83dbda58587663e47859" type="text/javascript"></script> 
+  <script src="/media/system/js/core.js?2651ce3e7e7a83dbda58587663e47859" type="text/javascript"></script> 
+  <script src="/media/com_finder/js/autocompleter.js" type="text/javascript"></script> 
+  <!--[if lt IE 9]><script src="/media/system/js/polyfill.event.js?2651ce3e7e7a83dbda58587663e47859" type="text/javascript"></script><![endif]--> 
+  <script src="/media/system/js/keepalive.js?2651ce3e7e7a83dbda58587663e47859" type="text/javascript"></script> 
+  <script type="text/javascript">
+;(window["ADTQuery"] || jQuery)(document).ready(function($) { if (typeof(AriDataTables) != "undefined") AriDataTables.hideLoadingPane("#at_227_wrapper");var options = {"bJQueryUI":true,"bSort":false,"bProcessing":true,"iDisplayLength":10,"bRetrieve":true,"aaSorting":[],"sDom":"T<\"dtclear\"><\"H\"lfr>t<\"F\"ip>","oTableTools":{"sSwfPath":"\/modules\/mod_aridatatables\/includes\/js\/widgets\/datatable\/plugins\/tabletools\/swf\/copy_csv_xls_pdf.swf","aButtons":[{"sExtends":"copy","sButtonText":"Copy"},{"sExtends":"csv","sButtonText":"CSV"},{"sExtends":"xls","sButtonText":"Excel"},{"sExtends":"pdf","sButtonText":"PDF"},{"sExtends":"print","sButtonText":"Print"}]}};options["fnDrawCallback"] = function(oSettings) { adt_DataTable_DrawCallback(oSettings) };var dt = $("#at_227").addClass("display dataTable").dataTable(options);});var CKTEXT_PLG_MAXIMENUCK_MENU = 'Menu';jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });Browser.Engine = new Object();
+Browser.Engine.presto = false;jQuery(document).ready(function($){$('.floatingmoduleck').FloatingModuleCK({time : '200',zIndex : '1000',minResolution : '640'});});
+	(function(){
+		var cb = function() {
+			var add = function(css, id) {
+				if(document.getElementById(id)) return;
+				
+				var l = document.createElement('link'); l.rel = 'stylesheet'; l.id = id; l.href = css;
+				var h = document.getElementsByTagName('head')[0]; h.appendChild(l);
+			}
+			add('/media/djextensions/css/animate.min.css', 'animate_min_css');
+			add('/media/djextensions/css/animate.ext.css', 'animate_ext_css');
+		};
+		var raf = requestAnimationFrame || mozRequestAnimationFrame || webkitRequestAnimationFrame || msRequestAnimationFrame;
+		if (raf) raf(cb);
+		else window.addEventListener('load', cb);
+	})();
+	(function(){
+		var cb = function() {
+			var add = function(css, id) {
+				if(document.getElementById(id)) return;
+				
+				var l = document.createElement('link'); l.rel = 'stylesheet'; l.id = id; l.href = css;
+				var h = document.getElementsByTagName('head')[0]; h.appendChild(l);
+			}
+			add('/media/djextensions/css/animate.min.css', 'animate_min_css');
+			add('/media/djextensions/css/animate.ext.css', 'animate_ext_css');
+		};
+		var raf = requestAnimationFrame || mozRequestAnimationFrame || webkitRequestAnimationFrame || msRequestAnimationFrame;
+		if (raf) raf(cb);
+		else window.addEventListener('load', cb);
+	})();
+	</script> 
+  <link href="/component/obrss/news-and-events" rel="alternate" type="application/rss+xml" title="News &amp; Events (rss2.0)"> 
+  <link href="/component/obrss/news-events-test" rel="alternate" type="application/atom+xml" title="News &amp; Events (ATOM 0.3)"> 
+  <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet" type="text/css"> 
+  <style type="text/css">
+      h1,h2,h3,h4,h5,h6,.site-title, div.header-search ul.nav.menu li a, div#topnav span.titreck, ul.featuredbuttons li a {
+        font-family: 'Open Sans', Helvetica, sans-serif;
+        font-weight: 300;
+      }
+    </style> 
+  <!--[if lt IE 9]>
+    <script src="/media/jui/js/html5.js"></script>
+  <![endif]--> 
+  <script type="text/javascript">
+    jQuery(document).ready(function() {
+        jQuery('[rel="clickover"]').clickover();
+
+
+    });
+</script> 
+  <link rel="stylesheet" href="https://www.fdlp.gov/templates/fdlp/css/updated.css" type="text/css"> 
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-58540512-1', 'www.fdlp.gov');
+  ga('send', 'pageview');
+
+</script> 
+  <!-- Universal Google Analytics Plugin by PB Web Development --> 
+ </head> 
+ <body class="site com_content view-article layout- task- itemid-3418  ">
+  <div class="dj-offcanvas-wrapper">
+   <div class="dj-offcanvas-pusher">
+    <div class="dj-offcanvas-pusher-in"> 
+     <!--Top Navigation --> 
+     <div class="visible-phone navigation"> 
+     </div> 
+     <div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"> 
+      <div class="modal-header"> 
+       <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button> 
+       <h3 id="myModalLabel">Welcome</h3> 
+      </div> 
+      <div class="modal-body row-fluid"> 
+       <div class="span6">
+        <form action="https://www.fdlp.gov/catalogingandclassification/cataloging-record-distribution-program" method="post" id="login-form" class="form-inline"> 
+         <div class="pretext"> 
+          <p>Enter your library number and GPO-issued password to access exclusive FDLP features.</p> 
+         </div> 
+         <div class="userdata"> 
+          <div id="form-login-username" class="control-group"> 
+           <div class="controls"> 
+            <div class="input-prepend input-append"> 
+             <span class="add-on"><i class="icon-user tip" title="Username"></i><label for="modlgn-username" class="element-invisible">Username</label></span>
+             <input id="modlgn-username" type="text" name="username" class="input-small" tabindex="1" size="18" placeholder="Username">
+             <a href="/component/users/?view=remind&amp;Itemid=101" class="btn hasTooltip" title="Forgot your username?"><i class="icon-question-sign"></i></a> 
+            </div> 
+           </div> 
+          </div> 
+          <div id="form-login-password" class="control-group"> 
+           <div class="controls"> 
+            <div class="input-prepend input-append"> 
+             <span class="add-on"><i class="icon-lock tip" title="Password"></i><label for="modlgn-passwd" class="element-invisible">Password</label></span>
+             <input id="modlgn-passwd" type="password" name="password" class="input-small" tabindex="2" size="18" placeholder="Password"> 
+            </div> 
+           </div> 
+          </div> 
+          <div id="form-login-remember" class="control-group checkbox"> 
+           <label for="modlgn-remember" class="control-label">Remember Me</label> 
+           <input id="modlgn-remember" type="checkbox" name="remember" class="inputbox" value="yes"> 
+          </div> 
+          <div id="form-login-submit" class="control-group"> 
+           <div class="controls"> 
+            <button type="submit" tabindex="3" name="Submit" class="btn btn-primary btn">Log in</button> 
+           </div> 
+          </div> 
+          <input type="hidden" name="option" value="com_users"> 
+          <input type="hidden" name="task" value="user.login"> 
+          <input type="hidden" name="return" value="aHR0cHM6Ly93d3cuZmRscC5nb3YvY2F0YWxvZ2luZ2FuZGNsYXNzaWZpY2F0aW9uL2NhdGFsb2dpbmctcmVjb3JkLWRpc3RyaWJ1dGlvbi1wcm9ncmFt"> 
+          <input type="hidden" name="e7507701923b8e6a0f8bf3bc38ed901f" value="1"> 
+         </div> 
+         <div class="posttext"> 
+          <p>Lost your library password or having technical difficulties?<br> Contact <a href="http://www.gpo.gov/askgpo/">askGPO </a>for help.</p> 
+         </div> 
+        </form> 
+       </div> 
+       <div class="span5"></div> 
+      </div> 
+      <div class="modal-footer"> 
+       <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button> 
+      </div> 
+     </div> 
+     <div id="topbar" class="navbar navbar-fixed-top navbar-inverse"> 
+      <div class="navbar-inner"> 
+       <div class="dashboard-login rel visible-phone">
+        <a href="#myModal" role="button" data-toggle="modal">Login</a> &nbsp;|&nbsp; 
+        <a href="https://www.gpo.gov/askgpo/">Contact Us</a>
+       </div> 
+       <div class="container"> 
+        <div class="pull-left"> 
+         <div class="dj-megamenu-wrapper"> 
+          <ul id="dj-megamenu339" class="dj-megamenu dj-megamenu-default horizontalMenu " data-options="{&quot;wrap&quot;:null,&quot;animIn&quot;:&quot;fadeInUp&quot;,&quot;animOut&quot;:&quot;zoomOut&quot;,&quot;animSpeed&quot;:&quot;normal&quot;,&quot;openDelay&quot;:0,&quot;closeDelay&quot;:&quot;500&quot;,&quot;event&quot;:&quot;mouseenter&quot;,&quot;fixed&quot;:0,&quot;offset&quot;:0,&quot;theme&quot;:&quot;default&quot;,&quot;direction&quot;:&quot;ltr&quot;,&quot;wcag&quot;:&quot;1&quot;}" data-trigger="979"> 
+           <li class="dj-up itemid2831 first dj-hideitem"><a class="dj-up_a  home" href="/" title="Homepage"><span>Home</span></a></li>
+           <li class="dj-up itemid102 parent"><a class="dj-up_a   collect" href="#"><span class="dj-drop">Collection Tools<em class="arrow" aria-hidden="true"></em></span></a>
+            <div class="dj-subwrap  multiple_cols subcols3" style="">
+             <div class="dj-subwrap-in" style="width:900px;">
+              <div class="dj-subcol" style="width:300px">
+               <ul class="dj-submenu">
+                <li class="itemid163 first"><a href="/collection-tools/claims" title="Submit a request within 60 days for any publication in your depository shipment that is missing, misprinted or damaged.">Claims</a></li>
+                <li class="itemid160"><a href="https://selections.fdlp.gov" target="_blank" title="Manage your item selection profile."><em class="dj-icon fa fa-lock " aria-hidden="true"></em><span class="image-title">DSIMS</span></a></li>
+                <li class="itemid164"><a href="https://selections.fdlp.gov/itemlister" target="_blank" title="View both selected and non-selected item numbers for any Federal depository library."><em class="dj-icon  fa fa-external-link" aria-hidden="true"></em><span class="image-title">Item Lister</span></a></li>
+                <li class="itemid168"><a href="/file-repository/collection-management/list-of-classes" title="Browse the list of Federal information products that are available for selection by depository libraries.">List of Classes</a></li>
+                <li class="itemid165"><a href="/collection-tools/lostdocs" title="Report fugitive documents or other Federal information products that have not been cataloged by GPO.">LostDocs</a></li>
+               </ul>
+              </div>
+              <div class="dj-subcol" style="width:300px">
+               <ul class="dj-submenu">
+                <li class="itemid166 first"><a href="/collection-tools/fdlp-exchange" title="Post or review lists of withdrawn or needed publications from Federal depository libraries.">FDLP eXchange</a></li>
+                <li class="itemid162"><a href="http://purlreferrals.fdlp.gov" target="_blank" title="Find statistical information derived from your library¹s PURL traffic to measure usage of online resources."><em class="dj-icon fa fa-lock" aria-hidden="true"></em><span class="image-title">PURL Usage Reporting Tool</span></a></li>
+                <li class="itemid167"><a href="/collection-tools/shipping-lists" title="View shipping lists included in depository distribution boxes.">Shipping Lists</a></li>
+                <li class="itemid635"><a href="/collection-tools/shipping-list-this-week">Shipping List This Week</a></li>
+               </ul>
+              </div>
+              <div class="dj-subcol" style="width:300px">
+               <ul class="dj-submenu">
+                <li class="itemid169 first"><a href="/file-repository/collection-management/union-list-of-item-selections" title="View all item number selections of all depositories at once; this is typically used to compare your depository's selection profile against others in your state or region.">UNION-L</a></li>
+                <li class="itemid3287"><a href="https://github.com/usgpo/cataloging-records" target="_blank"><em class="dj-icon  fa fa-external-link" aria-hidden="true"></em><span class="image-title">CGP on GitHub</span></a></li>
+                <li class="itemid3291"><a href="https://libguides.fdlp.gov/" target="_blank"><em class="dj-icon  fa fa-external-link" aria-hidden="true"></em><span class="image-title">FDLP LibGuides</span></a></li>
+                <li class="itemid170"><a href="/webtech-notes" title="Search and view updates to the List of Classes and corrections to information found on shipping lists.">WEBTech Notes</a></li>
+               </ul>
+              </div>
+              <div style="clear:both;height:0"></div>
+             </div>
+            </div></li>
+           <li class="dj-up itemid103 parent"><a class="dj-up_a    reqguide" href="#"><span class="dj-drop">Requirements &amp; Guidance<em class="arrow" aria-hidden="true"></em></span></a>
+            <div class="dj-subwrap  multiple_cols subcols2" style="">
+             <div class="dj-subwrap-in" style="width:600px;">
+              <div class="dj-subcol" style="width:300px">
+               <ul class="dj-submenu">
+                <li class="itemid171 first"><a href="/requirements-guidance/legal-requirements" title="Full-text of the Federal depository library obligations that govern FDLP member libraries.">Legal Requirements</a></li>
+                <li class="itemid172"><a href="/requirements-guidance/guidance" title="Contains advice on how to comply with the FDLP regulations.">Guidance</a></li>
+                <li class="itemid173"><a href="/requirements-guidance/instructions" title="Provides an overview of FDLP-related tools and services. Also includes information on the features, functionality, and usage.">Instructions</a></li>
+               </ul>
+              </div>
+              <div class="dj-subcol" style="width:300px">
+               <ul class="dj-submenu">
+                <li class="itemid174 first"><a href="/requirements-guidance/collections-and-databases" title="Describes the various products and services that are uniquely available to Federal depository libraries.">Collections &amp; Databases</a></li>
+                <li class="itemid2124"><a href="/promotion">Promotion</a></li>
+               </ul>
+              </div>
+              <div style="clear:both;height:0"></div>
+             </div>
+            </div></li>
+           <li class="dj-up itemid3185 parent"><a class="dj-up_a  " href="#"><span class="dj-drop">Preservation<em class="arrow" aria-hidden="true"></em></span></a>
+            <div class="dj-subwrap  single_column subcols1" style="">
+             <div class="dj-subwrap-in" style="width:300px;">
+              <div class="dj-subcol" style="width:300px">
+               <ul class="dj-submenu">
+                <li class="itemid3186 first"><a href="/preservation/preservation-at-gpo">Preservation at GPO</a></li>
+                <li class="itemid3533"><a href="/preservation/trusted-digital-repository-iso-16363-2012-audit-and-certification">Trusted Digital Repository ISO 16363:2012 Audit and Certification </a></li>
+               </ul>
+              </div>
+              <div style="clear:both;height:0"></div>
+             </div>
+            </div></li>
+           <li class="dj-up itemid104 parent"><a class="dj-up_a   about" href="#"><span class="dj-drop">About the FDLP<em class="arrow" aria-hidden="true"></em></span></a>
+            <div class="dj-subwrap  multiple_cols subcols3" style="">
+             <div class="dj-subwrap-in" style="width:900px;">
+              <div class="dj-subcol" style="width:300px">
+               <ul class="dj-submenu">
+                <li class="itemid182 first"><a href="/about-the-fdlp/supdocs" title="The Superintendent of Documents (SuDocs) is in charge of the dissemination of information at the U.S. Government Printing Office (GPO).">Superintendent of Documents</a></li>
+                <li class="itemid183"><a href="/about-the-fdlp/federal-depository-libraries" title="Federal depository libraries are located throughout the United States and its territories. They provide local, no-fee access to Government information and professional assistance for Federal information products.">Federal Depository Libraries</a></li>
+                <li class="itemid184"><a href="/about-the-fdlp/depository-library-council" title="The Depository Library Council (DLC) serves as an advisory committee to the Public Printer of the United States and the Superintendent of Documents.">Depository Library Council</a></li>
+                <li class="itemid1015"><a href="/about-the-fdlp/fdlp-academy">FDLP Academy</a></li>
+               </ul>
+              </div>
+              <div class="dj-subcol" style="width:300px">
+               <ul class="dj-submenu">
+                <li class="itemid1008 first"><a href="/about-the-fdlp/events-and-conferences">Events and Conferences</a></li>
+                <li class="itemid859"><a href="/about-the-fdlp/fdlp-events-calendar">FDLP Events Calendar</a></li>
+                <li class="itemid188"><a href="/about-the-fdlp/partnerships" title="Through agreements with Federal depository libraries and Federal agencies, both the American public and Federal depository libraries have enhanced access to a variety of Federal information products and services.">Partnerships</a></li>
+                <li class="itemid187"><a href="/about-the-fdlp/projects" title="Outlines current and previous efforts to improve the products and services of the FDLP.">Projects</a></li>
+               </ul>
+              </div>
+              <div class="dj-subcol" style="width:300px">
+               <ul class="dj-submenu">
+                <li class="itemid637 first"><a href="/file-repository">File Repository</a></li>
+                <li class="itemid181"><a href="/about-the-fdlp/mission-and-history" title="Learn about the FDLP¹s mission, vision, and core values.">Mission &amp; History</a></li>
+                <li class="itemid2136"><a href="/about-the-fdlp/gpo-on-the-go">GPO on the Go</a></li>
+               </ul>
+              </div>
+              <div style="clear:both;height:0"></div>
+             </div>
+            </div></li>
+           <li class="dj-up itemid524 active parent"><a class="dj-up_a active catindex" href="#"><span class="dj-drop">Cataloging &amp; Classification<em class="arrow" aria-hidden="true"></em></span></a>
+            <div class="dj-subwrap  single_column subcols1" style="">
+             <div class="dj-subwrap-in" style="width:300px;">
+              <div class="dj-subcol" style="width:300px">
+               <ul class="dj-submenu">
+                <li class="itemid525 first"><a href="/cataloging-guidelines">Cataloging Guidelines</a></li>
+                <li class="itemid3201"><a href="https://www.fdlp.gov/classification-guidelines/introduction-to-the-classification-guidelines">Superintendent of Documents Classification Guidelines</a></li>
+                <li class="itemid530"><a href="/catalogingandclassification/cataloging-articles">Cataloging &amp; Indexing</a></li>
+                <li class="itemid2970"><a href="/catalogingandclassification/regional-depositories-oclc-holding-symbols-to-gpo-cataloging">Regional Depositories’ OCLC Holding Symbols to GPO Cataloging</a></li>
+                <li class="itemid630"><a href="http://catalog.gpo.gov/" target="_blank"><em class="dj-icon fa fa-external-link" aria-hidden="true"></em><span class="image-title">Catalog of U.S. Government Publications</span></a></li>
+                <li class="itemid3289"><a href="/catalogingandclassification/sources-of-gpo-cataloging-records">Sources of GPO Cataloging Records</a></li>
+                <li class="itemid3418 current active"><a class="active " href="/catalogingandclassification/cataloging-record-distribution-program">Cataloging Record Distribution Program</a></li>
+               </ul>
+              </div>
+              <div style="clear:both;height:0"></div>
+             </div>
+            </div></li>
+          </ul> 
+          <div id="dj-megamenu339mobile" class="dj-megamenu-offcanvas dj-megamenu-offcanvas-light "> 
+           <a href="#" class="dj-mobile-open-btn" aria-label="Open mobile menu"><span class="fa fa-bars" aria-hidden="true"></span></a> 
+           <aside id="dj-megamenu339offcanvas" class="dj-offcanvas dj-offcanvas-light " data-effect="3"> 
+            <div class="dj-offcanvas-top"> 
+             <a href="#" class="dj-offcanvas-close-btn" aria-label="Close mobile menu"><span class="fa fa-close" aria-hidden="true"></span></a> 
+            </div> 
+            <div class="dj-offcanvas-content"> 
+             <ul class="dj-mobile-nav dj-mobile-light "> 
+              <li class="dj-mobileitem itemid-2831"><a class=" home" href="/" title="Homepage">Home</a></li>
+              <li class="dj-mobileitem itemid-102 deeper parent"><a class="  collect" href="#">Collection Tools</a>
+               <ul class="dj-mobile-nav-child">
+                <li class="dj-mobileitem itemid-163"><a href="/collection-tools/claims" title="Submit a request within 60 days for any publication in your depository shipment that is missing, misprinted or damaged.">Claims</a></li>
+                <li class="dj-mobileitem itemid-160"><a href="https://selections.fdlp.gov" target="_blank" title="Manage your item selection profile."><em class="fa fa-lock " aria-hidden="true"></em><span class="image-title">DSIMS</span></a></li>
+                <li class="dj-mobileitem itemid-164"><a href="https://selections.fdlp.gov/itemlister" target="_blank" title="View both selected and non-selected item numbers for any Federal depository library."><em class=" fa fa-external-link" aria-hidden="true"></em><span class="image-title">Item Lister</span></a></li>
+                <li class="dj-mobileitem itemid-168"><a href="/file-repository/collection-management/list-of-classes" title="Browse the list of Federal information products that are available for selection by depository libraries.">List of Classes</a></li>
+                <li class="dj-mobileitem itemid-165"><a href="/collection-tools/lostdocs" title="Report fugitive documents or other Federal information products that have not been cataloged by GPO.">LostDocs</a></li>
+                <li class="dj-mobileitem itemid-166"><a href="/collection-tools/fdlp-exchange" title="Post or review lists of withdrawn or needed publications from Federal depository libraries.">FDLP eXchange</a></li>
+                <li class="dj-mobileitem itemid-162"><a href="http://purlreferrals.fdlp.gov" target="_blank" title="Find statistical information derived from your library¹s PURL traffic to measure usage of online resources."><em class="fa fa-lock" aria-hidden="true"></em><span class="image-title">PURL Usage Reporting Tool</span></a></li>
+                <li class="dj-mobileitem itemid-167"><a href="/collection-tools/shipping-lists" title="View shipping lists included in depository distribution boxes.">Shipping Lists</a></li>
+                <li class="dj-mobileitem itemid-635"><a href="/collection-tools/shipping-list-this-week">Shipping List This Week</a></li>
+                <li class="dj-mobileitem itemid-169"><a href="/file-repository/collection-management/union-list-of-item-selections" title="View all item number selections of all depositories at once; this is typically used to compare your depository's selection profile against others in your state or region.">UNION-L</a></li>
+                <li class="dj-mobileitem itemid-3287"><a href="https://github.com/usgpo/cataloging-records" target="_blank"><em class=" fa fa-external-link" aria-hidden="true"></em><span class="image-title">CGP on GitHub</span></a></li>
+                <li class="dj-mobileitem itemid-3291"><a href="https://libguides.fdlp.gov/" target="_blank"><em class=" fa fa-external-link" aria-hidden="true"></em><span class="image-title">FDLP LibGuides</span></a></li>
+                <li class="dj-mobileitem itemid-170"><a href="/webtech-notes" title="Search and view updates to the List of Classes and corrections to information found on shipping lists.">WEBTech Notes</a></li>
+               </ul></li>
+              <li class="dj-mobileitem itemid-103 deeper parent"><a class="   reqguide" href="#">Requirements &amp; Guidance</a>
+               <ul class="dj-mobile-nav-child">
+                <li class="dj-mobileitem itemid-171"><a href="/requirements-guidance/legal-requirements" title="Full-text of the Federal depository library obligations that govern FDLP member libraries.">Legal Requirements</a></li>
+                <li class="dj-mobileitem itemid-172"><a href="/requirements-guidance/guidance" title="Contains advice on how to comply with the FDLP regulations.">Guidance</a></li>
+                <li class="dj-mobileitem itemid-173"><a href="/requirements-guidance/instructions" title="Provides an overview of FDLP-related tools and services. Also includes information on the features, functionality, and usage.">Instructions</a></li>
+                <li class="dj-mobileitem itemid-174"><a href="/requirements-guidance/collections-and-databases" title="Describes the various products and services that are uniquely available to Federal depository libraries.">Collections &amp; Databases</a></li>
+                <li class="dj-mobileitem itemid-2124"><a href="/promotion">Promotion</a></li>
+               </ul></li>
+              <li class="dj-mobileitem itemid-3185 deeper parent"><a href="#">Preservation</a>
+               <ul class="dj-mobile-nav-child">
+                <li class="dj-mobileitem itemid-3186"><a href="/preservation/preservation-at-gpo">Preservation at GPO</a></li>
+                <li class="dj-mobileitem itemid-3533"><a href="/preservation/trusted-digital-repository-iso-16363-2012-audit-and-certification">Trusted Digital Repository ISO 16363:2012 Audit and Certification </a></li>
+               </ul></li>
+              <li class="dj-mobileitem itemid-104 deeper parent"><a class="  about" href="#">About the FDLP</a>
+               <ul class="dj-mobile-nav-child">
+                <li class="dj-mobileitem itemid-182"><a href="/about-the-fdlp/supdocs" title="The Superintendent of Documents (SuDocs) is in charge of the dissemination of information at the U.S. Government Printing Office (GPO).">Superintendent of Documents</a></li>
+                <li class="dj-mobileitem itemid-183"><a href="/about-the-fdlp/federal-depository-libraries" title="Federal depository libraries are located throughout the United States and its territories. They provide local, no-fee access to Government information and professional assistance for Federal information products.">Federal Depository Libraries</a></li>
+                <li class="dj-mobileitem itemid-184"><a href="/about-the-fdlp/depository-library-council" title="The Depository Library Council (DLC) serves as an advisory committee to the Public Printer of the United States and the Superintendent of Documents.">Depository Library Council</a></li>
+                <li class="dj-mobileitem itemid-1015"><a href="/about-the-fdlp/fdlp-academy">FDLP Academy</a></li>
+                <li class="dj-mobileitem itemid-1008"><a href="/about-the-fdlp/events-and-conferences">Events and Conferences</a></li>
+                <li class="dj-mobileitem itemid-859"><a href="/about-the-fdlp/fdlp-events-calendar">FDLP Events Calendar</a></li>
+                <li class="dj-mobileitem itemid-188"><a href="/about-the-fdlp/partnerships" title="Through agreements with Federal depository libraries and Federal agencies, both the American public and Federal depository libraries have enhanced access to a variety of Federal information products and services.">Partnerships</a></li>
+                <li class="dj-mobileitem itemid-187"><a href="/about-the-fdlp/projects" title="Outlines current and previous efforts to improve the products and services of the FDLP.">Projects</a></li>
+                <li class="dj-mobileitem itemid-637"><a href="/file-repository">File Repository</a></li>
+                <li class="dj-mobileitem itemid-181"><a href="/about-the-fdlp/mission-and-history" title="Learn about the FDLP¹s mission, vision, and core values.">Mission &amp; History</a></li>
+                <li class="dj-mobileitem itemid-2136"><a href="/about-the-fdlp/gpo-on-the-go">GPO on the Go</a></li>
+               </ul></li>
+              <li class="dj-mobileitem itemid-524 deeper parent"><a class=" catindex" href="#">Cataloging &amp; Classification</a>
+               <ul class="dj-mobile-nav-child">
+                <li class="dj-mobileitem itemid-525"><a href="/cataloging-guidelines">Cataloging Guidelines</a></li>
+                <li class="dj-mobileitem itemid-3201"><a href="https://www.fdlp.gov/classification-guidelines/introduction-to-the-classification-guidelines">Superintendent of Documents Classification Guidelines</a></li>
+                <li class="dj-mobileitem itemid-530"><a href="/catalogingandclassification/cataloging-articles">Cataloging &amp; Indexing</a></li>
+                <li class="dj-mobileitem itemid-2970"><a href="/catalogingandclassification/regional-depositories-oclc-holding-symbols-to-gpo-cataloging">Regional Depositories’ OCLC Holding Symbols to GPO Cataloging</a></li>
+                <li class="dj-mobileitem itemid-630"><a href="http://catalog.gpo.gov/" target="_blank"><em class="fa fa-external-link" aria-hidden="true"></em><span class="image-title">Catalog of U.S. Government Publications</span></a></li>
+                <li class="dj-mobileitem itemid-3289"><a href="/catalogingandclassification/sources-of-gpo-cataloging-records">Sources of GPO Cataloging Records</a></li>
+                <li class="dj-mobileitem itemid-3418 current"><a href="/catalogingandclassification/cataloging-record-distribution-program">Cataloging Record Distribution Program</a></li>
+               </ul></li>
+             </ul> 
+            </div> 
+            <div class="dj-offcanvas-end" tabindex="0"></div> 
+           </aside> 
+          </div> 
+         </div>
+         <ul class="nav menu "> 
+          <li class="item-152 deeper parent dropdown"><a class="dropdown-toggle" href="#" title="The U.S Government Publishing Office (GPO) provides publishing and dissemination services for the official and authentic Government publications to Congress, Federal agencies, Federal depository libraries, and the American public." data-toggle="dropdown"> <span>Other GPO Sites</span></a>
+           <ul class="nav-child unstyled small dropdown-menu">
+            <li class="item-269"><a href="http://www.gpo.gov"> <span>U.S. Government Publishing Office</span></a></li>
+            <li class="item-1972"><a href="https://www.gpo.gov/fdsys/"> <span>Federal Digital System (FDsys)</span></a></li>
+            <li class="item-151"><a href="https://www.govinfo.gov/"> <span>govinfo</span></a></li>
+            <li class="item-161"><a href="http://bookstore.gpo.gov"> <span>U.S. Government Bookstore</span></a></li>
+            <li class="item-150"><a href="http://bensguide.gpo.gov"> <span>Ben's Guide to the U.S. Government</span></a></li>
+           </ul></li>
+         </ul> 
+        </div> 
+        <div class="dashboard-login hidden-phone">
+         <a href="#myModal" role="button" data-toggle="modal">Login</a>
+        </div> 
+        <div class="pull-right"> 
+         <ul class="nav menu iconmenu"> 
+          <li class="item-153"><a class="fa fa-envelope-o hasTooltip tt-bottom" href="/news-and-events" title="Subscribe to Our Email Alerts" data-placement="bottom"> <span>Subscribe to Our Email Alerts</span></a></li>
+          <li class="item-156"><a class="fa fa-rss hasTooltip tt-bottom" href="/rss" title="Grab our RSS" data-placement="bottom"><span>RSS</span></a></li>
+          <li class="item-308"><a class="fa fa-newspaper-o hasTooltip tt-bottom" href="/fdlp-connection" title="Subscribe to our Newsletter" data-placement="bottom"><span>Subscribe to our Newsletter</span></a></li>
+         </ul> 
+         <div class="custom"> 
+          <div class="font-resize hidden-phone">
+           <a id="jfontsize-minus" class="smaller" href="#" title="Font Size: Smaller">A</a> 
+           <a id="jfontsize-plus" class="larger" title="Font Size: Larger" href="#">A</a>
+          </div>
+         </div> 
+         <ul class="nav menu "> 
+          <li class="item-2829"><a href="/contact-us"><span>Contact Us</span></a></li>
+          <li class="item-2830"><a class="myModalLogin" role="button" data-toggle="modal" href="#myModal"> <span>Login</span></a></li>
+         </ul> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <!-- Header --> 
+     <div class="header"> 
+      <div class="header-inner"> 
+       <a class="brand pull-left" href="/"> <img src="https://www.fdlp.gov/images/fdlp_logo.png" alt="FDLP"> </a> 
+       <div class="header-search pull-right"> 
+        <div class="moduletable"> 
+         <script type="text/javascript">
+//<![CDATA[
+	window.addEvent('domready', function() {
+		var value;
+
+		// Set the input value if not already set.
+		if (!document.id('appendedDropdownButton').getProperty('value')) {
+			document.id('appendedDropdownButton').setProperty('value', 'Search ...');
+		}
+
+		// Get the current value.
+		value = document.id('appendedDropdownButton').getProperty('value');
+
+		// If the current value equals the default value, clear it.
+		document.id('appendedDropdownButton').addEvent('focus', function() {
+			if (this.getProperty('value') == 'Search ...') {
+				this.setProperty('value', '');
+			}
+		});
+
+		// If the current value is empty, set the previous value.
+		document.id('appendedDropdownButton').addEvent('blur', function() {
+			if (!this.getProperty('value')) {
+				this.setProperty('value', value);
+			}
+		});
+
+		document.id('mod-finder-searchform').addEvent('submit', function(e){
+			e = new Event(e);
+			e.stop();
+
+			// Disable select boxes with no value selected.
+			if (document.id('mod-finder-advanced') != null) {
+				document.id('mod-finder-advanced').getElements('select').each(function(s){
+					if (!s.getProperty('value')) {
+						s.setProperty('disabled', 'disabled');
+					}
+				});
+			}
+
+			document.id('mod-finder-searchform').submit();
+		});
+
+		/*
+		 * This segment of code sets up the autocompleter.
+		 */
+								var url = '/component/finder/?task=suggestions.display&format=json&tmpl=component';
+			var ModCompleter = new Autocompleter.Request.JSON(document.id('appendedDropdownButton'), url, {'postVar': 'q'});
+			});
+//]]>
+</script> 
+         <div class="search"> 
+          <form id="mod-finder-searchform" action="/search" method="get" class="form-inline"> 
+           <div class="input-append"> 
+            <input name="q" class="span2" id="appendedDropdownButton" type="text"> 
+            <div class="btn-group"> 
+             <button class="btn dropdown-toggle" data-toggle="dropdown">Search <span class="caret"></span></button> 
+             <ul class="dropdown-menu"> 
+              <li><a href="javascript:void(0);" onclick="searchSubmit('site');">Site</a></li> 
+              <li><a href="javascript:void(0);" onclick="searchSubmit('news');">News</a></li> 
+              <li class="divider"></li> 
+              <li><a href="javascript:void(0);" onclick="searchSubmit('cgp');">CGP</a></li> 
+              <li><a href="javascript:void(0);" onclick="searchSubmit('fdsys');">govinfo</a></li> 
+             </ul> 
+            </div>
+            <!-- /btn-group --> 
+           </div>
+           <!-- /input-append --> 
+           <input type="hidden" id="st" name="st" value=""> 
+           <input type="hidden" name="f" id="filter" value=""> 
+           <input type="hidden" id="ordering" name="ordering" value="0"> 
+          </form> 
+          <form class="form-inline" style="margin: 0;" action="//catalog.gpo.gov/F" method="post" id="cgpSearchForm"> 
+           <input type="hidden" id="req" name="request" value=""> 
+           <input type="hidden" name="func" value="find-b"> 
+          </form> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="clearfix"></div> 
+      </div> 
+     </div> 
+     <div class="nohidden-phone"> 
+      <div id="navigation" class="navigation" data-spy="affix" data-offset-top="150"> 
+       <div class="container"> 
+        <div class="dj-megamenu-wrapper"> 
+         <ul id="dj-megamenu336" class="dj-megamenu dj-megamenu-override horizontalMenu " data-options="{&quot;wrap&quot;:null,&quot;animIn&quot;:&quot;fadeIn&quot;,&quot;animOut&quot;:&quot;fadeOut&quot;,&quot;animSpeed&quot;:&quot;fast&quot;,&quot;openDelay&quot;:0,&quot;closeDelay&quot;:&quot;0&quot;,&quot;event&quot;:&quot;mouseenter&quot;,&quot;fixed&quot;:0,&quot;offset&quot;:0,&quot;theme&quot;:&quot;override&quot;,&quot;direction&quot;:&quot;ltr&quot;,&quot;wcag&quot;:&quot;1&quot;}" data-trigger="979"> 
+          <li class="dj-up itemid2831 first dj-hideitem"><a class="dj-up_a  home" href="/" title="Homepage"><span>Home</span></a></li>
+          <li class="dj-up itemid102 parent"><a class="dj-up_a   collect" href="#"><span class="dj-drop">Collection Tools<em class="arrow" aria-hidden="true"></em></span></a>
+           <div class="dj-subwrap  multiple_cols subcols3" style="">
+            <div class="dj-subwrap-in" style="width:903px;">
+             <div class="dj-subcol" style="width:301px">
+              <ul class="dj-submenu">
+               <li class="itemid163 first"><a href="/collection-tools/claims" title="Submit a request within 60 days for any publication in your depository shipment that is missing, misprinted or damaged.">Claims</a></li>
+               <li class="itemid160"><a href="https://selections.fdlp.gov" target="_blank" title="Manage your item selection profile."><em class="dj-icon fa fa-lock " aria-hidden="true"></em><span class="image-title">DSIMS</span></a></li>
+               <li class="itemid164"><a href="https://selections.fdlp.gov/itemlister" target="_blank" title="View both selected and non-selected item numbers for any Federal depository library."><em class="dj-icon  fa fa-external-link" aria-hidden="true"></em><span class="image-title">Item Lister</span></a></li>
+               <li class="itemid168"><a href="/file-repository/collection-management/list-of-classes" title="Browse the list of Federal information products that are available for selection by depository libraries.">List of Classes</a></li>
+               <li class="itemid165"><a href="/collection-tools/lostdocs" title="Report fugitive documents or other Federal information products that have not been cataloged by GPO.">LostDocs</a></li>
+              </ul>
+             </div>
+             <div class="dj-subcol" style="width:301px">
+              <ul class="dj-submenu">
+               <li class="itemid166 first"><a href="/collection-tools/fdlp-exchange" title="Post or review lists of withdrawn or needed publications from Federal depository libraries.">FDLP eXchange</a></li>
+               <li class="itemid162"><a href="http://purlreferrals.fdlp.gov" target="_blank" title="Find statistical information derived from your library¹s PURL traffic to measure usage of online resources."><em class="dj-icon fa fa-lock" aria-hidden="true"></em><span class="image-title">PURL Usage Reporting Tool</span></a></li>
+               <li class="itemid167"><a href="/collection-tools/shipping-lists" title="View shipping lists included in depository distribution boxes.">Shipping Lists</a></li>
+               <li class="itemid635"><a href="/collection-tools/shipping-list-this-week">Shipping List This Week</a></li>
+              </ul>
+             </div>
+             <div class="dj-subcol" style="width:301px">
+              <ul class="dj-submenu">
+               <li class="itemid169 first"><a href="/file-repository/collection-management/union-list-of-item-selections" title="View all item number selections of all depositories at once; this is typically used to compare your depository's selection profile against others in your state or region.">UNION-L</a></li>
+               <li class="itemid3287"><a href="https://github.com/usgpo/cataloging-records" target="_blank"><em class="dj-icon  fa fa-external-link" aria-hidden="true"></em><span class="image-title">CGP on GitHub</span></a></li>
+               <li class="itemid3291"><a href="https://libguides.fdlp.gov/" target="_blank"><em class="dj-icon  fa fa-external-link" aria-hidden="true"></em><span class="image-title">FDLP LibGuides</span></a></li>
+               <li class="itemid170"><a href="/webtech-notes" title="Search and view updates to the List of Classes and corrections to information found on shipping lists.">WEBTech Notes</a></li>
+              </ul>
+             </div>
+             <div style="clear:both;height:0"></div>
+            </div>
+           </div></li>
+          <li class="dj-up itemid103 parent"><a class="dj-up_a    reqguide" href="#"><span class="dj-drop">Requirements &amp; Guidance<em class="arrow" aria-hidden="true"></em></span></a>
+           <div class="dj-subwrap  multiple_cols subcols2" style="">
+            <div class="dj-subwrap-in" style="width:602px;">
+             <div class="dj-subcol" style="width:301px">
+              <ul class="dj-submenu">
+               <li class="itemid171 first"><a href="/requirements-guidance/legal-requirements" title="Full-text of the Federal depository library obligations that govern FDLP member libraries.">Legal Requirements</a></li>
+               <li class="itemid172"><a href="/requirements-guidance/guidance" title="Contains advice on how to comply with the FDLP regulations.">Guidance</a></li>
+               <li class="itemid173"><a href="/requirements-guidance/instructions" title="Provides an overview of FDLP-related tools and services. Also includes information on the features, functionality, and usage.">Instructions</a></li>
+              </ul>
+             </div>
+             <div class="dj-subcol" style="width:301px">
+              <ul class="dj-submenu">
+               <li class="itemid174 first"><a href="/requirements-guidance/collections-and-databases" title="Describes the various products and services that are uniquely available to Federal depository libraries.">Collections &amp; Databases</a></li>
+               <li class="itemid2124"><a href="/promotion">Promotion</a></li>
+              </ul>
+             </div>
+             <div style="clear:both;height:0"></div>
+            </div>
+           </div></li>
+          <li class="dj-up itemid3185 parent"><a class="dj-up_a  " href="#"><span class="dj-drop">Preservation<em class="arrow" aria-hidden="true"></em></span></a>
+           <div class="dj-subwrap  single_column subcols1" style="">
+            <div class="dj-subwrap-in" style="width:301px;">
+             <div class="dj-subcol" style="width:301px">
+              <ul class="dj-submenu">
+               <li class="itemid3186 first"><a href="/preservation/preservation-at-gpo">Preservation at GPO</a></li>
+               <li class="itemid3533"><a href="/preservation/trusted-digital-repository-iso-16363-2012-audit-and-certification">Trusted Digital Repository ISO 16363:2012 Audit and Certification </a></li>
+              </ul>
+             </div>
+             <div style="clear:both;height:0"></div>
+            </div>
+           </div></li>
+          <li class="dj-up itemid104 parent"><a class="dj-up_a   about" href="#"><span class="dj-drop">About the FDLP<em class="arrow" aria-hidden="true"></em></span></a>
+           <div class="dj-subwrap  multiple_cols subcols3" style="">
+            <div class="dj-subwrap-in" style="width:903px;">
+             <div class="dj-subcol" style="width:301px">
+              <ul class="dj-submenu">
+               <li class="itemid182 first"><a href="/about-the-fdlp/supdocs" title="The Superintendent of Documents (SuDocs) is in charge of the dissemination of information at the U.S. Government Printing Office (GPO).">Superintendent of Documents</a></li>
+               <li class="itemid183"><a href="/about-the-fdlp/federal-depository-libraries" title="Federal depository libraries are located throughout the United States and its territories. They provide local, no-fee access to Government information and professional assistance for Federal information products.">Federal Depository Libraries</a></li>
+               <li class="itemid184"><a href="/about-the-fdlp/depository-library-council" title="The Depository Library Council (DLC) serves as an advisory committee to the Public Printer of the United States and the Superintendent of Documents.">Depository Library Council</a></li>
+               <li class="itemid1015"><a href="/about-the-fdlp/fdlp-academy">FDLP Academy</a></li>
+              </ul>
+             </div>
+             <div class="dj-subcol" style="width:301px">
+              <ul class="dj-submenu">
+               <li class="itemid1008 first"><a href="/about-the-fdlp/events-and-conferences">Events and Conferences</a></li>
+               <li class="itemid859"><a href="/about-the-fdlp/fdlp-events-calendar">FDLP Events Calendar</a></li>
+               <li class="itemid188"><a href="/about-the-fdlp/partnerships" title="Through agreements with Federal depository libraries and Federal agencies, both the American public and Federal depository libraries have enhanced access to a variety of Federal information products and services.">Partnerships</a></li>
+               <li class="itemid187"><a href="/about-the-fdlp/projects" title="Outlines current and previous efforts to improve the products and services of the FDLP.">Projects</a></li>
+              </ul>
+             </div>
+             <div class="dj-subcol" style="width:301px">
+              <ul class="dj-submenu">
+               <li class="itemid637 first"><a href="/file-repository">File Repository</a></li>
+               <li class="itemid181"><a href="/about-the-fdlp/mission-and-history" title="Learn about the FDLP¹s mission, vision, and core values.">Mission &amp; History</a></li>
+               <li class="itemid2136"><a href="/about-the-fdlp/gpo-on-the-go">GPO on the Go</a></li>
+              </ul>
+             </div>
+             <div style="clear:both;height:0"></div>
+            </div>
+           </div></li>
+          <li class="dj-up itemid524 active parent"><a class="dj-up_a active catindex" href="#"><span class="dj-drop">Cataloging &amp; Classification<em class="arrow" aria-hidden="true"></em></span></a>
+           <div class="dj-subwrap  single_column subcols1" style="">
+            <div class="dj-subwrap-in" style="width:301px;">
+             <div class="dj-subcol" style="width:301px">
+              <ul class="dj-submenu">
+               <li class="itemid525 first"><a href="/cataloging-guidelines">Cataloging Guidelines</a></li>
+               <li class="itemid3201"><a href="https://www.fdlp.gov/classification-guidelines/introduction-to-the-classification-guidelines">Superintendent of Documents Classification Guidelines</a></li>
+               <li class="itemid530"><a href="/catalogingandclassification/cataloging-articles">Cataloging &amp; Indexing</a></li>
+               <li class="itemid2970"><a href="/catalogingandclassification/regional-depositories-oclc-holding-symbols-to-gpo-cataloging">Regional Depositories’ OCLC Holding Symbols to GPO Cataloging</a></li>
+               <li class="itemid630"><a href="http://catalog.gpo.gov/" target="_blank"><em class="dj-icon fa fa-external-link" aria-hidden="true"></em><span class="image-title">Catalog of U.S. Government Publications</span></a></li>
+               <li class="itemid3289"><a href="/catalogingandclassification/sources-of-gpo-cataloging-records">Sources of GPO Cataloging Records</a></li>
+               <li class="itemid3418 current active"><a class="active " href="/catalogingandclassification/cataloging-record-distribution-program">Cataloging Record Distribution Program</a></li>
+              </ul>
+             </div>
+             <div style="clear:both;height:0"></div>
+            </div>
+           </div></li>
+         </ul> 
+         <div id="dj-megamenu336mobile" class="dj-megamenu-offcanvas dj-megamenu-offcanvas-light "> 
+          <a href="#" class="dj-mobile-open-btn" aria-label="Open mobile menu"><span class="fa fa-bars" aria-hidden="true"></span></a> 
+          <aside id="dj-megamenu336offcanvas" class="dj-offcanvas dj-offcanvas-light " data-effect="3"> 
+           <div class="dj-offcanvas-top"> 
+            <a href="#" class="dj-offcanvas-close-btn" aria-label="Close mobile menu"><span class="fa fa-close" aria-hidden="true"></span></a> 
+           </div> 
+           <div class="dj-offcanvas-content"> 
+            <ul class="dj-mobile-nav dj-mobile-light "> 
+             <li class="dj-mobileitem itemid-2831"><a class=" home" href="/" title="Homepage">Home</a></li>
+             <li class="dj-mobileitem itemid-102 deeper parent"><a class="  collect" href="#">Collection Tools</a>
+              <ul class="dj-mobile-nav-child">
+               <li class="dj-mobileitem itemid-163"><a href="/collection-tools/claims" title="Submit a request within 60 days for any publication in your depository shipment that is missing, misprinted or damaged.">Claims</a></li>
+               <li class="dj-mobileitem itemid-160"><a href="https://selections.fdlp.gov" target="_blank" title="Manage your item selection profile."><em class="fa fa-lock " aria-hidden="true"></em><span class="image-title">DSIMS</span></a></li>
+               <li class="dj-mobileitem itemid-164"><a href="https://selections.fdlp.gov/itemlister" target="_blank" title="View both selected and non-selected item numbers for any Federal depository library."><em class=" fa fa-external-link" aria-hidden="true"></em><span class="image-title">Item Lister</span></a></li>
+               <li class="dj-mobileitem itemid-168"><a href="/file-repository/collection-management/list-of-classes" title="Browse the list of Federal information products that are available for selection by depository libraries.">List of Classes</a></li>
+               <li class="dj-mobileitem itemid-165"><a href="/collection-tools/lostdocs" title="Report fugitive documents or other Federal information products that have not been cataloged by GPO.">LostDocs</a></li>
+               <li class="dj-mobileitem itemid-166"><a href="/collection-tools/fdlp-exchange" title="Post or review lists of withdrawn or needed publications from Federal depository libraries.">FDLP eXchange</a></li>
+               <li class="dj-mobileitem itemid-162"><a href="http://purlreferrals.fdlp.gov" target="_blank" title="Find statistical information derived from your library¹s PURL traffic to measure usage of online resources."><em class="fa fa-lock" aria-hidden="true"></em><span class="image-title">PURL Usage Reporting Tool</span></a></li>
+               <li class="dj-mobileitem itemid-167"><a href="/collection-tools/shipping-lists" title="View shipping lists included in depository distribution boxes.">Shipping Lists</a></li>
+               <li class="dj-mobileitem itemid-635"><a href="/collection-tools/shipping-list-this-week">Shipping List This Week</a></li>
+               <li class="dj-mobileitem itemid-169"><a href="/file-repository/collection-management/union-list-of-item-selections" title="View all item number selections of all depositories at once; this is typically used to compare your depository's selection profile against others in your state or region.">UNION-L</a></li>
+               <li class="dj-mobileitem itemid-3287"><a href="https://github.com/usgpo/cataloging-records" target="_blank"><em class=" fa fa-external-link" aria-hidden="true"></em><span class="image-title">CGP on GitHub</span></a></li>
+               <li class="dj-mobileitem itemid-3291"><a href="https://libguides.fdlp.gov/" target="_blank"><em class=" fa fa-external-link" aria-hidden="true"></em><span class="image-title">FDLP LibGuides</span></a></li>
+               <li class="dj-mobileitem itemid-170"><a href="/webtech-notes" title="Search and view updates to the List of Classes and corrections to information found on shipping lists.">WEBTech Notes</a></li>
+              </ul></li>
+             <li class="dj-mobileitem itemid-103 deeper parent"><a class="   reqguide" href="#">Requirements &amp; Guidance</a>
+              <ul class="dj-mobile-nav-child">
+               <li class="dj-mobileitem itemid-171"><a href="/requirements-guidance/legal-requirements" title="Full-text of the Federal depository library obligations that govern FDLP member libraries.">Legal Requirements</a></li>
+               <li class="dj-mobileitem itemid-172"><a href="/requirements-guidance/guidance" title="Contains advice on how to comply with the FDLP regulations.">Guidance</a></li>
+               <li class="dj-mobileitem itemid-173"><a href="/requirements-guidance/instructions" title="Provides an overview of FDLP-related tools and services. Also includes information on the features, functionality, and usage.">Instructions</a></li>
+               <li class="dj-mobileitem itemid-174"><a href="/requirements-guidance/collections-and-databases" title="Describes the various products and services that are uniquely available to Federal depository libraries.">Collections &amp; Databases</a></li>
+               <li class="dj-mobileitem itemid-2124"><a href="/promotion">Promotion</a></li>
+              </ul></li>
+             <li class="dj-mobileitem itemid-3185 deeper parent"><a href="#">Preservation</a>
+              <ul class="dj-mobile-nav-child">
+               <li class="dj-mobileitem itemid-3186"><a href="/preservation/preservation-at-gpo">Preservation at GPO</a></li>
+               <li class="dj-mobileitem itemid-3533"><a href="/preservation/trusted-digital-repository-iso-16363-2012-audit-and-certification">Trusted Digital Repository ISO 16363:2012 Audit and Certification </a></li>
+              </ul></li>
+             <li class="dj-mobileitem itemid-104 deeper parent"><a class="  about" href="#">About the FDLP</a>
+              <ul class="dj-mobile-nav-child">
+               <li class="dj-mobileitem itemid-182"><a href="/about-the-fdlp/supdocs" title="The Superintendent of Documents (SuDocs) is in charge of the dissemination of information at the U.S. Government Printing Office (GPO).">Superintendent of Documents</a></li>
+               <li class="dj-mobileitem itemid-183"><a href="/about-the-fdlp/federal-depository-libraries" title="Federal depository libraries are located throughout the United States and its territories. They provide local, no-fee access to Government information and professional assistance for Federal information products.">Federal Depository Libraries</a></li>
+               <li class="dj-mobileitem itemid-184"><a href="/about-the-fdlp/depository-library-council" title="The Depository Library Council (DLC) serves as an advisory committee to the Public Printer of the United States and the Superintendent of Documents.">Depository Library Council</a></li>
+               <li class="dj-mobileitem itemid-1015"><a href="/about-the-fdlp/fdlp-academy">FDLP Academy</a></li>
+               <li class="dj-mobileitem itemid-1008"><a href="/about-the-fdlp/events-and-conferences">Events and Conferences</a></li>
+               <li class="dj-mobileitem itemid-859"><a href="/about-the-fdlp/fdlp-events-calendar">FDLP Events Calendar</a></li>
+               <li class="dj-mobileitem itemid-188"><a href="/about-the-fdlp/partnerships" title="Through agreements with Federal depository libraries and Federal agencies, both the American public and Federal depository libraries have enhanced access to a variety of Federal information products and services.">Partnerships</a></li>
+               <li class="dj-mobileitem itemid-187"><a href="/about-the-fdlp/projects" title="Outlines current and previous efforts to improve the products and services of the FDLP.">Projects</a></li>
+               <li class="dj-mobileitem itemid-637"><a href="/file-repository">File Repository</a></li>
+               <li class="dj-mobileitem itemid-181"><a href="/about-the-fdlp/mission-and-history" title="Learn about the FDLP¹s mission, vision, and core values.">Mission &amp; History</a></li>
+               <li class="dj-mobileitem itemid-2136"><a href="/about-the-fdlp/gpo-on-the-go">GPO on the Go</a></li>
+              </ul></li>
+             <li class="dj-mobileitem itemid-524 deeper parent"><a class=" catindex" href="#">Cataloging &amp; Classification</a>
+              <ul class="dj-mobile-nav-child">
+               <li class="dj-mobileitem itemid-525"><a href="/cataloging-guidelines">Cataloging Guidelines</a></li>
+               <li class="dj-mobileitem itemid-3201"><a href="https://www.fdlp.gov/classification-guidelines/introduction-to-the-classification-guidelines">Superintendent of Documents Classification Guidelines</a></li>
+               <li class="dj-mobileitem itemid-530"><a href="/catalogingandclassification/cataloging-articles">Cataloging &amp; Indexing</a></li>
+               <li class="dj-mobileitem itemid-2970"><a href="/catalogingandclassification/regional-depositories-oclc-holding-symbols-to-gpo-cataloging">Regional Depositories’ OCLC Holding Symbols to GPO Cataloging</a></li>
+               <li class="dj-mobileitem itemid-630"><a href="http://catalog.gpo.gov/" target="_blank"><em class="fa fa-external-link" aria-hidden="true"></em><span class="image-title">Catalog of U.S. Government Publications</span></a></li>
+               <li class="dj-mobileitem itemid-3289"><a href="/catalogingandclassification/sources-of-gpo-cataloging-records">Sources of GPO Cataloging Records</a></li>
+               <li class="dj-mobileitem itemid-3418 current"><a href="/catalogingandclassification/cataloging-record-distribution-program">Cataloging Record Distribution Program</a></li>
+              </ul></li>
+            </ul> 
+           </div> 
+           <div class="dj-offcanvas-end" tabindex="0"></div> 
+          </aside> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <!-- Body --> 
+     <div class="body" id="page-body"> 
+      <div class="container"> 
+       <div id="system-message-container"> 
+       </div> 
+       <div class="row-fluid"> 
+        <div id="content" class="span9"> 
+         <!-- Begin Content --> 
+         <!--  --> 
+         <ul class="breadcrumb "> 
+          <li><a href="#" class="pathway">Cataloging &amp; Classification</a></li>
+          <li></li>
+          <li></li>
+          <li></li>
+         </ul> 
+         <article class="item-page"> 
+          <h1> Cataloging Record Distribution Program </h1> 
+          <ul class="actions"> 
+           <li class="print-icon"> <a href="/catalogingandclassification/cataloging-record-distribution-program?tmpl=component&amp;print=1" title="Print article < Cataloging Record Distribution Program >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"> <img src="/media/system/images/printButton.png" alt="Print"> </a> </li> 
+           <li class="email-icon"> <a href="/component/mailto/?tmpl=component&amp;template=fdlp&amp;link=5e7c42fcc0389032d455f4ad1e788bf4b3e2d5d1" title="Email this link to a friend" onclick="window.open(this.href,'win2','width=400,height=450,menubar=yes,resizable=yes'); return false;" rel="nofollow"> <img src="/media/system/images/emailButton.png" alt="Email"> </a> </li> 
+          </ul> 
+          <dl class="article-info"> 
+           <dt class="article-info-term">
+            Details
+           </dt> 
+           <dd class="modified">
+             Last Updated: May 29 2019 
+           </dd> 
+           <dd class="published">
+             Published: October 24 2012 
+           </dd> 
+          </dl> 
+          <p class="lead">The Cataloging Records Distribution Program (CRDP) provides&nbsp;<a title="link to GPO’s Cataloging Data in the Cataloging Record Distribution Program" href="/catalogingandclassification/gpo-s-cataloging-data-in-the-cataloging-record-distribution-program">GPO produced catalog records</a> to participating Federal depository libraries at no cost to the libraries.</p> 
+          <p>The U.S. Government Publishing Office (<a target="_blank" title="Link to US Government Publishing Office Site" href="https://www.gpo.gov" rel="noopener noreferrer">GPO</a>) started the CRDP on October 1, 2009 and has expanded the program each year. Currently, it serves up to 185 Federal depository libraries.</p> 
+          <p>GPO contracts with <a target="_blank" title="Link to Marcive.com" href="http://home.marcive.com/cataloging-record-distribution-project" rel="noopener noreferrer">MARCIVE, Inc</a>. for bibliographic record services for CRDP participants. MARCIVE personnel work with each participating library to develop a CRDP bibliographic records profile, and they provide monthly sets of GPO produced bibliographic records for each library, based on their individually customized profiles.</p> 
+          <p>Libraries add the records to their own library catalogs, enhancing public access and awareness of U.S. Government publications. Libraries do not pay to participate; however, they must follow minimum participation requirements in order to remain in the program.</p> 
+          <p><a href="/requirements-guidance/instructions/4006-cataloging-record-distribution-program-faqs-for-current-participants" title="Link to FAQ page" target="_blank" rel="noopener"> <button class="btn btn-primary" type="button" title="Link to Register to attend virtually">FAQs for current participants</button> </a></p> 
+          <h3 data-type="anchor" id="benefits"><a name="benefits">Benefits of the CRDP</a></h3> 
+          <p>The advantages to participation are many, including:</p> 
+          <ul> 
+           <li>The service is available at no cost to participating Federal depository libraries.</li> 
+           <li><a title="link to GPO’s Cataloging Data in the Cataloging Record Distribution Program" href="/catalogingandclassification/gpo-s-cataloging-data-in-the-cataloging-record-distribution-program">Quality bibliographic records</a>&nbsp;are provided monthly.</li> 
+           <li>Participating libraries profiled to get current bibliographic records can make changes anytime to their FDLP item number selection profiles and will automatically get bibliographic records the next month based on the updated item number selection profiles.</li> 
+           <li>Libraries may configure the bibliographic record files received.</li> 
+           <li>The monthly process for acquiring the records sets is easy.</li> 
+           <li>Receiving bibliographic records reduces library staff cataloging time.</li> 
+           <li>Participants have consistently praised CRDP customer service.</li> 
+           <li>Library staff may request a referral to a CRDP Buddy, a knowledgeable librarian at another CRDP participating library who has offered to help consult about the CRDP.</li> 
+          </ul> 
+          <h3 data-type="anchor" id="how_to_join"><a name="how_to_join">How to Join the CRDP</a></h3> 
+          <p>Participation in the CRDP is “first come, first served".</p> 
+          <p>Contact GPO’s Office of Outreach and Support if you are interested in learning about any program vacancies. Ask for Kathy Bayer or Lara Flint.</p> 
+          <ul> 
+           <li>Phone: <a href="tel:202-512-1119">202-512-1119</a> (shared phone line)</li> 
+           <li>Electronic:<a target="_blank" title="Link to Outreach and Support Contact Form" href="/component/weblinks/weblink/390-forms/4-education-and-outreach-contact-form?Itemid=101&amp;task=weblink.go" rel="noopener noreferrer">Email Outreach and Support Form</a></li> 
+          </ul> 
+          <p>The CRDP has proven to be so successful that GPO typically has a waiting list for participation. Libraries on wait lists are typically invited to join after the beginning of the next Federal fiscal year (October 1st). If a program vacancy arises during the fiscal year, the next library on the waiting list is able to join the program at that time.</p> 
+          <p>If your depository library is interested in joining, you are encouraged to:</p> 
+          <ul> 
+           <li>Review the CRDP minimum participation requirements to make sure your library will be able to fulfill the requirements.</li> 
+           <li>Review the <a target="_blank" title="Link to CRDP Profile Guide" href="http://www.fdlp.gov/file-repository/1664-cataloging-record-distribution-project-crdp-profile-guide" rel="noopener noreferrer">CRDP Profile Guide</a>, which provides instructions that libraries joining the CRDP follow to notify MARCIVE how they would like their records sets customized.</li> 
+           <li>Review and update the depository’s FDLP item number selection profile, as appropriate.</li> 
+          </ul> 
+          <div class="alert alert-info"> 
+           <p>Once GPO invites your library to join the CRDP:</p> 
+           <ol> 
+            <li>Review the following: 
+             <ul> 
+              <li>&nbsp;<a title="Link to CRDP Profile Guide document" class="doclink" href="/file-repository/1664-cataloging-record-distribution-project-crdp-profile-guide">CRDP Profile Guide</a></li> 
+              <li><a title="Link to Joining the CRDP document" href="/file-repository/about-the-fdlp/gpo-projects/2756-steps-to-begin-crdp-9-14-2016">Joining the CRDP</a> A short outline of steps to take when joining the CRDP and what you can expect once your library is an active participant</li> 
+              <li>A <a href="http://login.icohere.com/connect/d_connect_itemframer.cfm?vsDTTitle=Completing%20the%20CRDP%20Profile&amp;dseq=18332&amp;dtseq=103945&amp;emdisc=2&amp;mkey=public1172&amp;vbDTA=0&amp;viNA=0&amp;vsDTA=&amp;PAN=2&amp;bDTC=0&amp;topictype=standard%20default%20linear&amp;vsSH=A" title="Link to Completing the CRDP Profile Guide" target="_blank" rel="noopener noreferrer">webcast </a>about completion of the CRDP Profile Guide&nbsp;</li> 
+             </ul> </li> 
+            <li>Submit the CRDP Profile. Access the form through the link in the first paragraph of the CRDP Profile Guide.</li> 
+           </ol>
+          </div> 
+          <h3 data-type="anchor" id="part_req"><a name="participation_requirements">Participation Requirements</a></h3> 
+          <p>Since GPO pays for participating libraries to receive bibliographic records through the CRDP, these libraries are required to:</p> 
+          <ul> 
+           <li><strong>Maintain CRDP point(s) of contact with both GPO and MARCIVE, Inc.</strong> A library must always have at least one current point of contact for this program. Notify both GPO and MARCIVE of any changes in the points of contact.</li> 
+           <li><strong>Retrieve catalog records each month.</strong> Records are typically made available for two weeks at the end of the second week of the month. 
+            <ul> 
+             <li>Failure to see the email notification from MARCIVE about availability of records or to be contacted by GPO about record pick-up does not excuse a library from picking up records. If you haven’t seen a notification by the middle of the month, you should get in touch with MARCIVE to inquire about records availability.</li> 
+             <li>If you miss picking up records during the two-week window, you may contact MARCIVE to request reposting. This may be done only once during a fiscal year and must be done by the end of the month that the records were made available.</li> 
+            </ul> </li> 
+           <li><strong>Load the records into the ILS/OPAC on a timely basis</strong>, which is preferably within two weeks but at least before the next set of records is available the following month, and test the results.</li> 
+           <li><strong>Profile to receive at least ten records each month, on average.</strong></li> 
+           <li><strong>Complete an annual GPO survey about the CRDP.</strong></li> 
+           <li>Have an integrated library system which supports Resource Description and Access (RDA) bibliographic records.</li> 
+           <li>(For new participants) After getting an invitation to join, complete the initial CRDP Profile and testing within three weeks.</li> 
+          </ul> 
+          <p>Libraries with OCLC WMS may set up their CRDP Profiles so they do not need to pick up or load records.</p> 
+          <div class="alert alert-error"> 
+           <p><strong>PLEASE NOTE</strong>: GPO monitors non-compliance with these requirements and reserves the right to remove libraries from the CRDP when they do not fulfill the requirements.</p> 
+          </div> 
+          <p>If your library is uncertain about meeting the participation requirements, please note that GPO <a title="Link to CRDP page" href="/catalogingandclassification/sources-of-gpo-cataloging-records">catalog records are available through other sources</a>.</p> 
+          <p>To get a sense of how many bibliographic records your library may get each month based on your current FDLP item number selection profile, you may search the section entitled “Catalog”, filtered by your depository library number, in <a target="_blank" title="Link to DDM2" href="http://govdoc.wichita.edu/ddm2/startup.asp" rel="noopener noreferrer">Documents Data Miner 2</a>.</p> 
+          <h3 data-type="anchor" id="crdp_profile"><a name="crdp_profile">CRDP Profile</a></h3> 
+          <p>Participating libraries create a CRDP Profile to describe the types of records they wish to receive and how they will be organized in order to meet the specifications of the local library system.</p> 
+          <p>See the <a target="_blank" title="Link to Profile Guide" href="http://www.fdlp.gov/file-repository/1664-cataloging-record-distribution-project-crdp-profile-guide" rel="noopener noreferrer">Profile Guide</a>, which has instructions for a new library joining the CRDP and helpful information to reference in case participating libraries wish to update or change their current CRDP Profiles.</p> 
+          <p>Each library participant may select one of the following options:</p> 
+          <ul> 
+           <li>All newly created cataloging records</li> 
+           <li>All new records, plus changed or updated bibliographic records</li> 
+          </ul> 
+          <div class="alert alert-danger">
+           Please note that new Historic Shelflist records are not currently available in the CRDP. GPO is not currently creating any of these records at this time, 
+           <a href="/news-and-events/3957-historic-shelflist-transcription-update" title="Link to Historic Shelflist Transcription Update News Alert" target="_blank" rel="noopener">pending review of the Historic Shelflist transcription project</a>.
+          </div> 
+          <div class="alert alert-info"> 
+           <h5>Libraries joining the CRDP</h5> 
+           <p>Libraries joining the CRDP set up their CRDP Profile through the form linked from the CRDP Profile Guide. &nbsp;<br>New libraries in the CRDP may make two cataloging specification updates within the fiscal year they join. GPO’s fiscal year runs from October 1st through September 30th.</p> 
+          </div> 
+          <div class="alert alert-info"> 
+           <h5>Current CRDP participants</h5> 
+           <p>Participating libraries contact MARCIVE, Inc. directly to make changes to their CRDP Profiles. <br>Each continuing CRDP library is entitled to make up to two cataloging specification updates to the record sets output during each Federal fiscal year. GPO’s fiscal year runs from October 1st through September 30th.<br>Participating libraries, please note: When you update your library’s FDLP item number selection profile or GPO makes changes to item numbers that affect your library’s profile, MARCIVE automatically provides bibliographic records the next month for the updated item numbers selected.&nbsp; There is no need to notify GPO or MARCIVE about item number changes.</p> 
+          </div> 
+          <h3 data-type="anchor" id="record_customization"><a name="record_customization">Record Customization</a></h3> 
+          <p>Record sets may be customized in the CRDP. Libraries may choose from among the following CRDP custom options:</p> 
+          <ul> 
+           <li>Organization of records sets. They may be in one file or they can be separated by format, such as serials or online only (EL).</li> 
+           <li>Output limited by format, such as online only (EL)</li> 
+           <li>Creation of item record holding fields</li> 
+           <li>Creation of up to four holding codes</li> 
+           <li>Placement of OCLC numbers, SuDocs class numbers, and designated MARC fields according to local practice</li> 
+           <li>Record sets in MARC-8 or UTF-8</li> 
+           <li>Sending records to OCLC for the purpose of setting holdings</li> 
+          </ul> 
+          <p>Note that MARCIVE adds the following note in a 500 field, “CRDP Project record”.</p> 
+          <h3 data-type="anchor" id="record_distribution"><a name="record_distribution">Record Distribution</a></h3> 
+          <p>Records are distributed in batches once a month from MARCIVE, typically at the end of the second week of the month. The records sets are for publications cataloged by GPO during the previous month.</p> 
+          <p>CRDP points of contact at libraries are notified by MARCIVE each month by email when their records are available to pick up via FTP or HTTP. The emails include the quantity of records and the location where the records may be retrieved via FTP or HTTP .</p> 
+          <p>Once notified, libraries have two weeks to retrieve records. The email notification also includes the expiration date after which the records will not be available.</p> 
+          <p>Libraries choosing to leave the CRDP may retain the bibliographic records received through the program</p> 
+          <h3 data-type="anchor" id="excluded_services"><a name="excluded_services">Excluded Services</a></h3> 
+          <p>The following services are not available through the CRDP:</p> 
+          <ul> 
+           <li>GPO acquisition records (brief bibs)</li> 
+           <li>MARCIVE Shipping List Service (SLS) records</li> 
+           <li>Barcodes/smart barcodes</li> 
+           <li>Superintendent of Documents (SuDocs) number labels</li> 
+           <li>Access to MARCIVEWeb Docs (database offered by MARCIVE)</li> 
+           <li>Authority control services</li> 
+           <li>Custom reporting</li> 
+           <li>MARC records profiled by criteria not in the CRDP</li> 
+           <li>Record loads tailored for a consortial catalog</li> 
+           <li>Retrospective cataloging</li> 
+          </ul> 
+          <h3 data-type="anchor" id="guidance_quest_tech"><a name="guidance_questions_technical_assistance">Guidance, Questions, and Technical Assistance</a></h3> 
+          <div class="alert"> 
+           <h5>CRDP Buddies</h5> 
+           <p>Looking for guidance about CRDP workflows or best practices from a practitioner?&nbsp; Request a referral to an experienced librarian who has offered to consult about the CRDP. A referral is typically made to a library using the same integrated library system.</p> 
+           <p>To request a CRDP Buddy, contact GPO’s Office of Outreach and Support (see below).</p> 
+           <p>GPO thanks all the librarians who have volunteered to share their expertise and consult with their colleagues about the CRDP.</p> 
+          </div> 
+          <div class="alert alert-info"> 
+           <h5>Contact GPO if you:</h5> 
+           <ul> 
+            <li>Have general questions or comments about the CRDP</li> 
+            <li>Would like to join or leave the CRDP</li> 
+            <li>Want to update your library’s CRDP point(s) of contact</li> 
+            <li>Wish to request a CRDP Buddy</li> 
+           </ul> 
+           <p>Contact Kathy Bayer or Lara Flint in <strong>GPO’s Office of Outreach and Support</strong> by:</p> 
+           <ul> 
+            <li>Phone: 202-512-1119</li> 
+            <li>Electronic:<a target="_blank" title="Link to Outreach and Support Contact Form" href="/component/weblinks/weblink/390-forms/4-education-and-outreach-contact-form?Itemid=101&amp;task=weblink.go" rel="noopener noreferrer">Email Outreach and Support Form</a></li> 
+            <li><a target="_blank" title="Link to AskGPO" href="https://www.gpo.gov/askgpo/" rel="noopener noreferrer">askGPO</a>. Please select the category “Federal Depository Libraries” and the subcategory “Cataloging Record Distribution Project.”</li> 
+           </ul> 
+          </div> 
+          <div class="alert alert-info"> 
+           <h5>Contact MARCIVE, Inc. if you:</h5> 
+           <ul> 
+            <li>Have technical support questions about CRDP profiling, ongoing profile maintenance or updates, records formatting, or receipt of files</li> 
+            <li>Have other technical questions about the CRDP</li> 
+            <li>Want to leave the CRDP</li> 
+            <li>Want to update your library’s CRDP point(s) of contact</li> 
+           </ul> 
+           <p>Contact <strong>MARCIVE, Inc.</strong> representatives by:</p> 
+           <ul> 
+            <li>Phone: 800-531-7678</li> 
+            <li><span id="cloakc4ae4692f3f7759e60948b3cde97ed7f">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type="text/javascript">
+				document.getElementById('cloakc4ae4692f3f7759e60948b3cde97ed7f').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addyc4ae4692f3f7759e60948b3cde97ed7f = '&#105;nf&#111;' + '&#64;';
+				addyc4ae4692f3f7759e60948b3cde97ed7f = addyc4ae4692f3f7759e60948b3cde97ed7f + 'm&#97;rc&#105;v&#101;' + '&#46;' + 'c&#111;m';
+				var addy_textc4ae4692f3f7759e60948b3cde97ed7f = 'Em&#97;&#105;l';document.getElementById('cloakc4ae4692f3f7759e60948b3cde97ed7f').innerHTML += '<a title="Email" ' + path + '\'' + prefix + ':' + addyc4ae4692f3f7759e60948b3cde97ed7f + '\'>'+addy_textc4ae4692f3f7759e60948b3cde97ed7f+'<\/a>';
+		</script></li> 
+           </ul> 
+          </div> 
+          <h3 data-type="anchor" id="participating_libraries_2019"><a name="participating_libraries_2019" id="participating_libraries_2019">Participating Libraries in FY2019</a></h3> 
+          <p> </p>
+          <div id="at_227_wrapper" class="ari-data-tables jui-flick"> 
+           <table id="at_227" border="0"> 
+            <thead> 
+             <tr> 
+              <th class="ari-tbl-col-0">State</th> 
+              <th class="ari-tbl-col-1">Library</th> 
+             </tr> 
+            </thead> 
+            <tbody> 
+             <tr class=" ari-tbl-row-0"> 
+              <td class="ari-tbl-col-0">Alabama</td> 
+              <td class="ari-tbl-col-1">Air University Muir S. Fairchild Research Information Center</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-1"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Alabama A&amp;M University J.F. Drake Memorial Learning Resources Center</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-2"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Auburn University Ralph Brown Draughon Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-3"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">University of Alabama, Huntsville Salmon Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-4"> 
+              <td class="ari-tbl-col-0">Alaska</td> 
+              <td class="ari-tbl-col-1"> I?isa?vik College Tuzzy Consortium Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-5"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Troy University Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-6"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">University of Alaska, Anchorage UAA/APU Consortium Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-7"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">University of Alaska, Fairbanks Rasmuson Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-8"> 
+              <td class="ari-tbl-col-0">Arizona</td> 
+              <td class="ari-tbl-col-1">Arizona Western College Academic Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-9"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">University of Arizona James E. Rogers College of Law Daniel F. Cracchiolo Law Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-10"> 
+              <td class="ari-tbl-col-0">Arkansas</td> 
+              <td class="ari-tbl-col-1">Arkansas State Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-11"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Arkansas State University Jonesboro Dean B. Ellis Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-12"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Ouachita Baptist University Riley-Hickingbotham Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-13"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">University of Arkansas at Pine Bluff John Brown Watson Memorial Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-14"> 
+              <td class="ari-tbl-col-0">California</td> 
+              <td class="ari-tbl-col-1">California State University, Fullerton Pollak Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-15"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">College of San Mateo Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-16"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Downey City Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-17"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Inglewood Public Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-18"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Monterey Park Bruggemeyer Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-19"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Oakland Public Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-20"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Orange County Law Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-21"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Pasadena Public Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-22"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Public Library of Stockton and San Joaquin County</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-23"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">San Francisco State University J. Paul Leonard Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-24"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">University of California, Santa Barbara Davidson Library </td> 
+             </tr> 
+             <tr class=" ari-tbl-row-25"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">University of San Francisco Gleeson Library | Geschke Center</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-26"> 
+              <td class="ari-tbl-col-0">Colorado</td> 
+              <td class="ari-tbl-col-1">Colorado Mesa University John U. Tomlinson Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-27"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">University of Colorado, Colorado Springs Kraemer Family Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-28"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Western State College Leslie J. Savage Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-29"> 
+              <td class="ari-tbl-col-0">Connecticut</td> 
+              <td class="ari-tbl-col-1">Connecticut College C.E. Shain Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-30"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Post University Traurig Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-31"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Trinity College Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-32"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Wesleyan University Olin Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-33"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Yale University Lillian Goldman Law Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-34"> 
+              <td class="ari-tbl-col-0">District of Columbia</td> 
+              <td class="ari-tbl-col-1">District of Columbia Public Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-35"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Georgetown University Lauinger Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-36"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">National Defense University Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-37"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">National Library of Education</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-38"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">U.S. Department of Justice Main Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-39"> 
+              <td class="ari-tbl-col-0">Florida</td> 
+              <td class="ari-tbl-col-1">Florida State University Robert Manning Strozier Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-40"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Lake-Sumter State College Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-41"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Stetson University College of Law Dolly &amp; Homer Hand Law Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-42"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">St. Thomas University Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-43"> 
+              <td class="ari-tbl-col-0">Georgia</td> 
+              <td class="ari-tbl-col-1">Atlanta-Fulton Public Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-44"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Atlanta University Center Robert W. Woodruff Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-45"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Mercer University Furman Smith Law Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-46"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">University of Georgia School of Law Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-47"> 
+              <td class="ari-tbl-col-0">Guam</td> 
+              <td class="ari-tbl-col-1">University of Guam Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-48"> 
+              <td class="ari-tbl-col-0">Illinois</td> 
+              <td class="ari-tbl-col-1">Chicago Public Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-49"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Illinois State Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-50"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">McKendree University Holman Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-51"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Oakton Community College Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-52"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Olivet Nazarene University Benner Library &amp; Resource Center</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-53"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Principia College Marshall Brooks Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-54"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Southern Illinois University Edwardsville Lovejoy Memorial Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-55"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">University of Illinois, Springfield Norris L. Brookens Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-56"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">University of Illinois, Urbana-Champaign Government Documents Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-57"> 
+              <td class="ari-tbl-col-0">Indiana</td> 
+              <td class="ari-tbl-col-1">Gary Public Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-58"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Indiana State University Cunningham Memorial Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-59"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Indianapolis Public Library Central Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-60"> 
+              <td class="ari-tbl-col-0">Iowa</td> 
+              <td class="ari-tbl-col-1">Davenport Public Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-61"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Drake University Law Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-62"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Graceland University Frederick Madison Smith Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-63"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Loras College Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-64"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">University of Northern Iowa Rod Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-65"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Upper Iowa University Henderson-Wilder Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-66"> 
+              <td class="ari-tbl-col-0">Kentucky</td> 
+              <td class="ari-tbl-col-1">Murray State University Waterfield Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-67"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Western Kentucky University Helm-Cravens Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-68"> 
+              <td class="ari-tbl-col-0">Louisiana</td> 
+              <td class="ari-tbl-col-1">Loyola University New Orleans College of Law Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-69"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">State Library of Louisiana</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-70"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Tulane University Howard-Tilton Memorial Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-71"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Tulane University Law Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-72"> 
+              <td class="ari-tbl-col-0">Maryland</td> 
+              <td class="ari-tbl-col-1">Harford Community College Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-73"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">U.S. Naval Academy Nimitz Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-74"> 
+              <td class="ari-tbl-col-0">Massachusetts</td> 
+              <td class="ari-tbl-col-1">Harvard College Lamont Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-75"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Harvard Law School Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-76"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Boston Public Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-77"> 
+              <td class="ari-tbl-col-0">Michigan</td> 
+              <td class="ari-tbl-col-1">Calvin College &amp; Calvin Theological Seminary Hekman Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-78"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Ferris State University Ferris Library for Information, Technology, and Education</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-79"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Grand Rapids Public Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-80"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Schoolcraft College Eric J. Bradner Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-81"> 
+              <td class="ari-tbl-col-0">Minnesota</td> 
+              <td class="ari-tbl-col-1">Mitchell Hamline School of Law Warren E. Burger Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-82"> 
+              <td class="ari-tbl-col-0">Missouri</td> 
+              <td class="ari-tbl-col-1">Missouri Southern State University George A. Spiva Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-83"> 
+              <td class="ari-tbl-col-0">Montana</td> 
+              <td class="ari-tbl-col-1">Montana State Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-84"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">State Law Library of Montana</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-85"> 
+              <td class="ari-tbl-col-0">Nebraska</td> 
+              <td class="ari-tbl-col-1">Nebraska Library Commission</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-86"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Wayne State College Conn Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-87"> 
+              <td class="ari-tbl-col-0">Nevada</td> 
+              <td class="ari-tbl-col-1">Las Vegas Clark County Library District Las Vegas Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-88"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">University of Nevada, Las Vegas Wiener-Rogers Law Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-89"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Washoe County Law Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-90"> 
+              <td class="ari-tbl-col-0">New Hampshire</td> 
+              <td class="ari-tbl-col-1">New Hampshire State Library (New Hampshire Department of Cultural Resources)</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-91"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Saint Anselm College Geisel Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-92"> 
+              <td class="ari-tbl-col-0">New Mexico</td> 
+              <td class="ari-tbl-col-1">Farmington Public Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-93"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">University of New Mexico Libraries</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-94"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Western New Mexico University J. Cloyd Miller Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-95"> 
+              <td class="ari-tbl-col-0">New Jersey</td> 
+              <td class="ari-tbl-col-1">Free Public Library of Elizabeth</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-96"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Free Public Library of Woodbridge</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-97"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Drew University Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-98"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Monmouth County Library - Eastern Branch</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-99"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">New Jersey State Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-100"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Newark Public Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-101"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Rider University Franklin F. Moore Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-102"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Rutgers University, Camden Law Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-103"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Rutgers University, Newark Law Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-104"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Rutgers University, New Brunswick, Alexander Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-105"> 
+              <td class="ari-tbl-col-0">New York</td> 
+              <td class="ari-tbl-col-1">Hofstra University Axinn Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-106"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Middletown Thrall Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-107"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">New York Law School Mendik Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-108"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Queens Public Library Central Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-109"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Sarah Lawrence College Esther Raushenbush Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-110"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">St. John's University Rittenberg Law Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-111"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Stony Brook University Frank Melville Jr. Memorial Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-112"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Union College Schaffer Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-113"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">U.S. Merchant Marine Academy Bland Memorial Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-114"> 
+              <td class="ari-tbl-col-0">North Carolina</td> 
+              <td class="ari-tbl-col-1">Davidson County Public Library System Lexington Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-115"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">East Carolina University Joyner Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-116"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Fayetteville State University Charles W. Chesnutt Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-117"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">State Library of North Carolina (Department of Cultural Resources)</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-118"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">University of North Carolina, Greensboro Walter Clinton Jackson Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-119"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">University of North Carolina, Wilmington William M. Randall Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-120"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Wake Forest University Z. Smith Reynolds Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-121"> 
+              <td class="ari-tbl-col-0">North Dakota</td> 
+              <td class="ari-tbl-col-1">Sitting Bull College Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-122"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Valley City State University Allen Memorial Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-123"> 
+              <td class="ari-tbl-col-0">Ohio</td> 
+              <td class="ari-tbl-col-1">Ashland University Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-124"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Cleveland Public Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-125"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Cleveland State University Cleveland-Marshall College of Law Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-126"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Cleveland State University Michael Schwartz Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-127"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Heidelberg University Beeghly Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-128"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Hiram College Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-129"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Miami University King Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-130"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Muskingum University Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-131"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Oberlin College Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-132"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Ohio University Alden Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-133"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Otterbein University, Courtright Memorial Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-134"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Shawnee State University Clark Memorial Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-135"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">University of Akron Bierce Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-136"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">University of Dayton Roesch Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-137"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Youngstown State University William F. Maag Jr. Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-138"> 
+              <td class="ari-tbl-col-0">Oklahoma</td> 
+              <td class="ari-tbl-col-1">East Central University Linscheid Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-139"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Langston University G. Lamar Harrison Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-140"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Rogers State University Stratton Taylor Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-141"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">University of Central Oklahoma Max Chambers Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-142"> 
+              <td class="ari-tbl-col-0">Oregon</td> 
+              <td class="ari-tbl-col-1">Oregon State Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-143"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Southern Oregon University Hannon Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-144"> 
+              <td class="ari-tbl-col-0">Pennsylvania</td> 
+              <td class="ari-tbl-col-1">East Stroudsburg University Kemp Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-145"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">LaRoche College Wright Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-146"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Millersville University of Pennsylvania Francine G. McNairy Library and Learning Forum</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-147"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Scranton Public Library Albright Memorial Building</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-148"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Swarthmore College McCabe Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-149"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Thiel College Langenheim Memorial Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-150"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">University of Pennsylvania Van Pelt-Dietrich Library Center</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-151"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">West Chester University of Pennsylvania Francis Harvey Green Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-152"> 
+              <td class="ari-tbl-col-0">Puerto Rico</td> 
+              <td class="ari-tbl-col-1">Pontifical Catholic University of Puerto Rico Biblioteca de Derecho Mons Fremiot Torres Oliver</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-153"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Pontifical Catholic University of Puerto Rico Encarnacion Valdes Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-154"> 
+              <td class="ari-tbl-col-0">South Carolina</td> 
+              <td class="ari-tbl-col-1">Citadel Military College Daniel Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-155"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Furman University James B. Duke Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-156"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">South Carolina State Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-157"> 
+              <td class="ari-tbl-col-0">South Dakota</td> 
+              <td class="ari-tbl-col-1">South Dakota State University Hilton M. Briggs Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-158"> 
+              <td class="ari-tbl-col-0">Tennessee</td> 
+              <td class="ari-tbl-col-1">Fisk University Franklin Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-159"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Nashville Public Library (Public Library of Nashville &amp; Davidson County)</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-160"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Tennessee State Library and Archives</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-161"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">University of Tennessee, Knoxville Joel A. Katz Law Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-162"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">University of Tennessee, Knoxville John C. Hodges Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-163"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">University of the South Jessie Ball duPont Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-164"> 
+              <td class="ari-tbl-col-0">Texas</td> 
+              <td class="ari-tbl-col-1">El Paso Public Library Main Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-165"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Lamar University Mary &amp; John Gray Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-166"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Lee College Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-167"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Longview Public Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-168"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">San Antonio College Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-169"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">South Texas College of Law Fred Parks Law Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-170"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">St. Mary's University Louis J. Blume Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-171"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Texas Lutheran University Blumberg Memorial Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-172"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">University of Texas at Arlington Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-173"> 
+              <td class="ari-tbl-col-0">U.S. Virgin Islands</td> 
+              <td class="ari-tbl-col-1">Florence Williams Public Library (Division of Libraries, Archives, &amp; Museums)</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-174"> 
+              <td class="ari-tbl-col-0">Vermont</td> 
+              <td class="ari-tbl-col-1">Middlebury College Davis Family Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-175"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">University of Vermont Bailey/Howe Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-176"> 
+              <td class="ari-tbl-col-0">Virginia</td> 
+              <td class="ari-tbl-col-1">University of Mary Washington Simpson Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-177"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">University of Virginia`s College at Wise John Cook Wyllie Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-178"> 
+              <td class="ari-tbl-col-0">Washington</td> 
+              <td class="ari-tbl-col-1">Central Washington University James E. Brooks Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-179"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Washington State University Holland and Terrell Libraries</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-180"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">Whitman College Penrose Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-181"> 
+              <td class="ari-tbl-col-0">West Virginia</td> 
+              <td class="ari-tbl-col-1">Marshall University James E. Morrow Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-182"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">West Virginia State University Drain-Jordan Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-183"> 
+              <td class="ari-tbl-col-0">Wyoming</td> 
+              <td class="ari-tbl-col-1">University of Wyoming Coe Library</td> 
+             </tr> 
+             <tr class=" ari-tbl-row-184"> 
+              <td class="ari-tbl-col-0"></td> 
+              <td class="ari-tbl-col-1">University of Wyoming College of Law George W. Hopper Law Library</td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+          <p></p> 
+          <h3 data-type="anchor" id="add_info"><a name="additional_information">Additional Information</a></h3> 
+          <ul> 
+           <li><a href="http://login.icohere.com/connect/d_connect_itemframer.cfm?vsDTTitle=Cataloging%20Record%20Distribution%20Program%20Workflows&amp;dseq=18332&amp;dtseq=109501&amp;emdisc=2&amp;mkey=public1172&amp;vbDTA=0&amp;viNA=0&amp;vsDTA=&amp;PAN=2&amp;bDTC=0&amp;topictype=standard%20default%20linear&amp;vsSH=A" target="_blank" rel="noopener noreferrer">Cataloging Record Distribution Program Workflows webinar,</a> September 7, 2017</li> 
+           <li>"<a href="/all-newsletters/community-insights/2670-western-kentucky-university-and-the-crdp-under-community-insights">Western Kentucky University and the CRDP</a>” &nbsp;FDLP Connection, Volume 6, Issue 4</li> 
+           <li>2015 Federal Depository Library Conference program, co-presented by GPO and MARCIVE, Inc. 
+            <ul> 
+             <li><a target="_blank" title="Link to Recording" href="http://login.icohere.com/connect/d_connect_itemframer.cfm?vsDTTitle=FDLP%20Coordinator%20Certificate%20Program%20&amp;%20Cataloging%20Record...&amp;dseq=24539&amp;dtseq=97689&amp;emdisc=2&amp;mkey=public1328&amp;vbDTA=0&amp;viNA=0&amp;vsDTA=&amp;PAN=1&amp;bDTC=1&amp;topictype=standard%20default%20linear&amp;vsSH=A" rel="noopener noreferrer">Recording</a>&nbsp;(starts at 39:00)</li> 
+             <li><a target="_blank" title="Link to Slide Presentation" href="http://www.fdlp.gov/file-repository/outreach/events/depository-library-council-dlc-meetings/2015-meeting-proceedings-1/2015-dlc-meeting-and-fdl-conference/2642-cataloging-record-distribution-program" rel="noopener noreferrer">Slide presentation</a></li> 
+            </ul> </li> 
+           <li>“<a target="_blank" title="Link to Downey City Library" href="http://www.fdlp.gov/all-newsletters/community-insights/1090-downey-city-library-comm-centered-cataloging-gpo" rel="noopener noreferrer">Downey City Library: Community Centered Cataloging with GPO’s Records</a>”, FDLP Connection, volume 1, issue 2.</li> 
+          </ul> 
+         </article> 
+         <!-- End Content --> 
+        </div> 
+        <div id="aside" class="span3 pull-right hidden-phone"> 
+         <div data-spy="affix-none" class="span2 rightside" data-offset-top="10"> 
+          <!-- Begin Right Sidebar --> 
+          <div class="moduletable"> 
+           <div id="aSt-module-387" class="aikonScrollTop astSideFade"> 
+            <a id="aSt" href="#"></a> 
+            <i id="the-ast-arrow" class="ast-text">Back to Top</i> 
+           </div> 
+          </div> 
+          <div class="floatingmoduleck" id="floatingmoduleck225" data-method="onscroll" data-pos="left" data-x="0px" data-y="125px" data-w="200px" data-bg="" data-css="" data-offsety="10" data-bottomlimit="div.footer" data-bottomoffset="0"> 
+           <div class="moduletable"> 
+            <div class="custom"> 
+             <div width="325px"> 
+              <ul class="nav nav-tabs nav-stacked"> 
+               <li><a href="#benefits"><b class="icon-chevron-left"></b>&nbsp;Benefits of the CRDP</a></li> 
+               <li><a href="#how_to_join"><b class="icon-chevron-left"></b>&nbsp;How to Join the CRDP</a></li> 
+               <li><a href="#part_req"><b class="icon-chevron-left"></b>&nbsp;Participation Requirements</a></li> 
+               <li><a href="#crdp_profile"><b class="icon-chevron-left"></b>&nbsp;CRDP Profile</a></li> 
+               <li><a href="#record_customization"><b class="icon-chevron-left"></b>&nbsp;Record Customization</a></li> 
+               <li><a href="#record_distribution"><b class="icon-chevron-left"></b>&nbsp;Record Distribution</a></li> 
+               <li><a href="#excluded_services"><b class="icon-chevron-left"></b>&nbsp;Excluded Services</a></li> 
+               <li><a href="#guidance_quest_tech"><b class="icon-chevron-left"></b>&nbsp;Guidance, Questions, and Technical Assistance</a></li> 
+               <li><a href="#participating_libraries_2019"><b class="icon-chevron-left"></b>&nbsp;Participating Libraries in FY2019</a></li> 
+               <li><a href="#add_info"><b class="icon-chevron-left"></b>&nbsp;Additional Information</a></li> 
+              </ul> 
+              <p>&nbsp;</p> 
+             </div>
+            </div> 
+           </div> 
+          </div> 
+          <!-- End Right Sidebar --> 
+         </div> 
+        </div> 
+        <!--Bottom Three --> 
+        <div class="row-fluid"> 
+         <div class="span12"> 
+          <div class="span9"></div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <!-- Footer --> 
+      <div class="footer"> 
+       <div class="container"> 
+        <div class="row-fluid"> 
+         <div class="row-fluid"> 
+          <div class="span3"> 
+           <div class="moduletable-red"> 
+            <h3>Collection Tools</h3> 
+            <ul class="nav menu "> 
+             <li class="item-117"><a href="/collection-tools/claims" title="Submit a request within 60 days for any publication in your depository shipment that is missing, misprinted or damaged."> <span>Claims</span></a></li>
+             <li class="item-121"><a href="http://selections.fdlp.gov" title="Manage your item selection profile"> <span>DSIMS</span></a></li>
+             <li class="item-123"><a href="http://selections.fdlp.gov/itemlister" title="View both selected and non-selected item numbers for any Federal depository library."> <span>Item Lister</span></a></li>
+             <li class="item-124"><a href="/file-repository/collection-management/list-of-classes" title="Browse the list of Federal information products that are available for selection by depository libraries. "> <span>List of Classes</span></a></li>
+             <li class="item-125"><a href="/collection-tools/lostdocs" title="Report fugitive documents or other Federal information products that have not been cataloged by GPO."> <span>LostDocs</span></a></li>
+             <li class="item-126"><a href="/fdlp-exchange-page" title="Post or review lists of withdrawn or needed publications from Federal depository libraries."><span>FDLP eXchange</span></a></li>
+             <li class="item-127"><a href="http://purlreferrals.fdlp.gov" target="_blank" title="Find statistical information derived from your library¹s PURL traffic to measure usage of online resources."> <span>PURL Usage Reporting Tool</span></a></li>
+             <li class="item-128"><a href="/collection-tools/shipping-lists" title="View shipping lists included in depository distribution boxes."> <span>Shipping Lists</span></a></li>
+             <li class="item-636"><a href="/collection-tools/shipping-list-this-week"> <span>Shipping List This Week</span></a></li>
+             <li class="item-129"><a href="/file-repository/collection-management/union-list-of-item-selections" title="View all item number selections of all depositories at once; this is typically used to compare your depository's selection profile against others in your state or region."> <span>Union-L</span></a></li>
+             <li class="item-633"><a href="/webtech-notes"><span>WEBTech Notes</span></a></li>
+             <li class="item-3286"><a href="https://github.com/usgpo/cataloging-records"> <span>CGP on GitHub</span></a></li>
+             <li class="item-3292"><a href="https://libguides.fdlp.gov/" target="_blank"> <span>FDLP LibGuides</span></a></li>
+            </ul> 
+           </div> 
+          </div> 
+          <div class="span3"> 
+           <div class="moduletable-blue"> 
+            <h3>Requirements &amp; Guidance</h3> 
+            <ul class="nav menu "> 
+             <li class="item-131"><a href="/requirements-guidance/legal-requirements" title="Full-text of the Federal depository library obligations that govern FDLP member libraries."> <span>Legal Requirements</span></a></li>
+             <li class="item-132"><a href="/requirements-guidance/guidance" title="Contains advice on how to comply with the FDLP regulations."> <span>Guidance</span></a></li>
+             <li class="item-134"><a href="/requirements-guidance/collections-and-databases" title="Describes the various products and services that are uniquely available to Federal depository libraries."> <span>Collections &amp; Databases</span></a></li>
+             <li class="item-2129"><a href="/promotion"> <span>Promotion</span></a></li>
+             <li class="item-4684 parent dropdown"><a href="/requirements-guidance-2/guidance"> <span>Requirements &amp; Guidance</span></a></li>
+            </ul> 
+           </div> 
+           <div class="moduletable-gpoish"> 
+            <h3 class="-red2">GPO Websites</h3> 
+            <ul class="nav menu "> 
+             <li class="item-648"><a href="https://www.gpo.gov" target="_blank"> <span>U.S. Government Publishing Office</span></a></li>
+             <li class="item-649"><a href="http://www.fdsys.gov" target="_blank"> <span>Federal Digital System (FDsys)</span></a></li>
+             <li class="item-1971"><a href="https://govinfo.gov/"> <span>govinfo</span></a></li>
+             <li class="item-650"><a href="http://bookstore.gpo.gov/" target="_blank"> <span>U.S. Government Bookstore</span></a></li>
+             <li class="item-651"><a href="http://bensguide.gpo.gov/" target="_blank"> <span>Ben's Guide to U.S. Government</span></a></li>
+            </ul> 
+           </div> 
+          </div> 
+          <div class="span3"> 
+           <div class="moduletable-peri"> 
+            <h3>Preservation</h3> 
+            <ul class="nav menu "> 
+             <li class="item-3187"><a href="/preservation/preservation-at-gpo"> <span>Preservation at GPO</span></a></li>
+             <li class="item-3532"><a href="/preservation/trusted-digital-repository-iso-16363-2012-audit-and-certification"> <span>Trusted Digital Repository ISO 16363:2012 Audit and Certification</span></a></li>
+            </ul> 
+           </div> 
+           <div class="moduletable-green"> 
+            <h3>About the FDLP</h3> 
+            <ul class="nav menu "> 
+             <li class="item-138"><a href="/about-the-fdlp/supdocs" title="The Superintendent of Documents (SuDocs) is in charge of the dissemination of information at the U.S. Government Printing Office (GPO)."> <span>Superintendent of Documents</span></a></li>
+             <li class="item-139"><a href="/about-the-fdlp/federal-depository-libraries" title="Federal depository libraries are located throughout the United States and its territories. They provide local, no-fee access to Government information and professional assistance for Federal information products."> <span>Federal Depository Libraries</span></a></li>
+             <li class="item-140"><a href="/about-the-fdlp/depository-library-council" title="The Depository Library Council (DLC) serves as an advisory committee to the Public Printer of the United States and the Superintendent of Documents."> <span>Depository Library Council</span></a></li>
+             <li class="item-1012"><a href="/about-the-fdlp/fdlp-academy"> <span>FDLP Academy</span></a></li>
+             <li class="item-1013"><a href="/about-the-fdlp/events-and-conferences"> <span>Events and Conferences</span></a></li>
+             <li class="item-1014"><a href="/about-the-fdlp/fdlp-events-calendar"> <span>FDLP Events Calendar</span></a></li>
+             <li class="item-144"><a href="/about-the-fdlp/partnerships" title="Through agreements with Federal depository libraries and Federal agencies, both the American public and Federal depository libraries have enhanced access to a variety of Federal information products and services."> <span>Partnerships</span></a></li>
+             <li class="item-143 parent dropdown"><a href="/about-the-fdlp/projects" title="Outlines current and previous efforts to improve the products and services of the FDLP."> <span>Projects</span></a></li>
+             <li class="item-577"><a href="/file-repository"><span>File Repository</span></a></li>
+             <li class="item-137"><a href="/about-the-fdlp/mission-and-history" title="Learn about the FDLP¹s mission, vision, and core values."> <span>Mission &amp; History</span></a></li>
+            </ul> 
+           </div> 
+          </div> 
+          <div class="span3"> 
+           <div class="moduletable-gold"> 
+            <h3>Cataloging &amp; Classification</h3> 
+            <ul class="nav menu "> 
+             <li class="item-584"><a href="/cataloging-guidelines"> <span>Cataloging Guidelines</span></a></li>
+             <li class="item-3200"><a href="/classification-guidelines/introduction-to-the-classification-guidelines"> <span>Superintendent of Documents Classification Guidelines</span></a></li>
+             <li class="item-634"><a href="/catalogingandclassification/cataloging-articles"> <span>Cataloging and Indexing</span></a></li>
+             <li class="item-2971"><a href="/catalogingandclassification/regional-depositories-oclc-holding-symbols-to-gpo-cataloging"> <span>Regional Depositories’ OCLC Holding Symbols to GPO Cataloging</span></a></li>
+             <li class="item-631"><a href="http://catalog.gpo.gov/" target="_blank"> <span>Catalog of U.S. Government Publications</span></a></li>
+             <li class="item-3417 active"><a href="/catalogingandclassification/cataloging-record-distribution-program"> <span>Cataloging Record Distribution Program</span></a></li>
+             <li class="item-3288"><a href="/catalogingandclassification/sources-of-gpo-cataloging-records"> <span>Sources of GPO Cataloging Records</span></a></li>
+            </ul> 
+           </div> 
+           <div class="moduletable-gpoish"> 
+            <h3>FDLP Home</h3> 
+            <ul class="nav menu "> 
+             <li class="item-145"><a href="/news-and-events"><span>News &amp; Events</span></a></li>
+             <li class="item-147"><a href="/fdlp-basics" title="View an overview of the Federal Depository Library Program."> <span>FDLP Basics</span></a></li>
+             <li class="item-148"><a href="/govdocs-quickstart-guide" target="_blank" title="View a beginner's guide for getting started in the world of govdocs."> <span>New to GovDocs?</span></a></li>
+             <li class="item-149"><a href="/join-the-fdlp" title="Learn about how to become a Federal depository library."> <span>Join the FDLP</span></a></li>
+             <li class="item-380"><a href="/standards-and-best-practices"><span>Standards &amp; Best Practices</span></a></li>
+            </ul> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="navbar navbar-inverse"> 
+        <div class="navbar-inner"> 
+         <div class="container"> 
+          <div> 
+           <div class="custom"> 
+            <p class="pagination-centered">Federal Depository Library Program (FDLP) • 732 N Capitol Street, NW, Washington, DC 20401 | <a href="/privacy-policy">Privacy Policy</a></p>
+           </div> 
+          </div> 
+          <div class="pull-right"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div>
+    </div>
+   </div>  
+  </div>
+ </body>
+</html>

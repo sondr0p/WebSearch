@@ -1,0 +1,412 @@
+<!doctype html>
+<html class="no-js" dir="ltr" lang="en-US" prefix="og: http://ogp.me/ns#">
+ <head> 
+  <meta charset="utf-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script> 
+  <title>Events Archive - Data.gov</title> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <!-- This site is optimized with the Yoast SEO plugin v7.9.1 - https://yoast.com/wordpress/plugins/seo/ --> 
+  <link rel="canonical" href="https://www.data.gov/events/"> 
+  <meta property="og:locale" content="en_US"> 
+  <meta property="og:type" content="object"> 
+  <meta property="og:title" content="Events Archive - Data.gov"> 
+  <meta property="og:url" content="https://www.data.gov/events/"> 
+  <meta property="og:site_name" content="Data.gov"> 
+  <meta property="og:image" content="https://www.data.gov/media/2014/05/data_gov_logo_D_new.png"> 
+  <meta property="og:image:secure_url" content="https://www.data.gov/media/2014/05/data_gov_logo_D_new.png"> 
+  <!-- / Yoast SEO plugin. --> 
+  <link rel="dns-prefetch" href="//www.data.gov"> 
+  <link rel="dns-prefetch" href="//code.jquery.com"> 
+  <link rel="dns-prefetch" href="//dap.digitalgov.gov"> 
+  <link rel="dns-prefetch" href="//fonts.googleapis.com"> 
+  <link rel="dns-prefetch" href="//s.w.org"> 
+  <script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.data.gov\/wp\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script> 
+  <style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style> 
+  <link rel="stylesheet" href="https://www.data.gov/app/plugins/simple-tooltips/zebra_tooltips.css?ver=5.1.1"> 
+  <link rel="stylesheet" href="https://www.data.gov/app/plugins/the-events-calendar/common/src/resources/css/accessibility.min.css?ver=4.9.3"> 
+  <link rel="stylesheet" href="https://www.data.gov/app/plugins/the-events-calendar/src/resources/css/tribe-events-full.min.css?ver=4.8.2"> 
+  <link rel="stylesheet" href="https://www.data.gov/app/plugins/the-events-calendar/vendor/jquery/smoothness/jquery-ui-1.8.23.custom.css?ver=4.8.2"> 
+  <link rel="stylesheet" href="https://www.data.gov/app/plugins/the-events-calendar/vendor/bootstrap-datepicker/css/bootstrap-datepicker.standalone.min.css?ver=4.8.2"> 
+  <link rel="stylesheet" href="https://www.data.gov/app/plugins/the-events-calendar/src/resources/css/tribe-events-theme.min.css?ver=4.8.2"> 
+  <link rel="stylesheet" href="https://www.data.gov/app/plugins/the-events-calendar/src/resources/css/tribe-events-full-mobile.min.css?ver=4.8.2" media="only screen and (max-width: 768px)"> 
+  <link rel="stylesheet" href="https://www.data.gov/app/plugins/the-events-calendar/src/resources/css/tribe-events-theme-mobile.min.css?ver=4.8.2" media="only screen and (max-width: 768px)"> 
+  <link rel="stylesheet" href="https://www.data.gov/wp/wp-includes/css/dist/block-library/style.min.css?ver=5.1.1"> 
+  <link rel="stylesheet" href="https://www.data.gov/app/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1"> 
+  <link rel="stylesheet" href="https://www.data.gov/app/plugins/m-wp-popup/css/colorbox/colorbox.css?ver=0.1"> 
+  <link rel="stylesheet" href="https://www.data.gov/app/plugins/category-sticky-post/css/plugin.css?ver=5.1.1"> 
+  <link rel="stylesheet" href="https://www.data.gov/app/plugins/wp-open311/public/assets/css/chosen.min.css?ver=1.0.0"> 
+  <link rel="stylesheet" href="https://www.data.gov/app/plugins/wp-open311/public/assets/css/public.css?ver=1.0.0"> 
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Abel%7CLato%3A100%2C300%2C400%2C700&amp;ver=5.1.1"> 
+  <link rel="stylesheet" href="https://www.data.gov/app/themes/roots-nextdatagov/assets/css/main.min.css?ver=3c5deb08e1805f39213846d8a3a6ff74"> 
+  <link rel="stylesheet" href="https://www.data.gov/app/themes/roots-nextdatagov/assets/css/rei.css?ver=5.1.1"> 
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script> 
+  <script type="text/javascript" src="https://www.data.gov/app/plugins/the-events-calendar/vendor/bootstrap-datepicker/js/bootstrap-datepicker.min.js?ver=4.8.2" defer></script> 
+  <script type="text/javascript" src="https://www.data.gov/app/plugins/the-events-calendar/vendor/jquery-resize/jquery.ba-resize.min.js?ver=4.8.2" defer></script> 
+  <script type="text/javascript" src="https://www.data.gov/app/plugins/the-events-calendar/vendor/jquery-placeholder/jquery.placeholder.min.js?ver=4.8.2" defer></script> 
+  <script type="text/javascript">
+/* <![CDATA[ */
+var tribe_js_config = {"permalink_settings":"\/%category%\/%postname%\/","events_post_type":"tribe_events","events_base":"https:\/\/www.data.gov\/events\/","debug":""};
+/* ]]> */
+</script> 
+  <script type="text/javascript" src="https://www.data.gov/app/plugins/the-events-calendar/src/resources/js/tribe-events.min.js?ver=4.8.2" defer></script> 
+  <script type="text/javascript" src="https://www.data.gov/app/plugins/the-events-calendar/vendor/php-date-formatter/js/php-date-formatter.min.js?ver=4.8.2" defer></script> 
+  <script type="text/javascript" src="https://www.data.gov/app/plugins/the-events-calendar/common/vendor/momentjs/moment.min.js?ver=4.9.3" defer></script> 
+  <script type="text/javascript">
+/* <![CDATA[ */
+var tribe_dynamic_help_text = {"date_with_year":"F j, Y","date_no_year":"F j","datepicker_format":"Y-m-d","datepicker_format_index":"0","days":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"daysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"msgs":"[\"This event is from %%starttime%% to %%endtime%% on %%startdatewithyear%%.\",\"This event is at %%starttime%% on %%startdatewithyear%%.\",\"This event is all day on %%startdatewithyear%%.\",\"This event starts at %%starttime%% on %%startdatenoyear%% and ends at %%endtime%% on %%enddatewithyear%%\",\"This event starts at %%starttime%% on %%startdatenoyear%% and ends on %%enddatewithyear%%\",\"This event is all day starting on %%startdatenoyear%% and ending on %%enddatewithyear%%.\"]"};
+/* ]]> */
+</script> 
+  <script type="text/javascript" src="https://www.data.gov/app/plugins/the-events-calendar/src/resources/js/events-dynamic.min.js?ver=4.8.2" defer></script> 
+  <script type="text/javascript" src="https://www.data.gov/app/plugins/the-events-calendar/src/resources/js/tribe-events-bar.min.js?ver=4.8.2" defer></script> 
+  <script type="text/javascript" src="https://www.data.gov/app/plugins/m-wp-popup/js/wpp-popup-frontend.js?ver=0.1" defer></script> 
+  <script type="text/javascript" src="https://www.data.gov/app/plugins/wp-open311/public/assets/js/chosen.jquery.min.js?ver=1.0.0" defer></script> 
+  <script type="text/javascript" src="https://www.data.gov/app/plugins/wp-open311/public/assets/js/public.js?ver=1.0.0" defer></script> 
+  <script type="text/javascript" src="https://www.data.gov/app/themes/roots-nextdatagov/assets/js/vendor/respond.min.js" defer></script> 
+  <script type="text/javascript" src="https://www.data.gov/app/themes/roots-nextdatagov/assets/js/vendor/modernizr-2.7.1.min.js" defer></script> 
+  <script type="text/javascript" src="https://www.data.gov/app/themes/roots-nextdatagov/assets/js/ext-link-handler.js?ver=5.1.1" defer></script> 
+  <script type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=GSA"></script> 
+  <script type="text/javascript" src="https://www.data.gov/app/plugins/google-analyticator/external-tracking.min.js?ver=6.5.4" defer></script> 
+  <link rel="https://api.w.org/" href="https://www.data.gov/wp-json/"> 
+  <meta name="tec-api-version" content="v1">
+  <meta name="tec-api-origin" content="https://www.data.gov">
+  <link rel="https://theeventscalendar.com/" href="https://www.data.gov/wp-json/tribe/events/v1/"> 
+  <meta name="robots" content="noindex,follow"> 
+  <!-- Google Analytics Tracking by Google Analyticator 6.5.4: http://www.videousermanuals.com/google-analyticator/ --> 
+  <script type="text/javascript">
+    var analyticsFileTypes = [''];
+    var analyticsSnippet = 'enabled';
+    var analyticsEventTracking = 'enabled';
+</script> 
+  <script type="text/javascript">
+	var _gaq = _gaq || [];
+  
+	_gaq.push(['_setAccount', 'UA-17367410-17']);
+    _gaq.push(['_addDevId', 'i9k95']); // Google Analyticator App ID with Google
+    _gaq.push(['_gat._anonymizeIp']);
+	_gaq.push(['_trackPageview']);
+	<!-- tracking for UA-42145528-2  start -->
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42145528-2', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+<!-- tracking for UA-42145528-2  end -->
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script> 
+  <style type="text/css" id="wp-custom-css">
+			/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+.twitter-feed h2 {display:none;}		</style> 
+  <link rel="alternate" type="application/rss+xml" title="Data.gov Feed" href="https://www.data.gov/feed/"> 
+  <link href="https://www.data.gov/app/themes/roots-nextdatagov/assets/img/favicon.ico" rel="shortcut icon"> 
+  <link rel="icon" type="image/png" href="https://www.data.gov/app/themes/roots-nextdatagov/assets/img/favicon-120.png" sizes="120x120"> 
+  <!--[if IE]>
+    <style type="text/css">
+        #cboxClose{
+            top:-8px !important;
+            right:-8px !important;
+        }
+    </style>
+    <![endif]--> 
+ </head> 
+ <body class="archive post-type-archive post-type-archive-tribe_events tribe-no-js tribe-filter-live events-list events-archive tribe-events-style-full tribe-events-style-theme tribe-theme-roots-nextdatagov page-template-page-php singular"> 
+  <!--div class="banner disclaimer">
+<center>This is a demonstration site exploring the future of Data.gov. <span id="stop-disclaimer"> Give us your feedback on <a href="https://twitter.com/usdatagov" class="local-link">Twitter</a>, <a href="http://quora.com" class="external ext-link" rel="external" onclick="this.target=&#039;_blank&#039;;">Quora</a></span>, <a href="https://github.com/GSA/datagov-design/" class="local-link">Github</a>, or <a href="/contact-engage">contact us</a></center>
+</div--> 
+  <!--div class="banner disclaimer"><center>Updates to Data.gov will be temporarily suspended between December 13, 9 PM EST and approximately December 27. <a href="/migration-notification">Learn More</a>.</center></div--> 
+  <!--[if lt IE 8]>
+<div class="alert alert-warning">
+    You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/" class="external ext-link" rel="external" onclick="this.target=&#039;_blank&#039;;">upgrade your
+    browser</a> to improve your experience.</div>
+<![endif]--> 
+  <header> 
+   <div class="banner navbar navbar-default navbar-static-top yamm" role="banner"> 
+    <div class="container"> 
+     <div class="searchbox-row skip-navigation"> 
+      <div class="sr-only skip-link"> 
+       <a href="#main">Jump to Content</a> 
+      </div> 
+      <div> 
+       <form role="search" method="get" class="search-form form-inline navbar-right navbar-nav  col-sm-6 col-md-6 col-lg-6" action="//catalog.data.gov/dataset"> 
+        <div class="input-group"> 
+         <label for="search-header" class="sr-only">Search for:</label> 
+         <input type="search" id="search-header" title="Example searches: Monthly House Price Indexes, Health Care Provider Charge Data, Credit Card Complaints, Manufacturing &amp; Trade Inventories &amp; Sales, Federal Student Loan Program Data" data-strings="{&quot;targets&quot;:[&quot;Monthly House Price Indexes&quot;,&quot;Health Care Provider Charge Data&quot;,&quot;Credit Card Complaints&quot;,&quot;Manufacturing &amp; Trade Inventories &amp; Sales&quot;,&quot;Federal Student Loan Program Data&quot;]}" value="" name="q" class="search-field form-control" placeholder="Search Data.gov"> 
+         <input type="hidden" name="sort" value="score desc, name asc"> 
+         <span class="input-group-btn"> <button type="submit" class="search-submit btn btn-default"> <i class="fa fa-search"></i> <span class="sr-only">Search</span> </button> </span> 
+        </div> 
+        <input type="hidden" name="as_sfid" value="AAAAAAVOe24GvS48jbG6EJZwe02AFB86BFbFHy03hFjIMFiG2MnOGO2GL9xpHy_X_rvl8ESVYeiY7oW2mSn0iazHVSYFRBzPVpofUQzs6AbEVVgpKri2q9X5nfHBjLt0ZXf4OtE=">
+        <input type="hidden" name="as_fid" value="346f32992e37d2fd239e38ba9f48c00d89a20f42">
+       </form> 
+      </div> 
+     </div> 
+     <div class="navbar-header"> 
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button> 
+      <a href="https://www.data.gov/" alt="Data.gov" class="local-link"><h1 class="navbar-brand">Data.gov</h1></a> 
+     </div> 
+     <nav class="collapse navbar-collapse" role="navigation"> 
+      <ul id="menu-primary-navigation" class="nav navbar-nav navbar-right">
+       <li class="menu-data"><a href="http://catalog.data.gov/dataset" class="local-link">Data</a></li> 
+       <li class="dropdown yamm-fw menu-topics"><a class="dropdown-toggle local-link" data-toggle="dropdown" data-target="#" href="https://www.data.gov/communities/">Topics <b class="caret"></b></a> 
+        <ul class="dropdown-menu topics"> 
+         <li class="menu-agriculture topic-food"><a href="https://www.data.gov/food/" class="local-link"><i></i><span>Agriculture</span></a></li> 
+         <li class="menu-climate topic-climate"><a href="https://www.data.gov/climate/" class="local-link"><i></i><span>Climate</span></a></li> 
+         <li class="menu-consumer topic-consumer"><a href="https://www.data.gov/consumer/" class="local-link"><i></i><span>Consumer</span></a></li> 
+         <li class="menu-ecosystems topic-ecosystems"><a href="https://www.data.gov/ecosystems/" class="local-link"><i></i><span>Ecosystems</span></a></li> 
+         <li class="menu-education topic-education"><a href="https://www.data.gov/education/" class="local-link"><i></i><span>Education</span></a></li> 
+         <li class="menu-energy topic-energy"><a href="https://www.data.gov/energy/" class="local-link"><i></i><span>Energy</span></a></li> 
+         <li class="menu-finance topic-finance"><a href="https://www.data.gov/finance/" class="local-link"><i></i><span>Finance</span></a></li> 
+         <li class="menu-health topic-health"><a href="https://www.data.gov/health/" class="local-link"><i></i><span>Health</span></a></li> 
+         <li class="menu-local-government topic-local"><a href="https://www.data.gov/local/" class="local-link"><i></i><span>Local Government</span></a></li> 
+         <li class="menu-manufacturing topic-manufacturing"><a href="https://www.data.gov/manufacturing/" class="local-link"><i></i><span>Manufacturing</span></a></li> 
+         <li class="menu-maritime topic-maritime"><a href="https://www.data.gov/maritime/" class="local-link"><i></i><span>Maritime</span></a></li> 
+         <li class="menu-ocean topic-ocean"><a href="https://www.data.gov/ocean/" class="local-link"><i></i><span>Ocean</span></a></li> 
+         <li class="menu-public-safety topic-safety"><a href="https://www.data.gov/safety/" class="local-link"><i></i><span>Public Safety</span></a></li> 
+         <li class="menu-science-research topic-research"><a href="https://www.data.gov/research/" class="local-link"><i></i><span>Science &amp; Research</span></a></li> 
+        </ul> </li> 
+       <li class="menu-impact"><a href="https://www.data.gov/impact/" class="local-link">Impact</a></li> 
+       <li class="menu-applications"><a href="https://www.data.gov/applications" class="local-link">Applications</a></li> 
+       <li class="menu-developers"><a href="https://www.data.gov/developers/" class="local-link">Developers</a></li> 
+       <li class="menu-contact"><a href="https://www.data.gov/contact" class="local-link">Contact</a></li> 
+      </ul> 
+     </nav> 
+    </div> 
+    <div id="external_disclaimer" class="tooltip" role="tooltip" aria-hidden="true">
+     This link will direct you to an external website that may have different content and privacy policies from Data.gov. 
+    </div> 
+   </div> 
+   <div class="container hidden print-logo"> 
+    <img src="/app/themes/roots-nextdatagov/assets/img/logo.svg"> 
+   </div> 
+   <div class="header banner page-heading"> 
+    <div class="container"> 
+     <div class="page-header"> 
+      <h1> Events </h1> 
+     </div> 
+    </div> 
+   </div> 
+  </header> 
+  <div role="document"> 
+   <div class="content"> 
+    <main class="main" role="main" id="main"> 
+     <!-- adding parameter to url which passes the term slug for the cross site navigation--> 
+     <script type="text/javascript">
+    jQuery(function ($) {
+        var comm = 'topic=_navigation';
+
+        $('#main a[href*="catalog.data.gov"]').add('#main a[href*="fe-data.reisys.com"]').not('#main a[href*="#topic"]').each(function () {
+            var newHref = $(this).attr('href') + '#topic=_navigation';
+            $(this).attr('href', newHref);
+        });
+    });
+</script> 
+     <div class="wrap container content-page"> 
+      <div id="tribe-events" class="tribe-no-js" data-live_ajax="1" data-datepicker_format="0" data-category="" data-featured="">
+       <div class="tribe-events-before-html"></div>
+       <span class="tribe-events-ajax-loading"><img class="tribe-events-spinner-medium" src="https://www.data.gov/app/plugins/the-events-calendar/src/resources/images/tribe-loading.gif" alt="Loading Events"></span>
+       <div id="tribe-events-content-wrapper" class="tribe-clearfix">
+        <input type="hidden" id="tribe-events-list-hash" value=""> 
+        <!-- Title Bar --> 
+        <div class="tribe-events-title-bar"> 
+         <!-- List Title --> 
+         <h1 class="tribe-events-page-title">Upcoming Events</h1> 
+        </div> 
+        <!-- Tribe Bar --> 
+        <div id="tribe-events-bar"> 
+         <h2 class="tribe-events-visuallyhidden">Events Search and Views Navigation</h2> 
+         <form id="tribe-bar-form" class="tribe-clearfix tribe-events-bar--has-filters tribe-events-bar--has-views" name="tribe-bar-form" method="post" action="https://www.data.gov/events?post_type=tribe_events&amp;eventDisplay=default"> 
+          <div id="tribe-bar-filters-wrap"> 
+           <button id="tribe-bar-collapse-toggle" aria-expanded="false" type="button" aria-controls="tribe-bar-filters" data-label-hidden="Show Events Search" data-label-shown="Hide Events Search"> <span class="tribe-bar-toggle-text"> Show Events Search </span> <span class="tribe-bar-toggle-arrow"></span> </button> 
+           <div id="tribe-bar-filters" class="tribe-bar-filters" aria-hidden="true"> 
+            <div class="tribe-bar-filters-inner tribe-clearfix"> 
+             <h3 class="tribe-events-visuallyhidden">Events Search</h3> 
+             <div class="tribe-bar-date-filter"> 
+              <label class="label-tribe-bar-date" for="tribe-bar-date">Events From</label> 
+              <input type="text" name="tribe-bar-date" style="position: relative;" id="tribe-bar-date" aria-label="Search for Events by Date. Please use the format 4 digit year hyphen 2 digit month hyphen 2 digit day." value="" placeholder="Date">
+              <input type="hidden" name="tribe-bar-date-day" id="tribe-bar-date-day" class="tribe-no-param" value=""> 
+             </div> 
+             <div class="tribe-bar-search-filter"> 
+              <label class="label-tribe-bar-search" for="tribe-bar-search">Search</label> 
+              <input type="text" name="tribe-bar-search" id="tribe-bar-search" aria-label="Search for Events by Keyword." value="" placeholder="Keyword"> 
+             </div> 
+             <div class="tribe-bar-submit"> 
+              <input class="tribe-events-button tribe-no-param" type="submit" name="submit-bar" aria-label="Submit Events search" value="Find Events"> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+          <div id="tribe-bar-views" class="tribe-bar-views"> 
+           <div class="tribe-bar-views-inner tribe-clearfix"> 
+            <h3 class="tribe-events-visuallyhidden">Event Views Navigation</h3> 
+            <label id="tribe-bar-views-label" aria-label="View Events As"> View As </label> 
+            <select class="tribe-bar-views-select tribe-no-param" name="tribe-bar-view" aria-label="View Events As"> <option value="https://www.data.gov/events/list/" data-view="list" selected>List</option><option value="https://www.data.gov/events/month/" data-view="month">Month</option><option value="https://www.data.gov/events/today/" data-view="day">Day</option> </select> 
+           </div> 
+          </div> 
+          <input type="hidden" name="as_sfid" value="AAAAAAUqY2gvXGmcBtqvoLcB0d-WRXCxky4cULkOSRbaKhtYGmLeNSulMKj0nuYOIQpZOTwo5uOzc5RtyE0EzzWyuE3sseOaKqX8tYINP4v5wtT3R-X-jPIVYzYKbyVI-iEDjtw=">
+          <input type="hidden" name="as_fid" value="249043e1fecba29c1c77dfb789b574528d936525">
+         </form> 
+        </div> 
+        <!-- Main Events Content --> 
+        <div id="tribe-events-content" class="tribe-events-list"> 
+         <!-- Notices --> 
+         <div class="tribe-events-notices">
+          <ul>
+           <li>There were no results found.</li>
+          </ul>
+         </div> 
+         <!-- List Header --> 
+         <div id="tribe-events-header" data-title="Events Archive - Data.gov" data-viewtitle="Upcoming Events" data-startofweek="0" data-view="list" data-baseurl="https://www.data.gov/events/list/"> 
+          <!-- Header Navigation --> 
+          <nav class="tribe-events-nav-pagination" aria-label="Events List Navigation"> 
+           <ul class="tribe-events-sub-nav"> 
+            <!-- Left Navigation --> 
+            <li class="tribe-events-nav-previous tribe-events-nav-left tribe-events-past"> <a href="https://www.data.gov/events/list/?tribe_event_display=past&amp;tribe_paged=1" rel="prev" class="local-link"><span>«</span> Previous Events</a> </li>
+            <!-- .tribe-events-nav-left --> 
+            <!-- Right Navigation --> 
+           </ul> 
+          </nav> 
+         </div> 
+         <!-- #tribe-events-header --> 
+         <!-- Events Loop --> 
+         <!-- List Footer --> 
+         <div id="tribe-events-footer"> 
+          <!-- Footer Navigation --> 
+          <nav class="tribe-events-nav-pagination" aria-label="Events List Navigation"> 
+           <ul class="tribe-events-sub-nav"> 
+            <!-- Left Navigation --> 
+            <li class="tribe-events-nav-previous tribe-events-nav-left tribe-events-past"> <a href="https://www.data.gov/events/list/?tribe_event_display=past&amp;tribe_paged=1" rel="prev" class="local-link"><span>«</span> Previous Events</a> </li>
+            <!-- .tribe-events-nav-left --> 
+            <!-- Right Navigation --> 
+           </ul> 
+          </nav> 
+         </div> 
+         <!-- #tribe-events-footer --> 
+        </div>
+        <!-- #tribe-events-content --> 
+        <div class="tribe-clear"></div> 
+       </div> 
+       <!-- #tribe-events-content-wrapper -->
+       <div class="tribe-events-after-html"></div>
+      </div>
+      <!-- #tribe-events --> 
+      <!--
+This calendar is powered by The Events Calendar.
+http://m.tri.be/18wn
+--> 
+     </div> 
+    </main> 
+    <!-- /.main --> 
+   </div> 
+   <!-- /.content --> 
+  </div> 
+  <!-- /.wrap --> 
+  <footer class="content-info" role="contentinfo"> 
+   <div class="container"> 
+    <div class="row"> 
+     <!--
+    <div class="col-lg-4">
+            <p>&copy; 2019 Data.gov</p>
+    </div>
+    --> 
+     <div class="col-md-6 col-lg-6"> 
+      <div class="footer-logo"> 
+       <a class="logo-brand local-link" href="https://www.data.gov/" alt="Data.gov">Data.gov</a> 
+      </div> 
+      <ul id="menu-footer2" class="nav">
+       <li class="menu-privacy-and-website-policies"><a href="https://www.data.gov/privacy-policy" class="local-link">Privacy and Website Policies</a></li> 
+       <li class="menu-usa-gov"><a href="https://www.usa.gov/" class="external ext-link" rel="external" onclick="this.target='_blank';">USA.GOV</a></li> 
+       <li class="menu-performance-gov"><a href="http://www.performance.gov/" class="external ext-link" rel="external" onclick="this.target='_blank';">PERFORMANCE.GOV</a></li> 
+      </ul> 
+     </div> 
+     <nav class="col-md-3 col-lg-3" role="navigation"> 
+      <ul id="menu-footer" class="nav">
+       <li class="menu-about"><a href="https://www.data.gov/about" class="local-link">About</a></li> 
+       <li class="menu-open-government"><a href="https://www.data.gov/open-gov/" class="local-link">Open Government</a></li> 
+       <li class="menu-blog"><a href="https://www.data.gov/meta/" class="local-link">Blog</a></li> 
+       <li class="menu-metrics"><a href="https://www.data.gov/metrics" class="local-link">Metrics</a></li> 
+       <li class="active menu-events"><a href="/events/" aria-current="page">Events</a></li> 
+       <li class="menu-log-in"><a href="https://www.data.gov/wp/wp-login.php" class="local-link">Log In</a></li> 
+      </ul> 
+     </nav> 
+     <div class="col-md-3 col-lg-3 social-nav"> 
+      <nav role="navigation"> 
+       <ul id="menu-social_navigation" class="nav">
+        <li><a href="https://twitter.com/usdatagov" title="This link will direct you to an external website that may have different content and privacy policies from Data.gov." class="local-link"><i class="fa fa-twitter"></i><span>Twitter</span></a></li> 
+        <li><a href="http://github.com/GSA/data.gov/" title="This link will direct you to an external website that may have different content and privacy policies from Data.gov." class="local-link"><i class="fa fa-github"></i><span>Github</span></a></li> 
+       </ul> 
+      </nav> 
+     </div> 
+    </div> 
+   </div> 
+  </footer> 
+  <script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script> 
+  <script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};var tribe_system_info = {"sysinfo_optin_nonce":"9826b768c7","clipboard_btn_text":"Copy to clipboard","clipboard_copied_text":"System info copied","clipboard_fail_text":"Press \"Cmd + C\" to copy"};/* ]]> */ </script>
+  <script type="text/javascript" src="https://www.data.gov/app/plugins/simple-tooltips/zebra_tooltips.js?ver=5.1.1" defer></script> 
+  <script type="text/javascript">
+/* <![CDATA[ */
+var TribeList = {"ajaxurl":"https:\/\/www.data.gov\/wp\/wp-admin\/admin-ajax.php","tribe_paged":"0"};
+/* ]]> */
+</script> 
+  <script type="text/javascript" src="https://www.data.gov/app/plugins/the-events-calendar/src/resources/js/tribe-events-ajax-list.min.js?ver=4.8.2" defer></script> 
+  <script type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.data.gov\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script> 
+  <script type="text/javascript" src="https://www.data.gov/app/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1" defer></script> 
+  <script type="text/javascript" src="https://www.data.gov/app/plugins/the-events-calendar/common/vendor/datatables/datatables.min.js?ver=4.9.3" defer></script> 
+  <script type="text/javascript" src="https://www.data.gov/app/themes/roots-nextdatagov/assets/js/scripts.min.js?ver=9ab03eaa29bcfa40a4e8e34e7afda278" defer></script> 
+  <script type="text/javascript" src="https://code.jquery.com/jquery-migrate-3.0.1.min.js"></script> 
+  <script type="text/javascript" src="https://www.data.gov/wp/wp-includes/js/wp-embed.min.js?ver=5.1.1"></script> 
+  <script type="text/javascript">
+                    jQuery(function() {
+                                                
+                        jQuery(".tooltips img").closest(".tooltips").css("display", "inline-block");
+                    
+                        new jQuery.Zebra_Tooltips(jQuery('.tooltips').not('.custom_m_bubble'), {
+                            'background_color':     '#000000',
+                            'color':				'#ffffff',
+                            'max_width':  250,
+                            'opacity':    .95, 
+                            'position':    'center'
+                        });
+                        
+                                            
+                    });
+                </script> 
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"2e87881546","applicationID":"69574864","transactionName":"M1ABNkAAD0ACUxFfWgoaNhBbTghdB1UdGEUMRQ==","queueTime":0,"applicationTime":589,"atts":"HxcCQAgaHE4=","errorBeacon":"bam.nr-data.net","agent":""}</script>  
+ </body>
+</html>

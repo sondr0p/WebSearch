@@ -1,0 +1,751 @@
+<!doctype html>
+<html lang="en">
+ <head> 
+  <meta charset="utf-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta name="description" content="Use the Delaware.gov contact form to email questions or comments to state agencies."> 
+  <meta name="author" content="The State of Delaware"> 
+  <title>State of Delaware - Help - Contact State Agencies.</title> 
+  <!-- Header Include File --> 
+  <!-- Global site tag (gtag.js) - Google Analytics --> 
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-3329332-12"></script> 
+  <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-3329332-12');
+</script> 
+  <!-- Favorites Icon --> 
+  <link rel="shortcut icon" href="/portalimg/favicon.ico"> 
+  <!-- Bookmarklets Icon --> 
+  <link rel="apple-touch-icon" sizes="57x57" href="/portalimg/apple-icon57.png"> 
+  <link rel="apple-touch-icon" sizes="72x72" href="/portalimg/apple-icon72.png"> 
+  <link rel="apple-touch-icon" sizes="114x114" href="/portalimg/apple-icon114.png"> 
+  <link rel="apple-touch-icon" sizes="144x144" href="/portalimg/apple-icon144.png"> 
+  <!-- Google Translate Meta --> 
+  <meta name="google-translate-customization" content="43ec6db4277f1c9a-06e18d88e2e346a7-gd6c10ef7ddc37b03-10"> 
+  <!-- Bing/Yahoo Verification --> 
+  <meta name="msvalidate.01" content="A3F8B5D5568E45A99F51D6C9A109B384"> 
+  <!-- Facebook OG Properties --> 
+  <meta property="og:title" content="State of Delaware"> 
+  <meta property="og:image" content="https://delaware.gov/portalimg/fb_og_images/portal-fb-image1.jpg"> 
+  <meta property="og:site_name" content="https://delaware.gov"> 
+  <meta property="og:description" content="A portal for Delaware state government. Presenting high-level information about Delaware, links to state agencies, and connections to services for residents, businesses, job seekers, and visitors."> 
+  <!-- Bootstrap core CSS --> 
+  <link href="/portalcss/bootstrap.min.css" rel="stylesheet" type="text/css"> 
+  <!-- Custom Styles for Portal 2014 --> 
+  <link href="/portalcss/portal2014.min.css" rel="stylesheet" type="text/css"> 
+  <!-- Retina Display LESS Styles --> 
+  <link href="/portalcss/retina.less" rel="stylesheet" type="text/css"> 
+  <!-- CSS Animations Styles --> 
+  <link href="/portalcss/animate.min.css" rel="stylesheet" type="text/css"> 
+  <!-- Sidr Nav Menu Styles --> 
+  <link href="/portalcss/jquery.sidr.light.css" rel="stylesheet"> 
+  <!-- Font Awesome Icons --> 
+  <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet"> 
+  <!-- Body Font Styles (From Google.com/fonts) --> 
+  <link href="//fonts.googleapis.com/css?family=Open+Sans:300,600" rel="stylesheet" type="text/css"> 
+  <link href="//fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet" type="text/css"> 
+  <!-- Core JavaScript
+    ================================================== --> 
+  <script src="/portaljs/jquery-1.10.2.min.js"></script> 
+  <script src="/portaljs/bootstrap.min.js"></script> 
+  <script src="/portaljs/jquery.sidr.min.js"></script> 
+  <script src="/portaljs/config.js"></script> 
+  <script src="/portaljs/ready.min.js"></script> 
+  <script src="//f1-na.readspeaker.com/script/7262/ReadSpeaker.js?pids=embhl" type="text/javascript"></script> 
+  <!--[if IE 8 ]>
+    <html lang="en" class="ie8">
+
+    <script>
+    $(document).ready(function() {
+    $("#searchButton").click(function() {
+        var portalTopBarSearchFieldText = document.getElementById("q").value;
+        if(portalTopBarSearchFieldText != '') {
+			gtag('config', 'UA-3329332-12', {'page_title': 'Portal Search', 'page_location': 'https://delaware.gov?parameter='+portalTopBarSearchFieldText, 'page_path': ''});
+			window.location.href = "//search3.delaware.gov/texis/search/?query="+portalTopBarSearchFieldText+"&proxystylesheet=default_frontend&client=default_frontend&output=xml_no_dtd";
+        }
+        return false;
+    });
+});
+
+function mobileSearchValidateForm() {
+    var searchText = document.mobileSearchForm.q.value;
+    valid = true;
+    if (searchText == "") {
+        valid = false;
+    }
+    return valid;
+}
+</script>
+    <![endif]--> 
+  <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries --> 
+  <!--[if lt IE 9]>
+      <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="//oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]--> 
+  <!--[if !IE 8]><!--> 
+  <script>
+$(document).ready(function() {
+    $("#searchButton").click(function() {
+        var portalTopBarSearchFieldText = document.getElementById("searchKeyword").value;
+        if(portalTopBarSearchFieldText != '') {
+			gtag('config', 'UA-3329332-12', {'page_title': 'Portal Search', 'page_location': 'https://delaware.gov?parameter='+portalTopBarSearchFieldText, 'page_path': ''});
+			window.location.href = "//search3.delaware.gov/texis/search/?query="+portalTopBarSearchFieldText+"&proxystylesheet=portal4&client=portal4&output=xml_no_dtd";
+        }
+        return false;
+    });
+});
+
+function mobileSearchValidateForm() {
+    var searchText = document.mobileSearchForm.q.value;
+    valid = true;
+    if (searchText == "") {
+        valid = false;
+    }
+    return valid;
+}
+</script> 
+  <!--<![endif]--> 
+  <meta name="verify-v1" content="thP3VfXQ653dVrb9ExI9XqvyNnfVO9/R4FszKgp0ml8="> 
+  <meta name="google-site-verification" content="FYhBJf5l-LXJwmPZxTG7qbjjsOZhxCsowTB801qgJ4g"> 
+  <!--<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-3329332-12', 'delaware.gov');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+/**
+* Function that tracks a click on an outbound link in Google Analytics.
+* This function takes a valid URL string as an argument, and uses that URL string
+* as the event label.
+*/
+var trackOutboundLink = function(url) {
+   if (ga.q) {
+      // Analytics has not loaded yet or was blocked:
+      document.location = url;
+    } else {
+       ga('send', 'event', 'outbound', 'click', url, {'hitCallback':
+         function () {
+            document.location = url;
+         }
+       });
+    }
+}
+</script>--> 
+  <!-- BEGIN LivePerson Monitor. --> 
+  <script type="text/javascript"> window.lpTag=window.lpTag||{};if(typeof window.lpTag._tagCount==='undefined'){window.lpTag={site:'60365202'||'',section:lpTag.section||'',autoStart:lpTag.autoStart===false?false:true,ovr:lpTag.ovr||{},_v:'1.6.0',_tagCount:1,protocol:'https:',events:{bind:function(app,ev,fn){lpTag.defer(function(){lpTag.events.bind(app,ev,fn);},0);},trigger:function(app,ev,json){lpTag.defer(function(){lpTag.events.trigger(app,ev,json);},1);}},defer:function(fn,fnType){if(fnType==0){this._defB=this._defB||[];this._defB.push(fn);}else if(fnType==1){this._defT=this._defT||[];this._defT.push(fn);}else{this._defL=this._defL||[];this._defL.push(fn);}},load:function(src,chr,id){var t=this;setTimeout(function(){t._load(src,chr,id);},0);},_load:function(src,chr,id){var url=src;if(!src){url=this.protocol+'//'+((this.ovr&&this.ovr.domain)?this.ovr.domain:'lptag.liveperson.net')+'/tag/tag.js?site='+this.site;}var s=document.createElement('script');s.setAttribute('charset',chr?chr:'UTF-8');if(id){s.setAttribute('id',id);}s.setAttribute('src',url);document.getElementsByTagName('head').item(0).appendChild(s);},init:function(){this._timing=this._timing||{};this._timing.start=(new Date()).getTime();var that=this;if(window.attachEvent){window.attachEvent('onload',function(){that._domReady('domReady');});}else{window.addEventListener('DOMContentLoaded',function(){that._domReady('contReady');},false);window.addEventListener('load',function(){that._domReady('domReady');},false);}if(typeof(window._lptStop)=='undefined'){this.load();}},start:function(){this.autoStart=true;},_domReady:function(n){if(!this.isDom){this.isDom=true;this.events.trigger('LPT','DOM_READY',{t:n});}this._timing[n]=(new Date()).getTime();},vars:lpTag.vars||[],dbs:lpTag.dbs||[],ctn:lpTag.ctn||[],sdes:lpTag.sdes||[],ev:lpTag.ev||[]};lpTag.init();}else{window.lpTag._tagCount+=1;} </script> 
+  <!-- END LivePerson Monitor. --> 
+  <script type="text/Javascript">
+$(document).ready(function() {
+	// Close Icon in Right Slide Menu Nav Bar
+    $('.panel-title').click(function() {
+        $(this).find("i.fa").toggleClass("fa-arrow-right fa-arrow-down");
+	});
+});
+</script> 
+  <!--NEW SHOW HIDE SCRIPT--> 
+  <script type="text/javascript">
+
+
+$(document).ready(function(){
+    $("#formCategory").change(function(){
+        var agencyName = $("#formCategory").val();
+        if(agencyName == "visit.delaware@delaware.gov") {
+            agencyValue = "Tourism Office";
+            agencyIntent = "Tourist";
+               $("#otherDiv").hide();
+              $("#SussexDiv").hide();
+                 $("#ServicesDiv").hide();
+             $("#displayAgencyName").show();
+      } else if(agencyName == "choosehealth@delaware.gov") {
+            agencyValue = "Delaware Health and Social Services";
+            agencyIntent = "Health Insurance Marketplace";
+               $("#otherDiv").hide();
+              $("#SussexDiv").hide();
+                 $("#ServicesDiv").show();
+               $("#displayAgencyName").hide();
+               
+                } else if(agencyName == "escheat.claimquestions@delaware.gov") {
+            agencyValue = "Division of Revenue";
+            agencyIntent = "Unclaimed Property";
+               $("#otherDiv").hide();
+              $("#SussexDiv").hide();
+                 $("#ServicesDiv").hide();
+               $("#displayAgencyName").show();
+                              
+                } else if(agencyName == "dedoe@doe.k12.de.us") {
+            agencyValue = "Department of Education";
+            agencyIntent = "Education";
+               $("#otherDiv").hide();
+              $("#SussexDiv").hide();
+                 $("#ServicesDiv").hide();
+               $("#displayAgencyName").show();
+           } else if(agencyName == "robert.wiest@delaware.gov") {
+            agencyValue = "Office of Alcoholic Beverage Control Commission";
+            agencyIntent = "Alcohol & Tobacco Enforcement";
+               $("#otherDiv").hide();
+              $("#SussexDiv").hide();
+                 $("#ServicesDiv").hide();
+                              $("#displayAgencyName").show();
+        } else if(agencyName == "aarchives@delaware.gov") {
+            agencyValue = "Delaware Public Archives";
+            agencyIntent = "Archives / Genealogy";
+               $("#otherDiv").hide();
+              $("#SussexDiv").hide();
+                 $("#ServicesDiv").hide();
+                              $("#displayAgencyName").show();
+
+        } else if(agencyName == "william.kirby@delaware.gov") {
+            agencyValue = "Division of Revenue";
+            agencyIntent = "Business License";
+               $("#otherDiv").hide();
+              $("#SussexDiv").hide();
+                 $("#ServicesDiv").hide();
+                              $("#displayAgencyName").show();
+        } else if(agencyName == "consumer.protection@delaware.gov") {
+            agencyValue = "Office of the Attorney General";
+            agencyIntent = "Consumer Protection";
+               $("#otherDiv").hide();
+              $("#SussexDiv").hide();
+                 $("#ServicesDiv").hide();
+                              $("#displayAgencyName").show();
+        } else if(agencyName == "DOSDOC_WEB@delaware.gov") {
+            agencyValue = "Division of Corporations";
+             agencyIntent = "Corporations";
+                $("#otherDiv").hide();
+              $("#SussexDiv").hide();
+                 $("#ServicesDiv").hide();
+                              $("#displayAgencyName").show();
+                                } else if(agencyName == "DOSDOC_Ftax@delaware.gov") {
+            agencyValue = "Division of Corporations - Franchise Tax section";
+             agencyIntent = "Franchise Tax";
+                $("#otherDiv").hide();
+              $("#SussexDiv").hide();
+                 $("#ServicesDiv").hide();
+                              $("#displayAgencyName").show();
+        } else if(agencyName == "gail.stallings@delaware.gov") {
+            agencyValue = "Department of Correction";
+            agencyIntent = "Corrections / Prisons";
+               $("#otherDiv").hide();
+              $("#SussexDiv").hide();
+                 $("#ServicesDiv").hide();
+                              $("#displayAgencyName").show();
+        } else if(agencyName == "lis.webmater@delaware.gov") {
+            agencyValue = "Legislative Information Center";
+            agencyIntent = "Delaware Legislation";
+               $("#otherDiv").hide();
+              $("#SussexDiv").hide();
+                 $("#ServicesDiv").hide();
+                              $("#displayAgencyName").show();
+        } else if(agencyName == "visit.delaware@delaware.gov") {
+            agencyValue = "Tourism Office";
+             agencyIntent = "Delaware Maps / Travel";
+                $("#otherDiv").hide();
+              $("#SussexDiv").hide();
+                 $("#ServicesDiv").hide();
+                              $("#displayAgencyName").show();
+        } else if(agencyName == "coe_vote@delaware.gov") {
+            agencyValue = "Commissioner of Elections";
+            agencyIntent = "Election Information";
+               $("#otherDiv").hide();
+              $("#SussexDiv").hide();
+                 $("#ServicesDiv").hide();
+                              $("#displayAgencyName").show();
+        } else if(agencyName == "delabor@delaware.gov") {
+            agencyValue = "Department of Labor";
+            agencyIntent = "Employment - General Information";
+               $("#otherDiv").hide();
+              $("#SussexDiv").hide();
+                 $("#ServicesDiv").hide();
+                              $("#displayAgencyName").show();
+        } else if(agencyName == "jobs@delaware.gov") {
+            agencyValue = "Delaware State Personnel Office";
+            agencyIntent = "Employment State / Civil Jobs";
+               $("#otherDiv").hide();
+              $("#SussexDiv").hide();
+                 $("#ServicesDiv").hide();
+                              $("#displayAgencyName").show();
+        } else if(agencyName == "Darryl.Scott@delaware.gov") {
+            agencyValue = "Division of Unemployment Insurance";
+            agencyIntent = "Employment - Unemployment";
+               $("#otherDiv").hide();
+              $("#SussexDiv").hide();
+                 $("#ServicesDiv").hide();
+                              $("#displayAgencyName").show();
+        } else if(agencyName == "doi_licensing_resour@delaware.gov") {
+            agencyValue = "Department of Insurance";
+            agencyIntent = "Insurance License";
+               $("#otherDiv").hide();
+              $("#SussexDiv").hide();
+                           $("#displayAgencyName").show();
+        } else if(agencyName == "DElabor@delaware.gov") {
+            agencyValue = "Department of Labor";
+            agencyIntent = "Labor Laws";
+               $("#otherDiv").hide();
+              $("#SussexDiv").hide();
+                 $("#ServicesDiv").hide();
+                              $("#displayAgencyName").show();
+        } else if(agencyName == "Consumer.Protection@delaware.gov") {
+            agencyValue = "Office of the Attorney General";
+            agencyIntent = "Landlord / Tenant";
+               $("#otherDiv").hide();
+              $("#SussexDiv").hide();
+                 $("#ServicesDiv").hide();
+                              $("#displayAgencyName").show();
+        } else if(agencyName == "notary@delaware.gov") {
+            agencyValue = "Secretary of State - Notary Office";
+             agencyIntent = "Notary Public";
+                $("#otherDiv").hide();
+              $("#SussexDiv").hide();
+                 $("#ServicesDiv").hide();
+                              $("#displayAgencyName").show();
+        } else if(agencyName == "customerservice.dpr@delaware.gov") {
+            agencyValue = "Division of Professional Regualtion";
+             agencyIntent = "Professional License";
+                $("#otherDiv").hide();
+              $("#SussexDiv").hide();
+                 $("#ServicesDiv").hide();
+                              $("#displayAgencyName").show();
+        } else if(agencyName == "kimberly.chandler@delaware.gov") {
+            agencyValue = "Department of Safety and Homeland Security";
+            agencyIntent = "Public Safety";
+               $("#otherDiv").hide();
+              $("#SussexDiv").hide();
+                 $("#ServicesDiv").hide();
+                              $("#displayAgencyName").show();
+        } else if(agencyName == "soffender@delaware.gov") {
+            agencyValue = "Delaware State Police - State Bureau of Identification";
+            agencyIntent = "Sex Offender Subscriptions";
+               $("#otherDiv").hide();
+              $("#SussexDiv").hide();
+                 $("#ServicesDiv").hide();
+                              $("#displayAgencyName").show();
+        } else if(agencyName == "benefits@delaware.gov") {
+            agencyValue = "Statewide Benefits Office";
+             agencyIntent = "State Employee Benefits";
+                $("#otherDiv").hide();
+              $("#SussexDiv").hide();
+                 $("#ServicesDiv").hide();
+                              $("#displayAgencyName").show();
+        } else if(agencyName == "William.Kirby@delaware.gov") {
+            agencyValue = "Division of Revenue - Business Tax";
+            agencyIntent = "Tax - Business";
+               $("#otherDiv").hide();
+              $("#SussexDiv").hide();
+                 $("#ServicesDiv").hide();
+                              $("#displayAgencyName").show();
+        } else if(agencyName == "Corp@delaware.gov") {
+            agencyValue = "Division of Corporations - Franchise Tax";
+            agencyIntent = "Tax - Franchise";
+               $("#otherDiv").hide();
+              $("#SussexDiv").hide();
+                           $("#displayAgencyName").show();
+        } else if(agencyName == "james.stewart@delaware.gov") {
+            agencyValue = "Division of Revenue - Personal Tax";
+            agencyIntent = "Tax - Personal";
+               $("#otherDiv").hide();
+              $("#SussexDiv").hide();
+                 $("#ServicesDiv").hide();
+                              $("#displayAgencyName").show();
+        } else if(agencyName == "dotpr@delaware.gov") {
+            agencyValue = "Department of Transportation";
+            agencyIntent = "Vehicle / Driver Information";
+               $("#otherDiv").hide();
+              $("#SussexDiv").hide();
+                 $("#ServicesDiv").hide();
+                              $("#displayAgencyName").show();
+        } else if(agencyName == "AArchives@delaware.gov") {
+            agencyValue = "Delaware Public Archives";
+             agencyIntent = "Vital Records";
+               $("#otherDiv").hide();
+              $("#SussexDiv").hide();
+                 $("#ServicesDiv").hide();
+                              $("#displayAgencyName").show();
+         } else if(agencyName == "Michael.Globetti@delaware.gov") {
+            agencyValue = "Dept. Natural Resources and Environmental Control";
+             agencyIntent = "Environmental Issues";
+               $("#otherDiv").hide();
+              $("#SussexDiv").hide();
+                 $("#ServicesDiv").hide();
+                              $("#displayAgencyName").show();
+             } else if(agencyName == "Stacey.Hofmann@delaware.gov") {
+            agencyValue = "Department of Agriculture";
+             agencyIntent = "Agriculture";
+               $("#otherDiv").hide();
+              $("#SussexDiv").hide();
+                 $("#ServicesDiv").hide();
+                              $("#displayAgencyName").show();
+        } else if(agencyName == "george.merrill@delaware.gov") {
+            agencyValue = "Alcohol and Tobacco Enforcement";
+             agencyIntent = "Server Training";
+               $("#otherDiv").hide();
+              $("#SussexDiv").hide();
+                 $("#ServicesDiv").hide();
+                              $("#displayAgencyName").show();
+                              
+    } else if(agencyName == "constituent_relations_team@delaware.gov") {
+            agencyValue = "Office of the Governor";
+             agencyIntent = "Governor";
+               $("#otherDiv").hide();
+              $("#SussexDiv").hide();
+               $("#GovenorDiv").show();
+                 $("#ServicesDiv").hide();
+                              $("#displayAgencyName").hide();
+  } else if(agencyName == "ltgov@delaware.gov") {
+            agencyValue = "Office of the Lt. Governor";
+             agencyIntent = "Server Training";
+               $("#otherDiv").hide();
+              $("#SussexDiv").hide();
+                 $("#ServicesDiv").hide();
+                              $("#displayAgencyName").show();
+                              
+                              
+                               } else if(agencyName == "constituent_relations_team@delaware.gov") {
+            agencyValue = "Office of the Governor";
+             agencyIntent = "Constituent Relation";
+               $("#otherDiv").hide();
+              $("#SussexDiv").hide();
+                 $("#ServicesDiv").hide();
+                              $("#displayAgencyName").show();
+                              
+                              
+                              
+   } else if(agencyName == "GIC@delaware.gov") {
+            agencyValue = "Government Information Center";
+             agencyIntent = "Other";
+             $("#displayAgencyName").show();
+             $("#otherDiv").show();
+                $("#ServicesDiv").hide();
+        }
+        
+        $("#displayAgencyName").html("Your email will be sent to the "+agencyValue);
+        $("#HiddenAgencyName").val(agencyValue);
+         $("#displayAgencyIntent").html(agencyIntent);
+        $("#HiddenAgencyIntent").val(agencyIntent);
+    });
+});
+
+
+<!--
+var lastDiv = "";
+function showDiv(divName) {
+    //document.getElementById("getAgencyName").value = divName;
+    // hide last div
+    if (lastDiv) {
+        document.getElementById(lastDiv).className = "hiddenDiv";
+    }
+    //if value of the box is not nothing and an object with that name exists, then change the class
+    if (divName && document.getElementById(divName)) {
+        document.getElementById(divName).className = "visibleDiv";
+        lastDiv = divName;
+    }
+}
+//-->
+
+
+    
+	
+	</script> 
+  <style type="text/css" media="screen"><!--
+.hiddenDiv {
+    display: none;
+    }
+.visibleDiv {
+    display: block;
+
+    }
+
+--></style> 
+  <!-- END NEW SHOW HIDE SCRIPT--> 
+  <style>
+     input.noshow{ visibility:hidden; }
+     formHeader {font-weight:bold;}
+</style> 
+ </head> 
+ <body> 
+  <!-- BEGIN Fixed Main Nav Bar --> 
+  <!-- Fixed navbar --> 
+  <div class="navbar navbar-default navbar-fixed-top" role="navigation"> 
+   <div class="container"> 
+    <div class="navbar-header"> 
+     <a href="/"><img src="/portalimg/delaware_portal_title.png" alt="Delaware.gov - The Offical Website of the First State" title="Delaware.gov - The Offical Website of the First State" class="border_none hidden-xs"></a> 
+     <a href="/"><img src="/portalimg/delaware_logo_text.png" alt="Delaware.gov - The Offical Website of the First State" title="Delaware.gov - The Offical Website of the First State" class="delaware_text visible-xs"></a> 
+    </div> 
+    <!--[if !IE 8]><!--> 
+    <div class="navbar-form navbar-left hidden-xs"> 
+     <form name="search_form" id="search_form" role="search"> 
+      <div class="form-group"> 
+       <img src="/portalimg/portal_search_blue.png" id="navbar_delaware" alt="Delaware" title="Delaware" class="hidden-xs"> 
+       <input type="text" name="searchKeyword" id="searchKeyword" class="form-search" placeholder="Search for Services, People and More..." x-webkit-speech> 
+       <label class="wave_text" for="searchKeyword">Search Delaware.gov</label> 
+      </div> 
+      <button type="submit" name="searchButton" id="searchButton" class="btn btn-search" value="search"><span class="wave_text">Search</span><i class="fa fa-search fa-lg fa-fw"></i></button> 
+     </form> 
+    </div> 
+    <!--<![endif]--> 
+    <!--[if IE 8 ]>
+        <div class="navbar-form navbar-left hidden-xs">
+            <form name="search_form" id="search_form" role="search" action="//search.delaware.gov/search?as_sitesearch=&q=">
+                <div class="form-group">
+                    <img src="/portalimg/portal_search_blue.png" id="navbar_delaware" alt="Delaware" title="Delaware" class="hidden-xs" />
+                    <input type="text" name="q" id="q" class="form-search" placeholder="Search for Services, People and More..." x-webkit-speech />
+                    <label class="wave_text" for="searchKeyword">Search Delaware.gov</label>
+                </div>
+                <button type="submit" name="searchButton" id="searchButton" class="btn btn-search" value="search"><span class="wave_text">Search</span><i class="fa fa-search fa-lg fa-fw"></i></button>
+            </form>
+        </div>
+        <![endif]--> 
+    <div id="menu"> 
+     <a id="right-menu" href="#right-menu" title="Menu"><span class="wave_text">Menu</span><i class="fa fa-bars fa-4x fa-fw"></i></a> 
+     <p class="menu">MENU</p> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- END Fixed Main Nav Bar --> 
+  <!-- EMERGENCY NOTIFICATION SYSTEM (ENS) AREA --> 
+  <!-- END EMERGENCY NOTIFICATION AREA --> 
+  <!-- BEGIN Breadcrumb --> 
+  <ol class="breadcrumb"> 
+   <li><a href="../">Delaware.gov</a></li> 
+   <li><a href="/help/">Help</a></li> 
+  </ol> 
+  <!-- END Breadcrumb --> 
+  <!-- B E G I N   M A I N   C O N T E N T --> 
+  <div class="container"> 
+   <div id="readspeaker_button1" class="rs_skip rsbtn rs_preserve"> 
+    <a class="rsbtn_play" accesskey="L" title="Listen to this page using ReadSpeaker" href="https://app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&amp;lang=en_us&amp;readid=readSpeak_test&amp;:url=delaware.gov/help/index.shtml"> <span class="rsbtn_left rsimg rspart"><span class="rsbtn_text"><span>Listen</span></span></span> <span class="rsbtn_right rsimg rsplay rspart"></span> </a> 
+   </div> 
+   <div class="main_content" id="readSpeak_test"> 
+    <div class="jumbotron"> 
+     <h2>Contact State Agencies</h2> 
+    </div>
+    <br> 
+    <div class="row"> 
+     <div class="col-sm-8"> 
+      <h2> Frequently Asked Questions </h2> 
+      <hr class="blue"> 
+      <div class="clearfix"> 
+      </div> 
+      <br> 
+      <!-- C O N T E N T   B E L O W   T H I S   L I N E --> 
+      <ul> 
+       <li><a href="https://governor.delaware.gov/contact-connect/">How can I contact Governor Carney?</a></li> 
+       <li> <a href="https://foia.delaware.gov"> Where can I submit a FOIA request? </a> </li> 
+       <li> <a href="https://assist.dhss.delaware.gov/"> Where can I check my eligibility / apply for services like Medicaid, Food Stamps, Child Care Assistance? </a> </li> 
+       <li> <a href="https://www.delawarestatejobs.com/explore/hiring-process.shtml"> How do I apply for a state job? </a> </li> 
+       <li> <a href="https://www.delaware.gov/topics/startasmallbusiness"> How do I start a small business? </a> </li> 
+       <li> <a href="https://www.delaware.gov/topics/TaxCenter"> Where can I find tax forms and tax information? </a> </li> 
+       <li> <a href="https://www.visitdelaware.com"> Where can I obtain Information about visiting Delaware? </a> </li> 
+      </ul> 
+      <br> 
+      <h2> Contact Form </h2> 
+      <hr class="blue"> 
+      <form method="post" name="degov-contact" id="degov-contact" action="https://smug.dti.delaware.gov/smu/mailer"> 
+       <label for="formName">Name</label> 
+       <input type="text" name="formName" id="formName" placeholder="First Last" class="form-control" required> 
+       <label for="formEmail"> Email address </label> 
+       <input type="email" placeholder="your@domain.com" name="formEmail" id="formEmail" class="form-control" required> 
+       <label for="formCategory"> Category </label> 
+       <select size="1" name="formCategory" id="formCategory" class="form-control"> <option value="">Please choose category</option> <option value="constituent_relations_team@delaware.gov">Gov. John Carney</option> <option value="ltgov@delaware.gov">Lt. Gov. Bethany Hall-Long</option> <option value="Stacey.Hofmann@delaware.gov">Agriculture</option> <option value="robert.wiest@delaware.gov">Alcohol &amp; Tobacco Enforcement</option> <option value="william.kirby@delaware.gov">Business License</option> <option value="William.Kirby@delaware.gov">Business Tax</option> <option value="DOSDOC_WEB@delaware.gov">Corporation Information</option> <option value="consumer.protection@delaware.gov">Consumer Protection</option> <option value="gail.stallings@delaware.gov">Corrections/Prisons</option> <option value="lis.webmater@delaware.gov">Delaware Legislation</option> <option value="dedoe@doe.k12.de.us">Education</option> <option value="coe_vote@delaware.gov">Election Information</option> <option value="delabor@delaware.gov">Employment Information</option> <option value="Michael.Globetti@delaware.gov">Environmental Issues</option> <option value="Corp@delaware.gov">Franchise Tax</option> <option value="aarchives@delaware.gov">Genealogy</option> <option value="choosehealth@delaware.gov">Health Insurance Marketplace</option> <option value="james.stewart@delaware.gov">Income Tax</option> <option value="doi_licensing_resour@delaware.gov">Insurance License</option> <option value="jobs@delaware.gov">Jobs</option> <option value="DElabor@delaware.gov">Labor Laws </option> <option value="Consumer.Protection@delaware.gov">Landlord/Tenant Issues</option> <option value="visit.delaware@delaware.gov">Map Requests</option> <option value="notary@delaware.gov">Notary Public</option> <option value="customerservice.dpr@delaware.gov">Professional License</option> <option value="aarchives@delaware.gov">Public Archives</option> <option value="kimberly.chandler@delaware.gov">Public Safety/State Police</option> <option value="george.merrill@delaware.gov">Server Training</option> <option value="soffender@delaware.gov">Sex Offenders Subscription</option> <option value="benefits@delaware.gov">State Employee Benefits</option> <option value="visit.delaware@delaware.gov">Tourism</option> <option value="escheat.claimquestions@delaware.gov">Unclaimed Property /Escheat</option> <option value="Darryl.Scott@delaware.gov">Unemployment</option> <option value="dotpr@delaware.gov">Vehicle/Driver Information</option> <option value="AArchives@delaware.gov">Vital Records: Birth, Death, Marriage</option> <option value="GIC@delaware.gov"> Other - Please describe </option> </select> 
+       <p id="displayAgencyName"> </p> 
+       <div id="SussexDiv" style="display:none"> 
+        <p> We have no email address on file for Sussex County Building Permits. Please contact them by using their <a href="https://sussexcountyde.gov/contact-county-government" target="_blank"> Online Form </a> </p> 
+       </div> 
+       <div id="otherDiv" style="display:none;"> 
+        <p> Other: <input name="otherAgencyName" id="otherAgencyName" class="form-control" type="text"> </p> 
+       </div> 
+       <div id="ServicesDiv" style="display:none;"> 
+        <p> This category is for questions related to the Delaware Health Insurance Marketplace. If you seek to check eligibility or apply for: Medicare, Medicaid, Long Term Care, Food Supplement Program, Cash Assistance, Child Care Assistance, National School Lunch Program, Low Income Home Energy Assistance Program, Food Bank, please visit <a href="https://assist.dhss.delaware.gov/"> Delaware ASSIST </a> </p> 
+       </div> 
+       <div id="GovenorDiv" style="display:none;"> 
+        <p>The most direct way to contact Governor Carney is using the <a href="https://governor.delaware.gov/email-governor-carney/">Email The Governor</a> form on his website. </p> 
+       </div> 
+       <label for="formComment"> Comment / Question </label> 
+       <textarea cols="50" rows="5" name="formComment" id="formComment" class="form-control" required></textarea> 
+       <input type="hidden" name="HiddenAgencyName" id="HiddenAgencyName" class="grid_input"> 
+       <input type="hidden" name="HiddenAgencyIntent" id="HiddenAgencyIntent" class="grid_input"> 
+       <input type="hidden" name="HiddenotherAgencyName" id="HiddenotherAgencyName"> 
+       <br> 
+       <!-- Do not remove or alter this section --> 
+       <div id="submit_buttons"> 
+        <input type="text" class="hidden" name="address" id="address" value=""> 
+        <input type="text" class="hidden" name="email" id="email" value=""> 
+        <input type="text" class="hidden" name="AGENCYUID" id="AGENCYUID" value="187847c5-4aa0-4102-9d0c-85561b00ee62"> 
+        <input type="text" class="hidden" name="FORMUID" id="FORMUID" value="977835a6-d093-42c3-bcf5-f0c43d6b09f7"> 
+        <input type="text" class="hidden" name="COMMAND" id="COMMAND" value="SENDMAIL"> 
+        <button type="submit">Submit</button> 
+       </div> 
+      </form> 
+     </div> 
+     <div class="col-sm-4"> 
+      <h2>Did You Know? <i class="fa fa-lightbulb-o fa-fw"></i></h2> 
+      <hr class="blue"> 
+      <img src="/portalimg/portal_dyk_winterthur.jpg" alt="Winterthur Museum, Garden and Library" title="Winterthur Museum, Garden and Library" class="dyk_img img-responsive"> 
+      <p><a href="http://www.winterthur.org/" onclick="trackOutboundLink('http://www.winterthur.org/'); return false;" target="_blank">Winterthur Museum, Garden and Library,</a> six miles northwest of Wilmington features one of the world's finest naturalistic gardens.</p>
+      <br> 
+      <h2>What's Trending <i class="fa fa-thumbs-o-up fa-fw"></i></h2> 
+      <hr class="blue"> 
+      <p> <a href="http://attorneygeneral.delaware.gov/" onclick="trackOutboundLink('http://attorneygeneral.delaware.gov/'); return false;">Attorney General</a><br> <a href="http://treasurer.delaware.gov/" onclick="trackOutboundLink('http://treasurer.delaware.gov/'); return false;">State Treasurer</a><br> <a href="http://www.deldot.gov/" onclick="trackOutboundLink('http://www.deldot.gov/'); return false;">Motor Vehicles</a><br> <a href="http://dol.delaware.gov/" onclick="trackOutboundLink('http://dol.delaware.gov/'); return false;">Labor</a><br> <a href="http://corp.delaware.gov/" onclick="trackOutboundLink('http://corp.delaware.gov/'); return false;">Corporations</a><br> <a href="/topics/highered">Education</a><br> <a href="http://governor.delaware.gov/" onclick="trackOutboundLink('http://governor.delaware.gov/'); return false;">Governor</a><br> <a href="/topics/health">Health</a></p> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- E N D   M A I N   C O N T E N T --> 
+  <!-- BEGIN Portal Footer --> 
+  <div id="sidr-right"> 
+   <!-- Slide-In Menu on Right --> 
+   <div id="sidr_top"> 
+    <h1>Navigation</h1> 
+    <div class="close_sidr_menu" id="close-right-menu"> 
+     <p><a href="#close-right-menu"><i class="fa fa-times fa-1x fa-fw"></i> Close Menu</a></p> 
+    </div>
+    <br> 
+    <div class="sidr_search"> 
+     <form name="mobileSearchForm" role="search" action="https://search3.delaware.gov/texis/search" id="mobileSearchForm" method="get"> 
+      <div class="form-group"> 
+       <input type="hidden" value="" name="mode"> 
+       <input type="hidden" value="" name="opts"> 
+       <input type="hidden" value="default" name="pr"> 
+       <input type="hidden" value="html" name="dropXSL"> 
+       <input type="hidden" value="" name="sq" id="sq"> 
+       <input type="hidden" value="page" name="prox"> 
+       <input type="hidden" value="500" name="rorder"> 
+       <input type="hidden" value="500" name="rprox"> 
+       <input type="hidden" value="500" name="rdfreq"> 
+       <input type="hidden" value="500" name="rwfreq"> 
+       <input type="hidden" value="500" name="rlead"> 
+       <input type="hidden" value="62" name="rdepth"> 
+       <input type="hidden" value="2" name="sufs"> 
+       <input type="hidden" value="r" name="order"> 
+       <div>
+        <br> 
+        <label for="query"><p><i class="fa fa-search fa-lg fa-fw"></i>Search</p></label> 
+        <div class="row"> 
+         <div class="col-sm-10"> 
+          <input value="" class="form-search-small" name="query" id="query" size="25" autocomplete="off" placeholder="Search on Delaware.gov...">
+          <br> 
+         </div> 
+         <div class="col-sm-2"> 
+          <input type="submit" value="Submit" class="text-center center-block btn-block"> 
+         </div> 
+        </div> 
+       </div>  
+      </div>
+     </form> 
+    </div> 
+   </div> 
+   <ul> 
+    <li><a href="http://firststeps.delaware.gov">Business First Steps</a></li> 
+    <li><a href="/topics/agencylist_alpha">State Agencies</a></li> 
+    <li><a href="/phonedirectory/">Phone Directory</a></li> 
+    <li><a href="/locationsdirectory/">Locations Directory</a></li> 
+    <li><a href="http://news.delaware.gov" onclick="trackOutboundLink('http://news.delaware.gov'); return false;">Latest News</a></li> 
+    <li><a href="/citizen_services.shtml">Citizen Services</a></li> 
+    <li><a href="/business_services.shtml">Business Services</a></li> 
+    <li><a href="https://publicmeetings.delaware.gov/" onclick="trackOutboundLink('https://publicmeetings.delaware.gov/'); return false;">Public Meetings</a></li> 
+    <li><a href="/topics/">Delaware Topics</a></li> 
+    <li><a href="/topics/socialmedia">Social Media</a></li> 
+    <li><a href="/help/">Help &amp; Support</a></li> 
+    <!-- <li><a href="/help/index.shtml#LiveChat">Live Chat</a></li> --> 
+    <li><a href="/readspeaker_info.shtml">Using ReadSpeaker</a></li> 
+   </ul>
+   <br> 
+   <h2 class="text_blue"><strong>Adjust Your Font Size</strong></h2> 
+   <hr class="blue"> 
+   <div class="text_size"> 
+    <a href="#" class="decreaseFont"><span class="wave_text">Make Text Size Smaler</span><span class="fa-stack fa-2x"> <i class="fa fa-circle-o fa-stack-2x"></i> <i class="fa fa-minus fa-stack-1x"></i> </span></a> 
+    <a href="#" class="resetFont"><span class="wave_text">Reset Text Size</span><span class="fa-stack fa-2x"> <i class="fa fa-circle-o fa-stack-2x"></i> <i class="fa fa-refresh fa-stack-1x"></i> </span></a> 
+    <a href="#" class="increaseFont"><span class="wave_text">Make Text Size Bigger</span><span class="fa-stack fa-2x"> <i class="fa fa-circle-o fa-stack-2x"></i> <i class="fa fa-plus fa-stack-1x"></i> </span></a> 
+   </div>
+   <br>
+   <br>
+   <br>
+   <br> 
+  </div> 
+  <div class="social center-block"> 
+   <hr class="blue"> 
+   <div class="social_facebook"> 
+    <a href="https://www.facebook.com/delaware.gov" onclick="trackOutboundLink('https://www.facebook.com/delaware.gov'); return false;"><img src="/portalimg/social_icon_facebook@2x.png" alt="State of Delaware Facebook Page" title="State of Delaware Facebook Page" class="bottom"> <img src="/portalimg/social_icon_facebook_off@2x.png" alt="State of Delaware Facebook Page" title="State of Delaware Facebook Page" class="top"></a> 
+   </div> 
+   <div class="social_twitter"> 
+    <a href="https://twitter.com/delaware_gov/" onclick="trackOutboundLink('https://twitter.com/delaware_gov/'); return false;"><img src="/portalimg/social_icon_twitter@2x.png" alt="State of Delaware Twitter Page" title="State of Delaware Facebook Page" class="bottom"> <img src="/portalimg/social_icon_twitter_off@2x.png" alt="State of Delaware Twitter Page" title="State of Delaware Twitter Page" class="top"></a> 
+   </div> 
+   <div class="social_flickr"> 
+    <a href="http://www.flickr.com/groups/delaware_gov/" onclick="trackOutboundLink('http://www.flickr.com/groups/delaware_gov/'); return false;"><img src="/portalimg/social_icon_flickr@2x.png" alt="State of Delaware Flickr Photos" title="State of Delaware Flickr Photos" class="bottom"> <img src="/portalimg/social_icon_flickr_off@2x.png" alt="State of Delaware Flickr Photos" title="State of Delaware Flickr Photos" class="top"></a> 
+   </div> 
+   <div class="social_youtube"> 
+    <a href="https://www.youtube.com/user/DelawareGovernment" onclick="trackOutboundLink('https://www.youtube.com/user/DelawareGovernment'); return false;"><img src="/portalimg/social_icon_youtube@2x.png" alt="State of Delaware Youtube Page" title="State of Delaware Youtube Page" class="bottom"> <img src="/portalimg/social_icon_youtube_off@2x.png" alt="State of Delaware Youtube Page" title="State of Delaware Youtube Page" class="top"></a> 
+   </div> 
+   <div class="social_rss"> 
+    <a href="/topics/subscriberss"><img src="/portalimg/social_icon_rss@2x.png" alt="State of Delaware RSS Feed" title="State of Delaware RSS Feed" class="bottom"> <img src="/portalimg/social_icon_rss_off@2x.png" alt="State of Delaware RSS Feed" title="State of Delaware RSS Feed" class="top"></a> 
+   </div> 
+  </div>
+  <div class="clear"></div>
+  <br> 
+  <div id="footer"> 
+   <div class="container"> 
+    <h1>Government &amp; Services</h1> 
+    <hr> 
+    <div class="row"> 
+     <div class="col-sm-3"> 
+      <p><a href="http://governor.delaware.gov" onclick="trackOutboundLink('http://governor.delaware.gov'); return false;">Delaware's Governor</a><br> <a href="/topics/agencylist_alpha">State Agencies</a><br> <a href="/topics/yourgovernment">Elected Officials</a><br> <a href="http://legis.delaware.gov/" onclick="trackOutboundLink('http://legis.delaware.gov/'); return false;">General Assembly</a><br> <a href="http://courts.delaware.gov/" onclick="trackOutboundLink('http://courts.delaware.gov/'); return false;">Delaware Courts</a><br> <a href="https://dhr.delaware.gov/personnel/employee-resources.shtml" onclick="trackOutboundLink('https://dhr.delaware.gov/personnel/employee-resources.shtml'); return false;">State Employees</a><br> <a href="/topics/municipalities">Cities &amp; Towns</a><br> <a href="http://delcode.delaware.gov/" onclick="trackOutboundLink('http://delcode.delaware.gov/'); return false;">Delaware State Code</a><br> <a href="http://regulations.delaware.gov/default.shtml" onclick="trackOutboundLink('http://regulations.delaware.gov/default.shtml'); return false;">State Regulations</a><br> 
+       <!--  <a href="http://governor.delaware.gov/regulatory_review.shtml" onclick="trackOutboundLink('http://governor.delaware.gov/regulatory_review.shtml'); return false;">Regulatory Review</a></p>--> <a href="http://firststeps.delaware.gov/" onclick="trackOutboundLink('http://firststeps.delaware.gov/'); return false;">Business First Steps</a></p> 
+     </div> 
+     <div class="col-sm-3"> 
+      <p><a href="/phonedirectory/index.php">Phone Directory</a><br> <a href="/locationsdirectory/index.php">Locations Directory</a><br> <a href="https://publicmeetings.delaware.gov/" onclick="trackOutboundLink('https://publicmeetings.delaware.gov/'); return false;">Public Meetings</a><br> 
+       <!--   <a href="http://elections.delaware.gov" onclick="trackOutboundLink('http://elections.delaware.gov'); return false;">Voting &amp; Elections</a><br /> --> <a href="/topics/foia">FOIA</a><br> <a href="/topics/transparency">Transparency</a><br> <a href="http://www.choosehealthde.com/" onclick="trackOutboundLink('http://www.choosehealthde.com/'); return false;">Delaware Marketplace</a><br> <a href="/topics/TaxCenter">Tax Center</a><br> <a href="http://revenue.delaware.gov/pit_onlinefiling.shtml" onclick="trackOutboundLink('http://revenue.delaware.gov/pit_onlinefiling.shtml'); return false;">Personal Income Tax</a><br> <a href="/help/privacy">Privacy Policy</a><br> <a href="/topics/weatherpage">Weather &amp; Travel</a></p> 
+     </div> 
+     <div class="col-sm-3"> 
+      <p><a href="/help/degov-contact.shtml">Contact Us</a><br> <a href="https://corp.delaware.gov/" onclick="trackOutboundLink('https://corp.delaware.gov/'); return false;">Corporations</a><br> <a href="https://corp.delaware.gov/paytaxes/" onclick="trackOutboundLink('https://corp.delaware.gov/paytaxes/'); return false;">Franchise Tax</a><br> <a href="https://grossreceiptstax.delaware.gov/grtpublic/" onclick="trackOutboundLink('https://grossreceiptstax.delaware.gov/grtpublic/'); return false;">Gross Receipts Tax</a><br> <a href="https://dorweb.revenue.delaware.gov/EDIOnline/EDIOnline.dll" onclick="trackOutboundLink('https://dorweb.revenue.delaware.gov/EDIOnline/EDIOnline.dll'); return false;">Withholding Tax</a><br> <a href="/topics/">Delaware Topics</a><br> <a href="/help/">Help Center</a><br> <a href="/topics/subscribeemail">E-mail / Text Alerts</a><br> <a href="/topics/socialmedia">Social Media</a><br> <a href="/help/responsible-disclosure.shtml">Responsible Disclosure</a><br></p> 
+     </div> 
+     <div class="col-sm-3"> 
+      <img src="/portalimg/portal_footer_seal.png" alt="State Seal of Delaware" title="State Seal of Delaware" class="hidden-xs img-responsive"> 
+     </div> 
+    </div> 
+    <hr> 
+    <div class="row"> 
+     <div class="col-sm-4"> 
+      <!-- Google Translate Element BEGIN --> 
+      <div id="google_translate_element"></div> 
+      <script type="text/javascript">
+                    function googleTranslateElementInit() {
+                    new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+                </script> 
+      <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+      <br> 
+      <!-- Google Translate Element END --> 
+     </div> 
+     <div class="col-sm-4"> 
+      <!-- AddThis Button BEGIN --> 
+      <!-- Go to www.addthis.com/dashboard to customize your tools --> 
+      <div class="addthis_sharing_toolbox"></div> 
+      <!-- Go to www.addthis.com/dashboard to customize your tools --> 
+      <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5499782172c12f1e" async></script>
+      <br> 
+      <!-- AddThis Button END --> 
+     </div> 
+     <div class="col-sm-4"> 
+      <img src="/portalimg/gic_portal_footer_logo@2x.png" alt="Government Information Center (GIC)" title="Government Information Center (GIC)" class="footer_logo"> 
+      <p>Built by the <a href="http://gic.delaware.gov" title="Government Information Center (GIC)" onclick="trackOutboundLink('http://gic.delaware.gov'); return false;">Government Information Center</a><br> ©MMXVIII Delaware.gov</p> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- jquery totop script --> 
+  <script src="/portaljs/jquery.easing-1.3.min.js"></script> 
+  <script type="text/javascript">
+        $(document).ready(function() {
+        $().UItoTop({ easingType: 'easeOutQuart' });
+        });
+    </script> 
+  <!-- END Portal Footer -->   
+ </body>
+</html>

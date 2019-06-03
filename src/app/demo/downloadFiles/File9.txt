@@ -1,0 +1,871 @@
+<!doctype html>
+<!--[if lt IE 8]>
+<html class="no-js no-nav theme-teal lt-ie10 lt-ie9 lt-ie8 " lang="en-us"> <![endif]-->
+<!--[if IE 8]>
+<html class="no-js no-nav theme-teal lt-ie10 lt-ie9 " lang="en-us"> <![endif]-->
+<!--[if IE 9]>
+<html class="no-js no-nav theme-teal lt-ie10 " lang="en-us"> <![endif]-->
+<!--[if !IE]><!-->
+<html class="no-js no-nav theme-teal " lang="en-us">
+ <!--<![endif]-->
+ <head> 
+  <meta charset="utf-8"> 
+  <title>CDC - ADS Excellence Integrity Quality Ethics Awards Technology Innovation - OD - OADS</title> 
+  <meta name="description" content="Office of the Associate Director for Science (OADS) home page"> 
+  <meta name="keywords" content="CDC, Science, Office of the Associate Director for Science (OADS), Science Integrity, Science Quality, Scientific Integrity, Scientific Quality, data plan, access to data, access to scientific publications, access to digital scientific data, intramural and extramural research data"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <link rel="apple-touch-icon" sizes="144x144" href="/TemplatePackage/3.0/images/cdc-touch-icon-144x144.png"> 
+  <link rel="apple-touch-icon" sizes="114x114" href="/TemplatePackage/3.0/images/cdc-touch-icon-114x114.png"> 
+  <link rel="apple-touch-icon" sizes="72x72" href="/TemplatePackage/3.0/images/cdc-touch-icon-72x72.png"> 
+  <link rel="apple-touch-icon" href="/TemplatePackage/3.0/images/cdc-touch-icon-57x57.png"> 
+  <link rel="shortcut icon" href="/TemplatePackage/3.0/images/favicon.ico"> 
+  <meta name="robots" content="index, archive"> 
+  <meta property="cdc:template_version" content="3.0"> 
+  <meta property="cdc:content_id" content="1813"> 
+  <link rel="canonical" href="https://www.cdc.gov/od/science/index.htm"> 
+  <meta property="cdc:wcms_build" content="4.7.2 - b.36"> 
+  <!-- include virtual="/TemplatePackage/3.0/includes/head.html" --> 
+  <link rel="stylesheet" href="/TemplatePackage/3.0/css/lib/bootstrap24.css"> 
+  <link rel="stylesheet" href="/TemplatePackage/3.0/css/app.css?3.2.3.8"> 
+  <!--[if gt IE 9]><!-->
+  <!--<![endif]--> 
+  <!--[if IE 7]>
+		<link rel="stylesheet" href="/TemplatePackage/3.0/css/lib/font-awesome-ie7.css" />
+	<![endif]--> 
+  <!--[if lt IE 9]>
+		<link rel="stylesheet" href="/TemplatePackage/3.0/css/ie.css" />
+	<![endif]--> 
+  <link rel="stylesheet" media="print" href="/TemplatePackage/3.0/css/print.css?3.2.3.8"> 
+  <script src="/TemplatePackage/3.0/js/libs/modernizr-latest.js"></script> 
+  <script>
+		if(!Date.now){Date.now=function now(){return new Date().getTime()}}
+		var page_timing = page_timing || {};
+		page_timing.page_start = Date.now();
+		function $$(e){if(window.$){e()}else{setTimeout(function(){$$(e)},50)}}
+		// (function(){function e(e,t){var n=e.length;while(n--){if(e[n].indexOf(t)>-1){return e[n]}}return false}var t=e(document.getElementsByTagName("html")[0].className.split(" "),"theme-");if(t){var n=document.createElement("link");n.rel="stylesheet";n.type="text/css";n.media="screen";n.href="/TemplatePackage/3.0/css/themes/"+t+".css";document.getElementsByTagName("head")[0].appendChild(n)}})();
+
+		var settings = {}, addthis = null;
+	</script> 
+  <meta name="application-name" content="CDC.gov"> 
+  <meta property="cdc:template_version" content="3.2.3.8"> 
+  <meta name="msapplication-TileColor" content="#0061aa"> 
+  <meta name="msapplication-square70x70logo" content="/TemplatePackage/3.0/images/Win8_tile_70x70.png"> 
+  <meta name="msapplication-square150x150logo" content="/TemplatePackage/3.0/images/Win8_tile_150x150.png"> 
+  <meta name="msapplication-wide310x150logo" content="/TemplatePackage/3.0/images/Win8_tile_310x150.png"> 
+  <meta name="msapplication-square310x310logo" content="/TemplatePackage/3.0/images/Win8_tile_310x310.png"> 
+  <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no"> 
+  <script> var flexobjs = []; </script>
+  <link rel="stylesheet" href="/TemplatePackage/3.0/css/lib/flexslider.css"> 
+  <link rel="stylesheet" href="/TemplatePackage/3.0/css/flexslider.css"> 
+  <meta name="DC.date" content="2018-10-15T03:01:29Z"> 
+  <script>var w=window;if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=document;AKSB=w.AKSB||{},AKSB.q=AKSB.q||[],AKSB.mark=AKSB.mark||function(e,_){AKSB.q.push(["mark",e,_||(new Date).getTime()])},AKSB.measure=AKSB.measure||function(e,_,t){AKSB.q.push(["measure",e,_,t||(new Date).getTime()])},AKSB.done=AKSB.done||function(e){AKSB.q.push(["done",e])},AKSB.mark("firstbyte",(new Date).getTime()),AKSB.prof={custid:"25642",ustr:"",originlat:"0",clientrtt:"16",ghostip:"184.51.206.71",ipv6:false,pct:"10",clientip:"71.9.2.245",requestid:"14d31f95",region:"27725",protocol:"",blver:14,akM:"dscb",akN:"ae",akTT:"O",akTX:"1",akTI:"14d31f95",ai:"272761",ra:"false",pmgn:"",pmgi:"",pmp:"",qc:""},function(e){var _=d.createElement("script");_.async="async",_.src=e;var t=d.getElementsByTagName("script"),t=t[t.length-1];t.parentNode.insertBefore(_,t)}(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")}</script> 
+ </head> 
+ <body> 
+  <div id="skipmenu"> 
+   <a href="#searchTarget" class="skippy">Skip directly to search</a> 
+   <a href="#azTab" class="skippy">Skip directly to A to Z list</a> 
+   <a href="#share-bar" class="skippy">Skip directly to page options</a> 
+   <a href="#contentArea" class="skippy">Skip directly to site content</a> 
+  </div>
+  <div id="wrapper"> 
+   <!-- references to this removed intentionally --> 
+   <header id="header"> 
+    <div class="container"> 
+     <!-- header --> 
+     <div class="row"> 
+      <div id="logo" class="span14"> 
+       <!--iPad touch response and 508 voice reader issue currently under investigation --> 
+       <a href="https://www.cdc.gov" title="Centers for Disease Control and Prevention. CDC twenty four seven. Saving Lives, Protecting People"> <img src="/TemplatePackage/3.0/images/masthead_subpage.svg" alt="Centers for Disease Control and Prevention. CDC twenty four seven. Saving Lives, Protecting People" class="hidden-one"> <img src="/TemplatePackage/3.0/images/masthead_1-col.svg" alt="Centers for Disease Control and Prevention. CDC twenty four seven. Saving Lives, Protecting People" class="visible-one"> </a> 
+       <!-- IOS9 iPad bug work around - make sure screen readers have a readable version of the logo to read
+<a class="tp-sr-only" href="https://www.cdc.gov">Centers for Disease Control and Prevention. CDC twenty four seven. Saving Lives, Protecting People</a>
+ --> 
+      </div> 
+      <!-- search viewport 3/4 --> 
+      <div id="searchArea" class="span10 hidden-one hidden-two"> 
+       <div class="hidden">
+        <a href="#" name="searchTarget">Start of Search Controls</a>
+       </div> 
+       <form class="searchForm" method="get" action="https://search.cdc.gov/search"> 
+        <fieldset class="search-form-wrapper"> 
+         <legend>Search Form Controls</legend> 
+         <div class="search-form-checkbox"> 
+          <label class="subset"><input type="checkbox" name="subset" checked value=""></label> 
+         </div> 
+         <div class="search-input-wrapper"> 
+          <div class="search-buttons"> 
+           <button class="btn-clear"><span class="sprite-14-close">Cancel</span></button> 
+           <button class="btn-submit"><span class="sprite-14-search-black">Submit</span></button> 
+           <input type="submit" value="Submit" style="display:none; visibility:hidden;"> 
+          </div> 
+          <div class="search-input"> 
+           <label><input type="text" placeholder="SEARCH" name="query"><span class="hidden">Search The CDC</span></label> 
+          </div> 
+         </div> 
+         <input type="hidden" name="utf8" value="?"> 
+         <input type="hidden" name="affiliate" value="cdc-main"> 
+        </fieldset> 
+       </form> 
+       <div class="a2z-button pull-right hidden-one hidden-two">
+        <a href="#" id="azTab">CDC A-Z Index <span class="icon-angle-down"></span></a>
+       </div> 
+      </div> 
+      <!-- /search viewport 3/4 --> 
+     </div> 
+     <div class="hidden-three hidden-four" id="mobile-menu"> 
+      <ul> 
+       <li id="vp1-menu-button" class="border-bottom-white"><a href="#" id="menu-nav"><span class="sprite-16-menu"></span>MENU</a></li> 
+       <li id="vp1-a2z-button" class="border-bottom-white"><a href="#" id="menu-az">CDC A-Z</a></li> 
+       <li id="vp1-search-button" class="border-bottom-white"><a href="#" id="menu-search"><span class="sprite-16-search-white"></span>SEARCH</a></li> 
+      </ul> 
+     </div> 
+     <script>if (typeof page_timing !== 'undefined') { page_timing.menu_load = Date.now(); }</script> 
+     <div class="a2z-bar hide"> 
+      <div> 
+       <ul> 
+        <li><a href="https://www.cdc.gov/az/a.html">A</a></li> 
+        <li><a href="https://www.cdc.gov/az/b.html">B</a></li> 
+        <li><a href="https://www.cdc.gov/az/c.html">C</a></li> 
+        <li><a href="https://www.cdc.gov/az/d.html">D</a></li> 
+        <li><a href="https://www.cdc.gov/az/e.html">E</a></li> 
+        <li><a href="https://www.cdc.gov/az/f.html">F</a></li> 
+        <li><a href="https://www.cdc.gov/az/g.html">G</a></li> 
+        <li><a href="https://www.cdc.gov/az/h.html">H</a></li> 
+        <li><a href="https://www.cdc.gov/az/i.html">I</a></li> 
+        <li><a href="https://www.cdc.gov/az/j.html">J</a></li> 
+        <li><a href="https://www.cdc.gov/az/k.html">K</a></li> 
+        <li><a href="https://www.cdc.gov/az/l.html">L</a></li> 
+        <li><a href="https://www.cdc.gov/az/m.html">M</a></li> 
+        <li><a href="https://www.cdc.gov/az/n.html">N</a></li> 
+        <li><a href="https://www.cdc.gov/az/o.html">O</a></li> 
+        <li><a href="https://www.cdc.gov/az/p.html">P</a></li> 
+        <li><a href="https://www.cdc.gov/az/q.html">Q</a></li> 
+        <li><a href="https://www.cdc.gov/az/r.html">R</a></li> 
+        <li><a href="https://www.cdc.gov/az/s.html">S</a></li> 
+        <li><a href="https://www.cdc.gov/az/t.html">T</a></li> 
+        <li><a href="https://www.cdc.gov/az/u.html">U</a></li> 
+        <li><a href="https://www.cdc.gov/az/v.html">V</a></li> 
+        <li><a href="https://www.cdc.gov/az/w.html">W</a></li> 
+        <li><a href="https://www.cdc.gov/az/x.html">X</a></li> 
+        <li><a href="https://www.cdc.gov/az/y.html">Y</a></li> 
+        <li><a href="https://www.cdc.gov/az/z.html">Z</a></li> 
+        <li><a href="https://www.cdc.gov/az/0.html">#</a></li> 
+       </ul> 
+      </div> 
+      <script>if (typeof page_timing !== 'undefined') { page_timing.a2z_load = Date.now(); }</script> 
+     </div> 
+     <!-- search viewport 1/2 --> 
+     <div id="searchArea-two-column" class="span24 searchbar hide hidden-three hidden-four"> 
+      <div class="hidden">
+       <a href="#" name="searchTarget">Start of Search Controls</a>
+      </div> 
+      <form class="searchForm" method="get" action="https://search.cdc.gov/search"> 
+       <fieldset class="search-form-wrapper"> 
+        <legend>Search Form Controls</legend> 
+        <div class="search-form-checkbox"> 
+         <label class="subset"><input type="checkbox" name="subset" checked value=""></label> 
+        </div> 
+        <div class="search-input-wrapper"> 
+         <div class="search-buttons"> 
+          <button class="btn-clear"><span class="sprite-14-close">Cancel</span></button> 
+          <button class="btn-submit"><span class="sprite-14-search-black">Submit</span></button> 
+          <input type="submit" value="Submit" style="display:none; visibility:hidden;"> 
+         </div> 
+         <div class="search-input"> 
+          <label><input type="text" placeholder="SEARCH" name="query"><span class="hidden">Search The CDC</span></label> 
+         </div> 
+        </div> 
+        <input type="hidden" name="utf8" value="?"> 
+        <input type="hidden" name="affiliate" value="cdc-main"> 
+       </fieldset> 
+      </form> 
+     </div> 
+     <!-- /search viewport 1/2 --> 
+     <!--
+	See the noscript include for modifying the emergency message. DO NOT add it here.
+--> 
+     <script>if (typeof page_timing !== 'undefined') { page_timing.emergency_load = Date.now(); }</script> 
+     <!-- /header --> 
+     <div class="titlebar"> 
+      <!-- When this template is used for a topic home page then the following should be an <h1> tag. --> 
+      <h1><a href="/od/science/index.htm">Office of the Associate Director for Science (OADS)</a> </h1> 
+     </div> 
+     <!-- emergency --> 
+     <div id="emergencyContainer"> 
+      <!--
+	<div class="alert alert-error en">
+		<b>Attention!</b> Uncomment this section and place the emergency message here.
+	</div>
+	<div class="alert alert-error esp">
+		<b>&#161;Atenci&#243;n!</b> Elimine el comentario de esta secci&#243;n y colocar el mensaje de emergencia aqu&#237;.
+	</div>	
+	--> 
+     </div> 
+     <!-- no script --> 
+     <noscript> 
+      <div class="alert alert-block">
+        Note: Javascript is disabled or is not supported by your browser. For this reason, some items on this page will be unavailable. For more information about this message, please visit this page: 
+       <a href="//www.cdc.gov/other/about_cdcgov.html">About CDC.gov</a>.
+      </div> 
+     </noscript> 
+     <script>if (typeof page_timing !== 'undefined') { page_timing.noscript_load = Date.now(); }</script> 
+    </div> 
+   </header> 
+   <div class="container"> 
+    <div id="featureArea"> 
+     <div class="row"> 
+      <div class="span24"> 
+      </div> 
+     </div> 
+     <div class="row"> 
+      <div class="span24"> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="content"> 
+     <div class="row"> 
+      <div class="span24 pagetitle"> 
+       <div class="syndicate"> 
+       </div> 
+      </div> 
+      <div id="share-bar" class="span24"> 
+       <div class="socialmediabar"> 
+        <div class="row"> 
+         <div class="hidden-one pull-right"> 
+         </div> 
+         <div class="span9"> 
+          <div id="socialMediaShareContainer"> 
+           <div class="share_container noLinking"> 
+            <a class="share_button_facebook" title="Facebook" href="#"><span class="tp-sr-only">Recommend on Facebook</span><span id="share_facebook" class="facebookRecommend"> </span></a> 
+            <a class="share_button_twitter" title="Twitter" href="#"><span class="tp-sr-only">Tweet</span><span id="share_twitter" class="twitterTweet"> </span></a> 
+            <a class="share_button" href="#socialMediaShareContainer"><img src="/TemplatePackage/3.0/images/social/addthis-32.png" alt="Share"><span class="shareButtonEn tp-sr-only" aria-label="Share">Share</span><span class="shareButtonEs tp-sr-only" aria-label="Compartir">Compartir</span></a> 
+           </div> 
+          </div> 
+          <!-- target anchor for return to top feature in VP1 --> 
+          <a id="content-start" tabindex="-1"></a> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <!-- body --> 
+      <div id="body" class="span24"> 
+       <div id="contentArea"> 
+        <div class="syndicate"> 
+         <div class="row">
+          <div class="span24">
+           <h1>Advancing Excellence &amp; Integrity of CDC Science</h1> 
+          </div> 
+         </div>
+         <div class="row">
+          <div class="span6">
+           <div class="module-typeD">
+            <div>
+             <br> 
+             <h4>The Office of the Associate Director for Science (OADS) provides CDC/ATSDR with scientific vision, advice and leadership in promoting the quality and integrity of CDC science, and is an advocate for the application of science to solve important public health problems.</h4>
+            </div>
+           </div> 
+          </div>
+          <div class="span18"> 
+           <div class="standard-slider  "> 
+            <div id="slider_18135bc4ac30191e5" class="flexslider slider"> 
+             <ul class="slides"> 
+              <li><a href="/od/science/wewerethere/index.html" class="noLinking "><img alt="WWT header image for OADS home page accordion" src="/od/science/wewerethere/images/WWT_new_accordion.jpg">
+                <div class="flex-caption">
+                 <span>OADS presents "We Were There"</span>
+                </div></a></li>
+              <li><a href="/od/science/aboutus/shepard/index.html" class="noLinking "><img alt="Charles C. Shepard" src="/od/science/modules/science/images/OADS-landing-flex-shepard-wide.jpg">
+                <div class="flex-caption">
+                 <span>Learn about the Charles C. Shepard Science Award</span>
+                </div></a></li>
+              <li><a href="/od/science/integrity/phethics/index.htm" class="noLinking "><img alt="Woman's hand holding ethics sign" src="/od/science/modules/science/images/OADS-landing-flex-phethics-wide.jpg">
+                <div class="flex-caption">
+                 <span>CDC and Public Health Ethics</span>
+                </div></a></li> 
+             </ul>
+            </div> 
+            <div class="slider-paging visible-one"> 
+             <span class="slide-current-slide">
+              <!-- --></span> 
+             <span class="slide-total-slides">
+              <!-- --></span> 
+            </div> 
+            <script>
+
+            <!--//
+
+            flexobjs.push({id: "#slider_18135bc4ac30191e5"},{
+                pauseOnHover: true,
+                slideshow: true,               //Boolean: Animate slider automatically
+                slideshowSpeed: 7000,     //Integer: Set the speed of the slideshow cycling, in milliseconds
+                animationSpeed: 600,  //Integer: Set the speed of animations, in milliseconds
+                randomize: false,               //Boolean: Randomize slide order
+                startAt: 0,              //Integer: The slide that the slider should start on. Array notation (0 = first slide)
+                animationLoop: true        //Boolean: Should the animation loop? If false, directionNav will received "disable" classes at either end
+            });
+
+            //-->
+
+		</script> 
+           </div> 
+          </div> 
+         </div>
+         <div class="row">
+          <div class="span24">
+           <div class="module-typeC">
+            <div>
+             <div class="typeB"> 
+              <h5> <strong>Did you know? OADS is an active participant in CDC’s effort to improve </strong><a href="/healthliteracy"><strong>health literacy.</strong></a> </h5> 
+             </div>
+            </div>
+           </div> 
+          </div> 
+         </div>
+         <div class="row">
+          <div class="span24">
+           <div class="row">
+            <nav class="module-typeL row">
+             <div class="span12"> 
+              <ul>
+               <li><a class="noDecoration noLinking" href="/od/science/aboutus/index.htm">
+                 <div>
+                  <span class="sprite-40-grey-o">
+                   <!-- Don't remove. Added to avoid the issues when the nav btn is added inline --></span>
+                  <span class="sprite-40-white-o">
+                   <!-- Don't remove. Added to avoid the issues when the nav btn is added inline --></span>
+                 </div>
+                 <div>
+                  <h3>Overview</h3> 
+                  <p>Learn about how the Office of the Associate Director for Science (OADS) provides service and support to the CDC scientists as they work to protect people's health and improve the quality of their lives</p> 
+                  <p></p>
+                 </div></a></li>
+               <li><a class="noDecoration noLinking" href="/od/science/aboutus/shepard/index.html">
+                 <div>
+                  <span class="sprite-40-grey-yyy">
+                   <!-- Don't remove. Added to avoid the issues when the nav btn is added inline --></span>
+                  <span class="sprite-40-white-yyy">
+                   <!-- Don't remove. Added to avoid the issues when the nav btn is added inline --></span>
+                 </div>
+                 <div>
+                  <h3>Charles C. Shepard Science Award</h3> 
+                  <p>Learn about the process to recognize and highlight excellence in scientific achievement by CDC and ATSDR authors of outstanding scientific papers. This annual event is the agency’s primary recognition mechanism regarding CDC science</p> 
+                  <p></p>
+                 </div></a></li>
+              </ul>
+             </div>
+             <div class="span12"> 
+              <ul>
+               <li><a class="noDecoration noLinking" href="/od/science/aboutus/directors.htm">
+                 <div>
+                  <span class="sprite-40-grey-aaaa">
+                   <!-- Don't remove. Added to avoid the issues when the nav btn is added inline --></span>
+                  <span class="sprite-40-white-aaaa">
+                   <!-- Don't remove. Added to avoid the issues when the nav btn is added inline --></span>
+                 </div>
+                 <div>
+                  <h3>Director's Corner</h3> 
+                  <p>Meet the OADS leadership</p> 
+                  <p></p>
+                 </div></a></li>
+               <li><a class="noDecoration noLinking" href="/od/science/impact/index.htm">
+                 <div>
+                  <span class="sprite-40-grey-ddddd">
+                   <!-- Don't remove. Added to avoid the issues when the nav btn is added inline --></span>
+                  <span class="sprite-40-white-ddddd">
+                   <!-- Don't remove. Added to avoid the issues when the nav btn is added inline --></span>
+                 </div>
+                 <div>
+                  <h3>CDC Science Impact Framework (SIF)</h3>Learn more about this framework designed for tracking CDC science and linking its influence or impact on subsequent events and actions that ultimately lead to improving health
+                 </div></a></li>
+              </ul>
+             </div>
+            </nav>
+           </div> 
+          </div> 
+         </div>
+         <div class="row">
+          <div class="span24"> 
+           <div class="row"> 
+            <div class="span24 module-typeM  "> 
+             <div class="span7a module-typeP"> 
+              <img class="center" alt="" src="/od/science/modules/science/OSQ.jpg"> 
+              <h3>Office of Science Quality</h3> 
+              <p>The Office of Science Quality (OSQ) was established within OADS to increase the impact of CDC research and science by promoting standards and recommended practices for scientific quality, relevance, credibility, transparency, and utility within the agency and throughout the public health community</p> 
+              <p class="morelink"> <a href="/od/science/quality/index.htm"> More</a><span class="icon-angle-right">
+                <!-- --></span></p> 
+             </div> 
+             <div class="span7a module-typeP"> 
+              <img class="center" alt="" src="/od/science/modules/science/OSI.jpg"> 
+              <h3>Office of Scientific Integrity</h3> 
+              <p>The Office of Scientific Integrity (OSI) was established within OADS to ensure that CDC science and research activities comply with various federal laws, regulations, and policies</p> 
+              <p class="morelink"> <a href="/od/science/integrity/index.htm"> More</a><span class="icon-angle-right">
+                <!-- --></span></p> 
+             </div> 
+             <div class="span7a module-typeP"> 
+              <img class="center" alt="" src="/od/science/modules/science/mrsa-testing-technology.jpg"> 
+              <h3>Office of Technology and Innovation</h3> 
+              <p>Innovation occurs when ideas are put to use in a manner that improves the way something works – whether that’s a service, process, or product. The Office of Technology and Innovation (OTI) was established within the Office of the Associate Director for Science (OADS) to foster innovative science and support the transition of results into practice by the most effective means.</p> 
+              <p class="morelink"> <a href="/od/science/technology/index.htm"> More</a><span class="icon-angle-right">
+                <!-- --></span></p> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div>
+         <div class="row">
+          <div class="span24"> 
+           <div class="module-typeC  "> 
+            <h3>References</h3> 
+            <div> 
+             <div class="listContainer hidden-one"> 
+              <ul class="list-block double listCol1"> 
+               <li> 
+                <div> 
+                 <a href="/od/science/docs/Final-CDC-Public-Access-Plan-Jan-2015_508-Compliant.pdf" class="">CDC Plan for Increasing Access to Scientific Publications and Digital Scientific Data Generated with CDC Funding [PDF - 713K]</a> 
+                 <p></p>
+                 <p>This plan describes the steps Centers for Disease Control and Prevention (CDC) and the Agency for Toxic Substances and Disease Registry (ATSDR) (referred to as CDC throughout this document) are taking to maximize access to intramural and extramural data</p> 
+                </div> </li> 
+               <li class="listLastChildBorderBottom"> 
+                <div> 
+                 <a href="/od/science/docs/Scientifc_integrity_principles_12-19-11.pdf" class="">This guidance aligns with HHS departmental policies and principles on scientific integrity [PDF - 100K]</a> 
+                </div> </li> 
+              </ul> 
+              <ul class="list-block double listCol2 last"> 
+               <li class="listLastChildBorderBottom"> 
+                <div> 
+                 <a href="/od/science/docs/CDCSIGuide_042516.pdf" class="">CDC Guidance on Scientific Integrity [PDF - 247K]</a> 
+                 <p></p>
+                 <p>This document provides an overarching summary of the policies, activities, and guiding principles that exist within Centers for Disease Control and Prevention/Agency for Toxic Substances and Disease Registry (CDC/ATSDR–henceforth referred to as CDC) in support of key areas of scientific integrity</p> 
+                </div> </li> 
+              </ul> 
+             </div> 
+             <div class="hidden-two hidden-three hidden-four"> 
+              <ul class="list-block "> 
+               <li> 
+                <div> 
+                 <a href="/od/science/docs/Final-CDC-Public-Access-Plan-Jan-2015_508-Compliant.pdf" class="">CDC Plan for Increasing Access to Scientific Publications and Digital Scientific Data Generated with CDC Funding [PDF - 713K] </a> 
+                 <p></p>
+                 <p>This plan describes the steps Centers for Disease Control and Prevention (CDC) and the Agency for Toxic Substances and Disease Registry (ATSDR) (referred to as CDC throughout this document) are taking to maximize access to intramural and extramural data</p> 
+                </div> </li> 
+               <!--				/*soln_list_slot("<$RDtemplateListType class=$dq$RDtemplateListClass$dq>" "<li>" "</li>" "</$RDtemplateListType>")*/--> 
+               <li> 
+                <div> 
+                 <a href="/od/science/docs/CDCSIGuide_042516.pdf" class="">CDC Guidance on Scientific Integrity [PDF - 247K] </a> 
+                 <p></p>
+                 <p>This document provides an overarching summary of the policies, activities, and guiding principles that exist within Centers for Disease Control and Prevention/Agency for Toxic Substances and Disease Registry (CDC/ATSDR–henceforth referred to as CDC) in support of key areas of scientific integrity</p> 
+                </div> </li> 
+               <!--				/*soln_list_slot("<$RDtemplateListType class=$dq$RDtemplateListClass$dq>" "<li>" "</li>" "</$RDtemplateListType>")*/--> 
+               <li class="lastChild"> 
+                <div> 
+                 <a href="/od/science/docs/Scientifc_integrity_principles_12-19-11.pdf" class="">This guidance aligns with HHS departmental policies and principles on scientific integrity [PDF - 100K] </a> 
+                </div> </li> 
+               <!--				/*soln_list_slot("<$RDtemplateListType class=$dq$RDtemplateListClass$dq>" "<li>" "</li>" "</$RDtemplateListType>")*/--> 
+              </ul> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <!-- Persistent Content Area --> 
+        <div id="content-secondary"> 
+         <!-- EMPTY SSI --> 
+        </div>
+        <!-- /end #content-secondary --> 
+       </div>
+       <!-- /end #contentArea --> 
+      </div>
+      <!-- /end #body --> 
+     </div> 
+     <nav id="left" class="hidden-one hidden-two"> 
+      <h3><a href="/od/science/index.htm">OADS Home</a></h3> 
+      <ul id="nav-primary"> 
+       <li><a href="/od/science/aboutus/index.htm">Overview</a> 
+        <ul> 
+         <li><a href="/od/science/aboutus/directors.htm">Director’s Corner</a> 
+          <ul> 
+           <li><a href="/od/science/aboutus/MacKenzie-William.htm">Associate Director for Science</a></li> 
+           <li><a href="/od/science/aboutus/ron-otten.htm">Deputy Associate Director for Science</a></li> 
+           <li><a href="/od/science/aboutus/cono.html">Director, Office of Science Quality</a></li> 
+           <li><a href="/od/science/aboutus/Maryam-Daneshvar.htm">Director, Office of Scientific Integrity</a></li> 
+           <li><a href="/od/science/aboutus/cyril.html">Director, Office of Technology and Innovation</a></li> 
+           <li><a href="/od/science/aboutus/murphy.htm">Management Officer</a></li> 
+          </ul> </li> 
+         <li><a href="/od/science/excellence/index.htm">Excellence in Science Committee</a></li> 
+         <li><a href="/od/science/aboutus/shepard/index.html">Shepard Science Award</a> 
+          <ul> 
+           <li><a href="/od/science/aboutus/shepard/about/index.html">About</a></li> 
+           <li><a href="/od/science/aboutus/shepard/history/index.html">History</a></li> 
+           <li><a href="/od/science/aboutus/shepard/winners/index.html">Winners</a></li> 
+           <li><a href="/od/science/aboutus/shepard/program/index.html">Program</a></li> 
+          </ul> </li> 
+        </ul> </li> 
+       <li><a href="/od/science/impact/index.htm">Science Impact</a> 
+        <ul> 
+         <li><a href="/od/science/impact/about.html">About the Science Impact Project</a></li> 
+         <li><a href="/od/science/impact/framework.html">Description of the Framework</a></li> 
+         <li><a href="/od/science/impact/testing.html">How the Framework Was Tested</a></li> 
+         <li><a href="/od/science/impact/use-framework.html">How and When to Use the Framework</a></li> 
+         <li><a href="/od/science/impact/application.html">Application of the Framework</a></li> 
+         <li><a href="/od/science/impact/faq.html">Frequently Asked Questions</a></li> 
+         <li><a href="/od/science/impact/resources.html">Additional Resources</a></li> 
+        </ul> </li> 
+       <li><a href="/od/science/quality/index.htm">Science Quality</a> 
+        <ul> 
+         <li><a href="/od/science/quality/support/index.htm">Science Support</a> 
+          <ul> 
+           <li><a href="/od/science/quality/support/info-qual.htm">Information Quality</a></li> 
+           <li><a href="/od/science/quality/support/peer-review.htm">Peer Review Agenda</a></li> 
+           <li><a href="/od/science/policies/index.htm">Policies</a></li> 
+          </ul> </li> 
+         <li><a href="/od/science/quality/guidelines-and-recommendations/index.htm">Guidelines and Recommendations Activity</a> 
+          <ul> 
+           <li><a href="/od/science/quality/guidelines-and-recommendations/training.htm">Training</a></li> 
+          </ul> </li> 
+         <li><a href="/od/science/quality/pecase/index.htm">Presidential Early Career Award for Scientists and Engineers (PECASE)</a></li> 
+         <li><a href="/od/science/quality/contact.htm">Contact Information</a></li> 
+        </ul> </li> 
+       <li><a href="/od/science/integrity/index.htm">Scientific Integrity</a> 
+        <ul> 
+         <li><a href="/od/science/integrity/acupo/index.htm">Animal Care and Use in CDC Laboratory Research</a></li> 
+         <li><a href="/od/science/integrity/rrpv/index.htm">Rabies Research Protocol Violation</a> 
+          <ul> 
+           <li><a href="/od/science/integrity/rrpv/CDCLeadershipStatement.htm">CDC Leadership Statement</a></li> 
+          </ul> </li> 
+         <li><a href="/od/science/integrity/hrpo/index.htm">Human Participant Protection in CDC Research</a> 
+          <ul> 
+           <li><a href="/od/science/integrity/hrpo/irbs.htm">CDC’s Institutional Review Boards</a></li> 
+           <li><a href="/od/science/integrity/hrpo/training.htm">Scientific Ethics Training</a></li> 
+           <li><a href="/od/science/integrity/hrpo/regAndGuidance.htm">Regulatory and Ethical Codes</a></li> 
+          </ul> </li> 
+         <li><a href="/od/science/integrity/privacyconfidentiality/index.htm">Privacy and Confidentiality</a> 
+          <ul> 
+           <li><a href="/od/science/integrity/privacy/index.htm">Privacy Legislation and Regulations</a></li> 
+           <li><a href="/od/science/integrity/confidentiality/ChangestoCoC.htm">Changes to Certificate of Confidentiality (CoC)</a></li> 
+           <li><a href="/od/science/integrity/confidentiality/applinst.htm">Certificate of Confidentiality for CDC Funded Research</a></li> 
+           <li><a href="/od/science/integrity/confidentiality/guidance.htm">Guidance on Certificates of Confidentiality for CDC Funded Research</a></li> 
+           <li><a href="/od/science/integrity/confidentiality/CoCProtections.htm">Suggested Consent Language Describing the CoC Protections</a></li> 
+           <li><a href="/od/science/integrity/confidentiality/index.htm">Assurances of Confidentiality</a></li> 
+          </ul> </li> 
+         <li><a href="/od/science/integrity/reducepublicburden/index.htm">CDC Paperwork Reduction Act Compliance</a></li> 
+         <li><a href="/od/science/integrity/phethics/index.htm">Public Health Ethics</a> 
+          <ul> 
+           <li><a href="/od/science/integrity/phethics/ethicssubcommittee/index.htm">Ethics Subcommittee of the ACD</a></li> 
+           <li><a href="/od/science/integrity/phethics/ESdocuments.htm">Ethics Subcommittee Documents</a></li> 
+           <li><a href="/od/science/integrity/phethics/resources.htm">Public Health Ethics Resources</a></li> 
+           <li><a href="/od/science/integrity/phethics/trainingmaterials.htm">Public Health Ethics Training Materials</a></li> 
+          </ul> </li> 
+        </ul> </li> 
+       <li><a href="/od/science/technology/index.htm">Technology and Innovation</a> 
+        <ul> 
+         <li><a href="/od/science/technology/innovation/index.htm">Innovation</a> 
+          <ul> 
+           <li><a href="/od/science/technology/innovation/innovationfund.htm">CDC Innovation Fund (iFund)</a> 
+            <ul> 
+             <li><a href="/od/science/technology/innovation/innovationfund/project_spotlight/index.htm">CDC iFund Project Spotlight </a></li> 
+            </ul> </li> 
+           <li><a href="/od/science/technology/innovation/ccs.htm">Open Innovation</a></li> 
+           <li><a href="/od/science/technology/innovation/organization.htm">Staff</a></li> 
+           <li><a href="/od/science/technology/innovation/sbir.htm">Small Business Innovation Research (SBIR) Program</a> 
+            <ul> 
+             <li><a href="/od/science/technology/innovation/sbir/fwa.htm">Report Fraud, Waste and Abuse</a></li> 
+             <li><a href="/od/science/technology/innovation/sbir/successstories/index.htm">Success Stories</a></li> 
+            </ul> </li> 
+           <li><a href="/od/science/technology/innovation/openinnovation.htm">Information Resources</a></li> 
+          </ul> </li> 
+         <li><a href="/od/science/technology/techtransfer/index.htm">Technology Transfer</a> 
+          <ul> 
+           <li><a href="/od/science/technology/techtransfer/aboutus.htm">About Us</a> 
+            <ul> 
+             <li><a href="/od/science/technology/techtransfer/technology-transfer-process.htm">Technology Transfer Process</a></li> 
+             <li><a href="/od/science/technology/techtransfer/organization.htm">Staff</a></li> 
+            </ul> </li> 
+           <li><a href="/od/science/technology/techtransfer/industry/licensing/technologies.htm">Available Technologies for Licensing</a></li> 
+           <li><a href="/od/science/technology/techtransfer/researchers.htm">For CDC Researchers</a> 
+            <ul> 
+             <li><a href="/od/science/technology/techtransfer/researchers/invention-disclosure.htm">Invention Disclosure</a></li> 
+             <li><a href="/od/science/technology/techtransfer/researchers/collaboration-opportunities.htm">Collaboration Opportunities</a></li> 
+             <li><a href="/od/science/technology/techtransfer/researchers/formsagreements/index.htm">Forms and Agreements</a></li> 
+            </ul> </li> 
+           <li><a href="/od/science/technology/techtransfer/industry/index.htm">For Industry</a> 
+            <ul> 
+             <li><a href="/od/science/technology/techtransfer/industry/collaborations/index.htm">Collaborating with CDC</a></li> 
+             <li><a href="/od/science/technology/techtransfer/industry/licensing/index.htm">Licensing CDC Technologies</a></li> 
+             <li><a href="/od/science/technology/techtransfer/industry/licensing/technologies.htm">Available Technologies for Licensing</a></li> 
+             <li><a href="/od/science/technology/techtransfer/industry/formsagreements/index.htm">Forms and Agreements</a></li> 
+            </ul> </li> 
+           <li><a href="/od/science/technology/techtransfer/faq.htm">Frequently Asked Questions</a></li> 
+           <li><a href="/od/science/technology/techtransfer/successstories/index.htm">Success Stories</a> 
+            <ul> 
+             <li><a href="/od/science/technology/techtransfer/successstories/licensingagreements.htm">Top Grossing Licenses</a></li> 
+             <li><a href="/od/science/technology/techtransfer/successstories/commercialsales.htm">Top Grossing Commercial Sales</a></li> 
+            </ul> </li> 
+          </ul> </li> 
+         <li><a href="/od/science/technology/resources.htm">Resources</a></li> 
+         <li><a href="/od/science/technology/contacts.html">Contact Us</a></li> 
+        </ul> </li> 
+       <li><a href="/cdcgrandrounds/index.htm">Grand Rounds</a></li> 
+       <li><a href="/od/science/wewerethere/index.html">We Were There</a> 
+        <ul> 
+         <li><a href="/od/science/wewerethere/hiv/index.html">HIV/AIDS</a> 
+          <ul> 
+           <li><a href="/od/science/wewerethere/hiv/bios.html">Biographies</a></li> 
+          </ul> </li> 
+         <li><a href="/od/science/wewerethere/legionnaires/index.html">Legionnaires’</a> 
+          <ul> 
+           <li><a href="/od/science/wewerethere/legionnaires/bios.html">Biographies</a></li> 
+          </ul> </li> 
+         <li><a href="/od/science/wewerethere/folicacid/index.html">Folic Acid</a> 
+          <ul> 
+           <li><a href="/od/science/wewerethere/folicacid/bios.html">Biographies</a></li> 
+          </ul> </li> 
+         <li><a href="/od/science/wewerethere/polio/index.html">Polio</a> 
+          <ul> 
+           <li><a href="/od/science/wewerethere/polio/bios.html">Biographies</a></li> 
+          </ul> </li> 
+         <li><a href="/od/science/wewerethere/ecoli/index.html"><em>E. coli</em>&nbsp;&nbsp;O157</a> 
+          <ul> 
+           <li><a href="/od/science/wewerethere/ecoli/biographies-ecoli.htm">Biographies</a></li> 
+          </ul> </li> 
+         <li><a href="/od/science/wewerethere/toxicshock/index.html">Toxic Shock</a> 
+          <ul> 
+           <li><a href="/od/science/wewerethere/toxicshock/biographies-toxicshock.htm">Biographies</a></li> 
+          </ul> </li> 
+         <li><a href="/od/science/wewerethere/pvc/index.html">Polyvinyl chloride</a> 
+          <ul> 
+           <li><a href="/od/science/wewerethere/pvc/biographies-angiosarcoma.htm">Biographies</a></li> 
+          </ul> </li> 
+         <li><a href="/od/science/wewerethere/hantavirus/index.html">Hantavirus</a> 
+          <ul> 
+           <li><a href="/od/science/wewerethere/hantavirus/biographies-hantavirus.htm">Biographies</a></li> 
+          </ul> </li> 
+         <li><a href="/od/science/wewerethere/diacetyl/index.html">Popcorn Lung Disease</a> 
+          <ul> 
+           <li><a href="/od/science/wewerethere/diacetyl/biographies-diacetyl.htm">Biographies</a></li> 
+          </ul> </li> 
+         <li><a href="/od/science/wewerethere/about/about.html">About We Were There</a> 
+          <ul> 
+           <li><a href="/od/science/wewerethere/about/opening.html">Opening Video Background</a></li> 
+          </ul> </li> 
+         <li><a href="/od/science/wewerethere/blog.html">We Were There Blog</a></li> 
+        </ul> </li> 
+      </ul> 
+     </nav> 
+     <div class="row"> 
+      <div class="span24 visible-one"> 
+      </div> 
+     </div> 
+     <div class="row"> 
+      <div class="span24"> 
+       <div id="plugin-legend" class="pluginOff"> 
+        <h5>File Formats Help:</h5>
+        <span><a href="https://www.cdc.gov/Other/plugins/">How do I view different file formats (PDF, DOC, PPT, MPEG) on this site?</a></span> 
+        <ul> 
+         <li class="plugin-pdf"><a href="https://www.cdc.gov/Other/plugins/#pdf"><span class="sprite-16-pdf">Adobe PDF file</span></a></li> 
+         <li class="plugin-ppt"><a href="https://www.cdc.gov/Other/plugins/#ppt"><span class="sprite-16-ppt">Microsoft PowerPoint file</span></a></li> 
+         <li class="plugin-word"><a href="https://www.cdc.gov/Other/plugins/#doc"><span class="sprite-16-word">Microsoft Word file</span></a></li> 
+         <li class="plugin-excel"><a href="https://www.cdc.gov/Other/plugins/#xls"><span class="sprite-16-excel">Microsoft Excel file</span></a></li> 
+         <li class="plugin-wmv"><a href="https://www.cdc.gov/Other/plugins/#wmv"><span class="sprite-16-wmv">Audio/Video file</span></a></li> 
+         <li class="plugin-qt"><a href="https://www.cdc.gov/Other/plugins/#qt"><span class="sprite-16-qt">Apple Quicktime file</span></a></li> 
+         <li class="plugin-real"><a href="https://www.cdc.gov/Other/plugins/#ram"><span class="sprite-16-rp">RealPlayer file</span></a></li> 
+         <li class="plugin-text"><a href="https://www.cdc.gov/Other/plugins/#text"><span class="sprite-16-txt">Text file</span></a></li> 
+         <li class="plugin-zip"><a href="https://www.cdc.gov/Other/plugins/#zip"><span class="sprite-16-zip">Zip Archive file</span></a></li> 
+         <li class="plugin-sas"><a href="https://www.cdc.gov/Other/plugins/#sas"><span class="sprite-16-sas">SAS file</span></a></li> 
+         <li class="plugin-epub"><a href="https://www.cdc.gov/Other/plugins/#epub"><span class="sprite-16-ebook">ePub file</span></a></li> 
+         <li class="plugin-ris"><a href="https://www.cdc.gov/Other/plugins/#ris"><span class="sprite-16-ris">RIS file</span></a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <!-- date stamp --> 
+     <div id="datestamp" class="row" itemscope itemtype="http://schema.org/WebPage"> 
+      <div class="span24"> 
+       <ul> 
+        <li class="last-reviewed">Page last reviewed: <span itemprop="lastReviewed">July 6, 2018</span></li> 
+        <li class="last-updated">Page last updated: <span itemprop="dateModified">July 6, 2018</span></li> 
+        <li class="content-source">Content source: 
+         <ul class="noindent"> 
+          <li class="" itemprop="sourceOrganization" itemscope itemtype="http://schema.org/Organization">Office of the Associate Director for Science</li> 
+         </ul> </li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div>
+    <!-- /end #content --> 
+   </div>
+   <!-- / end .container --> 
+   <!-- footer --> 
+   <footer id="footer" class="cdcSlimFooter"> 
+    <!-- include eng footerSubSocialMedia.html --> 
+    <div class="socialMedia"> 
+     <div class="container"> 
+      <nav class="followcdc"> 
+       <ul> 
+        <li><a href="https://www.cdc.gov/Other/emailupdates"><span class="sprite-24-govd"></span><span class="tp-sr-only">Email</span></a></li> 
+        <li><a href="https://www.facebook.com/CDC" target="_blank"><span class="sprite-24-facebook"></span><span class="tp-sr-only">Recommend</span></a></li> 
+        <li><a href="https://twitter.com/CDCgov" target="_blank"><span class="sprite-24-twitter"></span><span class="tp-sr-only">Tweet</span></a></li> 
+        <li><a href="https://www.youtube.com/user/CDCstreamingHealth" target="_blank"><span class="sprite-24-youtube"></span><span class="tp-sr-only">YouTube</span></a></li> 
+        <li><a href="https://www.instagram.com/CDCgov/" target="_blank"><span class="sprite-24-instagram"></span><span class="tp-sr-only">Instagram</span></a></li> 
+       </ul> 
+      </nav> 
+      <nav class="cdcmedia"> 
+       <ul> 
+        <li><a href="https://www2c.cdc.gov/podcasts"><span class="sprite-24-listen"></span><span class="tp-sr-only">Listen</span></a></li> 
+        <li><a href="https://www.cdc.gov/cdctv"><span class="sprite-24-watch"></span><span class="tp-sr-only">Watch</span></a></li> 
+        <li><a href="https://tools.cdc.gov/podcasts/rss.asp"><span class="sprite-24-rss"></span><span class="tp-sr-only">RSS</span></a></li> 
+       </ul> 
+      </nav> 
+     </div> 
+    </div> 
+    <!-- /include eng footerSubSocialMedia.html --> 
+    <div class="container"> 
+     <div class="cdcLinks"> 
+      <div class="container"> 
+       <ul> 
+        <!-- include eng footerSubCdcLinks.html--> 
+        <li> 
+         <nav> 
+          <h6 class="hidden-four hidden-three">ABOUT <span class="icon-plus visible-one pull-right"></span></h6> 
+          <ul class="hidden-one"> 
+           <li><a href="https://www.cdc.gov/about/default.htm">About CDC</a></li> 
+           <li><a href="https://jobs.cdc.gov">Jobs</a></li> 
+           <li><a href="https://www.cdc.gov/funding">Funding</a></li> 
+          </ul> 
+         </nav> </li> 
+        <li> 
+         <nav> 
+          <h6 class="hidden-four hidden-three">LEGAL <span class="icon-plus visible-one pull-right"></span></h6> 
+          <ul class="hidden-one"> 
+           <li><a href="https://www.cdc.gov/Other/policies.html">Policies</a></li> 
+           <li><a href="https://www.cdc.gov/Other/privacy.html">Privacy</a></li> 
+           <li><a href="https://www.cdc.gov/od/foia">FOIA</a></li> 
+           <li><a href="https://www.cdc.gov/eeo/nofearact/index.htm">No Fear Act</a></li> 
+           <li><a href="https://oig.hhs.gov" class="no-link">OIG</a></li> 
+          </ul> 
+         </nav> </li> 
+        <!--/ include eng footerSubCdcLinks.html--> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="cdcContact"> 
+      <div class="container"> 
+       <ul> 
+        <li class="local-contact"> 
+         <!-- include eng footerSubGlobalContact1.html --> 
+         <section> 
+          <address class="address" itemscope itemtype="https://schema.org/Organization"> <span class="value" itemprop="address" itemscope itemtype="https://schema.org/PostalAddress"> <span itemprop="streetAddress">1600 Clifton Road</span> <span itemprop="addressLocality">Atlanta</span>, <span itemprop="addressRegion">GA</span> <span itemprop="postalCode">30329-4027</span> <span itemprop="addressCountry">USA</span> </span><br> <span class="value" itemprop="telephone">800-CDC-INFO (800-232-4636)</span>, <span class="value" itemprop="telephone">TTY: 888-232-6348</span><br> <span class="value" itemprop="contactPoint" itemscope itemtype="https://schema.org/ContactPoint"> <span itemprop="url"><a href="https://wwwn.cdc.gov/dcs/RequestForm.aspx" class=" default no-link">Email CDC-INFO</a></span> </span> </address> 
+         </section> 
+         <!-- /include eng footerSubGlobalContact1.html --> </li> 
+        <li class="contact"> 
+         <!-- include eng footerSubGlobalContact2.html --> 
+         <section> 
+          <address class="address" itemscope itemtype="https://schema.org/Organization"> <span class="value" itemprop="contactPoint" itemscope itemtype="https://schema.org/ContactPoint"> <span itemprop="url"><a href="https://www.hhs.gov" class="no-link">U.S. Department of Health &amp; Human Services</a></span> </span><br> <span class="value" itemprop="contactPoint" itemscope itemtype="https://schema.org/ContactPoint"> <span itemprop="url"><a href="https://www.hhs.gov/open" class="no-link">HHS/Open</a></span> </span><br> <span class="value" itemprop="contactPoint" itemscope itemtype="https://schema.org/ContactPoint"> <span itemprop="url"><a href="https://www.usa.gov/" class="no-link">USA.gov</a></span> </span> </address> 
+         </section> 
+         <!-- /include eng footerSubGlobalContact2.html --> </li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+   </footer> 
+   <!-- /#footer --> 
+   <div id="totop" class="off visible-one">
+    TOP
+   </div> 
+  </div> 
+  <script>page_timing.libs_start = Date.now();</script>
+  <script src="/TemplatePackage/3.0/js/libs.min.js?3.2.3.8"></script>
+  <script>page_timing.libs_end = Date.now();page_timing.core_start = Date.now();</script>
+  <script src="/TemplatePackage/3.0/js/core.min.js?3.2.3.8"></script>
+  <script>page_timing.core_end = Date.now();</script> 
+  <script>
+CDC.Global.settings.includeCDCInBreadCrumbBar=false;
+CDC.Global.settings.enableExternalLinks=true;
+CDC.Global.settings.enableFileIcons=true;
+</script> 
+  <script>page_timing.app_start = Date.now();</script>
+  <script src="/TemplatePackage/3.0/js/app.min.js?3.2.3.8"></script>
+  <script>page_timing.app_end = Date.now();</script> 
+  <!-- start wcmsrd-1929 --> 
+  <script src="/TemplatePackage/3.0/js/modules/dynamic/flexslider.js"></script> 
+  <script src="/TemplatePackage/3.0/js/libs/jquery.flexslider2.js"></script> 
+  <!-- end wcmsrd-1929 --> 
+  <!-- Begin Survey scripts --> 
+  <script src="/JScript/foresee/foresee-trigger.js"></script> 
+  <!-- End Survey scripts --> 
+  <script>if (typeof page_timing !== 'undefined') { page_timing.metrics_start = Date.now(); }</script> 
+  <!-- xxxxxxxxxxxxxxxxxx METRICS code begins here xxxxxxxxxxxxxxxxxxxxxxxxxxx--> 
+  <div id="metrics"> 
+   <!-- Begin Google DAP inclusion --> 
+   <script id="_fed_an_ua_tag" src="/JScript/metrics/google/Universal-Federated-Analytics-Min.js?agency=HHS&amp;subagency=CDC"></script> 
+   <!-- End Google DAP inclusion --> 
+   <!-- Begin Template Package Custom Interactions and Metrics Hierarchy/Levels Support --> 
+   <script src="/TemplatePackage/contrib/libs/cdc/metrics/rd_custom_interactions.js"></script> 
+   <script src="/TemplatePackage/contrib/libs/cdc/metrics/topic_levels.js"></script> 
+   <!-- End Template Package Custom Interactions and Metrics Hierarchy/Levels Support --> 
+   <!-- Adbobe Analytics code version: JS-2.0 --> 
+   <script src="/JScript/metrics/adobe/analytics_cdcgov.js"></script> 
+   <script>
+
+	if ('undefined' !== typeof enquire) {
+		enquire.register(CDC.Global.selectors.vp1, function() {
+			s.prop49 = 1;
+		});
+		enquire.register(CDC.Global.selectors.vp2, function() {
+			s.prop49 = 2;
+		});
+		enquire.register(CDC.Global.selectors.vp3, function() {
+			s.prop49 = 3;
+		});
+		enquire.register(CDC.Global.selectors.vp4, function() {
+			s.prop49 = 4;
+		});
+	}
+
+	 
+    s.pageName=document.title;
+    s.channel="OADS";
+     
+    
+    
+	
+	
+	s.prop2=window.location.href.toLowerCase();
+s.prop26=document.title;
+s.prop30=document.title;
+s.prop31=window.location.href.toLowerCase();
+s.prop46=window.location.href.toLowerCase();
+s.server=window.location.hostname;
+
+// Simplified URL
+s.prop73 = window.location.href.split('?')[0].split('#')[0].toLowerCase();
+s.eVar73 = window.location.href.split('?')[0].split('#')[0].toLowerCase();
+
+// Update the level variables here.
+updateVariables(s);
+
+// Set the referrer value if passed on the querystring from a CDC page-level redirect.
+if ('undefined' !== typeof CDC && 'undefined' !== typeof CDC.qs && CDC.qs['CDC_AA_refVal']) {
+  s.referrer = CDC.qs['CDC_AA_refVal'];
+}
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();
+if(s_code) {document.write(s_code);}
+</script> 
+   <script type="text/javascript">
+if(navigator.appVersion.indexOf('MSIE')>=0) { document.write(unescape('%3C')+'\!-'+'-'); }
+</script> 
+   <noscript>
+    <a href="https://cdc.112.2o7.net"><img src="https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0" height="1" width="1" alt="Web Analytics"></a>
+   </noscript>
+   <!--/DO NOT REMOVE/--> 
+   <!-- End SiteCatalyst code version: H.21. --> 
+   <!-- Begin Template Package DigitalGov Search Support --> 
+   <script type="text/javascript" src="/TemplatePackage/3.0/js/cdc/oadc/rd_search.js"></script> 
+   <!-- End Template Package DigitalGov Search Support --> 
+  </div> 
+  <!-- xxxxxxxxxxxxxxxxxx METRICS code ends here xxxxxxxxxxxxxxxxxxxxxxxxxxx--> 
+  <script>if (typeof page_timing !== 'undefined') { page_timing.metrics_end = Date.now(); }</script> 
+  <script>$(document).ready(function(){var cdcLeftNav = new CDC.LeftNav('nav-primary');
+cdcLeftNav.render();
+});</script>   
+ </body>
+</html>

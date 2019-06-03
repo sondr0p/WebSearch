@@ -1,0 +1,563 @@
+<!doctype html>
+<html lang="en" dir="ltr" prefix="fb: //www.facebook.com/2008/fbml">
+ <head> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <!-- Google Tag Manager --> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-WLMC86');</script> 
+  <!-- End Google Tag Manager --> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <link rel="shortcut icon" href="https://www.archives.gov/files/apple-icon.png" type="image/png"> 
+  <meta name="description" content="What is in the National Archives Catalog?"> 
+  <meta name="generator" content="Drupal 7 (http://drupal.org)"> 
+  <link rel="canonical" href="https://www.archives.gov/research/genealogy/catalog-guide"> 
+  <meta property="og:site_name" content="National Archives"> 
+  <meta property="og:type" content="article"> 
+  <meta property="og:url" content="https://www.archives.gov/research/genealogy/catalog-guide"> 
+  <meta property="og:title" content="National Archives Catalog Guide for Genealogists and Family Historians"> 
+  <meta property="og:description" content="What is in the National Archives Catalog?"> 
+  <meta property="og:updated_time" content="2018-07-27T08:50:00-04:00"> 
+  <meta name="twitter:card" content="summary"> 
+  <meta name="twitter:url" content="https://www.archives.gov/research/genealogy/catalog-guide"> 
+  <meta name="twitter:title" content="National Archives Catalog Guide for Genealogists and Family Historians"> 
+  <meta name="twitter:description" content="What is in the National Archives Catalog?"> 
+  <meta property="article:published_time" content="2016-08-15T17:27:53-04:00"> 
+  <meta property="article:modified_time" content="2018-07-27T08:50:00-04:00"> 
+  <title>National Archives Catalog Guide for Genealogists and Family Historians | National Archives</title> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_9Q-k-fv_k3FHvcs9CSZ2iD5CTqFxrfaej2FCw2mYIoA.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_BTbypzlNYVbptuza8qzKwXCnB4TjuEzUY43Cz2FsXVA.css" media="all"> 
+  <style>.section-theme #title-bar{background:#29393b url("https://www.archives.gov/files/global-images/section-headers/genealogy1.png") no-repeat center right;}.section-theme #mega-footer > h2{background:#29393b}.section-theme #title-bar .breadcrumb{background-color:#425E62;}.section-theme th{background-color:#29393b !important;}
+</style> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_NkrvYXS3XFN6HNXLylk-Jr8h6vd7bMQSZUSOsRKtvhE.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://www.archives.gov/files/css/css_adYIwY5AiFQ05gx1uTxNpkKu9JMeTmi7MedA-D3wWww.css" media="all"> 
+  <!-- HTML5 element support for IE6-8 --> 
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]--> 
+  <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic|Merriweather"> 
+  <script src="https://www.archives.gov/files/js/js_0RyHJ63yYLuaWsodCPCgSD8dcTIA0dqcDf8-7c2XdBw.js"></script> 
+  <script src="https://www.archives.gov/files/js/js_0pQJ_xts95IaRyXneDD9tPnYjBy63RQPzNHeLe2LDCg.js"></script> 
+  <script src="https://www.archives.gov/files/js/js_4DGuaDZ5Ckd4u9axaS2f90X-RYp7QlC5RWbsjSLu2-8.js"></script> 
+  <script src="https://www.archives.gov/files/js/js_KyGDO1Fxjv5b9iLtei_bvtKprP3C83MXZ8wgYXbj8bA.js"></script> 
+  <script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"nara","theme_token":"MBmnQuhxp3aqbr_N3XWhUuxXqkhEMvDCPb4K0A5A9xg","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/custom\/archives_ui\/scripts\/helptext.js":1,"sites\/all\/modules\/custom\/argentina\/js\/script.js":1,"sites\/all\/modules\/custom\/nara_catalog\/js\/script.js":1,"sites\/all\/modules\/contrib\/user_alert\/js\/user-alert.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/custom\/nara_custom\/js\/nara_custom.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/affix.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/alert.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/button.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/carousel.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/collapse.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/dropdown.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/modal.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/tooltip.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/popover.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/scrollspy.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/tab.js":1,"sites\/all\/themes\/nara\/assets\/javascripts\/bootstrap\/transition.js":1,"sites\/all\/themes\/nara\/scripts\/jPanelMenu.js":1,"sites\/all\/themes\/nara\/scripts\/jRespond.js":1,"sites\/all\/themes\/nara\/scripts\/matchHeight.min.js":1,"sites\/all\/themes\/nara\/scripts\/jquery.fancybox.pack.js":1,"sites\/all\/themes\/nara\/scripts\/toc.js":1,"sites\/all\/themes\/nara\/scripts\/scripts.js":1,"sites\/all\/themes\/nara\/scripts\/jquery.scrollTo.js":1,"sites\/all\/themes\/nara\/scripts\/mediagallery.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/custom\/archives_ui\/css\/font-awesome.min.css":1,"sites\/all\/modules\/custom\/archives_ui\/css\/helptext.css":1,"sites\/all\/modules\/custom\/archives_ui\/css\/ckeditor_custom.css":1,"sites\/all\/modules\/custom\/argentina\/css\/argentina_style.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/custom\/liaisons\/css\/liaisons_style.css":1,"sites\/all\/modules\/custom\/nara_catalog\/css\/nara-api-style.css":1,"sites\/all\/modules\/archive_features\/nara_timeline\/css\/custom.css":1,"sites\/all\/modules\/archive_features\/nara_timeline\/css\/timeline.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/user_alert\/css\/user-alert.css":1,"sites\/all\/modules\/custom\/varnish_purge\/css\/varnishpurge.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"0":1,"sites\/all\/modules\/custom\/nara_custom\/css\/nara_custom.css":1,"sites\/all\/themes\/nara\/css\/jquery.fancybox.css":1,"sites\/all\/themes\/nara\/css\/jquery.fancybox-thumbs.css":1,"sites\/all\/themes\/nara\/css\/do_not_edit.css":1,"sites\/all\/themes\/nara\/css\/bootstrap.min.css":1,"sites\/all\/themes\/nara\/css\/styles.css":1,"sites\/all\/themes\/nara\/css\/vertical-tabs.css":1,"sites\/all\/themes\/nara\/css\/overrides.css":1,"sites\/all\/themes\/nara\/css\/mediagallery.css":1}},"archives_ui":{"trustedDomains":["twitter\\.com","youtube\\.com","youtu\\.be","recordsofrights\\.org","presidentialtimeline\\.org","nationalarchivesstore\\.org","bush41\\.org","nara\\.learn\\.com","bush41\\.org","bushlibrary\\.tamu\\.edu","fdrlibrary\\.marist\\.edu","georgewbushlibrary\\.smu\\.edu","lbjlibrary\\.org","trumanlibrary\\.org","fdrlibrary\\.org","archivesfoundation\\.org","jfklibrary\\.org","Myarchivesstore\\.org","docsteach\\.org","digitalvaults\\.org","jfk50\\.org","reagan\\.utexas\\.edu","clinton\\.presidentiallibraries\\.us","fdrlibrary\\.org","us11\\.campaign-archive.?\\.com","lbjlibrary\\.net","github\\.io","github\\.com","eventbrite\\.com","facebook\\.com","pinterest\\.com","tumblr\\.com","google\\.com","historypin\\.org","giphy\\.com","instagram\\.com","flickr\\.com","foursquare\\.com","addthis\\.com","apple\\.com","georgebushfoundation\\.org","clintonpresidentialcenter\\.org","geraldrfordfoundation\\.org","reaganfoundation\\.org","rooseveltinstitute\\.org","socialarchive\\.iath\\.virginia.edu","s3\\.amazonaws\\.com","surveymonkey\\.com","storify\\.com","constantcontact\\.com","snaccooperative\\.org"]},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"user_alert":{"url_prefix":"","current_path":"research\/genealogy\/catalog-guide"},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script> 
+  <style type="text/css">
+div.form-item-body-und-0-format {
+	display:none;
+}
+div.form-item-field-col-b-und-0-format {
+	display:none;
+}
+div.filter-guidelines {
+	display:none;
+}
+div.filter-help {
+	display:none;
+}
+</style> 
+  <style type="text/css">
+ul.nav-tabs {
+display:none;
+}
+#block-workbench-block {
+display:none;
+}
+</style> 
+ </head> 
+ <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-55415 node-type-3-col-page "> 
+  <!-- Google Tag Manager (noscript) --> 
+  <noscript>
+   <iframe alt="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-WLMC86" height="0" width="0" style="display:none;visibility:hidden" title="Google Tag Manager"></iframe>
+  </noscript> 
+  <!-- End Google Tag Manager (noscript) --> 
+  <div id="background-gradient"> 
+   <div class="wrapper section-theme "> 
+    <a class="back-to-top" href="#page-header" style="display: none;">Top</a> 
+    <div id="skip-link"> 
+     <a href="#main-col" class="element-invisible element-focusable">Skip to main content</a> 
+    </div> 
+    <div class="wrapper section-theme"> 
+     <header id="page-header"> 
+      <div class="region region-header"> 
+       <section id="block-block-53" class="block block-block clearfix"> 
+        <div class="col-sm-6" id="logo-wrapper"> 
+         <div id="logo">
+          <a href="/">The U.S. National Archives Home</a>
+         </div> 
+         <button id="nav-toggle" class="navbar-toggle" type="button"></button> 
+        </div> 
+        <div class="col-sm-6" id="search-wrapper"> 
+         <div id="top-links"> 
+          <a class="noBorder" href="/social-media/blogs.html">Blogs</a> · 
+          <script type="text/javascript">// <![CDATA[
+        var addthis_pub = "usarchives";
+        var addthis_offset_left = -40;
+        var addthis_brand = "Archives.gov";
+        // ]]></script> 
+          <a class="addthisLink" onclick="return addthis_sendto();" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]');" onmouseout="addthis_close();" onfocus="return addthis_open(this, '', '[URL]', '[TITLE]');" onblur="addthis_close();" href="https://www.addthis.com/bookmark.php?v=250">Bookmark/Share</a> · 
+          <script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js"></script> 
+          <a href="/contact">Contact Us</a> 
+         </div> 
+         <div class="input-group" id="site-search"> 
+          <form action="https://search.archives.gov/search" method="get" name="search"> 
+           <input class="form-control" id="qt" accesskey="s" type="text" name="query" placeholder="Search Archives.gov" title="Search Archives.gov"> 
+           <span class="input-group-btn"> <button class="btn btn-default" id="go" type="submit" name="submit">Search</button> </span> 
+           <input type="hidden" value="" name="utf8"> 
+           <input id="affiliate" type="hidden" value="national-archives" name="affiliate"> 
+          </form> 
+         </div> 
+        </div> 
+       </section> 
+      </div> 
+     </header> 
+     <!-- /#page-header --> 
+     <nav id="main-nav" class="clearfix "> 
+      <h2 class="element-invisible">Main menu</h2>
+      <ul id="main-menu-links" class="links clearfix make-eq">
+       <li class="menu-859 first research"><a href="/research" title="Explore our nation's history through our documents, photographs, and records." id="research">Research Our Records</a></li> 
+       <li class="menu-860 veterans"><a href="/veterans" title="Request military records and learn about other services for yourself or a family member." id="veterans" class="veterans">Veterans' Service Records</a></li> 
+       <li class="menu-861 teachers"><a href="/education" title="Engage students with lesson plans and other classroom materials." id="teachers" class="teachers">Educator Resources</a></li> 
+       <li class="menu-862 locations"><a href="/locations" title="Plan a trip to a facility near you or learn about our national network of locations and services." id="locations" class="locations">Visit Us</a></li> 
+       <li class="menu-367 last shop"><a href="/founding-docs" title="Order books, gift items, photographic prints, and document reproductions online." id="shop" class="shop">America's Founding Documents</a></li> 
+      </ul> 
+     </nav>
+     <!-- /main-nav --> 
+     <div class="page-body-wrapper"> 
+      <div id="page-body" class="no-sidebar"> 
+       <header id="title-bar"> 
+        <p>Resources for Genealogists</p> 
+        <div class="breadcrumb"> 
+         <a href="/">Home</a> &gt; 
+         <a href="/research">Research Our Records</a> &gt; 
+         <a href="/research/genealogy">Resources for Genealogists</a> &gt; National Archives Catalog Guide for Genealogists and Family Historians 
+        </div>
+        <!-- /breadcrumbs --> 
+       </header> 
+       <div class="row"> 
+        <nav class="col-sm-2"> 
+         <aside id="sidebar-first"> 
+          <nav id="left-menu" class=""> 
+           <h3>Getting Started</h3> 
+           <ul> 
+            <li><a href="/research/genealogy/start-research/">Start Your Genealogy Research</a></li> 
+            <li> <a class="pptImage" href="/files/research/genealogy/start-research/beginning-research.ppt">Genealogy Tutorial</a> (Powerpoint)</li> 
+            <li><a href="/research/genealogy/topics.html">Genealogy Research Topics</a></li> 
+            <li><a href="/research/genealogy/charts-forms/">Charts and Forms</a></li> 
+           </ul> 
+           <h3>Genealogy Guides</h3> 
+           <ul> 
+            <li><a href="/research/genealogy/start-research/nara-resources.html">Genealogy Resources</a></li> 
+            <li><a href="/research/genealogy/reference-reports.html">Reference Reports</a></li> 
+            <li><a href="/research/military/genealogy.html">Genealogy Research Using Military Records</a></li> 
+            <li><a href="/preservation/family-archives/">Preserving Family Records</a></li> 
+           </ul> 
+           <h3>Tools for Genealogists</h3> 
+           <ul> 
+            <li><a href="/research/start/online-tools.html">Online Research Tools</a></li> 
+            <li><a href="/research/genealogy/start-research/links.html">Other Websites</a></li> 
+            <li><a href="/research/genealogy/online-catalog-guide.html">National Archives Catalog Guide for Genealogists</a></li> 
+            <li><a href="https://historyhub.history.gov/community/genealogy?utm_campaign=archivesgovlinks&amp;utm_source=genealogymenu&amp;utm_medium=website">Ask Genealogy Questions on History Hub</a></li> 
+           </ul> 
+           <h3>More Ways to Learn</h3> 
+           <ul> 
+            <li><a href="/research/genealogy/events/">Genealogy Workshops</a></li> 
+            <li><a href="/research/genealogy/start-research/faqs.html">Genealogy FAQs</a></li> 
+           </ul> 
+           <div class="nwidget nsnippet" data-name="print-page-left" data-version="1"> 
+            <div>
+             <a class="buttonLink surveillance-camera" href="/research/start/researcher-card.html#orientation"><span>Orientation for on-site Researchers</span></a>
+            </div> 
+            <h3>Free at National Archives Facilities</h3> 
+            <ul> 
+             <li><a href="http://www.ancestryinstitution.com">Ancestry</a></li> 
+             <li><a href="http://www.fold3.com/nara.php">Fold3</a></li> 
+             <li><a href="/research/databases/">More Online Databases</a></li> 
+            </ul> 
+           </div> 
+          </nav> 
+         </aside> 
+         <!-- /#sidebar-first --> 
+        </nav> 
+        <div id="main-col" class="col-sm-10"> 
+         <p id="print-logo"> <img src="/sites/all/themes/nara/images/nara-print-logo.jpg" alt="National Archives Logo"> </p> 
+         <div class="region region-content"> 
+          <section id="block-system-main" class="block block-system clearfix"> 
+           <h1>National Archives Catalog Guide for Genealogists and Family Historians</h1> 
+           <h2><a href="https://catalog.archives.gov/id/595669"><img alt="Photograph of a Group of Immigrants Outside a Building on Ellis Island" class="nwidget nimage width100" data-additional-classes="" data-alignment="" data-frame="" data-image_width="100" src="/files/citizen-archivist/images/595669.jpg"></a></h2> 
+           <h2>What is in the National Archives Catalog?</h2> 
+           <div class="floatRight width46"> 
+            <div class="nwidget layout block title-box clearfix " data-additional-classes="" data-title="The National Archives Catalog vs. Online Genealogy Databases"> 
+             <h2>The National Archives Catalog vs. Online Genealogy Databases</h2> 
+             <ul> 
+              <li><a name="vs"></a>The Catalog is keyword searchable like many genealogy databases.</li> 
+              <li>You can narrow searches with filters.</li> 
+              <li>The Catalog allows you to search for records in all NARA facilities – not just selected databases.</li> 
+              <li>The current focus is on breadth of NARA's holdings (at the series level) and not individual records.</li> 
+              <li>Most Catalog descriptions do not include individual names.</li> 
+             </ul> 
+            </div> 
+           </div> 
+           <p>The National Archives holds historical U.S. government documents (federal, congressional, and presidential records) that are created or received by the President and his staff, by Congress, by employees of Federal government agencies, and by the Federal courts in the course of their official duties.</p> 
+           <p>The <a href="https://catalog.archives.gov/">National Archives Catalog</a> contains descriptions for NARA's nationwide holdings in the Washington, DC area; regional facilities; and Presidential Libraries. The Catalog is a work in progress and currently contains descriptions for 95% of our records, described at the series level. This means you can find basic information about the records, including size and location, from the description. Additionally, every week we are adding more file unit and item descriptions, many of which include digital files.</p> 
+           <p>Typically descriptions in the Catalog do not include individuals' names; however, the National Archives still might have records about your ancestors. &nbsp;It may be necessary to closely read records of interest to see if a particular individual is mentioned.</p> 
+           <p>The Catalog contains many descriptions of records that are of &nbsp;interest to genealogists and family historians, including:</p> 
+           <ul> 
+            <li>Applications for enrollment in Native American tribes</li> 
+            <li>Court records</li> 
+            <li>Fugitive slave cases</li> 
+            <li>Land records</li> 
+            <li>Military personnel records</li> 
+            <li>Naturalization records</li> 
+            <li>Federal employees</li> 
+           </ul> 
+           <h2><a name="part2"></a>How Do I Search in the National Archives Catalog?</h2> 
+           <p>The Catalog contains descriptions of records held by the National Archives. Researchers can conduct keyword searches and filtered searched in the Catalog.</p> 
+           <p>To perform a simple keyword search:</p> 
+           <ol> 
+            <li>Go to <a href="https://catalog.archives.gov/">https://catalog.archives.gov</a></li> 
+            <li>Enter some keywords of your choice in the search box in the center of the page. If you are looking for an exact phrase using two or more words, put them in quotation marks example: “bounty land”</li> 
+            <li>Press the magnifying glass button to run your search.</li> 
+            <li>When hits are returned for your search, the results will be returned starting with best results at the top. &nbsp;Use the filters on the left side to narrow down your results. 
+             <ul> 
+              <li>Tips for Using Filters 
+               <ul> 
+                <li>Are you looking only for a photograph? Select Photographs and Other Graphic Materials</li> 
+                <li>Many of our descriptions do not include digital images of the records, click on the filter Archival Descriptions with Digital Objects to see only descriptions with images attached</li> 
+               </ul> </li> 
+             </ul> </li> 
+            <li>To view a description, click on the blue title. &nbsp;View our video <a href="https://youtu.be/RekMxGh9irc">Anatomy of a Description</a> to learn about the features of a description.&nbsp;</li> 
+           </ol> 
+           <p>&nbsp;</p> 
+           <p><iframe allowfullscreen frameborder="0" height="360" src="//www.youtube.com/embed/RekMxGh9irc" width="640"></iframe></p> 
+           <p><a name="individuals"></a></p> 
+           <h3>Tips for Searching for an Individual's Name</h3> 
+           <p><em>There isn't a specific field for names in the Catalog; as a result you many need to try several different searches using different strategies when searching for a name.</em></p> 
+           <ul> 
+            <li>Search on the person's full name in first name-last name order.</li> 
+            <li>Search on the surname only. The records might only include a first initial or a variant spelling of the first name.</li> 
+            <li>Search on variant spellings of the surname using OR, for example: Luchetti OR Lucetti.</li> 
+            <li>Search on variant spellings of the first name, including "Americanized" versions, for example: Joseph Maggio OR Guiseppe Maggio.</li> 
+            <li>Keep in mind that most descriptions in the National Archives Catalog do not contain include the names of individuals in that record. However, the National Archives still might have records about your ancestors. If you know an individual participated in event, search for that search term and look within the records for your ancestor.</li> 
+           </ul> 
+           <p><a name="topics"></a></p> 
+           <div class="nwidget nimage_caption img-wrap width30 pull-right" data-additional-classes="" data-alignment="pull-right" data-alt-tag="Naturalization Record for Morres Dick" data-caption-body="Naturalization Record for Morres Dick, National Archives Identifier 7551610" data-caption-title="" data-downloadable-version="" data-image="/files/citizen-archivist/images/7551610.jpg" data-image_width="30" data-opa-record="" data-pdf-version="" data-version="1">
+            <img alt="Naturalization Record for Morres Dick" src="/files/citizen-archivist/images/7551610.jpg"> 
+            <h4>&nbsp;</h4> 
+            <p>Naturalization Record for Morres Dick, National Archives Identifier <a href="https://catalog.archives.gov/id/7551610">7551610</a></p> 
+           </div> 
+           <h3>Tips for Searching by Topics&nbsp;</h3> 
+           <p>One of the best ways to identify records of genealogical interest in the National Archives Catalog is by topic. If you find a description without digital images attached in the National Archives Catalog, that may contain records about your ancestor, contact the staff in that unit. The contact information appears in the <em>Contact(s) </em>section at the bottom of the description.</p> 
+           <h3><a name="keywords"></a>Suggested Keywords</h3> 
+           <p>In these examples, we use quotations in Catalog searches around multiple words, phrases or words that we want to appear exactly as we have written them. &nbsp;For more in depth information on how to search the Catalog visit <a href="/research/catalog/help/search-tips.html">National Archives Catalog Search Tips</a>.</p> 
+           <div class="nwidget ncontainer ntable">
+            <div class="table table-responsive table-striped"> 
+             <table> 
+              <tbody> 
+               <tr> 
+                <th>Topics</th> 
+                <th>Suggested Keywords</th> 
+               </tr> 
+               <tr> 
+                <td>African Americans</td> 
+                <td> 
+                 <ul> 
+                  <li>“Bureau of Refugees, Freedmen, and Abandoned Lands”</li> 
+                  <li>Slave&nbsp;</li> 
+                  <li>Slavery</li> 
+                 </ul> </td> 
+               </tr> 
+               <tr> 
+                <td>Court Records</td> 
+                <td> 
+                 <ul> 
+                  <li>“Admiralty case”</li> 
+                  <li>“Bankruptcy case”</li> 
+                  <li>“Civil case”</li> 
+                  <li>“Civil War prize”</li> 
+                  <li>“Criminal case”</li> 
+                  <li>“Equity case”</li> 
+                  <li>“Law case”</li> 
+                 </ul> </td> 
+               </tr> 
+               <tr> 
+                <td>Immigration</td> 
+                <td> 
+                 <ul> 
+                  <li>Alien&nbsp;</li> 
+                  <li>Chinese AND immigration</li> 
+                  <li>Immigration</li> 
+                  <li>Manifests</li> 
+                  <li>Naturalization</li> 
+                  <li>“Passenger lists”</li> 
+                 </ul> </td> 
+               </tr> 
+               <tr> 
+                <td>Japanese Americans</td> 
+                <td> 
+                 <ul> 
+                  <li>Japanese AND immigration</li> 
+                  <li>“War Relocation Authority”</li> 
+                 </ul> </td> 
+               </tr> 
+               <tr> 
+                <td>Land</td> 
+                <td> 
+                 <ul> 
+                  <li>“Bounty land”</li> 
+                  <li>Homestead</li> 
+                  <li>“Land entry”</li> 
+                 </ul> </td> 
+               </tr> 
+               <tr> 
+                <td>Military</td> 
+                <td> 
+                 <ul> 
+                  <li>“Bounty land”</li> 
+                  <li>“Draft registration”</li> 
+                  <li>Pension&nbsp;</li> 
+                  <li>“Selective Service”</li> 
+                  <li>Service records AND <em>[name of war, ex: Civil War]</em></li> 
+                  <li>Veteran&nbsp;</li> 
+                 </ul> </td> 
+               </tr> 
+               <tr> 
+                <td>Native Americans</td> 
+                <td> 
+                 <ul> 
+                  <li><em>[name of tribe, ex: Cherokee]</em>AND “census card”</li> 
+                  <li>“Indian allotments”</li> 
+                  <li>“Indian funds”</li> 
+                  <li>“Indian school”</li> 
+                 </ul> </td> 
+               </tr> 
+              </tbody> 
+             </table> 
+            </div>
+           </div> 
+           <h3><a name="clues"></a>Follow the Clues!</h3> 
+           <p>The family history research you already compiled could contain valuable clues. Use these clues to identify National Archives records that would be useful to your research and go beyond the most common genealogical sources.</p> 
+           <p><strong>Three examples:</strong></p> 
+           <blockquote> 
+            <p><strong><em>Clue:</em></strong> A significant decrease in income appears when you compare your ancestor's net worth between the 1860 Census and 1870 Census.<br> <strong><em>Records Worth Checking:</em></strong> Bankruptcy court records might contain a file on your ancestor. The Bankruptcy Act of 1867 allowed greater numbers of people to file for voluntary bankruptcy. Search in the National Archives Catalog for <strong>bankruptcy AND <em>[state where you ancestor lived at the time]</em></strong>.</p> 
+            <p><strong><em>Clue:</em></strong> You find a passenger list with your ancestor's name on it, and there is a Board of Special Inquiry stamp.<br> <strong><em>Records Worth Checking:</em></strong> The records of an Immigration and Naturalization Service inquiry might exist for your ancestor. Records related to deportation are also a possibility. Search in the National Archives Catalog for <strong>immigration AND "special inquiry"</strong>.</p> 
+            <p><strong><em>Clue:</em></strong> Your ancestor was tried for a crime.<br> <strong><em>Records Worth Checking:</em></strong> A criminal case file might exist for the U.S. District Court in the state where your ancestor committed the crime. If your ancestor served a sentence in a Federal prison, there might be an inmate case file in the records of that Federal prison. Search in the National Archives Catalog for <strong>"criminal case" OR inmate</strong>.</p> 
+           </blockquote> 
+           <h2><a name="digital1"></a>Hot Topics</h2> 
+           <p>Many genealogists and researchers may find these detailed search pages helpful</p> 
+           <ul> 
+            <li>Resources for Genealogists&nbsp;&nbsp;<a href="/research/genealogy">https://www.archives.gov/research/genealogy</a></li> 
+            <li>Census Records &nbsp;<a href="/research/census Deck Logs  https://www.archives.gov/research/military/logbooks/navy-online Dawes Rolls https://www.archives.gov/research/native-americans/dawes/tutorial/intro.html Land Records  https://www.archives.gov/research/land Military Service Records  https://www.archives.gov/veterans/military-service-records#toc-instructions Office of Strategic Services (OSS)  https://www.archives.gov/research/military/ww2/oss Alien Files (A-Files) https://www.archives.gov/research/immigration/aliens/a-files-kansas-city.html Naturalization   https://www.archives.gov/research/naturalization/naturalization.html Microfilm Publications and Original Records Digitized by Our Digitization Partners https://www.archives.gov/digitization/digitized-by-partners">https://www.archives.gov/research/census</a></li> 
+            <li>Deck Logs &nbsp;<a href="/research/military/logbooks/navy-online">https://www.archives.gov/research/military/logbooks/navy-online</a></li> 
+            <li>Dawes Rolls <a href="/research/native-americans/dawes/tutorial/intro.html">https://www.archives.gov/research/native-americans/dawes/tutorial/intro.html</a></li> 
+            <li>Land Records &nbsp;<a href="/research/land">https://www.archives.gov/research/land</a></li> 
+            <li>Military Service Records &nbsp;<a href="/veterans/military-service-records#toc-instructions">https://www.archives.gov/veterans/military-service-records#toc-instructions</a></li> 
+            <li>Office of Strategic Services (OSS) &nbsp;<a href="/research/military/ww2/oss">https://www.archives.gov/research/military/ww2/oss</a></li> 
+            <li>Alien Files (A-Files) <a href="/research/immigration/aliens/a-files-kansas-city.html">https://www.archives.gov/research/immigration/aliens/a-files-kansas-city.html</a></li> 
+            <li>Naturalization &nbsp;&nbsp;<a href="/research/naturalization/naturalization.html">https://www.archives.gov/research/naturalization/naturalization.html</a></li> 
+            <li>Microfilm Publications and Original Records Digitized by Our Digitization Partners <a href="/digitization/digitized-by-partners">https://www.archives.gov/digitization/digitized-by-partners</a></li> 
+            <li>Record Reproductions and Microfilm&nbsp;&nbsp;<a href="https://eservices.archives.gov/orderonline/">https://eservices.archives.gov/orderonline/</a></li> 
+           </ul> 
+           <h2>Frequently Asked Questions</h2> 
+           <div class="nwidget naccordion" data-expand_first="true"> 
+            <div class="widget-placeholder" data-accordion-id="66609" data-additional-classes="">
+             Accordion
+            </div> 
+            <div class="dynamic-widget">
+             <div id="accordion66609" class="panel-group "> 
+              <div class="panel panel-default"> 
+               <div id="headingpanel_66607" class="panel-heading"> 
+                <h3 class="panel-title"><a href="#collapsepanel_66607" data-toggle="collapse" data-parent="#66609" class=""><i class="fa fa-minus-circle"></i><i class="fa fa-plus-circle"></i>Why aren't all Federal Archived Records Online?</a></h3> 
+               </div> 
+               <div id="collapsepanel_66607" class="panel-collapse collapse in"> 
+                <div class="panel-body"> 
+                 <p>The National Archives has billions of records and that number grows larger every year. &nbsp;We are carefully and systematically digitizing our records to include in the National Archives Catalog. Tens of millions are already available in the Catalog. Luckily more and more records are arriving from government agencies already in a digital format, which helps to accelerate their ingest into the Catalog.</p> 
+                </div>
+               </div>
+              </div> 
+              <div class="panel panel-default"> 
+               <div id="headingpanel_66608" class="panel-heading"> 
+                <h3 class="panel-title"><a href="#collapsepanel_66608" data-toggle="collapse" data-parent="#66609" class="collapsed"><i class="fa fa-minus-circle"></i><i class="fa fa-plus-circle"></i>Are naturalization records online?</a></h3> 
+               </div> 
+               <div id="collapsepanel_66608" class="panel-collapse collapse "> 
+                <div class="panel-body"> 
+                 <p>In general naturalization records are not available online. They are held in our regional archives. Contact the reference staff that holds the records of the state where the citizen lived when naturalized.</p> 
+                 <p>When requesting a search, please provide the full name of the person and, if known, their date of birth, the city/state they were living at the time of naturalization, date they naturalized, and spouse's name, if they had one. All of this information helps to narrow the search and to confirm the correct record has been found. Once the record is located, the staff will provide you with information about the record and instructions on ordering copies.</p> 
+                 <p><strong>Alabama, Florida, Georgia, Kentucky, Mississippi, North Carolina, South Carolina, and Tennessee &nbsp;</strong></p> 
+                 <p>The National Archives at Atlanta<br> 5780 Jonesboro Road<br> Morrow, Georgia 30260</p> 
+                 <p>Phone: 770-968-2100<br> Fax: 770-968-2547<br> Email: atlanta.archives@nara.gov</p> 
+                 <p><strong>Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, and Vermont</strong></p> 
+                 <p>The National Archives at Boston<br> 380 Trapelo Road<br> Waltham, Massachusetts 02452-6399</p> 
+                 <p>Toll Free Telephone: (866) 406-2379<br> Telephone: (781) 663-0144<br> Fax: (781) 663-0154<br> Email: boston.archives@nara.gov</p> 
+                 <p><strong>Illinois, Indiana, Michigan, Minnesota, Ohio, and Wisconsin</strong></p> 
+                 <p>The National Archives at Chicago<br> 7358 South Pulaski Road<br> Chicago, IL 60629-5898 &nbsp;</p> 
+                 <p>Email: chicago.archives@nara.gov</p> 
+                 <p><strong>Colorado, Montana, New Mexico, North Dakota (after 1972), South Dakota (after 1972), Utah, Wyoming</strong></p> 
+                 <p>The National Archives at Denver<br> 17101 Huron Street, Broomfield, CO 80023<br> 303-604-4740</p> 
+                 <p>Email: denver.archives@nara.gov</p> 
+                 <p><strong>Arkansas, Louisiana, Oklahoma, and Texas</strong></p> 
+                 <p>The National Archives at Fort Worth<br> 1400 John Burgess Drive, Fort Worth, TX 76140</p> 
+                 <p>Email: ftworth.archives@nara.gov</p> 
+                 <p><strong>Iowa, Kansas, Missouri, Nebraska, North Dakota (before 1972), and South Dakota (before 1972)</strong></p> 
+                 <p>The National Archives at Kansas City<br> 400 West Pershing Road<br> Kansas City, MO 64108</p> 
+                 <p>Phone: 816-268-8000<br> Email:&nbsp;kansascity.archives@nara.gov</p> 
+                 <p><strong>New Jersey, New York, Puerto Rico, and the U.S. Virgin Islands</strong></p> 
+                 <p>The National Archives at New York City<br> One Bowling Green, 3rd Floor<br> New York, NY 10004</p> 
+                 <p>Toll-free: 1-866-840-1752 or 212-401-1620<br> Fax: 212-401-1638<br> Email:&nbsp;newyork.archives@nara.gov</p> 
+                 <p><strong>Delaware, Maryland, Pennsylvania, Virginia, West Virginia</strong></p> 
+                 <p>The National Archives at Philadelphia<br> 14700 Townsend Road<br> Philadelphia, PA 19154-1096</p> 
+                 <p>Telephone: 215-305-2044<br> Fax: 215-305-2038<br> Email: philadelphia.archives@nara.gov</p> 
+                 <p><strong>Southern California, Arizona and Clark County, Nevada</strong></p> 
+                 <p>National Archives at Riverside<br> 23123 Cajalco Road<br> Perris, CA 92570-7298</p> 
+                 <p>Telephone:(951) 956-2000<br> Fax: (951) 956-2049<br> Email:&nbsp;riverside.archives@nara.gov</p> 
+                 <p><strong>California (northern and central), Nevada (except Clark County), Hawaii, American Samoa, Guam, former Trust Territory of the Pacific Islands i.e. Marshall, Caroline, and Northern Mariana Islands, and U.S. Navy bases on foreign territory in the Pacific and Far East</strong></p> 
+                 <p>The National Archives at San Francisco<br> Leo J. Ryan Memorial Federal Building<br> 1000 Commodore Drive<br> San Bruno, California 94066-2350</p> 
+                 <p>Phone: (650) 238-3501<br> Email:&nbsp;sanbruno.archives@nara.gov</p> 
+                 <p><strong>Alaska, Idaho, Oregon, and Washington</strong></p> 
+                 <p>National Archives at Seattle<br> 6125 Sand Point Way NE<br> Seattle, Washington 98115-7999</p> 
+                 <p>Email: seattle.archives@nara.gov</p> 
+                </div>
+               </div>
+              </div>
+             </div>
+            </div> 
+           </div> 
+           <p>&nbsp;</p> 
+          </section> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <!-- page-body-wrapper --> 
+     <footer id="page-footer"> 
+      <div class="clearfix row last-update-wrapper "> 
+       <p id="last-update"> <span class="glyphicon glyphicon-edit"></span> This page was last reviewed on July 27, 2018.<br> <a href="/contact">Contact us with questions or comments</a>. </p> 
+      </div> 
+      <section id="mega-footer" class="clearfix panel-group"> 
+       <h2 class="footer-title"> Genealogy</h2> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#online-research">Online Research</a></h2> 
+        </div> 
+        <div id="online-research" class="panel-collapse"> 
+         <ul>
+          <li><a href="/research/topics/">By Topic</a></li> 
+          <li><a href="/research/start/by-format">By Media Type</a></li> 
+          <li><a href="/research/start/by-organization">By Government Organization</a></li> 
+          <li><a href="/presidential-libraries/research/">Presidential Materials</a></li> 
+          <li><a href="http://aad.archives.gov/aad/">Access to Archival Databases</a></li> 
+          <li><a href="/research/catalog">National Archives Catalog</a></li> 
+          <li><a href="/research/alic/">Archives Library Information Center</a></li> 
+          <li><a href="/exhibits/">Online Exhibits</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#resources">Resources For…</a></h2> 
+        </div> 
+        <div id="resources" class="panel-collapse"> 
+         <ul>
+          <li><a href="/research/genealogy/">Genealogists</a></li> 
+          <li><a href="/research/military/veterans/">Military Historians and Veterans</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#whats-new">What’s New</a></h2> 
+        </div> 
+        <div id="whats-new" class="panel-collapse"> 
+         <ul>
+          <li><a href="/research/news/">News and Notices</a></li> 
+          <li><a href="/research/accessions/">New Acquisitions</a></li> 
+          <li><a href="/research/newsletter">Researcher News: Newsletter</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#research-guides">Research Guides</a></h2> 
+        </div> 
+        <div id="research-guides" class="panel-collapse"> 
+         <ul>
+          <li><a href="/research/start/">Getting Started</a></li> 
+          <li><a href="/research/guide-fed-records/">Guide to Federal Records</a></li> 
+          <li><a href="/research/declassification">Declassified Records</a></li> 
+          <li><a href="/research/start/online-tools">Online Research Tools and Aids</a></li> 
+          <li><a href="/research/start/">Why Aren't All Records Online?</a></li> 
+         </ul>
+        </div> 
+       </div> 
+       <div class="mega-col panel panel-default"> 
+        <div class="panel-heading"> 
+         <h2><a data-target="#i-want-to">I Want To…</a></h2> 
+        </div> 
+        <div id="i-want-to" class="panel-collapse"> 
+         <ul>
+          <li><a href="/research/order/">Order Copies of Records</a></li> 
+          <li><a href="/research/hire-help/">Hire a Researcher</a></li> 
+          <li><a href="/research/recover/">Report Lost or Stolen Documents</a></li> 
+         </ul>
+        </div> 
+       </div> 
+      </section> 
+      <section id="sub-footer"> 
+       <div class="region region-footer-bottom"> 
+        <section id="block-block-54" class="block block-block clearfix"> 
+         <h2> <a href="https://www.archives.gov/social-media/">Connect With Us</a></h2> 
+         <ul class="clearfix" id="social-media"> 
+          <li class="facebook" data-original-title="Facebook" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/facebook">Facebook</a></li> 
+          <li class="twitter" data-original-title="Twitter" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/twitter">Twitter</a></li> 
+          <li class="instagram" data-original-title="Instagram" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/instagram">Instagram</a></li> 
+          <li class="tumblr" data-original-title="Tumblr" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/tumblr">Tumblr</a></li> 
+          <li class="youtube" data-original-title="YouTube" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/youtube">YouTube</a></li> 
+          <li class="blogs" data-original-title="Blogs" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/blogs">Blogs</a></li> 
+          <li class="flickr" data-original-title="Flickr" data-placement="bottom" data-toggle="tooltip" title=""> <a href="/social-media/flickr">Flickr</a></li> 
+         </ul> 
+         <p> </p> 
+         <p id="footer-links"> <a href="/contact/">Contact Us</a> · <a href="/global-pages/accessibility.html">Accessibility</a> · <a href="/global-pages/privacy.html">Privacy Policy</a> · <a href="/foia/">Freedom of Information Act</a> · <a href="/eeo/policy/complaint-activity.html">No FEAR Act</a> · <a href="http://www.usa.gov/">USA.gov</a></p> 
+         <p id="footer-phone">The U.S. National Archives and Records Administration<br> <a href="tel:1-866-272-6272">1-86-NARA-NARA or 1-866-272-6272</a></p> 
+        </section> 
+       </div> 
+      </section> 
+     </footer>
+     <!-- /page-footer --> 
+    </div> 
+    <script src="/sites/all/themes/nara/scripts/jquery.fancybox.pack.js" type="text/javascript"></script> 
+    <script src="/sites/all/themes/nara/scripts/helpers/jquery.fancybox-media.js" type="text/javascript"></script> 
+    <script src="/sites/all/themes/nara/scripts/helpers/jquery.fancybox-thumbs.js" type="text/javascript"></script> 
+    <script src="https://www.archives.gov/files/js/js_MRdvkC2u4oGsp5wVxBG1pGV5NrCPW3mssHxIn6G9tGE.js"></script> 
+   </div> 
+   <a class="back-to-top" href="#page-header" style="display: inline;">Top</a> 
+   <script>
+(function ($) {
+  // Original JavaScript code.
+$('.toc').toc({
+'selectors': 'h2:not(.element-invisible):not(.toc-block h2),h3',
+'container': '#main-col'
+});
+})(jQuery);
+
+//fix extra timeline object issue
+(function(){            
+  if(typeof Drupal.settings['timelineJS'] !== 'undefined'){      
+    timelinejs_arry = Drupal.settings['timelineJS'];
+    tmptimeline=[];
+    for (i = 0; i < timelinejs_arry.length-1; i++) {       
+      if(typeof timelinejs_arry[i]['processed'] !== 'undefined'){                        
+        tmptimeline.push(timelinejs_arry[i]);  
+      } 
+    }
+    Drupal.settings['timelineJS'] = tmptimeline;
+  }
+}());
+</script> 
+  </div> 
+  <!-- end -->   
+ </body>
+</html>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:media="http://search.yahoo.com/mrss/"> 
+ <channel> 
+  <title>Union List of Item Selections - FDLP</title> 
+  <description><![CDATA[<p>Text (.txt) lists of which Federal depository libraries select which item numbers. Files are updated weekly and posted on Friday.</p>]]>
+  </description> 
+  <link>
+   https://www.fdlp.gov/file-repository/collection-management/union-list-of-item-selections?format=html
+  </link> 
+  <lastBuildDate>
+   Thu, 30 May 2019 21:10:02 -0400
+  </lastBuildDate> 
+  <atom:link href="https://www.fdlp.gov/file-repository/collection-management/union-list-of-item-selections?format=rss" rel="self" type="application/rss+xml" /> 
+  <language>
+   en-GB
+  </language> 
+  <sy:updatePeriod>
+   hourly
+  </sy:updatePeriod> 
+  <sy:updateFrequency>
+   1
+  </sy:updateFrequency> 
+  <item> 
+   <title>Comma Delimited Format (cd-ddis.zip)</title> 
+   <link>
+    https://www.fdlp.gov/file-repository/collection-management/union-list-of-item-selections/1667-comma-delimited-format-cd-ddiszip?format=html
+   </link> 
+   <enclosure url="https://www.fdlp.gov/file-repository/collection-management/union-list-of-item-selections/1667-comma-delimited-format-cd-ddiszip/file" length="8723464" type="application/zip" /> 
+   <media:content url="https://www.fdlp.gov/file-repository/collection-management/union-list-of-item-selections/1667-comma-delimited-format-cd-ddiszip/file" fileSize="8723464" type="application/zip" medium="document" /> 
+   <media:title type="plain">
+    Comma Delimited Format (cd-ddis.zip)
+   </media:title> 
+   <media:description type="html"><![CDATA[<p>A compressed file containing the item selection data for all depository libraries in a comma delimited text file.</p>]]>
+   </media:description> 
+   <guid isPermaLink="true">
+    https://www.fdlp.gov/file-repository/collection-management/union-list-of-item-selections/1667-comma-delimited-format-cd-ddiszip?format=html
+   </guid> 
+   <description><![CDATA[<p>A compressed file containing the item selection data for all depository libraries in a comma delimited text file.</p>]]>
+   </description> 
+   <author>
+    jbraddock@gpo.gov (John Braddock)
+   </author> 
+   <category>
+    Union List of Item Selections
+   </category> 
+   <pubDate>
+    Thu, 30 May 2019 21:10:02 -0400
+   </pubDate> 
+  </item> 
+  <item> 
+   <title>Fixed Field Format (ff-ddis.zip)</title> 
+   <link>
+    https://www.fdlp.gov/file-repository/collection-management/union-list-of-item-selections/1668-fixed-field-format-ff-ddiszip?format=html
+   </link> 
+   <enclosure url="https://www.fdlp.gov/file-repository/collection-management/union-list-of-item-selections/1668-fixed-field-format-ff-ddiszip/file" length="8141461" type="application/zip" /> 
+   <media:content url="https://www.fdlp.gov/file-repository/collection-management/union-list-of-item-selections/1668-fixed-field-format-ff-ddiszip/file" fileSize="8141461" type="application/zip" medium="document" /> 
+   <media:title type="plain">
+    Fixed Field Format (ff-ddis.zip)
+   </media:title> 
+   <media:description type="html"><![CDATA[<p>A compressed file containing the item selection data for all depository libraries in a fixed field file.</p>]]>
+   </media:description> 
+   <guid isPermaLink="true">
+    https://www.fdlp.gov/file-repository/collection-management/union-list-of-item-selections/1668-fixed-field-format-ff-ddiszip?format=html
+   </guid> 
+   <description><![CDATA[<p>A compressed file containing the item selection data for all depository libraries in a fixed field file.</p>]]>
+   </description> 
+   <author>
+    jbraddock@gpo.gov (John Braddock)
+   </author> 
+   <category>
+    Union List of Item Selections
+   </category> 
+   <pubDate>
+    Thu, 30 May 2019 21:10:02 -0400
+   </pubDate> 
+  </item> 
+ </channel> 
+</rss>

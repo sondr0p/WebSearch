@@ -1,0 +1,231 @@
+<!doctype html>
+<html lang="en">
+ <head> 
+  <meta charset="utf-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge"> 
+  <meta name="description" content=""> 
+  <meta name="author" content=""> 
+  <link href="css/bootstrap.css" rel="stylesheet"> 
+  <link href="css/bootstrap-responsive.css" rel="stylesheet"> 
+  <link href="css/lightbox.min.css" rel="stylesheet"> 
+  <link rel="stylesheet" type="text/css" href="css/styles.css"> 
+  <script type="text/javascript" src="js/jquery-1.11.0.min.js"></script> 
+  <script type="text/javascript" src="js/bootstrap.js"></script> 
+  <script type="text/javascript" src="js/print.js"></script> 
+  <script type="text/javascript" src="js/bug.js"></script> 
+  <script type="text/javascript" src="js/lightbox.min.js"></script> 
+  <!--[if IE 7]>
+    <link rel="stylesheet" type="text/css" href="css/ie7.css"/>
+    <![endif]--> 
+  <!--[if IE 8]>
+    <link rel="stylesheet" type="text/css" href="css/ie8.css"/>
+    <![endif]--> 
+  <!--[if lt IE 9]>
+    <script src="https://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+    <![endif]--> 
+  <link href="https://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css"> 
+  <link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow:regular,bold" rel="stylesheet" type="text/css"> 
+  <link href="https://fonts.googleapis.com/css?family=PT+Sans+Caption:regular,bold" rel="stylesheet" type="text/css"> 
+  <title>Camp McCain Hunting/Fishing Permit</title> 
+ </head> 
+ <body> 
+  <div id="Div1" class="container"> 
+   <div id="globals"> 
+    <div class="globalText">
+     <a href="http://www.ms.gov/content/Pages/LiveChat.aspx" target="_blank"><img src="images/liveChat.png" width="76" height="22" alt="Live Help"></a>
+    </div>
+    <div class="msGovGlobal">
+     <a href="http://www.ms.gov" target="_blank"><img src="images/msGovGlobal.png" width="65" height="26" alt="ms.gov"></a>
+    </div> 
+   </div> 
+  </div> 
+  <div id="page" class="container"> 
+   <header id="banner">
+    <img src="images/banner.jpg" alt="Camp McCain Hunting and Fishing Permit">
+   </header> 
+   <div class="row-fluid"> 
+    <!--<div id="divReportBug" style="position: fixed; top: 30%; left: 2%;">
+            <img src="images/reportIssue_bttn.png" id="Button_ReportBug" onclick="javascript: reportBug();" alt="Report Bug" />            
+        </div>--> 
+    <form method="post" action="./default.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="ctl00"> 
+     <div class="aspNetHidden"> 
+      <input type="hidden" name="MainContent_ToolkitScriptManager1_HiddenField" id="MainContent_ToolkitScriptManager1_HiddenField" value=""> 
+      <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value=""> 
+      <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value=""> 
+      <input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value=""> 
+      <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="mAz8Dh1uMRglhVZGREhEdG3n1ce/WwDs5a9ILyiXyDrR5vQe6R29Q6f8MQjwrTne1ZtGRdum5p1NO/deZMcaNol6FmfEMq/lqtsc9DXn7VRURhI+iIaZwIjNxhtD8W8gmehFjhBmq9lhfAII6feDrR5+6eyu6FpqVLt8uUQDzCl/cUcGH+AAApaRgFjC4lniZLe61Q=="> 
+     </div> 
+     <script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['ctl00'];
+if (!theForm) {
+    theForm = document.ctl00;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script> 
+     <script src="/msarng/hunting_fishing/WebResource.axd?d=rDPClAzTRK8B7_hSQeH1lVYXpedois037SrOHbT4DZqTC_HxmR7AHWiGw2C8mC5H8OmaIQnHYWNELaQNaKIvnTC9CXU1&amp;t=636765211280000000" type="text/javascript"></script> 
+     <script src="/msarng/hunting_fishing/ScriptResource.axd?d=OPJIYz1_qYBnhO4D0r7Vm4DhNpD42x6Y1fMksggiyCIIh-VO-O4L69I01OgEqPLxAYKUMRDwCuDQFZNBs8458d9_Ll49FmJHfmLxYmR_6XI1-fACkgQBZYkSc7qHLY_R2zj6pIfxqE0StJVynD9T980rlVs1&amp;t=29665526" type="text/javascript"></script> 
+     <script src="/msarng/hunting_fishing/ScriptResource.axd?d=N8yu_mCSw7pVNHUVoudvaMGGIlmXcbGcEsxisGp4ai2M86PFhC3qL_Q-rAUWZR38k_FA1lj6PVNDwCL3EtzZAyPm_D5Yy2W5miiVW-RF9TMGFZydO_ttUZNFKVI9cNIa7v6OeA2&amp;t=3a1336b1" type="text/javascript"></script> 
+     <script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script> 
+     <script src="/msarng/hunting_fishing/ScriptResource.axd?d=h2sh8WDIdssVKzcgpLvRtBnl7-MuzoWOBJEVU5kBuiTUkkrEAvMhiuxPrDX_Ewf_zvO73d2Cqyla6Q0vaz7mv_nZ9jyY-9Kc5GpmnEuQEbyqcndNCkkk3B3YfYXJnRTZRWYX-w2&amp;t=3a1336b1" type="text/javascript"></script> 
+     <script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script> 
+     <div class="aspNetHidden"> 
+      <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="181CE056"> 
+      <input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value=""> 
+     </div> 
+     <div id="side" class="span2"> 
+      <a name="nav"></a> 
+      <h2>Navigate</h2> 
+      <ul> 
+       <li><a id="MainContent_lnkProcedures" href="javascript:__doPostBack('ctl00$MainContent$lnkProcedures','')" style="font-size:1em;">Camp McCain Hunting/Fishing and Access Procedures</a></li> 
+       <li><a href="resend.aspx">Retrieve Lost Permit</a></li> 
+       <li><a href="minor.aspx">Add Minor to Existing Permit</a></li> 
+       <li><a href="gallery.aspx">Photo Gallery</a></li> 
+      </ul> 
+     </div> 
+     <div id="main" class="span10"> 
+      <div class="ShowNav"> 
+       <a href="#nav"><img src="../images/viewMenu.png" width="165" height="44" alt="View Menu"></a> 
+      </div> 
+      <h2>Welcome to the Camp McCain Hunting/Fishing Permit Application</h2> 
+      <br> 
+      <p style="font-size:1.0em;color:#333">Please answer the following questions to purchase a Hunting/Fishing Permit for Camp McCain</p> 
+      <br> 
+      <p><span style="color:Red;font-size:1.2em">* </span>Denotes a required field.</p> 
+      <div class="form form-horizontal"> 
+       <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$MainContent$ToolkitScriptManager1', 'ctl00', ['tctl00$MainContent$UpdatePanel1','MainContent_UpdatePanel1'], ['ctl00$MainContent$ddlConvicted','MainContent_ddlConvicted','ctl00$MainContent$ddlMinor','MainContent_ddlMinor'], [], 90, 'ctl00');
+//]]>
+</script> 
+       <div id="MainContent_UpdatePanel1"> 
+        <div id="MainContent_valSummary" style="color:Red;font-size:0.8em;display:none;"> 
+        </div> 
+        <div class="field field-block"> 
+         <label for="MainContent_ddlConvicted" id="MainContent_lblConvicted" style="font-size:0.8em;"><span style="color:Red;font-size:1.2em">* </span>Have you been convicted of a felony? <span id="MainContent_RequiredFieldValidator3" class="required" style="visibility:hidden;">Required</span></label> 
+         <select name="ctl00$MainContent$ddlConvicted" onchange="javascript:setTimeout('__doPostBack(\'ctl00$MainContent$ddlConvicted\',\'\')', 0)" id="MainContent_ddlConvicted" class="span5"> <option selected value="choose...">choose...</option> <option value="Yes">Yes</option> <option value="No">No</option> </select> 
+        </div> 
+        <br> 
+        <div class="field field-block"> 
+         <label for="MainContent_ddlMinor" id="MainContent_lblMinor" style="font-size:0.8em"><span style="color:Red;font-size:1.2em">* </span>If you are 16 years of age or older, you will be charged $22.00 for each Hunting/Fishing permit. Would you like to proceed? <span id="MainContent_RequiredFieldValidator2" class="required" style="visibility:hidden;">Required</span></label> 
+         <select name="ctl00$MainContent$ddlMinor" onchange="javascript:setTimeout('__doPostBack(\'ctl00$MainContent$ddlMinor\',\'\')', 0)" id="MainContent_ddlMinor" class="span2"> <option selected value="choose...">choose...</option> <option value="Yes">Yes</option> <option value="No">No</option> </select> 
+        </div> 
+        <br> 
+        <hr> 
+        <div class="field field-block"> 
+         <input type="submit" name="ctl00$MainContent$btnContinue" value="Continue >>" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$btnContinue&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="MainContent_btnContinue" class="button01 button"> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <script type="text/javascript">
+//<![CDATA[
+var Page_ValidationSummaries =  new Array(document.getElementById("MainContent_valSummary"));
+var Page_Validators =  new Array(document.getElementById("MainContent_RequiredFieldValidator3"), document.getElementById("MainContent_RequiredFieldValidator2"));
+//]]>
+</script> 
+     <script type="text/javascript">
+//<![CDATA[
+var MainContent_valSummary = document.all ? document.all["MainContent_valSummary"] : document.getElementById("MainContent_valSummary");
+MainContent_valSummary.validationGroup = "gp1";
+var MainContent_RequiredFieldValidator3 = document.all ? document.all["MainContent_RequiredFieldValidator3"] : document.getElementById("MainContent_RequiredFieldValidator3");
+MainContent_RequiredFieldValidator3.controltovalidate = "MainContent_ddlConvicted";
+MainContent_RequiredFieldValidator3.errormessage = "Required";
+MainContent_RequiredFieldValidator3.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+MainContent_RequiredFieldValidator3.initialvalue = "choose...";
+var MainContent_RequiredFieldValidator2 = document.all ? document.all["MainContent_RequiredFieldValidator2"] : document.getElementById("MainContent_RequiredFieldValidator2");
+MainContent_RequiredFieldValidator2.controltovalidate = "MainContent_ddlMinor";
+MainContent_RequiredFieldValidator2.errormessage = "Required";
+MainContent_RequiredFieldValidator2.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+MainContent_RequiredFieldValidator2.initialvalue = "choose...";
+//]]>
+</script> 
+     <script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("MainContent_ToolkitScriptManager1_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();
+(function(id) {
+    var e = document.getElementById(id);
+    if (e) {
+        e.dispose = function() {
+            Array.remove(Page_ValidationSummaries, document.getElementById(id));
+        }
+        e = null;
+    }
+})('MainContent_valSummary');
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        
+document.getElementById('MainContent_RequiredFieldValidator3').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('MainContent_RequiredFieldValidator3'));
+}
+
+document.getElementById('MainContent_RequiredFieldValidator2').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('MainContent_RequiredFieldValidator2'));
+}
+//]]>
+</script> 
+    </form> 
+   </div> 
+   <footer id="footer"> 
+    <div class="msGovLogo">
+     <a href="http://www.ms.gov" target="_blank"><img src="images/msGov.png" alt="visit the ms.gov website"></a>
+    </div> 
+    <div class="footerText">
+      Camp McCain Hunting and Fishing Permit, ms.gov, copyright ©2014 
+     <br> 
+     <br> For policy-related questions, please contact: 
+     <a href="mailto:support@msegov.com">support@msegov.com</a>
+     <br> For technical support with the site, please contact: 
+     <a href="mailto:appsupport@msegov.com">appsupport@msegov.com </a>
+     <br> 
+     <br> 
+     <a href="https://www.transparency.mississippi.gov/home.php" target="_blank">Transparency Mississippi</a> 
+    </div> 
+   </footer> 
+  </div> 
+  <script type="text/javascript">
+    hideBugTool();
+</script> 
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-59280646-1', 'auto');
+  ga('send', 'pageview');
+
+</script>  
+ </body>
+</html>

@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"> 
+  <meta name="GENERATOR" content="IBM WebSphere Studio"> 
+  <meta http-equiv="Content-Style-Type" content="text/css"> 
+  <link href="theme/styles.css" rel="stylesheet" type="text/css"> 
+  <script src="https://www.google.com/recaptcha/api.js"></script> 
+  <title>Professional Verification - Search Criteria</title> 
+ </head> 
+ <body> 
+  <div id="container"> 
+   <script language="JavaScript">	var currentURL = location.href;
+	var protocol = location.href.substring(0,7);
+	
+	//if the url contains http and it is running somewhere besides localhost
+	if((protocol == "http://") && (currentURL.search("localhost") == -1))
+		window.location = "https://" + currentURL.substring(7, currentURL.length);
+-->
+</script> 
+   <div id="header"> 
+    <div id="header_inner_block"> 
+     <span class="header_graphic"></span> 
+     <div class="header_text">
+      Mississippi State Board of Medical Licensure
+     </div> 
+     <span class="header_graphic"></span> 
+    </div> 
+   </div> 
+   <br id="clear"> 
+   <div id="nav"> 
+    <div id="nav_header">
+     <img src="/medical_licensure/renewal/images/common_green_top.gif" border="0" alt="">
+    </div> 
+    <div id="nav_body"> 
+     <ul> 
+      <li class="service">Licensure Services</li> 
+      <li class="blank_small"><a href="/medical_licensure/renewal/licenseeLogin.jsp">Licensee Services</a></li> 
+      <li class="blank_small"><a href="/medical_licensure/renewal/applicantLogin.jsp">Applicant Services</a></li> 
+      <li class="service">Other Services</li> 
+      <li class="arrow_small"><a href="/medical_licensure/renewal/verificationSearch.jsp">Professional License Verification</a></li> 
+      <li class="blank_small"><a href="/medical_licensure/renewal/certToAnotherState.jsp">Certification to Another State Board</a></li> 
+      <li class="blank_small"><a href="/medical_licensure/renewal/rosterInstructions.jsp">Download Roster</a></li> 
+      <li class="blank_small"><a href="/medical_licensure/renewal/faq_license.jsp">Frequently Asked Questions</a></li> 
+      <li class="blank"><a href="/medical_licensure/renewal/contact_us.jsp">Contact Us</a></li> 
+      <li class="blank"><a href="http://www.msbml.ms.gov">Medical Licensure Website</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div id="content"> 
+    <form name="verificationSearchForm" method="post" action="/medical_licensure/renewal/verificationSearch.do"> 
+     <h1>Professional Verification - Search Criteria</h1> 
+     <div id="noteBorderedBox"> 
+      <span class="noteGraphic"> <img src="images/content_exclamation.gif" width="22" height="23" alt="notice"> </span> 
+      <span class="noteText"> Any renewal transaction received after 5:00 p.m. will not be processed until the next business day and will not be available for online inquiry for 2 business days. A verification should not be purchased for a licensee who has renewed their license within the last 48 hours. </span> 
+     </div> 
+     <br id="clear"> 
+     <br id="clear"> 
+     <p>A <b>Professional Verification</b> is a verification of a physician's license which a hospital or other credentialing organization purchases for primary source verification. This request can be made using the form below. There is a $25 fee for a Professional Verification.</p> 
+     <p>A <b>Certification of License</b> is a verification of license that is to sent to another State Board. This request must be made from <a href="https://www.veridoc.org">VeriDoc.org.</a></p> 
+     <p>In order to access verification information, please enter one of the two search criteria.</p> 
+     <p><span class="required">*</span> Indicates required fields.</p> 
+     <div id="lightGreenBox"> 
+      <p class="darkBackground">Search Criteria</p> 
+      <span class="inputLabel">License Number:&nbsp;<span class="required">*</span></span> 
+      <span class="inputField"><input type="text" name="licNum" maxlength="12" size="10" value=""></span> 
+      <br id="clear"> 
+      <p class="centeredText"><b>--- OR ---</b></p> 
+      <span class="inputLabel">Licensee Last Name:&nbsp;<span class="required">*</span></span> 
+      <span class="inputField"><input type="text" name="lastName" maxlength="30" size="20" value=""></span> 
+      <br id="clear"> 
+      <br id="clear"> 
+     </div> 
+     <div id="lightGreenBox"> 
+      <p class="darkBackground">Human Validation</p> 
+      <!-- begin captcha --> 
+      <center> 
+       <div class="g-recaptcha" data-sitekey="6LdiX1IUAAAAAHBSC73aGPfv7am14jDefsBqydXg"></div> 
+      </center> 
+      <br> 
+      <!-- end captcha --> 
+     </div> 
+     <br id="clear">
+     <br id="clear"> 
+     <span class="formButtons"> <a href="/medical_licensure/renewal/Main.do"><img border="0" src="images/btn_back.gif" alt="Back"></a>&nbsp; <input type="image" name="submit" src="images/btn_enter.gif" border="0" value="Submit" alt="Enter"> </span> 
+    </form> 
+   </div> 
+   <br id="clear"> 
+   <p class="footer">Copyright 2003-2019, Mississippi State Board of Medical Licensure. All rights reserved. <a href="privacy_policy.jsp" target="privacyPolicy" onclick="window.open('','privacyPolicy','resizable=no,toolbar=no,directories=no,status=yes,menubar=0,scrollbars=yes,resizable=yes,location=no,width=350,height=265')">Privacy Policy</a></p> 
+  </div>   
+ </body>
+</html>

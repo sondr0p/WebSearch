@@ -1,0 +1,133 @@
+<html lang="en">
+ <head></head>
+ <body>
+  <doctype html />   
+  <link rel="stylesheet" type="text/css" href="/its/public_record_request/Styles/bootstrap.css" runat="server"> 
+  <link rel="stylesheet" type="text/css" href="/its/public_record_request/Styles/jquery-ui.css" runat="server"> 
+  <link rel="stylesheet" type="text/css" href="/its/public_record_request/Styles/bootstrap-responsive.css" runat="server"> 
+  <link rel="stylesheet" type="text/css" href="/its/public_record_request/Styles/styles.css" runat="server"> 
+  <script type="text/javascript" src="/its/public_record_request/Scripts/jquery-1.9.1.js" runat="server"></script> 
+  <script type="text/javascript" src="/its/public_record_request/Scripts/jquery-ui.js" runat="server"></script> 
+  <script type="text/javascript" src="/its/public_record_request/Scripts/PublicRecord.js" runat="server"></script> 
+  <script type="text/javascript" src="/its/public_record_request/Scripts/jquery.maskedinput.min.js" runat="server"></script> 
+  <!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="/its/public_record_request/Styles/ie7.css" runat="server" />
+<![endif]--> 
+  <!--[if IE 8]>
+<link rel="stylesheet" type="text/css" href="/its/public_record_request/Styles/ie8.css" runat="server" />
+<![endif]--> 
+  <!--[if IE]>
+<link rel="stylesheet" type="text/css" href="/its/public_record_request/Styles/ie.css" runat="server" />
+<![endif]--> 
+  <!--[if lt IE 9]>
+<script src="https://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+<![endif]--> 
+  <link href="https://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css"> 
+  <link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow:regular,bold" rel="stylesheet" type="text/css"> 
+  <link href="https://fonts.googleapis.com/css?family=PT+Sans+Caption:regular,bold" rel="stylesheet" type="text/css"> 
+  <title>Public Record Request Payment System</title>   
+  <div id="page" class="container"> 
+   <div id="globals"> 
+    <div class="globalText">
+     <a href="/its/public_record_request/Admin">Login</a> &nbsp; &nbsp; 
+    </div>
+    <div class="msGovGlobal">
+     <a href="http://www.ms.gov" target="_blank"><img src="/its/public_record_request/Images/msGovGlobal.png" width="65" height="26" alt="ms.gov" runat="server"></a>
+    </div>
+   </div> 
+   <header id="banner">
+    <img src="/its/public_record_request/Images/its_logo.jpg" runat="server">
+   </header> 
+   <div class="row-fluid"> 
+    <div id="main" class="span9"> 
+     <!-- Bug Reporting Tool Control --> 
+     <div id="ReportBugButton" onclick="javascript: reportBug();">
+      <img src="/its/public_record_request/Images/reportIssue_bttn.png" alt="Report an issue" runat="server">
+     </div> 
+     <div class="ShowNav"> 
+      <a href="#nav"><img src="/its/public_record_request/Images/viewMenu.png" width="165" height="44" alt="View Menu" runat="server"></a> 
+     </div> 
+     <h2>Welcome</h2> 
+     <div id="PageProcessMessage" style="display: none;"> 
+      <p>&nbsp;</p> 
+      <div class="form"> 
+       <p><img src="/its/public_record_request/Images/ajax-circle-loader.gif" alt="Processing request" runat="server"> &nbsp; <strong>Processing request</strong></p> 
+       <p>One moment please..</p> 
+      </div> 
+      <p>&nbsp;</p> 
+      <p>&nbsp;</p> 
+      <p>&nbsp;</p> 
+      <p>&nbsp;</p> 
+     </div> 
+     <div id="PageContentBody"> 
+      <!-- main content goes here --> 
+      <p>Please select a Public Record Request below then click Next.</p> 
+      <p><i>*Denotes a required field.</i></p> 
+      <div class="form"> 
+       <form action="/its/public_record_request/" method="post"> 
+        <div class="row-fluid"> 
+         <div class="field"> 
+          <label for="RecordType"><strong>Public Record Request<span style="color: red">*</span>:</strong> <span class="field-validation-valid" data-valmsg-for="RecordType" data-valmsg-replace="true"></span></label> 
+          <select data-val="true" data-val-regex="Invalid" data-val-regex-pattern="(Free|Flat|Custom)" data-val-required="Required" id="RecordType" name="RecordType"><option value="">Please select Request Type</option> <option value="Free">Copy of blank RFP on CD - $25</option> <option value="Custom">Custom Open Records Request - $70</option> <option value="Flat">EPL Marketing Report - $25</option> <option value="Free">Master Mailing List - Free</option> <option value="Flat">Paper Copy of Contract - $25</option> <option value="Flat">Paper copy of Express Products List -$25</option> <option value="Flat">Paper Copy of RFP - $25</option> <option value="Flat">Procurement Handbook (Hard Copy) - $50</option> <option value="Free">Procurement Handbook (Soft copy) - Free</option> <option value="Free">Vendor Information Packet - Free</option> </select> 
+         </div> 
+         <div id="MailingList" class="field-block"> 
+          <div class="field-block"> 
+           <p>"The type of public record you have selected may be requested via the Contact Us section at <a href="http://www.its.ms.gov">www.its.ms.gov</a>. The mailing list will be provided at no charge." </p> 
+          </div> 
+         </div> 
+         <div id="FreeText" class="field-block"> 
+          <div class="field-block"> 
+           <p>"The type of public record you have requested is available on the ITS website for no charge. If you need assistance in locating these documents on our website, please contact our Procurement Helpdesk at (601) 432.8166 or isshelp@its.ms.gov."</p> 
+          </div> 
+         </div> 
+         <div id="CustomText" class="field-block"> 
+          <p id="initialText">"The initial fee paid for the below request covers the first hour of staff time involved in the research of the request. Refer to the <a href="http://www.its.ms.gov/Procurement/Documents/ISS%20Procurement%20Manual.pdf" target="_blank"> ITS Procurement Handbook </a> for further details and a fee schedule (019-010 ITS Public Records Procedure)." </p> 
+          <div class="field"> 
+           <label for="RFPCode"><strong>RFP Number:</strong></label> 
+           <input id="RFPCode" maxlength="4" name="RFPCode" size="20" type="text" value=""> 
+          </div> 
+          <div class="field-block"> 
+           <label for="Description"><strong>Description<span style="color:red">*</span>:</strong></label> 
+           <textarea cols="55" data-val="true" data-val-required="The Description field is required." id="Description" maxlength="250" name="Description" rows="10">
+</textarea> 
+          </div> 
+          <div class="field-block"> 
+           <input id="RecordName" name="RecordName" type="hidden" value=""> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="clearfix"></div> 
+        <hr> 
+        <input type="submit" class="button01 button" disabled id="btn_Next" value="Next >>"> 
+       </form> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="side" class="span3">
+     <a name="nav"></a> 
+     <div class="ShowBackTop"> 
+      <a href="#top"><img src="/its/public_record_request/Images/backTop.png" alt="Back to Top" runat="server"></a> 
+     </div> 
+     <h2>Navigate</h2> 
+     <ul> 
+      <li><a href="/its/public_record_request/">Home</a></li> 
+      <li><a href="/its/public_record_request/Admin">Login</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+   <footer id="footer"> 
+    <div class="msGovLogo">
+     <a href="http://www.ms.gov" target="_blank"><img src="/its/public_record_request/Images/msGov.png" alt="visit the ms.gov website" runat="server"></a>
+    </div> ITS Public Record Request Payment System, ms.gov, copyright ©2019
+    <br> 
+    <br> For questions about charges on this invoice please contact 601-432-8179 or 
+    <a href="mailto: Open.Records@its.ms.gov">Open.Records@its.ms.gov</a>.
+    <br> For assistance with paying this invoice please contact 601-432-8000.
+    <br> 
+    <a href="https://www.ms.gov/help_portal" target="_blank" title="For technical support with the site, please visit the Ms.Gov Help Portal">Help Portal</a>
+    <br> 
+    <a href="http://www.transparency.mississippi.gov" target="_blank">Transparency Mississippi</a> 
+   </footer> 
+  </div>   
+ </body>
+</html>

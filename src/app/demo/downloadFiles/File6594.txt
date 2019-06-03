@@ -1,0 +1,253 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head id="Head1">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <link rel="stylesheet" type="text/css" href="Styles/ITS_styles.css"> 
+  <script type="text/javascript" src="Scripts/script.js"></script> 
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu:400,700|Shanti" rel="stylesheet" type="text/css">
+  <title>
+	General RFP Registration
+</title> 
+  <script type="text/javascript">
+            function validateValue(source, args) {
+                if (args.Value == "") {
+                    args.IsValid = false;
+                    document.getElementById(source.id.replace('cv', 'txt')).className = 'Invalid';
+                }
+                else {
+                    args.IsValid = true;
+                    document.getElementById(source.id.replace('cv', 'txt')).className = 'Valid';
+                }
+
+                function ValidateAmount(source, args) {
+                    if (valid)
+                        args.IsValid = true;
+                    else
+                        args.IsValid = false;
+                }
+            }  
+    </script> 
+  <script type="text/javascript">
+        function DisableButton(b) {
+            b.value = 'Submitting';
+        }
+</script> 
+  <style type="text/css">
+        .label
+        {
+            text-align: left;
+        }
+        .style1
+        {
+            /*background-color: #FEFEE9;  changed color */
+            /*width: 204px;*/
+            width:40%;
+            text-align: right;
+            background-color: #F6F6F6;
+            font-size:small;
+        }
+        </style> 
+ </head> 
+ <body> 
+  <form method="post" action="./" onsubmit="javascript:return WebForm_OnSubmit();" id="Form1"> 
+   <div class="aspNetHidden"> 
+    <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value=""> 
+    <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value=""> 
+    <input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value=""> 
+    <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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"> 
+   </div> 
+   <script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['Form1'];
+if (!theForm) {
+    theForm = document.Form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script> 
+   <script src="/its/vendor_registration/WebResource.axd?d=rDPClAzTRK8B7_hSQeH1lVYXpedois037SrOHbT4DZqTC_HxmR7AHWiGw2C8mC5H8OmaIQnHYWNELaQNaKIvnTC9CXU1&amp;t=636765211280000000" type="text/javascript"></script> 
+   <script src="/its/vendor_registration/ScriptResource.axd?d=OPJIYz1_qYBnhO4D0r7Vm4DhNpD42x6Y1fMksggiyCIIh-VO-O4L69I01OgEqPLxAYKUMRDwCuDQFZNBs8458d9_Ll49FmJHfmLxYmR_6XI1-fACkgQBZYkSc7qHLY_R2zj6pIfxqE0StJVynD9T980rlVs1&amp;t=29665526" type="text/javascript"></script> 
+   <script src="/its/vendor_registration/ScriptResource.axd?d=N8yu_mCSw7pVNHUVoudvaMGGIlmXcbGcEsxisGp4ai2M86PFhC3qL_Q-rAUWZR38k_FA1lj6PVNDwCL3EtzZAyPm_D5Yy2W5miiVW-RF9TMGFZydO_ttUZNFKVI9cNIa7v6OeA2&amp;t=734d43f5" type="text/javascript"></script> 
+   <script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script> 
+   <script src="/its/vendor_registration/ScriptResource.axd?d=h2sh8WDIdssVKzcgpLvRtBnl7-MuzoWOBJEVU5kBuiTUkkrEAvMhiuxPrDX_Ewf_zvO73d2Cqyla6Q0vaz7mv_nZ9jyY-9Kc5GpmnEuQEbyqcndNCkkk3B3YfYXJnRTZRWYX-w2&amp;t=734d43f5" type="text/javascript"></script> 
+   <script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script> 
+   <div class="aspNetHidden"> 
+    <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="6FB70449"> 
+    <input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value=""> 
+   </div> 
+   <div id="divReportBug" style="position:fixed; top:30%; left:2%;"> 
+    <img src="images/reportIssue_bttn.png" id="Button_ReportBug" onclick="javascript: reportBug();" alt="Report Bug"> 
+    <script type="text/javascript">
+            hideBugTool();
+        </script> 
+   </div> 
+   <div id="container"> 
+    <div id="header"> 
+     <a href="http://www.its.ms.gov"><img src="images/header.png" width="958" height="274" alt="Go to the ITS website"></a> 
+     <div class="row"> 
+      <div class="cell"> 
+       <span class="section">Vendor General RFPs Registration</span> 
+      </div> 
+      <div class="cell contentRight"> 
+       <input type="submit" name="ctl00$btnlogout" value="ITS Home" id="btnlogout" class="logoutbtn"> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="app"> 
+     <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$MainContent$ScriptManager1', 'Form1', ['tctl00$MainContent$Wizard1$GeneralRFPPnl','MainContent_Wizard1_GeneralRFPPnl'], [], [], 90, 'ctl00');
+//]]>
+</script> 
+     <div id="MainContent_Progress" style="margin:0 auto; width:800px; clear:both; padding-top:20px;" class="wizard-steps"> 
+      <div id="MainContent_Step1" class="active-step"> 
+       <a href="#step-one"><span>1</span> General RFPs</a>
+      </div> 
+      <div id="MainContent_Step2"> 
+       <a href="#step-two"><span>2</span> Company Information</a>
+      </div> 
+      <div id="MainContent_Step3"> 
+       <a href="#step-three"><span>3</span> LOC Information</a>
+      </div> 
+      <div id="MainContent_Step4"> 
+       <a href="#step-four"><span>4</span>Review</a>
+      </div> 
+      <div id="MainContent_Step5"> 
+       <a href="#step-five"><span>5</span>Disclaimer</a>
+      </div> 
+     </div> 
+     <div style="margin:0 auto; width:800px; clear:both; padding-top:20px;"> 
+      <table cellspacing="0" cellpadding="0" id="MainContent_Wizard1" style="width:800px;border-collapse:collapse;"> 
+       <tbody>
+        <tr style="height:100%;"> 
+         <td> 
+          <div id="MainContent_Wizard1_GeneralRFPPnl"> 
+           <div style="text-align:center"> 
+            <div id="MainContent_Wizard1_ValidationSummary1" class="errorMessage" style="display:none;"> 
+            </div> 
+           </div> 
+           <table border="0" style="width:100%" cellpadding="5"> 
+            <tbody>
+             <tr style="width:800px"> 
+              <td class="style1"> General RFP: </td> 
+              <td style="text-align:left; padding-left:5px"> <select name="ctl00$MainContent$Wizard1$ddlGeneralRFP" onchange="javascript:setTimeout('__doPostBack(\'ctl00$MainContent$Wizard1$ddlGeneralRFP\',\'\')', 0)" id="MainContent_Wizard1_ddlGeneralRFP"> <option selected value="-">PLEASE SELECT RFP</option> <option value="3849">General RFP 3849 - HW/SW &amp; Telephone</option> <option value="3850">General RFP 3850 - Consulting Services</option> </select> <span id="MainContent_Wizard1_RequiredFieldValidator17" style="color:Red;display:none;"></span> </td> 
+             </tr> 
+            </tbody>
+           </table>
+           <br>
+           <br> 
+          </div> </td> 
+        </tr>
+        <tr> 
+         <td align="center"> 
+          <table> 
+           <tbody>
+            <tr> 
+             <td width="40%" valign="top" align="right"> 
+              <div class="actions" style="display: inline-block; float: left;"> 
+               <input type="submit" name="ctl00$MainContent$Wizard1$StartNavigationTemplateContainerID$btnContinue" value="Continue ?" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$Wizard1$StartNavigationTemplateContainerID$btnContinue&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="MainContent_Wizard1_StartNavigationTemplateContainerID_btnContinue" class="button01 button"> &nbsp;&nbsp;
+              </div></td> 
+             <td valign="top">
+              <div class="actions" style="display: inline-block; float: left;"> 
+               <input type="submit" name="ctl00$MainContent$Wizard1$StartNavigationTemplateContainerID$btnCancel" value="x Cancel" id="MainContent_Wizard1_StartNavigationTemplateContainerID_btnCancel" class="button02 button"> 
+              </div></td> 
+            </tr> 
+           </tbody>
+          </table> </td> 
+        </tr> 
+       </tbody>
+      </table> 
+     </div> 
+    </div> 
+    <div id="footer"> 
+     <div class="footerTop">
+      <img src="images/footerTop.png" width="958" height="50">
+     </div> 
+     <div class="footerContent"> 
+      <div class="cellLeft"> 
+       <p> <a href="default.aspx">Home</a> | FAQ | Contact Us | Disclaimer </p> 
+       <p>© Copyright 1970-2012 Mississippi Department of Information Technology Services. All Rights Reserved.</p> 
+       <br> 
+       <br>
+      </div> 
+      <div class="cellRight contentRight"> 
+       <div class="msGov">
+        <a href="http://www.new.ms.gov"><img src="images/msGov.png" width="250" height="110" alt="ms.gov"></a>
+       </div> 
+      </div> 
+     </div> 
+     <div class="footerBttm">
+      <img src="images/footerBttm.png" width="958" height="68">
+     </div> 
+    </div> 
+   </div> 
+   <script type="text/javascript">
+//<![CDATA[
+var Page_ValidationSummaries =  new Array(document.getElementById("MainContent_Wizard1_ValidationSummary1"));
+var Page_Validators =  new Array(document.getElementById("MainContent_Wizard1_RequiredFieldValidator17"));
+//]]>
+</script> 
+   <script type="text/javascript">
+//<![CDATA[
+var MainContent_Wizard1_ValidationSummary1 = document.all ? document.all["MainContent_Wizard1_ValidationSummary1"] : document.getElementById("MainContent_Wizard1_ValidationSummary1");
+MainContent_Wizard1_ValidationSummary1.displaymode = "List";
+var MainContent_Wizard1_RequiredFieldValidator17 = document.all ? document.all["MainContent_Wizard1_RequiredFieldValidator17"] : document.getElementById("MainContent_Wizard1_RequiredFieldValidator17");
+MainContent_Wizard1_RequiredFieldValidator17.controltovalidate = "MainContent_Wizard1_ddlGeneralRFP";
+MainContent_Wizard1_RequiredFieldValidator17.errormessage = "No RFP was Selected";
+MainContent_Wizard1_RequiredFieldValidator17.display = "None";
+MainContent_Wizard1_RequiredFieldValidator17.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+MainContent_Wizard1_RequiredFieldValidator17.initialvalue = "-";
+//]]>
+</script> 
+   <script type="text/javascript">
+//<![CDATA[
+
+(function(id) {
+    var e = document.getElementById(id);
+    if (e) {
+        e.dispose = function() {
+            Array.remove(Page_ValidationSummaries, document.getElementById(id));
+        }
+        e = null;
+    }
+})('MainContent_Wizard1_ValidationSummary1');
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        
+document.getElementById('MainContent_Wizard1_RequiredFieldValidator17').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('MainContent_Wizard1_RequiredFieldValidator17'));
+}
+//]]>
+</script> 
+  </form>   
+ </body>
+</html>

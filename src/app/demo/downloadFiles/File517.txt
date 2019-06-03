@@ -1,0 +1,502 @@
+<!doctype html>
+<html class="no-js tn-html" lang="en">
+ <head> 
+  <title>TDOT Weekly Construction Report for Middle Tennessee, May 30 – June 5, 2019</title> 
+  <meta charset="utf-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="keywords"> 
+  <meta name="description" content="A complete list of lane closure activity due to construction or maintenance operations on state-owned roads within the 26 middle Tennessee counties of TDOT Region 3."> 
+  <meta name="url" content="https://www.tn.gov/tdot/news/2019/5/30/tdot-weekly-construction-report-for-middle-tennessee--may-30---june-5--2019.html"> 
+  <meta name="lastModified" content="30 May 2019 16:32:32 CDT"> 
+  <meta name="pageType" content="news"> 
+  <meta name="pageDepartment" content="tdot"> 
+  <meta name="pageDivision" content="news"> 
+  <meta name="newsDateTimeString" content="Thursday, May 30, 2019|04:30pm"> 
+  <meta name="eventDateTimeString"> 
+  <meta name="searchType"> 
+  <meta name="pagePath" content="/content/tn/tdot/news/2019/5/30/tdot-weekly-construction-report-for-middle-tennessee--may-30---june-5--2019"> 
+  <meta name="category"> 
+  <meta property="og:title" content="TDOT Weekly Construction Report for Middle Tennessee, May 30 – June 5, 2019"> 
+  <meta property="og:description" content="A complete list of lane closure activity due to construction or maintenance operations on state-owned roads within the 26 middle Tennessee counties of TDOT Region 3."> 
+  <meta property="og:url" content="https://www.tn.gov/tdot/news/2019/5/30/tdot-weekly-construction-report-for-middle-tennessee--may-30---june-5--2019.html"> 
+  <meta property="og:image"> 
+  <meta name="twitter:card" content="summary"> 
+  <meta name="twitter:title" content="TDOT Weekly Construction Report for Middle Tennessee, May 30 – June 5, 2019"> 
+  <meta name="twitter:description" content="A complete list of lane closure activity due to construction or maintenance operations on state-owned roads within the 26 middle Tennessee counties of TDOT Region 3."> 
+  <meta name="twitter:url" content="https://www.tn.gov/tdot/news/2019/5/30/tdot-weekly-construction-report-for-middle-tennessee--may-30---june-5--2019.html"> 
+  <meta name="twitter:image"> 
+  <link rel="shortcut icon" href="/etc/clientlibs/tncore/main/img/favicon.ico"> 
+  <link rel="canonical" href="https://www.tn.gov/tdot/news/2019/5/30/tdot-weekly-construction-report-for-middle-tennessee--may-30---june-5--2019.html"> 
+  <link rel="stylesheet" href="/etc/clientlibs/tncore/main.min.7b7f24489495d82cdd3b7a88107b9f76.css" type="text/css"> 
+  <link rel="stylesheet" href="/etc/clientlibs/tn-sites/tngov.min.de4d4402ec2138999b5540dbe08724b4.css" type="text/css"> 
+  <script src="//assets.adobedtm.com/046dcefde06052c1522b33b00453f0592c8031e1/satelliteLib-0eaceea9a3f6b60d158884d8c7daf5435071c1e5.js"></script> 
+ </head> 
+ <body class="tngov" data-selectors="[]" data-template="newspage"> 
+  <div class="sr-only sr-only-focusable"> 
+   <p><a href="#main">Skip to Main Content</a></p> 
+  </div> 
+  <noindex> 
+   <div> 
+   </div> 
+   <div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+      <div class="tn_header tn-header">
+       <header id="header"> 
+        <div class="row center-block top-nav"> 
+         <a class="logo" href="https://www.tn.gov/" data-logo="state-government" style="background-image: url('/etc/clientlibs/tncore/main/img/logos/tn-logo.png')"> 
+          <div>
+           Home
+          </div> </a> 
+         <a class="search-all icon-home-1" href="https://www.tn.gov/">Go to TN.gov</a> 
+        </div> 
+        <div class="row center-block agency"> 
+         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 columns title"> 
+          <a href="/content/tn/tdot.html"> <img src="/content/dam/headers/tdot.png" alt="  State of Tennessee" id="entity-name" data-pin-nopin="true"> </a> 
+         </div> 
+         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 columns text-right"> 
+          <div class="tn-headersearch">
+           <div class="search"> 
+            <form method="get" action="/tdot/search-results.html"> 
+             <input type="text" class="search-box" name="q" placeholder="Search TDOT" aria-label="Search TDOT"> 
+             <input type="submit" value="Search" class="search-button"> 
+             <i class="icon-search"></i> 
+            </form> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="backdrop" style="background-image:url(/content/dam/headers/test.jpg)"></div> 
+       </header> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="tn-topnav">
+    <nav id="nav"> 
+     <div class="row center-block"> 
+      <div class="col-lg-12"> 
+       <div class="logo-small tn-logo"> 
+        <a href="/content/tn.html"><span class="sr-only">Go to TN.gov</span></a> 
+       </div> 
+       <div class="mobile-show icon-menu mobile-menu">
+        Section
+       </div> 
+       <ul class="inline-list nav-items"> 
+        <li> <a href="/tdot.html" class="icon-home"><span class="sr-only">Go to TDOT</span></a> </li> 
+        <li class="dropdown"> <a href="/tdot/driver-how-do-i.html">Driver how do I...<i class="icon-down-dir"></i></a> 
+         <ul> 
+          <li><a href="/tdot/driver-how-do-i/look--at-traffic-conditions.html">Look at Traffic conditions</a></li> 
+          <li><a href="/tdot/driver-how-do-i/look-at-or-order-state-maps.html">Look at or order state maps</a></li> 
+          <li><a href="/tdot/driver-how-do-i/find-traveler-information.html">Find traveler information</a></li> 
+          <li><a href="/tdot/driver-how-do-i/get-involved.html">Get Involved</a></li> 
+          <li><a href="/tdot/driver-how-do-i/enroll-in-yellow-dot-program.html">Enroll Yellow DOT Program</a></li> 
+          <li><a href="/tdot/driver-how-do-i/enroll-in-yellow-dot-program1.html">Learn more about bridges</a></li> 
+          <li><a href="/tdot/driver-how-do-i/road-closures.html">Road Closures</a></li> 
+          <li><a href="/tdot/driver-how-do-i/track-a-project.html">Track a Project</a></li> 
+         </ul> </li> 
+        <li class="dropdown"> <a href="/tdot/business-how-do-i---.html">Business how do I...<i class="icon-down-dir"></i></a> 
+         <ul> 
+          <li><a href="/tdot/business-how-do-i---/business.html">Do Business with TDOT?</a></li> 
+          <li><a href="/tdot/business-how-do-i---/construction-division-redirect.html">Learn more about Construction (lettings, bidding, contracts)?</a></li> 
+          <li><a href="/tdot/business-how-do-i---/get-small-business-help.html">Find a public meeting or hearing</a></li> 
+          <li><a href="/tdot/business-how-do-i---/civil-rights-sbdp_rd.html">Get small business help</a></li> 
+          <li><a href="/tdot/business-how-do-i---/bus-how-do-i-projects_rd.html">Get information on projects</a></li> 
+         </ul> </li> 
+        <li class="dropdown"> <a href="/tdot/government-how-do-i---.html">Government how do I<i class="icon-down-dir"></i></a> 
+         <ul> 
+          <li><a href="/tdot/government-how-do-i---/encourage-public-involvement.html">Encourage Public Involvement</a></li> 
+          <li><a href="/tdot/government-how-do-i---/fund-a-project-redirect.html">Fund a Project</a></li> 
+          <li><a href="/tdot/government-how-do-i---/track-a-project-redirect.html">Track a Project</a></li> 
+          <li><a href="/tdot/government-how-do-i---/find-public-transportation-resources-redirect.html">Find public transportation resources</a></li> 
+          <li><a href="/tdot/government-how-do-i---/get-signage-and-naming-information-redirect.html">Get Signage and Naming Information</a></li> 
+         </ul> </li> 
+        <li> <a href="/tdot/find-local-information.html">Find Local Information</a> </li> 
+        <li> <a href="/tdot/find-local-information1.html">Find IMPROVE Act Projects</a> </li> 
+        <li> <a href="/tdot/find-local-information11.html">Sitemap</a> </li> 
+        <li> <a href="/tdot/find-local-information111.html">Index of Services</a> </li> 
+       </ul> 
+       <div class="right primary-print"> 
+        <a href="javascript:window.print();" class="icon-print"><span class="sr-only">Print This Page</span></a> 
+       </div> 
+       <div class="right secondary-print"> 
+        <a href="javascript:window.print();" class="icon-print"><span class="sr-only">Print This Page</span></a> 
+       </div> 
+       <div class="right secondary-search"> 
+        <a class="icon-search"><span class="sr-only">Go to Search</span></a> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="config hidden" data-config="{&quot;closeMenuText&quot;:&quot;Close Menu&quot;,&quot;menuText&quot;:&quot;Section&quot;}"></div> 
+    </nav> 
+   </div> 
+   <div class="tn-alerts"> 
+   </div> 
+  </noindex> 
+  <div id="main" class="news" tabindex="-1"> 
+   <div class="row center-block"> 
+    <div class="tn-leftnav"> 
+     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 "> 
+      <div class="tn-newsroomfilters">
+       <nav class="side expander" data-newsroom-resource-path="/tdot/news/_jcr_content"> 
+       </nav> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 content"> 
+     <article> 
+      <div class="tn-pagetitle show" aria-hidden="false"> 
+       <h1>TDOT Weekly Construction Report for Middle Tennessee, May 30 – June 5, 2019</h1> 
+      </div> 
+      <div class="date">
+       Thursday, May 30, 2019 | 
+       <small>04:30pm</small>
+      </div> 
+      <div> 
+       <div class="tn-rte parbase"> 
+        <p><strong><u>DAVIDSON COUNTY, Resurfacing on I-40 from west of Church Street to east of Arlington Avenue</u></strong></p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Nightly,</strong> <strong>8PM-5AM,</strong> There will be alternating nightly lane closures on I-40 in both directions from MM 209-213 final pavement markings.</p> 
+        <p><strong><u>&nbsp;</u></strong></p> 
+        <p><strong><u>DAVIDSON COUNTY, I-440 Reconstruction from I-40 to I-24, including removing and replacing existing pavement</u></strong></p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>From now through July 2020, </strong>There will be intermittent lane closures in both directions on I-440 for maintenance as needed. At least one lane open in both directions.</p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Daily, 9AM-3PM,</strong> There will be a right lane closure on SR 6 (Franklin Pike) southbound at I-65 for bridge substructure work.</p> 
+        <p><strong><u>&nbsp;</u></strong></p> 
+        <p><strong><u>DAVIDSON COUNTY, Intersection improvements on US 31A at Welshwood Drive (LM7.24) and resurfacing from Swiss Drive (LM 4.24) at Elysian Fields Rd (LM 7.52)</u></strong></p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Nightly, 8PM-5AM,</strong> There will be a nightly lane closure on Nolensville Road in both directions from Swiss Drive to Harding Place for thermoplastic, ADA ramps, sidewalks, and signal work.</p> 
+        <p><strong><u>&nbsp;</u></strong></p> 
+        <p><strong><u>DAVIDSON COUNTY, I-24 over Cumberland River, Woodland St, Main St joint repair</u></strong></p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Monday, June 3 and Tuesday, June 4, 9PM-5AM,</strong> There will be alternating lane closures on I-24 westbound in order to get field measurements of existing joints. Three lanes to remain open with occasional rolling road blocks.</p> 
+        <p><strong><u>&nbsp;</u></strong></p> 
+        <p><strong><u>DAVIDSON COUNTY, SR 1 Grading, Drainage, Signals, and Paving from Vultee Boulevard to Jupiter Drive</u></strong></p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Daily, 9AM-5PM,</strong> There will be a lane closure in both directions for storm drain installation and paving. At least one lane will remain open at all times.</p> 
+        <p><strong><u>&nbsp;</u></strong></p> 
+        <p><strong><u>DAVIDSON COUNTY, Bridge Replacement on Hillwood Blvd</u></strong></p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>From now through July 2019,</strong> Hillwood Blvd. will be closed from SR 1 (Harding Pike) to Post Road for bridge replacement. A signed detour will be in place.</p> 
+        <p><strong><u>&nbsp;</u></strong></p> 
+        <p><strong><u>DAVIDSON COUNTY, Resurfacing on I-24 from near Clay Lick Rd (LM 5) to west of SR 45 Old Hickory Blvd (LM 8.65)</u></strong></p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Nightly, 8PM-5AM, </strong>There will be alternating lane closures for milling between MM 37-40. At least one lane will remain open in each direction.</p> 
+        <p><strong><u>&nbsp;</u></strong></p> 
+        <p><strong><u>DAVIDSON/RUTHERFORD COUNTIES, I-24 SMART Corridor</u></strong></p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Nightly, 8PM-5AM, </strong>There will be temporary, intermittent closures of the outside lanes of I-24 in both directions between Bell Rd &amp; Sam Ridley Pkwy to move and replace rail from various locations.</p> 
+        <p>&nbsp;</p> 
+        <p><strong><u>&nbsp;</u></strong></p> 
+        <p><strong><u>&nbsp;</u></strong></p> 
+        <p><strong><u>MAURY COUNTY, SR 396 Saturn Pkwy. Extension and SR 247</u></strong></p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Daily, 9AM-3:30PM, </strong>Sign footer installing eastbound will close left lane.</p> 
+        <p><strong><u>&nbsp;</u></strong></p> 
+        <p><strong><u>MAURY COUNTY, Construction of New Interchange on US 43 @ SR 6</u></strong></p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Daily, 8AM-4:30PM, </strong>US-43 and SR 166 will have intermittent lane closures for resurfacing.</p> 
+        <p><strong><u>&nbsp;</u></strong></p> 
+        <p><strong><u>MAURY COUNTY, Widening of Beechcroft Rd from Cleburn Rd to McCormick Crossing</u></strong></p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Daily, 9AM-3:30PM,</strong> There will be temporary lane closures on SR 247 for widening activities.</p> 
+        <p><strong><u>&nbsp;</u></strong></p> 
+        <p><strong><u>ROBERTSON COUNTY, SR 161 Bridge Repair</u></strong></p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>From now through spring 2019,</strong> The bridge at LM 9 will be reduced to one lane for repairs. Traffic will be controlled by a temporary signal.</p> 
+        <p><strong><u>&nbsp;</u></strong></p> 
+        <p><strong><u>ROBERTSON and SUMNER COUNTY, S.I.A. Serving Project "Deepdish"</u></strong></p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Daily, 9AM-3PM,</strong> There will be temporary lane closures on SR 52 and US 31W for phase 1 construction activities. One lane will remain open.</p> 
+        <p><strong><u>&nbsp;</u></strong></p> 
+        <p><strong><u>SMITH COUNTY, Rockfall Mitigation on SR 25</u></strong></p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Daily, 9AM-3PM,</strong> There will be temporary lane closures on SR 25 for paving operations.</p> 
+        <p><strong><u>&nbsp;</u></strong></p> 
+        <p><strong><u>SMITH COUNTY, Resurfacing on SR 53 from SR 141/SR 264 (LM 11.04) to US 70N (SR 24) (LM 15.66)</u></strong></p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Daily, 9AM-3:30PM,</strong> There will be temporary lane closures on SR 53 in both directions for paving activities. One lane will remain open.</p> 
+        <p><strong><u>&nbsp;</u></strong></p> 
+        <p><strong><u>SMITH COUNTY, Resurfacing SR 96 from the Putnam County line (LM 0.0) to Putnam County line (LM 0.66)</u></strong></p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Daily, 9AM-3:30PM,</strong> There will be temporary lane closures on SR 96 in both directions for paving activities. One lane will remain open.<a name="_GoBack" class="anchor" id="_GoBack"></a></p> 
+        <p>&nbsp;</p> 
+        <p><strong><u>SUMNER COUNTY, Retaining Wall Construction on SR 109 from Odem’s Bend to Bypass of South Gallatin</u></strong></p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Daily, 9AM-3PM, </strong>There will be temporary lane closures on SR 109 in both directions for construction and possible paving. One lane will remain open.</p> 
+        <p><strong><u>&nbsp;</u></strong></p> 
+        <p><strong><u>WILLIAMSON COUNTY, Resurfacing on I-65 from near Liberty Pike (LM 13.37) to south of Concord Road (LM 17.50)</u></strong></p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Nightly 8PM-5AM, </strong>There will be alternating lane closures in both directions on I-65 between MM 67-71 for milling.</p> 
+        <p><strong><u>&nbsp;</u></strong></p> 
+        <p><strong><u>WILLIAMSON COUNTY, Resurfacing on I-840 from near Campbell Road (LM 26) to west of the bridge over the Harpeth River (LM 33.05), including bridge deck repair</u></strong></p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Nightly, 8PM-5AM,</strong> There will be nightly lane closures on I-840 between MM 31-39 for milling and paving.</p> 
+        <p><strong><u>&nbsp;</u></strong></p> 
+        <p><strong><u>WILLIAMSON COUNTY, Grading, drainage, and paving on SR 11 at the intersection of SR 96 in Triune</u></strong></p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Daily, 8AM-4PM, </strong>There will be a lane closure on SR11 NB and SR96 WB for grading work.</p> 
+        <p>&nbsp;</p> 
+        <p><strong><u>&nbsp;</u></strong></p> 
+        <p><strong><u>WILSON COUNTY, I-40 Widening east of SR 109 to east of I-840</u></strong></p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Monday, June 3 through Wednesday, June 5, 8AM-5AM, </strong>There will be lane closures on I-40 westbound.</p> 
+        <p><strong><u>&nbsp;</u></strong></p> 
+        <p><strong><u>WILSON COUNTY, Widening on SR 141 from South of Spring Creek to North of Lovers Lane</u></strong></p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Daily, 6AM-6PM, </strong>There will be a temporary lane closure on SR 141 for construction activities. One lane will remain open in each direction.</p> 
+        <p><strong><u>&nbsp;</u></strong></p> 
+        <p><strong><u>WILSON COUNTY, Bridge Repair on SR 26 over Sinking Creek</u></strong></p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Through fall 2019, </strong>SR 26 will be down to one 10' lane in each direction on the bridge over Sinking Creek. One lane will be open in each direction.</p> 
+        <p>&nbsp;</p> 
+        <p><strong><u>WILSON COUNTY, Resurfacing from US 70 (SR26) (LM 18) to the Smith County Line (LM 27.73)</u></strong></p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Daily, 9AM-3:30PM,</strong> There will be temporary lane closures on SR 24 in both directions for paving activities. One lane will remain open.<strong><u></u></strong></p> 
+        <p><strong>&nbsp;</strong></p> 
+        <p><strong><u>WILSON COUNTY, Resurfacing on US 231 from Market Street (LM 14.41) to near Forrest Avenue (LM 15.18)</u></strong></p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Daily, 9AM-3:30PM,</strong> There will be temporary lane closures on SR 10 (US 231) in both directions for paving activities. One lane will remain open.</p> 
+        <p>&nbsp;</p> 
+        <p><strong><u>WILSON COUNTY, Resurfacing SR 141 from East of Stokes Street (LM 10.54) to Sugar Flat Road (LM 14.59)</u></strong></p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Daily, 9AM-3:30PM</strong>, There will be temporary lane closures on SR 141 in both directions for paving activities. One lane will remain open.<strong></strong></p> 
+        <p><strong>&nbsp;</strong></p> 
+        <p><strong>&gt;&gt;&gt; MAINTENANCE &amp; UTILITIES</strong></p> 
+        <p><strong>&nbsp;</strong></p> 
+        <p><strong>DAVIDSON COUNTY</strong></p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Daily, 9AM-3PM,</strong> There will be a lane closure on southbound SR 1 for construction of sidewalk and curb and gutter for KIPP Nashville (LM 30).</p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Thursday, May 30, 8PM-5AM,</strong> There will be lane closures on I-40 westbound at MM 197 for paving.</p> 
+        <p><strong>&nbsp;</strong></p> 
+        <p><strong>DICKSON COUNTY</strong></p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Wednesday, May 29-Friday, May 31, 9AM-3PM, </strong>There will be a cleanup of a fuel spill that will require intermittent lane closures.<strong></strong></p> 
+        <p><strong>&nbsp;</strong></p> 
+        <p><strong>RUTHERFORD COUNTY</strong></p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Wednesday, May 29-Tuesday, June 4, 6PM-6AM,</strong> There will be alternating lane closures at I-840 in both directions at MM 55 for milling and patching.<strong></strong></p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Thursday, June 30- Wednesday, June 5, 9AM-3PM, </strong>There will be lane closure(s) on SR 266 for miscellaneous operations<strong></strong></p> 
+        <p><strong>&nbsp;</strong></p> 
+        <p><strong>SUMNER COUNTY</strong></p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Monday, June 3, 9AM-3PM, </strong>There will be a lane closure on SR 6 northbound of milling and paving.</p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Tuesday, June 4, 8PM-5AM, </strong>There will be milling and paving on I-65 Northbound (MM 99.10) resulting in the closure of the slow lane.</p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Wednesday, June 5, 8PM-5AM, </strong>There will Bridge Deck Repair on I-65 Southbound (MM 98.80) resulting in the closure of the fast lane.</p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Thursday, June 6, 8PM-5AM, </strong>There will be milling and paving on I-65 Southbound (MM 101.30) resulting in the closure of the slow lane.</p> 
+        <p>&nbsp;</p> 
+        <p><strong>&nbsp;</strong></p> 
+        <p><strong>WILLIAMSON COUNTY</strong></p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Monday, June 6-Tuesday, June 7, 8PM-5AM, </strong>There will be one lane closure on SR 11 at MM 15 for subgrade work.</p> 
+        <p><strong>&nbsp;</strong></p> 
+        <p><strong>WILSON COUNTY</strong></p> 
+        <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Daily, 9AM-3PM, </strong>There will be rolling roadblocks on SR 109, between Callis Road and I-40, for rock blasting/excavation. Additionally, traffic will be reduced to one lane in both directions at the intersection of SR 109 and Callis Road for construction of turn lane and crossover.</p> 
+        <p>&nbsp;</p> 
+        <p>Motorists are encouraged to use caution and obey reduced speed limits in all TDOT work zones, regardless of lane closure activity.&nbsp; Information in this report is provided to the Department of Transportation by the contractors.&nbsp; Most work is weather dependent and subject to change due to inclement weather.&nbsp;</p> 
+        <p>&nbsp;</p> 
+        <p>From your desktop or mobile device, get the latest construction activity and live streaming SmartWay traffic cameras at <a href="http://www.tnsmartway.com/Traffic">www.TNSmartWay.com/Traffic</a>. Travelers can also dial 511 from any land-line or cellular phone for travel information, or follow us on Twitter at <a href="http://www.twitter.com/TN511">www.twitter.com/TN511</a> for statewide travel.&nbsp;</p> 
+        <p>&nbsp;</p> 
+        <p>As always, drivers are reminded to use all motorist information tools wisely and <em>Know Before You Go! </em>by checking travel conditions before leaving for your destination.&nbsp; Drivers should never tweet, text or talk on a cell phone while behind the wheel.</p> 
+       </div> 
+      </div> 
+     </article> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="tn-backtotop">
+   <a href="#header" class="page-top icon-up"></a> 
+  </div> 
+  <noindex> 
+   <div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+      <div class="tn_quicknav tn-quicknav">
+       <div> 
+        <div class="quick-nav"> 
+         <div class="row"> 
+          <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12"> 
+           <ul class="inline-list"> 
+            <li><a href="/tdot/drivers-traffic.html" title="Highway"><i class="icon-cab"></i><br>Highway</a></li> 
+            <li><a href="/tdot/multimodal-transportation-resources/office-of-public-transportation.html" title="Public Transportation"><i class="icon-bus"></i><br>Public Transportation</a></li> 
+            <li><a href="/tdot/multimodal-transportation-resources/bicycle-and-pedestrian-program.html" title="Bike &amp; Pedestrian"><i class="icon-bicycle"></i><br>Bike &amp; Pedestrian</a></li> 
+            <li><a href="/tdot/aeronautics.html" title="Aeronautics"><i class="icon-plane"></i><br>Aeronautics</a></li> 
+            <li><a href="/tdot/maintenance/ferry-services.html" title="Waterway"><i class="icon-anchor"></i><br>Waterway</a></li> 
+            <li><a href="/tdot/multimodal-transportation-resources/office-of-rail-safety-and-inspection.html" title="Rail"><i class="icon-aboveground-rail"></i><br>Rail</a></li> 
+            <li><a href="/tdot/long-range-planning-home/longrange-policy/freight-planning.html" title="Freight"><i class="icon-kiosk"></i><br>Freight</a></li> 
+           </ul> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="tn_socialmediafooter tn-socialmediafooter">
+       <div class="tn-socialmediabarfooter"> 
+        <div class="social"> 
+         <div class="row"> 
+          <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 columns"> 
+           <ul class="inline-list"> 
+            <li><h2>Social Media</h2></li> 
+            <li><a href="https://www.facebook.com/myTDOT1/" class="icon-facebook" target="_blank"><span>facebook</span></a></li> 
+            <li><a href="https://twitter.com/myTDOT" class="icon-twitter" target="_blank"><span>twitter</span></a></li> 
+            <li><a href="https://www.youtube.com/user/TDOTnews" class="icon-youtube" target="_blank"><span>youtube</span></a></li> 
+            <li><a href="https://www.instagram.com/my_tdot/" class="icon-instagram" target="_blank"><span>instagram</span></a></li> 
+            <li><a href="https://www.flickr.com/photos/tndot/" class="icon-flickr" target="_blank"><span>flickr</span></a></li> 
+            <li><a href="https://www.linkedin.com/company/tennessee-department-of-transportation" class="icon-linkedin" target="_blank"><span>linkedin</span></a></li> 
+           </ul> 
+          </div> 
+         </div> 
+        </div> 
+       </div>
+      </div> 
+      <div class="tn_secondaryfooter tn-secondaryfooter">
+       <footer id="agency-footer"> 
+        <div class="row"> 
+         <div class="col-md-15 col-sm-15 columns"> 
+          <h2 class="border-darkblue"><a href="/tdot/about.html">About TDOT</a></h2> 
+          <ul class="block-list"> 
+           <li><a href="/tdot/find-local-information1.html">Find IMPROVE Act Projects</a></li> 
+           <li><a href="/tdot/about/transportation-system-overview.html">Transportation System Overview</a></li> 
+           <li><a href="/tdot/strategic-planning-home.html">Strategic Planning</a></li> 
+           <li><a href="/tdot/about/tdot-organizational-charts/tdot-organization-chart-redirect.html">Organizational Chart</a></li> 
+           <li><a href="/tdot/about/tdot-organizational-charts/commissioner.html">TDOT Commissioner</a></li> 
+           <li><a href="/tdot/about/commissioner-history.html">Commissioner History</a></li> 
+           <li><a href="/tdot/100years-home.html">TDOT Centennial</a></li> 
+          </ul> 
+         </div> 
+         <div class="col-md-15 col-sm-15 columns"> 
+          <h2 class="border-darkblue"><a href="/tdot/transportation-quick-links.html">Quick Links</a></h2> 
+          <ul class="block-list"> 
+           <li><a href="/tdot/smartway-redirect.html">SmartWay</a></li> 
+           <li><a href="/tdot/human-resources-home/tdot-careers.html">TDOT Careers </a></li> 
+           <li><a href="/tdot/transportation-quick-links/maps-redirect.html">Tennessee Maps</a></li> 
+           <li><a href="/tdot/transportation-quick-links/upcoming-events.html">Calendar &amp; Events</a></li> 
+           <li><a href="/tdot/transportation-quick-links/driver-license-services-redirect.html">Driver License Services</a></li> 
+           <li><a href="/tdot/government/g/ada-office0.html">TDOT ADA Office</a></li> 
+          </ul> 
+         </div> 
+         <div class="col-md-15 col-sm-15 columns"> 
+          <h2 class="border-darkblue"><a href="/tdot/about/contact-us.html">Contact &amp; Feedback</a></h2> 
+          <ul class="block-list"> 
+           <li><a href="/tdot/community-relations/public-involvement---communication/customer-service-survey.html">Customer Service Survey</a></li> 
+           <li><a href="/tdot/community-relations/public-involvement---communication/request-a-speaker.html">Request a Speaker</a></li> 
+           <li><a href="/tdot/about/tdot-organizational-charts/tdot-key-staff-directory.html">TDOT Key Staff Directory</a></li> 
+           <li><a href="/tdot/community-relations/public-involvement---communication/record-a-comment.html">Record-A-Comment</a></li> 
+           <li><a href="/tdot/community-relations.html">Community Relations</a></li> 
+           <li><a href="/tdot/transportation-legal/transportation-legal-public-records-requests.html">Public Records Requests</a></li> 
+          </ul> 
+         </div> 
+         <div class="col-md-15 col-sm-15 columns"> 
+          <h2 class="border-darkblue"><a href="/tdot/transportation-tdot-partners.html">TDOT Partners</a></h2> 
+          <ul class="block-list"> 
+           <li><a href="/tdot/transportation-gov-reidrect.html">Federal Department of Transportation</a></li> 
+           <li><a href="/tdot/multimodal-transportation-resources/office-of-public-transportation.html">Office of Public Transportation</a></li> 
+           <li><a href="/tdot/tn-dept-of-safety-redirect.html">Tennessee Department of Safety</a></li> 
+           <li><a href="/tdot/tdec-redirect.html">Tennessee Department of Environment &amp; Conservation</a></li> 
+           <li><a href="/tdot/dept-of-revenue-redirect.html">Tennessee Department of Revenue</a></li> 
+          </ul> 
+         </div> 
+         <div class="col-md-15 col-sm-15 columns last"> 
+          <div class="contact"> 
+           <strong>Tennessee Department of Transportation<br></strong> Clay Bright 
+           <br> 
+           <br> 
+           <address> James K. Polk Bldg., Suite 700<br> 505 Deaderick Street<br> Nashville, TN 37243<br> (615) 741-2848<br> <a href="mailto:TDOT.Comments@tn.gov">TDOT.Comments@tn.gov</a> </address> 
+          </div> 
+          <div> 
+           <img src="/etc/clientlibs/tncore/main/img/tn-seal.png" alt="Tennessee State Seal"> 
+          </div> 
+         </div> 
+        </div> 
+       </footer> 
+      </div> 
+     </div> 
+    </div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+      <div class="tn_footer tn-footer parbase"> 
+       <footer id="footer"> 
+        <div id="footer-top"> 
+         <div class="row"> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns"> 
+           <ul class="inline-list"> 
+            <li> <a href="/about-tn/flag-status.html" class="icon-flag" data-resource-path="/_jcr_content/footer/tn_footer"> </a> </li> 
+            <li id="footer-livechat" class="offline"> <a href="#" class="icon-chat" onclick="openFooterChat()" target="_blank"> Live Chat </a> 
+             <div class="livechat"> 
+              <script type="text/javascript">
+                                function openFooterChat() {
+                                    window.open ("https://help.tn.gov/sn_customerservice_tn_chat_selector.do", "popup", "width=900, height=600"); 
+                                 };
+                            </script> 
+             </div> </li> 
+           </ul> 
+          </div> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns text-right"> 
+           <ul class="inline-list"> 
+            <li> <a href="/help.html" class="icon-help-circled">Help</a> </li> 
+            <li id="footer-share"><a href="#" class="icon-export">Share</a> 
+             <div class="drop right"> 
+              <div class="box"> 
+               <span class="st_sharethis_large" displaytext="ShareThis"></span> 
+               <span class="st_facebook_large" displaytext="Facebook"></span> 
+               <span class="st_twitter_large" displaytext="Tweet"></span> 
+               <span class="st_googleplus_large" displaytext="Google +"></span> 
+               <span class="st_linkedin_large" displaytext="LinkedIn"></span> 
+               <script type="text/javascript">
+                                    var switchTo5x = true;
+                                </script> 
+               <script type="text/javascript" src="//ws.sharethis.com/button/buttons.js"></script> 
+               <script type="text/javascript">
+                                    if (typeof stLight !== 'undefined') {
+                                        stLight.options({
+                                            publisher : "5dc356bf-5442-455c-b483-ab8ca7d8cd15",
+                                            doNotHash : false,
+                                            doNotCopy : false,
+                                            hashAddressBar : false
+                                        });
+                                    }
+                                </script> 
+              </div> 
+             </div></li> 
+            <li id="footer-translate"><a href="#" class="icon-book">Translate</a> 
+             <div class="drop right"> 
+              <div class="box"> 
+               <div id="google_translate_element"></div> 
+              </div> 
+             </div></li> 
+            <li id="footer-fontsize"><a href="#" class="icon-font">Font Size</a> 
+             <div class="drop right"> 
+              <div class="box"> 
+               <ul class="inline-list"> 
+                <li><a class="button" data-font-size="small">a-</a></li> 
+                <li><a class="button active" data-font-size="normal">Normal</a></li> 
+                <li><a class="button" data-font-size="large">A+</a></li> 
+               </ul> 
+              </div> 
+             </div></li> 
+           </ul> 
+          </div> 
+         </div> 
+         <a class="starball"> <img src="/etc/clientlibs/tncore/main/img/footer-starball.png" alt="Tristar" width="100%"> </a> 
+        </div> 
+        <div id="footer-bottom"> 
+         <div class="row"> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns"> 
+           <ul class="inline-list"> 
+            <li> <a href="/state-services.html" class="first">TN.gov Services</a> <a href="/directory.html">TN.gov Directory</a> <a href="/transparenttn.html">Transparent TN</a> <a href="/web-policies/privacy-statement.html">Web Policies</a> </li> 
+           </ul> 
+          </div> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns text-right"> 
+           <ul class="inline-list"> 
+            <li> <a href="/about-tn/state-symbols.html">About Tennessee</a> <a href="/humanrights/file-a-discrimination-complaint/title-vi1/title-vi-disclaimer.html">Title VI</a> <a href="/web-policies/accessibility.html">Accessibility</a> <a href="/help.html">Help &amp; Contact</a> <a href="/survey.html">Survey</a> </li> 
+           </ul> 
+          </div> 
+         </div> 
+        </div> 
+       </footer> 
+       <div id="modal-footer"></div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <script type="text/javascript" src="/etc/clientlibs/tncore/main.min.73d9ee3d42191396dd2a3447bf54bab7.js"></script> 
+   <script type="text/javascript">_satellite.pageBottom();</script> 
+  </noindex> 
+  <div id="overlay"></div> 
+  <!-- Begin Dynamic Modal for Videos --> 
+  <div class="tn-videoModal modal fade" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="videoModal" aria-hidden="true"> 
+   <div class="modal-dialog"> 
+    <div class="modal-content"> 
+     <div class="modal-body"> 
+      <a href="#" data-dismiss="modal" class="close-video icon-cancel text-button">Close</a> 
+      <div class="videoWrapper"> 
+       <iframe src=""></iframe> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- End Dynamic Modal for Videos --> 
+  <!-- DTM Analytics Datalayer --> 
+  <script>
+            var digitalData = { pageInfo: {} };
+            digitalData.pageInfo.pageName = "tdot:news:2019-5-30:tdot-weekly-construction-report-for-middle-tennessee--may-30---june-5--2019";
+        </script>   
+ </body>
+</html>

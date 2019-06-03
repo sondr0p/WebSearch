@@ -1,0 +1,523 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+	Learn First Aid - healthfinder.gov
+</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+  <meta name="keywords" content="cpr, first aid kit, first aid fact sheet">
+  <meta name="description" content="An accident or emergency can happen at any time. Share this resource to help people learn first aid.">
+  <link rel="canonical" href="https://healthfinder.gov:443/HealthTopics/Dispatch.aspx?q1=parenting/safety/swim-safely-quick-tips/HealthTopics/Category/everyday-healthy-living&amp;q2=safety&amp;q3=learn-first-aid">
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+  <meta name="verify-v1" content="SGDyDYxOiYbFQAhohrwKuaxwOiCVv2eZij6NzZ678Cg=">
+  <meta name="y_key" content="e1fae57e8f96398e">
+  <link href="/css/reset.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/styles.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/styles-esp.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/font-awesome.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/flexslider.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/jquery.tweet.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/colorbox/colorbox.css" rel="stylesheet" media="all">
+  <link href="/css/redmond/jquery-ui-1.8.20.custom.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/jquery.dataTables.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/jquery.dataTables_themeroller.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/quickguide.css" rel="stylesheet" media="all">
+  <link href="/css/myhealthfinder.css" rel="stylesheet" media="all">
+  <link href="/css/ecards.css" rel="stylesheet" media="all">
+  <link href="/css/quiz.css" rel="stylesheet" media="all">
+  <link href="/css/surveys.css" rel="stylesheet" media="screen">
+  <link href="/css/odphp-global-nav.css" rel="stylesheet" media="all"> 
+  <!--[if (gte IE 6)&(lte IE 8)]>
+        <script type="text/javascript" src="/js/selectivizr-min.js"></script>
+    <![endif]--> 
+  <!--[if IE 7]>
+        <link rel="stylesheet" type="text/css" media="all" href="/css/ie7.css" /><link rel="stylesheet" type="text/css" media="all" href="/css/font-awesome-ie7.css" />
+        <![endif]--> 
+  <!--[if IE 8]><link rel="stylesheet" type="text/css" media="all" href="/css/ie8.css" /><![endif]--> 
+  <link type="text/css" rel="stylesheet" href="/css/search-suggest.css">
+  <link type="text/css" rel="stylesheet" href="/css/print.css" media="print"> 
+ </head> 
+ <body id="body" class="english"> 
+  <!-- Google Tag Manager --> 
+  <noscript>
+   <iframe src="//www.googletagmanager.com/ns.html?id=GTM-5TG7CH&amp;NoJavascriptType=web&amp;NoJavascriptCID=488420b3-a543-577c-9d4f-edcd024d6804&amp;NoJavascriptURL=https%3a%2f%2fhealthfinder.gov%2fhealthtopics%2fcategory%2fparenting%2fsafety%2fswim-safely-quick-tips%2fHealthTopics%2fCategory%2feveryday-healthy-living%2fsafety%2flearn-first-aid&amp;NoJavascriptLang=en-US&amp;NoJavascriptReferrer=&amp;NoJavascriptTitle=" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript> 
+  <script>(function (w, d, s, l, i) {
+w[l] = w[l] || []; w[l].push({
+'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'AnalyticsLogicLayer', 'GTM-5TG7CH');</script> 
+  <!-- End Google Tag Manager --> 
+  <div id="HideIfWidget1"> 
+   <div class="global-nav"> 
+    <div class="global-nav-odphp">
+     <span>Office of Disease Prevention and Health Promotion</span>
+    </div> 
+    <ul> 
+     <li><a href="https://health.gov/" class="global-nav-healthgov">health.gov</a></li> 
+     <li><a href="https://healthfinder.gov/" class="global-nav-healthfinder global-nav-current">healthfinder.gov</a></li> 
+     <li><a href="https://healthypeople.gov/" class="global-nav-healthypeople">healthypeople.gov</a></li> 
+    </ul> 
+   </div> 
+   <img class="print-logo" src="/images/footer-hf-logo.png" alt="Department of Health and Human Services"> 
+  </div> 
+  <div id="page"> 
+   <div id="HideIfWidget2"> 
+    <a href="https://www.hhs.gov/" class="parent-banner">U.S. Department of Health and Human Services</a> 
+    <div id="header" class="clearfix" role="banner"> 
+     <div id="skip"> 
+      <a class="skipnav" href="#skipnav" tabindex="1">Skip to Content</a> 
+     </div> 
+     <div id="espanol">
+      <a href="/espanol">En español</a>
+     </div> 
+     <div id="mobile-menu-trigger" class="mobile-hide"> 
+      <h2>Menu</h2> 
+     </div> 
+     <div id="logo"> 
+      <a href="/"> <img src="/images/logo.png" alt="healthfinder.gov"> </a> 
+     </div> 
+     <div id="search-box" role="search"> 
+      <form action="/search" method="get"> 
+       <label for="searchText">Search healthfinder.gov:</label> 
+       <input id="searchText" aria-autocomplete="both" aria-haspopup="true" autocomplete="off" class="search_text" type="search" name="q"> 
+       <span class="query-suggestions-wrap"> <span id="query_suggestions" class="query-suggestions" aria-live="off"></span> </span> 
+       <span id="query_status" class="query-status" aria-live="polite"></span> 
+       <input id="searchButton" class="search_button" value="Go" type="submit"> 
+      </form> 
+     </div> 
+     <!-- /#search-box --> 
+     <div class="clear"></div> 
+    </div> 
+   </div> 
+   <div id="content" class="clearfix"> 
+    <div id="HideIfWidget3"> 
+     <div class="main_menu"> 
+      <div id="engMenu1_mainMenu" role="navigation">
+       <ul class="menu menu-hide"> 
+        <li data-path="/healthtopics/topic.aspx"> <a href="/Default.aspx">Home</a> </li> 
+        <li data-path="/healthtopics/topic.aspx" class="active"> <a href="/HealthTopics/">Health Topics A to Z</a> </li> 
+        <li data-path="/healthtopics/topic.aspx"> <a href="/myhealthfinder/">myhealthfinder</a> </li> 
+        <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/">Free Web Content</a> 
+         <ul> 
+          <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/HealthTopics/">Health and Wellness Topics</a> </li> 
+          <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/PreventiveServices/">myhealthfinder: Preventive Services Recommendations</a> </li> 
+          <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/Videos/">Videos</a> </li> 
+          <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/HealthWidgets/">Health Widgets and Badges</a> </li> 
+          <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/Developer/">APIs for Developers</a> </li> 
+         </ul> </li> 
+        <li data-path="/healthtopics/topic.aspx"> <a href="/FindServices/">Find Services Near&nbsp;You</a> </li> 
+        <li data-path="/healthtopics/topic.aspx"> <a href="/NHO/">National Health Observances</a> </li> 
+        <li class="mobile-hide espanol" data-path="/healthtopics/topic.aspx"> <a href="/espanol">En español</a> </li> 
+       </ul>
+      </div> 
+      <div class="connect clearfix"> 
+       <p class="connect-text">Find us on:</p> 
+       <a class="facebook connect-button" href="https://www.facebook.com/healthfinder" title="Facebook"> <img src="/images/icon-fb.png" alt="Facebook icon"></a> 
+       <a class="twitter connect-button" href="https://www.twitter.com/healthfinder" title="Twitter"> <img src="/images/icon-twitter.png" alt="Twitter icon"></a> 
+       <!-- <a class="rss connect-button" href="/News/rss.asp" title="RSS">
+        <img src="/images/icon-rss.png" alt="RSS icon" /></a> --> 
+       <div class="email-updates-container"> 
+        <a id="email-updates" href="https://public.govdelivery.com/accounts/USOPHSODPHPHF/subscriber/new?topic_id=USOPHSODPHPHF_1" target="_blank">Get Email Updates</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="main_content" role="main"> 
+     <div id="HideIfWidget4"> 
+      <div id="breadcrumb"> 
+       <span id="engBreadcrumbs1_SiteMapPath1"><span><a href="/Default.aspx">Home</a></span><span> &gt; </span><span><a href="/HealthTopics/Default.aspx">Health Topics A to Z</a></span><span> &gt; </span><span><a href="/HealthTopics/Category/everyday-healthy-living">Everyday Healthy Living</a></span><span> &gt; </span><span><a href="/HealthTopics/Category/everyday-healthy-living/safety">Safety</a></span><span> &gt; </span><span>Learn First Aid</span></span> 
+      </div> 
+      <div id="engBreadcrumbs1_addThisPanel"> 
+       <div id="addThisCode" class="clearfix"> 
+        <!-- AddToAny BEGIN --> 
+        <div class="a2a_kit a2a_kit_size_32 a2a_default_style"> 
+         <a class="a2a_dd" href="https://www.addtoany.com/share"></a> 
+         <a class="a2a_button_facebook"></a> 
+         <a class="a2a_button_twitter"></a> 
+        </div> 
+        <script>
+      var a2a_config = a2a_config || {};
+      a2a_config.onclick = 1;
+      </script> 
+        <script async src="https://static.addtoany.com/menu/page.js"></script> 
+        <!-- AddToAny END --> 
+       </div> 
+      </div> 
+      <span id="skipnav"></span> 
+     </div> 
+     <form method="post" action="../../../../../../../../Topic.aspx?id=72&amp;type=topic&amp;noredirect=1&amp;category=20" id="MainForm"> 
+      <div class="aspNetHidden"> 
+       <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzIwMTkxNzIzD2QWAmYPZBYEAgEPZBYGAgIPFgIeBFRleHQFSzxtZXRhIG5hbWU9ImtleXdvcmRzIiBjb250ZW50PSJjcHIsIGZpcnN0IGFpZCBraXQsIGZpcnN0IGFpZCBmYWN0IHNoZWV0IiAvPmQCAw8WAh8ABYoBPG1ldGEgbmFtZT0iZGVzY3JpcHRpb24iIGNvbnRlbnQ9IkFuIGFjY2lkZW50IG9yIGVtZXJnZW5jeSBjYW4gaGFwcGVuIGF0IGFueSB0aW1lLiBTaGFyZSB0aGlzIHJlc291cmNlIHRvIGhlbHAgcGVvcGxlIGxlYXJuIGZpcnN0IGFpZC4iIC8+ZAIGDxYCHwAFzQE8bGluayByZWw9J2Nhbm9uaWNhbCcgaHJlZj0naHR0cHM6Ly9oZWFsdGhmaW5kZXIuZ292OjQ0My9IZWFsdGhUb3BpY3MvRGlzcGF0Y2guYXNweD9xMT1wYXJlbnRpbmcvc2FmZXR5L3N3aW0tc2FmZWx5LXF1aWNrLXRpcHMvSGVhbHRoVG9waWNzL0NhdGVnb3J5L2V2ZXJ5ZGF5LWhlYWx0aHktbGl2aW5nJnEyPXNhZmV0eSZxMz1sZWFybi1maXJzdC1haWQnIC8+ZAIDDxYCHgVjbGFzcwUHZW5nbGlzaBYKAgEPZBYCAgUPDxYCHgdWaXNpYmxlaGRkAgIPZBYEAgEPZBYCZg8WAh4JaW5uZXJodG1sBecLPHVsIGNsYXNzPSJtZW51IG1lbnUtaGlkZSI+DQogIDxsaSBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgPGEgaHJlZj0iL0RlZmF1bHQuYXNweCI+SG9tZTwvYT4NCiAgPC9saT4NCiAgPGxpIGRhdGEtcGF0aD0iL2hlYWx0aHRvcGljcy90b3BpYy5hc3B4IiBjbGFzcz0iYWN0aXZlIj4NCiAgICA8YSBocmVmPSIvSGVhbHRoVG9waWNzLyI+SGVhbHRoIFRvcGljcyBBIHRvIFo8L2E+DQogIDwvbGk+DQogIDxsaSBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgPGEgaHJlZj0iL215aGVhbHRoZmluZGVyLyI+bXloZWFsdGhmaW5kZXI8L2E+DQogIDwvbGk+DQogIDxsaSBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgPGEgaHJlZj0iL0ZyZWVDb250ZW50LyI+RnJlZSBXZWIgQ29udGVudDwvYT4NCiAgICA8dWw+DQogICAgICA8bGkgZGF0YS1wYXRoPSIvaGVhbHRodG9waWNzL3RvcGljLmFzcHgiPg0KICAgICAgICA8YSBocmVmPSIvRnJlZUNvbnRlbnQvSGVhbHRoVG9waWNzLyI+SGVhbHRoIGFuZCBXZWxsbmVzcyBUb3BpY3M8L2E+DQogICAgICA8L2xpPg0KICAgICAgPGxpIGRhdGEtcGF0aD0iL2hlYWx0aHRvcGljcy90b3BpYy5hc3B4Ij4NCiAgICAgICAgPGEgaHJlZj0iL0ZyZWVDb250ZW50L1ByZXZlbnRpdmVTZXJ2aWNlcy8iPm15aGVhbHRoZmluZGVyOiBQcmV2ZW50aXZlIFNlcnZpY2VzIFJlY29tbWVuZGF0aW9uczwvYT4NCiAgICAgIDwvbGk+DQogICAgICA8bGkgZGF0YS1wYXRoPSIvaGVhbHRodG9waWNzL3RvcGljLmFzcHgiPg0KICAgICAgICA8YSBocmVmPSIvRnJlZUNvbnRlbnQvVmlkZW9zLyI+VmlkZW9zPC9hPg0KICAgICAgPC9saT4NCiAgICAgIDxsaSBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgICAgIDxhIGhyZWY9Ii9GcmVlQ29udGVudC9IZWFsdGhXaWRnZXRzLyI+SGVhbHRoIFdpZGdldHMgYW5kIEJhZGdlczwvYT4NCiAgICAgIDwvbGk+DQogICAgICA8bGkgZGF0YS1wYXRoPSIvaGVhbHRodG9waWNzL3RvcGljLmFzcHgiPg0KICAgICAgICA8YSBocmVmPSIvRnJlZUNvbnRlbnQvRGV2ZWxvcGVyLyI+QVBJcyBmb3IgRGV2ZWxvcGVyczwvYT4NCiAgICAgIDwvbGk+DQogICAgPC91bD4NCiAgPC9saT4NCiAgPGxpIGRhdGEtcGF0aD0iL2hlYWx0aHRvcGljcy90b3BpYy5hc3B4Ij4NCiAgICA8YSBocmVmPSIvRmluZFNlcnZpY2VzLyI+RmluZCBTZXJ2aWNlcyBOZWFywqBZb3U8L2E+DQogIDwvbGk+DQogIDxsaSBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgPGEgaHJlZj0iL05ITy8iPk5hdGlvbmFsIEhlYWx0aCBPYnNlcnZhbmNlczwvYT4NCiAgPC9saT4NCiAgPGxpIGNsYXNzPSJtb2JpbGUtaGlkZSBlc3Bhbm9sIiBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgPGEgaHJlZj0iL2VzcGFub2wiPkVuIGVzcGHDsW9sPC9hPg0KICA8L2xpPg0KPC91bD5kAgMPDxYCHwJoZGQCAw9kFgICAw8PFgIfAmhkZAIFD2QWAmYPZBYOAgEPZBYCAgEPDxYEHgtOYXZpZ2F0ZVVybAWhAS9lc3Bhbm9sL3RlbWFzL0NhdGVnb3J5L2NvbW8tbGxldmFyLXVuYS12aWRhLXNhbmEvcHJlY2F1Y2lvbmVzLWRlLXNlZ3VyaWRhZC9hcHJlbmRlLXByaW1lcm9zLWF1eGlsaW9zLXBhcmEtcXVlLXNlcGFzLXF1ZS1oYWNlci1zaS1hbGd1aWVuLXNlLWxhc3RpbWEtby1zZS1sZXNpb25hHwJnZGQCAw8WAh8ABQ9MZWFybiBGaXJzdCBBaWRkAgcPDxYCHghJbWFnZVVybAUtL0hlYWx0aFRvcGljcy9nbG1lZGlhL2ljb25zL2xlYXJuZmlyc3RhaWQuanBnFgIeA2FsdGVkAgkPZBYCZg8WAh4LXyFJdGVtQ291bnQCAhYEZg9kFgRmDxUBClRoZSBCYXNpY3NkAgEPFgIfBwIBFgJmD2QWAmYPFQMKdGhlLWJhc2ljcwExCE92ZXJ2aWV3ZAIBD2QWBGYPFQEMVGFrZSBBY3Rpb24hZAIBDxYCHwcCBRYKZg9kFgJmDxUDC3Rha2UtYWN0aW9uATEQV2hlbiB0byBDYWxsIDkxMWQCAQ9kFgJmDxUDC3Rha2UtYWN0aW9uATIbSGVscCBTb21lb25lIFdobyBJcyBDaG9raW5nZAICD2QWAmYPFQMLdGFrZS1hY3Rpb24BMxhIZWxwIFNvbWVvbmUgV2hvIElzIEh1cnRkAgMPZBYCZg8VAwt0YWtlLWFjdGlvbgE0DFRha2UgYSBDbGFzc2QCBA9kFgJmDxUDC3Rha2UtYWN0aW9uATUORmlyc3QgQWlkIEtpdHNkAgsPFgIfBwICFgRmD2QWBGYPFQIKdGhlLWJhc2ljcwpUaGUgQmFzaWNzZAIBDxYCHwcCARYCZg9kFgRmDxUEAzQ1OQpUaGUgQmFzaWNzCE92ZXJ2aWV34wU8cD5EbyB5b3Uga25vdyB3aGF0IHRvIGRvIGluIGFuIGVtZXJnZW5jeT8mbmJzcDs8L3A+PHA+QW4gYWNjaWRlbnQgb3IgZW1lcmdlbmN5ICZuZGFzaDsgbGlrZSBhIGhlYXJ0IGF0dGFjayBvciBjaG9raW5nICZuZGFzaDsmbmJzcDtjYW4gaGFwcGVuIGF0IGFueSB0aW1lLiBZb3UgY2FuIGdpdmUgZmlyc3QgYWlkJm5ic3A7dG8gc29tZW9uZSB1bnRpbCBtZWRpY2FsIGhlbHAgYXJyaXZlcy4gVGFraW5nIGFjdGlvbiByaWdodCBhd2F5IGNhbiBzYXZlIGEgbGlmZS48L3A+PHA+VGFrZSB0aGVzZSBzdGVwcyBub3cgc28geW91JnJzcXVvO2xsIGJlIHJlYWR5IGluIGFuIGVtZXJnZW5jeTo8L3A+PHVsPjxsaT5Lbm93IHdoZW4gdG8gY2FsbCA5MTEuPC9saT48bGk+TGVhcm4gaG93IHRvIGhlbHAgc29tZW9uZSB3aG8gaXMgY2hva2luZyBvciBodXJ0LjwvbGk+PGxpPlRha2UgYSBjbGFzcyB0byBsZWFybiBmaXJzdCBhaWQsIENQUiAoY2FyZGlvcHVsbW9uYXJ5IHJlc3VzY2l0YXRpb24pLCBhbmQgQUVEIChhdXRvbWF0ZWQgZXh0ZXJuYWwgZGVmaWJyaWxsYXRvcikuPC9saT48bGk+S2VlcCBhIGZpcnN0IGFpZCBraXQgYXQgaG9tZSBhbmQgaW4geW91ciBjYXIuPC9saT48L3VsPjxwPlJlbWVtYmVyLCBpdCZyc3F1bztzIGltcG9ydGFudCB0byBwbGFuIGFoZWFkIGFuZCBiZSBwcmVwYXJlZCBmb3IgaW5qdXJpZXMgYW5kIGVtZXJnZW5jaWVzLiBTaW1wbGUgYWN0aW9ucyBjYW4gc2F2ZSBsaXZlcy48L3A+ZAIBD2QWBgIBDw8WAh8CZ2RkAgMPDxYEHwAFEFdoZW4gdG8gQ2FsbCA5MTEfAmcWAh4EaHJlZgUOI3Rha2UtYWN0aW9uXzFkAgkPDxYCHwAFDzEgb2YgNiBzZWN0aW9uc2RkAgEPZBYEZg8VAgt0YWtlLWFjdGlvbgxUYWtlIEFjdGlvbiFkAgEPFgIfBwIFFgpmD2QWBGYPFQQDNDY2C1Rha2UgQWN0aW9uEFdoZW4gdG8gQ2FsbCA5MTHjBzxwPjxzdHJvbmc+S25vdyB3aGVuIHRvIGNhbGwgOTExLjwvc3Ryb25nPjwvcD48cD5DYWxsIDkxMSBpZiBzb21lb25lIG5lZWRzIGhlbHAgcmlnaHQgYXdheSwgaW5jbHVkaW5nIGlmIHNvbWVvbmUgaXM6PC9wPjx1bD48bGk+SW4gZGFuZ2VyICZuZGFzaDsgbGlrZSBmcm9tIGEgZmlyZTwvbGk+PGxpPlZlcnkgaHVydCAmbmRhc2g7IGxpa2UgZnJvbSBhIGNhciBhY2NpZGVudDwvbGk+PGxpPlZlcnkgc2ljayBvciBub3QgYnJlYXRoaW5nPC9saT48bGk+QWN0aW5nIHN0cmFuZ2VseTwvbGk+PC91bD48cD5JZiB5b3UgYXJlIHdpdGggYSBncm91cCBvZiBwZW9wbGUgaW4gYW4gZW1lcmdlbmN5LCBjaG9vc2UgMSBwZXJzb24gdG8gY2FsbCA5MTEuIFRoYXQgd2F5LCBldmVyeW9uZSBrbm93cyB3aG8gaXMgaW4gY2hhcmdlIG9mIGNhbGxpbmcgZm9yIGhlbHAuPC9wPjxwPjxhIGhyZWY9Imh0dHA6Ly93d3cuOTExLmdvdi9mcmVxdWVudGx5X2Fza2VkX3F1ZXN0aW9ucy5odG1sIj5MZWFybiBtb3JlIGFib3V0IGhvdyB0byB1c2UgOTExPC9hPi48L3A+PHA+VGhlIDkxMSBvcGVyYXRvciBpcyB0cmFpbmVkIHRvIGhlbHAgeW91LiBXaGVuIHlvdSBjYWxsIDkxMSwgaXQmcnNxdW87cyBpbXBvcnRhbnQgdGhhdCB5b3U6PC9wPjx1bD48bGk+QW5zd2VyIHRoZSBvcGVyYXRvciZyc3F1bztzIHF1ZXN0aW9ucyBhcyB3ZWxsIGFzIHlvdSBjYW48L2xpPjxsaT5MaXN0ZW4gY2FyZWZ1bGx5PC9saT48bGk+RG9uJnJzcXVvO3QgaGFuZyB1cDwvbGk+PC91bD48cD48YSBocmVmPSJodHRwOi8va2lkc2hlYWx0aC5vcmcvcGFyZW50L2ZpcnN0YWlkX3NhZmUvZW1lcmdlbmNpZXMvOTExLmh0bWwiIHRhcmdldD0iX2JsYW5rIj5UZWFjaCB5b3VyIGNoaWxkcmVuIGhvdyB0byB1c2UgOTExPC9hPiBhbmQga2VlcCB0aGUgbnVtYmVyIG5leHQgdG8gdGhlIHBob25lLiBNYWtlIHN1cmUgZXZlcnlvbmUgY2FuIHJlYWNoIHRoZSBwaG9uZSwgZXNwZWNpYWxseSBjaGlsZHJlbi48L3A+ZAIBD2QWCgIBDw8WAh8CZ2RkAgMPDxYEHwAFG0hlbHAgU29tZW9uZSBXaG8gSXMgQ2hva2luZx8CZxYCHwgFDiN0YWtlLWFjdGlvbl8yZAIFDw8WAh8CZ2RkAgcPDxYEHwAFCE92ZXJ2aWV3HwJnFgIfCAUNI3RoZS1iYXNpY3NfMWQCCQ8PFgIfAAUPMiBvZiA2IHNlY3Rpb25zZGQCAQ9kFgRmDxUEAzg0MgtUYWtlIEFjdGlvbhtIZWxwIFNvbWVvbmUgV2hvIElzIENob2tpbmeIBzxoMz5MZWFybiB3aGF0IHRvIGRvIHdoZW4gc29tZW9uZSBpcyBjaG9raW5nLiZuYnNwOzwvaDM+PHA+V2hlbiBzb21lb25lIGlzIGNob2tpbmcgb24gc29tZXRoaW5nIGFuZCB0aGV5IGNhbiZyc3F1bzt0IHRhbGssIGNvdWdoIHZlcnkgbXVjaCwgb3IgYnJlYXRoZSwgaXQmcnNxdW87cyBpbXBvcnRhbnQgdG8gYWN0IHJpZ2h0IGF3YXkuIEJyYWluIGRhbWFnZSBjYW4gaGFwcGVuIGp1c3QgNCB0byA2IG1pbnV0ZXMgYWZ0ZXIgc29tZW9uZSBoYXMgc3RhcnRlZCBjaG9raW5nLjwvcD48cD5Bc2sgc29tZW9uZSB0byBjYWxsIDkxMSByaWdodCBhd2F5LCB0aGVuIHRlbGwgdGhlIHBlcnNvbiB3aG8gaXMgY2hva2luZyB0aGF0IHlvdSB3aWxsIHRyeSB0byBoZWxwLjwvcD48cD5TdGFuZCBiZWhpbmQgdGhlIHBlcnNvbiBhbmQgZG8gYmFjayBibG93cyAoaGl0dGluZyBiZXR3ZWVuIHRoZSBzaG91bGRlciBibGFkZXMpLCBhYmRvbWluYWwgdGhydXN0cyAoYWxzbyBjYWxsZWQgdGhlIEhlaW1saWNoIG1hbmV1dmVyKSwgb3IgYm90aC4gPGEgaHJlZj0iaHR0cDovL2NvbjEuY2xhc3Nlcy5yZWRjcm9zcy5vcmcvbGVhcm5pbmdjb250ZW50L1BIU1MvUEhTUy9GbGFua2VyL2ZsYW5rZXJfcDYvbGVzc29uNC92aWRlb19jb25zY2lvdXNfY2hva2luZ19hZHVsdC5odG1sIj5XYXRjaCB0aGlzIHZpZGVvIGZyb20gdGhlIEFtZXJpY2FuIFJlZCBDcm9zczwvYT4gdG8gbGVhcm4gaG93IHRvIGRvIGl0LjwvcD48cD5JZiB5b3UgYXJlIGFsb25lIGFuZCBjaG9raW5nLCB5b3UgY2FuIDxhIGhyZWY9Imh0dHA6Ly93d3cubmxtLm5paC5nb3YvbWVkbGluZXBsdXMvZW5jeS9hcnRpY2xlLzAwMTk4My5odG0iIHRhcmdldD0iX2JsYW5rIj5kbyB0aGUgSGVpbWxpY2ggbWFuZXV2ZXIgb24geW91cnNlbGY8L2E+LjwvcD5kAgEPZBYKAgEPDxYCHwJnZGQCAw8PFgQfAAUYSGVscCBTb21lb25lIFdobyBJcyBIdXJ0HwJnFgIfCAUOI3Rha2UtYWN0aW9uXzNkAgUPDxYCHwJnZGQCBw8PFgQfAAUQV2hlbiB0byBDYWxsIDkxMR8CZxYCHwgFDiN0YWtlLWFjdGlvbl8xZAIJDw8WAh8ABQ8zIG9mIDYgc2VjdGlvbnNkZAICD2QWBGYPFQQDOTM3C1Rha2UgQWN0aW9uGEhlbHAgU29tZW9uZSBXaG8gSXMgSHVydPMIPGgzPjxzdHJvbmc+TGVhcm4gd2hhdCB0byBkbyB3aGVuIHNvbWVvbmUgaXMgYmxlZWRpbmcuPC9zdHJvbmc+PC9oMz48cD5Mb3NpbmcgdG9vIG11Y2ggYmxvb2QgaXMgdmVyeSBkYW5nZXJvdXMsIGFuZCBpdCBjYW4gaGFwcGVuIHF1aWNrbHkuIElmIHNvbWVvbmUgaXMgYmxlZWRpbmcgYmFkbHksIGNhbGwgOTExIGFuZCB0cnkgdG8gc3RvcCB0aGUgYmxlZWRpbmcgd2hpbGUgeW91IHdhaXQgZm9yIG1lZGljYWwgaGVscC4mbmJzcDs8L3A+PHA+UHJlc3Mgb24gdGhlIHdvdW5kIHZlcnkgZmlybWx5IGFuZCBzdGVhZGlseSB1bnRpbCB0aGUgYmxlZWRpbmcgc3RvcHMuIElmIHlvdSBjYW4sIGZpbmQgc29tZXRoaW5nIGNsZWFuIHRvIHB1dCBiZXR3ZWVuIHlvdXIgaGFuZHMgYW5kIHRoZSBibGVlZGluZywgbGlrZSBhIHBpZWNlIG9mIGNsb3RoIG9yIGEgcGxhc3RpYyBiYWcuIDxhIGhyZWY9Imh0dHBzOi8vd3d3LmRocy5nb3Yvc3RvcHRoZWJsZWVkIiB0YXJnZXQ9Il9ibGFuayI+TGVhcm4gbW9yZSBhYm91dCBob3cgdG8gc3RvcCBibGVlZGluZzwvYT4uPC9wPjxwPkRvbiZyc3F1bzt0IHRyeSB0byBzdG9wIGJsZWVkaW5nIHdpdGggc2FsdCwgYmFraW5nIHBvd2Rlciwgb3Igb3RoZXIgcHJvZHVjdHMuIFRoZXNlIGRvbiZyc3F1bzt0IGhlbHAgYmxlZWRpbmcgYW5kIG1heSBjYXVzZSBhbiBpbmZlY3Rpb24uPC9wPjxoMz48c3Ryb25nPkxlYXJuIGhvdyB0byA8L3N0cm9uZz48c3Ryb25nPmNvbWZvcnQgc29tZW9uZSB3aG8gbmVlZHMgaGVscC48L3N0cm9uZz48L2gzPjxwPkNhbG0sIGNvbWZvcnRpbmcgd29yZHMgY2FuIGhlbHAgcGVvcGxlIGR1cmluZyBhIG1lZGljYWwgZW1lcmdlbmN5LiBJZiBzb21lb25lIGlzIGh1cnQsIGFzayBob3cgeW91IGNhbiBoZWxwLiBQZW9wbGUgd2hvIGFyZSBodXJ0IG9yIGluIHNob2NrIG9mdGVuIGZlZWwgY29sZCwgc28gdHJ5IHRvIGtlZXAgdGhlbSB3YXJtIGFuZCBjYWxtIHVudGlsIGhlbHAgYXJyaXZlcy4gPGEgaHJlZj0iaHR0cHM6Ly9jb21tdW5pdHkuZmVtYS5nb3YvdW50aWwtaGVscC1hcnJpdmVzIj5DaGVjayBvdXQgdGhpcyBvbmxpbmUgdHJhaW5pbmcgYWJvdXQgY29tZm9ydGluZyBzb21lb25lIGluIGEgbWVkaWNhbCBlbWVyZ2VuY3k8L2E+LiZuYnNwOzwvcD5kAgEPZBYKAgEPDxYCHwJnZGQCAw8PFgQfAAUMVGFrZSBhIENsYXNzHwJnFgIfCAUOI3Rha2UtYWN0aW9uXzRkAgUPDxYCHwJnZGQCBw8PFgQfAAUbSGVscCBTb21lb25lIFdobyBJcyBDaG9raW5nHwJnFgIfCAUOI3Rha2UtYWN0aW9uXzJkAgkPDxYCHwAFDzQgb2YgNiBzZWN0aW9uc2RkAgMPZBYEZg8VBAM0NjQLVGFrZSBBY3Rpb24MVGFrZSBhIENsYXNzzgs8aDM+PHN0cm9uZz5MZWFybiBsaWZlc2F2aW5nIHNraWxscyB0byBoZWxwIHlvdSByZWFjdCBmYXN0ZXIgYW5kIGJldHRlci48L3N0cm9uZz48L2gzPjxwPlRha2luZyBhIGNsYXNzIGNhbiB0ZWFjaCB5b3UgaG93IHRvIGdpdmUgZmlyc3QgYWlkIGFuZCBDUFIsIGFuZCBob3cgdG8gdXNlIGFuIEFFRCBjb3JyZWN0bHkuIFRoaXMgdHJhaW5pbmcgd2lsbCBnaXZlIHlvdSB0aGUgY29uZmlkZW5jZSBhbmQga25vd2xlZGdlIHRvIHJlc3BvbmQgcXVpY2tseSBhbmQgc2FmZWx5IGluIGFuIGVtZXJnZW5jeS48L3A+PHVsPjxsaT5MZWFybmluZyBmaXJzdCBhaWQgd2lsbCBoZWxwIHlvdSBrbm93IHdoYXQgdG8gZG8gZm9yIHByb2JsZW1zIGxpa2UgYnVybnMsIGN1dHMsIGhlYWQgaW5qdXJpZXMsIGFuZCBicm9rZW4gYm9uZXMuJm5ic3A7PGEgaHJlZj0iaHR0cDovL3d3dy5ubG0ubmloLmdvdi9tZWRsaW5lcGx1cy9maXJzdGFpZC5odG1sIiB0YXJnZXQ9Il9ibGFuayI+PHN0cm9uZz5GaW5kIG91dCBtb3JlIGFib3V0IGZpcnN0IGFpZDwvc3Ryb25nPjwvYT4uPC9saT48bGk+S25vd2luZyBDUFIgY2FuIGhlbHAgd2hlbiBzb21lb25lJnJzcXVvO3MgaGVhcnQgb3IgYnJlYXRoaW5nIGhhcyBzdG9wcGVkLiA8YSBocmVmPSJodHRwOi8vd3d3Lm5sbS5uaWguZ292L21lZGxpbmVwbHVzL2Nwci5odG1sIiB0YXJnZXQ9Il9ibGFuayI+PHN0cm9uZz5MZWFybiBtb3JlIGFib3V0IENQUjwvc3Ryb25nPjwvYT4uPC9saT48bGk+QW4gQUVEIGlzIGEgcG9ydGFibGUgZGV2aWNlIHRoYXQgY2FuIGhlbHAgd2hlbiBzb21lb25lJnJzcXVvO3MgaGVhcnQgc3VkZGVubHkgc3RvcHMgYmVhdGluZy4gPGEgaHJlZj0iaHR0cHM6Ly93d3cubmhsYmkubmloLmdvdi9oZWFsdGgtdG9waWNzL2F1dG9tYXRlZC1leHRlcm5hbC1kZWZpYnJpbGxhdG9yIj5HZXQgdGhlIGZhY3RzIGFib3V0IEFFRHM8L2E+LiZuYnNwOyAmbmJzcDsgJm5ic3A7ICZuYnNwOyAmbmJzcDsgJm5ic3A7ICZuYnNwOyAmbmJzcDsgJm5ic3A7ICZuYnNwOyAmbmJzcDsgJm5ic3A7ICZuYnNwOyAmbmJzcDsgJm5ic3A7ICZuYnNwOyAmbmJzcDsgJm5ic3A7ICZuYnNwOyAmbmJzcDsgJm5ic3A7ICZuYnNwOyAmbmJzcDsgJm5ic3A7ICZuYnNwOyAmbmJzcDsgJm5ic3A7ICZuYnNwOyAmbmJzcDsgJm5ic3A7Jm5ic3A7PC9saT48L3VsPjxwPllvdSBjYW4gdGFrZSBmaXJzdCBhaWQgYW5kIENQUi9BRUQgY2xhc3NlcyBzZXBhcmF0ZWx5IG9yIHRvZ2V0aGVyICZuZGFzaDsgYW5kIHlvdSBjYW4gbGVhcm4gdG8gaGVscCBwZW9wbGUgb2YgYWxsIGFnZXMsIGZyb20gbmV3Ym9ybiBiYWJpZXMgdG8gYWR1bHRzLjwvcD48cD5SZWFkeSB0byBnZXQgc3RhcnRlZD8mbmJzcDs8YSBocmVmPSJodHRwOi8vd3d3LnJlZGNyb3NzLm9yZy90YWtlLWEtY2xhc3MiIHRhcmdldD0iX2JsYW5rIj5GaW5kIGEgZmlyc3QgYWlkIGFuZCBDUFIvQUVEIGNsYXNzIGluIHlvdXIgY29tbXVuaXR5PC9hPi48L3A+ZAIBD2QWCgIBDw8WAh8CZ2RkAgMPDxYEHwAFDkZpcnN0IEFpZCBLaXRzHwJnFgIfCAUOI3Rha2UtYWN0aW9uXzVkAgUPDxYCHwJnZGQCBw8PFgQfAAUYSGVscCBTb21lb25lIFdobyBJcyBIdXJ0HwJnFgIfCAUOI3Rha2UtYWN0aW9uXzNkAgkPDxYCHwAFDzUgb2YgNiBzZWN0aW9uc2RkAgQPZBYEZg8VBAM4NDMLVGFrZSBBY3Rpb24ORmlyc3QgQWlkIEtpdHOpBTxoMz48c3Ryb25nPktlZXAgYSBmaXJzdCBhaWQga2l0IG5lYXJieS48L3N0cm9uZz48L2gzPjxwPkEgZmlyc3QgYWlkIGtpdCBoYXMgdGhlIHRoaW5ncyB5b3UgbmVlZCB0byB0cmVhdCBzb21lb25lIHdobyBpcyBodXJ0LiBJdCBpbmNsdWRlcyBzdXBwbGllcyBsaWtlIGJhbmRhZ2VzLCB0YXBlLCBhbmQgc2Npc3NvcnMuIEFsd2F5cyBrZWVwIGEga2l0IG5lYXJieSAmbmRhc2g7IGluY2x1ZGluZyBpbiB5b3VyIGhvbWUgYW5kIGNhci48L3A+PHA+TWFrZSBzdXJlIGVhY2ggZmlyc3QgYWlkIGtpdCBoYXMgZGlyZWN0aW9ucyBvbiBob3cgdG8gdHJlYXQgYmFzaWMgaW5qdXJpZXMgYW5kIHdoZW4gdG8gZ2V0IG1vcmUgaGVscC4mbmJzcDs8YSBocmVmPSJodHRwOi8vd3d3Lm5sbS5uaWguZ292L21lZGxpbmVwbHVzL2VuY3kvYXJ0aWNsZS8wMDE5NTguaHRtIiB0YXJnZXQ9Il9ibGFuayI+VXNlIHRoaXMgbGlzdCB0byBjaGVjayB0aGUgc3VwcGxpZXMgaW4geW91ciBmaXJzdCBhaWQga2l0PC9hPi4gV2hlbiB5b3UgdXNlIHN1cHBsaWVzIGZyb20gdGhlIGtpdCwgcmVtZW1iZXIgdG8gcmVwbGFjZSB0aGVtLjwvcD48cD5MZWFybiBhbmQgcmVtZW1iZXIgdGhlIGxvY2F0aW9uIG9mIGZpcnN0IGFpZCBraXRzIGFuZCBBRURzIGluIHB1YmxpYyBwbGFjZXMsIGF0IHdvcmssIGFuZCBhdCBzY2hvb2wuPC9wPmQCAQ9kFgYCBQ8PFgIfAmdkZAIHDw8WBB8ABQxUYWtlIGEgQ2xhc3MfAmcWAh8IBQ4jdGFrZS1hY3Rpb25fNGQCCQ8PFgIfAAUPNiBvZiA2IHNlY3Rpb25zZGQCDw9kFghmDxYEHwAFEUZlYnJ1YXJ5IDI2LCAyMDE5HwJnZAIBDw8WBB8EBR0vSGVhbHRoVG9waWNzL1NvdXJjZXMuYXNweCM3Mh8CZ2RkAgIPDxYCHwJnZGQCAw8PFgQfBAUqL0ZpbmRTZXJ2aWNlcy9TZWFyY2hDb250ZXh0LmFzcHg/dG9waWM9MzE3HwJnZGQCEQ8PFgIfAmdkFgJmDxYCHwcCAxYGZg9kFgQCAQ8PFgIfBAVOL0hlYWx0aFRvcGljcy9DYXRlZ29yeS9ldmVyeWRheS1oZWFsdGh5LWxpdmluZy9zYWZldHkvcHJlcGFyZS1mb3ItYW4tZW1lcmdlbmN5ZBYCZg8PFgIfBQU1L0hlYWx0aFRvcGljcy9nbG1lZGlhL2ljb25zL3ByZXBhcmVmb3JhbmVtZXJnZW5jeS5qcGcWAh8GBRhQcmVwYXJlIGZvciBhbiBFbWVyZ2VuY3lkAgMPDxYEHwAFGFByZXBhcmUgZm9yIGFuIEVtZXJnZW5jeR8EBU4vSGVhbHRoVG9waWNzL0NhdGVnb3J5L2V2ZXJ5ZGF5LWhlYWx0aHktbGl2aW5nL3NhZmV0eS9wcmVwYXJlLWZvci1hbi1lbWVyZ2VuY3lkZAIBD2QWBAIBDw8WAh8EBVcvSGVhbHRoVG9waWNzL0NhdGVnb3J5L3BhcmVudGluZy9udXRyaXRpb24tYW5kLXBoeXNpY2FsLWFjdGl2aXR5L3N3aW0tc2FmZWx5LXF1aWNrLXRpcHNkFgJmDw8WAh8FBTkvSGVhbHRoVG9waWNzL2dsbWVkaWEvdG9vbHNfaWNvbnMvc3dpbXNhZmVseXF1aWNrdGlwcy5qcGcWAh8GBRdTd2ltIFNhZmVseTogUXVpY2sgdGlwc2QCAw8PFgQfAAUXU3dpbSBTYWZlbHk6IFF1aWNrIHRpcHMfBAVXL0hlYWx0aFRvcGljcy9DYXRlZ29yeS9wYXJlbnRpbmcvbnV0cml0aW9uLWFuZC1waHlzaWNhbC1hY3Rpdml0eS9zd2ltLXNhZmVseS1xdWljay10aXBzZGQCAg9kFgQCAQ8PFgIfBAVUL0hlYWx0aFRvcGljcy9DYXRlZ29yeS9ldmVyeWRheS1oZWFsdGh5LWxpdmluZy9zYWZldHkvcHJvdGVjdC15b3VyLWNoaWxkLWZyb20taW5qdXJ5ZBYCZg8PFgIfBQU6L0hlYWx0aFRvcGljcy9nbG1lZGlhL2ljb25zL3Byb3RlY3R5b3VyY2hpbGRmcm9taW5qdXJ5LmpwZxYCHwYFHlByb3RlY3QgWW91ciBDaGlsZCBmcm9tIEluanVyeWQCAw8PFgQfAAUeUHJvdGVjdCBZb3VyIENoaWxkIGZyb20gSW5qdXJ5HwQFVC9IZWFsdGhUb3BpY3MvQ2F0ZWdvcnkvZXZlcnlkYXktaGVhbHRoeS1saXZpbmcvc2FmZXR5L3Byb3RlY3QteW91ci1jaGlsZC1mcm9tLWluanVyeWRkAgYPZBYEAgEPZBYCAgEPFgIfAAUXU2F0dXJkYXksIEp1bmUgMDEsIDIwMTlkAgMPDxYCHwJoZGRkG4xQOzN9cba7+4UAonxZxxzqeH4n61zK2MxKUBn0RCc="> 
+      </div> 
+      <div class="aspNetHidden"> 
+       <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="942D1C1E"> 
+      </div> 
+      <div class="health_topic_content health-topic-topic"> 
+       <div id="content_utilities" class="utilities"> 
+        <div class="helpers"> 
+         <div class="print"> 
+          <a href="javascript:window.print()" class="button print-button"> Print This Topic </a> 
+         </div> 
+         <div class="espanol"> 
+          <a id="content_translationLink" class="button" href="/espanol/temas/Category/como-llevar-una-vida-sana/precauciones-de-seguridad/aprende-primeros-auxilios-para-que-sepas-que-hacer-si-alguien-se-lastima-o-se-lesiona">En español</a> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="health_topic_content_inner_wrap clearfix"> 
+        <div class="pageTitle"> 
+         <h1 class="syndicate"> Learn First Aid </h1> 
+         <img id="content_contentImage" class="icon-image" alt="" src="/HealthTopics/glmedia/icons/learnfirstaid.jpg"> 
+        </div> 
+        <div id="content_quickguide_select_wrap_bg" class="quickguide_select_wrap-bg"> 
+         <div id="quickguide_select_wrap" class="quickguide_select_wrap"> 
+          <p id="quickguide-menu-trigger" class="quickguide-menu-trigger menu-hide">Browse Sections</p> 
+          <ul id="quickguide_select" class="quickguide_select menu-hide"> 
+           <li><span>The Basics</span> 
+            <ul> 
+             <li> <a href="#the-basics_1">Overview</a> </li> 
+            </ul> </li> 
+           <li><span>Take Action!</span> 
+            <ul> 
+             <li> <a href="#take-action_1">When to Call 911</a> </li> 
+             <li> <a href="#take-action_2">Help Someone Who Is Choking</a> </li> 
+             <li> <a href="#take-action_3">Help Someone Who Is Hurt</a> </li> 
+             <li> <a href="#take-action_4">Take a Class</a> </li> 
+             <li> <a href="#take-action_5">First Aid Kits</a> </li> 
+            </ul> </li> 
+          </ul> 
+         </div> 
+        </div> 
+        <!-- /quickguide_select_wrap-bg --> 
+        <div class="content-page-box quickguide_tabbed_content"> 
+         <div class="quickguide_content"> 
+          <div class="quickguide_areas"> 
+           <div id="the-basics" class="topic_area"> 
+            <h2 class="topic_area_title syndicate">The Basics</h2> 
+            <div class="pages"> 
+             <div class="page" id="page_459"> 
+              <h2 class="topic_page_title">The Basics: <span>Overview</span></h2> 
+              <div class="syndicate"> 
+               <p>Do you know what to do in an emergency?&nbsp;</p>
+               <p>An accident or emergency – like a heart attack or choking –&nbsp;can happen at any time. You can give first aid&nbsp;to someone until medical help arrives. Taking action right away can save a life.</p>
+               <p>Take these steps now so you’ll be ready in an emergency:</p>
+               <ul>
+                <li>Know when to call 911.</li>
+                <li>Learn how to help someone who is choking or hurt.</li>
+                <li>Take a class to learn first aid, CPR (cardiopulmonary resuscitation), and AED (automated external defibrillator).</li>
+                <li>Keep a first aid kit at home and in your car.</li>
+               </ul>
+               <p>Remember, it’s important to plan ahead and be prepared for injuries and emergencies. Simple actions can save lives.</p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_0_topic_navigation_0" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_0_pageNextLabel_0" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_0_pageNext_0" class="button next" href="#take-action_1">When to Call 911</a> </span> 
+                <span class="content_page_link left"> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_0_pageRange_0" class="content_page_range">1 of 6 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+            </div> 
+            <div class="clear"></div> 
+           </div> 
+           <div id="take-action" class="topic_area"> 
+            <h2 class="topic_area_title syndicate">Take Action!</h2> 
+            <div class="pages"> 
+             <div class="page" id="page_466"> 
+              <h2 class="topic_page_title">Take Action: <span>When to Call 911</span></h2> 
+              <div class="syndicate"> 
+               <p><strong>Know when to call 911.</strong></p>
+               <p>Call 911 if someone needs help right away, including if someone is:</p>
+               <ul>
+                <li>In danger – like from a fire</li>
+                <li>Very hurt – like from a car accident</li>
+                <li>Very sick or not breathing</li>
+                <li>Acting strangely</li>
+               </ul>
+               <p>If you are with a group of people in an emergency, choose 1 person to call 911. That way, everyone knows who is in charge of calling for help.</p>
+               <p><a href="http://www.911.gov/frequently_asked_questions.html">Learn more about how to use 911</a>.</p>
+               <p>The 911 operator is trained to help you. When you call 911, it’s important that you:</p>
+               <ul>
+                <li>Answer the operator’s questions as well as you can</li>
+                <li>Listen carefully</li>
+                <li>Don’t hang up</li>
+               </ul>
+               <p><a href="http://kidshealth.org/parent/firstaid_safe/emergencies/911.html" target="_blank">Teach your children how to use 911</a> and keep the number next to the phone. Make sure everyone can reach the phone, especially children.</p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_1_topic_navigation_0" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_1_pageNextLabel_0" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pageNext_0" class="button next" href="#take-action_2">Help Someone Who Is Choking</a> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_1_pagePrevLabel_0" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pagePrev_0" class="button previous" href="#the-basics_1">Overview</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_1_pageRange_0" class="content_page_range">2 of 6 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+             <div class="page" id="page_842"> 
+              <h2 class="topic_page_title">Take Action: <span>Help Someone Who Is Choking</span></h2> 
+              <div class="syndicate"> 
+               <h3>Learn what to do when someone is choking.&nbsp;</h3>
+               <p>When someone is choking on something and they can’t talk, cough very much, or breathe, it’s important to act right away. Brain damage can happen just 4 to 6 minutes after someone has started choking.</p>
+               <p>Ask someone to call 911 right away, then tell the person who is choking that you will try to help.</p>
+               <p>Stand behind the person and do back blows (hitting between the shoulder blades), abdominal thrusts (also called the Heimlich maneuver), or both. <a href="http://con1.classes.redcross.org/learningcontent/PHSS/PHSS/Flanker/flanker_p6/lesson4/video_conscious_choking_adult.html">Watch this video from the American Red Cross</a> to learn how to do it.</p>
+               <p>If you are alone and choking, you can <a href="http://www.nlm.nih.gov/medlineplus/ency/article/001983.htm" target="_blank">do the Heimlich maneuver on yourself</a>.</p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_1_topic_navigation_1" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_1_pageNextLabel_1" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pageNext_1" class="button next" href="#take-action_3">Help Someone Who Is Hurt</a> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_1_pagePrevLabel_1" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pagePrev_1" class="button previous" href="#take-action_1">When to Call 911</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_1_pageRange_1" class="content_page_range">3 of 6 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+             <div class="page" id="page_937"> 
+              <h2 class="topic_page_title">Take Action: <span>Help Someone Who Is Hurt</span></h2> 
+              <div class="syndicate"> 
+               <h3><strong>Learn what to do when someone is bleeding.</strong></h3>
+               <p>Losing too much blood is very dangerous, and it can happen quickly. If someone is bleeding badly, call 911 and try to stop the bleeding while you wait for medical help.&nbsp;</p>
+               <p>Press on the wound very firmly and steadily until the bleeding stops. If you can, find something clean to put between your hands and the bleeding, like a piece of cloth or a plastic bag. <a href="https://www.dhs.gov/stopthebleed" target="_blank">Learn more about how to stop bleeding</a>.</p>
+               <p>Don’t try to stop bleeding with salt, baking powder, or other products. These don’t help bleeding and may cause an infection.</p>
+               <h3><strong>Learn how to </strong><strong>comfort someone who needs help.</strong></h3>
+               <p>Calm, comforting words can help people during a medical emergency. If someone is hurt, ask how you can help. People who are hurt or in shock often feel cold, so try to keep them warm and calm until help arrives. <a href="https://community.fema.gov/until-help-arrives">Check out this online training about comforting someone in a medical emergency</a>.&nbsp;</p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_1_topic_navigation_2" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_1_pageNextLabel_2" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pageNext_2" class="button next" href="#take-action_4">Take a Class</a> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_1_pagePrevLabel_2" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pagePrev_2" class="button previous" href="#take-action_2">Help Someone Who Is Choking</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_1_pageRange_2" class="content_page_range">4 of 6 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+             <div class="page" id="page_464"> 
+              <h2 class="topic_page_title">Take Action: <span>Take a Class</span></h2> 
+              <div class="syndicate"> 
+               <h3><strong>Learn lifesaving skills to help you react faster and better.</strong></h3>
+               <p>Taking a class can teach you how to give first aid and CPR, and how to use an AED correctly. This training will give you the confidence and knowledge to respond quickly and safely in an emergency.</p>
+               <ul>
+                <li>Learning first aid will help you know what to do for problems like burns, cuts, head injuries, and broken bones.&nbsp;<a href="http://www.nlm.nih.gov/medlineplus/firstaid.html" target="_blank"><strong>Find out more about first aid</strong></a>.</li>
+                <li>Knowing CPR can help when someone’s heart or breathing has stopped. <a href="http://www.nlm.nih.gov/medlineplus/cpr.html" target="_blank"><strong>Learn more about CPR</strong></a>.</li>
+                <li>An AED is a portable device that can help when someone’s heart suddenly stops beating. <a href="https://www.nhlbi.nih.gov/health-topics/automated-external-defibrillator">Get the facts about AEDs</a>.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</li>
+               </ul>
+               <p>You can take first aid and CPR/AED classes separately or together – and you can learn to help people of all ages, from newborn babies to adults.</p>
+               <p>Ready to get started?&nbsp;<a href="http://www.redcross.org/take-a-class" target="_blank">Find a first aid and CPR/AED class in your community</a>.</p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_1_topic_navigation_3" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_1_pageNextLabel_3" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pageNext_3" class="button next" href="#take-action_5">First Aid Kits</a> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_1_pagePrevLabel_3" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pagePrev_3" class="button previous" href="#take-action_3">Help Someone Who Is Hurt</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_1_pageRange_3" class="content_page_range">5 of 6 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+             <div class="page" id="page_843"> 
+              <h2 class="topic_page_title">Take Action: <span>First Aid Kits</span></h2> 
+              <div class="syndicate"> 
+               <h3><strong>Keep a first aid kit nearby.</strong></h3>
+               <p>A first aid kit has the things you need to treat someone who is hurt. It includes supplies like bandages, tape, and scissors. Always keep a kit nearby – including in your home and car.</p>
+               <p>Make sure each first aid kit has directions on how to treat basic injuries and when to get more help.&nbsp;<a href="http://www.nlm.nih.gov/medlineplus/ency/article/001958.htm" target="_blank">Use this list to check the supplies in your first aid kit</a>. When you use supplies from the kit, remember to replace them.</p>
+               <p>Learn and remember the location of first aid kits and AEDs in public places, at work, and at school.</p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_1_topic_navigation_4" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_1_pagePrevLabel_4" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pagePrev_4" class="button previous" href="#take-action_4">Take a Class</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_1_pageRange_4" class="content_page_range">6 of 6 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+            </div> 
+            <div class="clear"></div> 
+           </div> 
+           <div id="content_pageDisplayToggleWrap" class="pageDisplayToggleWrap"> 
+            <a href="#" id="pageDisplayToggle" class="pageDisplayToggle">View All</a> 
+           </div> 
+           <div id="content_resourceLinks"> 
+            <div class="resource-links clearfix"> 
+             <p class="last-updated"> <strong>Content last updated on:</strong> February 26, 2019 </p> 
+             <p class="source-links"> <a id="content_contentReviewLink" href="/HealthTopics/Sources.aspx#72">Reviewer Information</a> <span id="content_breakBetweenLinks">&nbsp;|&nbsp;</span> <a id="content_moreResourcesLink" href="/FindServices/SearchContext.aspx?topic=317">Find More Resources</a> </p> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="clear"></div> 
+         </div> 
+         <!-- /.quickguide_content --> 
+         <div class="clear"></div> 
+        </div> 
+        <!-- /.content-page-box --> 
+       </div> 
+       <!-- /.health_topic_content_inner_wrap --> 
+       <div class="shadow-wide"></div> 
+       <div class="content-page-box health-topics-also-interested clearfix"> 
+        <div id="content_interestsPanel" class="topic_interests"> 
+         <h2>You may also be interested in:</h2> 
+         <ul> 
+          <li> <a id="content_interestsRepeater_imageLink_0" class="image_link" href="/HealthTopics/Category/everyday-healthy-living/safety/prepare-for-an-emergency"><img id="content_interestsRepeater_image_0" alt="Prepare for an Emergency" src="/HealthTopics/glmedia/icons/prepareforanemergency.jpg"></a> <a id="content_interestsRepeater_titleLink_0" class="title_link" href="/HealthTopics/Category/everyday-healthy-living/safety/prepare-for-an-emergency">Prepare for an Emergency</a> </li> 
+          <li> <a id="content_interestsRepeater_imageLink_1" class="image_link" href="/HealthTopics/Category/parenting/nutrition-and-physical-activity/swim-safely-quick-tips"><img id="content_interestsRepeater_image_1" alt="Swim Safely: Quick tips" src="/HealthTopics/glmedia/tools_icons/swimsafelyquicktips.jpg"></a> <a id="content_interestsRepeater_titleLink_1" class="title_link" href="/HealthTopics/Category/parenting/nutrition-and-physical-activity/swim-safely-quick-tips">Swim Safely: Quick tips</a> </li> 
+          <li> <a id="content_interestsRepeater_imageLink_2" class="image_link" href="/HealthTopics/Category/everyday-healthy-living/safety/protect-your-child-from-injury"><img id="content_interestsRepeater_image_2" alt="Protect Your Child from Injury" src="/HealthTopics/glmedia/icons/protectyourchildfrominjury.jpg"></a> <a id="content_interestsRepeater_titleLink_2" class="title_link" href="/HealthTopics/Category/everyday-healthy-living/safety/protect-your-child-from-injury">Protect Your Child from Injury</a> </li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="shadow health-topics-also-interested"></div> 
+       <!-- ./box-left --> 
+      </div> 
+      <!-- /.health-topic-tool --> 
+      <div id="resizable_embedded_link"></div> 
+     </form> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+   </div> 
+   <div id="HideIfWidget5"> 
+    <div id="footer" role="complementary"> 
+     <ul class="footer-links-wide"> 
+      <li><a href="/aboutus/">About Us</a></li> 
+      <li><a href="/aboutus/accessibility.aspx">Accessibility</a></li> 
+      <li><a href="/aboutus/contactus.aspx">Contact Us</a></li> 
+      <li><a href="/Developer">Developers</a></li> 
+      <li><a href="/aboutus/disclaimer.aspx">Disclaimers</a></li> 
+      <li><a href="/aboutus/foia.aspx">Freedom of Information Act</a></li> 
+      <li><a href="https://www.hhs.gov/civil-rights/for-individuals/nondiscrimination/index.html" target="_blank">Nondiscrimination Notice</a></li> 
+      <li><a href="/aboutus/privacy.aspx">Privacy Policy</a></li> 
+      <li><a href="/sitemap.aspx">Site Map</a></li> 
+      <li class="last"><a href="/aboutus/plugins.aspx">Viewers &amp; Players</a></li> 
+      <li class="clear"></li> 
+     </ul> 
+     <div class="clear"></div> 
+     <div class="footer-language"> 
+      <p>Language Assistance Available</p> 
+      <ul class="footer-links-wide"> 
+       <li><a lang="es" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#spanish" target="_blank">Español</a></li> 
+       <li><a lang="zh" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#chinese" target="_blank">????</a></li> 
+       <li><a lang="vi" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#vietnamese" target="_blank">Ti?ng Vi?t</a></li> 
+       <li><a lang="ko" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#korean" target="_blank">???</a></li> 
+       <li><a lang="fr" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#french" target="_blank">Français</a></li> 
+       <li><a lang="pl" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#polish" target="_blank">Polski</a></li> 
+       <li><a lang="pt" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#portugese" target="_blank">Português</a></li> 
+       <li><a lang="it" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#italian" target="_blank">Italiano</a></li> 
+       <li><a lang="tl" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#tagalog" target="_blank">Tagalog</a></li> 
+       <li><a lang="ru" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#russian" target="_blank">???????</a></li> 
+       <li><a lang="ar" dir="rtl" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#arabic" target="_blank">???????</a></li> 
+       <li><a lang="sg" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#creole" target="_blank">Kreyòl Ayisyen</a></li> 
+       <li><a lang="de" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#german" target="_blank">Deutsch</a></li> 
+       <li><a lang="ja" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#japanese" target="_blank">???</a></li> 
+       <li><a lang="fa" dir="rtl" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#farsi" target="_blank">?????</a></li> 
+       <li class="last"><a href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#english" target="_blank">English</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+     <div id="footer-bottom"> 
+      <div class="footer-text">
+        A Federal Government website managed by the 
+       <a class="hhs-text-link" href="https://www.hhs.gov/">U.S. Department of Health and Human Services</a> 
+       <br class="hidden-mobile-break"> healthfinder.gov is sponsored by the National Health Information Center 
+       <span class="address-block">200 Independence Avenue, S.W., Washington, DC 20201</span> 
+       <span class="page-updated">Page last updated: Saturday, June 01, 2019</span> 
+      </div> 
+      <div class="logo-box"> 
+       <a class="logo-hhs" href="https://www.hhs.gov/" title="Department of Health and Human Services"> <img src="/images/footer-hhs-logo.png" alt="Department of Health and Human Services"></a> 
+       <a class="logo-odphp" href="https://health.gov/" title="Office of Disease Prevention and Health Promotion"> <img src="/images/odphp-logo-black.png" class="odphp-logo" alt="Office of Disease Prevention and Health Promotion"></a> 
+       <a class="logo-healthfinder" href="https://healthfinder.gov" title="healthfinder.gov"> <img src="/images/footer-hf-logo.png" alt="healthfinder.gov logo"></a> 
+      </div> 
+      <div class="clear"></div> 
+     </div> 
+     <!-- /#footer-bottom --> 
+     <div class="clear"></div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="up_scrollable_indicator"></div> 
+  <div id="down_scrollable_indicator"></div> 
+  <script src="/js/jquery-1.8.3.min.js" type="text/javascript"></script> 
+  <script src="/js/jquery-ui-1.8.16.custom.min.js" type="text/javascript"></script> 
+  <script src="/js/jquery.cycle.all.js" type="text/javascript"></script> 
+  <script src="/js/jquery.colorbox-min.js" type="text/javascript"></script> 
+  <script src="/js/jquery.flexslider.modified.js" type="text/javascript"></script> 
+  <script src="/js/jquery.ba-hashchange.min.js" type="text/javascript"></script> 
+  <script src="/js/healthfinder.js" type="text/javascript"></script> 
+  <script src="/js/jquery.ddslick.min.js" type="text/javascript"></script> 
+  <script src="/js/myhealthfinder.js" type="text/javascript"></script> 
+  <script src="/js/global-nav.js" type="text/javascript"></script> 
+  <script src="/js/outlink.js" type="text/javascript"></script> 
+  <script src="/js/search-suggest.js" type="text/javascript"></script> 
+  <!--AddThis code--> 
+  <script type="text/javascript">
+        var addthis_config = {
+            ui_language: "en"
+      };
+    </script> 
+  <script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=xa-50c0b9a52a842762"></script> 
+  <!-- Document Download tracking --> 
+  <script src="/js/ga_download_tracker.js" type="text/javascript"></script> 
+  <!--CrazyEgg tracking code --> 
+  <script type="text/javascript">
+        setTimeout(function () {
+            var a = document.createElement("script");
+            var b = document.getElementsByTagName("script")[0];
+            a.src = document.location.protocol + "//dnn506yrbagrg.cloudfront.net/pages/scripts/0013/7844.js?" + Math.floor(new Date().getTime() / 3600000);
+            a.async = true; a.type = "text/javascript"; b.parentNode.insertBefore(a, b)
+        }, 1);
+    </script> 
+  <!--BEGIN QUALTRICS SITE INTERCEPT sitewide --> 
+  <script type="text/javascript">
+        (function () {
+            var g = function (e, h, f, g) {
+                this.get = function (a) { for (var a = a + "=", c = document.cookie.split(";"), b = 0, e = c.length; b < e; b++) { for (var d = c[b]; " " == d.charAt(0) ;) d = d.substring(1, d.length); if (0 == d.indexOf(a)) return d.substring(a.length, d.length) } return null };
+                this.set = function (a, c) { var b = "", b = new Date; b.setTime(b.getTime() + 6048E5); b = "; expires=" + b.toGMTString(); document.cookie = a + "=" + c + b + "; path=/; " };
+                this.check = function () { var a = this.get(f); if (a) a = a.split(":"); else if (100 != e) "v" == h && (e = Math.random() >= e / 100 ? 0 : 100), a = [h, e, 0], this.set(f, a.join(":")); else return !0; var c = a[1]; if (100 == c) return !0; switch (a[0]) { case "v": return !1; case "r": return c = a[2] % Math.floor(100 / c), a[2]++, this.set(f, a.join(":")), !c } return !0 };
+                this.xgo = function () { if (this.check()) { var a = document.createElement("script"); a.type = "text/javascript"; a.src = g + "&t=" + (new Date()).getTime(); document.body && document.body.appendChild(a) } };
+                this.go = function () { wait_for_session_delay(30, this.xgo, this); };
+                this.start = function () { var a = this; window.addEventListener ? window.addEventListener("load", function () { a.go() }, !1) : window.attachEvent && window.attachEvent("onload", function () { a.go() }) }
+            };
+            try { (new g(100, "r", "QSI_S_SI_eDVjXbuzcR5eE0B", "//znbqj3egyjwfzib9r-communicatehealth.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_eDVjXbuzcR5eE0B&Q_LOC=" + encodeURIComponent(window.location.href))).start() } catch (i) { }
+        })();
+    </script> 
+  <div id="SI_eDVjXbuzcR5eE0B"> 
+   <!--DO NOT REMOVE-CONTENTS PLACED HERE--> 
+  </div> 
+  <!--END SITE INTERCEPT--> 
+  <!--BEGIN QUALTRICS SITE INTERCEPT feedback link --> 
+  <script type="text/javascript">
+        (function () {
+            var g = function (e, h, f, g) {
+                this.get = function (a) { for (var a = a + "=", c = document.cookie.split(";"), b = 0, e = c.length; b < e; b++) { for (var d = c[b]; " " == d.charAt(0) ;) d = d.substring(1, d.length); if (0 == d.indexOf(a)) return d.substring(a.length, d.length) } return null };
+                this.set = function (a, c) { var b = "", b = new Date; b.setTime(b.getTime() + 6048E5); b = "; expires=" + b.toGMTString(); document.cookie = a + "=" + c + b + "; path=/; " };
+                this.check = function () { var a = this.get(f); if (a) a = a.split(":"); else if (100 != e) "v" == h && (e = Math.random() >= e / 100 ? 0 : 100), a = [h, e, 0], this.set(f, a.join(":")); else return !0; var c = a[1]; if (100 == c) return !0; switch (a[0]) { case "v": return !1; case "r": return c = a[2] % Math.floor(100 / c), a[2]++, this.set(f, a.join(":")), !c } return !0 };
+                this.go = function () { if (this.check()) { var a = document.createElement("script"); a.type = "text/javascript"; a.src = g + "&t=" + (new Date()).getTime(); document.body && document.body.appendChild(a) } };
+                this.start = function () { var a = this; window.addEventListener ? window.addEventListener("load", function () { a.go() }, !1) : window.attachEvent && window.attachEvent("onload", function () { a.go() }) }
+            };
+            try { (new g(100, "r", "QSI_S_SI_cXQyslZ7nyPxAbz", "//znbqj3egyjwfzib9r-communicatehealth.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_cXQyslZ7nyPxAbz&Q_LOC=" + encodeURIComponent(window.location.href))).start() } catch (i) { }
+        })();
+    </script> 
+  <div id="SI_cXQyslZ7nyPxAbz"> 
+   <!--DO NOT REMOVE-CONTENTS PLACED HERE--> 
+  </div> 
+  <!--END SITE INTERCEPT--> 
+  <!--BEGIN QUALTRICS SITE INTERCEPT - page level --> 
+  <script type="text/javascript">
+        (function () {
+            var g = function (e, h, f, g) {
+                this.get = function (a) { for (var a = a + "=", c = document.cookie.split(";"), b = 0, e = c.length; b < e; b++) { for (var d = c[b]; " " == d.charAt(0) ;) d = d.substring(1, d.length); if (0 == d.indexOf(a)) return d.substring(a.length, d.length) } return null };
+                this.set = function (a, c) { var b = "", b = new Date; b.setTime(b.getTime() + 6048E5); b = "; expires=" + b.toGMTString(); document.cookie = a + "=" + c + b + "; path=/; " };
+                this.check = function () { var a = this.get(f); if (a) a = a.split(":"); else if (100 != e) "v" == h && (e = Math.random() >= e / 100 ? 0 : 100), a = [h, e, 0], this.set(f, a.join(":")); else return !0; var c = a[1]; if (100 == c) return !0; switch (a[0]) { case "v": return !1; case "r": return c = a[2] % Math.floor(100 / c), a[2]++, this.set(f, a.join(":")), !c } return !0 };
+                this.go = function () { if (this.check()) { var a = document.createElement("script"); a.type = "text/javascript"; a.src = g + "&t=" + (new Date()).getTime(); document.body && document.body.appendChild(a) } };
+                this.start = function () { var a = this; window.addEventListener ? window.addEventListener("load", function () { a.go() }, !1) : window.attachEvent && window.attachEvent("onload", function () { a.go() }) }
+            };
+            try { (new g(100, "r", "QSI_S_SI_abZk2DnPlZAGHjL", "//znbqj3egyjwfzib9r-communicatehealth.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_abZk2DnPlZAGHjL&Q_LOC=" + encodeURIComponent(window.location.href))).start() } catch (i) { }
+        })();
+    </script> 
+  <div id="SI_abZk2DnPlZAGHjL"> 
+   <!--DO NOT REMOVE-CONTENTS PLACED HERE--> 
+  </div> 
+  <!--END SITE INTERCEPT--> 
+  <script src="https://health.gov/ui/js/lib/survey-wrapper.js"></script> 
+  <script src="/js/quickguide.js" type="text/javascript"></script>   
+ </body>
+</html>

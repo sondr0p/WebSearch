@@ -1,0 +1,3910 @@
+<!doctype html>
+<html lang="en">
+ <head> 
+  <!-- emiProtocol == (none) --> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <style type="text/css">
+#cmaControlsContainer {
+  position: fixed;
+  left: 100%;
+  background-color: #fff;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  z-index: 9999999999;
+  display: block;
+  -webkit-transition-duration: 1s;
+  -o-transition-duration: 1s;
+  transition-duration: 1s;
+  -webkit-box-shadow: 2px 2px 15px 0px rgba(0, 0, 0, 0.4);
+  box-shadow: 2px 2px 15px 0px rgba(0, 0, 0, 0.4); }
+  #cmaControlsContainer #toolsToggle {
+    position: absolute;
+    right: 100%;
+    top: 0;
+    display: inline-block;
+    border-top-left-radius: 15px;
+    padding: 10px 25px 10px 10px;
+    background-color: #288079;
+    color: white;
+    font-size: 1.2em;
+    border-bottom-left-radius: 15px;
+    -webkit-box-shadow: 2px 2px 15px 0px rgba(0, 0, 0, 0.4);
+    box-shadow: 2px 2px 15px 0px rgba(0, 0, 0, 0.4); }
+    #cmaControlsContainer #toolsToggle:hover, #cmaControlsContainer #toolsToggle:focus {
+      background-color: white;
+      color: #288079; }
+  #cmaControlsContainer #cmaControls {
+    display: none;
+    padding: 10px 20px; }
+    #cmaControlsContainer #cmaControls a {
+      margin-bottom: 5px;
+      border-bottom: 1px solid black; }
+    #cmaControlsContainer #cmaControls a, #cmaControlsContainer #cmaControls select {
+      display: block; }
+  #cmaControlsContainer.open {
+    left: inherit;
+    right: 0; }
+    #cmaControlsContainer.open #cmaControls {
+      display: inline-block; }
+</style> 
+  <!-- State Of Michigan - Mon May 06 12:36:54 2019 --> 
+  <!-- e-Michigan Portal - Process #7, Server www --> 
+  <link rel="canonical" href="https://www.michigan.gov/minewswire/"> 
+  <title>MI News Wire - News and Information</title> 
+  <meta name="DESCRIPTION" content="Michigan News and Information from all State agencies - News And Information"> 
+  <meta name="KEYWORDS" content="News and Information"> 
+  <base target="_top"> 
+  <!-- global styles -->
+  <link rel="stylesheet" type="text/css" href="/css/fullcalendar.css"> 
+  <!-- global scripts RD-->
+  <!-- AN styles added Jan 2016 for bootstrap migration--> 
+  <link rel="stylesheet" href="/font-som-icons/css/somicons.min.css"> 
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"> 
+  <link rel="stylesheet" type="text/css" href="/bootstrap/css/bootstrap.min.css"> 
+  <!-- global styles RD--> 
+  <link rel="stylesheet" type="text/css" href="/css/fullcalendar.css"> 
+  <link href="/css/jquery.bxslider.css" type="text/css" rel="stylesheet"> 
+  <link href="/css/rdLayout.css" type="text/css" rel="stylesheet"> 
+  <link href="/css/responsive-component-defaults.css" type="text/css" rel="stylesheet"> 
+  <!--javascripts --> 
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script> 
+  <script src="/bootstrap/js/bootstrap.min.js"></script> 
+  <script src="/js/fullcalendar.js" type="text/javascript"></script> 
+  <script src="/js/jquery.meanmenu.js"></script> 
+  <script src="/js/jquery.bxslider.js"></script> 
+  <script src="/js/jquery.rwdImageMaps.js"></script> 
+  <script src="/js/jquery.validate.js"></script> 
+  <script src="/js/additional-methods.js"></script> 
+  <script src="/js/responsiveComponents.js"></script> 
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.0/jquery.matchHeight-min.js"></script> 
+  <!--[if (lt IE 9)]>
+<script>
+document.createElement('header');
+document.createElement('nav');
+document.createElement('section');
+document.createElement('article');
+document.createElement('aside');
+document.createElement('footer');
+document.createElement('time');
+</script>
+<script src="/js/respond.js"></script>
+<link href="/css/migov_ie8.css" rel="stylesheet" media="all" />
+<![endif]--> 
+  <script src="/js/main_navigation_script.js" type="text/javascript"></script> 
+  <link rel="stylesheet" type="text/css" href="/css/main_navigation.css"> 
+  <!-- RD MODE globalRD.CSS -->
+  <style>  BODY {background-color : #ededda}#subTop {display:none}a.themeLink, a.themeLink:visited {color: #3f7f00;border: #3f7f00 1px solid;background-color:  #ffffff}a.themeLink:hover {color: #ffffff;background-color: #3f7f00;border: #3f7f00 1px solid}/*------------LEFT NAV MAIN MENU----------------*/#mainnav UL#TOP_NAV_LINKS {BACKGROUND-COLOR: #3f7f00}#mainnav LI A, #nav LI A {BACKGROUND-COLOR: #3f7f00;color:#ffffff}#mainnav LI A:hover, #nav LI A:hover {BACKGROUND-COLOR: #ffffff;color: #3f7f00}#mainnav LI A.current, #mainnav LI A.current:hover, #nav LI A.current, #nav LI A.current:hover,#mainnav LI A.current0, #mainnav LI A.current0:hover, #nav LI A.current0, #nav LI A.current0:hover{BACKGROUND-COLOR: #ffffff;color: #3f7f00}/*----------RESPONSIVE TABBED/ACCORDION AGENCY COLORS------------------*/.responsive-tabs__list__item {background: #40ada0;color: #ffffff}.responsive-tabs__list__item:hover {background: #3f7f00;color: #ffffff}.responsive-tabs__list__item--active, .responsive-tabs__list__item--active:hover {background: #3f7f00;color: #ffffff}.responsive-tabs__heading {background: #3f7f00}.responsive-tabs__heading h2, .responsive-tabs__heading a, .responsive-tabs__heading a:visited {color: #ffffff}.responsive-tabs__heading a:hover {color: #40ada0}.responsive-tabs__heading:hover, .responsive-tabs__heading:hover a {background: #40ada0;color: #ffffff}.responsive-tabs__heading--active {background: #ffffff;color: #40ada0}.responsive-tabs__heading--active a, .responsive-tabs__heading--active a:visited {background: #ffffff;color: #40ada0}/*----------RESPONSIVE ACCORDION AGENCY COLORS------------------*/.responsive-accordion__heading a:hover, .responsive-accordion__heading a:visited:hover,.responsive-accordion__heading  a.not-active:hover {BACKGROUND-COLOR: #40ada0;color:#ffffff}.responsive-accordion__heading a {BACKGROUND-COLOR: #3f7f00;color:#ffffff; border: 0px solid #3f7f00}.responsive-accordion a.not-active{pointer-events: all;}/*-----------SOCIAL NAV BAR COLORS--------------*/#social_nav_horizontalRD .utilityItems div a {background-color: #40ada0}/*---------CATEGORIZED LIST }-----------*/.cTitle,.catCallDisplayText1, .catCallDisplayText1 a {background-COLOR: #ffffff;COLOR: #3f7f00</style>
+  <!-- Agency Header -->
+  <!-- Agency Header do not include the globalcss file -->
+  <script src="/js/jquery.bxslider.js"></script> 
+  <link rel="stylesheet" href="/css/jquery.bxslider.css" type="text/css"> 
+  <link href="/css/responsive-component-defaults.css" type="text/css" rel="stylesheet"> 
+  <script src="/js/responsiveComponents.js"></script> 
+  <script type="text/javascript"> 
+$(document).ready(function(){
+$('.slider1').bxSlider({auto: true, autoControls: true, slideMargin:20,preloadImages:'visible',minSlides :1, maxSlides:1,speed:1000, mode:'fade'});
+jQuery('nav.main-navigation').meanmenu(
+{meanScreenWidth:"960",rightNav_width:"30%",main:"67%", topNavSearch_position:"-80px",topNavSearch_width:"40%"
+});
+jQuery("#ul_3452").addClass("Open");
+});
+</script> 
+  <link href="/documents/minewswire/newswire_487323_7.css" type="text/css" rel="stylesheet">
+  <!--/ Agency Header-->
+  <!--/ Agency Header-->
+  <link href="/css/rdHbContactInfo.css?1493914492" type="text/css" rel="stylesheet"> 
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js"></script> 
+  <script src="/js/gtm.js?v=1501512057"></script> 
+ </head> 
+ <body class="agy-minewswire"> 
+  <div role="navigation" aria-label="skip nav"> 
+   <noscript> 
+    <div class="alert bg bg-accent-1 text-center"> 
+     <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> Browsers that can not handle javascript will not be able to access some features of this site. 
+     <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> 
+    </div> 
+    <style type="text/css">
+body.matching-heights-processing:before,body.matching-heights-processing:after {
+content:'';
+height:0px;
+width:0px;
+}
+</style> 
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WTW7M9" height="0" width="0" style="display:none;visibility:hidden"></iframe> 
+   </noscript> 
+   <div id="noAdBlock" style="display:none;" class="alert bg bg-accent-1 text-center"> 
+    <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> Some functions of this site are disabled for browsers blocking jQuery. 
+    <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> 
+   </div> 
+   <div id="_TopOfPage"></div> 
+   <script>
+			function doAnalyticsGo(sndx) {
+				var dest = sndx.options[sndx.selectedIndex].value;
+				if (dest == 0) {
+					alert('Please make a selection.');
+					return false;
+				} else {
+					document.location.href=dest;
+					return false;
+				}
+			}
+		</script>
+   <a href="#main" class="sr-only sr-only-focusable">Skip to main content</a> 
+  </div> 
+  <div id="container" class="container-fluid"> 
+   <!-- agencyHeaderNavPath agencyCreateHeaderNavRD --> 
+   <div id="bannerArea" role="banner">
+    <!-- HEADER 1.1 Live -->
+    <div id="superTop" role="navigation" aria-label="main navigation">
+     <ul id="bannerLinks">
+      <li><a href="/services" title="Online Services">Online Services</a></li>
+      <li><a href="/socialmedia" title="Social Media">Social Media</a></li>
+      <li><a href="/departments" title="State Departments">State Departments</a></li>
+      <li><a href="/somhelp" title="Help Center">Help Center</a></li>
+      <li><a href="/minewswire" title="MI Newswire Home">MI Newswire Home</a></li>
+      <li class="migovlink"><a href="http://www.michigan.gov/" title="MI Gov Home">MI.gov</a></li>
+     </ul>
+    </div>
+    <div id="screenwidth"></div>
+    <div id="siteBanner"> 
+     <a class="AGENCY_HEADER_L" accesskey="1" href="/minewswire/"><img class="AGENCY_HEADER_L" src="/images/minewswire/newswireBanner1_462097_7.png" alt="MI News Wire - Michigan News and Information from all State agencies "></a> 
+     <img class="AGENCY_HEADER_R" src="/images/minewswire/newswireBanner2_462098_7.png" alt="Michigan News and Information from all State agencies ">
+    </div> 
+    <div class="siteBannerTxt">
+     Michigan News and Information from all State agencies 
+    </div> 
+    <!-- TOPNAV -->
+    <div id="topNavSearch"> 
+     <!-- SEARCH -->
+     <form id="searchform" onsubmit="location.href='https://search.michigan.gov/AppBuilder/search?ctx=MINEWSWIRE&amp;q=' + document.getElementById('query').value;return false;"> 
+      <input accesskey="s" type="TEXT" autocomplete="off" id="query" name="q" placeholder="Search" title="Search"> 
+      <input id="go" type="submit" value="search" name="button" onClick="location.href='https://search.michigan.gov/AppBuilder/search?ctx=MINEWSWIRE&amp;q=' + document.getElementById('query').value;return false;"> 
+     </form>
+     <!-- /SEARCH -->
+    </div>
+    <!-- utility bar /includes/utilityBarRD.html --> 
+    <script> 
+function emishare_click(social_utility) {
+                       var statusType = "";
+                       var createURL = "";
+                       var tempurl = "";
+                       url = location.href;
+                       //url = "http://mi.gov";
+                           createURL = encodeURIComponent(url);
+                           statusType = "Reading:"
+                           //alert(social_utility);
+                  
+                       t = document.title;
+                       if (social_utility == "twitter") {
+                           window.open('http://twitter.com/home?status= ' + statusType + "%20" + encodeURIComponent(url));
+                       }
+                       if (social_utility == "facebook") {
+                           window.open('http://www.facebook.com/sharer.php?u=' + createURL, 'sharer', 'toolbar=0,status=0,width=626,height=436');
+                       }
+                   
+                      return false;
+                  }
+</script> 
+    <div id="social_nav_horizontalRD">
+     <div class="utilityItems"> 
+      <div></div>
+      <div>
+       <a id="fb" href="#" onclick="return emishare_click('facebook')" title="Share this Link on Facebook"><img src="/images/fb.png" alt="Share this Link on Facebook"></a>
+      </div>
+      <div>
+       <a id="tw" href="http://www.twitter.com/" onclick="return emishare_click('twitter')" target="_blank" title="Tweet this page on Twitter"><img src="/images/tw.png" alt="Tweet this page on Twitter!"></a>
+      </div> 
+     </div>
+    </div>
+   </div>
+   <!-- LEFTNAV agencyCreateLeftNavRD --> 
+   <!-- bodyWrapper --> 
+   <div id="bodyWrapper"> 
+    <div id="menu" role="navigation" aria-label="Site" class=""> 
+     <div id="flyout">
+      <nav class="main-navigation">
+       <ul id="nav" class=""> 
+        <!-- State Of Michigan - Wed Jan 09 12:31:16 2019 --> 
+        <!-- e-Michigan Portal - Process #3 --> 
+        <!-- Begin Global Nav section -->
+        <!-- End Global Nav section --> 
+        <!-- Begin Responsive Navigation --> 
+        <li id="3452" class="id-3452 has-subs"> <a class="lvl1" title="News and Information" href="/minewswire/0,4629,7-136-3452---,00.html">News and Information</a> <a title="show sub link for News and Information" href="#ul_3452" data-target-list="ul_3451" class="toggle-sub-list" style="display:none;"></a> 
+         <ul id="ul_3452" class="sub-list"> 
+          <li id="3457" class="id-3457 "> <a class="lvl2" title="News and Information, Agriculture" href="/minewswire/0,4629,7-136-3452_3457---,00.html">Agriculture</a> </li> 
+          <li id="3458" class="id-3458 "> <a class="lvl2" title="News and Information, Attorney General" href="/minewswire/0,4629,7-136-3452_3458---,00.html">Attorney General</a> </li> 
+          <li id="3461" class="id-3461 "> <a class="lvl2" title="News and Information, Civil Rights" href="/minewswire/0,4629,7-136-3452_3461---,00.html">Civil Rights</a> </li> 
+          <li id="4934" class="id-4934 "> <a class="lvl2" title="News and Information, Civil Service" href="/minewswire/0,4629,7-136-3452_4934---,00.html">Civil Service</a> </li> 
+          <li id="3465" class="id-3465 "> <a class="lvl2" title="News and Information, Community Health" href="/minewswire/0,4629,7-136-3452_3465---,00.html">Community Health</a> </li> 
+          <li id="3467" class="id-3467 "> <a class="lvl2" title="News and Information, Corrections" href="/minewswire/0,4629,7-136-3452_3467---,00.html">Corrections</a> </li> 
+          <li id="3476" class="id-3476 "> <a class="lvl2" title="News and Information, Education" href="/minewswire/0,4629,7-136-3452_3476---,00.html">Education</a> </li> 
+          <li id="3477" class="id-3477 "> <a class="lvl2" title="News and Information, Envrionment, Great Lakes &amp; Energy" href="/minewswire/0,4629,7-136-3452_3477---,00.html">Envrionment, Great Lakes &amp; Energy</a> </li> 
+          <li id="57907" class="id-57907 "> <a class="lvl2" title="News and Information, Former Governors" href="/minewswire/0,4629,7-136-3452_57907---,00.html">Former Governors</a> </li> 
+          <li id="90717" class="id-90717 "> <a class="lvl2" title="News and Information, Governor" href="/minewswire/0,4629,7-136-3452_90717---,00.html">Governor</a> </li> 
+          <li id="71755" class="id-71755 "> <a class="lvl2" title="News and Information, Health &amp; Human Services" href="/minewswire/0,4629,7-136-3452_71755---,00.html">Health &amp; Human Services</a> </li> 
+          <li id="3478" class="id-3478 "> <a class="lvl2" title="News and Information, Human Services" href="/minewswire/0,4629,7-136-3452_3478---,00.html">Human Services</a> </li> 
+          <li id="64898" class="id-64898 "> <a class="lvl2" title="News and Information, Insurance and Financial Services" href="/minewswire/0,4629,7-136-3452_64898---,00.html">Insurance and Financial Services</a> </li> 
+          <li id="73585" class="id-73585 "> <a class="lvl2" title="News and Information, Judiciary" href="http://courts.mi.gov/News-Events/press_releases/Pages/default.aspx">Judiciary</a> </li> 
+          <li id="3466" class="id-3466 "> <a class="lvl2" title="News and Information, Licensing and Regulatory Affairs" href="/minewswire/0,4629,7-136-3452_3466---,00.html">Licensing and Regulatory Affairs</a> </li> 
+          <li id="3482" class="id-3482 "> <a class="lvl2" title="News and Information, Lieutenant Governor" href="/minewswire/0,4629,7-136-3452_3482---,00.html">Lieutenant Governor</a> </li> 
+          <li id="28364" class="id-28364 "> <a class="lvl2" title="News and Information, Lottery" href="/minewswire/0,4629,7-136-3452_28364---,00.html">Lottery</a> </li> 
+          <li id="69925" class="id-69925 "> <a class="lvl2" title="News and Information, Michigan Gaming Control Board" href="/minewswire/0,4629,7-136-3452_69925---,00.html">Michigan Gaming Control Board</a> </li> 
+          <li id="3513" class="id-3513 "> <a class="lvl2" title="News and Information, Military &amp; Veterans Affairs" href="/minewswire/0,4629,7-136-3452_3513---,00.html">Military &amp; Veterans Affairs</a> </li> 
+          <li id="3514" class="id-3514 "> <a class="lvl2" title="News and Information, Natural Resources" href="/minewswire/0,4629,7-136-3452_3514---,00.html">Natural Resources</a> </li> 
+          <li id="3516" class="id-3516 "> <a class="lvl2" title="News and Information, Secretary of State" href="/minewswire/0,4629,7-136-3452_3516---,00.html">Secretary of State</a> </li> 
+          <li id="3518" class="id-3518 "> <a class="lvl2" title="News and Information, State Police" href="/minewswire/0,4629,7-136-3452_3518---,00.html">State Police</a> </li> 
+          <li id="3519" class="id-3519 "> <a class="lvl2" title="News and Information, Transportation" href="/minewswire/0,4629,7-136-3452_3519---,00.html">Transportation</a> </li> 
+          <li id="76920" class="id-76920 "> <a class="lvl2" title="News and Information, Talent and Economic Development" href="/minewswire/0,4629,7-136-3452_76920---,00.html">Talent and Economic Development</a> </li> 
+          <li id="3495" class="id-3495 "> <a class="lvl2" title="News and Information, Technology, Management  &amp; Budget" href="/minewswire/0,4629,7-136-3452_3495---,00.html">Technology, Management &amp; Budget</a> </li> 
+          <li id="3520" class="id-3520 "> <a class="lvl2" title="News and Information, Treasury" href="/minewswire/0,4629,7-136-3452_3520---,00.html">Treasury</a> </li> 
+         </ul> </li> 
+        <li id="46371" class="id-46371 "> <a class="lvl1" title="Current News RSS Feed" href="/minewswire/0,4629,7-136-46371---,00.html">Current News RSS Feed</a> </li> 
+       </ul> 
+      </nav> 
+     </div> 
+     <!-- End Flyout Navigation -->
+     <!-- Left Links -->
+     <!-- End Left Links --> 
+    </div> 
+    <!-- contentWrapper --> 
+    <div id="contentWrapper" class=""> 
+     <!-- main -->
+     <div id="main" class="DW page" role="main"> 
+      <h1 id="breadcrumb" role="navigation" aria-label="breadcrumbs"><span style="display: none" id="breadcrumblabel">You are here</span>
+       <ol class="breadcrumb" aria-labelledby="breadcrumblabel">
+        <li><a href="/minewswire/">MI News Wire</a></li> 
+        <li><a href="/minewswire/0,4629,7-136-3452---,00.html" title="News and Information">News and Information</a></li>
+       </ol></h1> 
+      <!-- Body Begin --> 
+      <!-- State Of Michigan - Fri May 31 18:09:46 2019 --> 
+      <!--BEGIN MAIN CONTENT AREA-->
+      <div class="DW col1 col-md-8" style="">
+       <!-- ID COMPONENT_4692 -->
+       <div class="month-index-container">
+        <div class=""> 
+         <!-- Begin displayAgencyContentByMonth --> 
+         <div class="cTitle news">
+          <img src="/images/news_pressrelease_recent_5345_7.gif" alt="MI News Press Release Index Header" width="420" height="27">
+         </div>
+         <div style="float:right">
+          <a class="indexLink" href="/minewswire/0,4629,7-136-3452---Y,00.html">View index of &gt;<strong>News and Information</strong></a>
+         </div>
+         <span class="miyear">May 2019</span>
+         <div class="monthlyIndex"> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">31</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498521--,00.html" title="">MDHHS issues Request for Proposals for teen pregnancy prevention programming</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">31</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497453--,00.html" title=" The Michigan Parole Board will hold a public hearing on Thursday,&nbsp;June 13,&nbsp;2019 to consider the possible parole of Billy Abernathy, #150693.&nbsp; It will be held at 11:00 a.m. at the Handlon Michigan Training Center; Richard A. Handlon Correctional Facility in Ionia, Michigan. 
+">A public hearing to consider the possible parole of Billy Abernathy, #150693</a>
+            <span class="shortdesc"><p>The Michigan Parole Board will hold a public hearing on Thursday,&nbsp;June 13,&nbsp;2019 to consider the possible parole of Billy Abernathy, #150693.&nbsp; It will be held at 11:00 a.m. at the Handlon Michigan Training Center; Richard A. Handlon Correctional Facility in Ionia, Michigan.</p> </span>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">31</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498639--,00.html" title="">Nessel: Parole Board Decision Puts Public Safety at Risk</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">31</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498651--,00.html" title=" Thirteen talent consortia awarded Marshall Plan for Talent funds to improve state’s talent development and education system, benefiting&nbsp;more than 220,000 students 
+">Nearly $14 million awarded to schools statewide to create robust talent development and education system</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">31</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498656--,00.html" title="">Flint families can get nutritious food at mobile pantry in June</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">31</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498593--,00.html" title="">Michigan AG's Child Support Unit Breaks $275 Million in Collections Since Inception</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">30</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498515--,00.html" title=" Secretary of State Jocelyn Benson today announced the Secretary of State Mobile Office will visit the Mackinaw Area Public Library . . . 
+">Secretary of State Mobile Office to visit Mackinaw Area Public Library June 10</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">30</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498498--,00.html" title="">Lt. Governor Garlin Gilchrist Joins DTE and Consumers Energy as Companies Announce $15 Billion Commitment to Grow Michigan Businesses</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">30</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498480--,00.html" title="">Wayne County Economic Development Corporation awarded $250,000 EGLE Grant </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">30</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498459--,00.html" title="">Gov. Whitmer Signs Historic Bipartisan Auto No-Fault Legislation</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">30</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="https://content.govdelivery.com/accounts/MIDNR/bulletins/247b42f" target="_blank" title="">Get Involved Digest: May 2019</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">30</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498501--,00.html" title=" The Dowagiac Secretary of State office at 601 N. Front St. will close at the end of Tuesday, June 11, and move to a temporary location seven miles south . . . 
+">Secretary of State office in Dowagiac to close June 12 to 14 for move to temporary location</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">30</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497451--,00.html" title=" The Michigan Parole Board will hold a public hearing on Thursday,&nbsp;June 13,&nbsp;2019 to consider the possible parole of Ruben Rivera, #177296.&nbsp; It will be held at 9:00 a.m. at the Handlon Michigan Training Center; Richard A. Handlon Correctional Facility in Ionia, Michigan. 
+">A public hearing to consider the possible parole of Ruben Rivera, #177296</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">30</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498435--,00.html" title="">I-69 concrete pavement repairs in Shiawassee County start June 3</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">30</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498495--,00.html" title="">Gov. Whitmer announces transportation grants to villages and small cities for road repair</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">30</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498431--,00.html" title="">M-54 resurfacing in Genesee County starts June 3</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">30</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498503--,00.html" title="">Help find the 2019 Michigan Christmas tree</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">30</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498434--,00.html" title="">M-61/M-18 resurfacing in Gladwin County starts June 3</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">30</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498432--,00.html" title="">M-13 resurfacing through Saginaw and Bay counties starts June 3 </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">30</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498442--,00.html" title=" Secretary of State Jocelyn Benson today announced that the Michigan Department of State is expanding the option for Michigan residents to schedule appointments to every branch office across the state. 
+">Secretary Benson to expand appointment option to every Secretary of State branch office</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">29</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498423--,00.html" title="">Marijuana Regulatory Agency Announces First Public Meeting</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">29</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498424--,00.html" title="">MIOSHA and Associated Builders and Contractors of Michigan Renew Alliance to Protect Workers</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">29</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498366--,00.html" title=" The Michigan Department of Agriculture and Rural Development (MDARD) is advising consumers not to eat (and retailers/distributors not to sell) any foods produced by Charley’s Food Design, Inc., also known as Charley’s Chips Company, of Wyoming, MI. 
+">Consumer Advisory: Do Not Eat Any Products Produced by Charley's Food Design, Inc/Charley's Chips</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">29</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498428--,00.html" title=" The Southwest Macomb County Plus Secretary of State office will close for five days for a remodeling project, and customers are encouraged to complete their transactions online at ExpressSOS.com . . . 
+">Secretary of State office in Warren to close for remodeling June 3 to 7</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">29</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498427--,00.html" title=" The Michigan Department of State has suspended the licenses of two Oakland County used vehicle dealerships after the dealerships were discovered closed and regulation agents were unable to inspect dealership records. 
+">Department of State suspends licenses of 2 Oakland County auto dealers</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">29</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498412--,00.html" title=" The Michigan Department of State has suspended the license of Antrim County auto dealer Mid Michigan Motor Sales, 6612 Bellaire Highway, Bellaire, after the dealership . . . 
+">Department of State suspends Antrim County auto dealer's license</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">29</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498376--,00.html" title="">Summer 2019 job market forecast for Michigan teens (Ages 16-19)</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">29</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498535--,00.html" title="">DNR completes spring survey of Isle Royale lake trout populations </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">29</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498385--,00.html" title="">LARA Revokes License of Authorized Security Experts, LLC in Farmington Hills</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">29</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498382--,00.html" title=" The Michigan Department of State has suspended the license of Dickinson County auto dealer Clarity Auto, 1301 Ledge St., Quinnesec . . . 
+">Department of State suspends Dickinson County auto dealer's license</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">29</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498416--,00.html" title=" The DNR boating access site at Deer Lake in Marquette County will undergo temporary closure over two days in June while a contractor works on repairs to the dam at the reservoir. Access to the DNR boat landing, located north of Ishpeming, will be restricted from 10 a.m. until 7 p.m. June 3 and from 8 a.m. until 5 p.m. June 4. There are no alternate public boating access sites at the lake. (Updated 5/29/19) 
+">Deer Lake boating access site to temporarily close in Marquette County </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">29</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498538--,00.html" title="">Enjoy free fishing, off-roading and state park entry during Michigan's 'Three Free' weekend June 8-9 </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">29</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498358--,00.html" title="">New mobility challenge calls on industry innovators to propose dynamic technology deployments</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">28</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498319--,00.html" title="  May 28, 2019  
+
+ Preliminary reports indicate 10 people lost their lives in eight separate traffic crashes&nbsp;during the 2019 Memorial Day holiday weekend. In comparison, 19 people were killed in 15 fatal traffic&nbsp;crashes during the 2018 Memorial Day holiday weekend. 
+">Preliminary Findings Show Decrease in Traffic Deaths During Memorial Day Holiday Weekend </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">28</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498191--,00.html" title=" Michigan State Police, Emergency Management and Homeland Security Division Commander, Capt. Emmitt McGowan is pleased to announce that Therese Cremonte, of Livingston County, is the 2018 Michigan Professional Emergency Manager of the Year. Cremonte received the award at a special ceremony in Grand Rapids on May 6. 
+">State Police Names Livingston County Resident as 2018 Michigan Professional Emergency Manager of the Year</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">28</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498333--,00.html" title=" Secretary of State Jocelyn Benson today announced the Secretary of State Mobile Office will visit the Bangor branch of Van Buren District Library&nbsp;on Tuesday, June 4. 
+">Secretary of State Mobile Office to visit Bangor Branch Library</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">28</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498307--,00.html" title=" Secretary of State Jocelyn Benson today announced the Secretary of State Mobile Office will visit the South Haven Memorial Library on Monday, June 3. 
+">Secretary of State Mobile Office to visit South Haven Memorial Library</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">28</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498262--,00.html" title="">I-75 work through Bay County continues with deck replacement at Wilder Road starting May 31</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">28</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="https://content.govdelivery.com/accounts/MIDNR/bulletins/2465c56" target="_blank" title="">News Digest - Week of May 27, 2019: 'Outdoorpreneur' workshop, PlayCleanGo, Family Friendly Fishing</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">28</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498318--,00.html" title="">M-26 detoured for culvert replacement June 3-7</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">28</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498233--,00.html" title="">Michigan students take top honors at national bridge event</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">28</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496928--,00.html" title=" The Michigan Parole Board will hold a public hearing on Tuesday,&nbsp;June 11,&nbsp;2019 to consider the possible parole of&nbsp;Kenneth Siders, #135192.&nbsp; It will be held at 11:00 a.m. at the T-100 Training Center;&nbsp;G. Robert Cotton&nbsp;Correctional Facility in Jackson, Michigan. 
+">A public hearing to consider the possible parole of Kenneth Siders, #135192</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">28</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496927--,00.html" title=" The Michigan Parole Board will hold a public hearing on Tuesday,&nbsp;June 11,&nbsp;2019 to consider the possible parole of&nbsp;Roger Brower, #180003.&nbsp; It will be held at 9:00 a.m. at the T-100 Training Center;&nbsp;G. Robert Cotton&nbsp;Correctional Facility in Jackson, Michigan. 
+">A public hearing to consider the possible parole of Roger Brower, #180003</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">28</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498259--,00.html" title="">US-41 railroad crossing work near L'Anse starts Wednesday</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">25</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498232--,00.html" title="">Gov. Whitmer Orders Flags Lowered for Memorial Day </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">24</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498196--,00.html" title="">State of Michigan Proposes Bold Solution for Benton Harbor Schools</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">24</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498176--,00.html" title="">Statement from Gov. Whitmer on Bipartisan Auto No-Fault Reform Legislation </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">24</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498189--,00.html" title="">Longer-lasting crosswalk pavement markings coming to Traverse City state highways</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">24</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498198--,00.html" title="">MDHHS appoints new director of aging services</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">24</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498214--,00.html" title="">Michigan Attorney General Nessel Announces Charges and Arrests in Clergy Abuse Investigation</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">24</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498256--,00.html" title="">Michigan AG Nessel Issues Statement On the Legislature's Overhaul of the State's Auto Insurance System </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">24</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498178--,00.html" title="">Share your thoughts with the DNR at upcoming meetings </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">24</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498190--,00.html" title="">US-31 detour change in Petoskey expected next week</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">23</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498156--,00.html" title="">MPSC approves UPPCO rate increase; most residential bills will drop</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">23</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498154--,00.html" title="">MPSC approves customer refunds from Michigan Gas Utilities Corp., Upper Michigan Energy Resources Corp</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">23</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498105--,00.html" title=" Aurora Packing Company, Inc., a North Aurora, Ill. establishment, is recalling approximately 62,112 pounds of raw beef products that may be contaminated with&nbsp; E. coli &nbsp;O157:H7. 
+">USDA Recall - Aurora Packing Company, Inc. Recalls Beef Products Due to Possible E. coli O157:H7 Contamination</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">23</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497896--,00.html" title="">US-31/M-37 resurfacing south of Traverse City starts June 3</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">23</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497894--,00.html" title="">US-31 resurfacing in Elk Rapids starts June 3</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">23</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498120--,00.html" title=" Secretary of State Jocelyn Benson today in Detroit discussed a new traffic safety campaign – “Motorcyclists Are Hard to See. Look Twice. Save a Life.” – to inform motorists about how best to prevent crashes with motorcyclists. 
+">Secretary Benson in Detroit to discuss campaign on preventing crashes with motorcyclists</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">23</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498140--,00.html" title="">Spring is here and wildlife are active: Be aware of rabies in Michigan</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">23</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498141--,00.html" title="">UIA Schedules Reduced Hours for Telephone Customer Service on June 14, 2019</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">23</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498142--,00.html" title="">M-66 closes over Quaker Brook for bridge replacement</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">23</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498133--,00.html" title="">Osceola County deer farm/ranch owner arraigned on several violations </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">23</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498151--,00.html" title="">Changes coming next week to I-75 road and bridge repair project in Auburn Hills </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">23</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498093--,00.html" title="  Regional Summits Tackle Challenges to and Seek Opportunities for&nbsp;Infrastructure Asset Management in Michigan  
+">Michigan Infrastructure Council Facilitating Communication and Coordination Summits Across Entire State</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">23</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498117--,00.html" title="">LARA Shuts Down Royal Funeral Home, Inc. in Battle Creek </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">23</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498115--,00.html" title=" Secretary of State Jocelyn Benson today announced the Secretary of State Mobile Office will visit the Charlotte Community Library in early June. 
+">Secretary of State Mobile Office to visit Charlotte Community Library</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">23</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498147--,00.html" title="">Mandated reporters of child abuse, neglect can use online system</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">23</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498146--,00.html" title="">April jobless rates decline seasonally in all Michigan regional labor markets</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">23</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498250--,00.html" title="">AG Nessel Reverses Rate Increase Trend for Michigan Utility Customers</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">23</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498136--,00.html" title="">FEMA will Partner with State and Local Officials to Assess Damage in Wayne County</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">23</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498139--,00.html" title="">MDHHS urges Michiganders to stay safe around water this summer </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">22</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497888--,00.html" title="">Otsego County awarded $52,300 EGLE Brownfield Grant </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">22</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498331--,00.html" title="">Detroit Brownfield Authority awarded $1 million EGLE Grant </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">22</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498098--,00.html" title=" BEF Foods, Inc., a Lima, Ohio establishment, is recalling approximately 527 pounds of beef pasta products that were produced without the benefit of federal inspection and outside of inspection hours. 
+">USDA Recall - BEF Foods, Inc. Recalls Beef Products Produced without Benefit of Inspection</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">22</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498100--,00.html" title=" House of Spices (India) is recalling all lots of 7ounce (200g) packages of &quot;LAXMI DRIED APRICOT&quot;, 7 oz (200g) UPC code 2324617054, because they may contain undeclared sulfites. 
+">FDA Recall - House of Spices (India) Issues Allergy Alert on Undeclared Sulfites in "Laxmi Dried Apricot"</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">22</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498024--,00.html" title="">Washouts force closure of ORV trail segment in Houghton County </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">22</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498049--,00.html" title="">Michigan AG Nessel Joins Coalition to Stop Health Care Discrimination by Trump Administration</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">22</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498069--,00.html" title="">Angler nabs state-record bigmouth buffalo on Shiawassee River </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">22</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498019--,00.html" title="">Three Michigan Schools Chosen to Receive $100K Don't Quit! Fitness Centers</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">22</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498085--,00.html" title="">Gov. Whitmer Signs Bills to Parole Medically Frail Prisoners for Treatment </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">22</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496777--,00.html" title=" The Michigan Parole Board will hold a public hearing on Thursday,&nbsp;June 6,&nbsp;2019 to consider the possible parole of Richard Jensen, Jr., #220583.&nbsp; It will be held at 9:00 a.m. at the RGC Administrative Conference Room;&nbsp;Charles E. Egeler Reception and Guidance Center in Jackson, Michigan. 
+">A public hearing to consider the possible parole of Richard Jensen, Jr., #220583</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">22</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498060--,00.html" title="">Learn how to stay well during Healthy and Safe Swimming Week</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">22</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498072--,00.html" title="">MDOT lifts traffic restrictions to ease Memorial Day travel</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">22</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498011--,00.html" title="">New pedestrian signals coming to Traverse City: Here's how to use them </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">22</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498088--,00.html" title="">Nessel Opinion Determines Portions of 2018 Election Law Unconstitutional</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">22</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498075--,00.html" title="">Last call for June 7 ORV safety instructor academy; application deadline May 31 </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">22</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498087--,00.html" title="">Michigan School Receives 2019 U.S. Department of Education Green Ribbon </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">21</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497961--,00.html" title=" Secretary of State Jocelyn Benson today unveiled a traffic safety campaign – “Motorcyclists Are Hard to See. Look Twice. Save a Life.” – to inform motorists about how best to prevent crashes with motorcyclists. 
+">Secretary Benson unveils campaign on preventing crashes with motorcyclists</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">21</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/documents/sos/BSC_Notice_May_23_2019_655760_7.pdf" title="">Board of State Canvassers to meet May 23</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">21</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497900--,00.html" title="">MUCC's On the Ground engages milestone volunteer at habitat improvement event in Michigan's Upper Peninsula </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">21</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497891--,00.html" title="">Update: M-20/Isabella Road intersection signal improvements start May 23 </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">21</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497897--,00.html" title="">US-23 resurfacing in Alcona County starts May 28</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">21</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/documents/mdot/SSMBA_Meeting_5-16-19_655792_7.pdf" title="">Sault Ste. Marie Bridge Authority hears audit report, planned maintenance program</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">21</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497981--,00.html" title=""> Generational investment of $4.5 billion by Fiat Chrysler signals strong bet on Michigan's workforce and automotive leadership </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">21</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497892--,00.html" title="">LARA Suspends Building and Contracting Licenses Connected to Eric David Snyder</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">21</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497917--,00.html" title="">Reminder: US-8 detour, bridge repairs near Norway start next week</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">21</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497910--,00.html" title=" Secretary of State Jocelyn Benson reminds residents that all Secretary of State offices and the Office of the Great Seal will be closed in observance of Memorial Day on Monday, May 27. 
+">Secretary of State offices to close for Memorial Day</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">21</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497918--,00.html" title="">Resources available to raise awareness about suicide prevention</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">20</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497852--,00.html" title="">MPSC schedules June public forum in Detroit on DTE Electric's proposed integrated resource plan </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">20</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497835--,00.html" title="">Eight school districts awarded $626,573 in grants to replace older diesel buses </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">20</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497815--,00.html" title=" Caito Foods LLC., an Indianapolis, Ind. establishment, is recalling approximately 1,767 pounds of salad with chicken products due to misbranding and undeclared allergens. 
+">USDA Recall - Caito Foods LLC. Recalls Salads with Chicken Products due to Misbranding and Undeclared Allergens</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">20</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497866--,00.html" title="">AG Nessel Announces Promotions and Addition to the Department</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">20</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497811--,00.html" title="">Gov. Whitmer Sends Letter to Trump Administration on Overtime Rule</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">20</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497858--,00.html" title="">Detroit Racketeer Sentenced in Ponzi-type Mortgage Scheme</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">20</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497885--,00.html" title="">Lt. Gov. Gilchrist II joins Lansing-area business, education, labor and workforce development leaders to announce the launch of Going PRO, largest effort in Michigan history to promote Professional Trades and help fill state's talent gap</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">20</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497864--,00.html" title="">DNR moves proposed deer regulations public listening session to Menominee County </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">20</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497829--,00.html" title="">MDHHS invites public comment on Title V Block Grant application</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">20</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497834--,00.html" title="  State’s Section 529 Prepaid Tuition Plan will also Waive $25 Enrollment Fee in Observance of 529 College Savings Plan Day on May 29 &nbsp;  
+">Michigan Education Trust to Offer $50 Match on New Contracts Opened from May 25-31</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">20</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="https://content.govdelivery.com/accounts/MIDNR/bulletins/245e96b" target="_blank" title="">News Digest - Week of May 20, 2019: Jaw-tagged fish, Stamp &amp; Go Guide, summer fire safety</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">17</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497755--,00.html" title=" Following the announcement of a bovine tuberculosis positive animal in Emmet County this past Wednesday at a meeting of the Michigan Commission of Agriculture and Rural Development, State Veterinarian Nora Wineland, DVM, released the following statement. 
+">State Veterinarian Statement on Emmet County Bovine Tuberculosis Positive Herd</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">17</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497745--,00.html" title="">MDHHS appoints new Medicaid director</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">17</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497782--,00.html" title="">New Office of Outdoor Recreation Industry created in DNR</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">17</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497787--,00.html" title="">Governor Whitmer Makes Appointments to Boards and Commissions </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">17</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497779--,00.html" title="">91 Michigan Students Earn 2019 Breaking Traditions Awards</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">17</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497769--,00.html" title="">Gov. Whitmer helps DNR cut ribbon on Michigan state parks' next 100 years </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">17</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497749--,00.html" title="  Revenues Relatively Flat, Uncertainties Moving Forward   
+">Administration, Fiscal Agencies Reach Consensus on Revenue Estimates</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">17</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497851--,00.html" title="">Michigan AG Nessel Approves $2,320,000 in Compensation Awards to Wrongfully Convicted Men</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">17</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497715--,00.html" title="">Measles case confirmed in St. Clair County, state count at 44<br> <i>New case related to international travel, not related to recent outbreak</i> </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">17</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497756--,00.html" title="">Chevrolet Detroit Grand Prix presented by Lear provides Belle Isle day passes for park access May 31-June 2 </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">16</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497633--,00.html" title="">City of Muskegon Downtown Development Authority awarded $50,000 EGLE Brownfield Grant </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">16</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497751--,00.html" title="">Muskellunge egg collection from Detroit River beginning this month </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">16</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497706--,00.html" title="">46 schools receive Michigan School Wellness Awards for promoting healthy lifestyles</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">16</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497688--,00.html" title="">Critical dollars for child abuse prevention raised through 17th annual Children's Trust Fund Pam Posthumus Signature Auction </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">16</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497674--,00.html" title="">May 23 ribbon-cutting celebrates barrier-free improvements at Wilderness State Park </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">16</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497675--,00.html" title="">Michigan AG Nessel Brings Charges Against Owosso Adult Caregiver</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">16</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497705--,00.html" title="">MDHHS reminds Michiganders to avoid foam on lakes and rivers with high levels of PFAS </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">16</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497673--,00.html" title="">US-131/M-186 roundabout detour in Fife Lake to change next week</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">16</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-498046--,00.html" title="">First phase of renovation completed, Hartwick Pines Memorial Building reopens for summer tours </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">15</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497608--,00.html" title="">Michigan's April Jobless Rate Up Slightly</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">15</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497604--,00.html" title="">Gov. Whitmer Directs Department of Natural Resources to File Emergency Rule to Help Prevent Anchor Strikes, Protect Great Lakes</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">15</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497624--,00.html" title="">EGLE announces $150,000 in grant funding for plastic film recycling </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">15</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497623--,00.html" title=" During its regularly scheduled meeting today, the Michigan Commission of Agriculture and Rural Development voted to approve Food and Agriculture Investment Fund grants for five food and agriculture projects in Michigan. 
+">Latest Round of Food &amp; Ag Grants Will Fuel Lumber, Fruit, Other Industry Projects</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">15</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497588--,00.html" title=" As part of National Military Appreciation Month, Secretary of State Jocelyn Benson today announced plans to improve voting rights . . . 
+">Secretary Benson proposes legislative collaboration, new initiatives to improve military community's voting rights, recognize veterans' service</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">15</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497585--,00.html" title="">Changes coming this weekend to I-94 projects in Detroit</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">15</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497605--,00.html" title="">Applications now being accepted for NRC Youth Conservation Council; apply by June 7 </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">15</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497653--,00.html" title="">AG Nessel Praises Gov. Whitmer for Emergency Rule to Protect the Straits of Mackinac From Anchor Strikes</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">15</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497566--,00.html" title="">Gov. Whitmer Orders Flags Lowered to Honor Fallen Soldier </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">15</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497631--,00.html" title="">North Kent County PFAS Exposure Assessment participants starting to receive results<br> <i>Invited residents can still participate, urged to call 844-464-7327</i></a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">15</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497731--,00.html" target="_blank" title="">Michigan Teacher Leadership Advisory Council Highlighted in Newest #ProudMIEducator Video</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">15</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497541--,00.html" title="">Michigan AG Nessel Applauds Legislative Resolutions Urging Congress to Let Marijuana Businesses Use the Banking System</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">15</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497560--,00.html" title=" Secretary of State Jocelyn Benson today announced the Secretary of State Mobile Office will visit the Mackinac Island Public Library on Tuesday, May 28 and Wednesday, May 29. 
+">Secretary of State Mobile Office to visit Mackinac Island Public Library </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">15</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497639--,00.html" title="">Michigan Senior Citizen of the Year honored at State Capitol </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">15</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497644--,00.html" title="">Gov. Whitmer on Restoration of Federal Great Lakes Funding </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">14</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497493--,00.html" title="">Gov. Whitmer approves $26 million in outdoor recreation development and acquisition grants</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">14</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497494--,00.html" title="">Gov. Whitmer Makes Appointments to the Michigan Indigent Defense Commission</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">14</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497461--,00.html" title="">Gov. Whitmer Orders Flags Lowered for Peace Officers Memorial Day</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">14</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497316--,00.html" title=" Ozone monitoring will return to eight counties in Southeast Michigan as extra measures are implemented to lower smog levels in the area. 
+">Reminder: Summer Gasoline Rules Take Effect on Saturday, June 1 in Southeast Michigan</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">14</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497438--,00.html" title=" Deshi Distributors LLC. of Jamaica, NY, is recalling its 3.5 oz,&nbsp; 7 oz and 14 oz&nbsp; packages of Deshi “Golden Raisins”&nbsp; because they contained undeclared sulfites. 
+">FDA Recall - Deshi Distributors LLC Issues Alert on Undeclared Sulfites in Deshi "Golden Raisins"</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">14</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497510--,00.html" title="">Gov. Whitmer approves $26 million in outdoor recreation development and acquisition grants </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">14</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497421--,00.html" title="">Detroit man sentenced to 36 months of probation, $78,916 in restitution, for unemployment insurance fraud</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">14</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497479--,00.html" title="">$8,350,000 in funding supports critical dam removal and repair projects throughout Michigan</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">14</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497483--,00.html" title="">New Holly Turkey Tract open to turkey hunting this spring </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">13</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497354--,00.html" title="  Southwest District Probation Agent Jason Maue named MDOC's 2019 Candice Dunn Agent of the Year.  
+
+  “Jason is incredibly deserving of this high honor. He exemplifies what it means to be an agent in this department,” MDOC Director Heidi Washington said.   
+">Southwest District Probation Agent Jason Maue named MDOC's 2019 Candice Dunn Agent of the Year. </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">13</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497373--,00.html" title="">Delhi Charter Township Brownfield Redevelopment Authority awarded $370,000 EGLE Grant </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">13</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497408--,00.html" title="">Open House and Public Meeting in Hartford May 15, 2019 to Discuss PFAS Sampling Results from Du-Wel Metals </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">13</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497317--,00.html" title="">Carpenter Road ramp to northbound I-475 closed in Flint for water main installation May 13-17 </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">13</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497323--,00.html" title="">Lane closures on M-55 bridge in Manistee start May 20</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">13</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497315--,00.html" title="">Lane closures for I-69 bridge inspection in Genesee County May 13-17 </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">13</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497372--,00.html" title="">M-123 project near Trout Lake starts Wednesday</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">13</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497366--,00.html" title="">May 18 open house and scavenger hunt at Interlochen celebrate Michigan state parks milestone anniversary </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">13</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497399--,00.html" title="">Gov. Whitmer Makes Appointments to Boards and Commissions</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">13</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497344--,00.html" title="">Eastbound M-58 ramp to southbound I-675 closed May 15 for bridge inspection </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">13</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="https://content.govdelivery.com/accounts/MIDNR/bulletins/2441c91" target="_blank" title="">News Digest - Week of May 13, 2019: Arctic grayling eggs, ORV safety, finding fawns</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">13</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497320--,00.html" title="">MDOT cleaning northern Lower Peninsula bascule bridges in mid-May </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">13</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497395--,00.html" title="">Gov. Whitmer Applauds AG Nessel's Action to Lower Drug Prices</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">13</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497324--,00.html" title="">M-43 resurfacing starts Monday between Bangor and Waverly Township </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">12</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497335--,00.html" title="  Second Lawsuit Filed in Ongoing, Expanding Investigation  &nbsp; 
+">Michigan AG Nessel Joins Coalition of 44 Attorneys General in Antitrust Lawsuit Against Generic Drug Manufacturers </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">10</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497279--,00.html" title=" The Michigan Department of Agriculture and Rural Development is now accepting public input regarding the 2020 Rural Development Fund Grants. 
+">MDARD Accepting Public Input for 2020 Rural Development Fund Grants Guidelines</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">10</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497158--,00.html" title=" Governor Gretchen Whitmer has declared May to be “Michigan Wine Month” to honor our state’s wide selection of quality wines and the wine industry’s significant contribution to the economy. 
+">May is 'Michigan Wine Month'</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">10</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497256--,00.html" title="">AG Nessel Warns Michigan Residents About Auto Insurance Reform Legislation</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">10</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497143--,00.html" title="">Accent lighting installation overnight next week on US-31 bridge in Charlevoix</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">10</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497301--,00.html" title="">Gov. Whitmer Signs Bill to Forgive Snow Days </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">10</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497280--,00.html" title="">M-37 improvements start next week in Newaygo County</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">10</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497638--,00.html" title="">MDHHS investigating Legionnaires' disease cases in Genesee County</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">10</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497140--,00.html" title="">Gov. Whitmer Signs Bill, Includes First Line-Item Veto on Wrongful Imprisonment Compensation Fund Legislation </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">10</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497184--,00.html" title="">State Fire Marshal Urges Michiganders to "Push the Button" on Mother's Day to Test Smoke Alarms </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">10</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497159--,00.html" title="">During May, blue and white flags raise awareness of need for foster families in Michigan </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">10</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497138--,00.html" title="">MDOT to lift remaining spring weight restrictions on state highways Monday</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">10</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497300--,00.html" title="">Gov. Whitmer Makes Appointments to Boards and Commissions</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">09</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497135--,00.html" title=" The Michigan Department of State has suspended the registration of Detroit used-vehicle dealer Angel Motors . . . 
+">Department of State suspends dealership in Detroit for violations</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">09</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497313--,00.html" title="">Public meeting May 23 on Pilgrim River brook trout regulations </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">09</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497132--,00.html" title="">Governor Whitmer Celebrates Asian Pacific American Heritage Day at State Capitol</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">09</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497081--,00.html" title="">I-96 single-lane closures in Dimondale Friday for bridge repairs</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">09</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497097--,00.html" title="">LARA Offers Tips to Protect Consumers on Spring Home Improvement Projects</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">09</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497120--,00.html" title="">MI AG Seeks National Expertise for Opioid and PFAS Lawsuits</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">09</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="https://content.govdelivery.com/accounts/MIDNR/bulletins/243e94b" target="_blank" title="">Events Digest: May 2019</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">09</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497114--,00.html" title="">Gov. Whitmer Signs Bills to End Confiscation of Property Without a Conviction </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">09</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497123--,00.html" title=" Secretary of State Jocelyn Benson today announced the Secretary of State Mobile Office will visit the Cadillac Library on Thursday, May 23. 
+">Secretary of State Mobile Office to visit Cadillac Library May 23</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">09</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497116--,00.html" title="">The Mackinac Bridge Authority remembers former Chief Engineer Max Coburn</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">09</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497069--,00.html" title="">M-35 resurfacing project starts May 13</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">09</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497070--,00.html" title="">US-2 project in Iron River starts Monday</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">09</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497092--,00.html" title="">Michigan AG Nessel Launches Investigation into Life Quest of America</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">09</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497050--,00.html" title="">Public open house to discuss M-13/M-84 (Lafayette Street) bascule bridge replacement in Bay City</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">08</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496980--,00.html" title="    Kinross Correctional Facility prison counselor Jennifer Metro named as the 2019 Michigan    Department of Corrections Director's Award winner.&nbsp;         “Jennifer exemplifies the type of positive and energetic employees we have and her commitment and passion toward recruiting new staff in the same mold will help shape this department for generations,” said Michigan Department of Corrections Director Heidi Washington.    
+">Kinross Correctional Facility Prison Counselor named as the 2019 Michigan Department of Corrections Director's Award winner </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">08</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497049--,00.html" title=" Michigan Secretary of State Jocelyn Benson today gave congressional testimony on election security before the Committee on House Administration. 
+">Secretary Benson testifies before Congress on election security</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">08</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496944--,00.html" title="">EGLE awards energy efficiency rebate to three Upper Peninsula small manufacturers </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">08</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496890--,00.html" title=" Secretary of State Jocelyn Benson today announced the Secretary of State Mobile Office will visit Roseville City Hall on Tuesday, May 21. 
+">Secretary of State Mobile Office to visit Roseville City Hall May 21</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">08</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496963--,00.html" title=" The Michigan Department of Agriculture and Rural Development (MDARD) will conduct the first meeting of the Ontonagon Conservation District’s newly appointed Board of Directors on May 14, 2019. 
+">First Meeting of Ontonagon Conservation District's New Board of Directors Scheduled for May 14</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">08</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496974--,00.html" title="">Pam Posthumus auction to raise money to prevent child abuse; Tickets still available for May 15 event and online bidding provides another option </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">08</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497475--,00.html" title="">Gov. Whitmer Orders Flags Lowered to Honor Judge Damon J. Keith </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">08</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496902--,00.html" title=" Subject to court approval, the secretary of state today settled a federal lawsuit challenging Michigan’s restrictions on ballot photography, sometimes known as “ballot selfies.” 
+">Michigan secretary of state settles 'ballot selfie' case </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">08</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496986--,00.html" title="">'High-caliber, Inspiring' Rochester Educator Named 2019-20 Michigan Teacher of the Year</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">08</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496909--,00.html" title="">Eight projects to share $1.25 million in DNR's Aquatic Habitat Grants </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">08</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497887--,00.html" title="">Governor?Whitmer Makes?Appointments to?the?Michigan Joint Task Force on Jail and Pretrial Incarceration? </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">08</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496969--,00.html" title="">Michigan AG Nessel Joins Coalition of 38 Attorneys General Urging Congress to Allow Marijuana-related Businesses to Use the Federal Banking System</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">08</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496899--,00.html" title="">MDOT closing part of I-75 in Oakland County this weekend for bridge demolition </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">08</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496898--,00.html" title="">Michigan AG Nessel Joins Bipartisan Group of State AGs to Combat Caller ID Spoofing, Illegal Robocalls</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">08</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496888--,00.html" title="">M-46 improvements start Monday in Edmore</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">08</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496867--,00.html" title="">M-123 project near Trout Lake starts Monday</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">08</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497005--,00.html" title="">Nessel: Illegal Gambling Operations Have No Place in Michigan</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">08</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496936--,00.html" title="">Michiganders alerted of resources during Better Hearing and Speech Month </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">07</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496863--,00.html" title="">State Board Appoints Michael Rice As Next State Superintendent</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">07</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496753--,00.html" title="">MDOT director explains road funding in Michigan</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">07</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496772--,00.html" title="">US-41 chip sealing starts May 13</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">07</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496824--,00.html" title="">The Michigan Department of Civil Rights Investigating 23 Complaints of Discrimination against the Grand Rapids Police Department</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">07</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496828--,00.html" title="">I-75 overnight closures at Beaver Road in Bay County for paving May 9-12</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">07</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496831--,00.html" title="">MI AG Nessel Forms Marijuana Legal Workgroup</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">07</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496962--,00.html" title="">Public comments response summary available; dredging work set to begin at Buffalo Reef </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">07</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496762--,00.html" title="">Michigan AG and AARP Michigan Alert Michiganders to Grandparent Scam</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">07</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496821--,00.html" title="">35 Michigan Libraries Hosting 2019 Braille Enhanced StoryWalk® for Visually-Impaired Kids</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">07</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496768--,00.html" title="">Four Michigan Public Water Systems honored for 50 years of Community Water Fluoridation</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">07</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496769--,00.html" title="  Six historic preservation projects earned special recognition for preserving Michigan’s cultural heritage  
+">National preservation month celebrated with prestigious awards</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">07</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496774--,00.html" title="">US-45 chip sealing starts May 13</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">07</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="https://michigantrails.org/pure-michigan-trails-and-trail-town-designation-recipients-announced/" target="_blank" title="">Pure Michigan Trails and Trail Town Designation Recipients Announced</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">07</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496773--,00.html" title="">M-95 chip sealing starts May 13</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">07</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496818--,00.html" title="">AG Nessel Charges Nursing Home Employees for Injuring Patient</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">07</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496860--,00.html" title=" State, education and business stakeholders applaud students entering workforce, hope to help encourage young talent to consider the vast pipeline of opportunities 
+">Gov. Whitmer, Lt. Gov. Gilchrist II congratulate students entering the workforce in Professional Trades during Going PRO in Michigan Signing Week </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">06</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496740--,00.html" title=" Wayne County residents and business owners are encouraged to call their local government or public administration to report personal property damage as well as receive flood recovery guidance. Do not call 9-1-1 to report flood damage. 
+">Wayne County Residents Urged to Report Flood Damage to Local Officials </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">06</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496691--,00.html" title=" Conagra Brands, Inc., a Russellville, Ark. establishment, is recalling approximately 2,094,186 pounds of frozen entrees due to misbranding and an undeclared allergen, the U.S. Department of Agriculture’s Food Safety and Inspection Service (FSIS) announced today. 
+">USDA Recall - Conagra Brands, Inc. Recalls Chicken Pad Thai and Chicken Fried Rice Products Due to Misbranding and Undeclared Allergens</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">06</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496692--,00.html" title=" Tyson Foods, Inc., a Rogers, Ark. establishment, is recalling approximately 11,829,517 million pounds of frozen, ready-to-eat chicken strip products that may be contaminated with extraneous materials, specifically pieces of metal, the U.S. Department of Agriculture’s Food Safety and Inspection Service (FSIS) announced today. 
+">USDA Recall - Tyson Foods, Inc. Recalls Chicken Strip Products Due to Possible Foreign Matter Contamination</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">06</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496718--,00.html" title=" ICCO Cheese Company, Inc. (ICCO) of Orangeburg, New York, is recalling Gia Russa Unseasoned Whole Grain Bread Crumbs and Gia Russa Italian Seasoned Whole Grain Bread Crumbs with “best by” dates of 08/21/2019, 09/21/2019, 10/04/2019, 11/09/2019, 11/12/2019, 12/05/2019 because they may contain undeclared walnuts and pecans. 
+">USDA Recall - ICCO Cheese Company, Inc., Issues Allergy Alert on Undeclared Walnuts and Pecans in Gia Russa Whole Grain Bread Crumbs</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">06</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496719--,00.html" title=" Secretary of State Jocelyn Benson today announced the Secretary of State Mobile Office will visit Eastpointe City Hall on Monday, May 20. 
+">Secretary of State Mobile Office to visit Eastpointe City Hall May 20</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">06</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496746--,00.html" title="">Ford and Christman/Brinker Kick-off National Safety Stand-Down Week at Michigan Central Station</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">06</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496739--,00.html" title="">Eastbound M-25 (Veterans Memorial Bridge) closed and detoured for repairs in Bay City starting May 7 </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">06</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496663--,00.html" title="">New director selected to lead Unemployment Insurance Agency</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">06</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496697--,00.html" title="">Michigan families urged to learn about resources during Perinatal Mood and Anxiety Disorders Awareness Month</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">06</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496709--,00.html" title="">US-23 resurfacing in Iosco County starts May 13</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">06</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496715--,00.html" title="">Governor Whitmer Proclaims May as Electrical Safety Month </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">06</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496714--,00.html" title="">Railroad track repairs being performed in Dearborn </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">06</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496742--,00.html" title="">I-75 road and bridge repairs start Thursday, May 9, in northern Oakland County </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">06</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496652--,00.html" title="">Treasury Outreach Team Touring Northern Michigan</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">06</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496662--,00.html" title="">I-69 lane and ramp closures through Genesee County for bridge inspection May 6-10</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">06</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496698--,00.html" title="">Michigan Secretary of State Jocelyn Benson (D), Alabama Secretary of State John H. Merrill (R) partner to host voting rights history tour</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">06</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="https://content.govdelivery.com/accounts/MIDNR/bulletins/241f755" target="_blank" title="">News Digest - Week of May 6, 2019: NRC meeting Thursday, fish stocking, wild mushrooms &amp; more </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">06</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496694--,00.html" title="">I-94 bridge improvements start Monday in Kalamazoo</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">06</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496693--,00.html" title="">Repaving starts Monday on M-40 in Marcellus and M-51 in Decatur </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">06</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496716--,00.html" title="">Nessel: Judge McCann a Criminal Justice Reform Pioneer</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">06</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496735--,00.html" title="">MDE, State Board of Education Laud Educators During Teacher Appreciation Week, Month</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">04</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496686--,00.html" title="">UPSA honors Boren as 'Outstanding Conservationist' </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">03</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496639--,00.html" title=" With recent flooding in Southeast Michigan, residents are reminded to stay safe and healthy both during and after a flood by following some of these steps.&nbsp; 
+">Stay Safe and Healthy During and After a Flood</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">03</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496449--,00.html" title="">Gov. Whitmer Declares State of Emergency for Wayne County Due to Widespread Flooding </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">03</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496688--,00.html" title="">DNR adds proposed deer regulations public listening session in Menominee County </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">03</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496485--,00.html" title="">Michigan AG Nessel Steps in to Return an Additional $3.5 Million to SEMCO's 300,000 Customers</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">03</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496466--,00.html" title="">Governor Proclaims May as Building Safety Month</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">03</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-497886--,00.html" title="">Governor Whitmer Makes Appointments to Boards and Commissions </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">03</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496458--,00.html" title="">Lansing Unemployment Insurance Agency Local Office Moving to New, Larger Facility </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">03</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496510--,00.html" title="">Michigan AG Nessel Urges Residents to Avoid Scams After Flood</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">03</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496642--,00.html" title=" The Michigan Public Service Commission today urged residents who are affected by flooding in southeast Michigan to be aware of the impact on their utility services. 
+">MPSC Urges Safety Around Utilities for those Affected by Flooding</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">03</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/documents/mdot/MBA_interim_exec_sec_and_national_search_May_2019_654268_7.pdf" title="">National search to begin for next Mackinac Bridge Authority executive secretary</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">02</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496415--,00.html" title=" Secretary of State Jocelyn Benson today announced the Secretary of State Mobile Office will visit the&nbsp;William P. Faust Public Library&nbsp;of Westland on Friday, May 17. 
+">Secretary of State Mobile Office to visit Westland library on May 17</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">02</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496434--,00.html" title=" The Michigan Department of State has issued a temporary cease and desist order against a repair shop in Bay County for operating without a facility registration in violation of the law. 
+">Department of State takes action against unregistered repair shop in Bay County</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">02</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496423--,00.html" title=" Secretary of State Jocelyn Benson today announced the Secretary of State Mobile Office will return to Garden City’s twice-yearly Community Shred Day. 
+">Secretary of State Mobile Office to return May 18 to Garden City's Community Shred Day</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">02</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496396--,00.html" title="">MPSC schedules prehearing in electric line dispute </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">02</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496392--,00.html" title="">MPSC approves DTE Electric rate increase, EV pilot, denies system access charge for renewable energy </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">02</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496443--,00.html" title="">Michigan AG Nessel's Statement on Recent Court Filings In the Flint Water Matter</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">02</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496375--,00.html" title="">Joint Statement from the Government of Canada and the State of Michigan on the Gordie Howe International Bridge</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">02</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/documents/mdot/Mac_bridge_scaffold_closure_653991_7.pdf" title="">Brief, early morning Mackinac Bridge closure scheduled May 4 to begin next phase of tower painting project</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">02</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496307--,00.html" title="">May is Hepatitis Awareness Month and May 19 is Hepatitis Testing Day<br> <i>MDHHS highlights the importance of hepatitis B and C testing during pregnancy</i> </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">02</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496315--,00.html" title="">New grant program gives $100,000 for control, eradication of aquatic invasive plants in Michigan's inland lakes</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">02</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496421--,00.html" title="">Northbound I-475 detour in Flint for pedestrian bridge removal May 4-5 </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">02</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496435--,00.html" title="">Michigan AG Nessel, DIFS Director Fox Alert Michiganders of Another Health Care Data Breach </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">02</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496419--,00.html" title=" State highlights career exploration as an opportunity to start conversations, connect talent to rewarding careers 
+">Michigan students gain real-world experience during construction industry career exploration event</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">02</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-495249--,00.html" title=" The Michigan Parole Board will hold a public hearing on Thursday,&nbsp;May 16,&nbsp;2019 to consider the possible parole of Felton Woods, #157227.&nbsp; It will be held at 9:00 a.m. at the Handlon Michigan Training Center; Richard A. Handlon Correctional Facility in Ionia, Michigan. 
+">A public hearing to consider the possible parole of Felton Woods, #157227</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">02</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496342--,00.html" title="">Marijuana Regulatory Agency Addresses Recent Court Decisions</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">01</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496349--,00.html" title="">'Social Equity' Marijuana Survey Now Available in Michigan</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">01</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496280--,00.html" title="">Gov. Whitmer Orders Auto Insurance Examination to Strengthen Consumer Protections and Protect Motorists' Pocketbooks</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">01</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496271--,00.html" title=" Today, State Veterinarian Nora Wineland, DVM, released the following statement due to the designation of a bovine tuberculosis positive herd in Presque Isle County. 
+">State Veterinarian Statement on Presque Isle County Bovine Tuberculosis Positive Herd</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">01</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496051--,00.html" title=" It’s wild mushroom season in Michigan, and foragers are out in droves gathering the tasty morsels by the bushel. 
+">Wild mushroom season brings culinary delights, but also food safety risks</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">01</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496287--,00.html" title="">M-94 resurfacing project starts May 13</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">01</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496292--,00.html" title="">Resurfacing along M-29 and M-136 in St. Clair County starts May 6 </a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">01</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496244--,00.html" title="">Pole installation for upcoming pedestrian signals on Grandview Parkway starts May 7</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">01</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496290--,00.html" title="">M-30 culvert replacements in Gladwin County start May 6</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">01</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/documents/mdot/Sweeney_retirement_653971_7.pdf" title="">Longtime Executive Secretary Sweeney to retire May 17</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">01</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496251--,00.html" title="">Medical Marijuana Now Available to Patients Immediately After Receiving Online Approval</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">01</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496274--,00.html" title="">US-131 reconstruction starts Monday in Three Rivers</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">01</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496254--,00.html" title="">US-2 resurfacing near Gulliver starts Monday</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">01</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496306--,00.html" title=" Secretary of State Jocelyn Benson is reminding voters of new rights ahead of the Tuesday, May 7, election . . . 
+">Secretary Benson reminds voters of new rights ahead of May 7 election</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">01</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496296--,00.html" title="  Livingston County man stole tens of thousands of dollars from residents on the verge of losing their homes  
+">Michigan AG Nessel Announces Guilty Plea in Fake Mortgage Assistance Scheme</a>
+           </div>
+          </div> 
+          <div class="indexRow">
+           <div class="date-block">
+            <div class="meDate">
+             <span class="month">May</span>
+             <span class="date">01</span>
+             <span class="year">2019<span></span></span>
+            </div>
+           </div>
+           <div class="indexTitle">
+            <a class="bodylinks" href="/minewswire/0,4629,7-136-3452-496284--,00.html" title="">May Consensus Revenue Estimating Conference </a>
+           </div>
+          </div>
+          <div class="row">
+           <div class="col">
+            <a href="/rss/0,2348,7-136-3452--4692-,00.xml"><img src="/images/rssIcon.gif" style="float:right;" alt="This component is available for RSS feed." class="docIcon"></a>
+           </div>
+          </div>
+         </div>
+         <!--End MonthlyIndex--> 
+         <br>
+         <a href="#_TopOfPage">Top of Page</a>
+         <!-- /div -->
+        </div>
+       </div>
+       <!-- /ID COMPONENT_4692 -->
+      </div>
+      <!--END MAIN CONTENT AREA-->
+      <!-- Body End --> 
+     </div> 
+     <!-- START RIGHT_NAV 3451__3451__3452 ~ 7-136-3451__3451__3452--- ~ 7-136-3451__3451__3452--- --> 
+     <div id="rightNav" role="complementary" aria-label="right sidebar" class="no-pad"> 
+      <!-- State Of Michigan - Fri May 31 18:09:47 2019 --> 
+      <!-- BEGIN RIGHTNAV HTML CODE  --> 
+      <!-- Agency category -->
+      <!-- Begin Global Nav section RD -->
+      <!-- End Global Nav section RD -->
+      <!-- End My Interests/RightNav Links/Related Content/Right Links --> 
+      <!-- Cache Debug Info
+
+--> 
+      <!-- END RIGHT_NAV --> 
+     </div> 
+    </div>
+    <!-- /contentWrapper --> 
+   </div>
+   <!-- /bodyWrapper --> 
+   <!-- BOTTOMNAV --> 
+   <!-- BEGIN FOOTER RD --> 
+   <div id="footerArea" role="contentinfo" style="clear: both"> 
+    <div id="siteFooter">
+     <!--START THE GLOBAL FOOTER LINKS-->
+     <!-- agyHorizontalLinks BOTTOM_NAV_LINKS -->
+     <ul id="BOTTOM_NAV_LINKS" class="footerLinks">
+      <li class="fLinks"><a href="/">Michigan.gov Home</a></li>
+      <li class="fLinks"><a id="cat_3527" href="/minewswire" class="bottomnavlinks"> MI Newswire Home</a></li>
+      <li class="fLinks"><a id="cat_3528" href="/minewswire/0,4629,7-136----A,00.html" class="bottomnavlinks"> State Web Sites</a></li>
+      <li class="fLinksend"><a id="cat_3529" href="/som/0,4669,7-192-32874-146--,00.html" class="bottomnavlinks"> Contact Michigan</a></li>
+     </ul>
+     <br>
+     <!-- agyHorizontalLinks POLICY_NAV_LINKS -->
+     <ul id="POLICY_NAV_LINKS" class="footerLinks">
+      <li class="fLinks"><a href="/minewswire/0,4629,7-136-3452-281460--,00.html">Policies</a></li>
+      <li class="fLinks"><a href="/minewswire" target="_blank">Michigan News</a></li>
+      <li class="fLinksend"><a href="/adaform">ADA</a></li>
+     </ul> 
+     <!--END THE GLOBAL FOOTER LINKS-->
+    </div> 
+    <br>
+    <span class="copyright"><br>Copyright 2019 State of Michigan</span>
+   </div> 
+  </div> 
+  <!--END DIV CONTAINER--> 
+  <!-- stmiws102.prdcloud.fms.ibmcloud.com rjp NT -->   
+ </body>
+</html>

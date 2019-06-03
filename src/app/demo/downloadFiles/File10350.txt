@@ -1,0 +1,146 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head> 
+  <title>OpenAM (Login)</title> 
+  <link href="/auth/css/new_style.css" rel="stylesheet" type="text/css"> 
+  <!--[if IE 9]> <link href="/auth/css/ie9.css" rel="stylesheet" type="text/css"> <![endif]--> 
+  <!--[if lte IE 7]> <link href="/auth/css/ie7.css" rel="stylesheet" type="text/css"> <![endif]--> 
+  <script language="JavaScript" src="/auth/js/auth.js" type="text/javascript"></script> 
+  <script language="JavaScript" type="text/javascript">
+                    <!--
+                    var defaultBtn = 'Submit';
+                    var elmCount = 0;
+
+                    /**
+                     * submit form with given button value
+                     *
+                     * @param value of button
+                     */
+                    function LoginSubmit(value) {
+                        aggSubmit();
+                        var hiddenFrm = document.forms['Login'];
+        
+                        if (hiddenFrm != null) {
+                            hiddenFrm.elements['IDButton'].value = value;
+                            if (this.submitted) {
+                                alert("The request is currently being processed");
+                            }
+                            else {
+                                this.submitted = true;
+                                hiddenFrm.submit();
+                            }
+                        }
+                    }
+                    -->
+                </script> 
+ </head> 
+ <body onload="placeCursorOnFirstElm();"> 
+  <div class="container_12"> 
+   <div class="grid_4 suffix_8"> 
+    <a class="logo" href="/auth"></a> 
+   </div> 
+   <div class="box clear-float clear-float1"> 
+    <div class="grid_4"> 
+     <div class="box-content clear-float clear-float1"> 
+      <form name="Login" action="/auth/UI/Login" method="post"> 
+       <script language="javascript" type="text/javascript">
+                                            <!--
+                                            elmCount++;
+                                            -->
+                                        </script> 
+       <script language="javascript" type="text/javascript">
+                                            <!--
+                                            elmCount++;
+                                            -->
+                                        </script> 
+       <div class="row"> 
+        <label for="IDToken1"> User Name: </label> 
+        <input class="textbox" type="text" name="IDToken1" id="IDToken1" value=""> 
+        <br>
+        <br> 
+        <div class="forgetLink">
+         <a href="javascript:alert(&quot;If you forgot your User ID, a Customer Service Representative is available to assist you Monday through Friday from 8 AM to 5 PM. \n   - Employers may call 601-321-6334. \n   - Claimants may call 1-800-224-1388. \n&quot;)">Forgot User Name?</a>
+        </div> 
+       </div> 
+       <script language="javascript" type="text/javascript">
+                                            <!--
+                                            elmCount++;
+                                            -->
+                                        </script> 
+       <div class="row"> 
+        <label for="IDToken2"> Password: </label> 
+        <input class="textbox" type="password" maxlength="15" name="IDToken2" id="IDToken2" value=""> 
+        <br>
+        <br> 
+        <div class="forgetLink"> 
+         <a link href="https://wings.mdes.ms.gov/wings/spring/account/forgot-password">Forgot Password?</a>
+        </div> 
+       </div> 
+       <fieldset> 
+        <div class="row"> 
+         <input name="Login.Submit" type="submit" onclick="LoginSubmit('Log In'); return false;" class="button" value="Sign In"> 
+        </div> 
+       </fieldset> 
+       <script language="javascript" type="text/javascript">
+                                        <!--
+                                        if (elmCount != null) {
+                                            document.write("<input name=\"IDButton"  + "\" type=\"hidden\">");
+                                        }
+                                        -->
+                                    </script> 
+       <input type="hidden" name="goto" value="aHR0cHM6Ly93aW5ncy5tZGVzLm1zLmdvdi93aW5ncy9qX3NwcmluZ19zZWN1cml0eV9jaGVjaw=="> 
+       <input type="hidden" name="gotoOnFail" value=""> 
+       <input type="hidden" name="SunQueryParamsString" value="cmVhbG09bWRlcyY="> 
+       <input type="hidden" name="encoded" value="true"> 
+       <input type="hidden" name="gx_charset" value="UTF-8">
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="clear-float"> 
+    <div class="grid_4"> 
+     <p>&nbsp;</p> 
+    </div> 
+    <div class="box clear-float"> 
+     <div class="rw"> 
+      <h1> Don't Have an Account? </h1> 
+      <div class="colm"> 
+       <div class="crd"> 
+        <h3> Job Seekers </h3> 
+        <br> 
+        <p align="left">Are you looking for a job? Creating an account gives you access to hundreds of possible job openings so you can find a job that's perfect for you! </p> 
+        <div class="links"> 
+         <a class="card-links" link href="https://accessms.mdes.ms.gov/accessms/faces/users/registerclaimant.xhtml?_accessNavOutcome_=.registerClaimant&amp;forwardName=registerClaimant&amp;resGroup=linkaction">Create a Job Seeker Account</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="colm"> 
+       <div class="crd"> 
+        <h3> Employers </h3>
+        <br> 
+        <p align="left">Are you an employer looking to hire? Creating an account allows you post job openings to Mississippi's largest job board where hundreds of qualified job seekers are actively searching for jobs. </p> 
+        <div class="links"> 
+         <a class="card-links" link href="https://accessms.mdes.ms.gov/accessms/faces/tax/employerinformationsubmittedby.xhtml?forward-Name=.employerinformationsubmittedby&amp;fromLoginScreen=1&amp;EXTERNAL_APP_WINGS_REG_EMP=true&amp;resGroup=menu&amp;_accessNavOutcome_=.employerinformationsubmittedby">Create an Employer Account</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="colm"> 
+       <div class="crd"> 
+        <h3> Work Opportunity Tax Credit (WOTC) Program </h3>
+        <br> 
+        <p align="left">The WOTC Program is a federal income tax credit for employers who hire individuals who face obstacles to employment. Create a WOTC Account if you participate in this program. </p> 
+        <div class="links"> 
+         <a class="card-links" link href="https://wotc.mdes.ms.gov/wotc/profile/registration">Create a WOTC Account</a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="footer alt-color"> 
+    <div class="grid_6 suffix_3"> 
+    </div> 
+   </div> 
+  </div>   
+ </body>
+</html>

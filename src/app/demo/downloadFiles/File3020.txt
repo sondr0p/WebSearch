@@ -1,0 +1,856 @@
+<!doctype html>
+<html lang="en" ng-app="mapp">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <!-- State Of Michigan - Mon May 06 12:21:41 2019 --> 
+  <!-- e-Michigan Portal - Process #4, Server www --> 
+  <link rel="canonical" href="https://www.michigan.gov/som/0,4669,7-192-29942---,00.html"> 
+  <title>SOM - HEALTH</title> 
+  <meta name="DESCRIPTION" content="State of Michigan - Health &amp; Human Services"> 
+  <meta name="KEYWORDS" content="Health"> 
+  <base target="_top"> 
+  <!-- global scripts BOOTSTRAP --> 
+  <!-- bow-scripts include --> 
+  <!-- CSS --> 
+  <link type="text/css" rel="stylesheet" href="/css/fullcalendar.css"> 
+  <link type="text/css" rel="stylesheet" href="/font-som-icons/css/somicons.min.css?20170525100940"> 
+  <link type="text/css" rel="stylesheet" href="/font-awesome/css/font-awesome.min.css"> 
+  <link type="text/css" rel="stylesheet" href="/css/jquery.bxslider.css"> 
+  <!-- javascript --> 
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script> 
+  <script src="/bootstrap/js/bootstrap.min.js"></script> 
+  <script src="/js/fullcalendar.js" type="text/javascript"></script> 
+  <script src="/js/jquery.bxslider.js"></script> 
+  <script src="/js/jquery.rwdImageMaps.js"></script> 
+  <script src="/js/jquery.validate.js"></script> 
+  <script src="/js/additional-methods.js"></script> 
+  <script src="/js/responsiveComponents.js"></script> 
+  <script src="/js/jquery.matchHeight-min.js"></script> 
+  <!--[if (lt IE 9)]>
+<script>
+document.createElement('header');
+document.createElement('nav');
+document.createElement('section');
+document.createElement('article');
+document.createElement('aside');
+document.createElement('footer');
+document.createElement('time');
+</script>
+<script src="/js/respond.js"></script>
+<link href="/css/migov_ie8_OLD.css" rel="stylesheet" media="all" />
+<![endif]--> 
+  <script type="text/javascript" src="/js/bow-general.js?v=1526047680"></script> 
+  <link href="/css/body-theme-som.css?v=1551121888" type="text/css" rel="stylesheet"> 
+  <!-- Agency Header do not include the globalcss file -->
+  <!--/ Agency Header-->
+  <script src="/js/underscorejslib.js?v=1493914450"></script> 
+  <script src="/js/angular_1_6.js?v=1493914427"></script> 
+  <script src="/js/angular_1_6_sanitize.js?v=1493914426"></script> 
+  <script src="/js/angular_1_6_animate.js?v=1493914426"></script> 
+  <script src="/js/angular_1_6_aria.js?v=1493914426"></script> 
+  <script src="/js/angular_1_6_touch.js?v=1493914427"></script> 
+  <script src="/js/angucomplete-alt.js?v=1545075608"></script> 
+  <script src="/js/bootstrapUIangular.js?v=1493914448"></script> 
+  <script type="text/javascript">
+window.navPath = '/agency/leftFullNav/0,,192,00.html';
+window.loadedData = [];
+$('body').addClass('matching-heights-processing');
+var mapp = angular.module('mapp',['ngSanitize','ngAnimate','ui.bootstrap','ngAria','angucomplete-alt','ngTouch']);
+mapp.run(['$location', function($location) {
+			var pathCurrent = $location.path();
+			var searchCurrent = $location.search();
+			$('body').on('click','a[href^="#"]',function(e){
+				e.preventDefault();
+			    var hrefDest = $(this).attr('href');
+				//asses if ID or Anchor
+				hrefDest_clean = hrefDest.replace('#','');
+				var anchorCount = $('a[name="'+hrefDest_clean+'"]').length;
+				var idCount = $(''+hrefDest).length;
+				var destObj;
+				if(anchorCount > 0)
+			    {
+					destObj = $('a[name="'+hrefDest_clean+'"]').filter(':first');
+			    }
+				else if(idCount > 0)
+			    {
+					destObj = $(''+hrefDest);
+			    }
+				var offsetVal = $(destObj).offset().top - 150;
+				// change the path
+				$location.path('/'+hrefDest_clean);
+				//Moving focus and page:
+				$('a[href^="#"]').removeAttr('tabindex');
+				$('html,body').animate({scrollTop:offsetVal}, 500);
+				$(destObj).attr('tabindex',-1).focus();
+			});
+		}]);
+</script> 
+  <script src="/js/angular_custom_factories.js?v=1502904335"></script> 
+  <script src="/js/angular_custom_filters.js?v=1506702035"></script> 
+  <script src="/js/SearchComponentAngular.js?v=1545075601"></script> 
+  <script src="/js/angularSelectList.js?v=1544218134"></script> 
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js"></script> 
+  <script src="/js/gtm.js?v=1501512057"></script> 
+ </head> 
+ <body class="agy-som has-offcanvas-menu off-canvas-center  bow-theme-1 horz-menu body-theme-som matching-heights-processing"> 
+  <div role="navigation" aria-label="skip nav"> 
+   <noscript> 
+    <div class="alert bg bg-accent-1 text-center"> 
+     <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> Browsers that can not handle javascript will not be able to access some features of this site. 
+     <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> 
+    </div> 
+    <style type="text/css">
+body.matching-heights-processing:before,body.matching-heights-processing:after {
+content:'';
+height:0px;
+width:0px;
+}
+</style> 
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WTW7M9" height="0" width="0" style="display:none;visibility:hidden"></iframe> 
+   </noscript> 
+   <div id="noAdBlock" style="display:none;" class="alert bg bg-accent-1 text-center"> 
+    <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> Some functions of this site are disabled for browsers blocking jQuery. 
+    <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> 
+   </div> 
+   <div id="_TopOfPage"></div> 
+   <script>
+			function doAnalyticsGo(sndx) {
+				var dest = sndx.options[sndx.selectedIndex].value;
+				if (dest == 0) {
+					alert('Please make a selection.');
+					return false;
+				} else {
+					document.location.href=dest;
+					return false;
+				}
+			}
+		</script>
+   <a href="#main" data-target-id="main" class="sr-only sr-only-focusable jump-to-id">Skip to main content</a> 
+  </div> 
+  <!--START DIV CONTAINER--> 
+  <div id="main-mobile-canvas-container" class=""> 
+   <div id="temp-toggler-mobile-menu" class="text-center toggle-mobile-menu-controls"> 
+    <a href="#mobile-canvas-menu-container" data-toggle-class="show-mobile-nav" class="toggle-mobile-menu outer-link text-center toggle-mobile-menu-controls"> <span class="fa fa-3x fa-bars mobile-menu-closed-icon toggle-mobile-menu-controls"></span><span class="fa fa-3x fa-times mobile-menu-showing-icon toggle-mobile-menu-controls"></span>MENU </a> 
+   </div> 
+   <div class="offcanvas-left toggle-mobile-menu-controls" id="mobile-canvas-menu-container"> 
+    <div class="mobile-canvas-nav-header"> 
+     <div class="mobile-canvas-menu-logo-block"> 
+      <div id="mobileLogoBlock"> 
+       <a href="/som"> <img class="img-responsive" src="/images/som/final_logo_migov_white_526452_7.png" alt="State of Michigan "> </a> 
+      </div> 
+      <div id="mobileSiteTitle"> 
+       <a href="/som"> 
+        <div class="page-site-header">
+         <div class="bannerLgTxt"></div>
+        </div> </a> 
+      </div> 
+     </div> 
+     <div class="inner-mobile-menu-toggle"> 
+      <a href="#mobile-canvas-menu-container" data-toggle-class="show-mobile-nav" class="toggle-mobile-menu outer-link btn btn-accent-black"><span class="fa fa-2x fa-bars mobile-menu-closed-icon"></span><span class="fa fa-2x fa-times mobile-menu-showing-icon"></span></a> 
+     </div> 
+    </div> 
+    <div class="site-extra-text bg bg-primary-1">
+     State of Michigan 
+    </div> 
+    <div class="mobile-search-block bg bg-primary-1 padding-bottom-10"> 
+     <div class="searchComponentDiv" id="searchComponentDiv_9910101010101" ng-controller="searchComponentController" ng-init="init(9910101010101)"> 
+      <div ng-if="loadedData"> 
+       <form ng-submit="submitFormLocal()" class="submit-override"> 
+        <div class="clearfix"> 
+         <div class="" angucomplete-alt id="searchInput_9910101010101" placeholder="" pause="10" selected-object="optionChanged" local-data="people" local-search="localSearch" title-field="name" description-field="twitter" minlength="1" input-class="form-control form-control" input-changed="inputChanged" match-class="highlight"> 
+         </div> 
+        </div> 
+       </form> 
+      </div> 
+     </div> 
+     <script>		
+				window.loadedData[9910101010101] = [];
+				window.loadedData[9910101010101]["GSA_COLLECTION"] = "som";
+				
+				window.loadedData[9910101010101]["gsaAgencyText"] = "State~of~Michigan";
+				window.loadedData[9910101010101]["subcategories"] = [];			
+			</script> 
+    </div> 
+    <div id="containerMainMobileLinks"></div> 
+    <div class="branding-bar-links-block"> 
+     <nav class="mobile-branding-links" aria-label="mobile global menu"> 
+      <ul id="m_bannerLinks">
+       <li><a href="/departments" title="State Departments">State Departments</a></li>
+       <li><a href="/services" title="Online Services">Online Services</a></li>
+       <li><a href="/socialmedia" title="Social Media">Social Media</a></li>
+       <li><a href="/somhelp" title="Help Center">Help Center</a></li>
+      </ul> 
+     </nav> 
+    </div> 
+   </div> 
+   <script type="text/javascript">
+	window.agencySitePathCSS = 'som';
+	//window.agencySitePathCSS = window.location.pathname;
+	window.agencyText = 'State~of~Michigan';
+	//window.agencyText = document.getElementsByTagName("title")[0].innerHTML;
+	window.siteClient = window.agencySitePathCSS;
+	// Task 44300 - WEX
+	 
+	window.default_collection = 'som';
+	 window.gsasearch = true;
+	window.usagovCollection = 'mi-'+window.agencySitePathCSS;
+
+	$('document').ready(function(){
+		$('.site-search-form').submit(function(e){
+			e.preventDefault();
+			siteSearchForm($(this));
+		});
+		$('#noAdBlock').hide();
+	});
+	</script> 
+  </div> 
+  <div id="container" class="container-fluid"> 
+   <div id="topMenuSearchContainer bg bg-accent-black" class="search-extended"> 
+    <div class="searchComponentDiv padding-top-20 padding-bottom-20" id="searchComponentDiv_10101010101" ng-controller="searchComponentController" ng-init="init(10101010101)"> 
+     <div ng-if="loadedData"> 
+      <form ng-submit="submitFormLocal()" class="submit-override"> 
+       <div class="container"> 
+        <div class="col-xs-11" angucomplete-alt id="searchInput_10101010101" placeholder="" pause="10" selected-object="optionChanged" local-data="people" local-search="localSearch" title-field="name" description-field="twitter" minlength="1" input-class="form-control form-control" input-changed="inputChanged" match-class="highlight"> 
+        </div> 
+        <div class="col-xs-1 bg bg-accent-black"> 
+         <a href="#" onclick="$('body').removeClass('show-search-form');$('#top-right-search-bar').focus();" title="Close Search Panel" class="fa-2x"> <span class="fa fa-remove"></span> <span class="sr-only">Close Search Box</span> </a> 
+        </div> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+    <script>		
+		window.loadedData[10101010101] = [];
+		window.loadedData[10101010101]["GSA_COLLECTION"] = "som";
+		window.loadedData[10101010101]["gsaAgencyText"] = "State~of~Michigan";
+		window.loadedData[10101010101]["subcategories"] = [];
+	</script> 
+   </div> 
+   <!-- agencyHeaderNavPath agencyCreateHeaderNavP3 --> 
+   <!--div id="bannerArea" role='banner'-->
+   <!-- HEADER 1.1 Live -->
+   <div id="bannerArea" role="banner">
+    <div id="superTop">
+     <!-- SOM banner text --> 
+     <ul id="bannerLinks">
+      <li><a href="/departments" title="State Departments">State Departments</a></li>
+      <li><a href="/services" title="Online Services">Online Services</a></li>
+      <li><a href="/socialmedia" title="Social Media">Social Media</a></li>
+      <li><a href="/somhelp" title="Help Center">Help Center</a></li>
+      <li id="top-right-search-bar" style="display:none;"> <a href="#topMenuSearchContainer" aria-haspopup="true" title="Search Mi.gov" class="top-header-search-link" data-search-field-id=""> <span>Search</span> </a> </li>
+     </ul>
+    </div>
+    <div id="siteBanner">
+     <!-- SOM banner text --> 
+     <div id="headerRow"> 
+      <div class="header-site-title-text"> 
+       <a class="AGENCY_HEADER_L" accesskey="1" href="/som/"><img class="AGENCY_HEADER_L" src="/images/som/mobileSOM_346956_7_398113_7.png" alt="SOM - State of Michigan "></a> 
+      </div> 
+      <div class="header-nav-block">
+       <nav class="main-navigation" role="navigation" aria-label="main navigation">
+        <ul id="nav" class="nav-main"> 
+         <!-- State Of Michigan - Wed May 29 17:25:54 2019 --> 
+         <!-- e-Michigan Portal - Process #1 --> 
+         <!-- Begin Global Nav section -->
+         <!-- End Global Nav section --> 
+         <!-- Begin Responsive Navigation --> 
+         <li id="29943" class="id-29943 "> <a class="lvl1" title="BUSINESS" href="/som/0,4669,7-192-29943---,00.html">BUSINESS</a> </li> 
+         <li id="29939" class="id-29939 "> <a class="lvl1" title="EDUCATION" href="/som/0,4669,7-192-29939---,00.html">EDUCATION</a> </li> 
+         <li id="29942" class="id-29942 "> <a class="lvl1" title="HEALTH" href="/som/0,4669,7-192-29942---,00.html">HEALTH</a> </li> 
+         <li id="29701" class="id-29701 "> <a class="lvl1" title="GOVERNMENT" href="/som/0,4669,7-192-29701---,00.html">GOVERNMENT</a> </li> 
+         <li id="29941" class="id-29941 "> <a class="lvl1" title="SAFETY" href="/som/0,4669,7-192-29941---,00.html">SAFETY</a> </li> 
+        </ul> 
+        <ul id="desktopMobileButton" style="display:none;"> 
+         <li><a aria-haspopup="true" href="#mobile-canvas-menu-container" data-toggle-class="show-mobile-nav" class="toggle-mobile-menu outer-link text-center toggle-mobile-menu-controls"> <span class="fa fa-bars mobile-menu-closed-icon toggle-mobile-menu-controls"></span><span class="fa fa-times mobile-menu-showing-icon toggle-mobile-menu-controls"></span> 
+           <div class="clearfix">
+            MENU
+           </div> </a></li> 
+        </ul> 
+       </nav> 
+      </div> 
+      <!-- End Flyout Navigation -->
+      <!-- Left Links -->
+      <!-- End Left Links -->
+     </div>
+    </div>
+    <div class="siteBannerTxt">
+     State of Michigan 
+    </div> 
+    <div id="horzMenuSubLinksBlock_container" class="container">
+     <div id="horzMenuSubLinksRow">
+      <div id="horzMenuSubLinksBlockBreadCrumb"></div>
+     </div>
+     <div id="horzMenuSubLinksBlock"></div>
+    </div>
+   </div> 
+   <div id="topNavSearch"> 
+    <!-- SEARCH -->
+    <form id="searchform" onsubmit="location.href='https://search.michigan.gov/AppBuilder/search?ctx=SOM&amp;q=' + document.getElementById('query').value;return false;"> 
+     <input accesskey="s" type="TEXT" autocomplete="off" id="query" name="q" placeholder="Search" title="Search"> 
+     <input id="go" type="submit" value="search" name="button" onClick="location.href='https://search.michigan.gov/AppBuilder/search?ctx=SOM&amp;q=' + document.getElementById('query').value;return false;"> 
+    </form>
+    <!-- /SEARCH -->
+   </div>
+   <!-- LEFTNAV agencyCreateLeftNavRD --> 
+   <!-- bodyWrapper --> 
+   <div id="bodyWrapper"> 
+    <!-- contentWrapper --> 
+    <div id="contentWrapper"> 
+     <!-- main -->
+     <div id="main" class="DW page" role="main"> 
+      <div id="breadcrumbContainer">
+       <div id="breadcrumb" role="navigation" aria-label="breadcrumbs">
+        <span style="display: none" id="breadcrumblabel">You are here</span>
+        <ol class="breadcrumb" aria-labelledby="breadcrumblabel">
+         <li><a href="/som/">SOM</a></li> 
+         <li><a href="/som/0,4669,7-192-29942---,00.html" title="HEALTH">HEALTH</a></li>
+        </ol>
+       </div>
+      </div> 
+      <div class="page-header sr-only">
+       <h1>HEALTH</h1>
+      </div> 
+      <!-- Body Begin --> 
+      <!-- State Of Michigan - Fri May 31 18:12:24 2019 --> 
+      <!-- BEGIN MAIN CONTENT AREA ROW -->
+      <div class="row row-eq-height">
+       <div class="row-eq-height col-sm-12 ">
+        <!-- ID COMPONENT_89670 -->
+        <!-- BS PANEL COMPONENT -->
+        <div id="panels_89670" style="width:100%">
+         <!-- Panel GROUP -->
+         <div class="panel-group">
+          <!-- Panel -->
+          <div class="panel splash-panel" style="background-image:url(/images/som/iStock_000045785368_HealthTheme_502974_7.jpg);" id="block-1_89670"> 
+           <h2 class="panel-heading"><span class="panel-heading-inner">Health</span></h2> 
+           <!-- Panel BODY -->
+           <div class="panel-body">
+            <!-- State Of Michigan - Fri Apr 26 13:35:39 2019 --> 
+            <!-- BEGIN MAIN CONTENT AREA ROW -->
+            <div class="row row-eq-height">
+             <div class="row-eq-height col-sm-6 ">
+              <!-- ID COMPONENT_89831 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_89831" class="comp standard  list splash-feature-component list-group-transparent-links-default-2">
+               <h2 class="cTitle" style="">MyHealth Portal</h2> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList  NONE ">
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "><span class="bodylinks"></span><span class="shortdesc"><p>MyHealthPortal is an application for current members enrolled in Michigan Medicaid, Healthy Michigan Plan, and/or Children's Special Health Care Services (CSHCS) to provide instant access to information about their health care benefits and services.</p> </span></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="https://myhb.state.mi.us/myHBPublic/landing.action?request_locale=en" target="_blank" title="VIEW PORTAL">VIEW PORTAL </a></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_89831 -->
+             </div>
+            </div>
+            <!-- END MAIN CONTENT AREA ROW -->
+            <!-- END Panel BODY -->
+           </div>
+           <!-- END Panel block-1 -->
+          </div>
+          <!-- Panel -->
+          <div class="panel bg bg-gray-light panel-heading-centered" style="background-image:url();" id="block-2_89670"> 
+           <h2 class="panel-heading"><span class="panel-heading-inner">Online Services</span></h2> 
+           <!-- Panel BODY -->
+           <div class="panel-body">
+            <!-- State Of Michigan - Fri Apr 26 13:35:40 2019 --> 
+            <!-- BEGIN MAIN CONTENT AREA ROW -->
+            <div class="row row-eq-height">
+             <div class="row-eq-height col-sm-5 ">
+              <!-- ID COMPONENT_90666 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_90666" class="comp standard  list    comp-title-border comp-title-border-gray-light bg bg-accent-1 transparent-90  background-image-cover background-image   list-group-inline-links          list-group-transparent-links-default-2 first-featured" style=" background-image:url(//www.michigan.gov/images/som/healthFeatureServiceBackgroundv2_525045_7.jpg);">
+               <h2 class="cTitle" style="">VERIFY A HEALTH PROFESSIONAL LICENSE</h2> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList   ">
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "><span class="bodylinks"></span><span class="shortdesc"><p>Licensing and registration records are made available by the state to provide immediate access to information for the convenience of interested persons.</p> </span></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="https://w2.lara.state.mi.us/VAL/License/Search" target="_blank" title="VERIFY NOW">VERIFY NOW </a></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_90666 -->
+             </div>
+             <div class="row-eq-height col-sm-7 ">
+              <!-- ID COMPONENT_89935 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_89935" class="comp standard  list"> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList   ">
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/mdch/0,1607,7-132-2945_5100-101427--,00.html" title="Michigan Medicaid Provider Inquiry">Michigan Medicaid Provider Inquiry </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/mdhhs/0,5885,7-339-71550_2941---,00.html" title="Behavioral Health">Behavioral Health </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/osa" title="Aging and Adult Services">Aging and Adult Services </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/mdhhs/0,5885,7-339-71547_2943_4931---,00.html" title="MI Child Health Insurance Program">MI Child Health Insurance Program </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/healthymichigan" title="Create a Personal Health Plan">Create a Personal Health Plan </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/mibridges" title="MI BRIDGES">MI BRIDGES </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/sos/0,1607,7-127-34786---,00.html" title=" You can give no greater gift than the gift of life. By     joining the Michigan Organ Donor Registry   , you can help give that gift. Just one organ and tissue donor can save the lives of eight people and enhance the lives of more than 50. 
+">Organ Donor Registry </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/mdhhs/0,5885,7-339-73971_5528---,00.html" title="Child Support">Child Support </a></span></span></li> 
+               </ul>
+               <span class="moreLink"><a title="ALL SERVICES " href="/som/0,4669,7-192-74152---,00.html">ALL SERVICES</a></span>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_89935 -->
+             </div>
+            </div>
+            <!-- END MAIN CONTENT AREA ROW -->
+            <!-- END Panel BODY -->
+           </div>
+           <!-- END Panel block-2 -->
+          </div>
+          <!-- Panel -->
+          <div class="panel hide-panel-heading bg bg-primary-1 panel-body-padding-25" style="background-image:url();" id="block-3_89670"> 
+           <h2 class="panel-heading"><span class="panel-heading-inner">Spotlight</span></h2> 
+           <!-- Panel BODY -->
+           <div class="panel-body">
+            <!-- State Of Michigan - Fri May 31 18:12:24 2019 --> 
+            <!-- BEGIN MAIN CONTENT AREA ROW -->
+            <div class="row row-eq-height">
+             <div class="row-eq-height col-sm-6 ">
+              <!-- ID COMPONENT_89880 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_89880" class="comp standard  list list-read-more-next list-no-bullets">
+               <h2 class="cTitle" style="">SPOTLIGHT</h2> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList  NONE ">
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/som/0,4669,7-192-74076-498656--,00.html" title="Flint families can get nutritious food at mobile pantry in June">Flint families can get nutritious food at mobile pantry in June </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/som/0,4669,7-192-74076-498521--,00.html" title="MDHHS issues Request for Proposals for teen pregnancy prevention programming">MDHHS issues Request for Proposals for teen pregnancy prevention programming </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/som/0,4669,7-192-74076-498198--,00.html" title="MDHHS appoints new director of aging services">MDHHS appoints new director of aging services </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/som/0,4669,7-192-74076-498147--,00.html" title="Mandated reporters of child abuse, neglect can use online system">Mandated reporters of child abuse, neglect can use online system </a></span></span></li> 
+               </ul>
+               <span class="moreLink"><a title="MORE NEWS SPOTLIGHT" href="/som/0,4669,7-192-34762---,00.html">MORE NEWS</a></span>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_89880 -->
+             </div>
+             <div class="row-eq-height col-sm-6 ">
+              <!-- ID COMPONENT_90667 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_90667" class="comp standard  list list-image-overlay list-no-bullets padding-0 first-featured first-like-ctitle-small backgroundPos-xy-50" style=" background-image:url(//www.michigan.gov/images/som/iStock_000017349140_525215_7.jpg);"> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList  DISC ">
+                <li class="col_1" style=""><span class="inner"><span class="thumbnail CENTER"><a href="/mdhhs/0,5885,7-339-73970_2944---,00.html"><span style="display: block; margin-left: auto; margin-right: auto;"><img src="/images/som/iStock_000017349140_525215_7.jpg" alt="Patient Blood Pressure" title="Patient Blood Pressure"></span></a></span><span class="contentBlock "> <a class="bodylinks" href="/mdhhs/0,5885,7-339-73970_2944---,00.html" title="Information collected to monitor the general health and well-being of Michigan's residents.">Health Statistics and Reports </a><span class="shortdesc">Information collected to monitor the general health and well-being of Michigan's residents.</span></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_90667 -->
+             </div>
+            </div>
+            <!-- END MAIN CONTENT AREA ROW -->
+            <!-- END Panel BODY -->
+           </div>
+           <!-- END Panel block-3 -->
+          </div>
+          <!-- Panel -->
+          <div class="panel panel-heading-centered" style="background-image:url();" id="block-4_89670"> 
+           <h2 class="panel-heading"><span class="panel-heading-inner">Topics</span></h2> 
+           <!-- Panel BODY -->
+           <div class="panel-body">
+            <!-- State Of Michigan - Fri Apr 26 13:35:40 2019 --> 
+            <!-- BEGIN MAIN CONTENT AREA ROW -->
+            <div class="row row-eq-height">
+             <div class="row-eq-height col-sm-12 ">
+              <!-- ID COMPONENT_89867 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_89867" class="comp standard  list title-align-center                     item-col-bs-4 all-like-ctitle-small item-img-center img-icon list-thumbnails-rounded-gray-light     item-align-center"> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList   ">
+                <li class="col_1" style=""><span class="inner"><span class="thumbnail CENTER"><a href="/mikidsmatter"><span style="display: block; margin-left: auto; margin-right: auto;"><img src="/images/som/symbolicons_iconChildren_507877_7.png" alt="Children Icon" title="Children Icon"></span></a></span><span class="contentBlock "> <a class="bodylinks" href="/mikidsmatter" title=" Find children's health and safety information for a happy and healthy child 
+">Children </a><span class="shortdesc"><p>Find children's health and safety information for a happy and healthy child</p> </span></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="thumbnail CENTER"><a href="/osa"><span style="display: block; margin-left: auto; margin-right: auto;"><img src="/images/som/symbolicons_iconSenior_507889_7.png" alt="Seniors Icon" title="Seniors Icon"></span></a></span><span class="contentBlock "> <a class="bodylinks" href="/osa" title=" Health, wellness and aging information for older adults 
+">Seniors </a><span class="shortdesc"><p>Health, wellness and aging information for older adults</p> </span></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="thumbnail CENTER"><a href="/disabilityresources"><span style="display: block; margin-left: auto; margin-right: auto;"><img src="/images/som/symbolicons_iconDisability_507878_7.png" alt="Disability Icon" title="Disability Icon"></span></a></span><span class="contentBlock "> <a class="bodylinks" href="/disabilityresources" title=" Resources and services to promote health and wellness of disabled individuals 
+">Disability </a><span class="shortdesc"><p>Resources and services to promote health and wellness of disabled individuals</p> </span></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="thumbnail CENTER"><a href="/mentalhealth"><span style="display: block; margin-left: auto; margin-right: auto;"><img src="/images/som/symbolicons_iconMentalHealth_507883_7.png" alt="Mental Health Icon" title="Mental Health Icon"></span></a></span><span class="contentBlock "> <a class="bodylinks" href="/mentalhealth" title=" Mental health problems are common but help is available 
+">Mental Health </a><span class="shortdesc"><p>Mental health problems are common but help is available</p> </span></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_89867 -->
+             </div>
+            </div>
+            <div class="row row-eq-height">
+             <div class="row-eq-height col-sm-8 ">
+              <!-- ID COMPONENT_89874 -->
+              <!-- /ID COMPONENT_89874 -->
+             </div>
+             <div class="row-eq-height col-sm-4 ">
+              <!-- ID COMPONENT_89875 -->
+              <!-- /ID COMPONENT_89875 -->
+             </div>
+            </div>
+            <!-- END MAIN CONTENT AREA ROW -->
+            <!-- END Panel BODY -->
+           </div>
+           <!-- END Panel block-4 -->
+          </div>
+          <!-- Panel -->
+          <div class="panel bg bg-gray-light panel-heading-centered" style="background-image:url();" id="block-5_89670"> 
+           <h2 class="panel-heading"><span class="panel-heading-inner">Providers</span></h2> 
+           <!-- Panel BODY -->
+           <div class="panel-body">
+            <!-- State Of Michigan - Fri Apr 26 13:35:41 2019 --> 
+            <!-- BEGIN MAIN CONTENT AREA ROW -->
+            <div class="row row-eq-height">
+             <div class="row-eq-height col-sm-12 ">
+              <!-- ID COMPONENT_89842 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_89842" class="comp standard  list first-featured first-featured-centered list-group-inline-links list-no-ctitle list-read-more-accent-1"> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList  NONE ">
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/lara/0,4601,7-154-63294_73293---,00.html" title=" Find the information you are seeking regarding State Licenses within Michigan. Using a simple search tool you can discover agency, required licensing information, and more. 
+"> </a><span class="shortdesc"><p>Find the information you are seeking regarding State Licenses within Michigan. Using a simple search tool you can discover agency, required licensing information, and more.</p> <span class="moreLink"><a title="" href="/lara/0,4601,7-154-63294_73293---,00.html">&nbsp;LOOK UP A LICENSE</a></span></span></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_89842 -->
+             </div>
+            </div>
+            <div class="row row-eq-height">
+             <div class="row-eq-height col-sm-4 ">
+              <!-- ID COMPONENT_92317 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_92317" class="comp standard  list list-read-more-white-primary-2 list-no-bullets first-featured list-hide-cTitle first-like-ctitle-small match-content-list-height">
+               <h2 class="cTitle" style="">Insurance</h2> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList  NONE ">
+                <li class="col_1" style=""><span class="inner"><span class="thumbnail CENTER"><span style="display: block; margin-left: auto; margin-right: auto;"><img src="/images/som/iStock_000085083131_525360_7.jpg" alt="Magnifier and File Folders" title="Magnifier and File Folders"></span></span><span class="contentBlock "><span class="bodylinks">Information</span></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/mdch/0,1607,7-132-2945---,00.html" title="Information for Medicaid Providers">Information for Medicaid Providers </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/mdch/0,1607,7-132-2943_4860---,00.html" title="Michigan Medicaid Health Plans">Michigan Medicaid Health Plans </a></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_92317 -->
+             </div>
+             <div class="row-eq-height col-sm-4 ">
+              <!-- ID COMPONENT_92316 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_92316" class="comp standard  list list-read-more-white-primary-2 list-no-bullets first-featured list-hide-cTitle first-like-ctitle-small match-content-list-height">
+               <h2 class="cTitle" style="">Child Care</h2> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList  DISC ">
+                <li class="col_1" style=""><span class="inner"><span class="thumbnail CENTER"><span style="display: block; margin-left: auto; margin-right: auto;"><img src="/images/som/iStock_000056507662_525362_7.jpg" alt="Super Hero Kids" title="Super Hero Kids"></span></span><span class="contentBlock "><span class="bodylinks">Child Care</span></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/lara/0,4601,7-154-63294_5529---,00.html" target="_blank" title="Billing and Payments">Billing and Payments </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/lara/0,4601,7-154-63294_5529_49572---,00.html" title="Child Care Provider Information">Child Care Provider Information </a></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_92316 -->
+             </div>
+             <div class="row-eq-height col-sm-4 ">
+              <!-- ID COMPONENT_92318 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_92318" class="comp standard  list list-read-more-white-primary-2 list-no-bullets first-featured list-hide-cTitle first-like-ctitle-small match-content-list-height">
+               <h2 class="cTitle" style="">Substance Abuse</h2> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList  NONE ">
+                <li class="col_1" style=""><span class="inner"><span class="thumbnail CENTER"><span style="display: block; margin-left: auto; margin-right: auto;"><img src="/images/som/iStock_000029908240_521930_7.jpg" alt="Man drinking whiskey and smoking a cigarette." title="Man drinking whiskey and smoking a cigarette."></span></span><span class="contentBlock "><span class="bodylinks">Substance Abuse</span></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/mdch/0,1607,7-132-2945_5103---,00.html" title="Lab Services">Lab Services </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/mdch/0,1607,7-132-2945_32550---,00.html" title="Institutional Review Board">Institutional Review Board </a></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_92318 -->
+             </div>
+            </div>
+            <div class="row row-eq-height">
+             <div class="row-eq-height col-sm-12 ">
+              <!-- ID COMPONENT_92319 -->
+              <!-- /ID COMPONENT_92319 -->
+             </div>
+            </div>
+            <!-- END MAIN CONTENT AREA ROW -->
+            <!-- END Panel BODY -->
+           </div>
+           <!-- END Panel block-5 -->
+          </div>
+          <!-- Panel -->
+          <div class="panel hide-panel-heading panel-body-left-2-col panel-body-right-2-col" style="background-image:url();" id="block-6_89670"> 
+           <h2 class="panel-heading"><span class="panel-heading-inner">Consumers and Environmental</span></h2> 
+           <!-- Panel BODY -->
+           <div class="panel-body">
+            <!-- State Of Michigan - Fri Apr 26 13:35:42 2019 --> 
+            <!-- BEGIN MAIN CONTENT AREA ROW -->
+            <div class="row row-eq-height">
+             <div class="row-eq-height col-sm-6 ">
+              <!-- ID COMPONENT_92315 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_92315" class="comp standard  list     bg bg-primary-2 transparent-90  backgroundSize-x-100-y-100 background-image list-read-more-next" style=" background-image:url(//www.michigan.gov/images/som/SOMicon_ShoppingCart_525543_7.png);">
+               <h2 class="cTitle" style="">CONSUMER INFORMATION</h2> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList   ">
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/difs/HMO_Complaint_Information_546294_7.pdf" target="_blank" title="HMO Complaint Information">HMO Complaint Information <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/difs/HMO_Consumer_Guide_546289_7.pdf" target="_blank" title="HMO Consumer Guide">HMO Consumer Guide <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/ag/0,4534,7-359-82915_82919_82267_82302---,00.html" title="Health Care Fraud And Patient Abuse">Health Care Fraud And Patient Abuse </a></span></span></li> 
+               </ul>
+               <span class="moreLink"><a title="MORE CONSUMER INFO CONSUMER INFORMATION" href="/som/0,4669,7-192-32326---,00.html">MORE CONSUMER INFO</a></span>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_92315 -->
+             </div>
+             <div class="row-eq-height col-sm-6 ">
+              <!-- ID COMPONENT_92314 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_92314" class="comp standard  list     bg bg-primary-1 transparent-90 backgroundPos-center-top backgroundSize-x-100-y-100 background-image list-read-more-next" style=" background-image:url(//www.michigan.gov/images/som/SOMicon_Plant_525544_7.png);">
+               <h2 class="cTitle" style="">ENVIRONMENTAL</h2> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList   ">
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/deq/0,1607,7-135-3313_3675---,00.html" title="Drinking Water Protection">Drinking Water Protection </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="http://michigan.gov/mdch/0,1607,7-132-54783_54784_54786---,00.html" title="Mercury Spills">Mercury Spills </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="http://www.deq.state.mi.us/peas/" target="_blank" title="Pollution Emergency Alerting System (PEAS) Database">Pollution Emergency Alerting System (PEAS) Database </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/family_fish_166020_7.pdf" target="_blank" title="A  Family Guide to Eating Fish">A Family Guide to Eating Fish <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li> 
+               </ul>
+               <span class="moreLink"><a title="MORE ENVIRONMENTAL INFO ENVIRONMENTAL" href="/som/0,4669,7-192-45929---,00.html">MORE ENVIRONMENTAL INFO</a></span>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_92314 -->
+             </div>
+            </div>
+            <!-- END MAIN CONTENT AREA ROW -->
+            <!-- END Panel BODY -->
+           </div>
+           <!-- END Panel block-6 -->
+          </div>
+          <!-- Panel -->
+          <div class="panel bg bg-primary-2 panel-body-padding-25 panel-heading-centered" style="background-image:url();" id="block-7_89670"> 
+           <h2 class="panel-heading"><span class="panel-heading-inner">Related Resources</span></h2> 
+           <!-- Panel BODY -->
+           <div class="panel-body">
+            <!-- State Of Michigan - Fri Apr 26 13:35:43 2019 --> 
+            <!-- BEGIN MAIN CONTENT AREA ROW -->
+            <div class="row row-eq-height">
+             <div class="row-eq-height col-sm-4 ">
+              <!-- ID COMPONENT_89879 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_89879" class="comp standard  list list-image-overlay list-no-bullets padding-0 first-featured first-like-ctitle-small backgroundPos-xy-50" style=" background-image:url(//www.michigan.gov/images/som/iStock_000070175135_525145_7.jpg);"> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList  NONE ">
+                <li class="col_1" style=""><span class="inner"><span class="thumbnail CENTER"><a href="http://www.mihealth.org/mirx/index.html"><span style="display: block; margin-left: auto; margin-right: auto;"><img src="/images/som/iStock_000070175135_525217_7.jpg" alt="Prescription Bottle" title="Prescription Bottle"></span></a></span><span class="contentBlock "> <a class="bodylinks" href="http://www.mihealth.org/mirx/index.html" title=" Making prescription medicines more accessible and more affordable for our most vulnerable citizens. The program is free and the card easy to use. 
+">MiRx Prescription Savings Program </a><span class="shortdesc"><p>Making prescription medicines more accessible and more affordable for our most vulnerable citizens. The program is free and the card easy to use.</p> </span></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_89879 -->
+             </div>
+             <div class="row-eq-height col-sm-4 ">
+              <!-- ID COMPONENT_89847 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_89847" class="comp standard  list list-read-more-next list-no-bullets">
+               <h2 class="cTitle" style="">DEPARTMENTS</h2> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList  NONE ">
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/mdhhs" title=" .link-spacing {
+ padding-bottom: 20px;
+ }
+ 
+ The Michigan Department of Health and Human Services (MDHHS) strives to promote better health outcomes, reduce health risks, and support stable and safe families while encouraging self-sufficiency. 
+
+  MDHHS Organization  
+
+  MDHHS FOIA  
+
+   Contact MDHHS   
+">Health and Human Services </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/egle" title=" .link-spacing {
+ padding-bottom: 20px;
+ }
+ 
+ The Michigan Department of Environment, Great Lakes, and&nbsp;Energy (EGLE) promotes wise management of Michigan's air, land, and water resources to support a sustainable environment, healthy communities, and vibrant economy. 
+
+  EGLE Organization  
+
+  EGLE FOIA  
+
+   Contact EGLE   
+">Environment, Great Lakes, and Energy </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/mdard" title=" .link-spacing {
+ padding-bottom: 20px;
+ }
+ 
+ The Michigan Department of Agriculture &amp; Rural Development (MDARD) works to assure food safety, protect animal and plant health, sustain environmental stewardship, provide consumer protection, enable rural development and foster efficient administration operations through service, partnership and collaboration. 
+
+  MDARD Organization  
+
+  MDARD FOIA  
+
+   Contact MDARD   
+">Agriculture and Rural Development </a></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+               <!--AN nextComponent 1 -->
+               <script>$("#comp_89847").addClass( "comp tiles" );</script> 
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_89847 -->
+             </div>
+             <div class="row-eq-height col-sm-4 ">
+              <!-- ID COMPONENT_89878 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_89878" class="comp standard  list list-read-more-next list-no-bullets">
+               <h2 class="cTitle" style="">SITES AND INFORMATION</h2> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList  NONE ">
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/mdch/0,4612,7-132-2940_2955_2959_63723---,00.html" title="MI Healthier Tomorrow">MI Healthier Tomorrow </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="http://www.benefits.gov/" target="_blank" title="www.GovBenefits.gov">www.GovBenefits.gov </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/healthymichigan" target="_blank" title="Healthy Michigan">Healthy Michigan </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/lara/0,4601,7-154-10555_12902_35510-263278--,00.html" title="HMO Basics">HMO Basics </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/autism" target="_blank" title="Michigan Autism Program">Michigan Autism Program </a></span></span></li> 
+               </ul>
+               <span class="moreLink"><a title="MORE RESOURCES SITES AND INFORMATION" href="/som/0,4669,7-192-60723---,00.html">MORE RESOURCES</a></span>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_89878 -->
+             </div>
+            </div>
+            <!-- END MAIN CONTENT AREA ROW -->
+            <!-- END Panel BODY -->
+           </div>
+           <!-- END Panel block-7 -->
+          </div>
+          <!-- END Panel GROUP -->
+         </div>
+         <!-- END Panel COMPONENT -->
+        </div>
+        <!-- /ID COMPONENT_89670 -->
+       </div>
+      </div>
+      <!-- END MAIN CONTENT AREA ROW --> 
+      <!-- Body End --> 
+     </div> 
+     <!-- START RIGHT_NAV 26847__26847__29942 ~ 7-192-26847__26847__29942--- ~ 7-192-26847__26847__29942--- --> 
+     <!-- State Of Michigan - Fri May 31 18:12:25 2019 --> 
+     <!-- BEGIN RIGHTNAV HTML CODE  --> 
+     <!-- Agency category -->
+     <!-- Begin Global Nav section RD -->
+     <!-- End Global Nav section RD -->
+     <!-- End My Interests/RightNav Links/Related Content/Right Links --> 
+     <!-- Cache Debug Info
+
+--> 
+     <!-- END RIGHT_NAV --> 
+     <!-- /div --> 
+    </div>
+    <!-- /contentWrapper --> 
+   </div>
+   <!-- /bodyWrapper --> 
+   <!-- BOTTOMNAV --> 
+   <!-- BEGIN FOOTER RD --> 
+   <div id="footerArea" role="contentinfo" style="clear: both"> 
+    <!-- begin expanded footer -->
+    <div id="expandedFooter">
+     <div id="cat_72339" class="footer_1">
+      <h2>Michigan.gov logo</h2>
+      <ul>
+       <li><a href="/som"><img src="/images/som/somFooterLogoBOW2015_491229_7.png" alt="Michigan.gov"></a></li>
+      </ul>
+     </div>
+     <div id="agencylinks" class="footer_1">
+      <ul>
+       <li><a href="/som/0,4669,7-192-39925---,00.html">Foreign Languages</a></li>
+       <li><a href="/disabilityresources">Disability Resources</a></li>
+      </ul>
+     </div>
+     <div id="policylinks" class="footer_1">
+      <ul>
+       <li><a href="/">Michigan.gov Home</a></li>
+       <li><a href="/adaform">ADA</a></li>
+       <li><a href="/minewswire">Michigan News</a></li>
+       <li><a href="/som/0,4669,7-192--281460--,00.html">Policies</a></li>
+      </ul>
+     </div>
+    </div>
+    <br>
+    <span class="copyright"><br>Copyright 2019 State of Michigan</span>
+    <!-- end expanded footer -->
+    <script type="text/javascript">
+if (typeof jQuery == 'undefined') {
+    document.querySelector('body').classList.remove('matching-heights-processing');
+	document.getElementById("noAdBlock").style.display = "block";
+}
+</script> 
+   </div> 
+   <!--END DIV CONTAINER--> 
+  </div> 
+  <!-- Mega Menu Block --> 
+  <div id="megaMenuBlock"> 
+   <div id="megaMenuSubLinksBlock_container"> 
+    <div class="container"> 
+     <div class="col-xs-3"> 
+      <div id="megaMenuLogoBlock"> 
+       <a href="/som"> <img src="/images/som/final_logo_migov_white_526452_7.png" class="img-responsive logo" alt="State of Michigan "></a> 
+      </div> 
+     </div> 
+     <div class="col-xs-9"> 
+      <div id="megaMenuSubLinksBlockBreadCrumb"></div> 
+      <div id="megaMenuSubLinksBlock"></div> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="megaMenuSearchBlock"></div> 
+  </div> 
+  <style type="text/css">
+
+</style> 
+  <!-- stmiws102.prdcloud.fms.ibmcloud.com rjp NT -->  
+ </body>
+</html>

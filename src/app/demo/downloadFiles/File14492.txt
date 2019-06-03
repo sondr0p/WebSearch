@@ -1,0 +1,821 @@
+<!doctype html>
+<html lang="en">
+ <head> 
+  <meta charset="utf-8"> 
+  <!-- Always force latest IE rendering engine --> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <title>What's New | Utah.gov: The Official Website of the State of Utah</title> 
+  <!--[if lte IE 9]>
+			<script type="text/javascript" src="./js/lib/html5.js"></script>
+		<![endif]--> 
+  <link rel="stylesheet" href="https://js.arcgis.com/4.10/esri/css/main.css"> 
+  <link rel="stylesheet" href="./css/style.css"> 
+  <link rel="stylesheet" href="./css/pages/whatsnew/section.css"> 
+  <link rel="apple-touch-icon" href="./apple-touch-icon.png"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0"> 
+  <meta name="description" content="Latest News - Utah.gov"> 
+  <meta name="keywords" content="latest news"> 
+  <meta property="og:image" content="./mstile-310x310.png"> 
+  <!--[if IE 9]>
+			<link type="text/css" rel="stylesheet" href="./css/ie9.css" />
+		<![endif]--> 
+ </head> 
+ <body class="secondary whatsnew whatsnew" data-page="whatsnew" data-section="whatsnew"> 
+  <p id="skiptocontent"><a href="#main">Skip to content</a></p> 
+  <header id="main-header"> 
+   <div class="wrapper"> 
+    <a href="./" id="logo"> 
+     <svg version="1.1" class="utahgov-logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewbox="-277 369 56 56" width="56px" height="56px" enable-background="new -277 369 56 56" xml:space="preserve"> 
+      <title>Utah.gov Logo</title> 
+      <g> 
+       <g> 
+        <path class="dot" fill="#EFD45E" d="M-277,404.5c0-4.8,3.9-8.7,8.7-8.7c4.8,0,8.7,3.9,8.7,8.7c0,4.8-3.9,8.7-8.7,8.7
+				C-273.1,413.2-277,409.3-277,404.5z" /> 
+       </g> 
+       <g> 
+        <path class="blue" fill="#416E92" d="M-274,381v10.9c0,2.6,1.1,3.9,3.4,3.9c1,0,1.9-0.3,2.7-0.9c0.8-0.6,1.4-1.2,1.6-2v-12h3v17h-3v-2.4
+				c-0.3,0.7-1,1.3-2,1.8c-1,0.6-2,0.8-3,0.8c-1.9,0-3.3-0.5-4.3-1.6s-1.5-2.6-1.5-4.6v-11.2h3.1V381z" /> 
+        <path class="blue" fill="#416E92" d="M-259.8,383.4h-2V381h2v-3.6l3-1.2v4.7h4.7v2.4h-4.7v8.5c0,1.4,0.2,2.4,0.7,3.1c0.5,0.6,1.3,0.9,2.3,0.9
+				c0.8,0,1.6-0.2,2.4-0.6l0.4,2.7c-1.3,0.3-2.6,0.5-4.1,0.5c-1.3,0-2.5-0.5-3.4-1.5c-0.9-1-1.4-2.3-1.4-3.8v-9.7H-259.8z" /> 
+        <path class="blue" fill="#416E92" d="M-240.2,396.1c-1.2,1.5-3.1,2.3-5.6,2.3c-1.3,0-2.5-0.5-3.5-1.5s-1.5-2.2-1.5-3.6c0-1.7,0.8-3.2,2.3-4.4
+				s3.4-1.8,5.8-1.8c0.6,0,1.4,0.1,2.2,0.4c0-2.8-1.2-4.1-3.7-4.1c-1.9,0-3.3,0.5-4.4,1.5l-1.3-2.5c0.6-0.5,1.4-0.9,2.4-1.2
+				c1-0.3,2-0.5,2.9-0.5c2.5,0,4.3,0.6,5.4,1.7c1.1,1.1,1.7,2.9,1.7,5.4v6.1c0,1.5,0.4,2.5,1.3,3v1.5c-1.2,0-2.2-0.2-2.8-0.5
+				C-239.5,397.5-239.9,396.9-240.2,396.1z M-240.5,389.7c-1-0.2-1.6-0.3-2-0.3c-1.5,0-2.8,0.4-3.7,1.2c-1,0.8-1.4,1.7-1.4,2.8
+				c0,1.8,1,2.7,3.1,2.7c1.5,0,2.9-0.7,4.1-2.2v-4.2H-240.5z" /> 
+        <path class="blue" fill="#416E92" d="M-224,398.1v-10.7c0-1.3-0.3-2.3-0.9-3c-0.6-0.7-1.5-1.1-2.6-1.1c-0.7,0-1.5,0.2-2.2,0.6s-1.3,0.9-1.7,1.5
+				v12.7h-3v-23l3-1v8.9c0.4-0.6,1.1-1.1,1.9-1.6c0.9-0.4,1.8-0.6,2.8-0.6c1.8,0,3.2,0.6,4.2,1.8c1,1.2,1.5,2.8,1.5,4.9v10.7
+				L-224,398.1L-224,398.1z" /> 
+       </g> 
+       <path class="brown" fill="#593830" d="M-260.1,418l1.4-2.1c1.5,1,3,1.5,4.3,1.5c1.2,0,2.1-0.2,2.8-0.6s1-0.9,1-1.5c0-1.2-0.9-1.8-2.6-1.8
+			c-0.3,0-0.8,0.1-1.6,0.2s-1.4,0.2-1.8,0.2c-2.1,0-3.2-0.8-3.2-2.4c0-0.5,0.2-0.9,0.7-1.3s1.1-0.7,1.8-0.9c-2.1-1-3.1-2.7-3.1-5.1
+			c0-1.6,0.5-2.9,1.6-3.9s2.4-1.6,4-1.6c1.5,0,2.6,0.3,3.4,0.9l1.3-1.6l1.7,1.6l-1.6,1.2c0.7,0.9,1,2,1,3.5s-0.5,2.8-1.4,3.8
+			s-2.2,1.6-3.7,1.8l-2.2,0.2c-0.3,0-0.6,0.1-1,0.3c-0.4,0.2-0.7,0.4-0.7,0.7c0,0.4,0.5,0.6,1.4,0.6c0.4,0,1-0.1,1.9-0.2
+			c0.8-0.1,1.5-0.2,1.9-0.2c1.5,0,2.6,0.4,3.4,1.1c0.8,0.7,1.2,1.7,1.2,2.9c0,1.4-0.6,2.5-1.8,3.3s-2.8,1.3-4.7,1.3c-1,0-2-0.2-3-0.5
+			C-258.6,418.9-259.4,418.5-260.1,418z M-254.5,400.8c-0.9,0-1.7,0.3-2.2,1c-0.6,0.6-0.9,1.4-0.9,2.4s0.3,1.9,0.8,2.6
+			c0.6,0.7,1.3,1,2.3,1c0.9,0,1.7-0.3,2.2-1s0.8-1.5,0.8-2.6c0-0.9-0.3-1.7-0.9-2.4C-252.9,401.2-253.6,400.8-254.5,400.8z" /> 
+       <path class="brown" fill="#593830" d="M-248.2,406.4c0-2.3,0.6-4.2,1.9-5.6c1.2-1.4,2.9-2.1,4.9-2.1c2.1,0,3.8,0.7,5,2c1.2,1.4,1.8,3.2,1.8,5.7
+			c0,2.4-0.6,4.3-1.8,5.7c-1.2,1.4-2.8,2.1-4.9,2.1c-2.1,0-3.8-0.7-5-2.1C-247.6,410.7-248.2,408.8-248.2,406.4z M-245.5,406.4
+			c0,3.7,1.3,5.6,4,5.6c1.2,0,2.2-0.5,2.9-1.5s1.1-2.4,1.1-4.1c0-3.7-1.3-5.5-4-5.5c-1.2,0-2.2,0.5-2.9,1.5
+			C-245.1,403.3-245.5,404.7-245.5,406.4z" /> 
+       <path class="brown" fill="#593830" d="M-227.5,414.2h-0.7l-6.4-15.2h2.9l3.9,10.4l4-10.4h2.8L-227.5,414.2z" /> 
+      </g> 
+     </svg> </a> 
+    <!-- <button type="button" id="toggleMenu">Menu</button> --> 
+    <button class="toggle-menu cmn-toggle-switch__htx"> <span>toggle menu</span> </button> 
+   </div> 
+   <nav id="main-menu"> 
+    <div id="settings"> 
+     <p class="settings"> <a href="#" class="defaultStyles">Default Settings</a> <a href="#" class="highContrast">High Contrast</a> <a href="#" class="textOnly">Text Only</a> </p> 
+     <div id="fontSizer"> 
+      <span>Font Size:</span> 
+      <a href="#" title="Font size smaller" class="fontsize small" data-size="smallFont">A</a> 
+      <a href="#" title="Font size default" class="fontsize default">A</a> 
+      <a href="#" title="Font size larger" class="fontsize large" data-size="largeFont">A</a> 
+     </div> 
+     <p id="locationCheckin"> <button type="button" class="check-in">Detect your location</button> </p> 
+     <p id="locationUpdate"> <label for="check-in-mdata">or Set your location:</label> <input list="utcities" type="text" id="check-in-mdata" class="check-in-mdata" placeholder="City or zip"> <button type="button" id="check-in-m" class="check-in-m">Set</button> </p> 
+     <datalist id="utcities" class="mIndex" data-format="optionlist" data-type="95" data-limit="300"></datalist> 
+    </div> 
+    <div id="dateline"> 
+     <a href="#" id="toggleLocation" title="Location"> 
+      <svg enable-background="new 0 0 28 28" height="28" preserveaspectratio="none" viewbox="0 0 28 28" width="28" xmlns="http://www.w3.org/2000/svg">
+       <path d="m16 .6c-5 .2-9 4.3-9 9.4 0 5 6.2 13.8 9 21.4 2.8-7.6 9-16.5 9-21.4 0-5.1-4-9.2-9-9.4zm0 13c-2.2 0-3.9-1.8-3.9-3.9 0-2.2 1.8-3.9 3.9-3.9s3.9 1.8 3.9 3.9c0 2.2-1.7 3.9-3.9 3.9z" />
+      </svg> <span>My Location: </span><strong data-locate="city">Loading...</strong> </a> 
+     <a href="#" id="toggleSettings" title="Settings"> <span>Settings</span> 
+      <svg enable-background="new -360 137 28 28" height="28" viewbox="-360 137 28 28" width="28" xmlns="http://www.w3.org/2000/svg">
+       <path d="m-333 148.2h-2.2c-.3-1-.7-2-1.2-2.9l1.6-1.6c.4-.4.4-.9 0-1.3l-2.6-2.6c-.4-.4-.9-.4-1.3 0l-1.6 1.6c-.9-.6-1.9-.9-2.9-1.2v-2.2c0-.5-.5-.9-.9-.9h-3.7c-.5 0-.9.5-.9.9v2.2c-1 .3-2 .7-2.9 1.2l-1.6-1.6c-.4-.4-.9-.4-1.3 0l-2.6 2.6c-.4.4-.4.9 0 1.3l1.6 1.6c-.6.9-.9 1.9-1.2 2.9h-2.2c-.5 0-.9.5-.9.9v3.7c0 .5.5.9.9.9h2.2c.3 1 .7 2 1.2 2.9l-1.6 1.6c-.4.4-.4.9 0 1.3l2.6 2.6c.4.4.9.4 1.3 0l1.6-1.6c.9.6 1.9.9 2.9 1.2v2.2c0 .5.5.9.9.9h3.7c.5 0 .9-.5.9-.9v-2.2c1-.3 2-.7 2.9-1.2l1.6 1.6c.4.4.9.4 1.3 0l2.6-2.6c.4-.4.4-.9 0-1.3l-1.6-1.6c.6-.9.9-1.9 1.2-2.9h2.2c.5 0 .9-.5.9-.9v-3.7c0-.3-.5-.9-.9-.9zm-13.1 8c-2.8 0-5.1-2.3-5.1-5.1s2.3-5.1 5.1-5.1 5.1 2.3 5.1 5.1-2.4 5.1-5.1 5.1z" />
+      </svg> </a> 
+     <a id="supportLink" href="./contact.html" title="Support"> <span>Support</span> 
+      <svg enable-background="new -360 137 28 28" height="28" viewbox="-360 137 28 28" width="28" xmlns="http://www.w3.org/2000/svg">
+       <path d="m-346 137c-7.1 0-13 5.3-13 11.9 0 5 3.4 9.3 8.4 11.1l-3.9 5s13.5-5 13.6-5.3c4.5-1.8 7.8-6.1 7.8-10.8.3-6.6-5.6-11.9-12.9-11.9zm2.1 21.6h-4.6v-4.7h4.6zm1.3-8.9c-1.1.7-1.2 2.3-1.2 2.3h-4.8c-.1 0-.4-2.8 1.6-3.9.7-.5 2.6-1.1 2.6-2.3 0-.8-.6-1.1-1.6-1.1-1.7 0-1.7 2.1-1.7 2.6h-5.2c.1-1.9.6-3.6 1.7-4.8s2.8-2.3 5.3-2.3c4.9 0 6.5 2.8 6.7 5.1 0 3.1-1.7 3.6-3.4 4.4z" />
+      </svg> </a> 
+    </div> 
+    <ul> 
+     <li id="nav-home"> <a href="./" title="Utah.gov Home"> 
+       <svg version="1.1" class="utahgov-logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewbox="-277 369 56 56" width="56px" height="56px" enable-background="new -277 369 56 56" xml:space="preserve"> 
+        <title>Utah.gov Logo</title> 
+        <g> 
+         <g> 
+          <path class="dot" fill="#EFD45E" d="M-277,404.5c0-4.8,3.9-8.7,8.7-8.7c4.8,0,8.7,3.9,8.7,8.7c0,4.8-3.9,8.7-8.7,8.7
+				C-273.1,413.2-277,409.3-277,404.5z" /> 
+         </g> 
+         <g> 
+          <path class="blue" fill="#416E92" d="M-274,381v10.9c0,2.6,1.1,3.9,3.4,3.9c1,0,1.9-0.3,2.7-0.9c0.8-0.6,1.4-1.2,1.6-2v-12h3v17h-3v-2.4
+				c-0.3,0.7-1,1.3-2,1.8c-1,0.6-2,0.8-3,0.8c-1.9,0-3.3-0.5-4.3-1.6s-1.5-2.6-1.5-4.6v-11.2h3.1V381z" /> 
+          <path class="blue" fill="#416E92" d="M-259.8,383.4h-2V381h2v-3.6l3-1.2v4.7h4.7v2.4h-4.7v8.5c0,1.4,0.2,2.4,0.7,3.1c0.5,0.6,1.3,0.9,2.3,0.9
+				c0.8,0,1.6-0.2,2.4-0.6l0.4,2.7c-1.3,0.3-2.6,0.5-4.1,0.5c-1.3,0-2.5-0.5-3.4-1.5c-0.9-1-1.4-2.3-1.4-3.8v-9.7H-259.8z" /> 
+          <path class="blue" fill="#416E92" d="M-240.2,396.1c-1.2,1.5-3.1,2.3-5.6,2.3c-1.3,0-2.5-0.5-3.5-1.5s-1.5-2.2-1.5-3.6c0-1.7,0.8-3.2,2.3-4.4
+				s3.4-1.8,5.8-1.8c0.6,0,1.4,0.1,2.2,0.4c0-2.8-1.2-4.1-3.7-4.1c-1.9,0-3.3,0.5-4.4,1.5l-1.3-2.5c0.6-0.5,1.4-0.9,2.4-1.2
+				c1-0.3,2-0.5,2.9-0.5c2.5,0,4.3,0.6,5.4,1.7c1.1,1.1,1.7,2.9,1.7,5.4v6.1c0,1.5,0.4,2.5,1.3,3v1.5c-1.2,0-2.2-0.2-2.8-0.5
+				C-239.5,397.5-239.9,396.9-240.2,396.1z M-240.5,389.7c-1-0.2-1.6-0.3-2-0.3c-1.5,0-2.8,0.4-3.7,1.2c-1,0.8-1.4,1.7-1.4,2.8
+				c0,1.8,1,2.7,3.1,2.7c1.5,0,2.9-0.7,4.1-2.2v-4.2H-240.5z" /> 
+          <path class="blue" fill="#416E92" d="M-224,398.1v-10.7c0-1.3-0.3-2.3-0.9-3c-0.6-0.7-1.5-1.1-2.6-1.1c-0.7,0-1.5,0.2-2.2,0.6s-1.3,0.9-1.7,1.5
+				v12.7h-3v-23l3-1v8.9c0.4-0.6,1.1-1.1,1.9-1.6c0.9-0.4,1.8-0.6,2.8-0.6c1.8,0,3.2,0.6,4.2,1.8c1,1.2,1.5,2.8,1.5,4.9v10.7
+				L-224,398.1L-224,398.1z" /> 
+         </g> 
+         <path class="brown" fill="#593830" d="M-260.1,418l1.4-2.1c1.5,1,3,1.5,4.3,1.5c1.2,0,2.1-0.2,2.8-0.6s1-0.9,1-1.5c0-1.2-0.9-1.8-2.6-1.8
+			c-0.3,0-0.8,0.1-1.6,0.2s-1.4,0.2-1.8,0.2c-2.1,0-3.2-0.8-3.2-2.4c0-0.5,0.2-0.9,0.7-1.3s1.1-0.7,1.8-0.9c-2.1-1-3.1-2.7-3.1-5.1
+			c0-1.6,0.5-2.9,1.6-3.9s2.4-1.6,4-1.6c1.5,0,2.6,0.3,3.4,0.9l1.3-1.6l1.7,1.6l-1.6,1.2c0.7,0.9,1,2,1,3.5s-0.5,2.8-1.4,3.8
+			s-2.2,1.6-3.7,1.8l-2.2,0.2c-0.3,0-0.6,0.1-1,0.3c-0.4,0.2-0.7,0.4-0.7,0.7c0,0.4,0.5,0.6,1.4,0.6c0.4,0,1-0.1,1.9-0.2
+			c0.8-0.1,1.5-0.2,1.9-0.2c1.5,0,2.6,0.4,3.4,1.1c0.8,0.7,1.2,1.7,1.2,2.9c0,1.4-0.6,2.5-1.8,3.3s-2.8,1.3-4.7,1.3c-1,0-2-0.2-3-0.5
+			C-258.6,418.9-259.4,418.5-260.1,418z M-254.5,400.8c-0.9,0-1.7,0.3-2.2,1c-0.6,0.6-0.9,1.4-0.9,2.4s0.3,1.9,0.8,2.6
+			c0.6,0.7,1.3,1,2.3,1c0.9,0,1.7-0.3,2.2-1s0.8-1.5,0.8-2.6c0-0.9-0.3-1.7-0.9-2.4C-252.9,401.2-253.6,400.8-254.5,400.8z" /> 
+         <path class="brown" fill="#593830" d="M-248.2,406.4c0-2.3,0.6-4.2,1.9-5.6c1.2-1.4,2.9-2.1,4.9-2.1c2.1,0,3.8,0.7,5,2c1.2,1.4,1.8,3.2,1.8,5.7
+			c0,2.4-0.6,4.3-1.8,5.7c-1.2,1.4-2.8,2.1-4.9,2.1c-2.1,0-3.8-0.7-5-2.1C-247.6,410.7-248.2,408.8-248.2,406.4z M-245.5,406.4
+			c0,3.7,1.3,5.6,4,5.6c1.2,0,2.2-0.5,2.9-1.5s1.1-2.4,1.1-4.1c0-3.7-1.3-5.5-4-5.5c-1.2,0-2.2,0.5-2.9,1.5
+			C-245.1,403.3-245.5,404.7-245.5,406.4z" /> 
+         <path class="brown" fill="#593830" d="M-227.5,414.2h-0.7l-6.4-15.2h2.9l3.9,10.4l4-10.4h2.8L-227.5,414.2z" /> 
+        </g> 
+       </svg> </a> </li> 
+     <li id="nav-search"> <a href="./search-results.html" title="Search Utah.gov"> 
+       <svg enable-background="new 0 0 200 200" height="24" preserveaspectratio="none" viewbox="0 0 24 24" width="24" alt="search">
+        <path d="m23.5 21.3-7-7c2.5-3.5 2.2-8.5-1-11.7-3.5-3.5-9.4-3.5-12.9.1-3.5 3.5-3.5 9.3 0 12.8 3.2 3.2 8.1 3.5 11.7 1l7 7c.6.6 1.6.6 2.2 0 .7-.6.7-1.5 0-2.2zm-18.8-7.9c-2.4-2.4-2.4-6.2 0-8.5 2.4-2.4 6.2-2.4 8.5 0 2.4 2.4 2.4 6.2 0 8.5-2.2 2.3-6.1 2.3-8.5 0z" />
+       </svg> <span>Search</span></a> 
+      <div class="drop-down"> 
+       <form action="/search-results.html" id="searchbox_005946968176299016736:b3muwlbpdj8" class="formScript"> 
+        <label for="searchField">Search:</label> 
+        <input name="q" type="text" class="textField" id="searchField" title="Search Field" maxlength="40" placeholder="Search Utah.gov" autocomplete="off"> 
+        <button type="submit" title="Search">Search</button> 
+       </form> 
+      </div> </li>
+     <!-- /#nav-search --> 
+     <li id="nav-government"> <a id="link-government" href="./government/" title="Government"> 
+       <svg enable-background="new 0 0 200 200" height="24" preserveaspectratio="none" viewbox="0 0 24 24" width="24">
+        <path d="m22.8 20.4h-1.3v-2.2c0-.7-.9-1.4-2.3-1.9v-3.3c0-.5-.7-1-1.8-1.4 0 0 0 0 0-.1 0-3.9-1.6-6.4-3.8-7.6 0-.9-.5-1.6-1.1-1.9 0-.8-.3-1.5-.6-1.5s-.5.7-.5 1.5c-.7.3-1.1 1-1.1 1.9-2.2 1.1-3.8 3.6-3.8 7.5v.1c-1.1.4-1.8.9-1.8 1.4v3.3c-1.4.5-2.3 1.2-2.3 1.9v2.2h-1.2c-.6 0-1.2.5-1.2 1.2v2h24v-2c0-.6-.5-1.1-1.2-1.1zm-11.7-7.8h.9.9v2.6c-.3 0-.6 0-.9 0s-.6 0-.9 0zm-4.1 7.4c-.8.1-1.5.2-2.1.4v-2.4c.7-.2 1.4-.3 2.1-.4zm1-4.5c-.6.1-1.2.2-1.7.3v-2.6c.6-.2 1.1-.3 1.7-.4zm2.1 4.2c-.8 0-1.5.1-2.2.2v-2.3c.7-.1 1.4-.1 2.2-.2zm.4-4.5c-.6 0-1.2.1-1.7.1v-2.6c.6-.1 1.1-.1 1.7-.1zm2.6 4.4c-.4 0-.7 0-1.1 0s-.7 0-1.1 0v-2.3h1.1 1.1zm.4-7c.6 0 1.2.1 1.7.1v2.6c-.6-.1-1.1-.1-1.7-.1zm2.6 7.2c-.7-.1-1.4-.1-2.2-.2v-2.3c.8 0 1.5.1 2.2.2zm-.1-7c.6.1 1.2.2 1.7.3v2.6c-.5-.1-1.1-.2-1.7-.3zm3.1 7.6c-.7-.2-1.4-.3-2.1-.4v-2.3c.8.1 1.5.2 2.1.4z" />
+       </svg> <span>Government</span></a> 
+      <div class="drop-down"> 
+       <div class="container"> 
+        <h3><a href="./government/">Government</a></h3> 
+        <ul> 
+         <li class="nav-more"><a href="./government/">Government News, &amp; Media</a></li> 
+         <li><a href="./government/agencylist.html">State Agencies</a></li> 
+         <li><a href="./government/governor.html">Office of the Governor</a></li> 
+         <li><a href="./government/executive.html">Executive Branch</a></li> 
+         <li><a href="./government/legislative.html">Legislative Branch</a></li> 
+         <li><a href="./government/judicial.html">Judicial Branch</a></li> 
+         <li><a href="./government/citycounty.html">City &amp; County Government</a></li> 
+         <li><a href="./government/federal.html">Federal Government</a></li> 
+         <li><a href="./government/election.html">Election &amp; Voting</a></li> 
+         <li><a href="./government/utahlaws.html">Utah Code &amp; Constitution</a></li> 
+         <li><a href="http://statephone.utah.gov/phone/">State Telephone Directory</a></li> 
+         <li><a href="./data">Utah Data</a></li> 
+         <li><a href="./open">Open Government</a></li> 
+        </ul> 
+        <div class="feature"> 
+         <ul class="gov-priorities"> 
+          <li class="gov-jobs"><a href="https://www.utah.gov/governor/priorities/jobs.html">Jobs</a></li> 
+          <li class="gov-education"><a href="https://www.utah.gov/governor/priorities/education.html">Education</a></li> 
+          <li class="gov-energy"><a href="https://www.utah.gov/governor/priorities/energy.html">Energy</a></li> 
+          <li class="gov-self"><a href="https://www.utah.gov/governor/priorities/self-determination.html">Self-Determination</a></li> 
+         </ul> 
+         <ul class="gov-social"> 
+          <li class="inline-li twitter"><a href="https://twitter.com/GovHerbert" title="twitter">Twitter</a></li> 
+          <li class="inline-li facebook"><a href="http://www.facebook.com/pages/Gary-R-Herbert/211722425515547" title="Facebook">Facebook</a></li> 
+          <li class="inline-li rss"><a href="./whatsnew/rss.xml?category=governor-herbert-press-release" title="News Feed">RSS</a></li> 
+          <li class="inline-li youtube"><a href="https://www.youtube.com/channel/UCNX6TJOMJifBK9ajUjqp-PQ" title="YouTube">YouTube</a></li> 
+         </ul> 
+         <a href="./government/governor.html" class="gov-link"> 
+          <!-- <img src="./images/infographics/menu/governor.png" alt="Governor Gary Herbert" class="gary"> --> <h4>Governor Gary Herbert</h4> </a> 
+        </div>
+        <!-- /.feature --> 
+       </div>
+       <!-- /.container --> 
+      </div>
+      <!--/.drop-down--> </li>
+     <!-- /#nav-government --> 
+     <li id="nav-services"> <a id="link-services" href="./services/" title="Online Services"> 
+       <svg enable-background="new 0 0 28 28" height="28" preserveaspectratio="none" viewbox="0 0 28 28" width="28" xmlns="http://www.w3.org/2000/svg">
+        <path d="m13.5 10.5 3 3c.2 0 .5-.1.7-.1.4 0 .9.1 1.3.2 1.7.4 3.6-.1 5-1.4 1.5-1.5 1.9-3.7 1.2-5.6l-2.7 2.7c-.9.9-2.3.9-3.2 0s-.9-2.3 0-3.2l2.7-2.7c-1.9-.7-4.1-.3-5.6 1.3-1.4 1.4-1.8 3.3-1.4 5z" />
+        <path d="m12.9 18.4c-.1-.5-.1-.9 0-1.4l-3-3-6.1 6.1c-1.1 1.1-1.1 2.9 0 4s2.9 1.1 4 0l5.2-5.1c0-.2-.1-.4-.1-.6zm-6.1 4.7c-.5.5-1.4.5-1.9 0s-.5-1.4 0-1.9 1.4-.5 1.9 0 .5 1.3 0 1.9z" />
+        <path d="m16 15.2-6.9-6.9-.4-1.8c0-.2-.2-.3-.3-.4l-3.2-1.9c-.2-.1-.6-.1-.8.1l-.6.6c-.2.3-.3.6-.1.9l1.9 3.1c.1.2.2.3.4.3l1.8.4 6.9 6.9c-.5 1-.3 2.2.6 3.1l4.5 4.5c1.1 1.1 2.8 1.1 3.9 0s1.1-2.8 0-3.9l-4.5-4.5c-.9-.8-2.2-.9-3.2-.5z" />
+       </svg> <span>Services</span></a> 
+      <div class="drop-down"> 
+       <div class="container"> 
+        <h3><a href="./services/">Online Services</a></h3> 
+        <ul> 
+         <li class="nav-more"><a href="./services/">View Utah.gov Online Services</a></li> 
+         <li><a href="./services/">Utah.gov Online Services</a></li> 
+         <li><a href="./services/citizen.html">Citizen Services</a></li> 
+         <li><a href="./business/industry.html?type=Business">Business Services</a></li> 
+         <li><a href="./services/government.html">Gov to Gov Services</a></li> 
+         <li><a href="./services/financial.html">Financial</a></li> 
+         <li><a href="./services/legal.html">Legal</a></li> 
+         <li><a href="./registration/">Utah.gov Registration</a></li> 
+         <li><a href="./alerts/">Citizen Alerts</a></li> 
+         <li><a href="./trending/">Trending</a></li> 
+        </ul> 
+        <div class="feature"> 
+         <a href="./services/" class="infographic"> <img src="./images/infographics/menu/services.png" alt="Online services"> <h4>Smarter</h4> <em>eGovernment</em> </a> 
+        </div> 
+       </div>
+       <!-- /.container --> 
+      </div>
+      <!--/.drop-down--> </li>
+     <!-- /#nav-services --> 
+     <li id="nav-employment"> <a id="link-employment" href="./employment/" title="Employment"> 
+       <svg enable-background="new 0 0 200 200" height="24" preserveaspectratio="none" viewbox="0 0 24 24" width="24">
+        <g fill="#676767">
+         <path d="m13.6 15v.1c0 .4-.3.7-.7.7h-1.8c-.4 0-.7-.3-.7-.7v-.1c-2.7-.1-5.1-.4-7.1-.9-1.4-.4-2.5-.9-3.3-1.4v7.5c0 1 .8 1.8 1.8 1.8h20.4c1 0 1.8-.8 1.8-1.8v-7.4c-2.2 1.4-6.4 2.1-10.4 2.2z" />
+         <path d="m22.2 6.7h-20.4c-1 0-1.8.8-1.8 1.8v1.9c0 1.7 4.5 3 10.4 3.2v-.3c0-.4.3-.7.7-.7h1.8c.4 0 .7.3.7.7v.3c5.8-.2 9.6-1.4 10.4-2.7v-2.4c0-1-.8-1.8-1.8-1.8z" />
+         <path d="m8.7 5.2v-.6c0-.4.3-.7.7-.7h5.4c.4 0 .7.3.7.7v.6h2v-1.3c0-1-.8-1.9-1.9-1.9h-7c-1 0-1.9.8-1.9 1.9v1.3z" />
+        </g>
+       </svg> <span>Employment</span> </a> 
+      <div class="drop-down"> 
+       <div class="container"> 
+        <h3><a href="./employment/">Employment &amp; Jobs</a></h3> 
+        <ul> 
+         <li class="nav-more"><a href="./employment/">Employment News, Media &amp; Resources</a></li> 
+         <li><a href="http://jobs.utah.gov/jobseeker/">Find a Job</a></li> 
+         <li><a href="./careers/explore.html">Education &amp; Training</a></li> 
+         <li><a href="https://statejobs.utah.gov/">State Employment</a></li> 
+         <li><a href="./careers/">Careers</a></li> 
+        </ul> 
+        <div class="feature"> 
+         <a href="./employment/" class="infographic"> <img src="./images/infographics/menu/employment.png" alt="Employment"> <h4>Utah Employment</h4> <em>by County</em> </a> 
+        </div> 
+       </div>
+       <!-- /.container --> 
+      </div>
+      <!--/.drop-down--> </li>
+     <!-- /#nav-employment --> 
+     <li id="nav-business"> <a id="link-business" href="./business/" title="Business"> 
+       <svg enable-background="new 0 0 200 200" height="24" preserveaspectratio="none" viewbox="0 0 24 24" width="24">
+        <path d="m19.1 22.9v-8l-1.4-1.1v-12.7h-1.3v-1.1h-5.8v1.1h-4.4v5.9l-1.3 1.1v14.8h-1.5v1.1h17.2v-1.1zm-9.5-1.2h-2.3v-2.3h2.3zm0-3.4h-2.3v-2.3h2.3zm0-3.4h-2.3v-2.3h2.3zm0-3.5h-2.3v-2.3h2.3zm0-3.4h-2.3v-2.3h2.3zm0-3.4h-2.3v-2.3h2.3zm3.5 17.1h-2.3v-2.3h2.3zm0-3.4h-2.3v-2.3h2.3zm0-3.4h-2.3v-2.3h2.3zm0-3.5h-2.3v-2.3h2.3zm0-3.4h-2.3v-2.3h2.3zm0-3.4h-2.3v-2.3h2.3zm3.5 17.1h-2.3v-2.3h2.3zm0-3.4h-2.3v-2.3h2.3zm0-3.4h-2.3v-2.3h2.3zm0-3.5h-2.3v-2.3h2.3zm0-3.4h-2.3v-2.3h2.3zm0-3.4h-2.3v-2.3h2.3z" />
+       </svg> <span>Business</span></a> 
+      <div class="drop-down"> 
+       <div class="container"> 
+        <h3><a href="./business/">Business</a></h3> 
+        <ul> 
+         <li class="nav-more"><a href="./business/">Business News, Media &amp; Resources</a></li> 
+         <li><a href="./business/industry.html?type=Business">Online Business Services</a></li> 
+         <li><a href="./business/starting.html">Starting a Business</a></li> 
+         <li><a href="./business/running.html">Running a Business</a></li> 
+         <li><a href="http://business.utah.gov/relocate/incentives/">Relocating a Business</a></li> 
+         <li><a href="./business/closing.html">Dissolving a Business</a></li> 
+         <li><a href="./business/starting/assess.html">Assess Your Business Idea</a></li> 
+         <li><a href="./business/starting/structure_starting.html">Select Your Business Structure</a></li> 
+         <li><a href="./business/starting/plan.html">Prepare a Written Business Plan</a></li> 
+         <li><a href="./business/starting/government_starting.html">Government Business Requirements</a></li> 
+         <li><a href="./business/starting/financial_starting.html">Financial Resources</a></li> 
+        </ul> 
+        <div class="feature"> 
+         <a href="./business/" class="infographic"> <img src="./images/infographics/menu/business.png" alt="Business"> <h4>Online Services</h4> <em>Benefit Utah Business</em> </a> 
+        </div> 
+       </div>
+       <!-- /.container --> 
+      </div>
+      <!--/.drop-down--> </li>
+     <!-- /#nav-business --> 
+     <li id="nav-education"> <a id="link-education" href="./education/" title="Education"> 
+       <svg enable-background="new 0 0 200 200" height="24" preserveaspectratio="none" viewbox="0 0 24 24" width="24">
+        <path d="m19.4 18.3c-3-1.1-5.6 0-7.3 1.9-1.8-1.9-4.5-3-7.2-1.9h-.1v-5.9c2.2-.9 4.7-1.4 7.2-1.4 2.6 0 5.1.5 7.3 1.4z" />
+        <path d="m3.9 13.3v-.8-.7l.6-.3c2.3-1 4.9-1.5 7.6-1.5s5.4.5 7.7 1.5l.6.3v.7.6l3.5-2.1-11.7-7.2-12.2 7.3z" />
+       </svg> <span>Education</span></a> 
+      <div class="drop-down"> 
+       <div class="container"> 
+        <h3><a href="./education/">Education</a></h3> 
+        <ul> 
+         <li class="nav-more"><a href="./education/">Education News, Media &amp; Resources</a></li> 
+         <li><a href="./education/k12.html">K - 12 Education</a></li> 
+         <li><a href="./education/colleges.html">Colleges &amp; Universities</a></li> 
+         <li><a href="./education/edresources.html">Educational Resources</a></li> 
+         <li><a href="http://stem.utah.gov">STEM</a></li> 
+         <li><a href="http://ilovehistory.utah.gov/">Utah History for Kids</a></li> 
+         <li><a href="./education/homeworkhelp.html">Homework Help</a></li> 
+         <li><a href="./education/libraries.html">Libraries</a></li> 
+         <li><a href="./education/studentnet.html">Student Network</a></li> 
+         <li><a href="./education/schoolreports.html">School Reports</a></li> 
+        </ul> 
+        <div class="feature"> 
+         <a href="./education/" class="infographic"> <img src="./images/infographics/menu/education.png" alt="Education"> <h4>Prosperity</h4> <em>2020 Goals for Education</em> </a> 
+        </div> 
+       </div>
+       <!-- /.container --> 
+      </div>
+      <!--/.drop-down--> </li>
+     <!-- /#nav-education --> 
+     <li id="nav-residents"> <a id="link-residents" href="./residents/" title="Residents"> 
+       <svg enable-background="new 0 0 200 200" height="24" preserveaspectratio="none" viewbox="0 0 24 24" width="24">
+        <path d="m11.3 6.3-7.2 6.3v8.2c0 .7.5 1.2 1.1 1.2h4.3v-8h5.1v8h4.3c.6 0 1.1-.5 1.1-1.2v-8.2l-7.2-6.3c-.5-.4-1.1-.4-1.5 0z" />
+        <path d="m23.9 11.8-4-3.4v-5.7c0-.4-.3-.7-.7-.7h-1.7c-.4 0-.7.3-.7.7v3l-3.7-3.2c-.7-.6-1.7-.6-2.4 0l-10.6 9.3c-.2.2-.1.7.3.7h1.9l8.8-7.7c.5-.4 1.2-.4 1.7 0l8.8 7.7h1.9c.5 0 .6-.5.4-.7z" />
+       </svg> <span>Residents</span></a> 
+      <div class="drop-down"> 
+       <div class="container"> 
+        <h3><a href="./residents/">Residents</a></h3> 
+        <ul> 
+         <li class="nav-more"><a href="./residents/">Residents News, Media &amp; Resources</a></li> 
+         <li><a href="./residents/citandcom.html">Citizen &amp; Community</a></li> 
+         <li><a href="./residents/healthandss.html">Health &amp; Social Services</a></li> 
+         <li><a href="./residents/newcomers.html">Newcomers Guide</a></li> 
+         <li><a href="./residents/movingtoutah.html">Moving to Utah</a></li> 
+         <li><a href="./residents/carsandtrans.html">Cars &amp; Transportation</a></li> 
+         <li><a href="./residents/utahlaws.html">Utah Laws</a></li> 
+         <li><a href="./residents/taxes.html">Tax Information</a></li> 
+         <li><a href="./residents/arts.html">Arts &amp; Leisure</a></li> 
+         <li><a href="./residents/sports.html">Sports &amp; Recreation</a></li> 
+         <li><a href="http://justforyouth.utah.gov/">Just for Youth</a></li> 
+         <li><a href="./seniors/">Seniors.utah.gov</a></li> 
+         <li><a href="./neighbor/">Help Your Neighbor</a></li> 
+        </ul> 
+        <div class="feature"> 
+         <a href="./residents/" class="infographic"> <img src="./images/infographics/menu/residents.png" alt="Residents"> <h4>Utah's</h4> <em>Heritage &amp; Arts</em> </a> 
+        </div> 
+       </div>
+       <!-- /.container --> 
+      </div>
+      <!--/.drop-down--> </li>
+     <!-- /#nav-residents --> 
+     <li id="nav-visiting"> <a id="link-visiting" href="./visiting/" title="Visiting"> 
+       <svg enable-background="new 0 0 28 28" height="28" preserveaspectratio="none" viewbox="0 0 28 28" width="28" xmlns="http://www.w3.org/2000/svg">
+        <path d="m6.6 14.3c.2.1.7 1.4.7 1.4s1.2 1.1 1.3 1.9c.1.9-.1.9.1 1.9 0 .2-.3.4-.4.5-.2 0 .2.5.2.7v.7l-1.1-.2-6.4-.4s.3-.5.4-.5.8-.5.7-.6c0-.1-.1-.2-.1-.2s.6-.4.7-.5.5-.1.5-.1 0-.2 0-.3.1-.3.2-.3.2.2.2.2.2-3.2.2-3.4.3-.4.5-.5.2-.3 0-.4c-.1-.2 0-.3 0-.3l.1-.7v-.6s0-.6 0-.7-.2-.1-.3-.3-.2-.8 0-1c.3-.8.8-2.9.9-3.1.3-.3.3-.5.3-.5s0-.1 0-.2.4-.4.5-.5 0-.3.1-.4.1-.1.3-.2c.1-.1.1-.6.5-.8.1-.1.1-.2 0-.3s-.1-.2 0-.4c.3-.1 2.3-.8 2.7-.8h2.7s1.4.1 1.5.2.2 0 .2 0 2 .1 2 .3c.2.1.3.2.2.3 0 .1.1.4.1.4s.1.5.1.7c-.1.2.1.3-.3.3s0 .2.2.3 1.4 1.3 1.4 1.4c.1.1 0 .2 0 .2s.4.6.4.7.3.4.2.7c.3.1 1.2.5 1.4.5.4.1 1.3 1.6 1.7 2.2.2.1.8 1.2 1.1 1.7s1 2.1 1.3 2.3c.2.2.2.3.3.4 0 .1.8 1.1.8 1.2s1 1.5.8 2.7c-.1.5.2.7-.3.8.2.3.7.4.8.6s.2.5.1.6c.3.1.5.4.6.7s.8.7.3.9-5.8.3-6.2.2c-.4-.2.2-.5.2-.8s-2.2 0-3.7-.2-2.6-.6-2.4-.8.3-.3.3-.4c-.1-.1-.2-.2-.2-.2s-.2-.1-.1-.3.1-.6.3-.7-.2-.1-.3-.3.6-3.9.5-4.8c0-.3.5-.9.3-1.2-.3-.3-.6-.5-.6-1s-.1-1.4-.2-1.6-.8-.8-1-.9-.6-.7-.7-.7c-.1-.1-1.1.2-1.4-1-.1-.2-.2-.1-.3-.2-.1 0 0-.1-.5 0-.4.2-.8.3-1 .5-.6.3-.8.7-1.1.9.1.2-.3.8-.2 1.1.1.2-.4.7-.7 1-.2.2.1.6-.3 1.1-.5.4-.8 1-1.1 1.1z" />
+       </svg> <span>Visiting</span></a> 
+      <div class="drop-down"> 
+       <div class="container"> 
+        <h3><a href="./visiting/">Visiting Utah</a></h3> 
+        <ul> 
+         <li class="nav-more"><a href="./visiting/">Visiting News, Media &amp; Resources</a></li> 
+         <li><a href="./visiting/travel.html">Travel &amp; Tourism</a></li> 
+         <li><a href="http://stateparks.utah.gov">State Parks</a></li> 
+         <li><a href="./visiting/arts.html">Arts &amp; Culture</a></li> 
+         <li><a href="./visiting/highwayinfo.html">Highway Information</a></li> 
+         <li><a href="./visiting/sports.html">Sports &amp; Recreation</a></li> 
+        </ul> 
+        <div class="feature"> 
+         <a href="./visiting/" class="infographic"> <img src="./images/infographics/menu/visiting.png" alt="Visit Utah"> <h4>Visit Utah</h4> <em>by the numbers</em> </a> 
+        </div> 
+       </div>
+       <!-- /.container --> 
+      </div>
+      <!--/.drop-down--> </li>
+     <!-- /#nav-visiting --> 
+     <li id="nav-about"> <a id="link-about" href="./about/" title="About Utah"> 
+       <svg enable-background="new 0 0 28 28" height="28" preserveaspectratio="none" viewbox="0 0 28 28" width="28" xmlns="http://www.w3.org/2000/svg">
+        <path d="m21.4 27-17.4-2.5 4.3-23.5 9.7 1.9-.3 2.2-.5 2.7 1.7.2 3.4.4 1.7.2z" />
+       </svg> <span>About</span></a> 
+      <div class="drop-down"> 
+       <div class="container"> 
+        <h3><a href="./about/">About Utah</a></h3> 
+        <ul> 
+         <li class="nav-more"><a href="./about/">About Utah News, Media &amp; Resources</a></li> 
+         <li><a href="./about/demographics.html">Demographics &amp; Statistics</a></li> 
+         <li><a href="./annualreports/">Annual Reports</a></li> 
+         <li><a href="./open/">Open Data</a></li> 
+         <li><a href="./about/symbols.html">State Symbols</a></li> 
+         <li><a href="./about/history.html">Utah History</a></li> 
+         <li><a href="./about/land.html">Land &amp; Environment</a></li> 
+         <li><a href="./about/quickfacts.html">Quick Facts</a></li> 
+         <li><a href="./maps/index.html">Utah Maps</a></li> 
+         <li><a href="./about/arts.html">Arts &amp; Leisure</a></li> 
+         <li><a href="./about/dashboards.html">Dashboards</a></li> 
+        </ul> 
+        <div class="feature"> 
+         <a href="./about/" class="infographic"> <img src="./images/infographics/menu/about.png" alt="About"> <h4>Quick Facts</h4> <em>About Utah</em> </a> 
+        </div> 
+       </div>
+       <!-- /.container --> 
+      </div>
+      <!--/.drop-down--> </li>
+     <!-- /#nav-about --> 
+     <li id="nav-connect"> <a id="link-connect" href="./connect/" title="Connect"> 
+       <svg enable-background="new 0 0 28 28" height="28" preserveaspectratio="none" viewbox="0 0 28 28" width="28" xmlns="http://www.w3.org/2000/svg">
+        <path d="m22.2 17.1c-1.4 0-2.7.6-3.6 1.6l-8.2-4c0-.3.1-.6.1-.8 0-.3 0-.5-.1-.8l8.2-3.9c.9 1 2.2 1.6 3.6 1.6 2.6 0 4.8-2.1 4.8-4.8s-2.1-4.8-4.8-4.8-4.8 2.1-4.8 4.8c0 .3 0 .5.1.8l-8.2 3.9c-.9-1-2.2-1.6-3.6-1.6-2.6 0-4.7 2.2-4.7 4.8s2.1 4.8 4.8 4.8c1.4 0 2.7-.6 3.6-1.6l8.2 4c0 .3-.1.6-.1.8 0 2.6 2.1 4.8 4.8 4.8s4.8-2.1 4.8-4.8-2.2-4.8-4.9-4.8z" />
+       </svg> <span>Connect</span> </a> 
+      <div class="drop-down"> 
+       <div class="container"> 
+        <h3><a href="./connect/">Connect to Utah.gov</a></h3> 
+        <ul> 
+         <li class="nav-more"><a href="./connect/">Social Connections Resources</a></li> 
+         <li><a href="./connect/facebook.html">Facebook</a></li> 
+         <li><a href="./connect/twitter.html">Twitter</a></li> 
+         <li><a href="./connect/googleplus.html">Google +</a></li> 
+         <li><a href="./connect/photos.html">Photos</a></li> 
+         <li><a href="./connect/youtube.html">YouTube</a></li> 
+         <li><a href="./connect/podcasts.html">Podcasts</a></li> 
+         <li><a href="./connect/widgets.html">Widgets</a></li> 
+         <li><a href="./connect/mobile.html">Mobile</a></li> 
+         <li><a href="./collaborate/index.html">Collaborate</a></li> 
+         <li><a href="./connect/presentations.html">Presentations</a></li> 
+         <li><a href="./connect/publications.html">Publications</a></li> 
+         <li><a href="./developer/index.html">Developers</a></li> 
+        </ul> 
+        <div class="feature"> 
+         <a href="./connect/" class="infographic"><em>Connect to Utah.gov</em></a> 
+        </div> 
+       </div>
+       <!-- /.container --> 
+      </div>
+      <!--/.drop-down--> </li>
+     <!-- /#nav-connect --> 
+    </ul> 
+   </nav>
+   <!--/#navigation--> 
+  </header> 
+  <main id="main"> 
+   <header> 
+    <ol class="breadcrumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"> 
+     <li><a href="./" title="Utah.gov">Home</a></li> 
+     <li>Latest <span class="newsTitle"></span> News</li> 
+    </ol> 
+    <div class="sharing"> 
+     <button type="button" id="socialShare" title="Share This Page">Share This Page</button> 
+     <ul id="socialmedialist"> 
+      <li class="twitter"> <a href="http://twitter.com/home?status=PAGE_TITLE%20." target="_blank" title="Share with Twitter Opens new window">t</a> </li> 
+      <li class="facebook"> <a href="https://www.facebook.com/sharer/sharer.php?u=." target="_blank" title="Share with Facebook Opens new window">f</a> </li> 
+      <li class="googleplus"> <a href="https://plus.google.com/share?url=." target="_blank" title="Share with Googleplus Opens new window">g+</a> </li> 
+      <li class="linkedin"> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=.&amp;title=PAGE_TITLE&amp;summary=PAGE_TITLE" target="_blank" title="Share with Linkedin Opens new window">in</a> </li> 
+      <li class="pinterest"> <a href="http://pinterest.com/pin/create/button/?url=.&amp;media=./images/facebook-share.jpg&amp;description=PAGE_TITLE" target="_blank" title="Share with Pinterest Opens new window">p</a> </li> 
+      <li class="email"> <a href="mailto:?subject=PAGE_TITLE&amp;body=http%3A%2F%2Fwww.utah.gov" target="_blank" title="Share with Email Opens new window">@</a> </li> 
+     </ul> 
+    </div> 
+    <section> 
+     <svg enable-background="new 0 0 500 500" viewbox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+      <g fill="#fff">
+       <path d="m400 387.5v-312.5h-375v310c0 22.5 17.5 42.5 42.5 42.5h325 47.5c-22.5 0-40-17.5-40-40zm-332.5 15c-10 0-17.5-7.5-17.5-17.5v-285h325v287.5c0 5 0 10 2.5 15z" />
+       <path d="m450 400c-17.5 0-25-7.5-25-25v-250h50v250c0 17.5-7.5 25-25 25z" />
+       <path d="m75 125h122.5v125h-122.5z" />
+       <path d="m80 275h265v22.5h-265z" />
+       <path d="m225 125h120v25h-120z" />
+       <path d="m225 175h120v25h-120z" />
+       <path d="m225 225h120v25h-120z" />
+      </g>
+     </svg> 
+     <h1>Latest <span class="newsTitle"></span> News</h1> 
+    </section> 
+   </header> 
+   <section class="news-categories"> 
+    <h2>
+     <svg enable-background="new 0 0 500 500" viewbox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+      <g fill="#fff">
+       <path d="m400 387.5v-312.5h-375v310c0 22.5 17.5 42.5 42.5 42.5h325 47.5c-22.5 0-40-17.5-40-40zm-332.5 15c-10 0-17.5-7.5-17.5-17.5v-285h325v287.5c0 5 0 10 2.5 15z" />
+       <path d="m450 400c-17.5 0-25-7.5-25-25v-250h50v250c0 17.5-7.5 25-25 25z" />
+       <path d="m75 125h122.5v125h-122.5z" />
+       <path d="m80 275h265v22.5h-265z" />
+       <path d="m225 125h120v25h-120z" />
+       <path d="m225 175h120v25h-120z" />
+       <path d="m225 225h120v25h-120z" />
+      </g>
+     </svg> News Categories</h2> 
+    <div class="container"> 
+     <ul class="grid_list_4"> 
+      <li class="newsCategory"><a href="./whatsnew.html">All Utah.gov News</a></li> 
+      <li class="newsCategory"><a href="./whatsnew.html?type=outdoor">Outdoors</a></li> 
+      <li class="newsCategory"><a href="./whatsnew.html?type=commerce">Commerce</a></li> 
+      <li class="newsCategory"><a href="./whatsnew.html?type=education">Education</a></li> 
+      <li class="newsCategory"><a href="./whatsnew.html?type=governor">Governor</a></li> 
+      <li class="newsCategory"><a href="./whatsnew.html?type=governor-herbert-press-release">Governor Press Releases</a></li> 
+      <li class="newsCategory"><a href="./whatsnew.html?type=lt-governor-bell-press-release">Lieutenant Governor Press Releases</a></li> 
+      <li class="newsCategory"><a href="./whatsnew.html?type=online-services">Online Services</a></li> 
+      <li class="newsCategory"><a href="./whatsnew.html?type=be-ready">Be Ready</a></li> 
+     </ul> 
+    </div> 
+   </section> 
+   <section class="newsfeed"> 
+    <h2 class="newsTitle">Utah.gov News</h2> 
+    <div class="container"> 
+     <!-- TOP 10 ITEMS --> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://wildlife.utah.gov/news/utah-wildlife-news/648-events-to-check-out-on-free-fishing-day.html">Events to check out on Free Fishing Day</a></h3> 
+      <p class="date">Wed, 29 May 2019</p> 
+     </div> 
+     <p class="synopsis"> Free Fishing Day will be held on Saturday, June 8, and allows anyone to fish at any public waterbody in Utah without a license. </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://stateparks.utah.gov/2019/05/21/join-us-at-johnstons-army-encampment/">Join us at Johnston's Army Encampment</a></h3> 
+      <p class="date">Tue, 21 May 2019</p> 
+     </div> 
+     <p class="synopsis"> Camp Floyd State Park Museum is gearing up to host Johnston's Army Encampment on Memorial Day Weekend. The event will allow visitors to experience camp life and participate in several activities performed by soldiers of Johnston's Army. </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://wildlife.utah.gov/news/utah-wildlife-news/622-utah-wildlife-board-approves-2019-big-game-hunts.html">Utah Wildlife Board approves 2019 big game hunts</a></h3> 
+      <p class="date">Fri, 10 May 2019</p> 
+     </div> 
+     <p class="synopsis"> Several big game populations are doing quite well in Utah, and so the wildlife board approved an increase in permits for several hunts this fall, including for doe deer and for buck and doe pronghorn. </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://wildlife.utah.gov/wildlife-news/2376-5-big-lakes-that-offer-great-spring-fishing.html ">5 big lakes for great spring fishing</a></h3> 
+      <p class="date">Mon, 08 Apr 2019</p> 
+     </div> 
+     <p class="synopsis"> If you are getting excited to take your fishing boat out for the first time this season, these five Utah lakes and reservoirs are a good place to start. </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://wildlife.utah.gov/wildlife-news/2365-staying-safe-around-bison-at-antelope-island.html">Antelope Island bison safety tips</a></h3> 
+      <p class="date">Wed, 20 Mar 2019</p> 
+     </div> 
+     <p class="synopsis"> Antelope Island State Park is a popular recreational destination for outdoor enthusiasts who enjoy hiking, camping, bird-watching and boating on the Great Salt Lake. </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://wildlife.utah.gov/wildlife-news/2362-tips-to-avoid-deer-vehicle-collisions.html">Tips to avoid deer/vehicle collisions</a></h3> 
+      <p class="date">Tue, 12 Mar 2019</p> 
+     </div> 
+     <p class="synopsis"> During the winter, there is an increase in wildlife along the roadways, primarily due to big game animals migrating to lower elevations in search of feed </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://wildlife.utah.gov/wildlife-news/2358-see-and-hear-wild-swans-in-utah-2.html">See and hear wild swans in Utah</a></h3> 
+      <p class="date">Thu, 07 Mar 2019</p> 
+     </div> 
+     <p class="synopsis"> The Division of Wildlife Resources will host the event on March 9. Admission is free. </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://wildlife.utah.gov/wildlife-news/2359-snowfall-brings-wildlife-into-utah-cities.html">Snowfall brings wildlife into Utah cities</a></h3> 
+      <p class="date">Fri, 01 Mar 2019</p> 
+     </div> 
+     <p class="synopsis"> What's going on this year? And what should you do if wildlife shows up in your backyard? </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://wildlife.utah.gov/wildlife-news/2357-time-is-running-out-3.html">Big game hunt applications due by March 7</a></h3> 
+      <p class="date">Tue, 19 Feb 2019</p> 
+     </div> 
+     <p class="synopsis"> If you want to hunt big game animals in Utah this fall, the clock is ticking. Applications for hunting permits are due no later than 11 p.m. on March 7. </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://wildlife.utah.gov/wildlife-news/2355-apply-for-bear-hunts-by-feb-25.html">Apply for bear hunts by Feb. 25</a></h3> 
+      <p class="date">Fri, 15 Feb 2019</p> 
+     </div> 
+     <p class="synopsis"> Feb. 25, 2019 is the last day to apply </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://stateparks.utah.gov/2019/02/11/10-things-to-remember-before-snowmobiling/">10 Things to Remember Before Snowmobiling</a></h3> 
+      <p class="date">Tue, 12 Feb 2019</p> 
+     </div> 
+     <p class="synopsis"> Before you start packing your backpack or checking the oil on your new snowmobile, it is important to check the weather conditions in your area to ensure it is safe to adventure out. </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://wildlife.utah.gov/wildlife-news/2353-watch-the-sky-turn-white-3.html">You can see thousands of geese at the annual Snow Goose Festival</a></h3> 
+      <p class="date">Mon, 11 Feb 2019</p> 
+     </div> 
+     <p class="synopsis"> It's a sight you have to see to believe: thousands of snow and Ross' geese lifting off Gunnison Bend Reservoir amid honks and the beating of wings. </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://stateparks.utah.gov/2019/01/28/2019-starvation-ice-derby/ ">2019 Starvation Ice Derby</a></h3> 
+      <p class="date">Mon, 04 Feb 2019</p> 
+     </div> 
+     <p class="synopsis"> This tournament consists of both walleye and trout categories ? with $1000 in total prizes. </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://wildlife.utah.gov/wildlife-news/2348-apply-to-hunt-big-game.html">Jan. 31 is the first day to apply for a permit to hunt big game in Utah</a></h3> 
+      <p class="date">Wed, 30 Jan 2019</p> 
+     </div> 
+     <p class="synopsis"> Your application must be received through wildlife.utah.gov, no later than 11 p.m. on March 7, to be included in the draw for permits. </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://www.recreation.gov/lottery/available">Desolation Gray - Green River Lottery 2019</a></h3> 
+      <p class="date">Wed, 23 Jan 2019</p> 
+     </div> 
+     <p class="synopsis"> This lottery can give you a reservation during the following dates: Wed, May 1, 2019 to Mon, Sep 30, 2019 </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://wildlife.utah.gov/wildlife-news/2343-new-bear-hunts-approved.html">New bear hunts approved</a></h3> 
+      <p class="date">Tue, 15 Jan 2019</p> 
+     </div> 
+     <p class="synopsis"> Wildlife Board approves changes for Utah's 2019?2021 hunting seasons </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://utaholympiclegacy.org/sport/learn-to-curl/">The Utah Olympic Oval Learn to Curl Program is a great way to learn a new sport.</a></h3> 
+      <p class="date">Wed, 02 Jan 2019</p> 
+     </div> 
+     <p class="synopsis"> This two hour on-ice class teaches the fundamentals of curling ? including proper delivery, sweeping and basic strategy </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://utaholympiclegacy.org/activity/winter-tubing/">Soldier Hollow boasts the longest tubing lanes in Utah. </a></h3> 
+      <p class="date">Wed, 02 Jan 2019</p> 
+     </div> 
+     <p class="synopsis"> Soldier Hollow Nordic Center has upgraded its lift to a conveyor lift system ? meaning faster lifts and shorter lines. </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://www.visitutah.com/articles/14-must-ski-runs/">The Must-ski Run at Every Utah Ski Resort</a></h3> 
+      <p class="date">Fri, 28 Dec 2018</p> 
+     </div> 
+     <p class="synopsis"> Looking for deep powder, Olympic downhill and halfpipes or precision-engineered terrain parks? There's a Utah ski resort for that. </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://wildlife.utah.gov/wildlife-news/2332-get-on-the-ice-have-some-fun.html">Get on the ice, have some fun</a></h3> 
+      <p class="date">Wed, 26 Dec 2018</p> 
+     </div> 
+     <p class="synopsis"> Many local waters were heavily stocked with fish this fall. Once the ice forms, the fish will be looking for an easy meal. </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://utaholympiclegacy.org/location/soldier-hollow/">Winter Tubing Opens December 21st at Soldier Hollow</a></h3> 
+      <p class="date">Mon, 17 Dec 2018</p> 
+     </div> 
+     <p class="synopsis"> Soldier Hollow boasts the longest tubing lanes in Utah. With 1,200-foot sliding lanes and the new lift, tubing is the perfect way to take advantage of Utah?s beautiful winters. </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://wildlife.utah.gov/wildlife-news/2325-fishing-and-hunting-licenses-make-great-gifts.html">Fishing and hunting licenses as gifts</a></h3> 
+      <p class="date">Fri, 07 Dec 2018</p> 
+     </div> 
+     <p class="synopsis"> Looking for that perfect gift for the angler or hunter on your Christmas list? If so, a Utah fishing or hunting license might be the answer. </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://wildlife.utah.gov/wildlife-news/2320-have-fun-see-wild-elk-3.html">Have fun, see wild elk</a></h3> 
+      <p class="date">Mon, 26 Nov 2018</p> 
+     </div> 
+     <p class="synopsis"> Elk festival happens Dec. 8 </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://www.facebook.com/yourforestsyourfuture/videos/500843096991583/">More Than Just Forests | Dixie!</a></h3> 
+      <p class="date">Fri, 16 Nov 2018</p> 
+     </div> 
+     <p class="synopsis"> Nestled in the rugged southwestern corner of Utah, Dixie National Forest spans nearly 2 million acres of jaw-dropping scenery and endless vistas. </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://www.nps.gov/subjects/npscelebrates/veterans-day.htm">The National Park Service invites all visitors to remember our veterans by visiting any National Park Service site for free on Veterans Day.</a></h3> 
+      <p class="date">Thu, 08 Nov 2018</p> 
+     </div> 
+     <p class="synopsis"> This Veterans Day also marks the 100th anniversary of the end of hostilities of World War I, which took effect on the &amp;quot;eleventh hour of the eleventh day of the eleventh month&amp;quot; of 1918, also known as Armistice Day. </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://wildlife.utah.gov/wildlife-news/2307-pheasants-released-in-new-areas.html">Pheasants released in new areas</a></h3> 
+      <p class="date">Fri, 02 Nov 2018</p> 
+     </div> 
+     <p class="synopsis"> More than 10,000 pheasants will be released in Utah </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://wildlife.utah.gov/wildlife-news/2306-deer-opener-good-in-some-areas-slow-in-others.html">Deer opener good in some areas</a></h3> 
+      <p class="date">Fri, 26 Oct 2018</p> 
+     </div> 
+     <p class="synopsis"> The number of deer brought through a voluntary DWR check station off U.S. Highway 40 near Strawberry Reservoir was almost identical to last year. </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://stateparks.utah.gov/2018/10/18/volunteers-outfox-dangerous-trail/">Volunteers Outfox Dangerous Trail</a></h3> 
+      <p class="date">Tue, 23 Oct 2018</p> 
+     </div> 
+     <p class="synopsis"> The Utah State Parks OHV Program would like to extend a special thank-you to Brett Jeppesen and the hard working trail crew from the Heber-Kamas Ranger District. </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://stateparks.utah.gov/2018/10/05/volunteer-project-bridges-the-gap-between-generations/">Volunteer Project Bridges the Gap Between Generations</a></h3> 
+      <p class="date">Thu, 11 Oct 2018</p> 
+     </div> 
+     <p class="synopsis"> A group of dedicated OHV enthusiasts came together to work on a much-needed bridge project; bringing both an increase in aesthetics and safety to visitors. </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://wildlife.utah.gov/wildlife-news/2293-help-fight-poaching-in-utah.html">Help fight poaching in Utah</a></h3> 
+      <p class="date">Mon, 08 Oct 2018</p> 
+     </div> 
+     <p class="synopsis"> DWR officers patrol huge swaths of land in Utah, and they can't be everywhere. </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://wildlife.utah.gov/pdf/conservation_permit_report_2018.pdf">Utah's Conservation Permit Program Annual Report for 2018 </a></h3> 
+      <p class="date">Fri, 05 Oct 2018</p> 
+     </div> 
+     <p class="synopsis"> Utah?s Conservation Permit Program provides benefits to all Utah hunters. </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://wildlife.utah.gov/wildlife-news/2284-duck-hunting-tips.html">Duck hunting tips</a></h3> 
+      <p class="date">Wed, 26 Sep 2018</p> 
+     </div> 
+     <p class="synopsis"> Waterfowl hunt starts Oct. 6 in the Northern Hunting Zone </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://wildlife.utah.gov/wildlife-news/2273-migration-season-is-here-see-sandhill-cranes.html">See sandhill cranes at a wildlife viewing event on September 22nd. </a></h3> 
+      <p class="date">Fri, 14 Sep 2018</p> 
+     </div> 
+     <p class="synopsis"> On Sept. 22, you can see the birds ? and learn more about them ? as the Division of Wildlife Resources and its partners host a sandhill crane viewing day. </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://wildlife.utah.gov/wildlife-news/2270-take-a-young-person-duck-hunting-2.html">Two youth waterfowl hunts in Utah this month</a></h3> 
+      <p class="date">Mon, 10 Sep 2018</p> 
+     </div> 
+     <p class="synopsis"> A special Youth Waterfowl Hunt will be held in the Northern Zone on Sept. 22. In the Southern Zone, a youth hunt will be held on Sept. 29. </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://midwayswissdays.com/">Don't Miss the Magic of Swiss Days - August 31 and September 1</a></h3> 
+      <p class="date">Thu, 30 Aug 2018</p> 
+     </div> 
+     <p class="synopsis"> </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://business.facebook.com/UtahStateFair/">The 2018 Utah State Fair is September 6-16</a></h3> 
+      <p class="date">Sun, 26 Aug 2018</p> 
+     </div> 
+     <p class="synopsis"> Follow the Fair's Facebook page for regular updates. </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://wildlife.utah.gov/wildlife-news/2253-forest-grouse-hunt-looks-promising-2.html">Forest grouse hunt looks promising</a></h3> 
+      <p class="date">Fri, 24 Aug 2018</p> 
+     </div> 
+     <p class="synopsis"> Grouse numbers range from average to above average this fall </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://stateparks.utah.gov/parks/jordanelle/events-2/">August 18, 2018 EVENT - TriUtah Jordanelle Triathlon</a></h3> 
+      <p class="date">Tue, 14 Aug 2018</p> 
+     </div> 
+     <p class="synopsis"> The Jordanelle Triathlon is a classic. It's one of Utah's premier race venues, with some of the clearest open water, scenic bike courses, and a run course unlike any other event around. </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://wildlife.utah.gov/wildlife-news/2247-get-a-free-waterfowl-guidebook-2.html">Get a free waterfowl guidebook</a></h3> 
+      <p class="date">Mon, 13 Aug 2018</p> 
+     </div> 
+     <p class="synopsis"> It's hot outside, but a chance to scan through Utah's latest waterfowl guidebook is a sure sign fall can't be too far away. </p> 
+     <div id="meta"> 
+      <h3 class="headline"><a href="https://wildlife.utah.gov/wildlife-news/2246-don-t-wait-to-get-a-bull-elk-hunting-permit.html">Get a bull elk hunting permit</a></h3> 
+      <p class="date">Mon, 06 Aug 2018</p> 
+     </div> 
+     <p class="synopsis"> If you want to hunt bull elk in Utah this fall, it's easy to get a permit to hunt during the general season. Just log onto wildlife.utah.gov, or visit a Division of Wildlife Resources office </p> 
+     <div id="paging"> 
+      <p class="totalRecords">Total Records Found: 971</p> 
+      <span class="showing"> Showing 1 - 40 </span> 
+      <span class="nextPage"> <a href="?page=40&amp;&amp;type=outdoors"> Next Page </a> </span> 
+      <span class="lastPage"> <a href="?page=960&amp;&amp;type=outdoors"> Last Page </a> </span> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="feedback"> 
+    <script src="https://www.google.com/recaptcha/api.js"></script> 
+    <h2>Feedback 
+     <svg enable-background="new -360 137 28 28" height="28" viewbox="-360 137 28 28" width="28" xmlns="http://www.w3.org/2000/svg">
+      <path d="m-346 137c-7.1 0-13 5.3-13 11.9 0 5 3.4 9.3 8.4 11.1l-3.9 5s13.5-5 13.6-5.3c4.5-1.8 7.8-6.1 7.8-10.8.3-6.6-5.6-11.9-12.9-11.9zm2.1 21.6h-4.6v-4.7h4.6zm1.3-8.9c-1.1.7-1.2 2.3-1.2 2.3h-4.8c-.1 0-.4-2.8 1.6-3.9.7-.5 2.6-1.1 2.6-2.3 0-.8-.6-1.1-1.6-1.1-1.7 0-1.7 2.1-1.7 2.6h-5.2c.1-1.9.6-3.6 1.7-4.8s2.8-2.3 5.3-2.3c4.9 0 6.5 2.8 6.7 5.1 0 3.1-1.7 3.6-3.4 4.4z" />
+     </svg></h2> 
+    <div class="container"> 
+     <form id="feedback" name="feedback" method="post" action="https://www.utah.gov/formprocessor/index.uii"> 
+      <fieldset id="feedbackYesNo"> 
+       <legend>Was the information on this page helpful?</legend> 
+       <p> <input type="hidden" value="" id="pageName" name="pageName"> <label for="helpful_yes"><input type="radio" id="helpful_yes" value="yes" name="helpful"> Yes</label> <label for="helpful_no"><input type="radio" id="helpful_no" value="no" name="helpful"> No</label> </p> 
+      </fieldset> 
+      <fieldset id="feedbackQuestions"> 
+       <legend>How can this page be improved?</legend> 
+       <p> <label for="improvement">What were you looking for?</label> <textarea class="improvement" name="improvement" id="improvement"></textarea> </p> 
+       <p> <label for="emailAddress">Your Email Address:</label> <input type="text" id="emailAddress" name="emailAddress" placeholder="Email"> <input type="hidden" value="" id="searchValue" name="searchValue"> <input type="hidden" id="appName" value="UtahgovFeedbackForm" name="appName"> </p> 
+      </fieldset> 
+      <div class="g-recaptcha" data-sitekey="6LcnfQgTAAAAAAQo9tcJNSmgKKa7BePLiAqP3BWF"></div> 
+      <button type="submit" class="button blue hide" name="sendFeedbackButton" id="sendFeedbackButton">Send Your Feedback</button> 
+     </form> 
+    </div>
+    <!-- /.container --> 
+   </section> 
+  </main>
+  <!-- /main --> 
+  <footer> 
+   <ul id="footerSocial"> 
+    <li class="grid_1-5" id="iconConnectTwitter"><a href="./connect/twitter.html">Twitter</a></li> 
+    <li class="grid_1-5" id="iconFacebook"><a href="./connect/facebook.html">Facebook</a></li> 
+    <li class="grid_1-5" id="iconConnectMobile"><a href="./connect/mobile.html">Mobile</a></li> 
+    <li class="grid_1-5" id="iconWidgets"><a href="./connect/widgets.html">Widgets</a></li> 
+    <li class="grid_1-5" id="iconConnectPhotos"><a href="./connect/photos.html">Photos</a></li> 
+    <li class="grid_1-5" id="iconRSS"><a href="./connect/feeds.html">RSS</a></li> 
+    <li class="grid_1-5" id="iconConnectBlogs"><a href="./connect/blogs.html">Blogs</a></li> 
+    <li class="grid_1-5" id="iconYouTube"><a href="./connect/youtube.html">YouTube</a></li> 
+   </ul> 
+   <div class="wrapper"> 
+    <div class="flex-item"> 
+     <h4 id="footerHelp" class="footer-title"><a href="./contact.html">Help</a></h4> 
+     <ul> 
+      <li><a href="./maps/index.html">Utah Maps</a></li> 
+      <li><a href="./education/homeworkhelp.html">Homework Help</a></li> 
+      <li><a href="http://usa.gov/">USA.gov</a></li> 
+      <li><a href="http://beready.utah.gov">BeReady.utah.gov</a></li> 
+     </ul> 
+    </div> 
+    <div class="flex-item"> 
+     <h4 id="footerAlerts" class="footer-title"><a href="./alerts">Alerts</a></h4> 
+     <ul> 
+      <li><a href="http://udottraffic.utah.gov/">Traffic &amp; Weather</a></li> 
+      <li><a href="http://bci.utah.gov/utah-amber-alert-and-missing-person-advisory/utah-amber-alert/">Amber Alerts</a></li> 
+      <li><a href="./alerts/">Mobile Alerts</a></li> 
+      <li><a href="http://www.uw.org/211/">211 - Service Information</a></li> 
+      <li><a href="http://udottraffic.utah.gov/511.aspx">511 - Road/travel info</a></li> 
+      <li><a href="http://911.utah.gov/">911 - Emergency Help</a></li> 
+     </ul> 
+    </div> 
+    <div class="flex-item"> 
+     <h4 id="footerExecutive" class="footer-title"><a href="./government/executive.html">Executive</a></h4> 
+     <ul> 
+      <li><a href="https://www.utah.gov/governor/">Governor</a></li> 
+      <li><a href="http://firstlady.utah.gov/">First Lady</a></li> 
+      <li><a href="./ltgovernor/">Lt. Governor</a></li> 
+      <li><a href="http://attorneygeneral.utah.gov">Attorney General</a></li> 
+      <li><a href="./treasurer/">Treasurer</a></li> 
+      <li><a href="http://auditor.utah.gov/">State Auditor</a></li> 
+     </ul> 
+    </div> 
+    <div class="flex-item"> 
+     <h4 id="footerLegislative" class="footer-title"><a href="./government/legislative.html">Legislative</a></h4> 
+     <ul> 
+      <li><a href="http://le.utah.gov/">Legislature Web Site</a></li> 
+      <li><a href="http://le.utah.gov/asp/interim/Cal.asp">Legislative Calendar</a></li> 
+      <li><a href="http://le.utah.gov/Documents/find.htm">Find Your Legislator</a></li> 
+      <li><a href="http://www.utahsenate.org/">Utah Senate</a></li> 
+      <li><a href="http://le.utah.gov/house2/index.html">House of Representatives</a></li> 
+     </ul> 
+    </div> 
+    <div class="flex-item"> 
+     <h4 id="footerAwards" class="footer-title"><a href="./awards">Awards</a></h4> 
+     <p> <a href="http://www.govtech.com/cdg/digital-states/Digital-States-Survey-2018-Results.html"> <img src="./images/footer/awards2018.png" alt="Government Experience Award Winner"> </a> </p> 
+     <p>Over 100 awards set Utah.gov as one of the best government sites in the nation.</p> 
+     <p><a href="./awards/">View more of Utah.gov's award-winning projects</a> »</p> 
+    </div> 
+   </div>
+   <!-- footer col wrapper --> 
+   <ul id="portalFooter"> 
+    <li><a href="./sitemap.html">Site Map</a></li> 
+    <li><a href="./contact.html">Contact Utah.gov</a></li> 
+    <li><a href="./disclaimer.html">Terms of Use</a></li> 
+    <li><a href="./security.html">Security</a></li> 
+    <li><a href="./privacypolicy.html">Privacy Policy</a></li> 
+    <li><a href="./accessibility.html">Accessibility</a></li> 
+    <li><a href="https://secure.utah.gov/feedback/website.html">Feedback</a></li> 
+    <li><a href="./awards">Awards</a></li> 
+    <li><a href="./translate.html">Translate Utah.gov</a></li> 
+   </ul> 
+   <p class="copyright">Copyright © 2019 State of Utah - All rights reserved.</p> 
+  </footer> 
+  <div id="overlay"></div> 
+  <a href="#" id="backToTop">Back to Top</a> 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script> 
+  <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBLwAM3YmwhNvQkSEMnO-30YA3EBEEcbYk"></script> --> 
+  <script src="https://js.arcgis.com/4.10/"></script> 
+  <script src="./js/services.min.js?v=2"></script> 
+  <script src="./js/functions.min.js"></script> 
+  <script src="./js/pages/whatsnew/section.js"></script> 
+  <script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-827740-1', 'auto');
+	ga('send', 'pageview');
+</script>   
+  <script>
+	//Get Type from URL
+	var newsTitle = $('.newsTitle'),
+	whatsNewType = getURLpost('type');
+	//console.log(whatsNewType);
+	if (whatsNewType === 'governor-herbert-press-release' || whatsNewType === 'governor-herbert-press-advisory') {
+		newsTitle.html('Governor');
+	} else if (whatsNewType === 'lt-governor-bell-press-release') {
+		newsTitle.html('Lieutenant Governor');
+	} else if (whatsNewType === 'online-services') {
+		newsTitle.html('Online Services');
+	} else if (whatsNewType === 'be-ready') {
+		newsTitle.html('Be Ready');
+	} else if (whatsNewType === 'news') {
+		/*do nothing please*/
+	} else {
+		newsTitle.html(whatsNewType).css('text-transform', 'capitalize');
+	}
+	//$('.newsfeed p').html('<strong>' + whatsNewType + '</strong> news will load here.');
+</script>
+ </body>
+</html>

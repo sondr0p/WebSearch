@@ -1,0 +1,606 @@
+<!doctype html>
+<html class="no-js tn-html" lang="en">
+ <head> 
+  <title>State Symbols - About Tennessee - TN.gov</title> 
+  <meta charset="utf-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="keywords"> 
+  <meta name="description" content="Information about the State of Tennessee,'s official symbols,including the state flag, fruit, flowers, trees, and animals."> 
+  <meta name="url" content="https://www.tn.gov/about-tn/state-symbols.html"> 
+  <meta name="lastModified" content="8 Dec 2017 17:09:02 CST"> 
+  <meta name="pageType"> 
+  <meta name="pageDepartment" content="about-tn"> 
+  <meta name="pageDivision"> 
+  <meta name="newsDateTimeString"> 
+  <meta name="eventDateTimeString"> 
+  <meta name="searchType"> 
+  <meta name="pagePath" content="/content/tn/about-tn/state-symbols"> 
+  <meta name="category"> 
+  <meta property="og:title" content="State Symbols - About Tennessee - TN.gov"> 
+  <meta property="og:description" content="Information about the State of Tennessee,'s official symbols,including the state flag, fruit, flowers, trees, and animals."> 
+  <meta property="og:url" content="https://www.tn.gov/about-tn/state-symbols.html"> 
+  <meta property="og:image"> 
+  <meta name="twitter:card" content="summary"> 
+  <meta name="twitter:title" content="State Symbols - About Tennessee - TN.gov"> 
+  <meta name="twitter:description" content="Information about the State of Tennessee,'s official symbols,including the state flag, fruit, flowers, trees, and animals."> 
+  <meta name="twitter:url" content="https://www.tn.gov/about-tn/state-symbols.html"> 
+  <meta name="twitter:image"> 
+  <link rel="shortcut icon" href="/etc/clientlibs/tncore/main/img/favicon.ico"> 
+  <link rel="canonical" href="https://www.tn.gov/about-tn/state-symbols.html"> 
+  <link rel="stylesheet" href="/etc/clientlibs/tncore/main.min.7b7f24489495d82cdd3b7a88107b9f76.css" type="text/css"> 
+  <link rel="stylesheet" href="/etc/clientlibs/tn-sites/tngov.min.de4d4402ec2138999b5540dbe08724b4.css" type="text/css"> 
+  <script src="//assets.adobedtm.com/046dcefde06052c1522b33b00453f0592c8031e1/satelliteLib-0eaceea9a3f6b60d158884d8c7daf5435071c1e5.js"></script> 
+ </head> 
+ <body class="tngov" data-selectors="[]" data-template="leftNav"> 
+  <div class="sr-only sr-only-focusable"> 
+   <p><a href="#main">Skip to Main Content</a></p> 
+  </div> 
+  <noindex> 
+   <div> 
+   </div> 
+   <div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+      <div class="tn_header tn-header">
+       <header id="header"> 
+        <div class="row center-block top-nav"> 
+         <a class="logo" href="https://www.tn.gov/" data-logo="state-government" style="background-image: url('/etc/clientlibs/tncore/main/img/logos/tn-logo.png')"> 
+          <div>
+           Home
+          </div> </a> 
+         <a class="search-all icon-home-1" href="https://www.tn.gov/">Go to TN.gov</a> 
+        </div> 
+        <div class="row center-block agency"> 
+         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 columns title"> 
+          <a href="/content/tn.html"> <img src="/content/dam/headers/state-government.png" alt="  State of Tennessee" id="entity-name" data-pin-nopin="true"> </a> 
+         </div> 
+         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 columns text-right"> 
+          <div class="tn-headersearch">
+           <div class="search"> 
+            <form method="get" action="/search-results.html"> 
+             <input type="text" class="search-box" name="q" placeholder="Search All Tennessee Government" aria-label="Search All Tennessee Government"> 
+             <input type="submit" value="Search" class="search-button"> 
+             <i class="icon-search"></i> 
+            </form> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="backdrop" style="background-image:url(/content/dam/headers/test.jpg)"></div> 
+        <div class="backdrop-color" style="background-color: rgba(110,112,115,0.20)"></div> 
+       </header> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="tn-topnav">
+    <nav id="nav"> 
+     <div class="row center-block"> 
+      <div class="col-lg-12"> 
+       <div class="logo-small tn-logo"> 
+        <a href="/content/tn.html"><span class="sr-only">Go to TN.gov</span></a> 
+       </div> 
+       <div class="mobile-show icon-menu mobile-menu">
+        Section
+       </div> 
+       <ul class="inline-list nav-items"> 
+        <li> <a href="/content/tn.html" class="icon-home"><span class="sr-only">Go to TN.gov</span></a> </li> 
+        <li class="dropdown"> <a href="/residents.html">Residents<i class="icon-down-dir"></i></a> 
+         <ul> 
+          <li><a href="/residents/cars-driving.html">Cars &amp; Driving</a></li> 
+          <li><a href="/residents/communities-mp-residents-btc.html">Communities</a></li> 
+          <li><a href="/residents/education.html">Education</a></li> 
+          <li><a href="/residents/children-and-families.html">Children and Families</a></li> 
+         </ul> </li> 
+        <li class="dropdown"> <a href="/business.html">Business<i class="icon-down-dir"></i></a> 
+         <ul> 
+          <li><a href="/business/existing-businesses.html">Existing Businesses</a></li> 
+          <li><a href="/business/new-businesses-mp-business-btc.html">New Businesses</a></li> 
+          <li><a href="/business/licenses-permits.html">Licenses &amp; Permits</a></li> 
+          <li><a href="/business/doing-business.html">Doing Business</a></li> 
+         </ul> </li> 
+        <li class="dropdown"> <a href="/government.html">Government<i class="icon-down-dir"></i></a> 
+         <ul> 
+          <li><a href="/government/public-and-private-acts-and-resolutions.html">Public and Private Acts and Resolutions</a></li> 
+          <li><a href="/government/tennessee-rules-and-regulations.html">Tennessee Rules and Regulations</a></li> 
+          <li><a href="/government/legislative-bill-search0.html">Legislative Bill Search</a></li> 
+          <li><a href="/government/state-employees-.html">State Employees </a></li> 
+          <li><a href="/government/federal.html">Federal</a></li> 
+          <li><a href="/government/governor.html">Governor </a></li> 
+          <li><a href="/government/redirect-first-lady-crissy-haslam.html">First Lady </a></li> 
+          <li><a href="/government/elected-officials.html">Elected Officials</a></li> 
+         </ul> </li> 
+        <li> <a href="/employment.html">Employment</a> </li> 
+        <li class="dropdown"> <a href="/directory.html">Directory<i class="icon-down-dir"></i></a> 
+         <ul> 
+          <li><a href="/directory/department-directory.html">Department Directory</a></li> 
+          <li><a href="/directory/state-phone-directory.html">State Phone Directory</a></li> 
+          <li><a href="/directory/county-city-web-sites.html">County &amp; City Web Sites</a></li> 
+          <li><a href="/directory/county-officials-listing.html">County Officials Listing</a></li> 
+          <li><a href="/directory/city-officials-listing.html">City Officials Listing</a></li> 
+          <li><a href="/directory/local-law-enforcement.html">Local Law Enforcement</a></li> 
+          <li><a href="/directory/find-your-legislator.html">Find Your Legislator</a></li> 
+         </ul> </li> 
+        <li> <a href="/help.html">Help</a> </li> 
+       </ul> 
+       <div class="right primary-print"> 
+        <a href="javascript:window.print();" class="icon-print"><span class="sr-only">Print This Page</span></a> 
+       </div> 
+       <div class="right secondary-print"> 
+        <a href="javascript:window.print();" class="icon-print"><span class="sr-only">Print This Page</span></a> 
+       </div> 
+       <div class="right secondary-search"> 
+        <a class="icon-search"><span class="sr-only">Go to Search</span></a> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="config hidden" data-config="{&quot;closeMenuText&quot;:&quot;Close Menu&quot;,&quot;menuText&quot;:&quot;Section&quot;}"></div> 
+    </nav> 
+   </div> 
+   <div class="tn-alerts"> 
+   </div> 
+  </noindex> 
+  <div id="main" tabindex="-1"> 
+   <div class="row center-block"> 
+    <div class="template-left-nav tn-leftnav"> 
+     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
+      <nav class="side expander"> 
+       <h2 class="border-red"> <a href="/about-tn.html">About Tennessee</a> </h2> 
+       <ul class="block-list"> 
+        <li class="active"> <a href="/about-tn/state-symbols.html">State Symbols</a> </li> 
+        <li> <a href="/about-tn/state-holidays.html">State Holidays</a> </li> 
+        <li> <a href="/about-tn/state-songs.html">State Songs</a> </li> 
+        <li> <a href="/about-tn/flag-status.html">Flag Status</a> </li> 
+        <li> <a href="/about-tn/maps.html">Maps</a> </li> 
+       </ul> 
+      </nav> 
+     </div> 
+    </div> 
+    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 content"> 
+     <article> 
+      <div class="tn-pagetitle show" aria-hidden="false"> 
+       <h1>State Symbols</h1> 
+      </div> 
+      <div> 
+       <div class="tn-panel">
+        <div class="panel"> 
+         <div> 
+          <div class="tn-textandimage textimage parbase"> 
+           <div class="textimage-text"> 
+            <h2>Flag</h2> 
+            <p>Adopted in 1905, the flag features three stars representing the grand divisions of the state: East, Middle and West. The stars are bound together in indissoluble unity by an unending white band.</p> 
+            <p><b>Two official salutes to the Tennessee flag have been adopted.</b></p> 
+            <p>The first official salute was written by Lucy Steele Harrison and adopted in 1981:<br> "Three white stars on a field of blue<br> God keep them strong and ever true<br> It is with pride and love that we<br> Salute the Flag of Tennessee."</p> 
+            <p>The second official salute was written by Miss John Bostick and adopted in 1987:<br> "Flag of Tennessee, I salute thee<br> To thee I pledge my allegiance with<br> My affection, my service and my life."</p> 
+           </div> 
+           <div class="clear"></div>
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tn-panel">
+        <div class="panel"> 
+         <div> 
+          <div class="tn-textandimage textimage parbase"> 
+           <div class="textimage-text"> 
+            <h2>Amphibian</h2> 
+            <h3>Tennessee Cave Salamander</h3> 
+            <p>The Tennessee Cave Salamander,&nbsp;<i>Gyrinophilu palleucus</i>, was named&nbsp;<b>official state amphibian</b>&nbsp;in 1995. This large, cave-dwelling salamander has three red external gills, a broad, flat head with small eyes and a tail fin. It is most often found in limestone caves that contain streams in central and southeast Tennessee.&nbsp;</p> 
+           </div> 
+           <div class="clear"></div>
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tn-panel">
+        <div class="panel"> 
+         <div> 
+          <div class="tn-textandimage textimage parbase"> 
+           <div class="textimage-text"> 
+            <h2>Beverage</h2> 
+            <h3>Milk</h3> 
+            <p>Milk was designated as the&nbsp;<b>official state beverage</b>&nbsp;in 2009.</p> 
+            <p>Milk is an essential component to building strong muscle and bones in children, as well as mending injured muscle and bones in adults. Other benefits cited include milk’s help in building strong and healthy teeth, hair, skin and nails. Tennessee’s dairy industry produced nearly 100 million pounds of milk in 2007, with cash receipts for milk and milk products totaling nearly $202 million.</p> 
+           </div> 
+           <div class="clear"></div>
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tn-panel">
+        <div class="panel"> 
+         <div> 
+          <div class="tn-textandimage textimage parbase"> 
+           <div class="textimage-text"> 
+            <h2>Birds</h2> 
+            <h3>Mockingbird</h3> 
+            <p>The Mockingbird,&nbsp;<i>Mimus polyglottos</i>, was selected as the&nbsp;<b>official state bird</b>&nbsp;in 1933.</p> 
+            <p>The Mockingbird is akin to the Brown Thrasher and the Catbird. It is ashen gray above, with darker, white-edged wings and whitish under parts; its length, inclusive of the long tail, is about 10 inches. One of the finest singers among North American birds, it possesses a melodious song of its own, and is especially noted for its skill in mimicking the songs of other birds.</p> 
+            <p>&nbsp;</p> 
+            <h3>Bobwhite Quail</h3> 
+            <p>The Bobwhite Quail,&nbsp;<i>genus Colinus virginianus</i>, was designated as the&nbsp;<b>official state game bird</b>&nbsp;in 1987. The Bobwhite, also known as the Partridge, is considered one of the finest game birds in the world. It is a short-tailed chunky brown bird, usually 8 to 10 inches long. The male has a white throat and a white stripe above the eye, while the female has a buffy throat and eye stripe. In spring the male’s clearly whistled bob white is answered by the female’s four-syllable whistle. This game bird lays from 10 to 20 pure white eggs, more than almost any other bird.</p> 
+           </div> 
+           <div class="clear"></div>
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tn-panel">
+        <div class="panel"> 
+         <div> 
+          <div class="tn-textandimage textimage parbase"> 
+           <div class="textimage-text"> 
+            <h2>Butterfly</h2> 
+            <h3>Zebra Swallowtail</h3> 
+            <p>The Zebra Swallowtail,&nbsp;<i>Eurytides marcellus</i>, was designated as Tennessee's&nbsp;<b>official butterfly</b>&nbsp;in 1995. This beautiful, winged insect has black and white stripes that run the length of its body with red and blue spots on its lower back. The swallowtail grows from a tiny egg into a caterpillar that eventually molts into its pupal stage and is transformed into this striking butterfly that can be found throughout most of the United States.</p> 
+           </div> 
+           <div class="clear"></div>
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tn-panel">
+        <div class="panel"> 
+         <div> 
+          <div class="tn-textandimage textimage parbase"> 
+           <div class="textimage-text"> 
+            <h2>Fish</h2> 
+            <h3>Smallmouth Bass</h3> 
+            <p>Tennessee’s&nbsp;<b>official sport fish</b>&nbsp;is the smallmouth bass, designated in 2005.</p> 
+            <p>The smallmouth bass replaced the largemouth bass as the official sport fish in 2005, due to its popularity and the fact that Tennessee has produced the five largest smallmouth bass in the world. The smallmouth bass,&nbsp;<i>Micropterus dolomieu</i>, often referred to as "bronzeback," will fight ounce for ounce harder than any other species of sport fish in Tennessee. The current state record, which is also the world record of 11 pounds, 15 ounces, was caught by D.L. Hayes at Dale Hollow Lake on July 9, 1955. It may be found in most streams and lakes in the state with the exception of West Tennessee.</p> 
+            <p>&nbsp;</p> 
+            <h3>Channel Catfish</h3> 
+            <p>The state&nbsp;<b>commercial fish</b>&nbsp;is the Channel Catfish,&nbsp;<i>Ictalurus lacustris</i>, which was also designated in 1987. The Channel Catfish, sometimes known as "Spotted Cat" or "Fiddler," is widely stocked and reared in farm ponds. It may be found in most Tennessee streams and many lakes. The channel catfish is a bottom-feeder and current feeder, generally taken by still fishing.</p> 
+           </div> 
+           <div class="clear"></div>
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tn-panel">
+        <div class="panel"> 
+         <div> 
+          <div class="tn-textandimage textimage parbase"> 
+           <div class="textimage-text"> 
+            <h2>Flowers</h2> 
+            <h3>Iris</h3> 
+            <p>The Iris,&nbsp;<i>genus Iridaceae</i>, is the&nbsp;<b>official state cultivated flower</b>. It is an herbaceous perennial of which there are about 170 species, including several North American varieties, the most common of which is the Blue Flag. While there are several different colors among the Iris, and the act naming the iris as the state flower did not name a particular color, by common acceptance the purple iris is considered the state flower.</p> 
+            <p>&nbsp;</p> 
+            <h3>Passion Flower</h3> 
+            <p>The Passion Flower,&nbsp;<i>genus Passiflora</i>, is one of the&nbsp;<b>official state wildflowers</b>. It grows wild in the southern part of the United States and in South America, is also commonly known as the maypop, the wild apricot and the ocoee. The last is the Indian name that has also been applied to the Ocoee River and valley. The Indians prized the Ocoee as the most abundant and beautiful of all their flowers. The Passion Flower received its name from the early Christian missionaries to South America, who saw in the various parts of the curiously constructed flower symbols of the Crucifixion—the three crosses, the crown of thorns, nails and cords.</p> 
+            <p>&nbsp;</p> 
+            <h3>Tennessee Coneflower</h3> 
+            <p>The Tennessee Coneflower,&nbsp;<i>Echinacea tennesseensis</i>, is one of the&nbsp;<b>official state wildflowers</b>. It is found only in the limestone and cedar glades of Middle Tennessee. It was thought to be extinct until it was rediscovered in the late 1960s. In 1979 it was one of the first plants to listed as endangered by the U.S. Due to the conservancy efforts, land was purchased to protect it, and the species recovered. It was designated in 2012.</p> 
+           </div> 
+           <div class="clear"></div>
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tn-panel">
+        <div class="panel"> 
+         <div> 
+          <div class="tn-textandimage textimage parbase"> 
+           <div class="textimage-text"> 
+            <h2>Fossil</h2> 
+            <h3>Pterotrigonia</h3> 
+            <p>Pterotrigonia (Scabrotrigonia) thoracica is the&nbsp;<b>official state fossil</b>, was designated in 1998.&nbsp;<i>Pterotrigonia (Scabrotrigonia) thoracica</i>&nbsp;(nicknamed "Ptero") was cretaceous bivalve fossil found in the Coon Creek Formation of West Tennessee. It was a shallow-burrowing suspension feeder that inhabited the ocean floor that was West Tennessee 70 million years ago. Shells of "Ptero" are preserved unaltered in great abundance and are easily recognized by collectors. "Ptero" now is extinct. In fact, the extinction event that was responsible for the demise of the dinosaurs 65 million years ago may have contributed to the demise of&nbsp;<i>Ptero (Scabrotrigonia) thoracica</i>.</p> 
+           </div> 
+           <div class="clear"></div>
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tn-panel">
+        <div class="panel"> 
+         <div> 
+          <div class="tn-textandimage textimage parbase"> 
+           <div class="textimage-text"> 
+            <h2>Fruit</h2> 
+            <h3>Tomato</h3> 
+            <p>The Tomato, scientifically known as the&nbsp;<i>Lycopersicon lycopersicum</i>, was designated as Tennessee’s&nbsp;<b>official state fruit</b>&nbsp;in 2003.</p> 
+           </div> 
+           <div class="clear"></div>
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tn-panel">
+        <div class="panel"> 
+         <div> 
+          <div class="tn-textandimage textimage parbase"> 
+           <div class="textimage-text"> 
+            <h2>Gem</h2> 
+            <h3>Tennessee River Pearls</h3> 
+            <p><a href="http://www.tennesseeriverpearls.com/gem/index.html">Tennessee River Pearls</a>&nbsp;come in all colors and they are "natural" -- just the way the mussel made them.</p> 
+            <p>The Caney Fork in Middle Tennessee was noted for its pearl-bearing mussels, and "pearling" was a favorite sport on Sunday afternoons at the turn of the century. After World War I, dams were built on many of the rivers, and the mussels lost their swift and shallow shoals. Also, the waters became more toxic and pearling became unprofitable. But, Tennessee river pearls are among the most beautiful and durable in the world. It was designated as an official state gem in 1979.</p> 
+           </div> 
+           <div class="clear"></div>
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tn-panel">
+        <div class="panel"> 
+         <div> 
+          <div class="tn-textandimage textimage parbase"> 
+           <div class="textimage-text"> 
+            <h2>Horse</h2> 
+            <h3>Tennessee Walking Horse</h3> 
+            <p>The Tennessee Walking Horse was named the&nbsp;<b>official state horse</b>&nbsp;in 2000. The Tennessee Walking Horse is bred mainly from Standardbred, Morgan, Thoroughbred, and American Saddlebred stock. The three, easy-riding gaits of this breed: the flat-foot walk, the running walk, and the canter, are all natural, inherited characteristics, making this breed one of the smoothest riding horses in the world. This breed was a practical utility horse in the beginning and evolved into a pleasure horse with its gentle ride. Tennessee Walking Horses generally range from 14.3 to 17 hands and weigh 900 to 1,200 pounds.</p> 
+           </div> 
+           <div class="clear"></div>
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tn-panel">
+        <div class="panel"> 
+         <div> 
+          <div class="tn-textandimage textimage parbase"> 
+           <div class="textimage-text"> 
+            <h2>Insects</h2> 
+            <h3>Firefly (Lightning Bug Beetle)</h3> 
+            <p>The firefly, or lightning bug beetle, is the popular name of the luminescent insects of the Lampyridae family. In Tennessee,&nbsp;<i>Photinus pyralls</i>&nbsp;is the most familiar species. Their extraordinary light is generated in special organs and it is most often white, yellow, orange, greenish blue or reddish.</p> 
+            <p>Rather small, they are blackish, brown, yellow or reddish in color. In certain species the females remain in the larvae state and are called glowworms. Most fireflies produce short rhythmic flashes which provide a signaling system to bring the sexes together and also a protective mechanism to repel predators.</p> 
+            <p>&nbsp;</p> 
+            <h3>Ladybeetle (Ladybug)</h3> 
+            <p>The ladybeetle, more commonly called ladybug or ladybird beetle, is the popular name given the Coccinella 7. This beetle was dedicated to the Virgin Mary and called "Beetle of Our Lady." They are around four-tenths of an inch long, brightly colored, round, with the popular ladybug having four black spots on each wing.</p> 
+            <p>Ladybugs are sold to farmers to control insect pests because they are important aphid predators. The life cycle is about four weeks as the ladybug larvae passes through four growth stages feeding on insects and insect eggs.</p> 
+            <p>In folk medicine ladybug beetles were used to cure various diseases including colic and the measles.</p> 
+            <p>&nbsp;</p> 
+            <h3>Honeybee</h3> 
+            <p>The&nbsp;<b>official state agricultural insect</b>&nbsp;is the Honeybee and was designated in 1990.</p> 
+            <p>The honeybee,<i>&nbsp;Apis mellifera</i>, is a social, honey-producing insect that plays a fundamental role in the production of all crops. It is also very popular for its production of honey and beeswax.</p> 
+            <p>The honeybee plays a vital economic role in Tennessee through its pollination of various crops, trees, and grasses. The honeybee is the only insect that can be moved for the express purpose of pollination.</p> 
+           </div> 
+           <div class="clear"></div>
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tn-panel">
+        <div class="panel"> 
+         <div> 
+          <div class="tn-textandimage textimage parbase"> 
+           <div class="textimage-text"> 
+            <h2>Mineral</h2> 
+            <h3>Agate</h3> 
+            <p>Agate is a cryptocrystalline quartz. This semiprecious gemstone is found in only a few areas of the state. It was designated as a&nbsp;<b>state rock</b>&nbsp;in 1969 and redesignated as the&nbsp;<b>state mineral</b>&nbsp;in 2009.</p> 
+           </div> 
+           <div class="clear"></div>
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tn-panel">
+        <div class="panel"> 
+         <div> 
+          <div class="tn-textandimage textimage parbase"> 
+           <div class="textimage-text"> 
+            <h2>Reptile</h2> 
+            <h3>Eastern Box Turtle</h3> 
+            <p>The Eastern Box Turtle,&nbsp;<i>Terrapene carolina</i>, was designated&nbsp;<b>official state reptile</b>in 1995. This peaceful creature usually reaches a length of less than six inches and has a shell of black or brown with spots of yellow, orange and red. This reptile usually lives between 30 to 60 years and never ventures far from its place of birth.</p> 
+           </div> 
+           <div class="clear"></div>
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tn-panel">
+        <div class="panel"> 
+         <div> 
+          <div class="tn-textandimage textimage parbase"> 
+           <div class="textimage-text"> 
+            <h2>Rock</h2> 
+            <h3>Limestone</h3> 
+            <p>Found just about everywhere in Tennessee, limestone was designated an&nbsp;<b>official state rock</b>&nbsp;in 1979. Tennessee marble, as the metamorphic version of limestone is known, is widely used in public and private buildings.</p> 
+           </div> 
+           <div class="clear"></div>
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tn-panel">
+        <div class="panel"> 
+         <div> 
+          <div class="tn-textandimage textimage parbase"> 
+           <div class="textimage-text"> 
+            <h2>Seal</h2> 
+            <p>The Roman numerals XVI signify that Tennessee was the 16th state to enter the Union. The plow, the sheaf of wheat and a cotton stalk symbolize the importance of agriculture, while the riverboat attests to the importance of river traffic to commerce. This was adopted as the&nbsp;<b>official state seal</b>&nbsp;in 1987.</p> 
+           </div> 
+           <div class="clear"></div>
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tn-panel">
+        <div class="panel"> 
+         <div> 
+          <div class="tn-textandimage textimage parbase"> 
+           <div class="textimage-text"> 
+            <h2>Tartan</h2> 
+            <p>In 1999 the General Assembly adopted an&nbsp;<b>official state tartan</b>&nbsp;to commemorate the important part played by persons of Scottish descent in the history of Tennessee. A tartan was designed with colors and symbolism relevant to this state:</p> 
+            <ul> 
+             <li><b>Natural white</b>, representing the unity of the three Grand Divisions of the State of Tennessee</li> 
+             <li><b>Dark green</b>, representing the importance of agriculture to the state</li> 
+             <li><b>Purple</b>, representing the state flower, the Iris</li> 
+             <li><b>Red</b>, representing the sacrifices made by Tennessee soldiers and pioneers</li> 
+             <li><b>Dark blue</b>, representing the mountains of Tennessee</li> 
+            </ul> 
+           </div> 
+           <div class="clear"></div>
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tn-panel">
+        <div class="panel"> 
+         <div> 
+          <div class="tn-textandimage textimage parbase"> 
+           <div class="textimage-text"> 
+            <h2>Trees</h2> 
+            <h3>Tulip Poplar</h3> 
+            <p>The Tulip Poplar was designated as an&nbsp;<b>official state tree</b>&nbsp;of Tennessee in 1947. As no state tree had ever before been designated, the adoption of an official tree seemed appropriate. The tulip poplar was chosen "because it grows from one end of the state to the other" and "was extensively used by the pioneers of the state to construct houses, barns, and other necessary farm buildings."</p> 
+            <p>&nbsp;</p> 
+            <h3>Eastern Red Cedar</h3> 
+            <p>The Eastern Red Cedar,&nbsp;<i>Juniperus virginiana</i>, was designated as the state evergreen tree in 2012. It is indigenous to the entire state and was one of the earliest landscape trees used by early pioneers, such as Andrew Jackson at the Hermitage. Cedar Knob was the name of the land upon which the State Capitol was built, and the street at the foot of the capitol was called Cedar Street (now Charlotte Avenue). The eastern red cedar is an integral part of an ecological niche in Tennessee called cedar glades, and is a sacred tree of the Cherokee peoples.</p> 
+           </div> 
+           <div class="clear"></div>
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tn-panel">
+        <div class="panel"> 
+         <div> 
+          <div class="tn-textandimage textimage parbase"> 
+           <div class="textimage-text"> 
+            <h2>Wild Animal</h2> 
+            <h3>Raccoon</h3> 
+            <p>In 1971, the Raccoon was adopted as Tennessee’s&nbsp;<b>official wild animal</b>. The Raccoon,&nbsp;<i>Procyon lotor</i>, is a furry animal that has a bushy, ringed tail and a band of black hair around its eyes which looks like a mask. Raccoons eat fish and frogs that they catch in rivers and streams. Raccoons living in Tennessee weigh from 12 to 25 pounds. Most males are larger than females. Raccoons walk like bears, with all four feet on the ground, and are good swimmers.</p> 
+           </div> 
+           <div class="clear"></div>
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </article> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="tn-backtotop">
+   <a href="#header" class="page-top icon-up"></a> 
+  </div> 
+  <noindex> 
+   <div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+     </div> 
+    </div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+     </div> 
+    </div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+      <div class="tn_footer tn-footer parbase"> 
+       <footer id="footer"> 
+        <div id="footer-top"> 
+         <div class="row"> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns"> 
+           <ul class="inline-list"> 
+            <li> <a href="/about-tn/flag-status.html" class="icon-flag" data-resource-path="/_jcr_content/footer/tn_footer"> </a> </li> 
+            <li id="footer-livechat" class="offline"> <a href="#" class="icon-chat" onclick="openFooterChat()" target="_blank"> Live Chat </a> 
+             <div class="livechat"> 
+              <script type="text/javascript">
+                                function openFooterChat() {
+                                    window.open ("https://help.tn.gov/sn_customerservice_tn_chat_selector.do", "popup", "width=900, height=600"); 
+                                 };
+                            </script> 
+             </div> </li> 
+           </ul> 
+          </div> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns text-right"> 
+           <ul class="inline-list"> 
+            <li> <a href="/help.html" class="icon-help-circled">Help</a> </li> 
+            <li id="footer-share"><a href="#" class="icon-export">Share</a> 
+             <div class="drop right"> 
+              <div class="box"> 
+               <span class="st_sharethis_large" displaytext="ShareThis"></span> 
+               <span class="st_facebook_large" displaytext="Facebook"></span> 
+               <span class="st_twitter_large" displaytext="Tweet"></span> 
+               <span class="st_googleplus_large" displaytext="Google +"></span> 
+               <span class="st_linkedin_large" displaytext="LinkedIn"></span> 
+               <script type="text/javascript">
+                                    var switchTo5x = true;
+                                </script> 
+               <script type="text/javascript" src="//ws.sharethis.com/button/buttons.js"></script> 
+               <script type="text/javascript">
+                                    if (typeof stLight !== 'undefined') {
+                                        stLight.options({
+                                            publisher : "5dc356bf-5442-455c-b483-ab8ca7d8cd15",
+                                            doNotHash : false,
+                                            doNotCopy : false,
+                                            hashAddressBar : false
+                                        });
+                                    }
+                                </script> 
+              </div> 
+             </div></li> 
+            <li id="footer-translate"><a href="#" class="icon-book">Translate</a> 
+             <div class="drop right"> 
+              <div class="box"> 
+               <div id="google_translate_element"></div> 
+              </div> 
+             </div></li> 
+            <li id="footer-fontsize"><a href="#" class="icon-font">Font Size</a> 
+             <div class="drop right"> 
+              <div class="box"> 
+               <ul class="inline-list"> 
+                <li><a class="button" data-font-size="small">a-</a></li> 
+                <li><a class="button active" data-font-size="normal">Normal</a></li> 
+                <li><a class="button" data-font-size="large">A+</a></li> 
+               </ul> 
+              </div> 
+             </div></li> 
+           </ul> 
+          </div> 
+         </div> 
+         <a class="starball"> <img src="/etc/clientlibs/tncore/main/img/footer-starball.png" alt="Tristar" width="100%"> </a> 
+        </div> 
+        <div id="footer-bottom"> 
+         <div class="row"> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns"> 
+           <ul class="inline-list"> 
+            <li> <a href="/state-services.html" class="first">TN.gov Services</a> <a href="/directory.html">TN.gov Directory</a> <a href="/transparenttn.html">Transparent TN</a> <a href="/web-policies/privacy-statement.html">Web Policies</a> </li> 
+           </ul> 
+          </div> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns text-right"> 
+           <ul class="inline-list"> 
+            <li> <a href="/about-tn/state-symbols.html">About Tennessee</a> <a href="/humanrights/file-a-discrimination-complaint/title-vi1/title-vi-disclaimer.html">Title VI</a> <a href="/web-policies/accessibility.html">Accessibility</a> <a href="/help.html">Help &amp; Contact</a> <a href="/survey.html">Survey</a> </li> 
+           </ul> 
+          </div> 
+         </div> 
+        </div> 
+       </footer> 
+       <div id="modal-footer"></div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <script type="text/javascript" src="/etc/clientlibs/tncore/main.min.73d9ee3d42191396dd2a3447bf54bab7.js"></script> 
+   <script type="text/javascript">_satellite.pageBottom();</script> 
+  </noindex> 
+  <div id="overlay"></div> 
+  <!-- Begin Dynamic Modal for Videos --> 
+  <div class="tn-videoModal modal fade" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="videoModal" aria-hidden="true"> 
+   <div class="modal-dialog"> 
+    <div class="modal-content"> 
+     <div class="modal-body"> 
+      <a href="#" data-dismiss="modal" class="close-video icon-cancel text-button">Close</a> 
+      <div class="videoWrapper"> 
+       <iframe src=""></iframe> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- End Dynamic Modal for Videos --> 
+  <!-- DTM Analytics Datalayer --> 
+  <script>
+            var digitalData = { pageInfo: {} };
+            digitalData.pageInfo.pageName = "about-tn:state-symbols";
+        </script>   
+ </body>
+</html>

@@ -1,0 +1,633 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <!-- InstanceBegin template="/Templates/ContentPage_Standard.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head> 
+  <!-- InstanceParam name="id" type="text" value="undefined" -->
+  <!-- InstanceParam name="class" type="text" value="secondTier topicHome" -->
+  <!-- InstanceParam name="content" type="boolean" value="true" -->
+  <!-- InstanceParam name="optionSpanish" type="boolean" value="false" -->
+  <!-- InstanceParam name="optionalFeatures" type="boolean" value="false" -->
+  <!-- InstanceParam name="OptionalLocalSearch" type="boolean" value="true" -->
+  <!-- InstanceParam name="OptionalLocalA-Z" type="boolean" value="false" -->
+  <!-- InstanceParam name="optionalExtra" type="boolean" value="false" -->
+  <!-- InstanceParam name="JqueryUI" type="boolean" value="false" -->
+  <!-- InstanceParam name="JqueryUiAccordion" type="boolean" value="false" -->
+  <!-- InstanceParam name="dojoLibrary" type="boolean" value="false" --> 
+  <meta http-equiv="content-type" content="text/html; charset=utf-8"> 
+  <!-- InstanceBeginEditable name="meta-data" --> 
+  <meta name="Description" content=""> 
+  <meta name="Keywords" content=""> 
+  <meta name="DC.Subject" content=""> 
+  <meta name="DC.Language" scheme="ISO 639-2" content="eng"> 
+  <!-- InstanceEndEditable --> 
+  <meta name="template.version" content="2.5.2"> 
+  <!-- @package: TemplatePackage 'B' @version: "2.5.2" --> 
+  <!-- InstanceBeginEditable name="title-tag" --> 
+  <title>CDC - Preventing Chronic Disease: Public Health Research, Practice and Policy</title> 
+  <!-- InstanceEndEditable --> 
+  <style type="text/css" media="tv">
+empty{color:#000};@import "http://www.cdc.gov/TemplatePackage/css/B/wysiwyg/wysiBaseHome.css"/**/;
+</style> 
+  <style type="text/css" media="screen, projection">
+@import "/TemplatePackage/css/B/base-float.css"/**/;
+</style> 
+  <script type="text/javascript" src="/TemplatePackage/js/B/jquery.js"></script> 
+  <script type="text/javascript" src="/TemplatePackage/js/B/jquery.watermark.js"></script> 
+  <script type="text/javascript" src="/TemplatePackage/js/B/common.js"></script> 
+  <script type="text/javascript" src="/TemplatePackage/js/B/startup.js"></script> 
+  <script type="text/javascript" src="/TemplatePackage/js/B/blocks-ie.js"></script> 
+  <script type="text/javascript" src="/TemplatePackage/js/B/video.js"></script> 
+  <script type="text/javascript" src="/TemplatePackage/js/B/navScripts.js"></script> 
+  <script type="text/javascript" src="/TemplatePackage/js/B/share.js"></script> 
+  <script type="text/javascript" src="/TemplatePackage/js/B/govdelivery.js"></script> 
+  <script type="text/javascript" src="/TemplatePackage/js/B/external.js"></script> 
+  <script type="text/javascript" src="/TemplatePackage/js/B/plugins.js"></script> 
+  <script type="text/javascript" src="/TemplatePackage/js/B/syndicateThisPage.js"></script> 
+  <script type="text/javascript" src="/TemplatePackage/js/B/css-include.js"></script> 
+  <script type="text/javascript" src="/TemplatePackage/js/B/socialMedia.js"></script> 
+  <!-- compliance patch for microsoft browsers --> 
+  <!--[if IE 6]>
+<script type="text/javascript" src="/TemplatePackage/js/B/pngfix.js"></script>
+<script type="text/javascript" src="/TemplatePackage/js/B/blocks-ie6.js"></script>
+<![endif]--> 
+  <!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="/TemplatePackage/css/B/ie7_fixes.css" />
+<![endif]--> 
+  <!--[if IE 8]>
+<link rel="stylesheet" type="text/css" href="/TemplatePackage/css/B/ie8_fixes.css" />
+<![endif]--> 
+  <!--[if lte IE 8]>
+<script type="text/javascript" src="/TemplatePackage/js/B/jquery.curvycorners.js"></script>
+<![endif]--> 
+  <style type="text/css" media="print">@import "/TemplatePackage/css/B/print.css";</style> 
+  <link rel="shortcut icon" href="/TemplatePackage/images/home/favicon.ico"> 
+  <link rel="home" href="https://www.cdc.gov/" title="Home"> 
+  <!-- Begin Survey scripts --> 
+  <script type="text/javascript" src="/JScript/foresee/foresee-trigger.js"></script> 
+  <script type="text/javascript" src="/JScript/foresee-variables.js"></script> 
+  <!-- End Survey scripts --> 
+  <!-- Local Topic Styles --> 
+  <!-- InstanceBeginEditable name="local-css" --> 
+  <style type="text/css" media="all">
+@import "/pcd/local/B/css/local.css"/**/;
+
+.toc	{
+	font: bold 15px Georgia, Palatino, Times New Roman, serif;
+	color: #000;
+	}
+	
+.smallgrey	{ 
+	font: 11px verdana, helvetica, arial, sans-serif;
+	color: #666;
+	}
+
+</style> 
+  <!--[if IE]>
+<script defer language="javascript" type="text/javascript">
+		var cdcLeftNav = new CDC.LeftNav("nav-primary");
+		cdcLeftNav.render();
+</script>
+<![endif]--> 
+  <!--[if ! IE]><!--> 
+  <script language="javascript" type="text/javascript">
+$().ready(function(){
+		var cdcLeftNav = new CDC.LeftNav("nav-primary");
+		cdcLeftNav.render();
+});
+</script> 
+  <!--<![endif]--> 
+  <!-- InstanceEndEditable --> 
+ </head> 
+ <body id="undefined" class="secondTier topicHome localSearch"> 
+  <div id="skipmenu"> 
+   <a href="#searchBoxLocal" class="skippy" title="Skip to search">Skip directly to local search</a> 
+   <a href="#az" class="skippy" title="Skip to A to Z list">Skip directly to A to Z list</a> 
+   <a href="#nav" class="skippy" title="Skip to navigation">Skip directly to navigation</a> 
+   <a href="#content-main" class="skippy" title="Skip to content">Skip directly to site content</a> 
+   <a href="#content-secondary" class="skippy" title="Skip to page options">Skip directly to page options</a> 
+  </div> 
+  <div id="wrapper"> 
+   <div class="top"></div> 
+   <div id="wrapper-inner"> 
+    <div id="branding"> 
+     <span id="homeward"><a href="https://www.cdc.gov/" title="Return to the CDC Home Page">CDC Home</a></span> 
+     <div id="branding-logo"> 
+      <div id="branding-logoImage">
+       <img src="/TemplatePackage/images/cdcHeaderLogo.gif" width="470" height="47" alt="CDC 24/7: Saving Lives. Protecting People.™" border="0">
+       <a href="https://www.cdc.gov/" title="CDC 24/7: Saving Lives. Protecting People.™"><span>CDC 24/7: Saving Lives. Protecting People.™</span></a>
+      </div> 
+      <div id="searchForm" class="searchResize">
+       <a name="search"></a> 
+       <form id="searchCDC" method="get" action="https://search.cdc.gov/search"> 
+        <fieldset> 
+         <div id="cdc-Query"> 
+          <label for="searchBox" class="overlabel search">Search The CDC</label> 
+          <input id="searchBox" class="searchBox" name="query" maxlength="256" type="text"> 
+         </div> 
+         <div id="cdc-Submit"> 
+          <!-- label for="searchButton" class="searchButton">Search Button</label --> 
+          <input id="searchButton" class="searchButton" src="/TemplatePackage/images/home/search_button.gif" name="searchButton" alt="Search" type="image"> 
+          <input name="action" value="search" type="hidden"> 
+         </div> 
+         <input type="hidden" name="utf8" value="?"> 
+         <input type="hidden" name="affiliate" value="cdc-main"> 
+        </fieldset> 
+       </form> 
+      </div> 
+     </div> 
+     <noscript> 
+      <div class="noscript">
+        Note: Javascript is disabled or is not supported by your browser. For this reason, some items on this page will be unavailable. For more information about this message, please visit this page: 
+       <a href="/Other/about_cdcgov.html" title="Browser requirements for CDC.gov">About CDC.gov</a>.
+      </div> 
+     </noscript> 
+     <!--<div id="emergency-alert">
+<h1></h1> 
+<p></p>
+<a href="#"></a>
+</div>--> 
+     <div id="topic-title">
+      <!-- InstanceBeginEditable name="topic-title" --> 
+      <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-50983885-1', 'cdc.gov');
+  ga('send', 'pageview');
+
+</script> 
+      <br> 
+      <a href="/pcd/index.htm"><img src="/pcd/images/logo_pcd.gif" alt="PCD Logo" width="398" height="36" style="margin-left: 10px;"></a>
+      <br> 
+      <br> 
+      <!-- InstanceEndEditable --> 
+     </div> 
+    </div> 
+    <div id="content"> 
+     <div id="content-inner"> 
+      <!-- ########## LEFT NAVIGATION STARTS HERE ########## --> 
+      <div id="nav-container">
+       <!-- InstanceBeginEditable name="left-nav-include" --> ?
+       <div id="nav"> 
+        <h3><a href="/pcd/index.htm"><em>PCD</em> Home</a></h3> 
+        <ul id="nav-primary"> 
+         <li><a href="/pcd/current_issue.htm">View Current Volume</a> </li> 
+         <li><a href="/pcd/issues/archive.htm">Issue Archive</a></li> 
+         <li><a href="/pcd/es/archive_es.htm">Archivo de números en español</a> 
+          <ul> 
+           <li><a href="#">Acerca de la revista </a> 
+            <ul> 
+             <li><a href="#">Política editorial</a></li> 
+             <li><a href="#">Junta editorial</a></li> 
+             <li><a href="#">Preguntas frecuentes</a></li> 
+            </ul> </li> 
+          </ul> </li> 
+         <li><a href="/pcd/issues/cme_activity.htm">Medscape CME Activity</a> </li>
+         <li><a href="/pcd/collections/index.htm"><em>PCD</em> Collections</a> </li>
+         <li><a href="/pcd/about_the_journal/index.htm">About the Journal</a> 
+          <ul> 
+           <li><a href="/pcd/about_the_journal/editorial_policy.htm">Editorial Policy</a></li> 
+           <li><a href="/pcd/about_the_journal/editorial_board.htm">Editorial Board</a></li> 
+           <li><a href="/pcd/about_the_journal/faqs.htm">FAQs</a></li> 
+          </ul> </li> 
+         <li><a href="/pcd/for_authors/index.htm">For Authors </a> 
+          <ul> 
+           <li><a href="/pcd/for_authors/general_information.htm">General Information</a></li> 
+           <li><a href="/pcd/for_authors/types_of_articles.htm">Types of Articles</a></li> 
+           <li><a href="/pcd/for_authors/manuscript_requirements.htm">Manuscript Requirements</a></li> 
+           <li><a href="/pcd/for_authors/references_guide.htm">References Guide</a></li> 
+           <li><a href="/pcd/for_authors/submit_manuscript.htm">How to Submit Manuscript</a></li> 
+          </ul> </li> 
+         <li><a href="/pcd/for_reviewers/index.htm">For Peer Reviewers </a> 
+          <ul> 
+           <li><a href="/pcd/for_reviewers/call_for_reviewers.htm">Call for Peer Reviewers</a></li> 
+           <li><a href="/pcd/for_reviewers/general_guidelines.htm">General Guidelines</a></li> 
+           <li><a href="/pcd/for_reviewers/reviewer_checklists.htm">Peer Review Checklists</a></li> 
+           <li><a href="/pcd/for_reviewers/review_manuscript.htm">Review a Manuscript</a></li> 
+          </ul> </li> 
+         <li><a href="/pcd/subscriptions/index.htm">Subscriptions </a> 
+          <ul> 
+           <li><a href="/pcd/subscriptions/email_privacy_policy.htm">E-mail Privacy Policy</a></li> 
+           <li><a href="/pcd/subscriptions/rss.htm">PCD RSS Feed</a></li> 
+           <li><a href="/pcd/subscriptions/syndication.htm">Content Syndication</a></li> 
+          </ul> </li> 
+         <li><a href="/pcd/dialogue/index.htm"><em>PCD</em> Dialogue</a></li> 
+         <li><a href="/pcd/announcements.htm">Announcements</a></li> 
+         <li><a href="/pcd/manuscript.htm">How to Submit a Manuscript</a></li> 
+         <li><a href="/pcd/faqs.htm">FAQs</a></li> 
+         <li><a href="/pcd/contactus.htm">Contact Us</a></li> 
+        </ul> 
+       </div> 
+       <div class="bottom"></div> 
+       <div class="related"> 
+        <div class="inner"> 
+         <h4> <span>Additional Resources</span></h4> 
+         <ul> 
+          <li><a href="http://wwwnc.cdc.gov/eid/" target="_blank" s_oid="http://wwwnc.cdc.gov/eid/" s_oidt="0">Emerging Infectious Diseases Journal</a></li> 
+          <li style="border: medium none;"><a href="http://www.cdc.gov/mmwr/" target="_blank">Morbidity and Mortality Weekly Report (MMWR)</a></li> 
+          <li style="border: medium none;"><a href="http://www.cdc.gov/vitalsigns" target="_blank">Vital Signs</a></li> 
+         </ul> 
+        </div> 
+        <div class="bot"> 
+        </div> 
+       </div> 
+       <!-- InstanceEndEditable --> 
+      </div> 
+      <!-- ########## BREADCRUMBS START HERE ########## --> 
+      <!-- InstanceBeginEditable name="breadcrumbs" --> 
+      <!-- InstanceEndEditable --> 
+      <div id="content-main"> 
+       <div class="main-inner"> 
+        <div class="syndicate"> 
+         <!-- InstanceBeginEditable name="content-main" --> 
+         <div class="subColumns"> 
+          <div class="c66l"> 
+           <div class="subcl"> 
+            <p><span class="currentissue">Volume 10</span><br> <span class="volume" id="IssueISSN">ISSN: 1545-1151</span></p> 
+            <p><span class="homefeaturetext" id="HighlightHeader">Just Released - May 09, 2013</span></p> 
+            <p><span class="indexarticle" id="HighlightItems_1"><a href="issues/2013/12_0288.htm">Survey of New York City Resident Physicians on Cause-of-Death Reporting, 2010 </a></span></p> 
+            <p><span class="indexarticle" id="HighlightItems_2"><a href="issues/2013/12_0293.htm">Recruiting Women for a Study on Perceived Risk of Cancer: Influence of Survey Topic Salience and Early Versus Late Response </a></span></p> 
+            <p><span class="indexarticle" id="HighlightItems_3"><a href="issues/2013/12_0271.htm">Using Current Smoking Prevalence to Project Lung Cancer Morbidity and Mortality in Georgia by 2020 </a></span></p> 
+            <p><span class="indexarticle" id="HighlightItems_4"><a href="issues/2013/12_0290.htm">Bidi and Hookah Use Among Canadian Youth: Findings From the 2010 Canadian Youth Smoking Survey </a></span></p> 
+            <p><span class="indexarticle" id="HighlightItems_5"><a href="issues/2013/06_0011e.htm">Erratum, Vol. 03, October 2006 Release </a></span></p> 
+            <p><span class="indexarticle" id="HighlightItems_6"><a href="issues/2013/12_0316e.htm">Erratum, Vol. 10, April 26 Release </a></span></p> 
+            <br> 
+            <p class="psmall"><a href="/pcd/current_issue.htm">See Full List of Articles</a></p> 
+           </div> 
+          </div> 
+          <!-- CARD DIV --> 
+          <div class="c33r"> 
+           <div class="module rounders"> 
+            <div class="inner"> 
+             <div class="t"></div> 
+             <div class="subColumns"> 
+              <div class="subc"> 
+               <h3>Get Moving</h3> 
+               <img alt="Photo of an e-card" src="http://t.cdc.gov/ecards/thumbnails/physical_activity/12_233690D_daniel_vitalsigns_eCards_august_04.jpg" width="150" height="84"> 
+               <p>May is National Physical Fitness and Sports Month. Want to be more active? <a target="_blank" href="http://t.cdc.gov/ecards/message.aspx?cardid=650&amp;category=160">Read this e-card</a> to learn how walking can help you get the recommended amount of weekly exercise.</p> 
+              </div> 
+             </div> 
+            </div> 
+            <div class="b"> 
+             <div></div> 
+            </div> 
+           </div> 
+          </div> 
+          <!-- END CARD DIV --> 
+         </div> 
+         <!-- Last week links  --> 
+         <div class="subColumns"> 
+          <hr width="100%" align="left" color="#C6D6B5" noshade size="1"> 
+          <div class="module noBorder bulleted-links"> 
+           <div class="inner"> 
+            <h3>Last Week’s Articles</h3> 
+            <div class="subColumns"> 
+             <div class="subc"> 
+              <ul> 
+               <li><a href="issues/2013/12_0215.htm">Local Health Department Use of Twitter to Disseminate Diabetes Information, United States </a></li> 
+               <li><a href="issues/2013/12_0281.htm">Incarceration of a Household Member and Hispanic Health Disparities: Childhood Exposure and Adult Chronic Disease Risk Behaviors </a></li> 
+               <li><a href="issues/2013/12_0252.htm">A Multilevel Approach to Estimating Small Area Childhood Obesity Prevalence at the Census Block-Group Level </a></li> 
+               <li><a href="issues/2013/12_0299.htm">Feasibility and Acceptability of Internet Grocery Service in an Urban Food Desert, Chicago, 2011-2012 </a></li> 
+              </ul> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <!-- End last week links --> 
+         <br> 
+         <div class="subColumns"> 
+          <div class="c33l"> 
+           <div class="subcr"> 
+            <div class="module double-rule blocklist"> 
+             <div class="inner"> 
+              <h3>Announcements</h3> 
+              <div class="subc"> 
+               <ul> 
+                <li><a href="announcements.htm#oash">OASH releases New Inventory of MCC Programs, <em>PCD </em>MCC Collection Out in April </a></li> 
+                <li><a href="announcements.htm#twitter"><em>PCD</em> Twitter Chat on Healthy Eating Designs for Schools</a></li> 
+                <li><a href="announcements.htm#brfss">BRFSS and <em>PCD</em></a></li> 
+                <li><a href="announcements.htm#RIS"><em>PCD </em>Now Offers Citation Downloads</a></li> 
+                <li><a href="announcements.htm#YIR">2012 Year in Review Highlights <em>PCD</em>’s Accomplishments</a></li> 
+                <li><a href="announcements.htm#studentCall"><em>PCD </em>Accepting Submissions for 2013 Student Research Paper Contest</a></li> 
+                <li class="lastChild"><a href="announcements.htm#ipadapp">New <em>PCD</em> iPad Application Available</a></li> 
+               </ul> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="c33l"> 
+           <div class="subcr"> 
+            <div class="module double-rule blocklist"> 
+             <div class="inner"> 
+              <h3>Most Viewed Articles</h3> 
+              <div class="subc"> 
+               <ul> 
+                <li><a href="issues/2013/12_0239.htm">Defining and Measuring Chronic Conditions: Imperatives for Research, Policy, Program, and Practice</a></li> 
+                <li><a href="issues/2012/11_0324.htm">Tools for Implementing an Evidence-Based Approach in Public Health Practice</a></li> 
+                <li><a href="issues/2013/12_0203.htm">Prevalence of Multiple Chronic Conditions Among US Adults: Estimates From the National Health Interview Survey, 2010</a></li> 
+                <li><a href="issues/2013/12_0180.htm">The Chronic Care Model and Diabetes Management in US Primary Care Settings: A Systematic Review</a></li> 
+                <li class="lastChild"><a href="issues/2013/12_0097.htm">An Algorithm That Identifies Coronary and Heart Failure Events in the Electronic Health Record</a></li> 
+               </ul> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="c33r"> 
+           <div class="subcr"> 
+            <div class="module double-rule blocklist"> 
+             <div class="inner"> 
+              <h3>Post a Comment</h3> 
+              <div class="subc"> 
+               <ul> 
+                <li><a target="_blank" href="http://blogs.cdc.gov/pcd/?p=945">The Dimensions of Multiple Chronic Conditions: Where Do We Go From Here? A Commentary on the Special Collection of Preventing Chronic Disease</a></li> 
+                <li><a target="_blank" href="http://blogs.cdc.gov/pcd/?p=940">Behaviors and Attitudes Associated With Low Drinking Water Intake Among US Adults, Food Attitudes and Behaviors Survey, 2007</a></li> 
+                <li><a target="_blank" href="http://blogs.cdc.gov/pcd/?p=935">Using Public Health and Community Partnerships to Reduce Density of Alcohol Outlets</a></li> 
+                <li><a target="_blank" href="http://blogs.cdc.gov/pcd/?p=928">Health Departments in a Brave New World</a></li> 
+                <li class="lastChild"><a target="_blank" href="http://blogs.cdc.gov/pcd/?p=921">The Effect of Price Reduction on Salad Bar Purchases at a Corporate Cafeteria</a></li> 
+               </ul> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <!-- InstanceEndEditable --> 
+         <!-- /end syndicate -->
+        </div> 
+        <!-- /end .main-inner -->
+       </div> 
+       <div id="linkPolicy">
+        &nbsp;
+       </div> 
+       <!-- /end #content-main-->
+      </div> 
+      <!-- /end #content-inner -->
+     </div> 
+     <!-- ########## RIGHT COLUMN STARTS HERE ########## --> 
+     <div id="content-secondary"> 
+      <div class="pageOptions"> 
+       <div class="pageOptions-inner"> 
+        <!-- If you're seeing this, the text-sizer include is depricated and the server-side-include reference should be removed from all pages --> 
+        <ul id="services" class="services"> 
+         <li class="print"><a href="javascript:window.print();" title="Print page.">Print page</a></li> 
+        </ul> 
+        <!-- InstanceBeginEditable name="local-options" --> 
+        <ul class="services top-divide">
+          ?
+         <li class="subscribe"><a href="https://public.govdelivery.com/accounts/USCDC/subscriber/new?topic_id=USCDC_410">Get email updates</a></li> 
+         <li class="rss"><a target="_blank" href="http://www2c.cdc.gov/podcasts/createrss.asp?t=r&amp;c=6">Subscribe to RSS</a></li> 
+         <li class="podcast"><a class="noLinking" target="_blank" href="http://www2c.cdc.gov/podcasts/browse.asp?c=241&amp;cmdGo=Go%21">Listen to <em>PCD</em> podcasts</a></li> 
+         <li class="facebook"><a class="noLinking" target="_blank" href="http://www.facebook.com/CDCPCD"><em>PCD </em>on Facebook</a></li> 
+         <li class="twitter"><a class="noLinking" target="_blank" href="https://twitter.com/CDCgov">CDC on Twitter</a></li> 
+         <li class="sitemapb"><a href="/pcd/site_map.htm">Site Map</a></li> 
+        </ul> 
+        <!-- InstanceEndEditable --> 
+        <!-- InstanceBeginEditable name="languages" --> 
+        <!-- InstanceEndEditable --> 
+       </div> 
+      </div> 
+      <!-- InstanceBeginEditable name="gov-delivery" --> 
+      <!--[if (gte IE 6)&(lte IE 8)]>
+<div class="rounders email">
+	<div class="inner">
+		<div class="t"></div>
+		<h4>Get email updates</h4>
+		<p>To subscribe to <em>PCD</em> updates, please enter your email address:</p>
+		<form name="govdelivery" action="https://public.govdelivery.com/accounts/USCDC/subscribers/qualify">
+			<fieldset>
+				<input id="topic_id" name="topic_id" type="hidden" value="USCDC_410" />
+				<label for="Email" class="hidden">Enter Email Address</label>
+				<input type="text" class="email" id="Email" name="email" value="" onfocus="this.value=''" />
+				<label for="Submit" class="hidden">Submit Button</label>
+				<input type="button" class="submit" id="Submit" name="commit" value="Submit" onclick="subscribe();return false;" />
+				<a href="http://www.cdc.gov/emailupdates/">What's this?</a>
+			</fieldset>
+		</form>
+	</div>
+	<div class="b"><div></div></div>
+</div>
+<![endif]--> 
+      <!--[if gt IE 8]><!--> 
+      <div class="roundem email"> 
+       <div class="inner"> 
+        <h4>Get email updates</h4> 
+        <p>To subscribe to <em>PCD</em> updates, please enter your email address:</p> 
+        <form name="govdelivery" action="https://public.govdelivery.com/accounts/USCDC/subscribers/qualify"> 
+         <fieldset> 
+          <input id="topic_id" name="topic_id" type="hidden" value="USCDC_410"> 
+          <label for="Email" class="hidden">Enter Email Address</label> 
+          <input type="text" class="email" id="Email" name="email" value="" onfocus="this.value=''"> 
+          <label for="Submit" class="hidden">Submit Button</label> 
+          <input type="button" class="submit" id="Submit" name="commit" value="Submit" onclick="subscribe();return false;"> 
+          <a href="http://www.cdc.gov/emailupdates/">What's this?</a> 
+         </fieldset> 
+        </form> 
+       </div> 
+      </div> 
+      <!--<![endif]--> 
+      <br> 
+      <div>
+       <a class="noLinking" href="http://itunes.apple.com/us/app/preventing-chronic-disease/id560556547?mt=8"> <img src="/PCD/images/pcd-app-button.jpg" width="162" height="167" border="0" alt="Download our app to view PCD articles on your iPad or iPhone."></a>
+      </div> 
+      <!-- InstanceEndEditable --> 
+      <!-- InstanceBeginEditable name="contact-info" --> 
+      <div id="contact-info"> 
+       <h5>Contact Us:</h5> 
+       <ul class="noBullet"> 
+        <li class="mail">National Center for Chronic Disease Prevention and Health Promotion&nbsp;<br> Centers for Disease Control and Prevention<br> Mailstop F-68<br> 4770 Buford Highway, NE<br> Atlanta, GA, 30341-3717</li> 
+        <li class="phone">(404) 645-3355</li> 
+        <li class="contact-email"><a href="mailto:pcdeditor@cdc.gov">pcdeditor@cdc.gov</a></li> 
+       </ul> 
+      </div> 
+      <!-- InstanceEndEditable --> 
+      <!-- /end #content-secondary -->
+     </div> 
+     <!-- /end #content -->
+    </div> 
+    <div class="preFoot"> 
+     <div id="plugin-legend"> 
+      <h3>File Formats Help:</h3> 
+      <ul> 
+       <li class="plugin-pdf"><a href="https://www.cdc.gov/Other/plugins/#pdf"><img src="/TemplatePackage/images/icon_pdf.gif" alt="Adobe PDF file"></a></li> 
+       <li class="plugin-word"><a href="https://www.cdc.gov/Other/plugins/#doc"><img src="/TemplatePackage/images/icon_word.gif" alt="Microsoft Word file"></a></li> 
+       <li class="plugin-excel"><a href="https://www.cdc.gov/Other/plugins/#xls"><img src="/TemplatePackage/images/icon_excel.gif" alt="Microsoft Excel file"></a></li> 
+       <li class="plugin-ppt"><a href="https://www.cdc.gov/Other/plugins/#ppt"><img src="/TemplatePackage/images/icon_ppt.gif" alt="Microsoft PowerPoint file"></a></li> 
+       <li class="plugin-wmv"><a href="https://www.cdc.gov/Other/plugins/#wmv"><img src="/TemplatePackage/images/icon_wmv.gif" alt="Audio/Video file"></a></li> 
+       <li class="plugin-zip"><a href="https://www.cdc.gov/Other/plugins/#zip"><img src="/TemplatePackage/images/icon_zip.gif" alt="Zip Archive file"></a></li> 
+       <li class="plugin-real"><a href="https://www.cdc.gov/Other/plugins/#ram"><img src="/TemplatePackage/images/icon_real.gif" alt="RealPlayer file"></a></li> 
+       <li class="plugin-qt"><a href="https://www.cdc.gov/Other/plugins/#qt"><img src="/TemplatePackage/images/icon_qt.gif" alt="Apple Quicktime file"></a></li> 
+      </ul> 
+      <p><a href="https://www.cdc.gov/Other/plugins/"><span class="tp-label">How do I view different file formats (PDF, DOC, PPT, MPEG) on this site?</span>&nbsp;<img src="/TemplatePackage/images/btn_dblArrows.gif" alt="double arrows."></a></p> 
+     </div> 
+     <div class="pageOptions-horizontal"> 
+      <ul class="services"> 
+       <li class="print"><a href="javascript:window.print();">Print</a></li> 
+       <!-- InstanceBeginEditable name="local-options-horizontal" --> ?
+       <li class="subscribe"><a href="https://public.govdelivery.com/accounts/USCDC/subscriber/new?topic_id=USCDC_410">Updates</a></li> 
+       <li class="rss"><a target="_blank" href="http://www2c.cdc.gov/podcasts/createrss.asp?t=r&amp;c=6">Subscribe</a></li> 
+       <li class="podcast"><a class="noLinking" target="_blank" href="http://www2c.cdc.gov/podcasts/browse.asp?c=241&amp;cmdGo=Go%21"><em>PCD</em> podcasts</a></li> 
+       <li class="facebook"><a class="noLinking" target="_blank" href="http://www.facebook.com/CDCPCD"><em>PCD </em>on Facebook</a></li> 
+       <li class="twitter"><a class="noLinking" target="_blank" href="https://twitter.com/CDCgov">Twitter</a></li> 
+       <li class="sitemapb"><a href="/pcd/site_map.htm">Site Map</a></li> 
+       <!-- InstanceEndEditable --> 
+      </ul> 
+     </div> 
+     <div id="datestamp">
+      <!-- InstanceBeginEditable name="date-stamp" --> 
+      <ul> 
+       <li class="last-reviewed">Page last reviewed: May 09, 2013</li> 
+       <li class="last-updated">Page last updated: May 09, 2013</li> 
+       <li class="content-source">Content source: <a href="http://www.cdc.gov/chronicdisease/">National Center for Chronic Disease Prevention and Health Promotion</a></li> 
+      </ul> 
+      <!-- InstanceEndEditable --> 
+     </div> 
+    </div> 
+    <div id="siteinfo"> 
+     <div id="siteinfo-nav"> 
+      <ul class="menu"> 
+       <li><a href="https://www.cdc.gov/">Home</a></li> 
+       <li><a href="https://www.cdc.gov/az/a.html">A-Z Index</a></li> 
+       <li><a href="https://www.cdc.gov/Other/policies.html">Policies</a></li> 
+       <li><a href="https://www.cdc.gov/Other/about_cdcgov.html">Using this Site</a></li> 
+       <li><a href="https://www.cdc.gov/Other/link.html">Link to Us</a></li> 
+       <li class="last-child"><a href="https://www.cdc.gov/contact/">Contact CDC</a></li> 
+      </ul> 
+     </div> 
+     <div id="siteinfo-credits"> 
+      <div id="siteinfo-logos">
+       <a href="https://www.usa.gov//"><img id="logo_usagov" src="/TemplatePackage/images/logo_usagov.gif" alt="USA.gov: The U.S. Government's Official Web Portal" width="188" height="55" border="0"></a>
+       <a href="https://www.hhs.gov/"><img id="logo_dhhs" src="/TemplatePackage/images/logo_dhhs.gif" alt="Department of Health and Human Services" width="61" height="55" border="0"></a>
+      </div> 
+      <address>Centers for Disease Control and Prevention &nbsp; 1600 Clifton Road Atlanta, GA 30329-4027, USA<br> 800-CDC-INFO (800-232-4636) TTY: (888) 232-6348 - <a href="https://wwwn.cdc.gov/dcs/RequestForm.aspx">Contact CDC–INFO</a></address> 
+     </div> 
+    </div> 
+    <!--include virtual="/TemplatePackage/3.0/includes/interstitialModal.html" --> 
+    <script type="text/javascript">
+			<!--//
+			$().ready(function(){
+				$("#searchBoxLocal").watermark({html:"Choose a topic above"});
+				$("form#searchCDCLocal").append($("<input />").attr("id", "input508").attr("type", "hidden"));
+				$("form#searchCDCLocal span label").attr("for", "input508");
+			});
+			//-->
+		</script> 
+    <div id="searchFormLocal" class="searchResize"> 
+     <form id="searchCDCLocal" method="get" action="https://search.cdc.gov/search"> 
+      <fieldset> 
+       <div class="searchRadio"> 
+        <div id="cdc-local-radial"> 
+         <!-- InstanceBeginEditable name="EditLocalSearch" --> 
+         <input id="PCD" type="radio" name="subset" checked value="PCD"> 
+         <label for="PCD">PCD</label> 
+         <!-- InstanceEndEditable --> 
+        </div> 
+        <div id="cdc-global-radial"> 
+         <input id="searchCDCGlobal" type="radio" name="subset" value=""> 
+         <label for="searchCDCGlobal">All CDC Topics</label> 
+        </div> 
+       </div> 
+       <div id="cdc-Query"> 
+        <label for="searchBoxLocal" class="overlabel structural">Search The CDC</label> 
+        <input id="searchBoxLocal" class="searchBox" name="query" maxlength="256" type="text"> 
+       </div> 
+       <div id="cdc-Submit"> 
+        <!-- label for="searchButtonLocal" class="structural">Search Button:</label --> 
+        <input id="searchButtonLocal" class="searchButton" src="/TemplatePackage/images/home/search_button.gif" name="searchButton" alt="Search" type="image"> 
+        <input name="action" value="search" type="hidden"> 
+       </div> 
+       <input type="hidden" name="utf8" value="?"> 
+       <input type="hidden" name="affiliate" value="cdc-main"> 
+      </fieldset> 
+     </form> 
+    </div> 
+    <div id="AZlist-container">
+     <a name="az"></a> 
+     <span>A-Z Index</span> 
+     <ol class="AZlist"> 
+      <li><a href="https://www.cdc.gov/az/a.html">A</a></li> 
+      <li><a href="https://www.cdc.gov/az/b.html">B</a></li> 
+      <li><a href="https://www.cdc.gov/az/c.html">C</a></li> 
+      <li><a href="https://www.cdc.gov/az/d.html">D</a></li> 
+      <li><a href="https://www.cdc.gov/az/e.html">E</a></li> 
+      <li><a href="https://www.cdc.gov/az/f.html">F</a></li> 
+      <li><a href="https://www.cdc.gov/az/g.html">G</a></li> 
+      <li><a href="https://www.cdc.gov/az/h.html">H</a></li> 
+      <li><a href="https://www.cdc.gov/az/i.html">I</a></li> 
+      <li><a href="https://www.cdc.gov/az/j.html">J</a></li> 
+      <li><a href="https://www.cdc.gov/az/k.html">K</a></li> 
+      <li><a href="https://www.cdc.gov/az/l.html">L</a></li> 
+      <li><a href="https://www.cdc.gov/az/m.html">M</a></li> 
+      <li><a href="https://www.cdc.gov/az/n.html">N</a></li> 
+      <li><a href="https://www.cdc.gov/az/o.html">O</a></li> 
+      <li><a href="https://www.cdc.gov/az/p.html">P</a></li> 
+      <li><a href="https://www.cdc.gov/az/q.html">Q</a></li> 
+      <li><a href="https://www.cdc.gov/az/r.html">R</a></li> 
+      <li><a href="https://www.cdc.gov/az/s.html">S</a></li> 
+      <li><a href="https://www.cdc.gov/az/t.html">T</a></li> 
+      <li><a href="https://www.cdc.gov/az/u.html">U</a></li> 
+      <li><a href="https://www.cdc.gov/az/v.html">V</a></li> 
+      <li><a href="https://www.cdc.gov/az/w.html">W</a></li> 
+      <li><a href="https://www.cdc.gov/az/x.html">X</a></li> 
+      <li><a href="https://www.cdc.gov/az/y.html">Y</a></li> 
+      <li><a href="https://www.cdc.gov/az/z.html">Z</a></li> 
+      <li><a href="https://www.cdc.gov/az/0.html">#</a></li> 
+     </ol> 
+    </div> 
+    <!-- /end #wrapper-inner -->
+   </div> 
+   <!-- /end #wrapper -->
+  </div> 
+  <!-- xxxxxxxxxxxxxxxxxx METRICS code begins here xxxxxxxxxxxxxxxxxxxxxxxxxxx--> 
+  <div id="metrics"> 
+   <!-- Begin Google DAP inclusion --> 
+   <script type="text/javascript" id="_fed_an_ua_tag" src="/JScript/metrics/google/Universal-Federated-Analytics-Min.js?agency=HHS&amp;subagency=CDC"></script> 
+   <!-- End Google DAP inclusion --> 
+   <!-- SiteCatalyst code version: H.21. --> 
+   <script language="JavaScript" type="text/javascript" src="/JScript/metrics/topic_levels.js"></script> 
+   <script language="JavaScript" type="text/javascript" src="/JScript/metrics/s_code_v21_cdcgov.js"></script> 
+   <script language="JavaScript" type="text/javascript">
+
+<!-- InstanceBeginEditable name="metrics" -->
+s.pageName=document.title;
+s.channel="Preventing Chronic Disease Journal (PCD Journal)";
+
+siteCatalyst.setLevel1("Chronic"); 
+siteCatalyst.setLevel2("Office of the Director"); 
+siteCatalyst.setLevel3("Preventing Chronic Disease Journal (PCD Journal)"); 
+<!-- InstanceEndEditable -->
+s.prop2=window.location.href;
+s.prop26=document.title;
+s.prop30=document.title;
+s.prop31=window.location.href;
+s.prop46=window.location.href;
+s.server=window.location.hostname;
+
+// Update the level variables here.
+updateVariables(s);
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code);//--></script> 
+   <script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-');
+//--></script>
+   <noscript>
+    <a href="https://cdc.112.2o7.net" title="Web Analytics"><img src="https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0" height="1" width="1" border="0" alt="Web Analytics"></a>
+   </noscript>
+   <!--/DO NOT REMOVE/--> 
+   <!-- End SiteCatalyst code version: H.21. --> 
+   <!-- Begin Template Package Custom Interactions --> 
+   <script type="text/javascript" src="/JScript/metrics/rd_custom_interactions.js"></script> 
+   <!-- End Template Package Custom Interactions --> 
+   <!-- Begin Template Package DigitalGov Search Support --> 
+   <script type="text/javascript" src="/JScript/rd_search.js"></script> 
+   <!-- End Template Package DigitalGov Search Support --> 
+  </div> 
+  <!-- xxxxxxxxxxxxxxxxxx METRICS code ends here xxxxxxxxxxxxxxxxxxxxxxxxxxx-->  
+  <!-- InstanceEnd --> 
+ </body>
+</html>

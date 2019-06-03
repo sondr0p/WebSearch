@@ -1,0 +1,528 @@
+<!doctype html>
+<html class="no-js tn-html" lang="en">
+ <head> 
+  <title>State of Tennessee Newsroom - TN.gov</title> 
+  <meta charset="utf-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="keywords"> 
+  <meta name="description" content="State of Tennessee news and announcements."> 
+  <meta name="url" content="https://www.tn.gov/news.html"> 
+  <meta name="lastModified" content="29 Mar 2019 09:31:34 CDT"> 
+  <meta name="pageType"> 
+  <meta name="pageDepartment"> 
+  <meta name="pageDivision"> 
+  <meta name="newsDateTimeString"> 
+  <meta name="eventDateTimeString"> 
+  <meta name="searchType"> 
+  <meta name="pagePath" content="/content/tn/news"> 
+  <meta name="category"> 
+  <meta property="og:title" content="State of Tennessee Newsroom - TN.gov"> 
+  <meta property="og:description" content="State of Tennessee news and announcements."> 
+  <meta property="og:url" content="https://www.tn.gov/news.html"> 
+  <meta property="og:image"> 
+  <meta name="twitter:card" content="summary"> 
+  <meta name="twitter:title" content="State of Tennessee Newsroom - TN.gov"> 
+  <meta name="twitter:description" content="State of Tennessee news and announcements."> 
+  <meta name="twitter:url" content="https://www.tn.gov/news.html"> 
+  <meta name="twitter:image"> 
+  <link rel="shortcut icon" href="/etc/clientlibs/tncore/main/img/favicon.ico"> 
+  <link rel="canonical" href="https://www.tn.gov/news.html"> 
+  <link rel="stylesheet" href="/etc/clientlibs/tncore/main.min.7b7f24489495d82cdd3b7a88107b9f76.css" type="text/css"> 
+  <link rel="stylesheet" href="/etc/clientlibs/tn-sites/tngov.min.de4d4402ec2138999b5540dbe08724b4.css" type="text/css"> 
+  <script src="//assets.adobedtm.com/046dcefde06052c1522b33b00453f0592c8031e1/satelliteLib-0eaceea9a3f6b60d158884d8c7daf5435071c1e5.js"></script> 
+ </head> 
+ <body class="tngov" data-selectors="[]" data-template="newsroom"> 
+  <div class="sr-only sr-only-focusable"> 
+   <p><a href="#main">Skip to Main Content</a></p> 
+  </div> 
+  <noindex> 
+   <div> 
+   </div> 
+   <div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+      <div class="tn_header tn-header">
+       <header id="header"> 
+        <div class="row center-block top-nav"> 
+         <a class="logo" href="https://www.tn.gov/" data-logo="state-government" style="background-image: url('/etc/clientlibs/tncore/main/img/logos/tn-logo.png')"> 
+          <div>
+           Home
+          </div> </a> 
+         <a class="search-all icon-home-1" href="https://www.tn.gov/">Go to TN.gov</a> 
+        </div> 
+        <div class="row center-block agency"> 
+         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 columns title"> 
+          <a href="/content/tn.html"> <img src="/content/dam/headers/state-government.png" alt="  State of Tennessee" id="entity-name" data-pin-nopin="true"> </a> 
+         </div> 
+         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 columns text-right"> 
+          <div class="tn-headersearch">
+           <div class="search"> 
+            <form method="get" action="/search-results.html"> 
+             <input type="text" class="search-box" name="q" placeholder="Search All Tennessee Government" aria-label="Search All Tennessee Government"> 
+             <input type="submit" value="Search" class="search-button"> 
+             <i class="icon-search"></i> 
+            </form> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="backdrop" style="background-image:url(/content/dam/headers/test.jpg)"></div> 
+        <div class="backdrop-color" style="background-color: rgba(110,112,115,0.20)"></div> 
+       </header> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="tn-topnav">
+    <nav id="nav"> 
+     <div class="row center-block"> 
+      <div class="col-lg-12"> 
+       <div class="logo-small tn-logo"> 
+        <a href="/content/tn.html"><span class="sr-only">Go to TN.gov</span></a> 
+       </div> 
+       <div class="mobile-show icon-menu mobile-menu">
+        Section
+       </div> 
+       <ul class="inline-list nav-items"> 
+        <li> <a href="/content/tn.html" class="icon-home"><span class="sr-only">Go to TN.gov</span></a> </li> 
+        <li class="dropdown"> <a href="/residents.html">Residents<i class="icon-down-dir"></i></a> 
+         <ul> 
+          <li><a href="/residents/cars-driving.html">Cars &amp; Driving</a></li> 
+          <li><a href="/residents/communities-mp-residents-btc.html">Communities</a></li> 
+          <li><a href="/residents/education.html">Education</a></li> 
+          <li><a href="/residents/children-and-families.html">Children and Families</a></li> 
+         </ul> </li> 
+        <li class="dropdown"> <a href="/business.html">Business<i class="icon-down-dir"></i></a> 
+         <ul> 
+          <li><a href="/business/existing-businesses.html">Existing Businesses</a></li> 
+          <li><a href="/business/new-businesses-mp-business-btc.html">New Businesses</a></li> 
+          <li><a href="/business/licenses-permits.html">Licenses &amp; Permits</a></li> 
+          <li><a href="/business/doing-business.html">Doing Business</a></li> 
+         </ul> </li> 
+        <li class="dropdown"> <a href="/government.html">Government<i class="icon-down-dir"></i></a> 
+         <ul> 
+          <li><a href="/government/public-and-private-acts-and-resolutions.html">Public and Private Acts and Resolutions</a></li> 
+          <li><a href="/government/tennessee-rules-and-regulations.html">Tennessee Rules and Regulations</a></li> 
+          <li><a href="/government/legislative-bill-search0.html">Legislative Bill Search</a></li> 
+          <li><a href="/government/state-employees-.html">State Employees </a></li> 
+          <li><a href="/government/federal.html">Federal</a></li> 
+          <li><a href="/government/governor.html">Governor </a></li> 
+          <li><a href="/government/redirect-first-lady-crissy-haslam.html">First Lady </a></li> 
+          <li><a href="/government/elected-officials.html">Elected Officials</a></li> 
+         </ul> </li> 
+        <li> <a href="/employment.html">Employment</a> </li> 
+        <li class="dropdown"> <a href="/directory.html">Directory<i class="icon-down-dir"></i></a> 
+         <ul> 
+          <li><a href="/directory/department-directory.html">Department Directory</a></li> 
+          <li><a href="/directory/state-phone-directory.html">State Phone Directory</a></li> 
+          <li><a href="/directory/county-city-web-sites.html">County &amp; City Web Sites</a></li> 
+          <li><a href="/directory/county-officials-listing.html">County Officials Listing</a></li> 
+          <li><a href="/directory/city-officials-listing.html">City Officials Listing</a></li> 
+          <li><a href="/directory/local-law-enforcement.html">Local Law Enforcement</a></li> 
+          <li><a href="/directory/find-your-legislator.html">Find Your Legislator</a></li> 
+         </ul> </li> 
+        <li> <a href="/help.html">Help</a> </li> 
+       </ul> 
+       <div class="right primary-print"> 
+        <a href="javascript:window.print();" class="icon-print"><span class="sr-only">Print This Page</span></a> 
+       </div> 
+       <div class="right secondary-print"> 
+        <a href="javascript:window.print();" class="icon-print"><span class="sr-only">Print This Page</span></a> 
+       </div> 
+       <div class="right secondary-search"> 
+        <a class="icon-search"><span class="sr-only">Go to Search</span></a> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="config hidden" data-config="{&quot;closeMenuText&quot;:&quot;Close Menu&quot;,&quot;menuText&quot;:&quot;Section&quot;}"></div> 
+    </nav> 
+   </div> 
+   <div class="tn-alerts"> 
+   </div> 
+  </noindex> 
+  <div id="main" class="newsroom" tabindex="-1"> 
+   <div class="row center-block tn-newsroom"> 
+    <div class="tn-leftnav"> 
+     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 "> 
+      <div class="tn-newsroomfilters">
+       <nav class="side expander" data-newsroom-resource-path="/news/_jcr_content"> 
+       </nav> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 content"> 
+     <div class="tn-newsroomresults"> 
+      <ul class="stories"> 
+       <li> 
+        <article class="news"> 
+         <div class="padded"> 
+          <h2> <a href="/health/news/2019/5/31/media-advisory--tnstrong-youth-summit-to-be-held-june-2-4-in-murfreesboro.html" x-cq-linkchecker="skip">MEDIA ADVISORY: TNSTRONG Youth Summit to be held June 2-4 in Murfreesboro</a> </h2> 
+          <div class="date">
+           Friday, May 31, 2019 | 
+           <small>04:50pm</small>
+          </div> 
+          <div class="text"> 
+           <p>MURFREESBORO, Tenn. – Nearly 400 teens from communities across Tennessee will gather at the Embassy Suites in Murfreesboro June 2 – 4, 2018 for the Tennessee Department of Health’s TNSTRONG Youth Summit, a statewide tobacco prevention conference. </p> 
+          </div> 
+          <p> <a href="/news.health.html">Health</a> </p> 
+         </div> 
+         <a href="/health/news/2019/5/31/media-advisory--tnstrong-youth-summit-to-be-held-june-2-4-in-murfreesboro.html" class="button bar grey" x-cq-linkchecker="skip">Read full story</a> 
+        </article> </li> 
+       <li> 
+        <article class="news"> 
+         <div class="padded"> 
+          <h2> <a href="/commerce/news/2019/5/30/tdci-offers-free-document-shredding-drug-take-back-in-jackson-on-june-8.html" x-cq-linkchecker="skip">TDCI Offers Free Document Shredding/Drug Take-Back in Jackson on June 8</a> </h2> 
+          <div class="date">
+           Thursday, May 30, 2019 | 
+           <small>01:48pm</small>
+          </div> 
+          <div class="text"> 
+           <p>NASHVILLE – Residents of Jackson and the Madison County area can securely shred outdated personal documents and safely dispose of household medications at the Tennessee Department of Commerce &amp; Insurance’s (TDCI) Division of Consumer Affairs free document shredding/drug take-back event in Jackson on Saturday, June 8, 2019, from 10:00 a.m. to 2:00 p.m. (CDT).</p> 
+          </div> 
+          <p> <a href="/news.consumer-affairs.html">Consumer Affairs</a> | <a href="/news.commerce-insurance.html">Commerce &amp; Insurance</a> </p> 
+         </div> 
+         <a href="/commerce/news/2019/5/30/tdci-offers-free-document-shredding-drug-take-back-in-jackson-on-june-8.html" class="button bar grey" x-cq-linkchecker="skip">Read full story</a> 
+        </article> </li> 
+       <li> 
+        <article class="news"> 
+         <div class="padded"> 
+          <h2> <a href="/commerce/news/2019/5/30/judge-upholds-denial-of-franklin-man-s-financial-adviser-applications--orders--5k-payment-for-court-costs.html" x-cq-linkchecker="skip">Judge Upholds Denial of Franklin Man’s Financial Adviser Applications, Orders $5K Payment for Court Costs</a> </h2> 
+          <div class="date">
+           Thursday, May 30, 2019 | 
+           <small>01:43pm</small>
+          </div> 
+          <div class="text"> 
+           <p>NASHVILLE – The Tennessee Department of Commerce and Insurance’s (TDCI) Division of Securities announces a Nashville judge has upheld the denial of Franklin, Tenn. resident David Antypas’ investment-advisor and broker-dealer applications stemming from an investigation into a complaint about Antypas’ earlier work as a financial adviser for an elderly Mt. Juliet woman. Additionally, Antypas must pay $5,000 in costs related to a court hearing held at his request about the matter.</p> 
+          </div> 
+          <p> <a href="/news.commerce-insurance.html">Commerce &amp; Insurance</a> | <a href="/news.securities.html">Securities</a> </p> 
+         </div> 
+         <a href="/commerce/news/2019/5/30/judge-upholds-denial-of-franklin-man-s-financial-adviser-applications--orders--5k-payment-for-court-costs.html" class="button bar grey" x-cq-linkchecker="skip">Read full story</a> 
+        </article> </li> 
+       <li> 
+        <article class="news"> 
+         <div class="padded"> 
+          <h2> <a href="/correction/news/2019/5/30/reentry-fair-held-at-women-s-therapeutic-residential-center.html" x-cq-linkchecker="skip">Reentry Fair Held At Women's Therapeutic Residential Center</a> </h2> 
+          <div class="date">
+           Thursday, May 30, 2019 | 
+           <small>12:29pm</small>
+          </div> 
+          <div class="text"> 
+           <p>HENNING – Yesterday, nine vendors from across West Tennessee came to the Women’s Therapeutic Residential Center (WTRC); which is housed at the West Tennessee State Penitentiary, to offer resources and tools to approximately 130 residents.</p> 
+          </div> 
+          <p> <a href="/news.correction.html">Correction</a> | <a href="/news.correction.html">Correction</a> </p> 
+         </div> 
+         <a href="/correction/news/2019/5/30/reentry-fair-held-at-women-s-therapeutic-residential-center.html" class="button bar grey" x-cq-linkchecker="skip">Read full story</a> 
+        </article> </li> 
+       <li> 
+        <article class="news"> 
+         <div class="padded"> 
+          <h2> <a href="/military/news/2019/5/31/tennessee-guard-participates-in-national-emergency-exercise.html" x-cq-linkchecker="skip">Tennessee Guard Participates in National Emergency Exercise</a> </h2> 
+          <div class="date">
+           Thursday, May 30, 2019 | 
+           <small>10:21am</small>
+          </div> 
+          <div class="text"> 
+           <p>NASHVILLE, Tenn. – Over the next ten days, the Tennessee Military Department will participate in a large-scale emergency response exercise: Shaken Fury 2019. Shaken Fury is a national-level emergency response and recovery exercise hosted by the Federal Emergency Management Agency that will take place in various locations throughout the Southeastern United States.</p> 
+          </div> 
+          <p> <a href="/news.news.html">news</a> | <a href="/news.press-releases.html">Press Releases</a> | <a href="/news.military.html">Military</a> </p> 
+         </div> 
+         <a href="/military/news/2019/5/31/tennessee-guard-participates-in-national-emergency-exercise.html" class="button bar grey" x-cq-linkchecker="skip">Read full story</a> 
+        </article> </li> 
+       <li> 
+        <article class="news"> 
+         <div class="padded"> 
+          <h2> <a href="/environment/news/2019/5/30/tdec-welcomes-off-site-homebuilder-clayton-savannah-into-green-star-partnership.html" x-cq-linkchecker="skip">TDEC Welcomes Off-Site Homebuilder Clayton Savannah Into Green Star Partnership</a> </h2> 
+          <div class="date">
+           Thursday, May 30, 2019 | 
+           <small>08:51am</small>
+          </div> 
+          <div class="text"> 
+           <p></p> 
+          </div> 
+          <p> <a href="/news.environment-conservation.html">Environment &amp; Conservation</a> </p> 
+         </div> 
+         <a href="/environment/news/2019/5/30/tdec-welcomes-off-site-homebuilder-clayton-savannah-into-green-star-partnership.html" class="button bar grey" x-cq-linkchecker="skip">Read full story</a> 
+        </article> </li> 
+       <li> 
+        <article class="news"> 
+         <div class="padded"> 
+          <h2> <a href="/revenue/news/2019/5/29/former-knox-county-businessman-pleads-guilty-to-tax-evasion-and-theft.html" x-cq-linkchecker="skip">Former Knox County Businessman Pleads Guilty to Tax Evasion and Theft</a> </h2> 
+          <div class="date">
+           Wednesday, May 29, 2019 | 
+           <small>04:23pm</small>
+          </div> 
+          <div class="text"> 
+           <p></p> 
+          </div> 
+          <p> <a href="/news.revenue.html">Revenue</a> </p> 
+         </div> 
+         <a href="/revenue/news/2019/5/29/former-knox-county-businessman-pleads-guilty-to-tax-evasion-and-theft.html" class="button bar grey" x-cq-linkchecker="skip">Read full story</a> 
+        </article> </li> 
+       <li> 
+        <article class="news"> 
+         <div class="padded"> 
+          <h2> <a href="/correction/news/2019/5/29/morgan-county-correctional-complex-holds-graduation-ceremony.html" x-cq-linkchecker="skip">Morgan County Correctional Complex Holds Graduation Ceremony</a> </h2> 
+          <div class="date">
+           Wednesday, May 29, 2019 | 
+           <small>12:10pm</small>
+          </div> 
+          <div class="text"> 
+           <p>WARTBURG – Earlier this morning, the Morgan County Correctional Complex (MCCX) held a Spring Commencement ceremony for those who’d recently completed one of the many available educational/vocational programs available at the facility.</p> 
+          </div> 
+          <p> <a href="/news.correction.html">Correction</a> | <a href="/news.correction.html">Correction</a> </p> 
+         </div> 
+         <a href="/correction/news/2019/5/29/morgan-county-correctional-complex-holds-graduation-ceremony.html" class="button bar grey" x-cq-linkchecker="skip">Read full story</a> 
+        </article> </li> 
+       <li> 
+        <article class="news"> 
+         <div class="padded"> 
+          <h2> <a href="/tdfi/news/2019/5/29/commissioner-gonzales-announces-weekly-formula-rate-may-29--2019.html" x-cq-linkchecker="skip">COMMISSIONER GONZALES ANNOUNCES WEEKLY FORMULA RATE MAY 29, 2019</a> </h2> 
+          <div class="date">
+           Wednesday, May 29, 2019 | 
+           <small>08:50am</small>
+          </div> 
+          <div class="text"> 
+           <p>NASHVILLE--Tennessee Department of Financial Institutions Commissioner Greg Gonzales announced today that the maximum effective formula rate of interest in Tennessee is 9.50 percent per annum. The rate is based on a ceiling of 4 percent over the weekly average prime loan rate of 5.50 percent as published by the Federal Reserve on May 28, 2019.</p> 
+          </div> 
+          <p> <a href="/news.tn.html">tn</a> | <a href="/news.news.html">news</a> | <a href="/news.formula-rates.html">Formula Rates</a> | <a href="/news.financial-institutions.html">Financial Institutions</a> | <a href="/news.press-releases.html">Press Releases</a> </p> 
+         </div> 
+         <a href="/tdfi/news/2019/5/29/commissioner-gonzales-announces-weekly-formula-rate-may-29--2019.html" class="button bar grey" x-cq-linkchecker="skip">Read full story</a> 
+        </article> </li> 
+       <li> 
+        <article class="news"> 
+         <div class="padded"> 
+          <h2> <a href="/commerce/news/2019/5/28/tdci--credit-freeze-laws-provide-protection-for-identity-theft-victims.html" x-cq-linkchecker="skip">TDCI: Credit Freeze Laws Provide Protection for Identity Theft Victims</a> </h2> 
+          <div class="date">
+           Tuesday, May 28, 2019 | 
+           <small>12:10pm</small>
+          </div> 
+          <div class="text"> 
+           <p>NASHVILLE – Consumers beware: Identity theft is on the rise in Tennessee, and it’s costing residents. A recent report from the Federal Trade Commission (FTC) shows a more than 20% increase of identity theft in the Volunteer State last year as 6,808 Tennesseans reported being a victim of identity theft. Scam artists have preyed on Tennesseans, making the Tennessee the 21st in the nation for reports of identity theft. </p> 
+          </div> 
+          <p> <a href="/news.consumer-affairs.html">Consumer Affairs</a> | <a href="/news.commerce-insurance.html">Commerce &amp; Insurance</a> </p> 
+         </div> 
+         <a href="/commerce/news/2019/5/28/tdci--credit-freeze-laws-provide-protection-for-identity-theft-victims.html" class="button bar grey" x-cq-linkchecker="skip">Read full story</a> 
+        </article> </li> 
+       <li> 
+        <article class="news"> 
+         <div class="padded"> 
+          <h2> <a href="/agriculture/news/2019/5/24/invasive-tick-detected-in-tennessee.html" x-cq-linkchecker="skip">Invasive Tick Detected in Tennessee</a> </h2> 
+          <div class="date">
+           Friday, May 24, 2019 | 
+           <small>03:23pm</small>
+          </div> 
+          <div class="text"> 
+           <p>The Tennessee Department of Agriculture, United States Department of Agriculture – Animal and Plant Health Inspection Services, Tennessee Department of Health, and University of Tennessee Institute of Agriculture (UTIA) today announced the detection of the invasive Asian longhorned tick in Tennessee.</p> 
+          </div> 
+          <p> <a href="/news.agriculture.html">Agriculture</a> | <a href="/news.agriculture.html">Agriculture</a> | <a href="/news.press-releases.html">Press Releases</a> </p> 
+         </div> 
+         <a href="/agriculture/news/2019/5/24/invasive-tick-detected-in-tennessee.html" class="button bar grey" x-cq-linkchecker="skip">Read full story</a> 
+        </article> </li> 
+       <li> 
+        <article class="news"> 
+         <div class="padded"> 
+          <h2> <a href="/safety/news/2019/5/23/department-of-safety-and-homeland-security-launches-mobile-application-to-enhance-customer-service.html" x-cq-linkchecker="skip">DEPARTMENT OF SAFETY AND HOMELAND SECURITY LAUNCHES MOBILE APPLICATION TO ENHANCE CUSTOMER SERVICE</a> </h2> 
+          <div class="date">
+           Thursday, May 23, 2019 | 
+           <small>03:40pm</small>
+          </div> 
+          <div class="text"> 
+           <p>The Tennessee Department of Safety and Homeland Security Driver Services Division launched a new mobile application that will better serve Tennesseans. The mobile application, titled TN Driver Services, can be found on the Apple App Store and Google Play.</p> 
+          </div> 
+          <p> <a href="/news.safety-homeland-security.html">Safety &amp; Homeland Security</a> | <a href="/news.safety.html">Safety</a> </p> 
+         </div> 
+         <a href="/safety/news/2019/5/23/department-of-safety-and-homeland-security-launches-mobile-application-to-enhance-customer-service.html" class="button bar grey" x-cq-linkchecker="skip">Read full story</a> 
+        </article> </li> 
+       <li> 
+        <article class="news"> 
+         <div class="padded"> 
+          <h2> <a href="/agriculture/news/2019/5/23/tennessee-forestry-commission-to-meet.html" x-cq-linkchecker="skip">Tennessee Forestry Commission to Meet</a> </h2> 
+          <div class="date">
+           Thursday, May 23, 2019 | 
+           <small>03:31pm</small>
+          </div> 
+          <div class="text"> 
+           <p>The Tennessee Forestry Commission will meet June 4 at 9 a.m. CDT at the TWRA main conference room located at 5107 Edmondson Pike in Nashville, Tenn.</p> 
+          </div> 
+          <p> <a href="/news.agriculture.html">Agriculture</a> | <a href="/news.non-press-releases.html">Non Press Releases</a> | <a href="/news.agriculture.html">Agriculture</a> </p> 
+         </div> 
+         <a href="/agriculture/news/2019/5/23/tennessee-forestry-commission-to-meet.html" class="button bar grey" x-cq-linkchecker="skip">Read full story</a> 
+        </article> </li> 
+       <li> 
+        <article class="news"> 
+         <div class="padded"> 
+          <h2> <a href="/workforce/general-resources/news/2019/5/23/unemployment-rates-drop-in-94-of-tennessees-counties-during-april.html" x-cq-linkchecker="skip">Unemployment Rates Drop In 94 Of Tennessee's Counties During April</a> </h2> 
+          <div class="date">
+           Thursday, May 23, 2019 | 
+           <small>01:30pm</small>
+          </div> 
+          <div class="text"> 
+           <p>NASHVILLE – Unemployment rates for 94 of Tennessee’s 95 counties dropped in April 2019 according to data released Thursday by the Tennessee Department of Labor and Workforce Development (TDLWD). The unemployment rate in Maury County remained unchanged for the month. </p> 
+          </div> 
+          <p> <a href="/news.labor-workforce-development.html">Labor &amp; Workforce Development</a> </p> 
+         </div> 
+         <a href="/workforce/general-resources/news/2019/5/23/unemployment-rates-drop-in-94-of-tennessees-counties-during-april.html" class="button bar grey" x-cq-linkchecker="skip">Read full story</a> 
+        </article> </li> 
+       <li> 
+        <article class="news"> 
+         <div class="padded"> 
+          <h2> <a href="/education/news/2019/5/23/tennessee-named-one-of-six-states-selected-to-participate-in-no-kid-hungry-s-2019-school-breakfast-leadership-institute.html" x-cq-linkchecker="skip">Tennessee named one of six states selected to participate in No Kid Hungry’s 2019 School Breakfast Leadership Institute</a> </h2> 
+          <div class="date">
+           Thursday, May 23, 2019 | 
+           <small>12:53pm</small>
+          </div> 
+          <div class="text"> 
+           <p></p> 
+          </div> 
+          <p> <a href="/news.education.html">Education</a> | <a href="/news.press-releases.html">Press Releases</a> </p> 
+         </div> 
+         <a href="/education/news/2019/5/23/tennessee-named-one-of-six-states-selected-to-participate-in-no-kid-hungry-s-2019-school-breakfast-leadership-institute.html" class="button bar grey" x-cq-linkchecker="skip">Read full story</a> 
+        </article> </li> 
+      </ul> 
+      <ul class="inline-list pager"> 
+       <li class="left"> <i class="icon-angle-double-left"></i> <i class="icon-angle-left"></i> </li> 
+       <li> 1 </li> 
+       <li> <a href="/news.2.html"> 2 </a> </li> 
+       <li> <a href="/news.3.html"> 3 </a> </li> 
+       <li> ... </li> 
+       <li> <a href="/news.1235.html"> 1235 </a> </li> 
+       <li> <a href="/news.2.html"> <i class="icon-angle-right"></i> </a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="tn-backtotop">
+   <a href="#header" class="page-top icon-up"></a> 
+  </div> 
+  <noindex> 
+   <div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+     </div> 
+    </div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+     </div> 
+    </div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+      <div class="tn_footer tn-footer parbase"> 
+       <footer id="footer"> 
+        <div id="footer-top"> 
+         <div class="row"> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns"> 
+           <ul class="inline-list"> 
+            <li> <a href="/about-tn/flag-status.html" class="icon-flag" data-resource-path="/_jcr_content/footer/tn_footer"> </a> </li> 
+            <li id="footer-livechat" class="offline"> <a href="#" class="icon-chat" onclick="openFooterChat()" target="_blank"> Live Chat </a> 
+             <div class="livechat"> 
+              <script type="text/javascript">
+                                function openFooterChat() {
+                                    window.open ("https://help.tn.gov/sn_customerservice_tn_chat_selector.do", "popup", "width=900, height=600"); 
+                                 };
+                            </script> 
+             </div> </li> 
+           </ul> 
+          </div> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns text-right"> 
+           <ul class="inline-list"> 
+            <li> <a href="/help.html" class="icon-help-circled">Help</a> </li> 
+            <li id="footer-share"><a href="#" class="icon-export">Share</a> 
+             <div class="drop right"> 
+              <div class="box"> 
+               <span class="st_sharethis_large" displaytext="ShareThis"></span> 
+               <span class="st_facebook_large" displaytext="Facebook"></span> 
+               <span class="st_twitter_large" displaytext="Tweet"></span> 
+               <span class="st_googleplus_large" displaytext="Google +"></span> 
+               <span class="st_linkedin_large" displaytext="LinkedIn"></span> 
+               <script type="text/javascript">
+                                    var switchTo5x = true;
+                                </script> 
+               <script type="text/javascript" src="//ws.sharethis.com/button/buttons.js"></script> 
+               <script type="text/javascript">
+                                    if (typeof stLight !== 'undefined') {
+                                        stLight.options({
+                                            publisher : "5dc356bf-5442-455c-b483-ab8ca7d8cd15",
+                                            doNotHash : false,
+                                            doNotCopy : false,
+                                            hashAddressBar : false
+                                        });
+                                    }
+                                </script> 
+              </div> 
+             </div></li> 
+            <li id="footer-translate"><a href="#" class="icon-book">Translate</a> 
+             <div class="drop right"> 
+              <div class="box"> 
+               <div id="google_translate_element"></div> 
+              </div> 
+             </div></li> 
+            <li id="footer-fontsize"><a href="#" class="icon-font">Font Size</a> 
+             <div class="drop right"> 
+              <div class="box"> 
+               <ul class="inline-list"> 
+                <li><a class="button" data-font-size="small">a-</a></li> 
+                <li><a class="button active" data-font-size="normal">Normal</a></li> 
+                <li><a class="button" data-font-size="large">A+</a></li> 
+               </ul> 
+              </div> 
+             </div></li> 
+           </ul> 
+          </div> 
+         </div> 
+         <a class="starball"> <img src="/etc/clientlibs/tncore/main/img/footer-starball.png" alt="Tristar" width="100%"> </a> 
+        </div> 
+        <div id="footer-bottom"> 
+         <div class="row"> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns"> 
+           <ul class="inline-list"> 
+            <li> <a href="/state-services.html" class="first">TN.gov Services</a> <a href="/directory.html">TN.gov Directory</a> <a href="/transparenttn.html">Transparent TN</a> <a href="/web-policies/privacy-statement.html">Web Policies</a> </li> 
+           </ul> 
+          </div> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns text-right"> 
+           <ul class="inline-list"> 
+            <li> <a href="/about-tn/state-symbols.html">About Tennessee</a> <a href="/humanrights/file-a-discrimination-complaint/title-vi1/title-vi-disclaimer.html">Title VI</a> <a href="/web-policies/accessibility.html">Accessibility</a> <a href="/help.html">Help &amp; Contact</a> <a href="/survey.html">Survey</a> </li> 
+           </ul> 
+          </div> 
+         </div> 
+        </div> 
+       </footer> 
+       <div id="modal-footer"></div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <script type="text/javascript" src="/etc/clientlibs/tncore/main.min.73d9ee3d42191396dd2a3447bf54bab7.js"></script> 
+   <script type="text/javascript">_satellite.pageBottom();</script> 
+  </noindex> 
+  <div id="overlay"></div> 
+  <!-- Begin Dynamic Modal for Videos --> 
+  <div class="tn-videoModal modal fade" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="videoModal" aria-hidden="true"> 
+   <div class="modal-dialog"> 
+    <div class="modal-content"> 
+     <div class="modal-body"> 
+      <a href="#" data-dismiss="modal" class="close-video icon-cancel text-button">Close</a> 
+      <div class="videoWrapper"> 
+       <iframe src=""></iframe> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- End Dynamic Modal for Videos --> 
+  <!-- DTM Analytics Datalayer --> 
+  <script>
+            var digitalData = { pageInfo: {} };
+            digitalData.pageInfo.pageName = "news";
+        </script>   
+ </body>
+</html>

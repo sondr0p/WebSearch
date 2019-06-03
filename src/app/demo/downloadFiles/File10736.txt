@@ -1,0 +1,963 @@
+<!doctype html>
+<html lang="en" ng-app="mapp">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <!-- State Of Michigan - Mon May 06 12:04:47 2019 --> 
+  <!-- e-Michigan Portal - Process #1, Server www --> 
+  <link rel="canonical" href="https://www.michigan.gov/som/0,4669,7-192-29941---,00.html"> 
+  <title>SOM - SAFETY</title> 
+  <meta name="DESCRIPTION" content="State of Michigan - Homeland security, emergency planning information, security for you and you identity and more tools to keep Michigan citizens safe."> 
+  <meta name="KEYWORDS" content="Safety"> 
+  <base target="_top"> 
+  <!-- global scripts BOOTSTRAP --> 
+  <!-- bow-scripts include --> 
+  <!-- CSS --> 
+  <link type="text/css" rel="stylesheet" href="/css/fullcalendar.css"> 
+  <link type="text/css" rel="stylesheet" href="/font-som-icons/css/somicons.min.css?20170525090940"> 
+  <link type="text/css" rel="stylesheet" href="/font-awesome/css/font-awesome.min.css"> 
+  <link type="text/css" rel="stylesheet" href="/css/jquery.bxslider.css"> 
+  <!-- javascript --> 
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script> 
+  <script src="/bootstrap/js/bootstrap.min.js"></script> 
+  <script src="/js/fullcalendar.js" type="text/javascript"></script> 
+  <script src="/js/jquery.bxslider.js"></script> 
+  <script src="/js/jquery.rwdImageMaps.js"></script> 
+  <script src="/js/jquery.validate.js"></script> 
+  <script src="/js/additional-methods.js"></script> 
+  <script src="/js/responsiveComponents.js"></script> 
+  <script src="/js/jquery.matchHeight-min.js"></script> 
+  <!--[if (lt IE 9)]>
+<script>
+document.createElement('header');
+document.createElement('nav');
+document.createElement('section');
+document.createElement('article');
+document.createElement('aside');
+document.createElement('footer');
+document.createElement('time');
+</script>
+<script src="/js/respond.js"></script>
+<link href="/css/migov_ie8_OLD.css" rel="stylesheet" media="all" />
+<![endif]--> 
+  <script type="text/javascript" src="/js/bow-general.js?v=1526047680"></script> 
+  <link href="/css/body-theme-som.css?v=1551121888" type="text/css" rel="stylesheet"> 
+  <!-- Agency Header do not include the globalcss file -->
+  <!--/ Agency Header-->
+  <script src="/js/underscorejslib.js?v=1493914450"></script> 
+  <script src="/js/angular_1_6.js?v=1493914427"></script> 
+  <script src="/js/angular_1_6_sanitize.js?v=1493914426"></script> 
+  <script src="/js/angular_1_6_animate.js?v=1493914426"></script> 
+  <script src="/js/angular_1_6_aria.js?v=1493914426"></script> 
+  <script src="/js/angular_1_6_touch.js?v=1493914427"></script> 
+  <script src="/js/angucomplete-alt.js?v=1545075608"></script> 
+  <script src="/js/bootstrapUIangular.js?v=1493914448"></script> 
+  <script type="text/javascript">
+window.navPath = '/agency/leftFullNav/0,,192,00.html';
+window.loadedData = [];
+$('body').addClass('matching-heights-processing');
+var mapp = angular.module('mapp',['ngSanitize','ngAnimate','ui.bootstrap','ngAria','angucomplete-alt','ngTouch']);
+mapp.run(['$location', function($location) {
+			var pathCurrent = $location.path();
+			var searchCurrent = $location.search();
+			$('body').on('click','a[href^="#"]',function(e){
+				e.preventDefault();
+			    var hrefDest = $(this).attr('href');
+				//asses if ID or Anchor
+				hrefDest_clean = hrefDest.replace('#','');
+				var anchorCount = $('a[name="'+hrefDest_clean+'"]').length;
+				var idCount = $(''+hrefDest).length;
+				var destObj;
+				if(anchorCount > 0)
+			    {
+					destObj = $('a[name="'+hrefDest_clean+'"]').filter(':first');
+			    }
+				else if(idCount > 0)
+			    {
+					destObj = $(''+hrefDest);
+			    }
+				var offsetVal = $(destObj).offset().top - 150;
+				// change the path
+				$location.path('/'+hrefDest_clean);
+				//Moving focus and page:
+				$('a[href^="#"]').removeAttr('tabindex');
+				$('html,body').animate({scrollTop:offsetVal}, 500);
+				$(destObj).attr('tabindex',-1).focus();
+			});
+		}]);
+</script> 
+  <script src="/js/angular_custom_factories.js?v=1502904335"></script> 
+  <script src="/js/angular_custom_filters.js?v=1506702035"></script> 
+  <script src="/js/SearchComponentAngular.js?v=1545075601"></script> 
+  <script src="/js/angularSelectList.js?v=1544218134"></script> 
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js"></script> 
+  <script src="/js/gtm.js?v=1501512057"></script> 
+ </head> 
+ <body class="agy-som has-offcanvas-menu off-canvas-center  bow-theme-1 horz-menu body-theme-som matching-heights-processing"> 
+  <div role="navigation" aria-label="skip nav"> 
+   <noscript> 
+    <div class="alert bg bg-accent-1 text-center"> 
+     <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> Browsers that can not handle javascript will not be able to access some features of this site. 
+     <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> 
+    </div> 
+    <style type="text/css">
+body.matching-heights-processing:before,body.matching-heights-processing:after {
+content:'';
+height:0px;
+width:0px;
+}
+</style> 
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WTW7M9" height="0" width="0" style="display:none;visibility:hidden"></iframe> 
+   </noscript> 
+   <div id="noAdBlock" style="display:none;" class="alert bg bg-accent-1 text-center"> 
+    <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> Some functions of this site are disabled for browsers blocking jQuery. 
+    <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> 
+   </div> 
+   <div id="_TopOfPage"></div> 
+   <script>
+			function doAnalyticsGo(sndx) {
+				var dest = sndx.options[sndx.selectedIndex].value;
+				if (dest == 0) {
+					alert('Please make a selection.');
+					return false;
+				} else {
+					document.location.href=dest;
+					return false;
+				}
+			}
+		</script>
+   <a href="#main" data-target-id="main" class="sr-only sr-only-focusable jump-to-id">Skip to main content</a> 
+  </div> 
+  <!--START DIV CONTAINER--> 
+  <div id="main-mobile-canvas-container" class=""> 
+   <div id="temp-toggler-mobile-menu" class="text-center toggle-mobile-menu-controls"> 
+    <a href="#mobile-canvas-menu-container" data-toggle-class="show-mobile-nav" class="toggle-mobile-menu outer-link text-center toggle-mobile-menu-controls"> <span class="fa fa-3x fa-bars mobile-menu-closed-icon toggle-mobile-menu-controls"></span><span class="fa fa-3x fa-times mobile-menu-showing-icon toggle-mobile-menu-controls"></span>MENU </a> 
+   </div> 
+   <div class="offcanvas-left toggle-mobile-menu-controls" id="mobile-canvas-menu-container"> 
+    <div class="mobile-canvas-nav-header"> 
+     <div class="mobile-canvas-menu-logo-block"> 
+      <div id="mobileLogoBlock"> 
+       <a href="/som"> <img class="img-responsive" src="/images/som/final_logo_migov_white_526452_7.png" alt="State of Michigan "> </a> 
+      </div> 
+      <div id="mobileSiteTitle"> 
+       <a href="/som"> 
+        <div class="page-site-header">
+         <div class="bannerLgTxt"></div>
+        </div> </a> 
+      </div> 
+     </div> 
+     <div class="inner-mobile-menu-toggle"> 
+      <a href="#mobile-canvas-menu-container" data-toggle-class="show-mobile-nav" class="toggle-mobile-menu outer-link btn btn-accent-black"><span class="fa fa-2x fa-bars mobile-menu-closed-icon"></span><span class="fa fa-2x fa-times mobile-menu-showing-icon"></span></a> 
+     </div> 
+    </div> 
+    <div class="site-extra-text bg bg-primary-1">
+     State of Michigan 
+    </div> 
+    <div class="mobile-search-block bg bg-primary-1 padding-bottom-10"> 
+     <div class="searchComponentDiv" id="searchComponentDiv_9910101010101" ng-controller="searchComponentController" ng-init="init(9910101010101)"> 
+      <div ng-if="loadedData"> 
+       <form ng-submit="submitFormLocal()" class="submit-override"> 
+        <div class="clearfix"> 
+         <div class="" angucomplete-alt id="searchInput_9910101010101" placeholder="" pause="10" selected-object="optionChanged" local-data="people" local-search="localSearch" title-field="name" description-field="twitter" minlength="1" input-class="form-control form-control" input-changed="inputChanged" match-class="highlight"> 
+         </div> 
+        </div> 
+       </form> 
+      </div> 
+     </div> 
+     <script>		
+				window.loadedData[9910101010101] = [];
+				window.loadedData[9910101010101]["GSA_COLLECTION"] = "som";
+				
+				window.loadedData[9910101010101]["gsaAgencyText"] = "State~of~Michigan";
+				window.loadedData[9910101010101]["subcategories"] = [];			
+			</script> 
+    </div> 
+    <div id="containerMainMobileLinks"></div> 
+    <div class="branding-bar-links-block"> 
+     <nav class="mobile-branding-links" aria-label="mobile global menu"> 
+      <ul id="m_bannerLinks">
+       <li><a href="/departments" title="State Departments">State Departments</a></li>
+       <li><a href="/services" title="Online Services">Online Services</a></li>
+       <li><a href="/socialmedia" title="Social Media">Social Media</a></li>
+       <li><a href="/somhelp" title="Help Center">Help Center</a></li>
+      </ul> 
+     </nav> 
+    </div> 
+   </div> 
+   <script type="text/javascript">
+	window.agencySitePathCSS = 'som';
+	//window.agencySitePathCSS = window.location.pathname;
+	window.agencyText = 'State~of~Michigan';
+	//window.agencyText = document.getElementsByTagName("title")[0].innerHTML;
+	window.siteClient = window.agencySitePathCSS;
+	// Task 44300 - WEX
+	 
+	window.default_collection = 'som';
+	 window.gsasearch = true;
+	window.usagovCollection = 'mi-'+window.agencySitePathCSS;
+
+	$('document').ready(function(){
+		$('.site-search-form').submit(function(e){
+			e.preventDefault();
+			siteSearchForm($(this));
+		});
+		$('#noAdBlock').hide();
+	});
+	</script> 
+  </div> 
+  <div id="container" class="container-fluid"> 
+   <div id="topMenuSearchContainer bg bg-accent-black" class="search-extended"> 
+    <div class="searchComponentDiv padding-top-20 padding-bottom-20" id="searchComponentDiv_10101010101" ng-controller="searchComponentController" ng-init="init(10101010101)"> 
+     <div ng-if="loadedData"> 
+      <form ng-submit="submitFormLocal()" class="submit-override"> 
+       <div class="container"> 
+        <div class="col-xs-11" angucomplete-alt id="searchInput_10101010101" placeholder="" pause="10" selected-object="optionChanged" local-data="people" local-search="localSearch" title-field="name" description-field="twitter" minlength="1" input-class="form-control form-control" input-changed="inputChanged" match-class="highlight"> 
+        </div> 
+        <div class="col-xs-1 bg bg-accent-black"> 
+         <a href="#" onclick="$('body').removeClass('show-search-form');$('#top-right-search-bar').focus();" title="Close Search Panel" class="fa-2x"> <span class="fa fa-remove"></span> <span class="sr-only">Close Search Box</span> </a> 
+        </div> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+    <script>		
+		window.loadedData[10101010101] = [];
+		window.loadedData[10101010101]["GSA_COLLECTION"] = "som";
+		window.loadedData[10101010101]["gsaAgencyText"] = "State~of~Michigan";
+		window.loadedData[10101010101]["subcategories"] = [];
+	</script> 
+   </div> 
+   <!-- agencyHeaderNavPath agencyCreateHeaderNavP3 --> 
+   <!--div id="bannerArea" role='banner'-->
+   <!-- HEADER 1.1 Live -->
+   <div id="bannerArea" role="banner">
+    <div id="superTop">
+     <!-- SOM banner text --> 
+     <ul id="bannerLinks">
+      <li><a href="/departments" title="State Departments">State Departments</a></li>
+      <li><a href="/services" title="Online Services">Online Services</a></li>
+      <li><a href="/socialmedia" title="Social Media">Social Media</a></li>
+      <li><a href="/somhelp" title="Help Center">Help Center</a></li>
+      <li id="top-right-search-bar" style="display:none;"> <a href="#topMenuSearchContainer" aria-haspopup="true" title="Search Mi.gov" class="top-header-search-link" data-search-field-id=""> <span>Search</span> </a> </li>
+     </ul>
+    </div>
+    <div id="siteBanner">
+     <!-- SOM banner text --> 
+     <div id="headerRow"> 
+      <div class="header-site-title-text"> 
+       <a class="AGENCY_HEADER_L" accesskey="1" href="/som/"><img class="AGENCY_HEADER_L" src="/images/som/mobileSOM_346956_7_398113_7.png" alt="SOM - State of Michigan "></a> 
+      </div> 
+      <div class="header-nav-block">
+       <nav class="main-navigation" role="navigation" aria-label="main navigation">
+        <ul id="nav" class="nav-main"> 
+         <!-- State Of Michigan - Wed May 29 17:25:54 2019 --> 
+         <!-- e-Michigan Portal - Process #1 --> 
+         <!-- Begin Global Nav section -->
+         <!-- End Global Nav section --> 
+         <!-- Begin Responsive Navigation --> 
+         <li id="29943" class="id-29943 "> <a class="lvl1" title="BUSINESS" href="/som/0,4669,7-192-29943---,00.html">BUSINESS</a> </li> 
+         <li id="29939" class="id-29939 "> <a class="lvl1" title="EDUCATION" href="/som/0,4669,7-192-29939---,00.html">EDUCATION</a> </li> 
+         <li id="29942" class="id-29942 "> <a class="lvl1" title="HEALTH" href="/som/0,4669,7-192-29942---,00.html">HEALTH</a> </li> 
+         <li id="29701" class="id-29701 "> <a class="lvl1" title="GOVERNMENT" href="/som/0,4669,7-192-29701---,00.html">GOVERNMENT</a> </li> 
+         <li id="29941" class="id-29941 "> <a class="lvl1" title="SAFETY" href="/som/0,4669,7-192-29941---,00.html">SAFETY</a> </li> 
+        </ul> 
+        <ul id="desktopMobileButton" style="display:none;"> 
+         <li><a aria-haspopup="true" href="#mobile-canvas-menu-container" data-toggle-class="show-mobile-nav" class="toggle-mobile-menu outer-link text-center toggle-mobile-menu-controls"> <span class="fa fa-bars mobile-menu-closed-icon toggle-mobile-menu-controls"></span><span class="fa fa-times mobile-menu-showing-icon toggle-mobile-menu-controls"></span> 
+           <div class="clearfix">
+            MENU
+           </div> </a></li> 
+        </ul> 
+       </nav> 
+      </div> 
+      <!-- End Flyout Navigation -->
+      <!-- Left Links -->
+      <!-- End Left Links -->
+     </div>
+    </div>
+    <div class="siteBannerTxt">
+     State of Michigan 
+    </div> 
+    <div id="horzMenuSubLinksBlock_container" class="container">
+     <div id="horzMenuSubLinksRow">
+      <div id="horzMenuSubLinksBlockBreadCrumb"></div>
+     </div>
+     <div id="horzMenuSubLinksBlock"></div>
+    </div>
+   </div> 
+   <div id="topNavSearch"> 
+    <!-- SEARCH -->
+    <form id="searchform" onsubmit="location.href='https://search.michigan.gov/AppBuilder/search?ctx=SOM&amp;q=' + document.getElementById('query').value;return false;"> 
+     <input accesskey="s" type="TEXT" autocomplete="off" id="query" name="q" placeholder="Search" title="Search"> 
+     <input id="go" type="submit" value="search" name="button" onClick="location.href='https://search.michigan.gov/AppBuilder/search?ctx=SOM&amp;q=' + document.getElementById('query').value;return false;"> 
+    </form>
+    <!-- /SEARCH -->
+   </div>
+   <!-- LEFTNAV agencyCreateLeftNavRD --> 
+   <!-- bodyWrapper --> 
+   <div id="bodyWrapper"> 
+    <!-- contentWrapper --> 
+    <div id="contentWrapper"> 
+     <!-- main -->
+     <div id="main" class="DW page" role="main"> 
+      <div id="breadcrumbContainer">
+       <div id="breadcrumb" role="navigation" aria-label="breadcrumbs">
+        <span style="display: none" id="breadcrumblabel">You are here</span>
+        <ol class="breadcrumb" aria-labelledby="breadcrumblabel">
+         <li><a href="/som/">SOM</a></li> 
+         <li><a href="/som/0,4669,7-192-29941---,00.html" title="SAFETY">SAFETY</a></li>
+        </ol>
+       </div>
+      </div> 
+      <div class="page-header sr-only">
+       <h1>SAFETY</h1>
+      </div> 
+      <!-- Body Begin --> 
+      <!-- State Of Michigan - Tue May 28 18:54:38 2019 --> 
+      <!-- BEGIN MAIN CONTENT AREA ROW -->
+      <div class="row row-eq-height">
+       <div class="row-eq-height col-sm-12 ">
+        <!-- ID COMPONENT_38773 -->
+        <!-- BS PANEL COMPONENT -->
+        <div id="panels_38773" style="width:100%">
+         <!-- Panel GROUP -->
+         <div class="panel-group">
+          <!-- Panel -->
+          <div class="panel splash-panel" style="background-image:url(https://www.michigan.gov/images/som/iStock_000063446079_523089_7.jpg);" id="block-1_38773"> 
+           <h2 class="panel-heading"><span class="panel-heading-inner">SAFETY</span></h2> 
+           <!-- Panel BODY -->
+           <div class="panel-body">
+            <!-- State Of Michigan - Fri Apr 26 14:34:12 2019 --> 
+            <!-- BEGIN MAIN CONTENT AREA ROW -->
+            <div class="row row-eq-height">
+             <div class="row-eq-height col-sm-6 ">
+              <!-- ID COMPONENT_92340 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_92340" class="comp standard  list splash-feature-component                                  first-featured   first-like-ctitle"> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList   ">
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/mdhhs/0,5885,7-339-73971_7119_71039---,00.html" title=" Human trafficking is a form of modern-day slavery in which people profit from the control and exploitation of others. If you suspect that someone is a victim of human trafficking, call  855-444-3911  any time day or night. 
+">Human Trafficking </a><span class="shortdesc"><p>Human trafficking is a form of modern-day slavery in which people profit from the control and exploitation of others. If you suspect that someone is a victim of human trafficking, call <a href="tel:1-855-444-3911">855-444-3911</a> any time day or night.</p> <span class="moreLink"><a title="Human Trafficking" href="/mdhhs/0,5885,7-339-73971_7119_71039---,00.html">&nbsp;Learn More About Human Trafficking</a></span></span></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_92340 -->
+             </div>
+            </div>
+            <!-- END MAIN CONTENT AREA ROW -->
+            <!-- END Panel BODY -->
+           </div>
+           <!-- END Panel block-1 -->
+          </div>
+          <!-- Panel -->
+          <div class="panel bg bg-gray-light panel-heading-centered" style="background-image:url();" id="block-2_38773"> 
+           <h2 class="panel-heading"><span class="panel-heading-inner">Online Services</span></h2> 
+           <!-- Panel BODY -->
+           <div class="panel-body">
+            <!-- State Of Michigan - Fri Apr 26 14:34:13 2019 --> 
+            <!-- BEGIN MAIN CONTENT AREA ROW -->
+            <div class="row row-eq-height">
+             <div class="row-eq-height col-sm-5 ">
+              <!-- ID COMPONENT_92341 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_92341" class="comp standard  bg bg-accent-1 comp-title-border comp-title-border-gray-light list first-featured list-group-transparent-links-default-2 list-group-inline-links background-image background-image-cover transparent-90" style=" background-image:url(//www.michigan.gov/images/som/iStock_000023703732v2_525050_7.jpg);">
+               <h2 class="cTitle" style="color:#ffffff;">Offender Tracking Information System (OTIS)</h2> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList  NONE ">
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "><span class="bodylinks"></span><span class="shortdesc"><p>The Offender Tracking Information System (OTIS) contains information about prisoners, parolees and probationers who are currently under supervision, or who are still within three years of their supervision discharge date.</p> </span></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/corrections/0,1607,7-119-1409---,00.html" title="MORE INFORMATION">MORE INFORMATION </a></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_92341 -->
+             </div>
+             <div class="row-eq-height col-sm-7 ">
+              <!-- ID COMPONENT_92342 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_92342" class="comp standard  list online-services-list-component"> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList  NONE ">
+                <li class="col_2" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/corrections/0,1607,7-119-1384-72547--,00.html" title="The Michigan Crime Victim Notification Network (MCVNN) provides automated telephone notifications to registered crime victims and other concerned citizens in the event of the release of a prisoner.  ">Michigan Crime Victim Notification Network (MCVNN) </a></span></span></li>
+                <li class="col_2" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="https://www.michigan.gov/ichat" title=" Anyone can search the official Michigan State Police (MSP) criminal history record database for $10.00 per search, using a Visa, MasterCard or Discover credit or debit card. At a minimum, the full name of the person and his/her date of birth are required to complete the search. 
+">ICHAT - Internet Criminal History Tool - Background Checks </a></span></span></li>
+                <li class="col_2" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="http://dhhs.michigan.gov/awol/" title="Missing Children Locator">Missing Children Locator </a></span></span></li>
+                <li class="col_2" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="http://www.ncmec.org/" target="_blank" title="National Center for Missing &amp; Exploited Children">National Center for Missing &amp; Exploited Children </a></span></span></li>
+                <li class="col_2" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="https://secure.ag.state.mi.us/complaints/net-crimes.aspx" target="_blank" title="Computer/Internet Abuses Against Children">Computer/Internet Abuses Against Children </a></span></span></li>
+                <li class="col_2" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="http://www.mipsor.state.mi.us/" title="Public Sex Offender Registry (PSOR) Inquiry">Public Sex Offender Registry (PSOR) Inquiry </a></span></span></li>
+                <li class="col_2" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/safeschools" title="Safe Schools Initiative">Safe Schools Initiative </a></span></span></li>
+                <li class="col_2" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="http://mdotjboss.state.mi.us/TCPS/login/welcome.jsp" title="Traffic Crash Purchasing System (TCPS)">Traffic Crash Purchasing System (TCPS) </a></span></span></li> 
+               </ul>
+               <span class="moreLink"><a title="ALL SERVICES " href="/som/0,4669,7-192-30896---,00.html">ALL SERVICES</a></span>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_92342 -->
+             </div>
+            </div>
+            <!-- END MAIN CONTENT AREA ROW -->
+            <!-- END Panel BODY -->
+           </div>
+           <!-- END Panel block-2 -->
+          </div>
+          <!-- Panel -->
+          <div class="panel hide-panel-heading bg bg-primary-1" style="background-image:url();" id="block-3_38773"> 
+           <h2 class="panel-heading"><span class="panel-heading-inner">Spotlight News</span></h2> 
+           <!-- Panel BODY -->
+           <div class="panel-body">
+            <!-- State Of Michigan - Tue May 28 18:54:39 2019 --> 
+            <!-- BEGIN MAIN CONTENT AREA ROW -->
+            <div class="row row-eq-height">
+             <div class="row-eq-height col-sm-7 ">
+              <!-- ID COMPONENT_92344 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_92344" class="comp standard  list list-read-more-next list-no-bullets">
+               <h2 class="cTitle" style="">Spotlight</h2> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList  NONE ">
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/som/0,4669,7-192-76149-498319--,00.html" title="  May 28, 2019  
+
+ Preliminary reports indicate 10 people lost their lives in eight separate traffic crashes&nbsp;during the 2019 Memorial Day holiday weekend. In comparison, 19 people were killed in 15 fatal traffic&nbsp;crashes during the 2018 Memorial Day holiday weekend. 
+">Preliminary Findings Show Decrease in Traffic Deaths During Memorial Day Holiday Weekend </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/som/0,4669,7-192-76149-498191--,00.html" title=" Michigan State Police, Emergency Management and Homeland Security Division Commander, Capt. Emmitt McGowan is pleased to announce that Therese Cremonte, of Livingston County, is the 2018 Michigan Professional Emergency Manager of the Year. Cremonte received the award at a special ceremony in Grand Rapids on May 6. 
+">State Police Names Livingston County Resident as 2018 Michigan Professional Emergency Manager of the Year </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/som/0,4669,7-192-76149-496740--,00.html" title=" Wayne County residents and business owners are encouraged to call their local government or public administration to report personal property damage as well as receive flood recovery guidance. Do not call 9-1-1 to report flood damage. 
+">Wayne County Residents Urged to Report Flood Damage to Local Officials </a></span></span></li> 
+               </ul>
+               <span class="moreLink"><a title="MORE NEWS Spotlight" href="/som/0,4669,7-192-34757---,00.html">MORE NEWS</a></span>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_92344 -->
+             </div>
+             <div class="row-eq-height col-sm-5 ">
+              <!-- ID COMPONENT_92343 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_92343" class="comp standard  list list-image-overlay list-no-bullets padding-0 first-featured first-like-ctitle-small backgroundPos-xy-50" style=" background-image:url(/images/som/drunkdriving_519344_7.jpg);"> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList  DISC ">
+                <li class="col_1" style=""><span class="inner"><span class="thumbnail CENTER"><a href="/som/0,4669,7-192-29941_36597_76149_30897-378898--,00.html"><span style="display: block; margin-left: auto; margin-right: auto;"><img src="/images/som/drunkdriving_519344_7.jpg" alt="Car Keys and Alcoholic Beverage" title="Car Keys and Alcoholic Beverage"></span></a></span><span class="contentBlock "> <a class="bodylinks" href="/som/0,4669,7-192-29941_36597_76149_30897-378898--,00.html" title=" Law enforcement is reminding motorists to make life-saving choices. 
+">Drunk Driving Crackdown </a><span class="shortdesc"><p>Law enforcement is reminding motorists to make life-saving choices.</p> </span></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_92343 -->
+             </div>
+            </div>
+            <!-- END MAIN CONTENT AREA ROW -->
+            <!-- END Panel BODY -->
+           </div>
+           <!-- END Panel block-3 -->
+          </div>
+          <!-- Panel -->
+          <div class="panel hide-panel-heading bg bg-primary-2" style="background-image:url();" id="block-4_38773"> 
+           <h2 class="panel-heading"><span class="panel-heading-inner">Tip Lines</span></h2> 
+           <!-- Panel BODY -->
+           <div class="panel-body">
+            <!-- State Of Michigan - Fri Apr 26 14:34:14 2019 --> 
+            <!-- BEGIN MAIN CONTENT AREA ROW -->
+            <div class="row row-eq-height">
+             <div class="row-eq-height col-sm-8 ">
+              <!-- ID COMPONENT_92351 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_92351" class="comp standard  list item-col-bs-2 list-no-bullets list-read-more-right list-read-more-next list-read-more-block icon-img item-img-left">
+               <h2 class="cTitle" style="">Tip Lines</h2> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList  NONE ">
+                <li class="col_2" style="display:block;"><span class="inner"><span class="thumbnail LEFT"><img src="/images/som/SOMicon_PhoneWhite_519530_7.png" alt="Icon: Phone" title="Icon: Phone"></span><span class="contentBlock "><span class="bodylinks">Crime Stoppers</span><span class="shortdesc"><p><a href="tel:1-800-773-2587">800-773-2587</a></p></span></span></span></li>
+                <li class="col_2" style="display:block;"><span class="inner"><span class="thumbnail LEFT"><img src="/images/som/SOMicon_PhoneWhite_519530_7.png" alt="Icon: Phone" title="Icon: Phone"></span><span class="contentBlock "><span class="bodylinks">MI Most Wanted</span><span class="shortdesc"><p><a href="tel:1-877-445-8477">877-445-8477</a></p></span></span></span></li>
+                <li class="col_2" style="display:block;"><span class="inner"><span class="thumbnail LEFT"><img src="/images/som/SOMicon_PhoneWhite_519530_7.png" alt="Icon: Phone" title="Icon: Phone"></span><span class="contentBlock "><span class="bodylinks">Report Suspicious Activity</span><span class="shortdesc"><p><a href="tel:1-855-642-4847">855-642-4847</a></p></span></span></span></li>
+                <li class="col_2" style="display:block;"><span class="inner"><span class="thumbnail LEFT"><img src="/images/som/SOMicon_PhoneWhite_519530_7.png" alt="Icon: Phone" title="Icon: Phone"></span><span class="contentBlock "><span class="bodylinks">Missing Children</span><span class="shortdesc"><p><a href="tel:1-855-642-4847">855-642-4847</a></p> </span></span></span></li>
+                <li class="col_2" style="display:block;"><span class="inner"><span class="thumbnail LEFT"><img src="/images/som/SOMicon_PhoneWhite_519530_7.png" alt="Icon: Phone" title="Icon: Phone"></span><span class="contentBlock "><span class="bodylinks">Methamphetamine</span><span class="shortdesc"><p><a href="tel:1-866-638-4847">866-638-4847</a></p></span></span></span></li>
+                <li class="col_2" style="display:block;"><span class="inner"><span class="thumbnail LEFT"><img src="/images/som/SOMicon_PhoneWhite_519530_7.png" alt="Icon: Phone" title="Icon: Phone"></span><span class="contentBlock "><span class="bodylinks">OK2SAY Student Safety</span><span class="shortdesc"><p><a href="tel:1-855-565-2729">855-565-2729</a></p></span></span></span></li>
+                <li class="col_2" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/msp/0,4643,7-123-1579_4502---,00.html" title="MORE TIP LINES">MORE TIP LINES </a></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_92351 -->
+             </div>
+             <div class="row-eq-height col-sm-4 ">
+              <!-- ID COMPONENT_92350 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_92350" class="comp standard  list    bg bg-primary-2 transparent-90  background-image-cover background-image               item-col-bs-1 all-like-ctitle-small  img-icon list-thumbnails-rounded-secondary-2" style=" background-image:url(//www.michigan.gov/images/som/mspBackground_525057_7.png);">
+               <h2 class="cTitle" style="">State Police</h2> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList   ">
+                <li class="col_1" style=""><span class="inner"><span class="thumbnail CENTER"><a href="/msp/0,4643,7-123-1878_1711---,00.html"><span style="display: block; margin-left: auto; margin-right: auto;"><img src="/images/som/SOMicon_Information_525557_7.png" alt="Info icon" title="Info icon"></span></a></span><span class="contentBlock "> <a class="bodylinks" href="/msp/0,4643,7-123-1878_1711---,00.html" title="MSP Safety Tips">MSP Safety Tips </a></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_92350 -->
+             </div>
+            </div>
+            <div class="row row-eq-height">
+             <div class="row-eq-height col-sm-7 ">
+              <!-- ID COMPONENT_92352 -->
+              <!-- /ID COMPONENT_92352 -->
+             </div>
+            </div>
+            <!-- END MAIN CONTENT AREA ROW -->
+            <!-- END Panel BODY -->
+           </div>
+           <!-- END Panel block-4 -->
+          </div>
+          <!-- Panel -->
+          <div class="panel panel-heading-centered" style="background-image:url();" id="block-5_38773"> 
+           <h2 class="panel-heading"><span class="panel-heading-inner">Families and Individuals</span></h2> 
+           <!-- Panel BODY -->
+           <div class="panel-body">
+            <!-- State Of Michigan - Fri Apr 26 14:34:15 2019 --> 
+            <!-- BEGIN MAIN CONTENT AREA ROW -->
+            <div class="row row-eq-height">
+             <div class="row-eq-height col-sm-12 ">
+              <!-- ID COMPONENT_92354 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_92354" class="comp standard  list item-col-bs-4 list-no-bullets list-read-more-center list-read-more-default-2 bg list-group-gray-light"> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList  DISC ">
+                <li class="col_4" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/michiganprepares" title=" When an emergency happens, your safety and the safety of your family may depend on decisions made in a few seconds. Creating a plan and talking about it ahead of time can make all the difference.&nbsp; 
+">Michigan Prepares </a><span class="shortdesc"><p>When an emergency happens, your safety and the safety of your family may depend on decisions made in a few seconds. Creating a plan and talking about it ahead of time can make all the difference.&nbsp;</p> <span class="moreLink"><a title="Michigan Prepares" href="/michiganprepares">&nbsp;FIND OUT MORE</a></span></span></span></span></li>
+                <li class="col_4" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/msp/0,1607,7-123-1589_1878_24961---,00.html" title=" This registry is made available through the Internet with the intent to better assist the public in preventing and protecting against the commission of future criminal sexual acts by convicted sex offenders. 
+">Sex Offender Registry </a><span class="shortdesc"><p>This registry is made available through the Internet with the intent to better assist the public in preventing and protecting against the commission of future criminal sexual acts by convicted sex offenders.</p> <span class="moreLink"><a title="Sex Offender Registry" href="/msp/0,1607,7-123-1589_1878_24961---,00.html">&nbsp;FIND OUT MORE</a></span></span></span></span></li>
+                <li class="col_4" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/som/0,4669,7-192-29941_30586_240---,00.html" title=" The Domestic Violence Resource Directory provides a guide to services in your area which&nbsp;may include shelter, legal and other kinds of advocacy, counseling, support groups, transitional housing and many others provided by the domestic violence programs across the state. 
+">Domestic Violence </a><span class="shortdesc"><p>The Domestic Violence Resource Directory provides a guide to services in your area which&nbsp;may include shelter, legal and other kinds of advocacy, counseling, support groups, transitional housing and many others provided by the domestic violence programs across the state.</p> <span class="moreLink"><a title="Domestic Violence" href="/som/0,4669,7-192-29941_30586_240---,00.html">&nbsp;FIND OUT MORE</a></span></span></span></span></li>
+                <li class="col_4" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/ag/0,4534,7-359-82917_81841---,00.html" title=" The Michigan Crime Victim Notification Network is an automated notification system greatly enhances victim safety and convenience while providing added response capabilities for agencies implementing crime victims rights. 
+
+  800-770-7657  
+">Crime Victim Rights </a><span class="shortdesc"><p>The Michigan Crime Victim Notification Network is an automated notification system greatly enhances victim safety and convenience while providing added response capabilities for agencies implementing crime victims rights.</p> <p><a href="tel:1-800-770-7657">800-770-7657</a></p> <span class="moreLink"><a title="Crime Victim Rights" href="/ag/0,4534,7-359-82917_81841---,00.html">&nbsp;FIND OUT MORE</a></span></span></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_92354 -->
+             </div>
+            </div>
+            <!-- END MAIN CONTENT AREA ROW -->
+            <!-- END Panel BODY -->
+           </div>
+           <!-- END Panel block-5 -->
+          </div>
+          <!-- Panel -->
+          <div class="panel panel-heading-centered" style="background-image:url();" id="block-6_38773"> 
+           <h2 class="panel-heading"><span class="panel-heading-inner">Children and Seniors</span></h2> 
+           <!-- Panel BODY -->
+           <div class="panel-body">
+            <!-- State Of Michigan - Fri Apr 26 14:34:27 2019 --> 
+            <!-- BEGIN MAIN CONTENT AREA ROW -->
+            <div class="row row-eq-height">
+             <div class="row-eq-height col-sm-6 ">
+              <!-- ID COMPONENT_92357 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_92357" class="comp standard  list list-read-more-transparent-default-2 list-read-more list-no-bullets first-featured first-like-ctitle bg bg-primary-1 transparent-90 background-image backgroundPos-xy-50" style=" background-image:url(//www.michigan.gov/images/som/iStock_000026835918v2_525058_7.jpg);">
+               <h2 class="cTitle" style="color:#ffffff;">Protective Services - Adults and Children</h2> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList  DISC ">
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/dhs/0,1607,7-124-5452_7119---,00.html" target="_blank" title=" If you suspect abuse or neglect of a loved one, child or adult, help is only a phone call away.&nbsp; 
+
+  Call  855-444-3911  any time day or night.&nbsp;  
+"> </a><span class="shortdesc"><p>If you suspect abuse or neglect of a loved one, child or adult, help is only a phone call away.&nbsp;</p> <p><span style="line-height:20.8px">Call <a href="tel:1-855-444-3911">855-444-3911</a> any time day or night.&nbsp;</span></p> </span></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_92357 -->
+             </div>
+             <div class="row-eq-height col-sm-3 ">
+              <!-- ID COMPONENT_92355 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_92355" class="comp standard  list  list-no-ctitle    bg bg-gray-light       match-content-list-height           first-featured first-featured-eqh  first-featured-img-center first-like-ctitle-small  first-like-ctitle-small">
+               <h2 class="cTitle" style="">Children</h2> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList   ">
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "><span class="bodylinks">Children</span></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/msp/0,4643,7-123-1878_57995---,00.html" title="Amber Alerts">Amber Alerts </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/mdhhs/0,5885,7-339-71548_57836---,00.html" title="Safe Sleep for Infants">Safe Sleep for Infants </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/safeschools/" title="Safe Schools">Safe Schools </a></span></span></li> 
+               </ul>
+               <span class="moreLink"><a title="Children Children" href="/som/0,4669,7-192-60649---,00.html">Children</a></span>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_92355 -->
+             </div>
+             <div class="row-eq-height col-sm-3 ">
+              <!-- ID COMPONENT_92356 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_92356" class="comp standard  list     bg bg-gray-light    list-read-more-next   match-content-list-height           first-featured first-featured-eqh  first-featured-img-center first-like-ctitle-small  first-like-ctitle-small"> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList   ">
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "><span class="bodylinks">Seniors</span></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/osa" target="_blank" title=" The Office on Aging's vision for MiSeniors.net has been to build an elderly and long-term care services portal giving all visitors access to a wealth of current information and supportive services. 
+">Office of Services to the Aging </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/ag/0,4534,7-359-82915_82919_82267---,00.html" title="Attorney General Helping Seniors">Attorney General Helping Seniors </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/documents/ElderlyDriving_0909_84709_7.pdf" title="&quot;How's My Driving&quot; brochure">"How's My Driving" brochure <img class="docIcon" src="/images/PDF.gif" alt="PDF icon"></a></span></span></li> 
+               </ul>
+               <span class="moreLink"><a title="Seniors " href="/som/0,4669,7-192-30849---,00.html">Seniors</a></span>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_92356 -->
+             </div>
+            </div>
+            <!-- END MAIN CONTENT AREA ROW -->
+            <!-- END Panel BODY -->
+           </div>
+           <!-- END Panel block-6 -->
+          </div>
+          <!-- Panel -->
+          <div class="panel bg bg-gray-light panel-heading-centered" style="background-image:url();" id="block-7_38773"> 
+           <h2 class="panel-heading"><span class="panel-heading-inner">Safety Topics</span></h2> 
+           <!-- Panel BODY -->
+           <div class="panel-body">
+            <!-- State Of Michigan - Fri May 17 12:13:55 2019 --> 
+            <!-- BEGIN MAIN CONTENT AREA ROW -->
+            <div class="row row-eq-height">
+             <div class="row-eq-height col-sm-3 ">
+              <!-- ID COMPONENT_92358 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_92358" class="comp standard  list    bg bg-default-2                    img-icon          first-featured first-featured-eqh  first-featured-img-center first-like-ctitle-small"> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList   ">
+                <li class="col_1" style=""><span class="inner"><span class="thumbnail CENTER"><span style="display: block; margin-left: auto; margin-right: auto;"><img src="/images/som/SOMicon_Plant_519649_7.png" alt="Icon: Plant" title="Icon: Plant"></span></span><span class="contentBlock "><span class="bodylinks"><strong>Environmental</strong></span></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/ehsguide" title=" A tool to help manufacturers understand state and federal environmental, health, and safety requirements. Brought to you by The Michigan Department of Natural Resources and Environment and The Michigan Department of Energy, Labor, and Economic Growth. 
+">Guide to Environmental, Health, and Safety Regulations-Read online </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/deq/0,1607,7-135-3308_3333---,00.html" target="_blank" title="DEQ Workshops">DEQ Workshops </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/invasives" title="Invasive Species">Invasive Species </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="http://www.deq.state.mi.us/beach/" title="Beach Monitoring System">Beach Monitoring System </a></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_92358 -->
+             </div>
+             <div class="row-eq-height col-sm-3 ">
+              <!-- ID COMPONENT_92361 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_92361" class="comp standard  list    bg bg-default-2                    img-icon          first-featured first-featured-eqh  first-featured-img-center first-like-ctitle-small"> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList   ">
+                <li class="col_1" style=""><span class="inner"><span class="thumbnail CENTER"><span style="display: block; margin-left: auto; margin-right: auto;"><img src="/images/som/SOMicon_Money_519655_7.png" alt="Icon: Money" title="Icon: Money"></span></span><span class="contentBlock "><span class="bodylinks"><strong>Financial</strong></span></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/som/0,4669,7-192-76153-268928--,00.html" title="Enforcement">Enforcement </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/ag/0,4534,7-359-81903_20942---,00.html" title="Consumer Alerts">Consumer Alerts </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="https://secure.ag.state.mi.us/complaints/consumer.aspx" title="File a Complaint">File a Complaint </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/lara/0,4601,7-154-10555_12902_28358---,00.html" title="Financial Direction">Financial Direction </a></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_92361 -->
+             </div>
+             <div class="row-eq-height col-sm-3 ">
+              <!-- ID COMPONENT_92360 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_92360" class="comp standard  list    bg bg-default-2                    img-icon          first-featured first-featured-eqh  first-featured-img-center first-like-ctitle-small"> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList   ">
+                <li class="col_1" style=""><span class="inner"><span class="thumbnail CENTER"><span style="display: block; margin-left: auto; margin-right: auto;"><img src="/images/som/SOMicon_Briefcase_519660_7.png" alt="Icon: Briefcase" title="Icon: Briefcase"></span></span><span class="contentBlock "><span class="bodylinks"><strong>Work</strong></span></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/lara/0,1607,7-154-11407---,00.html" title="MIOSHA - Michigan Occupational Safety and Health Administration">MIOSHA - Michigan Occupational Safety and Health Administration </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/lara/0,4601,7-154-10575_17394_17420---,00.html" title="Elevator Safety">Elevator Safety </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/wca/" title="Worker's Compensation Information">Worker's Compensation Information </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/som/0,4669,7-192-76153-39941--,00.html" title="General Industry Safety and Health Standards">General Industry Safety and Health Standards </a></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_92360 -->
+             </div>
+             <div class="row-eq-height col-sm-3 ">
+              <!-- ID COMPONENT_92359 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_92359" class="comp standard  list    bg bg-default-2                    img-icon          first-featured first-featured-eqh  first-featured-img-center first-like-ctitle-small"> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList   ">
+                <li class="col_1" style=""><span class="inner"><span class="thumbnail CENTER"><span style="display: block; margin-left: auto; margin-right: auto;"><img src="/images/som/SOMicon_Sailboat_519668_7.png" alt="Icon:Sailboat" title="Icon:Sailboat"></span></span><span class="contentBlock "><span class="bodylinks"><strong>Recreation</strong></span></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="http://www.dnr.state.mi.us/recnsearch/" title="Hunter, Marine, ORV, Snowmobile Classes">Hunter, Marine, ORV, Snowmobile Classes </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/som/0,4669,7-192-76153-37311--,00.html" title=" Michigan conservation officers and Michigan county sheriffs encourage all persons operating boats in Michigan to enroll in a boating safety course. 
+">Boat operator-age restrictions - who may operate a boat? </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="https://www.deq.state.mi.us/beach/" target="_blank" title=" Summer is here! It's time to take a break and put your toes in the sand! Before you go, check the beach conditions with the  Michigan BeachGuard System ! You can use it to check the weather at your favorite beach, and find out about closings and advisories.&nbsp; 
+">Michigan BeachGuard System </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/mdot/0,1607,7-151-9615---,00.html" title=" Information regarding road repairs, bicycling, ridesharing, rest areas, welcome centers, lane closures, road work advisories and more. 
+">Road &amp; Travel Information </a></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_92359 -->
+             </div>
+            </div>
+            <div class="row row-eq-height">
+             <div class="row-eq-height col-sm-6 col-sm-offset-3">
+              <!-- ID COMPONENT_107390 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_107390" class="comp list list-no-ctitle                                list-group-first list-group-first-link-accent-1">
+               <h2 class="cTitle" style="">topics</h2> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList NONE ">
+                <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/som/0,4669,7-192-29941_30586---,00.html" title="MORE RELATED SAFETY TOPICS">MORE RELATED SAFETY TOPICS </a></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_107390 -->
+             </div>
+            </div>
+            <!-- END MAIN CONTENT AREA ROW -->
+            <!-- END Panel BODY -->
+           </div>
+           <!-- END Panel block-7 -->
+          </div>
+          <!-- Panel -->
+          <div class="panel panel-heading-centered" style="background-image:url();" id="block-8_38773"> 
+           <h2 class="panel-heading"><span class="panel-heading-inner">Related Resources</span></h2> 
+           <!-- Panel BODY -->
+           <div class="panel-body">
+            <!-- State Of Michigan - Fri Apr 26 14:34:29 2019 --> 
+            <!-- BEGIN MAIN CONTENT AREA ROW -->
+            <div class="row row-eq-height">
+             <div class="row-eq-height col-sm-5 ">
+              <!-- ID COMPONENT_92365 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_92365" class="comp standard  list list-image-overlay list-no-bullets padding-0 first-featured first-like-ctitle-small backgroundPos-xy-50" style=" background-image:url(/images/som/iStock_000034730584_519687_7.jpg);"> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList  NONE ">
+                <li class="col_1" style=""><span class="inner"><span class="thumbnail CENTER"><a href="https://midashboard.michigan.gov/public-safety"><span style="display: block; margin-left: auto; margin-right: auto;"><img src="/images/som/iStock_000034730584_519687_7.jpg" alt="Police Officers smiling." title="Police Officers smiling."></span></a></span><span class="contentBlock "> <a class="bodylinks" href="https://midashboard.michigan.gov/public-safety" title=" View crime statistics made available to demonstrate a commitment to transparency and accountability. 
+">Public Safety Dashboard </a><span class="shortdesc"><p>View crime statistics made available to demonstrate a commitment to transparency and accountability.</p> </span></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_92365 -->
+             </div>
+             <div class="row-eq-height col-sm-3 ">
+              <!-- ID COMPONENT_92364 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_92364" class="comp standard  list list-read-more-next list-no-bullets">
+               <h2 class="cTitle" style="">DEPARTMENTS</h2> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList  NONE ">
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/msp/" title=" .link-spacing {
+ padding-bottom: 20px;
+ }
+ 
+ The Michigan State Police (MSP) provides 24-hour statewide law enforcement and public safety services throughout Michigan. Its primary responsibilities are to reduce the opportunities for crime, reduce traffic accidents through diligent and fair enforcement of the law, and act as a first responder to any citizen's needs that can be addressed through the resources of the criminal justice system. 
+
+  MSP Organization  
+
+  MSP FOIA  
+
+   Contact MSP   
+">State Police </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/corrections/" title=" .link-spacing {
+ padding-bottom: 20px;
+ }
+ 
+ The Michigan Department of Corrections (MDOC) administers Michigan's adult prison, probation, and parole systems. The department has jurisdiction over all adults convicted of felonies who are sentenced to prison. Convicted felons who are not sentenced to prison terms are either sentenced to a county jail term or are supervised in the community through a system called probation. Probation services for felons are provided by the department for the various felony courts in Michigan. 
+
+  MDOC Organization  
+
+  MDOC FOIA  
+
+   Contact MDOC   
+">Corrections </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/ag" title=" .link-spacing {
+ padding-bottom: 20px;
+ }
+ 
+ The Michigan Attorney General is the top lawyer for the State of Michigan. When public legal matters arise, the Attorney General’s Office renders opinions on matters of law, and provides legal counsel for the legislature and for each officer, department, board, and commission of state government. The Attorney General’s Office provides legal representation in court actions and assists in the conduct of official hearings held by state agencies. 
+
+  AG Organization  
+
+  AG FOIA  
+
+   Contact AG   
+">Attorney General </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/egle" title=" .link-spacing {
+ padding-bottom: 20px;
+ }
+ 
+ The Michigan Department of Environment, Great Lakes, and&nbsp;Energy (EGLE) promotes wise management of Michigan's air, land, and water resources to support a sustainable environment, healthy communities, and vibrant economy. 
+
+  EGLE Organization  
+
+  EGLE FOIA  
+
+   Contact EGLE   
+">Environment, Great Lakes, and Energy </a></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_92364 -->
+             </div>
+             <div class="row-eq-height col-sm-4 ">
+              <!-- ID COMPONENT_92366 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_92366" class="comp standard  list list-read-more-next list-no-bullets">
+               <h2 class="cTitle" style="">SITES AND INFORMATION</h2> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList  NONE ">
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/mleom/" title="Michigan Law Enforcement Officers Memorial Monument">Michigan Law Enforcement Officers Memorial Monument </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/cybersecurity" title="Michigan Cybersecurity">Michigan Cybersecurity </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/clear" title="Council on Law Enforcement and Reinvention">Council on Law Enforcement and Reinvention </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/mioc" title="Michigan Intelligence Operations Center">Michigan Intelligence Operations Center </a></span></span></li> 
+               </ul>
+               <span class="moreLink"><a title="MORE INFORMATION SITES AND INFORMATION" href="/som/0,4669,7-192-30591---,00.html">MORE INFORMATION</a></span>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_92366 -->
+             </div>
+            </div>
+            <!-- END MAIN CONTENT AREA ROW -->
+            <!-- END Panel BODY -->
+           </div>
+           <!-- END Panel block-8 -->
+          </div>
+          <!-- END Panel GROUP -->
+         </div>
+         <!-- END Panel COMPONENT -->
+        </div>
+        <!-- /ID COMPONENT_38773 -->
+       </div>
+      </div>
+      <!-- END MAIN CONTENT AREA ROW --> 
+      <!-- Body End --> 
+     </div> 
+     <!-- START RIGHT_NAV _29941__29941_29941 ~ 7-192-_29941__29941_29941--- ~ 7-192-_29941__29941_29941--- --> 
+     <!-- State Of Michigan - Tue May 28 18:54:39 2019 --> 
+     <!-- BEGIN RIGHTNAV HTML CODE  --> 
+     <!-- Agency category -->
+     <!-- Begin Global Nav section RD -->
+     <!-- End Global Nav section RD -->
+     <!-- End My Interests/RightNav Links/Related Content/Right Links --> 
+     <!-- Cache Debug Info
+
+--> 
+     <!-- END RIGHT_NAV --> 
+     <!-- /div --> 
+    </div>
+    <!-- /contentWrapper --> 
+   </div>
+   <!-- /bodyWrapper --> 
+   <!-- BOTTOMNAV --> 
+   <!-- BEGIN FOOTER RD --> 
+   <div id="footerArea" role="contentinfo" style="clear: both"> 
+    <!-- begin expanded footer -->
+    <div id="expandedFooter">
+     <div id="cat_72339" class="footer_1">
+      <h2>Michigan.gov logo</h2>
+      <ul>
+       <li><a href="/som"><img src="/images/som/somFooterLogoBOW2015_491229_7.png" alt="Michigan.gov"></a></li>
+      </ul>
+     </div>
+     <div id="agencylinks" class="footer_1">
+      <ul>
+       <li><a href="/som/0,4669,7-192-39925---,00.html">Foreign Languages</a></li>
+       <li><a href="/disabilityresources">Disability Resources</a></li>
+      </ul>
+     </div>
+     <div id="policylinks" class="footer_1">
+      <ul>
+       <li><a href="/">Michigan.gov Home</a></li>
+       <li><a href="/adaform">ADA</a></li>
+       <li><a href="/minewswire">Michigan News</a></li>
+       <li><a href="/som/0,4669,7-192--281460--,00.html">Policies</a></li>
+      </ul>
+     </div>
+    </div>
+    <br>
+    <span class="copyright"><br>Copyright 2019 State of Michigan</span>
+    <!-- end expanded footer -->
+    <script type="text/javascript">
+if (typeof jQuery == 'undefined') {
+    document.querySelector('body').classList.remove('matching-heights-processing');
+	document.getElementById("noAdBlock").style.display = "block";
+}
+</script> 
+   </div> 
+   <!--END DIV CONTAINER--> 
+  </div> 
+  <!-- Mega Menu Block --> 
+  <div id="megaMenuBlock"> 
+   <div id="megaMenuSubLinksBlock_container"> 
+    <div class="container"> 
+     <div class="col-xs-3"> 
+      <div id="megaMenuLogoBlock"> 
+       <a href="/som"> <img src="/images/som/final_logo_migov_white_526452_7.png" class="img-responsive logo" alt="State of Michigan "></a> 
+      </div> 
+     </div> 
+     <div class="col-xs-9"> 
+      <div id="megaMenuSubLinksBlockBreadCrumb"></div> 
+      <div id="megaMenuSubLinksBlock"></div> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="megaMenuSearchBlock"></div> 
+  </div> 
+  <style type="text/css">
+
+</style> 
+  <!-- stmiws102.prdcloud.fms.ibmcloud.com rjp NT -->  
+ </body>
+</html>

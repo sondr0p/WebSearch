@@ -1,0 +1,927 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js" lang="en" xml:lang="en">
+ <!--<![endif]-->
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <meta charset="utf-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+  <title>Blog — Central Intelligence Agency</title> 
+  <meta name="viewport" content="width=device-width">
+  <meta name="LastModified" content="May 07, 2019"> 
+  <link rel="stylesheet" href="/++theme++contextual.agencytheme/css/jobcart.css"> 
+  <link rel="stylesheet" href="/++theme++contextual.agencytheme/css/smallscreen.css"> 
+  <link rel="stylesheet" href="/++theme++contextual.agencytheme/css/modules.css"> 
+  <!--[if lt IE 9]><link href="/++theme++contextual.agencytheme/css/fullscreen.css" rel="stylesheet" type="text/css"><![endif]--> 
+  <link href="/++theme++contextual.agencytheme/css/fullscreen.css" rel="stylesheet" type="text/css" media="only screen and (min-width: 993px)"> 
+  <script src="/++theme++contextual.agencytheme/js/modernizr.custom.73407.js"></script> 
+  <script type="text/javascript" src="/++theme++contextual.agencytheme/js/jquery-1.8.3.min.js"></script> 
+  <script type="text/javascript" src="/++theme++contextual.agencytheme/js/response.min.js"></script> 
+  <script type="text/javascript" src="/++theme++contextual.agencytheme/js/rwd.js"></script> 
+  <script type="text/javascript" src="/++theme++contextual.agencytheme/js/jquery.main.js"></script> 
+  <script type="text/javascript" src="/++theme++contextual.agencytheme/js/simpleCart.js"></script> 
+  <script type="text/javascript" src="/++theme++contextual.agencytheme/js/connect.js"></script> 
+  <!-- css files for popup --> 
+  <script>var isIElt9 = false;</script> 
+  <link href="/++theme++contextual.agencytheme/css/bootstrap_customized.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="/++theme++contextual.agencytheme/css/expand-collapse-2016.css" media="screen"> 
+  <!--[if lt IE 9]>
+    <script async src="/++theme++contextual.agencytheme/js/respond.min.js"></script>
+    <script async src="/++theme++contextual.agencytheme/js/html5shiv.min.js"></script>
+    <script>var isIElt9 = true;</script>
+<![endif]--> 
+  <!--   jquery code added for popup --> 
+  <script async src="/++theme++contextual.agencytheme/js/bootstrap_customized.min.js"></script> 
+  <!-- our public key --> 
+  <script async src="/js2/pubkey.js"></script> 
+  <!-- image preloading --> 
+  <script>
+  prePic = new Image();
+  prePic.src ="/++theme++contextual.agencytheme/images/separator-2.gif";
+  prePic2 = new Image();
+  prePic2.src="/++theme++contextual.agencytheme/images/arrow-5.gif";
+  prePic3 = new Image();
+  prePic3.src="/++theme++contextual.agencytheme/images/bg-heading-panel.jpg";
+  prePic4 = new Image();
+  prePic4.src="/++theme++contextual.agencytheme/images/heading-banners/CHI12052_Headers_contact.jpg";
+ </script> 
+  <script type="text/javascript" src="/++theme++contextual.agencytheme/js/expandcollapse.js"></script>
+  <script type="text/javascript" src="/++theme++contextual.agencytheme/js/jquery.history.js"></script>
+ </head> 
+ <body class="template-blog_topic_view portaltype-topic site-CIAgov section-news-information icons-on">
+  <div>
+   <noscript>
+    Javascript must be enabled for the correct page display
+   </noscript>
+   <div id="wrapper"> 
+    <header id="header"> 
+     <div class="header-holder"> 
+      <a class="skip" accesskey="S" href="#main-content">skip to content</a> 
+      <span class="bg-globe"></span> 
+      <div class="header-panel"> 
+       <hgroup> 
+        <h1 class="logo"><a href="/"><img src="/++theme++contextual.agencytheme/images/logo.png" alt="Central Intelligence Agency"><span>Central Intelligence Agency</span></a></h1> 
+        <h2 class="work-text">The Work Of A Nation. The Center of Intelligence.</h2> 
+       </hgroup> 
+       <div class="search-form"> 
+        <div class="row"> 
+         <div class="add-nav"> 
+          <ul> 
+           <li><a title="Report Information" class="active reportTrigger" href="/contact-cia/report-information.html">Report Information</a></li> 
+           <li style="display:none;"><a title="Iraqi Rewards Program" href="/about-cia/iraqi-rewards-program.html">?????????</a></li> 
+           <li><a title="A single point of contact for all CIA inquiries." class="landingTrigger" href="/contact-cia">Contact</a></li> 
+          </ul> 
+         </div> 
+        </div> 
+        <div class="row"> 
+         <form id="ciaSearchForm" method="get" action="/search"> 
+          <fieldset> 
+           <legend class="visuallyhidden">Search CIA.gov</legend> 
+           <label class="visuallyhidden" for="q">Search</label> 
+           <input name="q" type="text" class="text" id="q" maxlength="2047" placeholder="Search CIA.gov..."> 
+           <input type="hidden" name="site" value="CIA"> 
+           <input type="hidden" name="output" value="xml_no_dtd"> 
+           <input type="hidden" name="client" value="CIA"> 
+           <input type="hidden" name="myAction" value="/search"> 
+           <input type="hidden" name="proxystylesheet" value="CIA"> 
+           <input type="hidden" name="submitMethod" value="get"> 
+           <input type="submit" value="Search" class="submit"> 
+          </fieldset> 
+         </form> 
+        </div> 
+        <div class="row"> 
+         <ul class="lang-list"> 
+          <li lang="ar" xml:lang="ar"><a title="Arabic" href="/ar">????</a></li> 
+          <li lang="zh-cn" xml:lang="zh-cn"><a title="Chinese" href="/zh">??</a></li> 
+          <li lang="en" xml:lang="en"><a title="English" href="/">English</a></li> 
+          <li lang="fr" xml:lang="fr"><a title="French" href="/fr">Français</a></li> 
+          <li lang="ru" xml:lang="ru"><a title="Russian" href="/ru">???????</a></li> 
+          <li lang="es" xml:lang="es"><a title="Spanish" href="/es">Español</a></li> 
+          <li><a title="More Languages" alt="More Languages" class="more" href="/foreign-languages">More<span class="visuallyhidden"> Languages</span></a></li> 
+         </ul> 
+        </div> 
+       </div> 
+      </div> 
+      <nav id="nav"> 
+       <h3 class="visuallyhidden">Navigation</h3> 
+       <ul>
+        <li class=""><a class="" title="" href="/"> <span>Home</span> </a></li> 
+        <li class=""><a class="hasChildrens" title="About CIA Description" href="/about-cia"> <span>About CIA</span> </a>
+         <div class="drop">
+          <ul class="globalSectionsLevel1 show-static"> 
+           <li class="plain "> <a class="" title="" href="/about-cia/todays-cia"> <span>Today's CIA</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/about-cia/leadership"> <span>Leadership</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/about-cia/cia-vision-mission-values"> <span>CIA Vision, Mission, Ethos &amp; Challenges</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/about-cia/headquarters-tour"> <span>Headquarters Tour</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/about-cia/cia-museum"> <span>CIA Museum</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/about-cia/history-of-the-cia"> <span>History of the CIA</span> </a> </li> 
+           <li class="plain "> <a class="" title="Publications Review Board" href="/about-cia/publications-review-board"> <span>Publications Review Board</span> </a> </li> 
+           <li class="plain "> <a class="" title="Accessibility " href="/about-cia/accessibility"> <span>Accessibility</span> </a> </li> 
+           <li class="plain "> <a class="" title="Privacy and Civil Liberties" href="/about-cia/privacy-and-civil-liberties"> <span>Privacy and Civil Liberties</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/about-cia/faqs"> <span>FAQs</span> </a> </li> 
+           <li class="plain "> <a class="" title="Note - link to the No Fear Act parent page, which is housed under EEO" href="/about-cia/no-fear-act"> <span>No FEAR Act</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/about-cia/site-policies"> <span>Site Policies</span> </a> </li> 
+          </ul>
+          <div class="static">
+           <img src="/images/section-banners/about-menu/image.jpg" class="image-inline" alt="About Menu" title="About Menu"> 
+           <h4><a href="/about-cia/">About CIA</a></h4> 
+           <p>Discover the CIA <a href="/about-cia/">history, mission, vision and values</a>.</p>
+          </div>
+          <div class="visualClear">
+           <!-- -->
+          </div>
+         </div></li> 
+        <li class=""><a class="hasChildrens" title="" href="/careers"> <span>Careers &amp; Internships</span> </a>
+         <div class="drop">
+          <ul class="globalSectionsLevel1 show-static"> 
+           <li class="plain "> <a class="" title="" href="/careers/opportunities"> <span>Career Opportunities</span> </a> </li> 
+           <li class="plain "> <a class="" title="This is the student profile page for candidates looking for jobs/ job listings at the CIA. Student Opportunities - Student Profiles" href="/careers/student-opportunities"> <span>Student Opportunities</span> </a> </li> 
+           <li class="plain "> <a class="" title="CIA careers - language opportunities
+
+This is the language opportunities landing page for candidates looking for jobs/job listings at the CIA. Language Opportunities - Landing Page
+" href="/careers/language-opportunities"> <span>Language Opportunities</span> </a> </li> 
+           <li class="plain "> <a class="" title="How to apply to the CIA." href="/careers/application-process"> <span>Application Process</span> </a> </li> 
+           <li class="plain "> <a class="" title="This is the about CIA section of the Careers Site" href="/careers/life-at-cia"> <span>Life at CIA</span> </a> </li> 
+           <li class="plain "> <a class="" title="Every career at the CIA is a rewarding one. In addition to serving your country with the certainty that your work makes a difference, the CIA offers a comprehensive benefits package to reflect the dedication and contributions of our employees." href="/careers/benefits.html"> <span>Benefits</span> </a> </li> 
+           <li class="plain "> <a class="" title="This is the diversity information for the Careers Site" href="/careers/diversity"> <span>Diversity</span> </a> </li> 
+           <li class="plain "> <a class="" title="Your prior military service could qualify you to continue to serve your nation at the Central Intelligence Agency. Opportunities for qualified applicants are available in the U.S. and abroad." href="/careers/military-transition"> <span>Military Transition</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/careers/games-information"> <span>Tools and Challenges</span> </a> </li> 
+           <li class="plain "> <a class="" title="Frequently Asked Questions/ FAQ for a Career at the CIA in the Careers Section" href="/careers/faq"> <span>FAQs</span> </a> </li> 
+           <li class="plain "> <a class="" title="Repository of CIA videos" href="/careers/video-center"> <span>Video Center</span> </a> </li> 
+          </ul>
+          <div class="static">
+           <img src="/images/section-banners/careers-menu/image.jpg" class="image-inline" alt="Careers Menu" title="Careers Menu"> 
+           <h4><a href="/careers/">Careers &amp; Internships</a></h4> 
+           <p>Your talent. Your diverse skills. Our mission. Learn more about <a href="/careers/">Career Opportunities at CIA</a>.</p>
+          </div>
+          <div class="visualClear">
+           <!-- -->
+          </div>
+         </div></li> 
+        <li class=""><a class="hasChildrens" title="" href="/offices-of-cia"> <span>Offices of CIA</span> </a>
+         <div class="drop">
+          <ul class="globalSectionsLevel1 show-static"> 
+           <li class="plain "> <a class="" title="" href="/offices-of-cia/intelligence-analysis"> <span>Intelligence &amp; Analysis</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/offices-of-cia/clandestine-service"> <span>Clandestine Service</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/offices-of-cia/science-technology"> <span>Science &amp; Technology</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/offices-of-cia/mission-support"> <span>Support to Mission</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/offices-of-cia/digital-innovation"> <span>Digital Innovation</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/offices-of-cia/mission-centers"> <span>Mission Centers</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/offices-of-cia/human-resources"> <span>Human Resources</span> </a> </li> 
+           <li class="plain "> <a class="" title="Public Affairs" href="/offices-of-cia/public-affairs"> <span>Public Affairs</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/offices-of-cia/general-counsel"> <span>General Counsel</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/offices-of-cia/equal-employment-opportunity"> <span>Equal Employment Opportunity</span> </a> </li> 
+           <li class="plain "> <a class="" title="Office of Congressional Affairs" href="/offices-of-cia/congressional-affairs"> <span>Congressional Affairs</span> </a> </li> 
+           <li class="plain "> <a class="" title="Inspector General" href="/offices-of-cia/inspector-general"> <span>Inspector General</span> </a> </li> 
+           <li class="plain "> <a class="" title="Military Affairs" href="/offices-of-cia/military-affairs"> <span>Military Affairs</span> </a> </li> 
+          </ul>
+          <div class="static">
+           <img src="/images/section-banners/offices-menu/image.jpg" class="image-inline" alt="Offices Menu" title="Offices Menu"> 
+           <h4><a href="/offices-of-cia/">Offices of CIA</a></h4> 
+           <p><a href="/offices-of-cia/">Learn how the CIA is organized</a> into directorates and key offices, responsible for securing our nation.</p>
+          </div>
+          <div class="visualClear">
+           <!-- -->
+          </div>
+         </div></li> 
+        <li class="
+                   active
+               "><a class="hasChildrens" title="News &amp; Information Description" href="/news-information"> <span>News &amp; Information</span> </a><span class="arrow"></span>
+         <div class="drop">
+          <ul class="globalSectionsLevel1 show-static"> 
+           <li class="selected "> <a class="" title="" href="/news-information/blog"> <span>Blog</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/news-information/press-releases-statements"> <span>Press Releases &amp; Statements</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/news-information/speeches-testimony"> <span>Speeches &amp; Testimony</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/news-information/cia-the-war-on-terrorism"> <span>CIA &amp; the War on Terrorism</span> </a> </li> 
+           <li class="plain "> <a class="" title="index for featured story" href="/news-information/featured-story-archive"> <span>Featured Story Archive</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/news-information/your-news"> <span>Your News</span> </a> </li> 
+          </ul>
+          <div class="static">
+           <img src="/images/section-banners/news-menu/image.jpg" class="image-inline" alt="News Menu" title="News Menu"> 
+           <h4><a href="/news-information/">News &amp; Information</a></h4> 
+           <p>The most up-to-date CIA <a href="/news-information/">news, press releases, information and more</a>.</p>
+          </div>
+          <div class="visualClear">
+           <!-- -->
+          </div>
+         </div></li> 
+        <li class=""><a class="hasChildrens" title="" href="/library"> <span>Library</span> </a>
+         <div class="drop right">
+          <ul class="globalSectionsLevel1 show-static"> 
+           <li class="plain "> <a class="" title="" href="/library/publications"> <span>Publications</span> </a> </li> 
+           <li class="plain "> <a class="" title="CSI section" href="/library/center-for-the-study-of-intelligence"> <span>Center for the Study of Intelligence</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/library/readingroom"> <span>Freedom of Information Act Electronic Reading Room</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/library/kent-center-occasional-papers"> <span>Kent Center Occasional Papers</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/library/intelligence-literature"> <span>Intelligence Literature</span> </a> </li> 
+           <li class="plain "> <a class="" title="Reports" href="/library/reports"> <span>Reports</span> </a> </li> 
+           <li class="plain "> <a class="" title="Related Links" href="/library/related-links.html"> <span>Related Links</span> </a> </li> 
+           <li class="plain "> <a class="" title="Repository of CIA videos" href="/library/video-center"> <span>Video Center</span> </a> </li> 
+          </ul>
+          <div class="static">
+           <img src="/images/section-banners/library-menu/image.jpg" class="image-inline" alt="Library Menu" title="Library Menu">
+           <h4><a href="/library/">Library</a></h4> 
+           <p>Our <a href="/library/">open-source library</a> houses the thousands of documents, periodicals, maps and reports released to the public.</p>
+          </div>
+          <div class="visualClear">
+           <!-- -->
+          </div>
+         </div></li> 
+        <li class=""><a class="hasChildrens" title="Kids' Page Description" href="/kids-page"> <span>Kids' Zone</span> </a>
+         <div class="drop right">
+          <ul class="globalSectionsLevel1 show-static"> 
+           <li class="plain "> <a class="" title="K-5th Grade" href="/kids-page/k-5th-grade"> <span>K-5th Grade</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/kids-page/6-12th-grade"> <span>6-12th Grade</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/kids-page/parents-teachers"> <span>Parents &amp; Teachers</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/kids-page/games"> <span>Games</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/kids-page/related-links"> <span>Related Links</span> </a> </li> 
+           <li class="plain "> <a class="" title="" href="/kids-page/privacy-statement"> <span>Privacy Statement</span> </a> </li> 
+          </ul>
+          <div class="static">
+           <p><img src="/images/section-banners/kids-menu/image.jpg" class="image-inline" alt="Kids Menu" title="Kids Menu"></p> 
+           <h4><a href="/kids-page/">Kids' Zone</a></h4> 
+           <p><a href="/kids-page/">Learn more about the Agency</a> and find some top secret things you won't see anywhere else.</p>
+          </div>
+          <div class="visualClear">
+           <!-- -->
+          </div>
+         </div></li>
+       </ul> 
+      </nav> 
+     </div> 
+    </header> 
+    <div class="main-block"> 
+     <section id="main"> 
+      <div class="heading-panel"> 
+       <h1>News &amp; Information</h1> 
+      </div> 
+      <div class="main-holder threecol"> 
+       <div id="sidebar"> 
+        <nav class="sidebar-nav"> 
+         <h2 class="visuallyhidden">Secondary Navigation</h2> 
+         <ul> 
+          <li class="navTreeItem navTreeTopNode"> <a class="contenttype-agencyfolder" title="News &amp; Information Description" href="/news-information"> News &amp; Information </a> </li> 
+          <li class="navTreeItem visualNoMarker navTreeCurrentNode navTreeFolderish section-blog"> <a class="state-published navTreeCurrentItem navTreeCurrentNode navTreeFolderish contenttype-agencyfolder" title="" href="/news-information/blog"> Blog </a> </li> 
+          <li class="navTreeItem visualNoMarker navTreeFolderish section-press-releases-statements"> <a class="state-published navTreeFolderish contenttype-agencyfolder" title="" href="/news-information/press-releases-statements"> Press Releases &amp; Statements </a> </li> 
+          <li class="navTreeItem visualNoMarker navTreeFolderish section-speeches-testimony"> <a class="state-published navTreeFolderish contenttype-agencyfolder" title="" href="/news-information/speeches-testimony"> Speeches &amp; Testimony </a> </li> 
+          <li class="navTreeItem visualNoMarker navTreeFolderish section-cia-the-war-on-terrorism"> <a class="state-published navTreeFolderish contenttype-agencyfolder" title="" href="/news-information/cia-the-war-on-terrorism"> CIA &amp; the War on Terrorism </a> </li> 
+          <li class="navTreeItem visualNoMarker navTreeFolderish section-featured-story-archive"> <a class="state-published navTreeFolderish contenttype-agencyfolder" title="index for featured story" href="/news-information/featured-story-archive"> Featured Story Archive </a> </li> 
+          <li class="navTreeItem visualNoMarker navTreeFolderish section-your-news"> <a class="state-published navTreeFolderish contenttype-agencyfolder" title="" href="/news-information/your-news"> Your News </a> </li> 
+         </ul> 
+        </nav> 
+        <div id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f434941676f760a6e617669676174696f6e" class="portletWrapper kssattr-portlethash-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f434941676f760a6e617669676174696f6e" data-portlethash="706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f434941676f760a6e617669676174696f6e"> 
+        </div>
+       </div> 
+       <div id="content"> 
+        <ul class="breadcrumbs"> 
+         <li><a href="/">Home</a></li>
+         <li><a href="/news-information">News &amp; Information</a></li>
+         <li>Blog</li> 
+        </ul> 
+        <article class="description-box"> 
+         <a id="main-content" tabindex="-1">&nbsp;</a> 
+         <div class="text-holder">
+          <!-- AddThis Button BEGIN -->
+          <div class="addthis_toolbox addthis_default_style addthis_16x16_style"> 
+           <a class="addthis_button_facebook"></a> 
+           <a class="addthis_button_twitter"></a> 
+           <a class="addthis_button_google_plusone_share"></a> 
+           <a class="addthis_button_pinterest_share"></a> 
+           <a class="addthis_button_email"></a> 
+           <a class="addThisrssLink" href="/news-information/your-news"><img title="Subscribe to RSS" src="/++theme++contextual.agencytheme/images/icon_rss.gif" alt="Rss Feed"></a> 
+           <a class="addthis_button_compact"></a> 
+          </div>
+          <script type="text/javascript">
+                var addthis_config =
+                {  data_track_addressbar: false,
+                   ui_508_compliant: true,
+                   services_compact: 'digg,instapaper,linkedin,reddit,stumbleupon,tumblr,blogger',
+                   data_track_clickback: false,
+                   data_use_cookies: false,
+                   services_exclude: 'amenme,spruzer',
+                   ui_click: true
+                }
+                var addthis_share = {
+                  templates : {
+                   twitter : "{{title}} {{url}} "
+                  }
+                }
+                </script>
+          <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52322787108634ce"></script>
+          <!-- AddThis Button END -->
+          <br> 
+          <div id="viewlet-above-content"> 
+          </div> 
+          <div class=""> 
+           <div id="content"> 
+            <div> 
+             <!--KW
+                <h1 metal:define-macro="title-field-view"
+                    tal:define="kss_class python:getKssClasses('title',
+                                templateId='kss_generic_macros', macro='title-field-view');"
+                    id="parent-fieldname-title"
+                    tal:attributes="class string:documentFirstHeading$kss_class;">
+                    <span metal:define-slot="inside"
+                          tal:replace="context/Title">title</span>
+                </h1>
+--> 
+             <h1>Blog</h1> 
+             <dl> 
+              <dt class=""> 
+               <div class="blogEntry"> 
+                <div class="contenttype-agencypage blogSummary"> 
+                 <span class="blogDate">May 02, 2019</span> 
+                 <span class="blogDescription"> <span class="state-published url" href="/news-information/blog/2019/ask-molly-may-2-2019">Ask Molly: May 2, 2019 </span> </span> 
+                </div> 
+                <div class="blogText comment more">
+                 <p><img src="/news-information/blog/2019/Molly_banner.jpg/image.jpg" class="image-inline" alt="" title=""></p> 
+                 <hr> 
+                 <p><em>Dear Molly,</em></p> 
+                 <p><em>Is there really a Starbucks at CIA Headquarters?</em></p> 
+                 <p><em>~ Frap Fanatic</em></p> 
+                 <hr> 
+                 <p></p> 
+                 <p>Dear Frap Fanatic,</p> 
+                 <p>Yep, there is a Starbucks at CIA Headquarters! It’s actually one of the busiest Starbucks in the country. We need our caffeine jolt just like everyone else.</p> 
+                 <p>The menu is the same as the Starbucks on your local street corner. They even play the same modern music, and we have a comfortable seating area for officers to take a break, hang with a co-worker, or talk shop… as long as the conversations are unclassified of course.</p> 
+                 <p>The only big difference between this Starbucks and your regular Starbucks: Baristas don’t take customers’ names. Our officers order their cup of joe incognito.</p> 
+                 <p>~ Molly</p>
+                </div> 
+               </div> 
+               <span class="documentByLine"> </span> 
+              </dt> 
+              <dt class=""> 
+               <div class="blogEntry"> 
+                <div class="contenttype-agencypage blogSummary"> 
+                 <span class="blogDate">Apr 26, 2019</span> 
+                 <span class="blogDescription"> <span class="state-published url" href="/news-information/blog/2019/cia-celebrates-20th-anniversary-of-becoming-the-george-bush-center-for-intelligence">CIA Celebrates 20th Anniversary of Becoming the George Bush Center for Intelligence</span> </span> 
+                </div> 
+                <div class="blogText comment more">
+                 <p>Today we celebrated the <a class="internal-link" href="/about-cia/todays-cia/george-bush-center-for-intelligence/index.html"><b>20<sup>th</sup> anniversary</b></a> of the naming of our headquarters: the George Bush Center for Intelligence.</p> 
+                 <p>CIA Headquarters was renamed for <a class="internal-link" href="/news-information/blog/2018/honoring-the-legacy-of-george-h-w-bush2014the-11th-director-of-central-intelligence.html"><b>President George Herbert Walker Bush</b></a> on April 26, 1999, to honor his unique role in Agency history. President Bush is the only former Director of Central Intelligence to become President of the United States.</p> 
+                 <p>Director Haspel, CIA Chief Operating Office Andrew Makridis, and the workforce held a small celebration this morning to mark the anniversary of this historic occasion.</p> 
+                 <p>Former Director of Central Intelligence, George Tenet, who presided over the original naming ceremony, returned to deliver remarks.</p> 
+                 <hr> 
+                 <p><img src="/news-information/blog/2019/images-1/Bush-entrance-sign.jpg/25b9b98d-eca5-45a3-b0f5-f555bc37df04.jpeg" class="image-inline" alt="" title=""></p>
+                </div> 
+               </div> 
+               <span class="documentByLine"> </span> 
+              </dt> 
+              <dt class=""> 
+               <div class="blogEntry"> 
+                <div class="contenttype-agencypage blogSummary"> 
+                 <span class="blogDate">Apr 19, 2019</span> 
+                 <span class="blogDescription"> <span class="state-published url" href="/news-information/blog/2019/DCIA-haspel-visits-auburn">DCIA Haspel Visits Auburn University</span> </span> 
+                </div> 
+                <div class="blogText comment more">
+                 <p>CIA Director Gina Haspel visited Auburn University in Alabama yesterday, where she <a class="internal-link" href="/news-information/speeches-testimony/2019-speeches-testimony/dcia-haspel-auburn-university-speech.html"><strong>delivered remarks</strong></a> and participated in a Q&amp;A moderated by retired Army Lt. Gen. Ronald Burgess, Auburn’s chief operating officer and former DIA director.</p> 
+                 <p>“As I look back on my first year as Director,” said Haspel, “I am more in awe of the men and women at CIA than ever before. And I know that Auburn graduates also know a thing or two about serving our country, having made invaluable contributions over the years by signing up for the tough jobs—as warfighters, astronauts, and, of course, as intelligence officers.”</p> 
+                 <p>Director Haspel told the Auburn students the story of <strong><a class="internal-link" href="/news-information/featured-story-archive/johnny-micheal-spann.html">Mike Spann</a></strong>, an Auburn alumnus, CIA officer, and the first American to die in the line of duty in Afghanistan after 9/11. She also talked about her 34-year career at the Agency, some of her leadership team’s accomplishments over this last year, and her priorities for the future.</p> 
+                 <hr> 
+                 <p><iframe frameborder="0" height="315" src="https://www.youtube.com/embed/wg_xgwGwuaM" width="560"></iframe></p>
+                </div> 
+               </div> 
+               <span class="documentByLine"> </span> 
+              </dt> 
+              <dt class=""> 
+               <div class="blogEntry"> 
+                <div class="contenttype-agencypage blogSummary"> 
+                 <span class="blogDate">Apr 16, 2019</span> 
+                 <span class="blogDescription"> <span class="state-published url" href="/news-information/blog/2019/women-in-intel-maria-gulovich">Women in Intel: Maria Gulovich</span> </span> 
+                </div> 
+                <div class="blogText comment more">
+                 <h3>The Indomitable Woman</h3> 
+                 <p><i>“All I knew, I wanted to help those guys in any way I could. I believe in freedom.”</i></p> 
+                 <p><i>~ Maria Gulovich</i></p> 
+                 <hr> 
+                 <p></p>
+                 <dl class="image-right captioned" style="width:200px;"> 
+                  <dt>
+                   <a rel="lightbox" href="/news-information/blog/2019/images-1/Gulovich-West-Point-1946.JPG/image.jpg"><img src="/news-information/blog/2019/images-1/Gulovich-West-Point-1946.JPG/c640be8d-6099-4c35-ac6a-8db91ef5e5d4.jpeg" alt="Gulovich-West-Point-1946.JPG" title="Gulovich-West-Point-1946.JPG" height="134" width="200"></a>
+                  </dt> 
+                  <dd class="image-caption" style="width:200px;">
+                   Maria, the first woman to be honored with a review of cadets at West Point, receiving the Bronze Star, circa 1946.
+                  </dd> 
+                 </dl>Maria Gulovich, a young Slovakian schoolteacher, was only 23-years-old when she began harboring Jews from the Nazis. She joined the underground resistance and began working for the Office of Strategic Services (OSS) as a guide and interpreter. 
+                 <p>Maria repeatedly risked her life to assist the OSS, including guiding a small group of American and British intelligence officers for nine weeks through the rugged mountains of Slovakia, in a blizzard, while being hunted by Nazis.</p> 
+                 <p>Her bravery and her indomitable spirit caught the attention of OSS Director William "Wild Bill" Donovan and future CIA Director Allen Dulles, who helped Maria become a US citizen in 1952. Maria was also the first woman to be honored with a review of cadets at the historic US Military Academy at West Point, where she was awarded the Bronze Star for her heroic service on behalf of the United States.</p> 
+                 <p align="center"><a class="internal-link btn2" style="padding-right:6.5px; " href="/news-information/featured-story-archive/2010-featured-story-archive/maria-gulovich.html"><b>Read More</b></a></p>
+                </div> 
+               </div> 
+               <span class="documentByLine"> </span> 
+              </dt> 
+              <dt class=""> 
+               <div class="blogEntry"> 
+                <div class="contenttype-agencypage blogSummary"> 
+                 <span class="blogDate">Apr 11, 2019</span> 
+                 <span class="blogDescription"> <span class="state-published url" href="/news-information/blog/2019/ask-molly-april-11-2019">Ask Molly: April 11, 2019 </span> </span> 
+                </div> 
+                <div class="blogText comment more">
+                 <p><img src="/news-information/blog/2019/Molly_banner.jpg/image.jpg" class="image-inline" alt="" title=""></p> 
+                 <hr> 
+                 <p><em>Dear Molly,</em></p> 
+                 <p><em>Does CIA really have a library? If so, I would like a library card!</em></p> 
+                 <p><em>~ Bookworm</em></p> 
+                 <hr> 
+                 <p></p> 
+                 <p>Dear Bookworm,</p> 
+                 <p>We do have a library! But to get a library card, you’ll need a security clearance. That’s because although CIA Library might look like any other modern public library, resting alongside the periodicals and stacks of books on history, international affairs, and science you’ll find volumes most Americans will never see. The literature of secrets.</p> 
+                 <p>But our collection is mainly unclassified, and we have approximately 100,000 print materials and access to over 200 online databases that include more than 90,000 full-text electronic periodicals, dissertations, photographs, and public records.</p> 
+                 <p>Whew, that’s a lot of information!</p> 
+                 <p>We also have materials like maps, language resources, and movies. (Yep, we even have a DVD collection that includes spy movies and documentaries).</p> 
+                 <p>We also have a few more “interesting” collections you won’t find at your neighborhood library.</p> 
+                 <p>The Whaley Denial and Deception Collection contains materials on magic, lying, and even methods used by catchers and pitchers to communicate during baseball games.</p> 
+                 <p>The <strong><a class="internal-link" href="/news-information/featured-story-archive/historical-intelligence-collection.html">Historical Intelligence Collection</a></strong> is basically a treasure trove of anything to do with the intelligence profession. We have more than 25,000 books and press clippings in the collection. The oldest item is a book on cryptography bound in vellum and published primarily in Latin in 1606!</p> 
+                 <p>With all that information, it should come as no surprise then that we also have full-time<strong> <a class="internal-link" href="/news-information/featured-story-archive/2015-featured-story-archive/top-10-research-tips-for-a-great-school-year-from-cia-librarians.html">librarians</a> </strong>who work at CIA. They’re in high demand, and it’s not unusual for them to be recruited by other Agency offices because of their exceptional research abilities and training in information science.</p> 
+                 <p>When most people think of CIA and the officers who help keep our country safe, a librarian is probably not what comes to mind. We think some heroes wear cardigans.</p> 
+                 <p>~ Molly</p>
+                </div> 
+               </div> 
+               <span class="documentByLine"> </span> 
+              </dt> 
+              <dt class=""> 
+               <div class="blogEntry"> 
+                <div class="contenttype-agencypage blogSummary"> 
+                 <span class="blogDate">Apr 03, 2019</span> 
+                 <span class="blogDescription"> <span class="state-published url" href="/news-information/blog/2019/women-intel-elizabeth-sudmeier">Women in Intel: Elizabeth Sudmeier</span> </span> 
+                </div> 
+                <div class="blogText comment more">
+                 <h3>From Typist to Ops Officer</h3> 
+                 <p><i>“She was a real pistol… The fact that she accomplished so much is incredible given the general antagonism to women functioning as ops officers. This was a general view among male ops officers… Liz certainly paved the way for female ops officers.”</i></p> 
+                 <p><i>&nbsp;~ Friend and colleague of Elizabeth Sudmeier</i></p> 
+                 <hr> 
+                 <p><img width="217" src="/news-information/blog/2019/images-1/ElizabethSudmeier1.jpg/image.jpg" title="Elizabeth Sudmeier" height="296" alt="Elizabeth Sudmeier" class="image-left">Elizabeth Sudmeier was a pioneer in breaking down gender barriers at CIA. As a founding member of the Agency, Elizabeth, like many women at that time, began her career as a typist. Yet, despite the resistance of Agency senior managers and supervisors, Elizabeth did what few women were able to do.</p> 
+                 <p>Elizabeth worked as a field operations officer, serving overseas in places like the Middle East and South Asia for almost nine years, and helped usher in a new era of woman’s equality at the Agency.</p> 
+                 <p>Because of her historic contributions, Elizabeth was selected as one of the 2013 CIA Trailblazers, those “whose leadership, achievements, and dedication to mission had a significant and lasting impact on the Agency's history.”</p> 
+                 <hr> 
+                 <p></p> 
+                 <p></p> 
+                 <p align="center"><a class="internal-link btn2" style="padding-right:6.5px; " href="/news-information/featured-story-archive/2015-featured-story-archive/elizabeth-sudmeier-story.html"><b>Read More</b></a></p>
+                </div> 
+               </div> 
+               <span class="documentByLine"> </span> 
+              </dt> 
+              <dt class=""> 
+               <div class="blogEntry"> 
+                <div class="contenttype-agencypage blogSummary"> 
+                 <span class="blogDate">Apr 01, 2019</span> 
+                 <span class="blogDescription"> <span class="state-published url" href="/news-information/blog/2019/the-art-of-simple-sabotage">The Art of Simple Sabotage</span> </span> 
+                </div> 
+                <div class="blogText comment more">
+                 <p>The rascally spies of OSS knew a thing or two about mischief making, especially when it came to undermining America’s enemies in World War II. One of their more imaginative ideas was to train everyday citizens in the art of simple sabotage.</p> 
+                 <p>Thus, the “Simple Sabotage Field Manual” was born: <a class="internal-link" href="/news-information/featured-story-archive/2012-featured-story-archive/CleanedUOSSSimpleSabotage_sm.pdf">[<b>PDF 2.5 MB</b>]</a>.</p> 
+                 <p>This previously classified booklet describes ways to train normal people to be purposely annoying telephone operators, dysfunctional train conductors, befuddling middle managers, blundering factory workers, unruly movie theater patrons, and so on. &nbsp;</p> 
+                 <p>In other words, teaching people to do their jobs badly.</p> 
+                 <p>OSS Director William “Wild Bill” Donovan had select parts of the manual declassified and disseminated to citizens of enemy states through pamphlets, targeted radio broadcasts, and in person.</p> 
+                 <p>While the guidebook does contain ideas for serious, hardcore sabotage you’d expect during wartime, there are many timeless (and dare we say all-too-familiar) tactics that could drive even the most sane person batty.</p> 
+                 <p><b>Here’s a list of five particularly timeless tips from the “Simple Sabotage Field Manual”: </b></p> 
+                 <ol> 
+                  <li><i>Telephone</i>: At the office, hotel, or local telephone switchboards, delay putting calls through, give out wrong numbers, cut people off “accidentally,” or forget to disconnect them so that the line cannot be used again.</li> 
+                  <li><i>Movie Theater Patrons</i>: To ruin everyone’s time at the movies (without a cell phone, that is) bring in a paper bag filled with two or three dozen large moths. Open the bag and set it in an empty section of the theater. “The moths will fly out and climb into the projector beam, so that the film will be obscured by fluttering shadows.”</li> 
+                  <li><i>Managers and Supervisors</i>: To lower morale and production, &nbsp;think of the worst boss you’ve had and act like that. Be pleasant to inefficient workers; give them undeserved promotions. Discriminate against efficient workers; complain unjustly about their work. When possible, refer all matters to committees for "further study and consideration." Attempt to make the committees as large and bureaucratic as possible.</li> 
+                  <li><i>Employees</i>: Be forgetful. Clumsy. Work slowly. Think of ways to increase the number of movements needed to do your job: use a light hammer instead of a heavy one; try to make a small wrench do instead of a big one.</li> 
+                  <li><i>Transportation</i>: Make train or air travel as inconvenient as possible. One particularly effective trick: issue two tickets for the same seat on a train in order to set up an “interesting” argument.</li> 
+                 </ol>
+                </div> 
+               </div> 
+               <span class="documentByLine"> </span> 
+              </dt> 
+              <dt class=""> 
+               <div class="blogEntry"> 
+                <div class="contenttype-agencypage blogSummary"> 
+                 <span class="blogDate">Mar 26, 2019</span> 
+                 <span class="blogDescription"> <span class="state-published url" href="/news-information/blog/2019/women-in-intel-betty-ann-lussier">Women in Intel: Betty Ann Lussier </span> </span> 
+                </div> 
+                <div class="blogText comment more">
+                 <p><b>The Intrepid Woman </b></p> 
+                 <p><i>“After months of interviewing, conniving, scheming, here I was on the threshold of departure for the war. Was I frightened? After my hazardous childhood on the farm, dealing with runaway mule teams, overturned wagons, raging bulls, and machinery that collapsed on top of my body, no, I was not frightened, but yes, I was curious, elated, and open to a new adventure.”</i></p> 
+                 <p>~ Betty Ann Lussier from her autobiography, “Intrepid Woman: Betty Ann Lussier’s Secret War, 1942-1945”</p> 
+                 <hr> 
+                 <p></p> 
+                 <p><img width="133" src="/news-information/featured-story-archive/2019-featured-story-archive/images/betty_lussier_ata.jpg/image.jpg" title="" height="164" alt="" class="image-left">Betty Ann Lussier was a fiercely independent, hard working, adventurous woman with a craving for excitement and a compassion for humanitarian issues. She grew up on a dairy farm and learned to fly a plane at the young age of 16. When she was 20, she boarded a ship to England to fight the Nazis. She became a successful counterintelligence agent with the Office of Strategic Services (OSS) and married one of the wealthiest men in Spain. She socialized with Ernest Hemingway and Ava Gardner and later worked for the United Nations. She also authored several books.</p> 
+                 <p>Betty personified the ideal OSS agent. She was strong-willed, intelligent, self-motivated, brave, dedicated, and driven.</p> 
+                 <p align="center"><a class="internal-link btn2" style="padding-right:6.5px; " href="/news-information/featured-story-archive/2019-featured-story-archive/the-intrepid-woman-betty-ann-lussier.html"><b>Read More</b></a></p>
+                </div> 
+               </div> 
+               <span class="documentByLine"> </span> 
+              </dt> 
+              <dt class=""> 
+               <div class="blogEntry"> 
+                <div class="contenttype-agencypage blogSummary"> 
+                 <span class="blogDate">Mar 25, 2019</span> 
+                 <span class="blogDescription"> <span class="state-published url" href="/news-information/blog/2019/csis-michael-collins">Michael Collins at CSIS</span> </span> 
+                </div> 
+                <div class="blogText comment more">
+                 <h3>CIA Headlines Schieffer Panel on “China’s Rise” at CSIS</h3> 
+                 <p>On Wednesday, March 20th, Deputy Assistant Director of CIA for the East Asia and Pacific Mission Center, Michael Collins, participated in a panel discussion on the rise of China, moderated by former CBS’ Face the Nation anchor Bob Schieffer at the Center for Strategic and International Studies (CSIS) in Washington, DC.</p> 
+                 <hr> 
+                 <p><iframe class="youtube-field-player" frameborder="0" height="300" id="youtube-field-player" src="https://www.youtube.com/embed/8StW3wqW0kg?start=0&amp;enablejsapi=1&amp;origin=https%3A//www.cia.gov&amp;wmode=opaque" title="Embedded video" width="100%">&lt;a href="https://www.youtube.com/embed/8StW3wqW0kg?enablejsapi=1&amp;amp;origin=https%3A//www.cia.gov&amp;amp;wmode=opaque"&gt;Embedded video&lt;/a&gt;</iframe></p> 
+                 <hr> 
+                 <p>Collins, and fellow panelists, held a robust conversation on a broad range of issues impacting US-China relations and the international community, including how China’s domestic governance model has changed under President Xi Jinping’s leadership and how China leverages its economic growth and military strength to influence the international order. Collins was very clear about what the challenge is not. “The challenge is not necessarily coming from China’s rise alone, China’s economy alone, our relationship with China, Chinese people, and certainly [not] the Chinese diaspora around the world. To the contrary, those are all very positive forces for moderation, cooperation, and change, “he said.</p> 
+                 <p></p> 
+                 <p>Collins was joined on stage by Margaret Brennan, Moderator of “Face the Nation” and CBS News senior foreign correspondent; Victor Cha, CSIS Senior Adviser and Korea Chair; and Christopher K. Johnson, CSIS Senior Adviser and Freeman Chair in China Studies.</p>
+                </div> 
+               </div> 
+               <span class="documentByLine"> </span> 
+              </dt> 
+              <dt class=""> 
+               <div class="blogEntry"> 
+                <div class="contenttype-agencypage blogSummary"> 
+                 <span class="blogDate">Mar 22, 2019</span> 
+                 <span class="blogDescription"> <span class="state-published url" href="/news-information/blog/2019/ask-molly-march-22-2019">Ask Molly: March 22, 2019 </span> </span> 
+                </div> 
+                <div class="blogText comment more">
+                 <p><img src="/news-information/blog/2019/Molly_banner.jpg/image.jpg" class="image-inline" alt="" title=""></p> 
+                 <hr> 
+                 <p><em>Dear Molly,</em></p> 
+                 <p><em>How many CIA women have died in the line of duty?</em></p> 
+                 <p><em>~ Fallen Stars</em></p> 
+                 <hr> 
+                 <p></p> 
+                 <p>Dear Fallen Stars,</p> 
+                 <p>We have an ivory-white marble wall in our lobby at CIA Headquarters that stands as a silent, simple memorial to honor the women and men who have given their lives in service to our country. Currently, there are 129 stars carved into the marble of the <a class="internal-link" href="/library/publications/resources/cia-memorial-wall-publication/index.html"><strong>CIA Memorial Wall: </strong></a>91 are unclassified. Of those, 11 represent women.</p> 
+                 <p>Officially, the first female CIA officer to die in the line of duty and receive a star on the Memorial Wall was <a class="internal-link" href="/news-information/featured-story-archive/2013-featured-story-archive/remembering-barbara-robbins.html"><b>Barbara Robbins</b></a>. She was killed only two years after joining the Agency – in March 1965 – when terrorists bombed the US Embassy in South Vietnam. She remains the youngest CIA officer to receive a star, at just 21-years old.</p> 
+                 <p>However, what many Agency history buffs don’t know is that the first ever CIA officer to die while working for the Agency was also a woman: her name was <a class="internal-link" href="/news-information/featured-story-archive/2016-featured-story-archive/mystery-of-jane-wallis-burrell.html"><b>Jane Wallis Burrell</b></a>.</p> 
+                 <p>At a time when most women in US intelligence worked in clerical roles, Jane was a CIA counterintelligence officer who served in all of CIA’s predecessor agencies: the <a class="internal-link" href="/library/publications/intelligence-history/oss/index.htm"><span class="internal-link"><b>Office of Strategic Services</b></span></a>, the <a class="internal-link" href="/news-information/featured-story-archive/2010-featured-story-archive/moving-up-to-the-big-leagues.html"><b>Strategic Services Unit</b></a>, and the <a class="internal-link" href="/news-information/featured-story-archive/2015-featured-story-archive/cloak-and-dagger-the-unexpected-beginnings-of-cia.html"><b>Central Intelligence Group</b></a>.</p> 
+                 <p>On January 6, 1948, an Air France flight from Brussels crashed on its way to Paris, killing all five crew members and 10 of the 11 passengers. Among the dead was a young woman who the press said was either a clerk or a courier. She was neither. Jane was a CIA officer, and her death—only 110 days after CIA was officially established the previous September—makes her the first CIA officer to die while employed by the Agency.</p> 
+                 <p>We know don’t know much about Jane’s activity at the time of her death. She was returning from a trip to Brussels, but there are no records to indicate whether or not she was on vacation or an official operation.</p> 
+                 <p>Jane was not a candidate for a star on the Memorial Wall because the wall commemorates Agency employees who died in specific circumstances: deaths from accidental crashes of commercial aircraft have generally not qualified. Still, her service with CIA and its predecessor organizations was honorable and she deserves to be remembered.</p> 
+                 <p>When any CIA officer (male or female) dies in the line of duty, their names frequently must be kept secret. Sometimes, the first time that families hear that their loved one worked for the Agency is when that officer has died. However, with the passage of time, we’ve been able to unveil many of the fallen, and share their heroic stories with the public. If you’re interested in reading more about the lives of our fallen officers, see our “<a class="internal-link" href="/news-information/featured-story-archive/index"><b>Feature Story</b></a>” section on CIA.gov and look for articles from our “Remembering CIA's Heroes” series.</p> 
+                 <p>~ Molly</p>
+                </div> 
+               </div> 
+               <span class="documentByLine"> </span> 
+              </dt> 
+             </dl> 
+             <div class="visualClear">
+              <!-- -->
+             </div> 
+             <div class="documentActions"> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </article> 
+       </div> 
+       <aside class="content-box-2"> 
+        <section class="featured-box"> 
+         <div class="heading-box"> 
+          <h3>Blog Archive</h3> 
+         </div> 
+         <div class="box-holder"> 
+          <ul> 
+           <li><a class="internal-link" href="/news-information/blog/index"><span class="internal-link"><strong>2019</strong></span></a></li> 
+           <li><a class="internal-link" href="/news-information/blog/2018/index"><span class="internal-link"><span class="internal-link"><span class="internal-link"><span class="internal-link"><span class="internal-link"><span class="internal-link"><span class="internal-link"><strong>2018</strong></span></span></span></span></span></span></span></a><br><strong></strong></li> 
+           <li><a class="internal-link" href="/news-information/blog/2017"><strong><span class="internal-link">2017</span></strong></a></li> 
+           <li><span class="internal-link"><strong><a class="internal-link" href="/news-information/blog/2016">2016</a></strong></span></li> 
+           <li><a class="internal-link" href="/news-information/blog/2015"><span class="internal-link"><b>2015</b></span></a></li> 
+           <li><a class="internal-link" href="/news-information/blog/2014"><span class="internal-link"><span class="internal-link"><b>2014</b></span></span></a></li> 
+          </ul> 
+         </div> 
+        </section> 
+       </aside> 
+      </div> 
+     </section> 
+     <footer id="footer"> 
+      <span class="divider"></span> 
+      <a href="#" class="logo-2"><img src="/++theme++contextual.agencytheme/images/logo-2.png" width="61" height="61" alt="Central Intelligence Agency"></a> 
+      <div class="footer-holder"> 
+       <div class="footer-frame"> 
+        <nav class="footer-nav"> 
+         <div class="info-block"> 
+          <h3><a href="/about-cia">About CIA</a></h3> 
+          <ul> 
+           <li> <a href="/about-cia/todays-cia">Today's CIA</a> </li> 
+           <li> <a href="/about-cia/leadership">Leadership</a> </li> 
+           <li> <a href="/about-cia/cia-vision-mission-values">CIA Vision, Mission, Ethos &amp; Challenges</a> </li> 
+           <li> <a href="/about-cia/headquarters-tour">Headquarters Tour</a> </li> 
+           <li> <a href="/about-cia/cia-museum">CIA Museum</a> </li> 
+           <li> <a href="/about-cia/history-of-the-cia">History of the CIA</a> </li> 
+           <li> <a href="/about-cia/publications-review-board">Publications Review Board</a> </li> 
+           <li> <a href="/about-cia/accessibility">Accessibility</a> </li> 
+           <li> <a href="/about-cia/privacy-and-civil-liberties">Privacy and Civil Liberties</a> </li> 
+           <li> <a href="/about-cia/faqs">FAQs</a> </li> 
+           <li> <a href="/about-cia/no-fear-act">No FEAR Act</a> </li> 
+           <li> <a href="/about-cia/site-policies">Site Policies</a> </li> 
+          </ul> 
+         </div> 
+         <div class="info-block"> 
+          <h3><a href="/careers">Careers &amp; Internships</a></h3> 
+          <ul> 
+           <li> <a href="/careers/opportunities">Career Opportunities</a> </li> 
+           <li> <a href="/careers/student-opportunities">Student Opportunities</a> </li> 
+           <li> <a href="/careers/language-opportunities">Language Opportunities</a> </li> 
+           <li> <a href="/careers/application-process">Application Process</a> </li> 
+           <li> <a href="/careers/life-at-cia">Life at CIA</a> </li> 
+           <li> <a href="/careers/benefits.html">Benefits</a> </li> 
+           <li> <a href="/careers/diversity">Diversity</a> </li> 
+           <li> <a href="/careers/military-transition">Military Transition</a> </li> 
+           <li> <a href="/careers/games-information">Tools and Challenges</a> </li> 
+           <li> <a href="/careers/faq">FAQs</a> </li> 
+           <li> <a href="/careers/video-center">Video Center</a> </li> 
+          </ul> 
+          <h3><a href="/offices-of-cia">Offices of CIA</a></h3> 
+          <ul> 
+           <li> <a href="/offices-of-cia/intelligence-analysis">Intelligence &amp; Analysis</a> </li> 
+           <li> <a href="/offices-of-cia/clandestine-service">Clandestine Service</a> </li> 
+           <li> <a href="/offices-of-cia/science-technology">Science &amp; Technology</a> </li> 
+           <li> <a href="/offices-of-cia/mission-support">Support to Mission</a> </li> 
+           <li> <a href="/offices-of-cia/digital-innovation">Digital Innovation</a> </li> 
+           <li> <a href="/offices-of-cia/mission-centers">Mission Centers</a> </li> 
+           <li> <a href="/offices-of-cia/human-resources">Human Resources</a> </li> 
+           <li> <a href="/offices-of-cia/public-affairs">Public Affairs</a> </li> 
+           <li> <a href="/offices-of-cia/general-counsel">General Counsel</a> </li> 
+           <li> <a href="/offices-of-cia/equal-employment-opportunity">Equal Employment Opportunity</a> </li> 
+           <li> <a href="/offices-of-cia/congressional-affairs">Congressional Affairs</a> </li> 
+           <li> <a href="/offices-of-cia/inspector-general">Inspector General</a> </li> 
+           <li> <a href="/offices-of-cia/military-affairs">Military Affairs</a> </li> 
+          </ul> 
+         </div> 
+         <div class="info-block"> 
+          <h3><a href="/news-information">News &amp; Information</a></h3> 
+          <ul> 
+           <li> <a href="/news-information/blog">Blog</a> </li> 
+           <li> <a href="/news-information/press-releases-statements">Press Releases &amp; Statements</a> </li> 
+           <li> <a href="/news-information/speeches-testimony">Speeches &amp; Testimony</a> </li> 
+           <li> <a href="/news-information/cia-the-war-on-terrorism">CIA &amp; the War on Terrorism</a> </li> 
+           <li> <a href="/news-information/featured-story-archive">Featured Story Archive</a> </li> 
+           <li> <a href="/news-information/your-news">Your News</a> </li> 
+          </ul> 
+          <h3><a href="/library">Library</a></h3> 
+          <ul> 
+           <li> <a href="/library/publications">Publications</a> </li> 
+           <li> <a href="/library/center-for-the-study-of-intelligence">Center for the Study of Intelligence</a> </li> 
+           <li> <a href="/library/readingroom">Freedom of Information Act Electronic Reading Room</a> </li> 
+           <li> <a href="/library/kent-center-occasional-papers">Kent Center Occasional Papers</a> </li> 
+           <li> <a href="/library/intelligence-literature">Intelligence Literature</a> </li> 
+           <li> <a href="/library/reports">Reports</a> </li> 
+           <li> <a href="/library/related-links.html">Related Links</a> </li> 
+           <li> <a href="/library/video-center">Video Center</a> </li> 
+          </ul> 
+         </div> 
+         <div class="info-block add"> 
+          <h3><a href="/kids-page">Kids' Zone</a></h3> 
+          <ul> 
+           <li> <a href="/kids-page/k-5th-grade">K-5th Grade</a> </li> 
+           <li> <a href="/kids-page/6-12th-grade">6-12th Grade</a> </li> 
+           <li> <a href="/kids-page/parents-teachers">Parents &amp; Teachers</a> </li> 
+           <li> <a href="/kids-page/games">Games</a> </li> 
+           <li> <a href="/kids-page/related-links">Related Links</a> </li> 
+           <li> <a href="/kids-page/privacy-statement">Privacy Statement</a> </li> 
+          </ul> 
+          <h3><a href="/contact-cia">Connect with CIA</a></h3> 
+          <ul class="socials-list"> 
+           <li><a class="social-6" href="https://twitter.com/CIA">CIA Twitter</a></li> 
+           <li><a class="social-5" href="https://www.facebook.com/Central.Intelligence.Agency">CIA Facebook</a></li> 
+           <li><a href="http://www.youtube.com/user/ciagov">CIA YouTube</a></li> 
+           <li><a class="social-2" href="http://www.flickr.com/photos/ciagov">CIA Flickr PhotoStream</a></li> 
+           <li><a class="social-3" href="/news-information/your-news">RSS</a></li> 
+           <li><a class="social-4 landingTrigger" href="/contact-cia">Contact Us</a></li> 
+          </ul> 
+         </div> 
+        </nav> 
+        <div id="plugins" class="info-panel"> 
+         <h4>* Required plugins</h4> 
+         <ul> 
+          <li data-plugin="swf"><a href="http://get.adobe.com/flashplayer/">Adobe® Flash Player</a></li> 
+          <li data-plugin="pdf"><a href="http://get.adobe.com/reader/">Adobe® Reader®</a></li> 
+          <li data-plugin="doc"><a href="http://www.microsoft.com/en-us/download/details.aspx?id=4">MS Word Viewer</a></li> 
+         </ul> 
+        </div> 
+       </div> 
+      </div> 
+     </footer> 
+    </div> 
+    <div class="footer-panel"> 
+     <nav class="sub-nav"> 
+      <h3 class="visuallyhidden">Footer Navigation</h3> 
+      <ul> 
+       <li><a href="/about-cia/site-policies/#privacy-notice" title="Site Policies">Privacy</a></li> 
+       <li><a href="/about-cia/site-policies/#copy" title="Site Policies">Copyright</a></li> 
+       <li><a href="/about-cia/site-policies/" title="Site Policies">Site Policies</a></li> 
+       <li><a href="http://www.usa.gov/">USA.gov</a></li> 
+       <li><a href="https://www.cia.gov/library/readingroom/">FOIA</a></li> 
+       <li><a href="http://www.dni.gov/">DNI.gov</a></li> 
+       <li><a href="/about-cia/no-fear-act/" title="No FEAR Act">NoFEAR Act</a></li> 
+       <li><a href="/offices-of-cia/inspector-general/">Inspector General</a></li> 
+       <!--<li><a tal:attributes="href string:$portal_url/mobile/" href="#" >Mobile Site</a></li>--> 
+       <li><a class="landingTrigger" href="/contact-cia/">Contact CIA</a></li> 
+       <li><a href="/sitemap.html">Site Map</a></li> 
+      </ul> 
+      <a href="/open/" class="footer-logo"><img src="/++theme++contextual.agencytheme/images/ico-06.png" alt="open gov"></a> 
+     </nav> 
+    </div> 
+    <div class="skip">
+     <a href="#wrapper">back to top</a>
+    </div> 
+   </div>
+   <!-- Modal for Landing Page-->
+   <div aria-hidden="true" aria-labelledby="mainLanding" class="modal fade" id="popupLandingModal" role="dialog" style="z-index:2147483647;overflow:auto" tabindex="-1"> 
+    <div class="modal-dialog"> 
+     <div class="modal-content"> 
+      <div class="modal-body"> 
+       <div class="section-contact-cia main-block-popup"> 
+        <button aria-hidden="true" aria-label="Close" class="cfclose" data-dismiss="modal" type="button">×</button>
+        <br> 
+        <section id="mainLanding"> 
+         <div class="section-contact-cia cf-heading-panel" style="width:93%"> 
+          <h1>Contact CIA</h1> 
+         </div> 
+         <div class="main-holder threecol" style="width:100%"> 
+          <div> 
+           <!-- <ul class="breadcrumbs"><li><a href="/">Home</a></li><li>Contact CIA</li></ul> --> 
+           <article class="description-box">
+            <a id="main-content" tabindex="-1">&nbsp;</a> 
+            <div> 
+             <div class=""> 
+              <div> 
+               <!-- <h1>Contact CIA</h1> --> 
+               <div> 
+                <div class="" id="parent-fieldname-text-55a5766e45f049b42fce0fdbf970b9ae"> 
+                 <p>The Office of Public Affairs (OPA) is the single point of contact for all inquiries about the Central Intelligence Agency (CIA).</p> 
+                 <p>We read every letter, fax, or e-mail we receive, and we will convey your comments to CIA officials outside OPA as appropriate. However, with limited staff and resources, we simply cannot respond to all who write to us.</p> 
+                 <hr class="centerline" styple="margin-top:2px;margin-bottom:2px;"> 
+                 <h3>Contact Information</h3> 
+                 <p><a href="#" class="contactTriggerFromLanding btn-lg btn-primary btn-block center-block" role="button">Submit questions or comments online</a> </p>
+                 <p><b>By postal mail:</b><br> Central Intelligence Agency<br> Office of Public Affairs<br> Washington, D.C. 20505</p> 
+                 <br> 
+                 <p>Contact the <a href="/about-cia/privacy-and-civil-liberties/index.html" class="internal-link">Office of Privacy and Civil Liberties</a></p> 
+                 <p>Contact the <a href="/offices-of-cia/inspector-general/index.html" class="internal-link">Office of Inspector General</a></p> 
+                 <p>Contact the <a href="/contact-cia/employment-verification-office.html" class="internal-link">Employment Verification Office</a></p> 
+                 <hr class="centerline" styple="margin-top:2px;margin-bottom:2px;"> 
+                 <p><b>Before contacting us:</b></p> 
+                 <p>Please check our <a href="/sitemap.html" title="Site Map"><b>site map</b></a>, <b>search</b> feature, or <b>our site navigation on the left </b> to locate the information you seek. We do not routinely respond to questions for which answers are found within this Web site.<br><br> </p> 
+                 <p><a href="/careers/index.html" title="Careers"><b>Employment</b></a><b>: </b> We do not routinely answer questions about employment beyond the information on this Web site, and we do not routinely answer inquiries about the status of job applications. Recruiting will contact applicants within 45 days if their qualifications meet our needs. <br> </p> 
+                 <span style="display:block"> 
+                  <ul style="padding:0 0 0 40px;width:100;%;list-style:disc outside none"> 
+                   <li>Because of safety concerns for the prospective applicant, as well as security and communication issues, the CIA Recruitment Center does not accept resumes, nor can we return phone calls, e-mails or other forms of communication, from US citizens living outside of the US. When you return permanently to the US (not on vacation or leave), please visit the <a title="Careers at CIA" href="/careers/opportunities/index.html">CIA Careers page</a> and apply online for the position of interest.<br> <br></li> 
+                   <li>To verify an employee's employment, please contact the <a class="internal-link" href="/contact-cia/employment-verification-office.html">Employment Verification Office</a>. </li> 
+                  </ul> </span> 
+                </div> 
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+           </article> 
+          </div> 
+         </div> 
+        </section> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+   <!-- Modal for Contact Page-->
+   <div aria-hidden="true" aria-labelledby="mainContact" class="modal fade" id="popupContactModal" role="dialog" style="z-index:2147483647;overflow:auto" tabindex="-1"> 
+    <div class="modal-dialog"> 
+     <div class="modal-content"> 
+      <div class="modal-body"> 
+       <div class="section-contact-cia main-block-popup"> 
+        <button aria-hidden="true" aria-label="Close" class="cfclose" data-dismiss="modal" type="button">×</button>
+        <br> 
+        <div id="mainContact"> 
+         <div class="section-contact-cia cf-heading-panel" style="width:93%"> 
+          <h1>Report Information</h1> 
+         </div> 
+         <div class="main-holder threecol" style="width:100%"> 
+          <div id="contentContact"> 
+           <!-- <ul class="breadcrumbs" style="padding: 0 0 0 16px">
+           <li><a href="https://www.cia.gov/">Home</a></li>
+           <li><a class="landingTriggerFromContact" href="#">Contact US</a></li>
+           <li>Contact CIA</li></ul> --> 
+           <div class="description-box"> 
+            <a id="main-content" tabindex="-1"> </a> 
+            <div class="text-holderPopup" style="width:100%"> 
+             <div id="viewlet-above-content"> 
+             </div> 
+             <div class=""> 
+              <div id="contentContact"> 
+               <h1> 
+                <div id="popupBanner" style="margin-left:5%;margin-right:5%;color:#5f1d1d;font-size:0.5em;word-wrap:break-word;">
+                 Contact Us Form
+                </div> </h1> 
+               <div> 
+                <div class="" id="parent-fieldname-text-b7a1aa432b8946fc8bc268300efe896d"> 
+                 <div id="popupBodyFull"></div> 
+                 <!-- popup form here --> 
+                 <div id="popupBody"> 
+                  <meta content="telephone=no" name="format-detection"> 
+                  <form accept-charset="utf-8" id="cf" name="cf" role="form" class="form-horizontal"> 
+                   <div class="form-group" style="margin-left:6%;width:95%;margin-bottom:7px;"> 
+                    <label for="message" id="mlabel" type="label">Message:<span style="color:red">*</span></label> 
+                    <textarea autocapitalize="off" autocomplete="off" autocorrect="off" class="form-control" cols="70" id="message" name="message" rows="10" style="resize:none;width:90%" required="true" placeholder="Message Text"></textarea> 
+                    <div id="messageErr"></div> 
+                   </div> 
+                   <div class="form-group" style="margin-left:6%;width:95%;margin-bottom:7px;"> 
+                    <label for="email" id="elabel">Email:<span style="color:red">*</span></label> 
+                    <input autocapitalize="off" autocomplete="off" autocorrect="off" class="form-control" id="email" maxlength="40" name="email" size="40" type="email" placeholder="user@email.com" pattern="[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z0-9-]+)*$" required style="width:90%"> 
+                   </div> 
+                   <div class="form-group" style="margin-left:6%;width:95%;margin-bottom:7px;"> 
+                    <label for="name">Name: </label> 
+                    <input autocapitalize="off" autocomplete="off" autocorrect="off" class="form-control" id="name" maxlength="40" name="sender" size="40" type="text" placeholder="Firstname Lastname" style="width:90%"> 
+                   </div> 
+                   <div class="form-inline" style="margin-left:6%;margin-bottom:7px;"> 
+                    <label id="phone_label">Phone Number:</label>
+                    <br> 
+                    <input autocomplete="off" class="form-control" id="phone_cc" aria-labelledby="phone_label" maxlength="5" name="ph_cc" placeholder="Country Code" size="12" type="cc" style="max-width:55%"> 
+                    <input autocomplete="off" class="form-control" id="phone" aria-labelledby="phone_label" maxlength="20" name="phone_num" placeholder="Number" size="40" type="tel" style="max-width:90%"> 
+                   </div> 
+                   <div class="form-inline" style="margin-left:6%;margin-bottom:7px;"> 
+                    <label id="mobile_label">Mobile/Cell:</label>
+                    <br> 
+                    <input autocomplete="off" class="form-control" id="cellcc" aria-labelledby="mobile_label" maxlength="5" name="mobilecc" placeholder="Country Code" size="12" type="cc" style="max-width:55%"> 
+                    <input autocomplete="off" class="form-control" id="cellnumber" aria-labelledby="mobile_label" maxlength="20" name="mobilenum" placeholder="Number" size="40" type="tel" style="max-width:90%"> 
+                   </div> 
+                   <br> 
+                   <p align="center"> </p>
+                   <div style="margin-left:5%" id="refId"></div> 
+                   <br> 
+                   <span id="submitFormButton"> <input onclick="javascript:confirm_submission();" class="btn-lg btn-block btn-primary center-block" type="button" value="Send"> </span> 
+                   <br> 
+                   <input name="Reset" class="btn-lg btn-block center-block" type="reset" value="Reset"> 
+                   <p align="left"><span style="color:red;margin-left:5%">*</span> = required</p> 
+                  </form> 
+                 </div> 
+                </div> 
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+   <!-- Modal for Report Page-->
+   <div aria-hidden="true" aria-labelledby="mainReport" class="modal fade" id="popupReportModal" role="dialog" style="z-index:2147483647;overflow:auto" tabindex="-1"> 
+    <div class="modal-dialog"> 
+     <div class="modal-content"> 
+      <div class="modal-body"> 
+       <div class="section-contact-cia main-block-popup"> 
+        <button aria-hidden="true" aria-label="Close" class="cfclose" data-dismiss="modal" type="button">×</button>
+        <br> 
+        <section id="mainReport"> 
+         <div class="section-contact-cia cf-heading-panel" style="width:93%"> 
+          <h1>Report Information</h1> 
+         </div> 
+         <div class="main-holder threecol" style="width:100%"> 
+          <div> 
+           <!-- <ul class="breadcrumbs"><li><a href="https://www.cia.gov/">Home</a></li><li>
+           <a class="landingTriggerFromReport" href="#">Contact CIA</a></li><li>Report Threats</li>
+          </ul> --> 
+           <article class="description-box">
+            <a id="main-content" tabindex="-1">&nbsp;</a> 
+            <div> 
+             <div class=""> 
+              <div> 
+               <div> 
+                <div class="" id="parent-fieldname-text-84043b8c4f22633413a10d8a8009e18c"> 
+                 <p>People from nearly every country share information with CIA, and new individuals contact us daily. If you have information you think might interest CIA due to our foreign intelligence collection mission, there are many ways to reach us. </p> 
+                 <p>If you know of an <b>imminent threat</b> to a location inside the U.S., immediately contact your local law enforcement or <a href="https://www.fbi.gov/contact-us/field-offices"><b>FBI Field Office</b></a>. For threats outside the U.S., <a href="#" class="contactTriggerFromReport"><b>contact CIA</b></a> or go to a U.S. Embassy or Consulate and ask for the information to be passed to a U.S. official. Please know, CIA does not engage in law enforcement.</p> 
+                 <p>In addition to the options below, individuals contact CIA in a variety of creative ways. The best method depends on your personal situation. We will work to protect all information you provide, including your identity, and our interactions with you will be respectful and professional. Depending on what you provide, we may offer you compensation.</p> 
+                 <h3>WHAT TO PROVIDE</h3> 
+                 <p>If you feel it is safe, consider providing these details with your submission:</p> 
+                 <span style="display:block"> 
+                  <ul style="padding:0 0 0 40px;width:100;%;list-style:disc outside none"> 
+                   <li> Your full name</li> 
+                   <li> Biographic details, such as a photograph of yourself, and a copy of the biographic page of your passport </li> 
+                   <li> How you got the information you want to share with CIA</li> 
+                   <li> How to contact you, including your home address and phone number</li> 
+                  </ul> </span> 
+                 <p>We cannot guarantee a response to every message. We reply first to messages of greater interest to us and to those with more detail. Our response will occur via a secure method.</p> 
+                 <h3>WAYS TO SUBMIT</h3> 
+                 <p><b>Internet:</b> Send a message <a class="contactTriggerFromReport" href="#"><b>here</b></a>. Or, you can send us a message using the <a class="external-link" href="https://www.torproject.org/">Tor browser</a> at <strong>ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion</strong>. We go to great lengths to keep these channels secure, but any communication via the internet poses some risk. Using the Tor browser, a virtual private network, and/or a device not registered to you can reduce some risk.</p> 
+                 <p><b>Mail:</b> Inside the U.S., send mail to the following address:</p> 
+                 <blockquote>
+                  <p>Central Intelligence Agency<br> Office of Public Affairs <br> Washington, D.C. 20505</p>
+                 </blockquote> 
+                 <p>You can also mail a letter to a U.S. Embassy or Consulate and request it be forwarded to CIA. Please note we have no control over the security and reliability of postal mail.</p> 
+                 <p><b>In-Person:</b> Outside the U.S., go to a U.S. Embassy or Consulate and inform a U.S. official you have information for CIA.</p> 
+                 <p><b>Third Party:</b> Have someone you trust travel to a less restrictive environment and deliver the information via one of the above methods.</p> 
+                </div> 
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+           </article> 
+          </div> 
+         </div> 
+        </section> 
+       </div> 
+      </div> 
+      <div> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+   <script async src="/js2/verification.js"></script>
+  </div> 
+ </body>
+</html>

@@ -1,0 +1,1075 @@
+<!doctype html>
+<html class="no-js tn-html" lang="en">
+ <head> 
+  <title>Tennesseans Serving Tennesseans</title> 
+  <meta charset="utf-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="keywords"> 
+  <meta name="description" content="State government’s role is to provide services that citizens aren’t able to get on their own. And in Tennessee State Government, that happens in unexpected and inspiring ways. #servingTN highlights stories of Tennesseans serving their fellow Tennesseans."> 
+  <meta name="url" content="https://www.tn.gov/transparenttn/servingtn.html"> 
+  <meta name="lastModified" content="22 Oct 2018 21:14:07 CDT"> 
+  <meta name="pageType"> 
+  <meta name="pageDepartment" content="transparenttn"> 
+  <meta name="pageDivision"> 
+  <meta name="newsDateTimeString"> 
+  <meta name="eventDateTimeString"> 
+  <meta name="searchType"> 
+  <meta name="pagePath" content="/content/tn/transparenttn/servingtn"> 
+  <meta name="category"> 
+  <meta property="og:title" content="Tennesseans Serving Tennesseans"> 
+  <meta property="og:description" content="State government’s role is to provide services that citizens aren’t able to get on their own. And in Tennessee State Government, that happens in unexpected and inspiring ways. #servingTN highlights stories of Tennesseans serving their fellow Tennesseans."> 
+  <meta property="og:url" content="https://www.tn.gov/transparenttn/servingtn.html"> 
+  <meta property="og:image"> 
+  <meta name="twitter:card" content="summary"> 
+  <meta name="twitter:title" content="Tennesseans Serving Tennesseans"> 
+  <meta name="twitter:description" content="State government’s role is to provide services that citizens aren’t able to get on their own. And in Tennessee State Government, that happens in unexpected and inspiring ways. #servingTN highlights stories of Tennesseans serving their fellow Tennesseans."> 
+  <meta name="twitter:url" content="https://www.tn.gov/transparenttn/servingtn.html"> 
+  <meta name="twitter:image"> 
+  <link rel="shortcut icon" href="/etc/clientlibs/tncore/main/img/favicon.ico"> 
+  <link rel="canonical" href="https://www.tn.gov/transparenttn/servingtn.html"> 
+  <link rel="stylesheet" href="/etc/clientlibs/tncore/main.min.7b7f24489495d82cdd3b7a88107b9f76.css" type="text/css"> 
+  <link rel="stylesheet" href="/etc/clientlibs/tn-sites/tngov.min.de4d4402ec2138999b5540dbe08724b4.css" type="text/css"> 
+  <script src="//assets.adobedtm.com/046dcefde06052c1522b33b00453f0592c8031e1/satelliteLib-0eaceea9a3f6b60d158884d8c7daf5435071c1e5.js"></script> 
+ </head> 
+ <body class="tngov" data-selectors="[]" data-template="contentPage"> 
+  <div class="sr-only sr-only-focusable"> 
+   <p><a href="#main">Skip to Main Content</a></p> 
+  </div> 
+  <noindex> 
+   <div> 
+   </div> 
+   <div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+      <div class="tn_header tn-header">
+       <header id="header"> 
+        <div class="row center-block top-nav"> 
+         <a class="logo" href="https://www.tn.gov/" data-logo="state-government" style="background-image: url('/etc/clientlibs/tncore/main/img/logos/tn-logo.png')"> 
+          <div>
+           Home
+          </div> </a> 
+         <a class="search-all icon-home-1" href="https://www.tn.gov/">Go to TN.gov</a> 
+        </div> 
+        <div class="row center-block agency"> 
+         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 columns title"> 
+          <a href="/content/tn/transparenttn.html"> <img src="/content/dam/headers/transparenttn.png" alt="  State of Tennessee" id="entity-name" data-pin-nopin="true"> </a> 
+         </div> 
+         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 columns text-right"> 
+          <div class="tn-headersearch">
+           <div class="search"> 
+            <form method="get" action="/transparenttn/search-results.html"> 
+             <input type="text" class="search-box" name="q" placeholder="Search Transparent Tennessee" aria-label="Search Transparent Tennessee"> 
+             <input type="submit" value="Search" class="search-button"> 
+             <i class="icon-search"></i> 
+            </form> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="backdrop" style="background-image:url(/content/dam/headers/test.jpg)"></div> 
+        <div class="backdrop-color" style="background-color: rgba(110,112,115,0.20)"></div> 
+       </header> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="tn-topnav">
+    <nav id="nav"> 
+     <div class="row center-block"> 
+      <div class="col-lg-12"> 
+       <div class="logo-small tn-logo"> 
+        <a href="/content/tn.html"><span class="sr-only">Go to TN.gov</span></a> 
+       </div> 
+       <div class="mobile-show icon-menu mobile-menu">
+        Section
+       </div> 
+       <ul class="inline-list nav-items"> 
+        <li> <a href="/transparenttn.html" class="icon-home"><span class="sr-only">Go to Transparent Tennessee</span></a> </li> 
+        <li> <a href="/transparenttn/education-workforce-development.html">Education</a> </li> 
+        <li> <a href="/transparenttn/fiscal-strength-efficient-government.html">Fiscal Strength</a> </li> 
+        <li> <a href="/transparenttn/health-welfare.html">Health &amp; Welfare</a> </li> 
+        <li class="dropdown"> <a href="/transparenttn/jobs-economic-development.html">Jobs &amp; Economic Development<i class="icon-down-dir"></i></a> 
+         <ul> 
+          <li><a href="/transparenttn/jobs-economic-development/open-ecd.html">Open ECD</a></li> 
+          <li><a href="/transparenttn/jobs-economic-development/performance-metrics_rd-main-nav.html">Performance Metrics</a></li> 
+         </ul> </li> 
+        <li> <a href="/transparenttn/public-safety.html">Public Safety</a> </li> 
+        <li> <a href="/transparenttn/state-financial-overview.html">Financial Overview </a> </li> 
+        <li> <a href="/transparenttn/01-openmaps.html">OpenMaps</a> </li> 
+        <li> <a href="/transparenttn/about-transparent-tennessee.html">About</a> </li> 
+       </ul> 
+       <div class="right primary-print"> 
+        <a href="javascript:window.print();" class="icon-print"><span class="sr-only">Print This Page</span></a> 
+       </div> 
+       <div class="right secondary-print"> 
+        <a href="javascript:window.print();" class="icon-print"><span class="sr-only">Print This Page</span></a> 
+       </div> 
+       <div class="right secondary-search"> 
+        <a class="icon-search"><span class="sr-only">Go to Search</span></a> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="config hidden" data-config="{&quot;closeMenuText&quot;:&quot;Close Menu&quot;,&quot;menuText&quot;:&quot;Section&quot;}"></div> 
+    </nav> 
+   </div> 
+   <div class="tn-alerts"> 
+   </div> 
+  </noindex> 
+  <div id="main" class="basic" tabindex="-1"> 
+   <div class="tn-pagetitle show" aria-hidden="false"> 
+    <h1>#servingTN</h1> 
+   </div> 
+   <div> 
+    <div class="tn-rte parbase"> 
+     <p>&nbsp; &nbsp; &nbsp;&nbsp;State government's role is to provide services that citizens aren't able to get on their own. In Tennessee State Government, those services are provided by dedicated people who want to&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; serve their fellow citizens. Through the #servingTN campaign, departments across Tennessee State Government are showcasing the real relationships that citizens build with state&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; employees who provide services every day.&nbsp;</p> 
+     <p>&nbsp; &nbsp; &nbsp; &nbsp;This month, departments are telling stories about how they are #servingTNatallhours. The work of Tennessee State Government doesn't begin at 9 and end at 5. Our departments work to&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;get the job done for their fellow Tennesseans, no matter the time of day. Below are just a few of those stories:</p> 
+    </div> 
+    <div class="columnctrl tn-columnctrl colctrl">
+     <div class="tn-col-ctrl"> 
+      <div class="row parsys_column tn-2cols"> 
+       <div class="parsys_column column-1"> 
+        <div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="315" noresize src="https://www.youtube.com/embed/pvHSoknb-Nc" width="560" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-rte parbase"> 
+          <p><strong>TN Dept. of Ag?</strong>&nbsp;<a href="https://twitter.com/TNAgriculture">@TNAgriculture</a> <br> At the grocery store or on the road, we've got you covered! The TN Dept of Agriculture's Weight and Measures inspectors ensure commercial devices that weigh and measure are accurate. It’s 4pm and we’re #servingTNAtAllHours. </p> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="800px" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNMentalHealthSubstanceAbuseServices%2Fposts%2F2007706985983180&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-textandimage textimage parbase"> 
+          <div class="textimage-left" style="float: left;"> 
+           <div id="cq-image-jsp-/content/tn/transparenttn/servingtn/jcr:content/contentFullWidth/tn_columnctrl/column_parsys0/tn_textandimage_1272776298/image">
+            <img src="/content/tn/transparenttn/servingtn/jcr%3acontent/contentFullWidth/tn_columnctrl/column_parsys0/tn_textandimage_1272776298/image.img.jpg/1540259095206.jpg" alt="DqIo2oLXQAEKbPI" title="DqIo2oLXQAEKbPI" class="cq-dd-image">
+           </div> 
+           <script type="text/javascript">
+    (function() {
+        var imageDiv = document.getElementById("cq\u002Dimage\u002Djsp\u002D\/content\/tn\/transparenttn\/servingtn\/jcr:content\/contentFullWidth\/tn_columnctrl\/column_parsys0\/tn_textandimage_1272776298\/image");
+        var imageEvars = '{ imageLink: "", imageAsset: "/content/dam/tn/transparenttn/images/citizen-dashboards/workers-compensation/DqIo2oLXQAEKbPI.jpg", imageTitle: "DqIo2oLXQAEKbPI" }';
+        var tagNodes = imageDiv.getElementsByTagName('A');
+        for (var i = 0; i < tagNodes.length; i++) {
+            var link = tagNodes.item(i); 
+            link.setAttribute('onclick', 'CQ_Analytics.record({event: "imageClick", values: ' + imageEvars + ', collect: false, options: { obj: this }, componentPath: "tncore\/components\/content\/tn\u002Dimage"})');
+        }
+        
+    })();
+</script> 
+          </div> 
+          <div class="textimage-text"> 
+           <p><strong>TN Workers' Comp</strong>?&nbsp;<a href="https://twitter.com/TN_WorkComp">@TN_WorkComp</a><br> Clarity takes time. It’s almost six o’clock, and we believe it's worth staying late to get everyone on the same page when mediating workers' benefits. #servingTNatAllHours&nbsp;</p> 
+          </div> 
+          <div class="clear"></div>
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="502" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTennCare%2Fposts%2F2148969648456122&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="502" noresize src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTennesseeDepartmentOfRevenue%2Fvideos%2F319660778834097%2F&amp;show_text=1&amp;width=560" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-textandimage textimage parbase"> 
+          <div class="textimage-left" style="float: left;"> 
+           <div id="cq-image-jsp-/content/tn/transparenttn/servingtn/jcr:content/contentFullWidth/tn_columnctrl/column_parsys0/tn_textandimage_56814207/image">
+            <img src="/content/tn/transparenttn/servingtn/jcr%3acontent/contentFullWidth/tn_columnctrl/column_parsys0/tn_textandimage_56814207/image.img.jpg/1540213957957.jpg" alt="DqHCZFEXgAIuWgd" title="DqHCZFEXgAIuWgd" class="cq-dd-image">
+           </div> 
+           <script type="text/javascript">
+    (function() {
+        var imageDiv = document.getElementById("cq\u002Dimage\u002Djsp\u002D\/content\/tn\/transparenttn\/servingtn\/jcr:content\/contentFullWidth\/tn_columnctrl\/column_parsys0\/tn_textandimage_56814207\/image");
+        var imageEvars = '{ imageLink: "", imageAsset: "/content/dam/tn/transparenttn/images/citizen-dashboards/tdec/DqHCZFEXgAIuWgd.jpg", imageTitle: "DqHCZFEXgAIuWgd" }';
+        var tagNodes = imageDiv.getElementsByTagName('A');
+        for (var i = 0; i < tagNodes.length; i++) {
+            var link = tagNodes.item(i); 
+            link.setAttribute('onclick', 'CQ_Analytics.record({event: "imageClick", values: ' + imageEvars + ', collect: false, options: { obj: this }, componentPath: "tncore\/components\/content\/tn\u002Dimage"})');
+        }
+        
+    })();
+</script> 
+          </div> 
+          <div class="textimage-text"> 
+           <p><strong>Dept. of Environment</strong>?&nbsp;<a href="https://twitter.com/TNEnvironment">@TNEnvironment</a>&nbsp;<br> What better way to experience the beauty and peace of <a href="https://twitter.com/TennStateParks">@TennStateParks</a> than with a guided sunrise canoe float at Radnor Lake? It’s 6:45 am and we’re #servingTNatAllHours. <br> See more: <a href="http://bit.ly/2ygUCjk">http://bit.ly/2ygUCjk&nbsp;</a></p> 
+          </div> 
+          <div class="clear"></div>
+         </div> 
+         <div class="tn-textandimage textimage parbase"> 
+          <div class="textimage-left" style="float: left;"> 
+           <div id="cq-image-jsp-/content/tn/transparenttn/servingtn/jcr:content/contentFullWidth/tn_columnctrl/column_parsys0/tn_textandimage_779006797/image">
+            <img src="/content/tn/transparenttn/servingtn/jcr%3acontent/contentFullWidth/tn_columnctrl/column_parsys0/tn_textandimage_779006797/image.img.jpg/1540214603241.jpg" alt="DqGq09UW4AAfd2l" title="DqGq09UW4AAfd2l" class="cq-dd-image">
+           </div> 
+           <script type="text/javascript">
+    (function() {
+        var imageDiv = document.getElementById("cq\u002Dimage\u002Djsp\u002D\/content\/tn\/transparenttn\/servingtn\/jcr:content\/contentFullWidth\/tn_columnctrl\/column_parsys0\/tn_textandimage_779006797\/image");
+        var imageEvars = '{ imageLink: "", imageAsset: "/content/dam/tn/transparenttn/images/citizen-dashboards/tdot/DqGq09UW4AAfd2l.jpg", imageTitle: "DqGq09UW4AAfd2l" }';
+        var tagNodes = imageDiv.getElementsByTagName('A');
+        for (var i = 0; i < tagNodes.length; i++) {
+            var link = tagNodes.item(i); 
+            link.setAttribute('onclick', 'CQ_Analytics.record({event: "imageClick", values: ' + imageEvars + ', collect: false, options: { obj: this }, componentPath: "tncore\/components\/content\/tn\u002Dimage"})');
+        }
+        
+    })();
+</script> 
+          </div> 
+          <div class="textimage-text"> 
+           <p><strong>myTDOT?&nbsp;</strong><a href="https://twitter.com/myTDOT">@myTDOT</a> <br> TDOT is improving our infrastructure by replacing bridges over a weekend. It’s 5:00 a.m. and we’re #servingTNatAllHours. <br> See more: <a href="https://bit.ly/2ygUCjk">https://bit.ly/2ygUCjk&nbsp;</a></p> 
+          </div> 
+          <div class="clear"></div>
+         </div> 
+         <div class="tn-textandimage textimage parbase"> 
+          <div class="textimage-left" style="float: left;"> 
+           <div id="cq-image-jsp-/content/tn/transparenttn/servingtn/jcr:content/contentFullWidth/tn_columnctrl/column_parsys0/tn_textandimage/image">
+            <img src="/content/tn/transparenttn/servingtn/jcr%3acontent/contentFullWidth/tn_columnctrl/column_parsys0/tn_textandimage/image.img.jpg/1540213173209.jpg" alt="Dp5bSa-XcAEFZm_" title="Dp5bSa-XcAEFZm_" class="cq-dd-image">
+           </div> 
+           <script type="text/javascript">
+    (function() {
+        var imageDiv = document.getElementById("cq\u002Dimage\u002Djsp\u002D\/content\/tn\/transparenttn\/servingtn\/jcr:content\/contentFullWidth\/tn_columnctrl\/column_parsys0\/tn_textandimage\/image");
+        var imageEvars = '{ imageLink: "", imageAsset: "/content/dam/tn/transparenttn/images/citizen-dashboards/military/Dp5bSa-XcAEFZm_.jpg", imageTitle: "Dp5bSa\u002DXcAEFZm_" }';
+        var tagNodes = imageDiv.getElementsByTagName('A');
+        for (var i = 0; i < tagNodes.length; i++) {
+            var link = tagNodes.item(i); 
+            link.setAttribute('onclick', 'CQ_Analytics.record({event: "imageClick", values: ' + imageEvars + ', collect: false, options: { obj: this }, componentPath: "tncore\/components\/content\/tn\u002Dimage"})');
+        }
+        
+    })();
+</script> 
+          </div> 
+          <div class="textimage-text"> 
+           <p><strong>Tenn. National Guard</strong>?&nbsp;<a href="https://twitter.com/TNMilitaryDept">@TNMilitaryDept</a><br> Meet Volunteer ChalleNGe Academy Dir, Gary Ensminger. After 34 yrs of distinguished military service, he transitioned into a role that helps Tennessee's at risk youth reset their life compass.<br> It's 12:38 am and we're #servingTNAtAllHours.<br> See more: <a href="https://bit.ly/2ygUCjk">https://bit.ly/2ygUCjk</a>&nbsp;</p> 
+          </div> 
+          <div class="clear"></div>
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="445" noresize src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTNEnvironment%2Fvideos%2F638282016507991%2F&amp;show_text=1&amp;width=560" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="464" noresize src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FmyTDOT1%2Fvideos%2F10155447087007551%2F&amp;show_text=1&amp;width=560" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="445" noresize src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTennCare%2Fvideos%2F1944889188864170%2F&amp;show_text=1&amp;width=560" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="574" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNAgriculture%2Fposts%2F10155266110102273&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="709" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNDepartmentofCorrection%2Fposts%2F1675564275824262&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="521" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FmyTDVS%2Fposts%2F1707624102605976%3A0&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="512" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTennesseeCommerceAndInsurance%2Fposts%2F1615024658546326&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="508" noresize src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTNMentalHealthSubstanceAbuseServices%2Fvideos%2F1783979578355923%2F&amp;show_text=1&amp;width=560" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="548" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fnotes%2Ftennessee-council-on-developmental-disabilities%2Fservingtn-jean-marie-lawrence%2F1973760849324780%2F&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="464" noresize src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ftennesseedepartmentofhumanservices%2Fvideos%2F2054676691441275%2F&amp;show_text=1&amp;width=560" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-image image parbase"> 
+          <div id="cq-image-jsp-/content/tn/transparenttn/servingtn/jcr:content/contentFullWidth/tn_columnctrl/column_parsys0/tn_image">
+           <a href="https://twitter.com/TNedu/status/1003640521976434689"><img src="/content/tn/transparenttn/servingtn/jcr%3acontent/contentFullWidth/tn_columnctrl/column_parsys0/tn_image.img.jpg/1528236229879.jpg" alt="ServingTNed3" title="ServingTNed3" class="cq-dd-image"></a>
+          </div> 
+          <script type="text/javascript">
+    (function() {
+        var imageDiv = document.getElementById("cq\u002Dimage\u002Djsp\u002D\/content\/tn\/transparenttn\/servingtn\/jcr:content\/contentFullWidth\/tn_columnctrl\/column_parsys0\/tn_image");
+        var imageEvars = '{ imageLink: "https://twitter.com/TNedu/status/1003640521976434689", imageAsset: "/content/dam/tn/governorsoffice-documents/governorsoffice-images/ServingTNed3.JPG", imageTitle: "ServingTNed3" }';
+        var tagNodes = imageDiv.getElementsByTagName('A');
+        for (var i = 0; i < tagNodes.length; i++) {
+            var link = tagNodes.item(i); 
+            link.setAttribute('onclick', 'CQ_Analytics.record({event: "imageClick", values: ' + imageEvars + ', collect: false, options: { obj: this }, componentPath: "tncore\/components\/content\/tn\u002Dimage"})');
+        }
+        
+    })();
+</script> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="644" noresize src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTNDeptofLaborWorkforce%2Fvideos%2F1752266791507346%2F&amp;show_text=1&amp;width=476" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+         </div> 
+         <div class="tn-iframe"> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="380" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNDOHR%2Fposts%2F1849414385365050&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="524" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNCouncilonDD%2Fposts%2F1973959159304949%3A0&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-image image parbase"> 
+          <div id="cq-image-jsp-/content/tn/transparenttn/servingtn/jcr:content/contentFullWidth/tn_columnctrl/column_parsys0/tn_image_1225489690">
+           <a href="https://twitter.com/TNedu/status/1003681290028187648"><img src="/content/tn/transparenttn/servingtn/jcr%3acontent/contentFullWidth/tn_columnctrl/column_parsys0/tn_image_1225489690.img.jpg/1528236123558.jpg" alt="ServingTNed2" title="ServingTNed2" class="cq-dd-image"></a>
+          </div> 
+          <script type="text/javascript">
+    (function() {
+        var imageDiv = document.getElementById("cq\u002Dimage\u002Djsp\u002D\/content\/tn\/transparenttn\/servingtn\/jcr:content\/contentFullWidth\/tn_columnctrl\/column_parsys0\/tn_image_1225489690");
+        var imageEvars = '{ imageLink: "https://twitter.com/TNedu/status/1003681290028187648", imageAsset: "/content/dam/tn/governorsoffice-documents/governorsoffice-images/ServingTNed2.JPG", imageTitle: "ServingTNed2" }';
+        var tagNodes = imageDiv.getElementsByTagName('A');
+        for (var i = 0; i < tagNodes.length; i++) {
+            var link = tagNodes.item(i); 
+            link.setAttribute('onclick', 'CQ_Analytics.record({event: "imageClick", values: ' + imageEvars + ', collect: false, options: { obj: this }, componentPath: "tncore\/components\/content\/tn\u002Dimage"})');
+        }
+        
+    })();
+</script> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="510" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftnecd%2Fposts%2F10155685756163231%3A0&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="614" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTennesseeSafety%2Fposts%2F10156433299414190&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="559" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FmyTDVS%2Fposts%2F1708263695875350&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="709" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTennesseeCommerceAndInsurance%2Fposts%2F1533725503342909&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="464" noresize src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTNDeptofLaborWorkforce%2Fvideos%2F1653185574748802%2F&amp;show_text=1&amp;width=560" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="660" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTDTDIndustry%2Fposts%2F200684647351557&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-image image parbase"> 
+          <div id="cq-image-jsp-/content/tn/transparenttn/servingtn/jcr:content/contentFullWidth/tn_columnctrl/column_parsys0/tn_image_1480741335">
+           <a href="https://twitter.com/TNDeptofFandA/status/970646093858877440"><img src="/content/tn/transparenttn/servingtn/jcr%3acontent/contentFullWidth/tn_columnctrl/column_parsys0/tn_image_1480741335.img.jpg/1520296081245.jpg" alt="FandADiane" title="FandADiane" class="cq-dd-image"></a>
+          </div> 
+          <script type="text/javascript">
+    (function() {
+        var imageDiv = document.getElementById("cq\u002Dimage\u002Djsp\u002D\/content\/tn\/transparenttn\/servingtn\/jcr:content\/contentFullWidth\/tn_columnctrl\/column_parsys0\/tn_image_1480741335");
+        var imageEvars = '{ imageLink: "https://twitter.com/TNDeptofFandA/status/970646093858877440", imageAsset: "/content/dam/tn/governorsoffice-documents/governorsoffice-images/servingtn/FandADiane.JPG", imageTitle: "FandADiane" }';
+        var tagNodes = imageDiv.getElementsByTagName('A');
+        for (var i = 0; i < tagNodes.length; i++) {
+            var link = tagNodes.item(i); 
+            link.setAttribute('onclick', 'CQ_Analytics.record({event: "imageClick", values: ' + imageEvars + ', collect: false, options: { obj: this }, componentPath: "tncore\/components\/content\/tn\u002Dimage"})');
+        }
+        
+    })();
+</script> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="485" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNCouncilonDD%2Fposts%2F1875353135832219&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="355" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FJoinTeamTN%2Fposts%2F1695769987182616&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="428" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNAgriculture%2Fposts%2F10155075620997273&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="384" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTennDGS%2Fposts%2F1848523148527078&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="565" noresize src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTnTogether%2Fvideos%2F1577008219015660%2F&amp;show_text=1&amp;width=560" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="709" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTennesseeCommerceAndInsurance%2Fposts%2F1533849879997138&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="633" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNDepartmentofCorrection%2Fposts%2F1587304827983541&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="426" noresize src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FmyTDOT1%2Fvideos%2F10155229482537551%2F&amp;show_text=1&amp;width=560" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="586" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftnecd%2Fposts%2F10155446901048231%3A0&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="384" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTennesseeEducation%2Fposts%2F1679062258799424&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="559" noresize src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ftnmuseum.org%2Fvideos%2F10156266379622940%2F&amp;show_text=1&amp;width=560" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="420" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNAging%2Fposts%2F1549476461837061&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="460" noresize src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTNEnvironment%2Fvideos%2F591216117881248%2F&amp;show_text=1&amp;width=560" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="615" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTennesseeDepartmentOfRevenue%2Fposts%2F843079812546391&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="673" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNAgriculture%2Fposts%2F10155078075837273&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="547" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNNationalGuardJFHQ%2Fposts%2F1841282292562702&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="415" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTennesseeDepartmentOfRevenue%2Fposts%2F844015205786185&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="671" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTennesseeEducation%2Fposts%2F1680188102020173&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="502" noresize src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ftnmuseum.org%2Fvideos%2F10156275700502940%2F&amp;show_text=1&amp;width=560" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="612" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FmyTDOT1%2Fposts%2F10155237487322551&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="630" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNEnvironment%2Fposts%2F590738627928997&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="365" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTennDGS%2Fposts%2F1851473881565338&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="509" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTennesseeSafety%2Fposts%2F10156213312999190&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="464" noresize src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ftennesseedepartmentofhumanservices%2Fvideos%2F2014263385482606%2F&amp;show_text=1&amp;width=560" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="315" noresize src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTNDeptofLaborWorkforce%2Fvideos%2F1653197834747576%2F&amp;show_text=0&amp;width=560" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="628" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNDeptofHealth%2Fposts%2F10155982431740049&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="445" noresize src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ftennesseedepartmentofhumanservices%2Fvideos%2F1977403469168598%2F&amp;show_text=1&amp;width=560" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="584" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNdcs%2Fposts%2F2064986046862339&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="614" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNEnvironment%2Fposts%2F591207197882140&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="740" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNCouncilonDD%2Fposts%2F1876591902375009&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="706" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNMentalHealthSubstanceAbuseServices%2Fposts%2F1698557373564811&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="548" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fnotes%2Ftennessee-council-on-developmental-disabilities%2Fservingtn-kathy-mcgees-story%2F1880211388679727%2F&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="593" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNAgriculture%2Fposts%2F10155080411177273&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="445" noresize src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ftennesseedepartmentofhumanservices%2Fvideos%2F1965592383683040%2F&amp;show_text=1&amp;width=560" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="543" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftnmuseum.org%2Fposts%2F10156272268092940&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="606" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNNationalGuardJFHQ%2Fposts%2F1867939856563612&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="609" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNDeptofHealth%2Fposts%2F10155982434560049&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="255" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTennesseeCommerceAndInsurance%2Fposts%2F1537492022966257&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="385" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTennesseeEducation%2Fposts%2F1682543098451340&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="558" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNEnvironment%2Fposts%2F591207931215400&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="450" noresize src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTennesseeDepartmentOfRevenue%2Fvideos%2F842085099312529%2F&amp;show_text=1&amp;width=560" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="586" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftnecd%2Fposts%2F10155446911773231%3A0&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="315" noresize src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTNDeptofLaborWorkforce%2Fvideos%2F1653187661415260%2F&amp;show_text=0&amp;width=560" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="550" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNNationalGuardJFHQ%2Fposts%2F1866525376705060&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="425" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTennesseeEducation%2Fposts%2F1676794789026171&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="653" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNAgriculture%2Fposts%2F10155073028532273&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="565" noresize src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTnTogether%2Fvideos%2F1576879702361845%2F&amp;show_text=1&amp;width=560" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="585" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNdcs%2Fposts%2F2060117114015899&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="685" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftnecd%2Fphotos%2Fa.310689628230.149159.300748678230%2F10155446920333231%2F%3Ftype%3D3&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="572" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNNationalGuardJFHQ%2Fposts%2F1829503377073927&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="562" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftn.didd%2Fposts%2F1660510730703729&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="591" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTennCare%2Fposts%2F1850218008331289&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="533" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FParTNersForHealthTN%2Fposts%2F1871418922891938&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="822" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTDTDIndustry%2Fposts%2F200685994018089&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="parsys_column column-2"> 
+        <div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="502" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTennesseeCommerceAndInsurance%2Fposts%2F1808389615876495%3A0&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="502" noresize src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ftennesseedepartmentofhumanservices%2Fvideos%2F348920729010781%2F&amp;show_text=1&amp;width=560" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="502" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTennDGS%2Fposts%2F2184625428250180&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="502" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTennesseeSafety%2Fposts%2F10156773285349190&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-textandimage textimage parbase"> 
+          <div class="textimage-left" style="float: left;"> 
+           <div id="cq-image-jsp-/content/tn/transparenttn/servingtn/jcr:content/contentFullWidth/tn_columnctrl/column_parsys1/tn_textandimage_1582053528/image">
+            <img src="/content/tn/transparenttn/servingtn/jcr%3acontent/contentFullWidth/tn_columnctrl/column_parsys1/tn_textandimage_1582053528/image.img.jpg/1540228529382.jpg" alt="DqHmaejV4AEXyU4" title="DqHmaejV4AEXyU4" class="cq-dd-image">
+           </div> 
+           <script type="text/javascript">
+    (function() {
+        var imageDiv = document.getElementById("cq\u002Dimage\u002Djsp\u002D\/content\/tn\/transparenttn\/servingtn\/jcr:content\/contentFullWidth\/tn_columnctrl\/column_parsys1\/tn_textandimage_1582053528\/image");
+        var imageEvars = '{ imageLink: "", imageAsset: "/content/dam/tn/transparenttn/images/citizen-dashboards/ecd/DqHmaejV4AEXyU4.jpg", imageTitle: "DqHmaejV4AEXyU4" }';
+        var tagNodes = imageDiv.getElementsByTagName('A');
+        for (var i = 0; i < tagNodes.length; i++) {
+            var link = tagNodes.item(i); 
+            link.setAttribute('onclick', 'CQ_Analytics.record({event: "imageClick", values: ' + imageEvars + ', collect: false, options: { obj: this }, componentPath: "tncore\/components\/content\/tn\u002Dimage"})');
+        }
+        
+    })();
+</script> 
+          </div> 
+          <div class="textimage-text"> 
+           <p><strong>TNECD</strong> <a href="https://twitter.com/TNECD">@TNECD</a><br> Since 2011, TNECD has provided more than $480 million in grants to make local Tennessee communities better places to live and work. We’re proud to award Marshall County with $525,000 to build new water lines and provide 100 residents with clean drinking water. #servingTNAtAllHours</p> 
+          </div> 
+          <div class="clear"></div>
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="502" noresize src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTNDeptofLaborWorkforce%2Fvideos%2F339301690136266%2F&amp;show_text=1&amp;width=560" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-textandimage textimage parbase"> 
+          <div class="textimage-left" style="float: left;"> 
+           <div id="cq-image-jsp-/content/tn/transparenttn/servingtn/jcr:content/contentFullWidth/tn_columnctrl/column_parsys1/tn_textandimage_1599591385/image">
+            <img src="/content/tn/transparenttn/servingtn/jcr%3acontent/contentFullWidth/tn_columnctrl/column_parsys1/tn_textandimage_1599591385/image.img.jpg/1540213742516.jpg" alt="DqE7jI6U4AAxTR6" title="DqE7jI6U4AAxTR6" class="cq-dd-image">
+           </div> 
+           <script type="text/javascript">
+    (function() {
+        var imageDiv = document.getElementById("cq\u002Dimage\u002Djsp\u002D\/content\/tn\/transparenttn\/servingtn\/jcr:content\/contentFullWidth\/tn_columnctrl\/column_parsys1\/tn_textandimage_1599591385\/image");
+        var imageEvars = '{ imageLink: "", imageAsset: "/content/dam/tn/transparenttn/images/citizen-dashboards/didd/DqE7jI6U4AAxTR6.jpg", imageTitle: "DqE7jI6U4AAxTR6" }';
+        var tagNodes = imageDiv.getElementsByTagName('A');
+        for (var i = 0; i < tagNodes.length; i++) {
+            var link = tagNodes.item(i); 
+            link.setAttribute('onclick', 'CQ_Analytics.record({event: "imageClick", values: ' + imageEvars + ', collect: false, options: { obj: this }, componentPath: "tncore\/components\/content\/tn\u002Dimage"})');
+        }
+        
+    })();
+</script> 
+          </div> 
+          <div class="textimage-text"> 
+           <p><strong>TN DIDD</strong>?&nbsp;<a href="https://twitter.com/DIDD_TN">@DIDD_TN</a>&nbsp;<br> DIDD operates the Harold Jordan Center (HJC) which provides round-the-clock personalized treatment to people with intellectual disabilities and significant behaviorally complex diagnosis. It's 4 a.m. and we're #servingTNAtAllHours. <br> See more: <a href="https://bit.ly/2ygUCjk">https://bit.ly/2ygUCjk&nbsp;</a></p> 
+          </div> 
+          <div class="clear"></div>
+         </div> 
+         <div class="tn-textandimage textimage parbase"> 
+          <div class="textimage-left" style="float: left;"> 
+           <div id="cq-image-jsp-/content/tn/transparenttn/servingtn/jcr:content/contentFullWidth/tn_columnctrl/column_parsys1/tn_textandimage/image">
+            <img src="/content/tn/transparenttn/servingtn/jcr%3acontent/contentFullWidth/tn_columnctrl/column_parsys1/tn_textandimage/image.img.jpg/1540213459662.jpg" alt="DqGaWBsU8AAlCN7" title="DqGaWBsU8AAlCN7" class="cq-dd-image">
+           </div> 
+           <script type="text/javascript">
+    (function() {
+        var imageDiv = document.getElementById("cq\u002Dimage\u002Djsp\u002D\/content\/tn\/transparenttn\/servingtn\/jcr:content\/contentFullWidth\/tn_columnctrl\/column_parsys1\/tn_textandimage\/image");
+        var imageEvars = '{ imageLink: "", imageAsset: "/content/dam/tn/transparenttn/images/citizen-dashboards/f&a/DqGaWBsU8AAlCN7.jpg", imageTitle: "DqGaWBsU8AAlCN7" }';
+        var tagNodes = imageDiv.getElementsByTagName('A');
+        for (var i = 0; i < tagNodes.length; i++) {
+            var link = tagNodes.item(i); 
+            link.setAttribute('onclick', 'CQ_Analytics.record({event: "imageClick", values: ' + imageEvars + ', collect: false, options: { obj: this }, componentPath: "tncore\/components\/content\/tn\u002Dimage"})');
+        }
+        
+    })();
+</script> 
+          </div> 
+          <div class="textimage-text"> 
+           <p><strong>TN Dept of F&amp;A</strong>?&nbsp;<a href="https://twitter.com/TNDeptofFandA">@TNDeptofFandA</a><br> Ben started as an Intern 15 years ago; now he leads an overnight technology solutions team because, he says, he enjoys being able to make a difference. It’s 3:50 am and we’re #servingTNAtAllHours.<br> See more: <a href="https://bit.ly/2ygUCjk">https://bit.ly/2ygUCjk</a>&nbsp; <a href="https://twitter.com/StephDedmon">@StephDedmon</a></p> 
+          </div> 
+          <div class="clear"></div>
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="502" noresize src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ftnecd%2Fvideos%2F10155685733978231%2F&amp;show_text=1&amp;width=560" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="737" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTennDGS%2Fposts%2F1962409697138422&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="584" noresize src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ftn.didd%2Fvideos%2F1769672303120904%2F&amp;show_text=1&amp;width=560" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="473" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTricorTennessee%2Fposts%2F1880032208728425&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="746" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNdcs%2Fposts%2F2166116806749262&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="707" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftccyonfb%2Fposts%2F10155503968829599%3A0&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="416" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTennesseeDepartmentOfRevenue%2Fposts%2F882771835243855&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="614" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTennesseeSafety%2Fposts%2F10156433541849190&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="591" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNDeptofHealth%2Fposts%2F10156228722575049&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="755" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTDTDIndustry%2Fposts%2F241188393301182&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="616" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FParTNersForHealthTN%2Fposts%2F1971099266257236&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="527" noresize src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTNAgriculture%2Fvideos%2F10155265841317273%2F&amp;show_text=1&amp;width=560" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="517" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNDepartmentofCorrection%2Fposts%2F1675414832505873&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="527" noresize src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTNMentalHealthSubstanceAbuseServices%2Fvideos%2F1784158105004737%2F&amp;show_text=1&amp;width=560" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="548" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fnotes%2Ftennessee-council-on-developmental-disabilities%2Fservingtn-jennifer-coleman%2F1974076695959862%2F&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="548" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftnecd%2Fposts%2F10155685713478231%3A0&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-image image parbase"> 
+          <div id="cq-image-jsp-/content/tn/transparenttn/servingtn/jcr:content/contentFullWidth/tn_columnctrl/column_parsys1/tn_image">
+           <a href="https://twitter.com/TNedu/status/1003711993042423808"><img src="/content/tn/transparenttn/servingtn/jcr%3acontent/contentFullWidth/tn_columnctrl/column_parsys1/tn_image.img.jpg/1528235952940.jpg" alt="ServingTNed1" title="ServingTNed1" class="cq-dd-image"></a>
+          </div> 
+          <script type="text/javascript">
+    (function() {
+        var imageDiv = document.getElementById("cq\u002Dimage\u002Djsp\u002D\/content\/tn\/transparenttn\/servingtn\/jcr:content\/contentFullWidth\/tn_columnctrl\/column_parsys1\/tn_image");
+        var imageEvars = '{ imageLink: "https://twitter.com/TNedu/status/1003711993042423808", imageAsset: "/content/dam/tn/governorsoffice-documents/governorsoffice-images/ServingTNed1.JPG", imageTitle: "ServingTNed1" }';
+        var tagNodes = imageDiv.getElementsByTagName('A');
+        for (var i = 0; i < tagNodes.length; i++) {
+            var link = tagNodes.item(i); 
+            link.setAttribute('onclick', 'CQ_Analytics.record({event: "imageClick", values: ' + imageEvars + ', collect: false, options: { obj: this }, componentPath: "tncore\/components\/content\/tn\u002Dimage"})');
+        }
+        
+    })();
+</script> 
+         </div> 
+         <div class="tn-iframe"> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="548" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNAgriculture%2Fposts%2F10155265511062273&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-image image parbase"> 
+          <div id="cq-image-jsp-/content/tn/transparenttn/servingtn/jcr:content/contentFullWidth/tn_columnctrl/column_parsys1/tn_image_1316610070">
+           <a href="https://twitter.com/TNEnvironment/status/970683400091766785"><img src="/content/tn/transparenttn/servingtn/jcr%3acontent/contentFullWidth/tn_columnctrl/column_parsys1/tn_image_1316610070.img.jpg/1520442228203.jpg" alt="EnvironmentIvan" title="EnvironmentIvan" class="cq-dd-image"></a>
+          </div> 
+          <script type="text/javascript">
+    (function() {
+        var imageDiv = document.getElementById("cq\u002Dimage\u002Djsp\u002D\/content\/tn\/transparenttn\/servingtn\/jcr:content\/contentFullWidth\/tn_columnctrl\/column_parsys1\/tn_image_1316610070");
+        var imageEvars = '{ imageLink: "https://twitter.com/TNEnvironment/status/970683400091766785", imageAsset: "/content/dam/tn/governorsoffice-documents/governorsoffice-images/servingtn/EnvironmentIvan.JPG", imageTitle: "EnvironmentIvan" }';
+        var tagNodes = imageDiv.getElementsByTagName('A');
+        for (var i = 0; i < tagNodes.length; i++) {
+            var link = tagNodes.item(i); 
+            link.setAttribute('onclick', 'CQ_Analytics.record({event: "imageClick", values: ' + imageEvars + ', collect: false, options: { obj: this }, componentPath: "tncore\/components\/content\/tn\u002Dimage"})');
+        }
+        
+    })();
+</script> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="384" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTennesseeEducation%2Fposts%2F1677935798912070&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="425" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTennesseeSafety%2Fposts%2F10156204352834190&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="663" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNDepartmentofCorrection%2Fposts%2F1585134728200551&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="711" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTDTDIndustry%2Fposts%2F200683634018325&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="445" noresize src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ftennesseedepartmentofhumanservices%2Fvideos%2F2012757362299875%2F&amp;show_text=1&amp;width=560" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="407" noresize src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FmyTDOT1%2Fvideos%2F10155226989187551%2F&amp;show_text=1&amp;width=560" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="632" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTennesseeSafety%2Fposts%2F10156207367749190&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="614" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNDepartmentofCorrection%2Fposts%2F1586194028094621&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="423" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTennesseeDepartmentOfRevenue%2Fposts%2F842543345933371&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="716" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTDTDIndustry%2Fposts%2F200682330685122&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="543" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftnmuseum.org%2Fposts%2F10156269729232940&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="606" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNDOHR%2Fposts%2F1812718372367985&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="418" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTennesseeSafety%2Fposts%2F10156210733094190&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="426" noresize src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FmyTDOT1%2Fvideos%2F10155231787912551%2F&amp;show_text=1&amp;width=560" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="365" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTennDGS%2Fposts%2F1849927478386645&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="483" noresize src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTNDeptofLaborWorkforce%2Fvideos%2F1653194674747892%2F&amp;show_text=1&amp;width=560" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="590" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNDeptofHealth%2Fposts%2F10155982418185049&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="707" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTennCare%2Fposts%2F1851528004866956&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="574" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftn.didd%2Fposts%2F1660815597339909&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="508" noresize src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ftn.didd%2Fvideos%2F1660818897339579%2F&amp;show_text=1&amp;width=560" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="374" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTennesseeSafety%2Fposts%2F10156216481774190&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="746" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCrissyHaslam%2Fposts%2F2050777601629409&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="403" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTennesseeCommerceAndInsurance%2Fposts%2F1536605919721534&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="426" noresize src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FmyTDOT1%2Fvideos%2F10155234935007551%2F&amp;show_text=1&amp;width=560" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="490" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTennCare%2Fposts%2F1852626764757080&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="568" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftnmuseum.org%2Fposts%2F10156279008967940&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="484" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNAging%2Fposts%2F1552510361533671&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="690" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNDepartmentofCorrection%2Fposts%2F1588434701203887&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="599" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNAging%2Fphotos%2Fa.635845063200210.1073741828.613434148774635%2F1549436451841062%2F%3Ftype%3D3&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="609" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNDeptofHealth%2Fposts%2F10155982420715049&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="653" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNCouncilonDD%2Fposts%2F1879001162134083&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="315" noresize src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTNDeptofLaborWorkforce%2Fvideos%2F1653195638081129%2F&amp;show_text=0&amp;width=560" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="727" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNdcs%2Fposts%2F2062692513758359&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="580" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNdcs%2Fposts%2F2063849950309282&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="426" noresize src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTNDepartmentofCorrection%2Fvideos%2F1580073442040013%2F&amp;show_text=1&amp;width=560" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="609" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftnecd%2Fphotos%2Fa.310689628230.149159.300748678230%2F10155467482838231%2F%3Ftype%3D3&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="578" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTennesseeCommerceAndInsurance%2Fposts%2F1535614646487328&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="574" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftn.didd%2Fposts%2F1660852847336184&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="709" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNMentalHealthSubstanceAbuseServices%2Fposts%2F1693746254045923&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="634" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNAgriculture%2Fposts%2F10155082804492273&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="824" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftnecd%2Fposts%2F10155464029233231&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="575" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftn.didd%2Fposts%2F1659095760845226&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="400" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTennDGS%2Fposts%2F1847190265327033&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-image image parbase"> 
+          <div id="cq-image-jsp-/content/tn/transparenttn/servingtn/jcr:content/contentFullWidth/tn_columnctrl/column_parsys1/tn_image_copy">
+           <a href="https://twitter.com/TNDeptofHealth/status/970721910245003270"><img src="/content/tn/transparenttn/servingtn/jcr%3acontent/contentFullWidth/tn_columnctrl/column_parsys1/tn_image_copy.img.jpg/1520296008942.jpg" alt="HealthTony" title="HealthTony" class="cq-dd-image"></a>
+          </div> 
+          <script type="text/javascript">
+    (function() {
+        var imageDiv = document.getElementById("cq\u002Dimage\u002Djsp\u002D\/content\/tn\/transparenttn\/servingtn\/jcr:content\/contentFullWidth\/tn_columnctrl\/column_parsys1\/tn_image_copy");
+        var imageEvars = '{ imageLink: "https://twitter.com/TNDeptofHealth/status/970721910245003270", imageAsset: "/content/dam/tn/governorsoffice-documents/governorsoffice-images/servingtn/HealthTony.JPG", imageTitle: "HealthTony" }';
+        var tagNodes = imageDiv.getElementsByTagName('A');
+        for (var i = 0; i < tagNodes.length; i++) {
+            var link = tagNodes.item(i); 
+            link.setAttribute('onclick', 'CQ_Analytics.record({event: "imageClick", values: ' + imageEvars + ', collect: false, options: { obj: this }, componentPath: "tncore\/components\/content\/tn\u002Dimage"})');
+        }
+        
+    })();
+</script> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="765" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTennCare%2Fposts%2F1849041105115646&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="648" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNNationalGuardJFHQ%2Fposts%2F1841169482573983&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="360" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTDTDIndustry%2Fposts%2F200680827351939&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="540" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNMentalHealthSubstanceAbuseServices%2Fposts%2F1693719750715240&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="556" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNAging%2Fposts%2F1549392385178802&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="556" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNAging%2Fposts%2F1549392385178802&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="791" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTDTDIndustry%2Fposts%2F200682930685062&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="700" noresize src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTNDOHR%2Fposts%2F1811801979126291&amp;width=500" width="100%" scrolling="auto"></iframe> 
+         </div> 
+         <div class="tn-textandimage textimage parbase"> 
+          <img src="/etc/designs/default/0.gif" class="cq-image-placeholder cq-dd-image"> 
+          <div class="clear"></div>
+         </div> 
+         <div class="tn-textandimage textimage parbase"> 
+          <img src="/etc/designs/default/0.gif" class="cq-image-placeholder cq-dd-image"> 
+          <div class="clear"></div>
+         </div> 
+         <div class="tn-rte parbase"> 
+          <p>State government's role is to provide services that citizens aren't able to get on their own. In Tennessee State Government, those services are provided by dedicated people who want to serve their fellow citizens. Through the #servingTN campaign, departments across Tennessee State Government are showcasing the real relationships that citizens build with state employees who provide services every day.&nbsp;</p> 
+          <p>This month, departments are telling stories about how they are #servingTNatallhours. The work of Tennessee State Government doesn't begin at 9 and end at 5. Our departments work to get the job done for their fellow Tennesseans, no matter the time of day. Below are just a few of those stories:</p> 
+         </div> 
+         <div class="tn-image image parbase"> 
+          <div id="cq-image-jsp-/content/tn/transparenttn/servingtn/jcr:content/contentFullWidth/tn_columnctrl/column_parsys1/tn_image_copy_1941197030">
+           <a href="https://twitter.com/TNedu/status/970791580146823168"><img src="/content/tn/transparenttn/servingtn/jcr%3acontent/contentFullWidth/tn_columnctrl/column_parsys1/tn_image_copy_1941197030.img.jpg/1520296039784.jpg" alt="TDOE_EricVoiles" title="TDOE_EricVoiles" class="cq-dd-image"></a>
+          </div> 
+          <script type="text/javascript">
+    (function() {
+        var imageDiv = document.getElementById("cq\u002Dimage\u002Djsp\u002D\/content\/tn\/transparenttn\/servingtn\/jcr:content\/contentFullWidth\/tn_columnctrl\/column_parsys1\/tn_image_copy_1941197030");
+        var imageEvars = '{ imageLink: "https://twitter.com/TNedu/status/970791580146823168", imageAsset: "/content/dam/tn/governorsoffice-documents/governorsoffice-images/servingtn/TDOE_EricVoiles.JPG", imageTitle: "TDOE_EricVoiles" }';
+        var tagNodes = imageDiv.getElementsByTagName('A');
+        for (var i = 0; i < tagNodes.length; i++) {
+            var link = tagNodes.item(i); 
+            link.setAttribute('onclick', 'CQ_Analytics.record({event: "imageClick", values: ' + imageEvars + ', collect: false, options: { obj: this }, componentPath: "tncore\/components\/content\/tn\u002Dimage"})');
+        }
+        
+    })();
+</script> 
+         </div> 
+         <div class="tn-iframe"> 
+          <iframe frameborder="0" height="464" noresize src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ftennesseedepartmentofhumanservices%2Fvideos%2F2012232349019043%2F&amp;show_text=1&amp;width=560" width="100%" scrolling="auto"></iframe> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div class="tn-backtotop">
+   <a href="#header" class="page-top icon-up"></a> 
+  </div> 
+  <noindex> 
+   <div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+     </div> 
+    </div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+      <div class="tn_secondaryfooter_789499609 tn-secondaryfooter">
+       <footer id="agency-footer"> 
+        <div class="row"> 
+         <div class="col-md-15 col-sm-15 columns"> 
+          <h2 class="border-darkblue"><a href="/transparenttn/open-records-counsel.html">Open Records Counsel</a></h2> 
+          <ul class="block-list"> 
+           <li><a href="/transparenttn/open-records-counsel/open-records-counsel-faqs_rd.html">Frequently Asked Questions</a></li> 
+           <li><a href="/transparenttn/open-records-counsel/open-records-counsel-resources_rd.html">Open Records Counsel Home</a></li> 
+          </ul> 
+         </div> 
+         <div class="col-md-15 col-sm-15 columns"> 
+          <h2 class="border-darkblue"><a href="/transparenttn/public-opportunities-mp/public-opportunities_rd/public-meetings.html">Public Opportunities</a></h2> 
+          <ul class="block-list"> 
+           <li><a href="/transparenttn/public-opportunities-mp/public-opportunities_rd/public-opportunities-feedback.html">Feedback Form</a></li> 
+           <li><a href="/transparenttn/public-opportunities-mp/public-opportunities_rd/public-meetings.html">Public Meetings</a></li> 
+          </ul> 
+         </div> 
+         <div class="col-md-15 col-sm-15 columns"> 
+          <h2 class="border-darkblue"><a href="/transparenttn/state-financial-overview.html">Financial Overview</a></h2> 
+          <ul class="block-list"> 
+           <li><a href="/transparenttn/state-financial-overview/search-states-salary.html">Search State's Salary</a></li> 
+           <li><a href="/transparenttn/state-financial-overview/reimbursements.html">Travel Reimbursements</a></li> 
+           <li><a href="/transparenttn/state-financial-overview/search-states-checkbook.html">Search State's Checkbook</a></li> 
+           <li><a href="/transparenttn/state-financial-overview/audits.html">Audits</a></li> 
+          </ul> 
+         </div> 
+         <div class="col-md-15 col-sm-15 columns"> 
+          <h2 class="border-darkblue">Additional Information</h2> 
+          <ul class="block-list"> 
+           <li><a href="/transparenttn/all-transparent-tennessee-departments.html">Departments</a></li> 
+           <li><a href="/transparenttn/transparenttn-governors-office_rd.html">Governor's Office</a></li> 
+          </ul> 
+         </div> 
+         <div class="col-md-15 col-sm-15 columns last"> 
+          <div class="contact"> 
+           <strong>Transparent Tennessee<br></strong> 
+           <br> 
+          </div> 
+          <div> 
+           <img src="/etc/clientlibs/tncore/main/img/tn-seal.png" alt="Tennessee State Seal"> 
+          </div> 
+         </div> 
+        </div> 
+       </footer> 
+      </div> 
+     </div> 
+    </div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+      <div class="tn_footer tn-footer parbase"> 
+       <footer id="footer"> 
+        <div id="footer-top"> 
+         <div class="row"> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns"> 
+           <ul class="inline-list"> 
+            <li> <a href="/about-tn/flag-status.html" class="icon-flag" data-resource-path="/_jcr_content/footer/tn_footer"> </a> </li> 
+            <li id="footer-livechat" class="offline"> <a href="#" class="icon-chat" onclick="openFooterChat()" target="_blank"> Live Chat </a> 
+             <div class="livechat"> 
+              <script type="text/javascript">
+                                function openFooterChat() {
+                                    window.open ("https://help.tn.gov/sn_customerservice_tn_chat_selector.do", "popup", "width=900, height=600"); 
+                                 };
+                            </script> 
+             </div> </li> 
+           </ul> 
+          </div> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns text-right"> 
+           <ul class="inline-list"> 
+            <li> <a href="/help.html" class="icon-help-circled">Help</a> </li> 
+            <li id="footer-share"><a href="#" class="icon-export">Share</a> 
+             <div class="drop right"> 
+              <div class="box"> 
+               <span class="st_sharethis_large" displaytext="ShareThis"></span> 
+               <span class="st_facebook_large" displaytext="Facebook"></span> 
+               <span class="st_twitter_large" displaytext="Tweet"></span> 
+               <span class="st_googleplus_large" displaytext="Google +"></span> 
+               <span class="st_linkedin_large" displaytext="LinkedIn"></span> 
+               <script type="text/javascript">
+                                    var switchTo5x = true;
+                                </script> 
+               <script type="text/javascript" src="//ws.sharethis.com/button/buttons.js"></script> 
+               <script type="text/javascript">
+                                    if (typeof stLight !== 'undefined') {
+                                        stLight.options({
+                                            publisher : "5dc356bf-5442-455c-b483-ab8ca7d8cd15",
+                                            doNotHash : false,
+                                            doNotCopy : false,
+                                            hashAddressBar : false
+                                        });
+                                    }
+                                </script> 
+              </div> 
+             </div></li> 
+            <li id="footer-translate"><a href="#" class="icon-book">Translate</a> 
+             <div class="drop right"> 
+              <div class="box"> 
+               <div id="google_translate_element"></div> 
+              </div> 
+             </div></li> 
+            <li id="footer-fontsize"><a href="#" class="icon-font">Font Size</a> 
+             <div class="drop right"> 
+              <div class="box"> 
+               <ul class="inline-list"> 
+                <li><a class="button" data-font-size="small">a-</a></li> 
+                <li><a class="button active" data-font-size="normal">Normal</a></li> 
+                <li><a class="button" data-font-size="large">A+</a></li> 
+               </ul> 
+              </div> 
+             </div></li> 
+           </ul> 
+          </div> 
+         </div> 
+         <a class="starball"> <img src="/etc/clientlibs/tncore/main/img/footer-starball.png" alt="Tristar" width="100%"> </a> 
+        </div> 
+        <div id="footer-bottom"> 
+         <div class="row"> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns"> 
+           <ul class="inline-list"> 
+            <li> <a href="/state-services.html" class="first">TN.gov Services</a> <a href="/directory.html">TN.gov Directory</a> <a href="/transparenttn.html">Transparent TN</a> <a href="/web-policies/privacy-statement.html">Web Policies</a> </li> 
+           </ul> 
+          </div> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns text-right"> 
+           <ul class="inline-list"> 
+            <li> <a href="/about-tn/state-symbols.html">About Tennessee</a> <a href="/humanrights/file-a-discrimination-complaint/title-vi1/title-vi-disclaimer.html">Title VI</a> <a href="/web-policies/accessibility.html">Accessibility</a> <a href="/help.html">Help &amp; Contact</a> <a href="/survey.html">Survey</a> </li> 
+           </ul> 
+          </div> 
+         </div> 
+        </div> 
+       </footer> 
+       <div id="modal-footer"></div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <script type="text/javascript" src="/etc/clientlibs/tncore/main.min.73d9ee3d42191396dd2a3447bf54bab7.js"></script> 
+   <script type="text/javascript">_satellite.pageBottom();</script> 
+  </noindex> 
+  <div id="overlay"></div> 
+  <!-- Begin Dynamic Modal for Videos --> 
+  <div class="tn-videoModal modal fade" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="videoModal" aria-hidden="true"> 
+   <div class="modal-dialog"> 
+    <div class="modal-content"> 
+     <div class="modal-body"> 
+      <a href="#" data-dismiss="modal" class="close-video icon-cancel text-button">Close</a> 
+      <div class="videoWrapper"> 
+       <iframe src=""></iframe> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- End Dynamic Modal for Videos --> 
+  <!-- DTM Analytics Datalayer --> 
+  <script>
+            var digitalData = { pageInfo: {} };
+            digitalData.pageInfo.pageName = "transparenttn:servingtn";
+        </script>   
+ </body>
+</html>

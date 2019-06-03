@@ -1,0 +1,322 @@
+<!doctype html>
+<html class="no-js tn-html" lang="en">
+ <head> 
+  <title>About Maria</title> 
+  <meta charset="utf-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="keywords"> 
+  <meta name="description"> 
+  <meta name="url" content="https://www.tn.gov/firstlady/about-maria.html"> 
+  <meta name="lastModified" content="17 May 2019 08:37:08 CDT"> 
+  <meta name="pageType"> 
+  <meta name="pageDepartment" content="firstlady"> 
+  <meta name="pageDivision"> 
+  <meta name="newsDateTimeString"> 
+  <meta name="eventDateTimeString"> 
+  <meta name="searchType"> 
+  <meta name="pagePath" content="/content/tn/firstlady/about-maria"> 
+  <meta name="category"> 
+  <meta property="og:title" content="About Maria"> 
+  <meta property="og:description"> 
+  <meta property="og:url" content="https://www.tn.gov/firstlady/about-maria.html"> 
+  <meta property="og:image"> 
+  <meta name="twitter:card" content="summary"> 
+  <meta name="twitter:title" content="About Maria"> 
+  <meta name="twitter:description"> 
+  <meta name="twitter:url" content="https://www.tn.gov/firstlady/about-maria.html"> 
+  <meta name="twitter:image"> 
+  <link rel="shortcut icon" href="/etc/clientlibs/tncore/main/img/favicon.ico"> 
+  <link rel="canonical" href="https://www.tn.gov/firstlady/about-maria.html"> 
+  <link rel="stylesheet" href="/etc/clientlibs/tncore/main.min.7b7f24489495d82cdd3b7a88107b9f76.css" type="text/css"> 
+  <link rel="stylesheet" href="/etc/clientlibs/tn-sites/tngov.min.de4d4402ec2138999b5540dbe08724b4.css" type="text/css"> 
+  <script src="//assets.adobedtm.com/046dcefde06052c1522b33b00453f0592c8031e1/satelliteLib-0eaceea9a3f6b60d158884d8c7daf5435071c1e5.js"></script> 
+ </head> 
+ <body class="tngov" data-selectors="[]" data-template="narrow"> 
+  <div class="sr-only sr-only-focusable"> 
+   <p><a href="#main">Skip to Main Content</a></p> 
+  </div> 
+  <noindex> 
+   <div> 
+   </div> 
+   <div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+      <div class="tn_header tn-header">
+       <header id="header"> 
+        <div class="row center-block top-nav"> 
+         <a class="logo" href="https://www.tn.gov/" data-logo="state-government" style="background-image: url('/etc/clientlibs/tncore/main/img/logos/tn-logo.png')"> 
+          <div>
+           Home
+          </div> </a> 
+         <a class="search-all icon-home-1" href="https://www.tn.gov/">Go to TN.gov</a> 
+        </div> 
+        <div class="row center-block agency"> 
+         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 columns title"> 
+          <a href="/content/tn/firstlady.html"> <img src="/content/dam/headers/firstlady.png" alt="  State of Tennessee" id="entity-name" data-pin-nopin="true"> </a> 
+         </div> 
+         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 columns text-right"> 
+          <div class="tn-headersearch">
+           <div class="search"> 
+            <form method="get" action="/content/tn/firstlady/search-results"> 
+             <input type="text" class="search-box" name="q" placeholder="Search First Lady Maria Lee" aria-label="Search First Lady Maria Lee"> 
+             <input type="submit" value="Search" class="search-button"> 
+             <i class="icon-search"></i> 
+            </form> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="backdrop" style="background-image:url(/content/dam/headers/test.jpg)"></div> 
+       </header> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="tn-topnav">
+    <nav id="nav"> 
+     <div class="row center-block"> 
+      <div class="col-lg-12"> 
+       <div class="logo-small tn-logo"> 
+        <a href="/content/tn.html"><span class="sr-only">Go to TN.gov</span></a> 
+       </div> 
+       <div class="mobile-show icon-menu mobile-menu">
+        Section
+       </div> 
+       <ul class="inline-list nav-items"> 
+        <li> <a href="/firstlady.html" class="icon-home"><span class="sr-only">Go to First Lady</span></a> </li> 
+        <li class="dropdown"> <a href="/firstlady/about-maria.html">About Maria<i class="icon-down-dir"></i></a> 
+         <ul> 
+          <li><a href="/firstlady/about-maria/download-official-portrait.html">Download Official Portrait</a></li> 
+         </ul> </li> 
+        <li class="dropdown"> <a href="/firstlady/tennessee-serves.html">Tennessee Serves<i class="icon-down-dir"></i></a> 
+         <ul> 
+          <li><a href="/firstlady/tennessee-serves/tennessee-kids-serve-summer-challenge.html">#TNKidsServe Summer Challenge</a></li> 
+          <li><a href="/firstlady/tennessee-serves/first-lady-s-monthly-service-challenge.html">Monthly Service Challenge</a></li> 
+          <li><a href="/firstlady/tennessee-serves/ways-to-serve.html">Ways to Serve</a></li> 
+          <li><a href="/firstlady/tennessee-serves/first-lady-serves.html">First Lady Serves</a></li> 
+          <li><a href="/firstlady/tennessee-serves/service-spotlight.html">Service Spotlights</a></li> 
+         </ul> </li> 
+        <li> <a href="/firstlady/governor-lee.html">Governor Lee</a> </li> 
+        <li> <a href="/firstlady/residence.html">Tennessee Residence</a> </li> 
+        <li class="dropdown"> <a href="/firstlady/contact-us.html">Contact Us<i class="icon-down-dir"></i></a> 
+         <ul> 
+          <li><a href="/firstlady/contact-us/scheduling-request.html">Scheduling Request</a></li> 
+         </ul> </li> 
+        <li> <a href="/firstlady/newsroom.html">Newsroom</a> </li> 
+       </ul> 
+       <div class="right primary-print"> 
+        <a href="javascript:window.print();" class="icon-print"><span class="sr-only">Print This Page</span></a> 
+       </div> 
+       <div class="right secondary-print"> 
+        <a href="javascript:window.print();" class="icon-print"><span class="sr-only">Print This Page</span></a> 
+       </div> 
+       <div class="right secondary-search"> 
+        <a class="icon-search"><span class="sr-only">Go to Search</span></a> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="config hidden" data-config="{&quot;closeMenuText&quot;:&quot;Close Menu&quot;,&quot;menuText&quot;:&quot;Section&quot;}"></div> 
+    </nav> 
+   </div> 
+   <div class="tn-alerts"> 
+   </div> 
+  </noindex> 
+  <div id="main" tabindex="-1"> 
+   <div class="row"> 
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1 content"> 
+     <article> 
+      <div class="tn-pagetitle show" aria-hidden="false"> 
+       <h1>About Maria</h1> 
+      </div> 
+      <div> 
+       <div class="tn-textandimage textimage parbase"> 
+        <div class="textimage-left" style="float: left;"> 
+         <div id="cq-image-jsp-/content/tn/firstlady/about-maria/jcr:content/content/tn_textandimage/image">
+          <a href="/content/tn/firstlady/about-maria/download-official-portrait.html"><img src="/content/tn/firstlady/about-maria/jcr%3acontent/content/tn_textandimage/image.img.jpg/1558039523062.jpg" alt="First Lady Crissy Haslam" title="Maria Lee Portrait" class="cq-dd-image"></a>
+         </div> 
+         <script type="text/javascript">
+    (function() {
+        var imageDiv = document.getElementById("cq\u002Dimage\u002Djsp\u002D\/content\/tn\/firstlady\/about\u002Dmaria\/jcr:content\/content\/tn_textandimage\/image");
+        var imageEvars = '{ imageLink: "/content/tn/firstlady/about-maria/download-official-portrait", imageAsset: "/content/dam/tn/firstlady/images/Maria%20Lee%20Portrait.jpg", imageTitle: "Maria Lee Portrait" }';
+        var tagNodes = imageDiv.getElementsByTagName('A');
+        for (var i = 0; i < tagNodes.length; i++) {
+            var link = tagNodes.item(i); 
+            link.setAttribute('onclick', 'CQ_Analytics.record({event: "imageClick", values: ' + imageEvars + ', collect: false, options: { obj: this }, componentPath: "tncore\/components\/content\/tn\u002Dimage"})');
+        }
+        
+    })();
+</script> 
+        </div> 
+        <div class="textimage-text"> 
+         <p>Maria was raised in Silver Spring, Maryland as one of five children. After graduating high school, she attended the University of Maryland where she studied Elementary Education. It was her heart for service that brought her to Nashville, Tennessee where she led girls in a youth ministry discipleship. Maria later became a third and fourth grade teacher at a local school where she also coached track.</p> 
+         <p>Maria and Bill married in 2008. They are active members of Grace Chapel Church and are involved in numerous faith-based ministries that have taken them all over the world serving those in need. Maria currently serves on the board of Friend2Friend Book Project, a mission devoted to delivering uplifting literature to children and their families suffering from medical hardships.</p> 
+         <p>As first lady, Maria wants to motivate others with her passion for service, and believes that through community engagement, fellow Tennesseans will be driven to serve their neighbors in need. As part of her initiative, Tennessee Serves, Maria is focused on serving the Volunteer State’s distressed counties while highlighting organizations and people already doing great work throughout the state.</p> 
+         <p>When traveling the state&nbsp;with her husband, Maria enjoys meeting so many wonderful Tennesseans. She is deeply grateful for the privilege to serve as first lady to the great state of Tennessee.<br> </p> 
+        </div> 
+        <div class="clear"></div>
+       </div> 
+      </div> 
+     </article> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="tn-backtotop">
+   <a href="#header" class="page-top icon-up"></a> 
+  </div> 
+  <noindex> 
+   <div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+     </div> 
+    </div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+      <div class="tn_secondaryfooter tn-secondaryfooter">
+       <footer id="agency-footer"> 
+        <div class="row"> 
+         <div class="col-md-15 col-sm-15 columns"> 
+          <h2 class="border-darkblue">About</h2> 
+          <ul class="block-list"> 
+           <li><a href="/firstlady/about-maria.html">About Maria</a></li> 
+          </ul> 
+         </div> 
+         <div class="col-md-15 col-sm-15 columns"> 
+          <h2 class="border-darkblue">Contact Us</h2> 
+          <ul class="block-list"> 
+           <li><a href="/firstlady/contact-us.html">Contact Us</a></li> 
+           <li><a href="/firstlady/contact-us/scheduling-request.html">Scheduling Request</a></li> 
+          </ul> 
+         </div> 
+         <div class="col-md-15 col-sm-15 columns last"> 
+          <div class="contact"> 
+          </div> 
+          <div> 
+           <img src="/etc/clientlibs/tncore/main/img/tn-seal.png" alt="Tennessee State Seal"> 
+          </div> 
+         </div> 
+        </div> 
+       </footer> 
+      </div> 
+     </div> 
+    </div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+      <div class="tn_footer tn-footer parbase"> 
+       <footer id="footer"> 
+        <div id="footer-top"> 
+         <div class="row"> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns"> 
+           <ul class="inline-list"> 
+            <li> <a href="/about-tn/flag-status.html" class="icon-flag" data-resource-path="/_jcr_content/footer/tn_footer"> </a> </li> 
+            <li id="footer-livechat" class="offline"> <a href="#" class="icon-chat" onclick="openFooterChat()" target="_blank"> Live Chat </a> 
+             <div class="livechat"> 
+              <script type="text/javascript">
+                                function openFooterChat() {
+                                    window.open ("https://help.tn.gov/sn_customerservice_tn_chat_selector.do", "popup", "width=900, height=600"); 
+                                 };
+                            </script> 
+             </div> </li> 
+           </ul> 
+          </div> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns text-right"> 
+           <ul class="inline-list"> 
+            <li> <a href="/help.html" class="icon-help-circled">Help</a> </li> 
+            <li id="footer-share"><a href="#" class="icon-export">Share</a> 
+             <div class="drop right"> 
+              <div class="box"> 
+               <span class="st_sharethis_large" displaytext="ShareThis"></span> 
+               <span class="st_facebook_large" displaytext="Facebook"></span> 
+               <span class="st_twitter_large" displaytext="Tweet"></span> 
+               <span class="st_googleplus_large" displaytext="Google +"></span> 
+               <span class="st_linkedin_large" displaytext="LinkedIn"></span> 
+               <script type="text/javascript">
+                                    var switchTo5x = true;
+                                </script> 
+               <script type="text/javascript" src="//ws.sharethis.com/button/buttons.js"></script> 
+               <script type="text/javascript">
+                                    if (typeof stLight !== 'undefined') {
+                                        stLight.options({
+                                            publisher : "5dc356bf-5442-455c-b483-ab8ca7d8cd15",
+                                            doNotHash : false,
+                                            doNotCopy : false,
+                                            hashAddressBar : false
+                                        });
+                                    }
+                                </script> 
+              </div> 
+             </div></li> 
+            <li id="footer-translate"><a href="#" class="icon-book">Translate</a> 
+             <div class="drop right"> 
+              <div class="box"> 
+               <div id="google_translate_element"></div> 
+              </div> 
+             </div></li> 
+            <li id="footer-fontsize"><a href="#" class="icon-font">Font Size</a> 
+             <div class="drop right"> 
+              <div class="box"> 
+               <ul class="inline-list"> 
+                <li><a class="button" data-font-size="small">a-</a></li> 
+                <li><a class="button active" data-font-size="normal">Normal</a></li> 
+                <li><a class="button" data-font-size="large">A+</a></li> 
+               </ul> 
+              </div> 
+             </div></li> 
+           </ul> 
+          </div> 
+         </div> 
+         <a class="starball"> <img src="/etc/clientlibs/tncore/main/img/footer-starball.png" alt="Tristar" width="100%"> </a> 
+        </div> 
+        <div id="footer-bottom"> 
+         <div class="row"> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns"> 
+           <ul class="inline-list"> 
+            <li> <a href="/state-services.html" class="first">TN.gov Services</a> <a href="/directory.html">TN.gov Directory</a> <a href="/transparenttn.html">Transparent TN</a> <a href="/web-policies/privacy-statement.html">Web Policies</a> </li> 
+           </ul> 
+          </div> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns text-right"> 
+           <ul class="inline-list"> 
+            <li> <a href="/about-tn/state-symbols.html">About Tennessee</a> <a href="/humanrights/file-a-discrimination-complaint/title-vi1/title-vi-disclaimer.html">Title VI</a> <a href="/web-policies/accessibility.html">Accessibility</a> <a href="/help.html">Help &amp; Contact</a> <a href="/survey.html">Survey</a> </li> 
+           </ul> 
+          </div> 
+         </div> 
+        </div> 
+       </footer> 
+       <div id="modal-footer"></div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <script type="text/javascript" src="/etc/clientlibs/tncore/main.min.73d9ee3d42191396dd2a3447bf54bab7.js"></script> 
+   <script type="text/javascript">_satellite.pageBottom();</script> 
+  </noindex> 
+  <div id="overlay"></div> 
+  <!-- Begin Dynamic Modal for Videos --> 
+  <div class="tn-videoModal modal fade" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="videoModal" aria-hidden="true"> 
+   <div class="modal-dialog"> 
+    <div class="modal-content"> 
+     <div class="modal-body"> 
+      <a href="#" data-dismiss="modal" class="close-video icon-cancel text-button">Close</a> 
+      <div class="videoWrapper"> 
+       <iframe src=""></iframe> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- End Dynamic Modal for Videos --> 
+  <!-- DTM Analytics Datalayer --> 
+  <script>
+            var digitalData = { pageInfo: {} };
+            digitalData.pageInfo.pageName = "firstlady:about-maria";
+        </script>   
+ </body>
+</html>

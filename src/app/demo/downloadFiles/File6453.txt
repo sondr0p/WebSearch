@@ -1,0 +1,381 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb">
+ <head> 
+  <meta name="viewport" content="width=device-width,initial-scale = 1.0, maximum-scale=1.0, user-scalable=no"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=10,chrome=1"> 
+  <meta http-equiv="content-type" content="text/html; charset=utf-8"> 
+  <!-- Load Joomla system head --> 
+  <base href="https://bensguide.gpo.gov/about-ben-and-gpo-mobile/learning-adventures-14more"> 
+  <meta http-equiv="content-type" content="text/html; charset=utf-8"> 
+  <title>Master: Historical Documents</title> 
+  <link href="/about-ben-and-gpo-mobile?age=ben4_8&amp;format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0"> 
+  <link href="/about-ben-and-gpo-mobile?age=ben4_8&amp;format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0"> 
+  <link href="/templates/ben-noindex/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"> 
+  <link href="https://bensguide.gpo.gov/plugins/editors/yeeditor/assets/css/yeeditor.frontend.css" rel="stylesheet" type="text/css"> 
+  <link href="https://bensguide.gpo.gov/plugins/editors/yeeditor/assets/css/font-awesome.min.css" rel="stylesheet" type="text/css"> 
+  <link href="https://bensguide.gpo.gov/plugins/editors/yeeditor/assets/css/css_animation.css" rel="stylesheet" type="text/css"> 
+  <link href="https://bensguide.gpo.gov/plugins/editors/yeeditor/assets/css/docs-row.css" rel="stylesheet" type="text/css"> 
+  <link href="https://bensguide.gpo.gov/plugins/editors/yeeditor/assets/css/docs-frontend.css" rel="stylesheet" type="text/css"> 
+  <link href="https://bensguide.gpo.gov/plugins/editors/yeeditor/assets/css/widgets.css" rel="stylesheet" type="text/css"> 
+  <link href="/media/jui/css/chosen.css?2972f49146c44e019daa812c9f2278f0" rel="stylesheet" type="text/css"> 
+  <link href="/media/com_finder/css/finder.css?2972f49146c44e019daa812c9f2278f0" rel="stylesheet" type="text/css"> 
+  <script type="application/json" class="joomla-script-options new">{"csrf.token":"544d196a410b887cf3afcf4bcf902598","system.paths":{"root":"","base":""}}</script> 
+  <script src="/media/jui/js/jquery.min.js?2972f49146c44e019daa812c9f2278f0" type="text/javascript"></script> 
+  <script src="/media/jui/js/jquery-noconflict.js?2972f49146c44e019daa812c9f2278f0" type="text/javascript"></script> 
+  <script src="/media/jui/js/jquery-migrate.min.js?2972f49146c44e019daa812c9f2278f0" type="text/javascript"></script> 
+  <script src="/media/system/js/caption.js?2972f49146c44e019daa812c9f2278f0" type="text/javascript"></script> 
+  <script src="/media/system/js/mootools-core.js?2972f49146c44e019daa812c9f2278f0" type="text/javascript"></script> 
+  <script src="/media/system/js/core.js?2972f49146c44e019daa812c9f2278f0" type="text/javascript"></script> 
+  <script src="https://bensguide.gpo.gov/plugins/editors/yeeditor/assets/js/bootstrap/yeeditor-bs-min.js" type="text/javascript"></script> 
+  <script src="https://bensguide.gpo.gov/plugins/editors/yeeditor/assets/js/base64.js" type="text/javascript"></script> 
+  <script src="/media/jui/js/bootstrap.min.js?2972f49146c44e019daa812c9f2278f0" type="text/javascript"></script> 
+  <script src="/media/jui/js/chosen.jquery.min.js?2972f49146c44e019daa812c9f2278f0" type="text/javascript"></script> 
+  <script src="/media/jui/js/jquery.autocomplete.min.js?2972f49146c44e019daa812c9f2278f0" type="text/javascript"></script> 
+  <script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });
+	jQuery(function ($) {
+		initChosen();
+		$("body").on("subform-row-add", initChosen);
+
+		function initChosen(event, container)
+		{
+			container = container || document;
+			$(container).find(".advancedSelect").chosen({"disable_search_threshold":10,"search_contains":true,"allow_single_deselect":true,"placeholder_text_multiple":"Type or select some options","placeholder_text_single":"Select an option","no_results_text":"No results match"});
+		}
+	});
+	
+jQuery(document).ready(function() {
+	var value, searchword = jQuery('#mod-finder-searchword89');
+
+		// Get the current value.
+		value = searchword.val();
+
+		// If the current value equals the default value, clear it.
+		searchword.on('focus', function ()
+		{
+			var el = jQuery(this);
+
+			if (el.val() === 'Search ...')
+			{
+				el.val('');
+			}
+		});
+
+		// If the current value is empty, set the previous value.
+		searchword.on('blur', function ()
+		{
+			var el = jQuery(this);
+
+			if (!el.val())
+			{
+				el.val(value);
+			}
+		});
+
+		jQuery('#mod-finder-searchform89').on('submit', function (e)
+		{
+			e.stopPropagation();
+			var advanced = jQuery('#mod-finder-advanced89');
+
+			// Disable select boxes with no value selected.
+			if (advanced.length)
+			{
+				advanced.find('select').each(function (index, el)
+				{
+					var el = jQuery(el);
+
+					if (!el.val())
+					{
+						el.attr('disabled', 'disabled');
+					}
+				});
+			}
+		});});
+jQuery(document).ready(function() {
+	var value, searchword = jQuery('#mod-finder-searchword111');
+
+		// Get the current value.
+		value = searchword.val();
+
+		// If the current value equals the default value, clear it.
+		searchword.on('focus', function ()
+		{
+			var el = jQuery(this);
+
+			if (el.val() === 'Search ...')
+			{
+				el.val('');
+			}
+		});
+
+		// If the current value is empty, set the previous value.
+		searchword.on('blur', function ()
+		{
+			var el = jQuery(this);
+
+			if (!el.val())
+			{
+				el.val(value);
+			}
+		});
+
+		jQuery('#mod-finder-searchform111').on('submit', function (e)
+		{
+			e.stopPropagation();
+			var advanced = jQuery('#mod-finder-advanced111');
+
+			// Disable select boxes with no value selected.
+			if (advanced.length)
+			{
+				advanced.find('select').each(function (index, el)
+				{
+					var el = jQuery(el);
+
+					if (!el.val())
+					{
+						el.attr('disabled', 'disabled');
+					}
+				});
+			}
+		});
+	var suggest = jQuery('#mod-finder-searchword111').autocomplete({
+		serviceUrl: '/component/finder/?task=suggestions.suggest&amp;format=json&amp;tmpl=component',
+		paramName: 'q',
+		minChars: 1,
+		maxHeight: 400,
+		width: 300,
+		zIndex: 9999,
+		deferRequestBy: 500
+	});});
+	</script> 
+  <!--Load of CSS --> 
+  <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css"> 
+  <link rel="stylesheet" href="/templates/system/css/general.css" type="text/css"> 
+  <link rel="stylesheet" href="/templates/bentest/css/minbutton.css" type="text/css"> 
+  <link rel="stylesheet" href="/templates/bentest/js/fancybox/jquery.fancybox.css" type="text/css"> 
+  <!-- Reset --> 
+  <link rel="stylesheet" href="/templates/bentest/css/skel-noscript.css" type="text/css"> 
+  <link rel="stylesheet" href="/templates/bentest/css/styles.css" type="text/css"> 
+  <link rel="stylesheet" id="mobilenav-css" href="/templates/bentest/mobile_menu/assets/css/styles.css" type="text/css" media="all"> 
+  <script src="/templates/bentest/js/Tocca.min.js"></script> 
+  <!--Load of JS effects--> 
+  <script type="text/javascript" src="/templates/bentest/scripts/remove_hover_rule.js"></script> 
+  <script src="https://code.jquery.com/ui/1.10.3/jquery-ui.js"></script> 
+  <script src="/templates/bentest/js/minbutton.js"></script> 
+  <!--Load of JS effects--> 
+  <!--[if lt IE 9]>
+	<style>
+    header, .mobileNav, #contentLayer, #minbutton{
+    	display: none;
+    }
+    </style>
+<![endif]--> 
+  <!--[if IE]>
+<style>
+    #nav > ul > li > a img {
+         width:93px!important;
+    }
+	.utility-nav-left ul.menu.nav li a img, .utility-nav-right ul.menu.nav li a img{
+	 width:15px!important;	
+	}
+</style>
+<![endif]--> 
+  <script type="text/javascript">
+	$(document).ready(function() {
+  $('li a').click(function(){
+ $(this).unbind("mouseenter mouseleave");
+});
+});
+jQuery(document).ready(function () {
+ 
+ jQuery('a').bind('click touchstart tap', function(e) {
+   alert("touch");
+      var el = jQuery(this);
+      var link = el.attr('href');
+      window.location = link; 
+   });
+  
+  
+});
+
+</script> 
+  <style>
+#content_noindex{background:fixed;top: 0px; bottom: 0px; width: 100%;height:auto;}
+
+</style> 
+ </head> 
+ <body class="inner about-ben-and-gpo-mobile pageid-113" data-drawer-state="invisible"> 
+  <div id="fixedbgnoindex"> 
+  </div> 
+  <!--Fixed background for ipad--> 
+  <!--This wrapping container is used to get the width of the whole content--> 
+  <div id="container"> 
+   <!-- min Button--> 
+   <header> 
+    <div id="mobile-header-wrapper"> 
+     <a href="/" class="mobile_logo img" title="Ben Guide"> <img src="/templates/bentest/images/svg/logo-ben.svg" alt="Ben-logo"></a> 
+     <button aria-hidden="true" class="drawer__trigger"></button> 
+    </div> 
+   </header>
+   <!-- END min Button--> 
+   <!-- Menu mobile --> 
+   <div class="drawer"> 
+    <nav class="silk-nav nav-main"> 
+     <div class="silk-nav__controls"> 
+      <button class="trigger--revert"> <span>&lt; Main Menu</span> </button> 
+      <button class="trigger--reverse"> <span> &lt; </span> </button> 
+     </div> 
+     <ul class="nav menumobileNav mod-list"> 
+      <li class="item-177"><a href="http://bensguide.gpo.gov/"><img src="/templates/bentest/images/svg/Mobi_Nav-Home.svg" alt="Home"><span class="image-title">Home</span></a></li>
+      <li class="item-113 current active"><a href="/about-ben-and-gpo-mobile"><img src="/templates/bentest/images/svg/Mobi_Nav-About.svg" alt="About Ben and GPO"><span class="image-title">About Ben and GPO</span></a></li>
+      <li class="item-114"><a href="/libraries-mobile"><img src="/templates/bentest/images/svg/Mobi_Nav-Libraries.svg" alt="Libraries"><span class="image-title">Libraries</span></a></li>
+      <li class="item-116 deeper parent"><a href="/learning-adeventures"><img src="/templates/bentest/images/svg/Nav-Learning_Adventures.svg" alt="Learning Adventures"><span class="image-title">Learning Adventures</span></a>
+       <ul class="nav-child unstyled small">
+        <li class="item-896"><a href="/learning-adventures-14more?id=36&amp;age=ben4_8" class="first"><img src="/templates/bentest/images/svg/badge-apprentice.svg" alt="4 to 8 badge"></a></li>
+        <li class="item-897"><a href="/learning-adventures-14more?id=38&amp;age=ben9_13" class="third"><img src="/templates/bentest/images/svg/badge-journey.svg" alt="9to13"></a></li>
+        <li class="item-898"><a href="/learning-adventures-14more?id=39&amp;age=ben14more" class="third"><img src="/templates/bentest/images/svg/badge-master.svg" alt="14more"></a></li>
+       </ul></li>
+      <li class="item-899"><a href="/glossary-mobile"><img src="/templates/bentest/images/svg/Mobi_Nav-Glossary.svg" alt="Glossary"><span class="image-title">Glossary</span></a></li>
+      <li class="item-115"><a href="/games-mobile"><img src="/templates/bentest/images/svg/Mobi_Nav-Games.svg" alt="Games"><span class="image-title">Games</span></a></li>
+      <li class="item-141"><a href="http://www.gpo.gov/"><img src="/templates/bentest/images/svg/GPO-Logo.svg" alt="GPO"></a></li>
+     </ul> 
+     <div class="findersearchmobilesearch "> 
+      <form id="mod-finder-searchform111" action="/search" method="get" class="form-search" role="search"> 
+       <label for="mod-finder-searchword111" class="element-invisible findersearchmobilesearch ">Search</label>
+       <br>
+       <input type="text" name="q" id="mod-finder-searchword111" class="search-query input-medium" size="25" value="" placeholder="Search ..."> 
+      </form> 
+     </div> 
+     <ul class="nav menumobilenavbottom mod-list"> 
+      <li class="item-121"><a href="/for-parents-and-educators-mobile">Parents &amp; Educators</a></li>
+      <li class="item-122"><a href="/citizenship-mobile">Citizenship</a></li>
+      <li class="item-142"><a href="/about-this-site-sidebar-mobile">About this site</a></li>
+      <li class="item-143"><a href="/legal-mobile-sidebar">Legal</a></li>
+     </ul> 
+    </nav> 
+   </div> 
+   <div id="contentLayer"></div> 
+   <!-- END Menu mobile --> 
+   <!--The content of the site--> 
+   <div id="content_noindex"> 
+    <div id="utility-wrapper"> 
+     <!-- Header --> 
+     <div id="utility" class="container"> 
+      <!-- Nav --> 
+      <div class="utility-nav-left"> 
+       <ul class="nav menu mod-list"> 
+        <li class="item-102"><a href="http://www.gpo.gov/" class="top_gpo" target="_blank" rel="noopener noreferrer"><img src="/templates/bentest/images/svg/GPO-Logo.svg" alt="GPO"></a></li>
+        <li class="item-103"><a href="/about-this-site">About this site</a></li>
+        <li class="item-104"><a href="/legal">Legal</a></li>
+        <li class="item-105"><a href="/feedback-suggestions">Feedback</a></li>
+       </ul> 
+      </div> 
+      <div class="utility-nav-right"> 
+       <ul class="nav menu mod-list"> 
+        <li class="item-106"><a href="/for-parents-and-educators"><img src="/templates/bentest/images/svg/Nav-Parents_Educators.svg" alt="For parents and educators"></a></li>
+        <li class="item-107"><a href="/citizenship"><img src="/templates/bentest/images/svg/Nav-Citizenship.svg" alt="Citizenship"></a></li>
+       </ul> 
+       <div class="findersearch-main"> 
+        <form id="mod-finder-searchform89" action="/search" method="get" class="form-search" role="search"> 
+         <label for="mod-finder-searchword89" class="element-invisible findersearch-main">Search...</label>
+         <br>
+         <input type="text" name="q" id="mod-finder-searchword89" class="search-query input-medium" size="25" value="" placeholder="Search ..."> 
+        </form> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <!-- Header Wrapper --> 
+    <div id="header-wrapper"> 
+     <!-- Header --> 
+     <div id="header" class="container"> 
+      <!-- Logo --> 
+      <h1 id="logo"><a href="/"><img src="/templates/bentest/images/svg/logo-ben.svg"></a></h1> 
+      <!-- Nav --> 
+      <nav id="nav"> 
+       <ul class="nav menu mod-list"> 
+        <li class="item-483"><a href="/"><img src="/templates/bentest/images/svg/Nav-Home.svg" alt="Home"></a></li>
+        <li class="item-108"><a href="/about-ben-and-gpo"><img src="/templates/bentest/images/svg/Nav-About.svg" alt="About Ben and GPO"></a></li>
+        <li class="item-109"><a href="/ben-libraries"><img src="/templates/bentest/images/svg/Nav-Libraries.svg" alt="Libraries"></a></li>
+        <li class="item-110 deeper parent"><a href="/learning-adventures-4-8" class="la_menu"><img src="/templates/bentest/images/svg/Nav-Learning_Adventures.svg" alt="Learning Adventures 4-8"></a>
+         <ul class="nav-child unstyled small">
+          <li class="item-887"><a href="/learning-adventures-14more?id=36&amp;age=ben4_8" class="first"><img src="/templates/bentest/images/svg/badge-apprentice.svg" alt="4 to 8 badge"><span class="image-title">4 to 8 badge</span></a></li>
+          <li class="item-888"><a href="/learning-adventures-14more?id=38&amp;age=ben9_13" class="third"><img src="/templates/bentest/images/svg/badge-journey.svg" alt="9to13"><span class="image-title">9to13</span></a></li>
+          <li class="item-889"><a href="/learning-adventures-14more?id=39&amp;age=ben14more" class="third"><img src="/templates/bentest/images/svg/badge-master.svg" alt="14more"><span class="image-title">14more</span></a></li>
+         </ul></li>
+        <li class="item-666"><a href="/glossary" class="glossary_menu"><img src="/templates/bentest/images/svg/Nav-Glossary.svg" alt="Glossary"></a></li>
+        <li class="item-111"><a href="/games" class="games_menu"><img src="/templates/bentest/images/svg/Nav-Games.svg" alt="Games"></a></li>
+       </ul> 
+      </nav> 
+     </div>
+     <!-- END  header--> 
+    </div>
+    <!-- END header-wrapper --> 
+    <!-- Features 1 --> 
+    <div class="wrapper-noindex"> 
+     <div class="banner_title about">
+      <img src="/templates/bentest/images/svg/Header-About_Ben.svg"> 
+     </div> 
+     <div class="container about-content-container"> 
+      <div class="row"> 
+       <nav id="left-nav"></nav> 
+       <!-- inner-text-wrapper --> 
+       <div id="pane" class="inner-text-wrapper"> 
+        <div id="content"> 
+         <div id="system-message-container"> 
+         </div> 
+         <div class="blog" itemscope itemtype="https://schema.org/Blog"> 
+          <p>There are no articles in this category. If subcategories display on this page, they may have articles.</p> 
+          <div class="cat-children"> 
+           <h3> Subcategories </h3> 
+           <div class="first"> 
+            <h3 class="page-header item-title"><a href="/about-ben-and-gpo-mobile/51-age-14/master-historical-documents/master-declaration-of-independence"> Master: Declaration of Independence</a> </h3> 
+           </div> 
+           <div> 
+            <h3 class="page-header item-title"><a href="/about-ben-and-gpo-mobile/52-age-14/master-historical-documents/master-articles-of-confederation"> Master: Articles of Confederation</a> </h3> 
+           </div> 
+           <div> 
+            <h3 class="page-header item-title"><a href="/about-ben-and-gpo-mobile/54-age-14/master-historical-documents/master-u-s-constitution"> Master: U.S. Constitution</a> </h3> 
+           </div> 
+           <div> 
+            <h3 class="page-header item-title"><a href="/about-ben-and-gpo-mobile/55-age-14/master-historical-documents/master-bill-of-rights"> Master: Bill of Rights</a> </h3> 
+           </div> 
+           <div> 
+            <h3 class="page-header item-title"><a href="/about-ben-and-gpo-mobile/56-age-14/master-historical-documents/master-emancipation-proclamation"> Master: Emancipation Proclamation</a> </h3> 
+           </div> 
+           <div class="last"> 
+            <h3 class="page-header item-title"><a href="/about-ben-and-gpo-mobile/57-age-14/master-historical-documents/master-gettysburg-address"> Master: Gettysburg Address</a> </h3> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <!-- END inner-text-wrapper --> 
+      </div>
+      <!-- END row --> 
+     </div>
+     <!-- END container about-content-container --> 
+    </div>
+    <!-- END wrapper-noindex --> 
+    <!-- Footer Wrapper --> 
+   </div>
+   <!-- END content --> 
+  </div>
+  <!-- END container --> 
+  <script type="text/javascript" src="/templates/bentest/mobile_menu/assets/js/build/main.js?ver=1.2"></script> 
+  <script type="text/javascript" src="/templates/bentest/mobile_menu/assets/js/build/site.js?ver=1.2"></script> 
+  <script type="application/javascript" src="/templates/bentest/js/fastclick.js"></script> 
+  <script type="text/javascript">
+	jQuery(document).ready(function($) {
+$( ".silk-nav ul li.parent" ).prepend( "<input id='navtoggle' type='checkbox'><label for='navtoggle'></label>" );
+}); 
+</script> 
+  <script>
+$(function() {
+ FastClick.attach(document.body);
+});
+</script>  
+ </body>
+</html>

@@ -1,0 +1,332 @@
+<!doctype html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en">
+ <head> 
+  <meta charset="utf-8"> 
+  <meta http-equiv="x-ua-compatible" content="ie=edge"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <title>Department of Economic Community Development</title> 
+  <meta name="description" content=""> 
+  <meta name="keywords" content=""> 
+  <!-- FACEBOOK --> 
+  <meta property="og:description" content=""> 
+  <meta property="og:title" content="Department of Economic Community Development"> 
+  <meta property="og:url" content="http://portal.ct.gov/DECD"> 
+  <meta property="og:type" content="article"> 
+  <meta property="og:site_name" content="CT.gov - Connecticut's Official State Website"> 
+  <meta property="og:locale" content="en_US"> 
+  <!-- <meta property="og:image" content="https://example.com/image.jpg"> --> 
+  <!-- TWITTER --> 
+  <meta name="twitter:card" content="summary"> 
+  <meta name="twitter:url" content="http://portal.ct.gov/DECD"> 
+  <meta name="twitter:title" content="Department of Economic Community Development"> 
+  <meta name="twitter:description" content=""> 
+  <meta name="VIcurrentDateTime" content="636949901563571620"> 
+  <script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script> 
+  <!-- Google Tag Manager --> 
+  <script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
+
+{'gtm.start': new Date().getTime(),event:'gtm.js'}
+);var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K2RMH75');</script> 
+  <!-- End Google Tag Manager --> 
+  <!-- Google Tag Manager (noscript) --> 
+  <!-- End Google Tag Manager (noscript) --> 
+  <link rel="stylesheet" href="/assets/css/app.css"> 
+  <link rel="stylesheet" href="/assets/css/dsf-legacy-styles.css"> 
+  <!--[if lt IE 9]>
+            <script src="/assets/js/html5shiv.js"></script>
+        <![endif]--> 
+  <script src="https://use.typekit.net/pyg1doj.js"></script> 
+  <script>try { Typekit.load({ async: false }); } catch (e) { }</script> 
+  <script>
+            var _prum = [['id', '5579d063abe53d913a55de35'],
+            ['mark', 'firstbyte', (new Date()).getTime()]];
+            (function () {
+                var s = document.getElementsByTagName('script')[0]
+                    , p = document.createElement('script');
+                p.async = 'async';
+                p.src = '//rum-static.pingdom.net/prum.min.js';
+                s.parentNode.insertBefore(p, s);
+            })();
+        </script> 
+  <script>
+        (function (h, o, t, j, a, r) {
+        h.hj = h.hj || function ()
+        { (h.hj.q = h.hj.q || []).push(arguments) }
+        ;
+        h._hjSettings =
+        { hjid: 218205, hjsv: 5 }
+        ;
+        a = o.getElementsByTagName('head')[0];
+        r = o.createElement('script'); r.async = 1;
+        r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+        a.appendChild(r);
+        })(window, document, '//static.hotjar.com/c/hotjar-', '.js?sv=');
+        </script> 
+ </head> 
+ <body class="body-main"> 
+  <noscript> 
+   <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K2RMH75" height="0" width="0" style="display:none;visibility:hidden"></iframe> 
+  </noscript> 
+  <!--[if lte IE 8]>
+             <div class="browser">
+                 <h3>If you are viewing this version of CT.gov, you are using an unsupported browser or you are in Internet Explorer 9 using
+                 compatibility mode. This means that the design and layout of the site is not fully supported, however the content of the
+                 site is still fully accessible and functional. For the full website experience, please update your browser to one of the
+                 following:
+                     <a href="/web/20130921201018/https://www.google.com/intl/en/chrome/browser/">Google Chrome</a>,
+                     <a href="/web/20130921201018/http://www.mozilla.org/en-US/firefox/new/">Firefox</a>,
+                     <a href="/web/20130921201018/http://www.apple.com/safari/">Safari</a>,
+                     <a href="/web/20130921201018/http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer 10</a>         or higher.</h3>
+             </div>
+         <![endif]--> 
+  <a class="show-on-focus skip-link" href="#mainContent">Skip to Content</a> 
+  <noscript> 
+   <div class="row"> 
+    <div class="small-12 columns"> 
+     <br> 
+     <strong>Warning!</strong> 
+    </div> 
+    <div class="small-12 columns"> 
+     <p>It seems that JavaScript is not working in your browser. It could be because it is not supported, or that JavaScript is intentionally disabled. Some of the features on CT.gov will not function properly with out javascript enabled.</p> 
+    </div> 
+   </div> 
+  </noscript> 
+  <div class="off-canvas-wrapper"> 
+   <div class="off-canvas-wrapper-inner" data-off-canvas-wrapper> 
+    <div class="off-canvas position-right" id="offCanvasRight" data-off-canvas data-position="right"> 
+     <!-- Close button --> 
+     <button class="close-button" aria-label="Close menu" type="button" data-close> <span aria-hidden="true">×</span> </button> 
+     <p class="title">Settings Menu</p> 
+     <!-- Menu --> 
+     <ul class="settings-menu"> 
+      <li class="language"> <strong>Language</strong> 
+       <div id="google_translate_element"></div> <script type="text/javascript">
+                                function googleTranslateElementInit() {
+                                    new google.translate.TranslateElement({ pageLanguage: 'en' }, 'google_translate_element');
+                                }
+                            </script> <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script> </li> 
+      <li class="contrast"> <strong>High Contrast</strong> 
+       <div class="switch"> 
+        <input class="switch-input" id="contrast-btn" type="checkbox" name="exampleSwitch"> 
+        <label class="switch-paddle" for="contrast-btn"> <span class="show-for-sr">High Contrast Mode On or Off switch</span> <span class="switch-active" aria-hidden="true">On</span> <span class="switch-inactive" aria-hidden="true">Off</span> </label> 
+       </div> </li> 
+      <li class="font-size"> <strong>Font Size</strong> <button id="resetFont" title="Reset font size"><span class="show-for-sr">regular font size</span> </button> <button id="increaseFont" title="Increase font size"><span class="show-for-sr">large font size</span></button> </li> 
+      <li><a href="/portal/policies/disclaimer/#translate" title="See Translation Disclaimer">Disclaimer</a></li> 
+     </ul> 
+    </div> 
+    <div class="off-canvas-content" data-off-canvas-content> 
+     <header class="header-main" role="banner"> 
+      <div class="row"> 
+       <div class="small-12 medium-4 columns"> 
+        <a href="/" title="CT.gov Home" class="logo-main"> <img class="logo" src="/Assets/Images/ctgov-logo-Final.svg" title="CT.gov Logo" alt="CT.gov Logo"> Connecticut's Official <br>State Website </a> 
+       </div> 
+       <div class="small-12 medium-8 columns"> 
+        <div class="row"> 
+         <div class="small-12 medium-11 large-8 columns"> 
+          <div class="input-group"> 
+           <label for="searchVal" class="show-for-sr">Search Bar for CT.gov</label> 
+           <input class="search input-group-field" type="text" name="search-top" id="searchVal" title="Search Connecticut Government..." placeholder="Search Connecticut Government..." role="search"> 
+           <div class="input-group-button"> 
+            <button class="button search" id="btnSearch"> <i class="fi-magnifying-glass" aria-hidden="true"></i> <span class="show-for-sr">Search</span> </button> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="small-12 medium-1 columns "> 
+          <button href="#" class="float-right settings" title="Language and Visual Settings" data-toggle="offCanvasRight"> <i class="fa fa-gear fi-widget" aria-hidden="true"></i> <span class="show-for-sr">Language and Visual Settings</span> </button> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </header> 
+     <a href="#0" aria-hidden="true" class="backto-top">Top</a> 
+     <main id="mainContent" role="main" tabindex="0"> 
+      <section class="page-header" style="background-image: url('/-/media/Connecticut-Interactive/Placeholder/Banner-1200x200/DoingBiz.jpg');"> 
+       <div class="container row"> 
+        <div class="small-12 columns"> 
+         <a href="/DECD" title=""><img src="/-/media/Connecticut-Interactive/Placeholder/Logo-150x150/CTlogo/CTlogo1.png?h=300&amp;w=440&amp;la=en&amp;hash=C1C55A6B6A8C4A016A8ADA1F03933F928C0EB747" class="agency-logo" alt=""></a> 
+         <h2> <span>Connecticut State</span> Department of Economic and Community Development </h2> 
+        </div> 
+       </div> 
+      </section> 
+      <section> 
+       <div class="container row"> 
+        <nav aria-label="You are here:" role="navigation"> 
+         <ul class="breadcrumbs"> 
+          <li><a href="/" title="Portal Homepage of CT.gov">CT.gov Home</a></li> 
+          <li><span class="show-for-sr">Current: </span> Department of Economic and Community Development</li> 
+         </ul> 
+        </nav> 
+        <div class="small-12 medium-4 columns"> 
+         <div class="topics"> 
+          <ul> 
+           <li><a href="/DECD/Services/Arts-and-Culture" title="" class="">Arts &amp; Culture</a></li> 
+           <li><a href="/DECD/Services/Business-Development" title="" class="">Business Development</a></li> 
+           <li><a href="/DECD/Services/Community-Development" title="" class="">Community Development</a></li> 
+           <li><a href="/DECD/Services/Film-TV-Digital-Media" title="" class="">Film, TV &amp; Digital Media</a></li> 
+           <li><a href="/DECD/Services/Historic-Preservation" title="" class="">Historic Preservation</a></li> 
+           <li><a href="/DECD/Services/Tourism" title="" class="">Tourism</a></li> 
+           <li><a href="/DECD/Services/About-DECD" title="" class="">About DECD</a></li> 
+           <li><a href="/DECD/Content/About_DECD/Contact" title="" class="">Contact Us</a></li> 
+          </ul> 
+          <!--Please hide this form when there is no fields present --> 
+          <form> 
+           <fieldset> 
+            <legend>Search Department of Economic and Community Development</legend> 
+            <label class="show-for-sr" for="agencySpeceificSearch">Search the current Agency with a Keyword</label> 
+            <input value="" required id="agencySpeceificSearch" name="agencySpeceificSearch" placeholder="by Keyword" type="text" onkeypress="return gotoSearchEnter(event, '/DECD/Search-Results');" style="width: 75%;float: left;border-radius: 3px 0 0 3px;height: 2.45rem;"> 
+            <a class="search--filter" title="Search Topic by Keyword" href="#" onclick="return gotoSearch('/DECD/Search-Results');"><span class="show-for-sr">Filtered Topic Search</span></a> 
+           </fieldset> 
+          </form> 
+         </div> 
+        </div> 
+        <div class="small-12 medium-8 columns"> 
+         <div dynamic> 
+          <h3>Most Popular</h3> 
+          <ul class="list--link lead arr"> 
+           <li><a href="https://portal.ct.gov/ChooseCT/" target="_blank" title="Sample Item - Edit Link Properties">Why Choose Connecticut?</a></li> 
+           <li><a href="https://www.cerc.com/faq/connecticut-business-registration-requirements-br/" target="_blank" title="CT Business Registration Requirements">CT Business Registration Requirements</a></li> 
+           <li><a href="/DECD/Content/Business-Development/01_Type_of_Business/Small-Businesses">Small Business Assistance</a></li> 
+           <li><a href="/DECD/Services/Arts-and-Culture/Funding-Opportunities" title="Arts Funding Opportunities">Arts Funding Opportunities</a></li> 
+           <li><a href="/DECD/Services/Historic-Preservation/State-Museums">State Museums</a></li> 
+           <li><a href="http://decdforbusiness.com" target="_blank" title="Marketing Materials Library">Marketing Materials Library</a></li> 
+           <li><a href="/DECD/Press-Room/Press-Releases/2019">See the Latest News &amp; Press</a></li> 
+          </ul> 
+         </div> 
+         <div dynamic> 
+         </div> 
+        </div> 
+       </div> 
+      </section> 
+      <section class="features" data-equalizer data-equalize-on="medium"> 
+       <div class="container row"> 
+        <div class="small-12 medium-4 columns"> 
+         <div class="featured" data-equalizer-watch> 
+          <a href="https://portal.ct.gov/ChooseCT/" target="_blank"><img src="/-/media/DECD/Global/BantamRiver.jpg?h=504&amp;w=504&amp;la=en&amp;hash=9984F435F9E911543B18E1228694809E3E718BCD" alt=""> <h3>Why Choose Connecticut?</h3> <p>Whether you’re looking to move your family or a company, build a career or a business, you’ll feel right at home in Connecticut. Explore the key advantages of living, working, playing and doing business here.</p> </a> 
+         </div> 
+        </div> 
+        <div class="small-12 medium-4 columns"> 
+         <div class="featured" data-equalizer-watch> 
+          <a href="http://www.ctvisit.com/articles/whats-your-ct-bucket-list-spring" target="_blank"><img src="/-/media/DECD/Global/SpingBucket19.jpg?h=504&amp;w=504&amp;la=en&amp;hash=7CB1B3869C225451A66065013663358A0D657A32" alt="Connecticut Spring Bucket List"> <h3>What's On Your CT Spring Bucket List?</h3> <p>Tell us which Connecticut experiences you’re looking forward to doing this spring, and we’ll share them at CTvisit.com and FOX61.com.</p> </a> 
+         </div> 
+        </div> 
+        <div class="small-12 medium-4 columns"> 
+         <div class="featured" data-equalizer-watch> 
+          <a href="https://confirmsubscription.com/h/j/E92370F210B95775" target="_blank" title="Sign up for email news and updates from DECD"><img src="/-/media/DECD/Global/SignUpEnews.jpg?h=504&amp;w=504&amp;la=en&amp;hash=A602754D1974B65ADC2ADDBD30E8ADE87F466E37" alt=""> <h3>Sign Up for Ongoing Updates on Connecticut Businesses</h3> <p>Sign up for our emails and get breaking news about economic developments in Connecticut!</p> </a> 
+         </div> 
+        </div> 
+       </div> 
+      </section> 
+      <section> 
+       <div class="container row"> 
+        <div class="small-12 medium-4 columns"> 
+         <h4 class="sec-title dark bd-rad-3">Communications </h4> 
+         <ul class="list--link arr"> 
+          <li><a href="https://confirmsubscription.com/h/j/E92370F210B95775" target="_blank" title="Business news/updates coming out of Connecticut">Business news/updates coming out of Connecticut</a></li> 
+          <li><a href="https://confirmsubscription.com/h/j/32850F087BF1DAE9" target="_blank" title="Sample Item - Edit Link Properties">Things to see and do in Connecticut</a></li> 
+         </ul> 
+        </div> 
+        <div class="small-12 medium-4 columns"> 
+         <h4 class="sec-title dark bd-rad-3">News &amp; Events </h4> 
+         <ul class="list--link arr"> 
+          <li><a href="/DECD/Press-Room/Press-Releases/2019">Latest Press Releases</a></li> 
+         </ul> 
+        </div> 
+        <div class="small-12 medium-4 columns"> 
+         <h4 class="sec-title dark bd-rad-3">Key Resources </h4> 
+         <ul class="list--link arr"> 
+          <li><a href="/DECD/Services/About-DECD/Audit-and-Compliance" title="Audit &amp; Compliance">Audit &amp; Compliance</a></li> 
+          <li><a href="/DECD/Content/About_DECD/Research-and-Publications/02_Review_Publications/Strategic-Plans">Economic Development Strategic Plans</a></li> 
+          <li><a href="/DECD/Services/About-DECD/Research-and-Publications" title="Research &amp; Publications">Research &amp; Publications</a></li> 
+          <li><a href="http://cerc.zoomprospector.com/default.aspx?mode=BUILDINGS" target="_blank" title="SiteFinder Tool">SiteFinder Tool</a></li> 
+         </ul> 
+        </div> 
+       </div> 
+      </section> 
+      <section> 
+       <div class="container"> 
+        <div class="small-12 medium-8 columns"> 
+         <div class="about"> 
+          <h4>Commissioner David Lehman</h4> 
+          <div class="office"> 
+           <div class="officer"> 
+            <img src="/-/media/DECD/Global/ComDavidLehman.jpg?h=98&amp;w=111&amp;la=en&amp;hash=69F294232C5B6B6876AF5B4458A2AD3FB2843A7B" alt=""> 
+            <p>Startups, small businesses, industry giants: Businesses of all sizes are growing in Connecticut, and they’re capitalizing on Connecticut’s unique assets: so much talent in the workforce, so many resources for productivity and such a high concentration of leading-edge companies in one compact state. Explore the ways Connecticut gives businesses new momentum to compete. </p> 
+           </div> 
+           <div class="large-6 columns"> 
+            <h5>About Department of Economic and Community Development</h5> 
+            <ul class="list--link arr"> 
+             <li><a href="/DECD/Content/About_DECD/About-DECD-Office/About-DECD">About the DECD Office</a></li> 
+             <li><a href="/DECD/Content/About_DECD/About-DECD-Office/About-DECD/Commissioner">Commissioner Bios</a></li> 
+             <li><a href="/DECD/Content/About_DECD/Human-Resources">Human Resources</a></li> 
+             <li><a href="/DECD/Services/About-DECD/Research-and-Publications">Research &amp; Publications</a></li> 
+             <li><a href="/DECD/Services/About-DECD/Audit-and-Compliance" title="Financial Review &amp; Compliance">Financial Review &amp; Compliance</a></li> 
+            </ul> 
+            <h5>Social Media</h5> 
+            <ul class="social"> 
+             <li><a href="https://www.facebook.com/CTDECD/" class="facebook" title="Facebook">Facebook</a></li> 
+             <li></li> 
+             <li><a href="https://twitter.com/CTDECD" class="twitter">Twitter</a></li> 
+            </ul> 
+           </div> 
+           <div class="large-6 columns"> 
+            <ul class="blue-list"> 
+             <li><a href="mailto:david.lehman@ct.gov?subject=Contact from DECD.org">Contact Commissioner Lehman</a></li> 
+             <li><a href="mailto:david.kooris@ct.gov?subject=Contact from DECD.org">Contact Deputy Commissioner Kooris</a></li> 
+            </ul> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="small-12 medium-4 columns"> 
+         <div class="contact"> 
+          <h4>Contact</h4> 
+          <h5>Department of Economic &amp; Community Development</h5> 
+          <p> 450 Columbus Boulevard<br> Hartford CT 06103 <br> Phone Number: <a href="tel: (860) 500-2300"> (860) 500-2300</a><br> </p> 
+          <ul class="list--link arr"> 
+           <li><a href="/DECD/Content/About_DECD/Contact">Contacts at the Department of Economic &amp; Community Development</a></li> 
+          </ul> 
+         </div> 
+        </div> 
+       </div> 
+      </section> 
+     </main> 
+     <div class="container"> 
+     </div> 
+     <footer class="footer" role="contentinfo"> 
+      <div class="container"> 
+       <div class="footer-left"> 
+        <ul> 
+         <li><a href="/Policies/State-Privacy-Policy">Policies</a></li> 
+         <li><a href="http://www.access.state.ct.us/policies/accesspolicy40.html" target="_blank">Accessibility</a></li> 
+         <li><a href="/About">About CT</a></li> 
+         <li><a href="/Directories">Directories</a></li> 
+         <li><a href="/social_media">Social Media</a></li> 
+         <li><a href="/for_state_employees_footer">For State Employees</a></li> 
+        </ul> 
+        <ul class="flag-status"> 
+         <li> <img src="/-/media/Connecticut-Interactive/Images/Resources/usflag240.jpg?h=137&amp;w=240&amp;la=en&amp;hash=671C6FF73290A5FDEAF3B282B029BF39C96FCB47" alt="United States Flag"> <a href="/Government/Flag-Status" title="United States flag status - FULL "> United States <span> FULL </span> </a> </li> 
+         <li> <img src="/-/media/Connecticut-Interactive/Images/Resources/ctflag240.jpg?h=137&amp;w=240&amp;la=en&amp;hash=01A5BEC32292A820C1E58B931158BB851736255D" alt="Connecticut Flag"> <a href="/Government/Flag-Status" title="Connecticut state flag status - FULL "> Connecticut <span> FULL </span> </a> </li> 
+        </ul> 
+        <p class="copy"> © <a href="/" title="Connecticut's Official State Website"> <span class="year">2016</span> CT.gov <span>|</span> Connecticut's Official State Website </a> </p> 
+       </div> 
+       <div class="footer-right"> 
+        <a href="http://www.ctvisit.com/" title="Connecticut Tourism" target="_blank" class="tourism"> <img src="/assets/images/CT-logo-full.png" alt="Connecticut Logo"> </a> 
+       </div> 
+      </div> 
+     </footer> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="/assets/js/app.js"></script> 
+  <script src="/Assets/js/Ie-shims.js"></script> 
+  <script src="/assets/js/google.search.js"></script> 
+  <script src="/assets/js/ga-externallink.js"></script> 
+  <!-- <script src="/assets/js/validate.js"></script>
+<script src="/assets/js/site.js"></script> -->  
+ </body>
+</html>

@@ -1,0 +1,832 @@
+<!doctype html>
+<html lang="en" ng-app="mapp">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <!-- State Of Michigan - Thu May 30 07:56:11 2019 --> 
+  <!-- e-Michigan Portal - Process #4, Server stmiws101 --> 
+  <link rel="canonical" href="https://www.michigan.gov/som/0,4669,7-192-29701---,00.html"> 
+  <title>SOM - GOVERNMENT</title> 
+  <meta name="DESCRIPTION" content="State of Michigan - Michigan Government"> 
+  <meta name="KEYWORDS" content="Government"> 
+  <base target="_top"> 
+  <!-- global scripts BOOTSTRAP --> 
+  <!-- bow-scripts include --> 
+  <!-- CSS --> 
+  <link type="text/css" rel="stylesheet" href="/css/fullcalendar.css"> 
+  <link type="text/css" rel="stylesheet" href="/font-som-icons/css/somicons.min.css?20170525090940"> 
+  <link type="text/css" rel="stylesheet" href="/font-awesome/css/font-awesome.min.css"> 
+  <link type="text/css" rel="stylesheet" href="/css/jquery.bxslider.css"> 
+  <!-- javascript --> 
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script> 
+  <script src="/bootstrap/js/bootstrap.min.js"></script> 
+  <script src="/js/fullcalendar.js" type="text/javascript"></script> 
+  <script src="/js/jquery.bxslider.js"></script> 
+  <script src="/js/jquery.rwdImageMaps.js"></script> 
+  <script src="/js/jquery.validate.js"></script> 
+  <script src="/js/additional-methods.js"></script> 
+  <script src="/js/responsiveComponents.js"></script> 
+  <script src="/js/jquery.matchHeight-min.js"></script> 
+  <!--[if (lt IE 9)]>
+<script>
+document.createElement('header');
+document.createElement('nav');
+document.createElement('section');
+document.createElement('article');
+document.createElement('aside');
+document.createElement('footer');
+document.createElement('time');
+</script>
+<script src="/js/respond.js"></script>
+<link href="/css/migov_ie8_OLD.css" rel="stylesheet" media="all" />
+<![endif]--> 
+  <script type="text/javascript" src="/js/bow-general.js?v=1526047680"></script> 
+  <link href="/css/body-theme-som.css?v=1551121888" type="text/css" rel="stylesheet"> 
+  <!-- Agency Header do not include the globalcss file -->
+  <!--/ Agency Header-->
+  <script src="/js/underscorejslib.js?v=1493914450"></script> 
+  <script src="/js/angular_1_6.js?v=1493914427"></script> 
+  <script src="/js/angular_1_6_sanitize.js?v=1493914426"></script> 
+  <script src="/js/angular_1_6_animate.js?v=1493914426"></script> 
+  <script src="/js/angular_1_6_aria.js?v=1493914426"></script> 
+  <script src="/js/angular_1_6_touch.js?v=1493914427"></script> 
+  <script src="/js/angucomplete-alt.js?v=1545075608"></script> 
+  <script src="/js/bootstrapUIangular.js?v=1493914448"></script> 
+  <script type="text/javascript">
+window.navPath = '/agency/leftFullNav/0,,192,00.html';
+window.loadedData = [];
+$('body').addClass('matching-heights-processing');
+var mapp = angular.module('mapp',['ngSanitize','ngAnimate','ui.bootstrap','ngAria','angucomplete-alt','ngTouch']);
+mapp.run(['$location', function($location) {
+			var pathCurrent = $location.path();
+			var searchCurrent = $location.search();
+			$('body').on('click','a[href^="#"]',function(e){
+				e.preventDefault();
+			    var hrefDest = $(this).attr('href');
+				//asses if ID or Anchor
+				hrefDest_clean = hrefDest.replace('#','');
+				var anchorCount = $('a[name="'+hrefDest_clean+'"]').length;
+				var idCount = $(''+hrefDest).length;
+				var destObj;
+				if(anchorCount > 0)
+			    {
+					destObj = $('a[name="'+hrefDest_clean+'"]').filter(':first');
+			    }
+				else if(idCount > 0)
+			    {
+					destObj = $(''+hrefDest);
+			    }
+				var offsetVal = $(destObj).offset().top - 150;
+				// change the path
+				$location.path('/'+hrefDest_clean);
+				//Moving focus and page:
+				$('a[href^="#"]').removeAttr('tabindex');
+				$('html,body').animate({scrollTop:offsetVal}, 500);
+				$(destObj).attr('tabindex',-1).focus();
+			});
+		}]);
+</script> 
+  <script src="/js/angular_custom_factories.js?v=1502904335"></script> 
+  <script src="/js/angular_custom_filters.js?v=1506702035"></script> 
+  <script src="/js/SearchComponentAngular.js?v=1545075601"></script> 
+  <script src="/js/angularSelectList.js?v=1544218134"></script> 
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js"></script> 
+  <script src="/js/gtm.js?v=1501512057"></script> 
+ </head> 
+ <body class="agy-som has-offcanvas-menu off-canvas-center  bow-theme-1 horz-menu body-theme-som matching-heights-processing"> 
+  <div role="navigation" aria-label="skip nav"> 
+   <noscript> 
+    <div class="alert bg bg-accent-1 text-center"> 
+     <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> Browsers that can not handle javascript will not be able to access some features of this site. 
+     <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> 
+    </div> 
+    <style type="text/css">
+body.matching-heights-processing:before,body.matching-heights-processing:after {
+content:'';
+height:0px;
+width:0px;
+}
+</style> 
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WTW7M9" height="0" width="0" style="display:none;visibility:hidden"></iframe> 
+   </noscript> 
+   <div id="noAdBlock" style="display:none;" class="alert bg bg-accent-1 text-center"> 
+    <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> Some functions of this site are disabled for browsers blocking jQuery. 
+    <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> 
+   </div> 
+   <div id="_TopOfPage"></div> 
+   <script>
+			function doAnalyticsGo(sndx) {
+				var dest = sndx.options[sndx.selectedIndex].value;
+				if (dest == 0) {
+					alert('Please make a selection.');
+					return false;
+				} else {
+					document.location.href=dest;
+					return false;
+				}
+			}
+		</script>
+   <a href="#main" data-target-id="main" class="sr-only sr-only-focusable jump-to-id">Skip to main content</a> 
+  </div> 
+  <!--START DIV CONTAINER--> 
+  <div id="main-mobile-canvas-container" class=""> 
+   <div id="temp-toggler-mobile-menu" class="text-center toggle-mobile-menu-controls"> 
+    <a href="#mobile-canvas-menu-container" data-toggle-class="show-mobile-nav" class="toggle-mobile-menu outer-link text-center toggle-mobile-menu-controls"> <span class="fa fa-3x fa-bars mobile-menu-closed-icon toggle-mobile-menu-controls"></span><span class="fa fa-3x fa-times mobile-menu-showing-icon toggle-mobile-menu-controls"></span>MENU </a> 
+   </div> 
+   <div class="offcanvas-left toggle-mobile-menu-controls" id="mobile-canvas-menu-container"> 
+    <div class="mobile-canvas-nav-header"> 
+     <div class="mobile-canvas-menu-logo-block"> 
+      <div id="mobileLogoBlock"> 
+       <a href="/som"> <img class="img-responsive" src="/images/som/final_logo_migov_white_526452_7.png" alt="State of Michigan "> </a> 
+      </div> 
+      <div id="mobileSiteTitle"> 
+       <a href="/som"> 
+        <div class="page-site-header">
+         <div class="bannerLgTxt"></div>
+        </div> </a> 
+      </div> 
+     </div> 
+     <div class="inner-mobile-menu-toggle"> 
+      <a href="#mobile-canvas-menu-container" data-toggle-class="show-mobile-nav" class="toggle-mobile-menu outer-link btn btn-accent-black"><span class="fa fa-2x fa-bars mobile-menu-closed-icon"></span><span class="fa fa-2x fa-times mobile-menu-showing-icon"></span></a> 
+     </div> 
+    </div> 
+    <div class="site-extra-text bg bg-primary-1">
+     State of Michigan 
+    </div> 
+    <div class="mobile-search-block bg bg-primary-1 padding-bottom-10"> 
+     <div class="searchComponentDiv" id="searchComponentDiv_9910101010101" ng-controller="searchComponentController" ng-init="init(9910101010101)"> 
+      <div ng-if="loadedData"> 
+       <form ng-submit="submitFormLocal()" class="submit-override"> 
+        <div class="clearfix"> 
+         <div class="" angucomplete-alt id="searchInput_9910101010101" placeholder="" pause="10" selected-object="optionChanged" local-data="people" local-search="localSearch" title-field="name" description-field="twitter" minlength="1" input-class="form-control form-control" input-changed="inputChanged" match-class="highlight"> 
+         </div> 
+        </div> 
+       </form> 
+      </div> 
+     </div> 
+     <script>		
+				window.loadedData[9910101010101] = [];
+				window.loadedData[9910101010101]["GSA_COLLECTION"] = "som";
+				
+				window.loadedData[9910101010101]["gsaAgencyText"] = "State~of~Michigan";
+				window.loadedData[9910101010101]["subcategories"] = [];			
+			</script> 
+    </div> 
+    <div id="containerMainMobileLinks"></div> 
+    <div class="branding-bar-links-block"> 
+     <nav class="mobile-branding-links" aria-label="mobile global menu"> 
+      <ul id="m_bannerLinks">
+       <li><a href="/departments" title="State Departments">State Departments</a></li>
+       <li><a href="/services" title="Online Services">Online Services</a></li>
+       <li><a href="/socialmedia" title="Social Media">Social Media</a></li>
+       <li><a href="/somhelp" title="Help Center">Help Center</a></li>
+      </ul> 
+     </nav> 
+    </div> 
+   </div> 
+   <script type="text/javascript">
+	window.agencySitePathCSS = 'som';
+	//window.agencySitePathCSS = window.location.pathname;
+	window.agencyText = 'State~of~Michigan';
+	//window.agencyText = document.getElementsByTagName("title")[0].innerHTML;
+	window.siteClient = window.agencySitePathCSS;
+	// Task 44300 - WEX
+	 
+	window.default_collection = 'som';
+	 window.gsasearch = true;
+	window.usagovCollection = 'mi-'+window.agencySitePathCSS;
+
+	$('document').ready(function(){
+		$('.site-search-form').submit(function(e){
+			e.preventDefault();
+			siteSearchForm($(this));
+		});
+		$('#noAdBlock').hide();
+	});
+	</script> 
+  </div> 
+  <div id="container" class="container-fluid"> 
+   <div id="topMenuSearchContainer bg bg-accent-black" class="search-extended"> 
+    <div class="searchComponentDiv padding-top-20 padding-bottom-20" id="searchComponentDiv_10101010101" ng-controller="searchComponentController" ng-init="init(10101010101)"> 
+     <div ng-if="loadedData"> 
+      <form ng-submit="submitFormLocal()" class="submit-override"> 
+       <div class="container"> 
+        <div class="col-xs-11" angucomplete-alt id="searchInput_10101010101" placeholder="" pause="10" selected-object="optionChanged" local-data="people" local-search="localSearch" title-field="name" description-field="twitter" minlength="1" input-class="form-control form-control" input-changed="inputChanged" match-class="highlight"> 
+        </div> 
+        <div class="col-xs-1 bg bg-accent-black"> 
+         <a href="#" onclick="$('body').removeClass('show-search-form');$('#top-right-search-bar').focus();" title="Close Search Panel" class="fa-2x"> <span class="fa fa-remove"></span> <span class="sr-only">Close Search Box</span> </a> 
+        </div> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+    <script>		
+		window.loadedData[10101010101] = [];
+		window.loadedData[10101010101]["GSA_COLLECTION"] = "som";
+		window.loadedData[10101010101]["gsaAgencyText"] = "State~of~Michigan";
+		window.loadedData[10101010101]["subcategories"] = [];
+	</script> 
+   </div> 
+   <!-- agencyHeaderNavPath agencyCreateHeaderNavP3 --> 
+   <!--div id="bannerArea" role='banner'-->
+   <!-- HEADER 1.1 Live -->
+   <div id="bannerArea" role="banner">
+    <div id="superTop">
+     <!-- SOM banner text --> 
+     <ul id="bannerLinks">
+      <li><a href="/departments" title="State Departments">State Departments</a></li>
+      <li><a href="/services" title="Online Services">Online Services</a></li>
+      <li><a href="/socialmedia" title="Social Media">Social Media</a></li>
+      <li><a href="/somhelp" title="Help Center">Help Center</a></li>
+      <li id="top-right-search-bar" style="display:none;"> <a href="#topMenuSearchContainer" aria-haspopup="true" title="Search Mi.gov" class="top-header-search-link" data-search-field-id=""> <span>Search</span> </a> </li>
+     </ul>
+    </div>
+    <div id="siteBanner">
+     <!-- SOM banner text --> 
+     <div id="headerRow"> 
+      <div class="header-site-title-text"> 
+       <a class="AGENCY_HEADER_L" accesskey="1" href="/som/"><img class="AGENCY_HEADER_L" src="/images/som/mobileSOM_346956_7_398113_7.png" alt="SOM - State of Michigan "></a> 
+      </div> 
+      <div class="header-nav-block">
+       <nav class="main-navigation" role="navigation" aria-label="main navigation">
+        <ul id="nav" class="nav-main"> 
+         <!-- State Of Michigan - Wed May 29 17:25:54 2019 --> 
+         <!-- e-Michigan Portal - Process #1 --> 
+         <!-- Begin Global Nav section -->
+         <!-- End Global Nav section --> 
+         <!-- Begin Responsive Navigation --> 
+         <li id="29943" class="id-29943 "> <a class="lvl1" title="BUSINESS" href="/som/0,4669,7-192-29943---,00.html">BUSINESS</a> </li> 
+         <li id="29939" class="id-29939 "> <a class="lvl1" title="EDUCATION" href="/som/0,4669,7-192-29939---,00.html">EDUCATION</a> </li> 
+         <li id="29942" class="id-29942 "> <a class="lvl1" title="HEALTH" href="/som/0,4669,7-192-29942---,00.html">HEALTH</a> </li> 
+         <li id="29701" class="id-29701 "> <a class="lvl1" title="GOVERNMENT" href="/som/0,4669,7-192-29701---,00.html">GOVERNMENT</a> </li> 
+         <li id="29941" class="id-29941 "> <a class="lvl1" title="SAFETY" href="/som/0,4669,7-192-29941---,00.html">SAFETY</a> </li> 
+        </ul> 
+        <ul id="desktopMobileButton" style="display:none;"> 
+         <li><a aria-haspopup="true" href="#mobile-canvas-menu-container" data-toggle-class="show-mobile-nav" class="toggle-mobile-menu outer-link text-center toggle-mobile-menu-controls"> <span class="fa fa-bars mobile-menu-closed-icon toggle-mobile-menu-controls"></span><span class="fa fa-times mobile-menu-showing-icon toggle-mobile-menu-controls"></span> 
+           <div class="clearfix">
+            MENU
+           </div> </a></li> 
+        </ul> 
+       </nav> 
+      </div> 
+      <!-- End Flyout Navigation -->
+      <!-- Left Links -->
+      <!-- End Left Links -->
+     </div>
+    </div>
+    <div class="siteBannerTxt">
+     State of Michigan 
+    </div> 
+    <div id="horzMenuSubLinksBlock_container" class="container">
+     <div id="horzMenuSubLinksRow">
+      <div id="horzMenuSubLinksBlockBreadCrumb"></div>
+     </div>
+     <div id="horzMenuSubLinksBlock"></div>
+    </div>
+   </div> 
+   <div id="topNavSearch"> 
+    <!-- SEARCH -->
+    <form id="searchform" onsubmit="location.href='https://search.michigan.gov/AppBuilder/search?ctx=SOM&amp;q=' + document.getElementById('query').value;return false;"> 
+     <input accesskey="s" type="TEXT" autocomplete="off" id="query" name="q" placeholder="Search" title="Search"> 
+     <input id="go" type="submit" value="search" name="button" onClick="location.href='https://search.michigan.gov/AppBuilder/search?ctx=SOM&amp;q=' + document.getElementById('query').value;return false;"> 
+    </form>
+    <!-- /SEARCH -->
+   </div>
+   <!-- LEFTNAV agencyCreateLeftNavRD --> 
+   <!-- bodyWrapper --> 
+   <div id="bodyWrapper"> 
+    <!-- contentWrapper --> 
+    <div id="contentWrapper"> 
+     <!-- main -->
+     <div id="main" class="DW page" role="main"> 
+      <div id="breadcrumbContainer">
+       <div id="breadcrumb" role="navigation" aria-label="breadcrumbs">
+        <span style="display: none" id="breadcrumblabel">You are here</span>
+        <ol class="breadcrumb" aria-labelledby="breadcrumblabel">
+         <li><a href="/som/">SOM</a></li> 
+         <li><a href="/som/0,4669,7-192-29701---,00.html" title="GOVERNMENT">GOVERNMENT</a></li>
+        </ol>
+       </div>
+      </div> 
+      <div class="page-header sr-only">
+       <h1>GOVERNMENT</h1>
+      </div> 
+      <!-- Body Begin --> 
+      <!-- State Of Michigan - Fri May 31 17:53:12 2019 --> 
+      <!-- BEGIN MAIN CONTENT AREA ROW -->
+      <div class="row row-eq-height">
+       <div class="row-eq-height col-sm-12 ">
+        <!-- ID COMPONENT_90935 -->
+        <!-- BS PANEL COMPONENT -->
+        <div id="panels_90935" style="width:100%">
+         <!-- Panel GROUP -->
+         <div class="panel-group">
+          <!-- Panel -->
+          <div class="panel splash-panel backgroundPos-left-center" style="background-image:url(https://www.michigan.gov/images/som/DI-01423-057_523173_7.jpg);" id="block-1_90935"> 
+           <h2 class="panel-heading"><span class="panel-heading-inner">Government</span></h2> 
+           <!-- Panel BODY -->
+           <div class="panel-body">
+            <!-- State Of Michigan - Fri Apr 26 13:40:55 2019 --> 
+            <!-- BEGIN MAIN CONTENT AREA ROW -->
+            <div class="row row-eq-height">
+             <div class="row-eq-height col-sm-6 ">
+              <!-- ID COMPONENT_90937 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_90937" class="comp standard  list splash-feature-component list-group-transparent-links-default-2">
+               <h2 class="cTitle" style="">Find Your Representative</h2> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList  NONE ">
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "><span class="bodylinks"></span><span class="shortdesc"><p>Find out&nbsp;who represents you at your State Capital. Search for elected officials, find contact information&nbsp;and learn more&nbsp;regarding their influences in state government.&nbsp;</p> </span></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="http://www.senate.michigan.gov/fysbyaddress.html" title="State Senator Lookup">State Senator Lookup </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="http://www.house.mi.gov/mhrpublic/frmFindaRep.aspx" title="State Representative Lookup">State Representative Lookup </a></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_90937 -->
+             </div>
+            </div>
+            <!-- END MAIN CONTENT AREA ROW -->
+            <!-- END Panel BODY -->
+           </div>
+           <!-- END Panel block-1 -->
+          </div>
+          <!-- Panel -->
+          <div class="panel bg bg-gray-light panel-heading-centered" style="background-image:url();" id="block-2_90935"> 
+           <h2 class="panel-heading"><span class="panel-heading-inner">Online Services</span></h2> 
+           <!-- Panel BODY -->
+           <div class="panel-body">
+            <!-- State Of Michigan - Fri Apr 26 13:40:56 2019 --> 
+            <!-- BEGIN MAIN CONTENT AREA ROW -->
+            <div class="row row-eq-height">
+             <div class="row-eq-height col-sm-5 ">
+              <!-- ID COMPONENT_90951 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_90951" class="comp standard  bg bg-primary-2 comp-title-border comp-title-border-gray-light list first-featured list-group-transparent-links-default-2 background-image background-image-cover transparent-90" style=" background-image:url(//www.michigan.gov/images/som/iStock_000014149970v2_525043_7.jpg);">
+               <h2 class="cTitle" style="">STATE EMPLOYEE SEARCH</h2> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList  NONE ">
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "><span class="bodylinks"></span><span class="shortdesc"><p>Enter the name of a State of Michigan employee to find his or her e-mail address, telephone number, and department.</p> </span></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/dtmb/0,5552,7-358-82551_83903-290423--,00.html" title=" If you are looking for a particular location for which we do business, you can use our listing for street location information. 
+">Facility Addresses </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="http://www.state.mi.us/dit/directory.aspx" target="_blank" title="SEARCH EMPLOYEES">SEARCH EMPLOYEES </a></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_90951 -->
+             </div>
+             <div class="row-eq-height col-sm-7 ">
+              <!-- ID COMPONENT_90950 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_90950" class="comp standard  list online-services-list-component"> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList  NONE ">
+                <li class="col_2" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="http://www.legislature.mi.gov/(S(fgdokxfsnjkckg2vhdtbp4iu))/mileg.aspx?page=legislators" target="_blank" title="Find a Legislator">Find a Legislator </a></span></span></li>
+                <li class="col_2" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/uia/0,4680,7-118-52610-207602--,00.html" title="DLEG/UIA Filing unemployment claims by telephone. Instructions and online presentation available here.">Unemployment Claim: File By Telephone </a></span></span></li>
+                <li class="col_2" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/treasury/0,4679,7-121-44435---,00.html" title=" Find unclaimed money or property that may be yours! 
+">Unclaimed Property Search </a></span></span></li>
+                <li class="col_2" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="http://agency.governmentjobs.com/michigan/default.cfm" title="State Job Postings">State Job Postings </a></span></span></li>
+                <li class="col_2" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/vote" title="View your ballot and election calendar, map your polling location, and find out how to use your voting equipment.">Voter Information Center </a></span></span></li>
+                <li class="col_2" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="http://e.courts.michigan.gov/" title="Ticket Payment System">Ticket Payment System </a></span></span></li>
+                <li class="col_2" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="http://www.legislature.mi.gov/" target="_blank" title="Michigan Compiled Laws">Michigan Compiled Laws </a></span></span></li>
+                <li class="col_2" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="https://dsvsesvc.sos.state.mi.us/TAP/_/" title="Renew License Plate Tabs">Renew License Plate Tabs </a></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_90950 -->
+             </div>
+            </div>
+            <!-- END MAIN CONTENT AREA ROW -->
+            <!-- END Panel BODY -->
+           </div>
+           <!-- END Panel block-2 -->
+          </div>
+          <!-- Panel -->
+          <div class="panel hide-panel-heading bg bg-primary-1 panel-body-padding-25" style="background-image:url();" id="block-3_90935"> 
+           <h2 class="panel-heading"><span class="panel-heading-inner">SPOTLIGHT</span></h2> 
+           <!-- Panel BODY -->
+           <div class="panel-body">
+            <!-- State Of Michigan - Fri May 31 17:53:13 2019 --> 
+            <!-- BEGIN MAIN CONTENT AREA ROW -->
+            <div class="row row-eq-height">
+             <div class="row-eq-height col-sm-7 ">
+              <!-- ID COMPONENT_90952 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_90952" class="comp standard  list list-read-more-next list-no-bullets">
+               <h2 class="cTitle" style="color:#ffffff;">SPOTLIGHT NEWS</h2> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList  NONE ">
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/som/0,4669,7-192-74922-498593--,00.html" title="Michigan AG's Child Support Unit Breaks $275 Million in Collections Since Inception">Michigan AG's Child Support Unit Breaks $275 Million in Collections Since Inception </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/som/0,4669,7-192-74922-497453--,00.html" title=" The Michigan Parole Board will hold a public hearing on Thursday,&nbsp;June 13,&nbsp;2019 to consider the possible parole of Billy Abernathy, #150693.&nbsp; It will be held at 11:00 a.m. at the Handlon Michigan Training Center; Richard A. Handlon Correctional Facility in Ionia, Michigan. 
+">A public hearing to consider the possible parole of Billy Abernathy, #150693 </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/som/0,4669,7-192-74922-498656--,00.html" title="Flint families can get nutritious food at mobile pantry in June">Flint families can get nutritious food at mobile pantry in June </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/som/0,4669,7-192-74922-498651--,00.html" title=" Thirteen talent consortia awarded Marshall Plan for Talent funds to improve state’s talent development and education system, benefiting&nbsp;more than 220,000 students 
+">Nearly $14 million awarded to schools statewide to create robust talent development and education system </a></span></span></li> 
+               </ul>
+               <span class="moreLink"><a title="MORE NEWS SPOTLIGHT NEWS" href="/som/0,4669,7-192-3452---,00.html">MORE NEWS</a></span>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_90952 -->
+             </div>
+             <div class="row-eq-height col-sm-5 ">
+              <!-- ID COMPONENT_90953 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_90953" class="comp standard  list         list-image-overlay              first-featured   first-like-ctitle-small  first-like-ctitle-small padding-0" style=" background-image:url(https://www.michigan.gov/images/som/iStock_000068089873_Smaller1000wide_509724_7.jpg);"> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList   ">
+                <li class="col_1" style=""><span class="inner"><span class="thumbnail CENTER"><a href="https://transparency.michigan.gov/" target="_blank"><span style="display: block; margin-left: auto; margin-right: auto;"><img src="/images/som/iStock_000068089873_Smaller1000wide_509724_7.jpg" alt="Michigan Capitol Building" title="Michigan Capitol Building"></span></a></span><span class="contentBlock "> <a class="bodylinks" href="https://transparency.michigan.gov/" target="_blank" title=" Discover a wealth of state government spending and payment information. Citizens of Michigan are encouraged to explore the data and information related to how their taxpayer dollars are spent. 
+">Transparency and Spending </a><span class="shortdesc"><p>Discover a wealth of state government spending and payment information. Citizens of Michigan are encouraged to explore the data and information related to how their taxpayer dollars are spent.</p> </span></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_90953 -->
+             </div>
+            </div>
+            <!-- END MAIN CONTENT AREA ROW -->
+            <!-- END Panel BODY -->
+           </div>
+           <!-- END Panel block-3 -->
+          </div>
+          <!-- Panel -->
+          <div class="panel panel-elements-no-inner-padding bg bg-gray-light panel-body-padding-25 panel-heading-centered" style="background-image:url();" id="block-4_90935"> 
+           <h2 class="panel-heading"><span class="panel-heading-inner">Branches of Government</span></h2> 
+           <!-- Panel BODY -->
+           <div class="panel-body">
+            <!-- State Of Michigan - Fri Apr 26 13:40:57 2019 --> 
+            <!-- BEGIN MAIN CONTENT AREA ROW -->
+            <div class="row row-eq-height">
+             <div class="row-eq-height col-sm-12 ">
+              <!-- ID COMPONENT_90954 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_90954" class="comp standard  list                      item-col-bs-3 all-like-ctitle-small item-img-center img-icon      item-align-center"> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList   ">
+                <li class="col_1" style=""><span class="inner"><span class="thumbnail CENTER"><a href="/som/0,4669,7-192-29701_29702---,00.html"><span style="display: block; margin-left: auto; margin-right: auto;"><img src="/images/som/symbolicons-iconExecutive_509728_7.png" alt="executive icon" title="executive icon"></span></a></span><span class="contentBlock "> <a class="bodylinks" href="/som/0,4669,7-192-29701_29702---,00.html" title=" Voters elect the Governor, Lieutenant Governor, Secretary of State and Attorney General to execute action in Michigan. 
+">Executive </a><span class="shortdesc"><p>Voters elect the Governor, Lieutenant Governor, Secretary of State and Attorney General to execute action in Michigan.</p> </span></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="thumbnail CENTER"><a href="/som/0,4669,7-192-29701_29704---,00.html"><span style="display: block; margin-left: auto; margin-right: auto;"><img src="/images/som/symbolicons-iconLegislative_509729_7.png" alt="legislative icon" title="legislative icon"></span></a></span><span class="contentBlock "> <a class="bodylinks" href="/som/0,4669,7-192-29701_29704---,00.html" title=" Senators and State Representatives are elected to represent their district. They write bills and vote to enact bills and laws. 
+">Legislative </a><span class="shortdesc"><p>Senators and State Representatives are elected to represent their district. They write bills and vote to enact bills and laws.</p> </span></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="thumbnail CENTER"><a href="/som/0,4669,7-192-29701_29703---,00.html"><span style="display: block; margin-left: auto; margin-right: auto;"><img src="/images/som/symbolicons-iconJudical_509731_7.png" alt="judicial icon" title="judicial icon"></span></a></span><span class="contentBlock "> <a class="bodylinks" href="/som/0,4669,7-192-29701_29703---,00.html" title=" Judges are elected to maintain fair legal proceedings in Michigan courts including Circuit, Probate, Appellate and the Michigan Supreme Court. 
+">Judicial </a><span class="shortdesc"><p>Judges are elected to maintain fair legal proceedings in Michigan courts including Circuit, Probate, Appellate and the Michigan Supreme Court.</p> </span></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_90954 -->
+             </div>
+            </div>
+            <!-- END MAIN CONTENT AREA ROW -->
+            <!-- END Panel BODY -->
+           </div>
+           <!-- END Panel block-4 -->
+          </div>
+          <!-- Panel -->
+          <div class="panel hide-panel-heading panel-body-padding-25" style="background-image:url();" id="block-5_90935"> 
+           <h2 class="panel-heading"><span class="panel-heading-inner">People and Places</span></h2> 
+           <!-- Panel BODY -->
+           <div class="panel-body">
+            <!-- State Of Michigan - Fri Apr 26 13:40:57 2019 --> 
+            <!-- BEGIN MAIN CONTENT AREA ROW -->
+            <div class="row row-eq-height">
+             <div class="row-eq-height col-sm-3 ">
+              <!-- ID COMPONENT_90955 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_90955" class="comp standard  list bg bg-gray-light first-featured first-featured-img-center first-featured-no-padding first-featured-eqh list-read-more-next list-no-bullets first-like-ctitle-small match-content-list-height"> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList  NONE ">
+                <li class="col_1" style=""><span class="inner"><span class="thumbnail CENTER"><span style="display: block; margin-left: auto; margin-right: auto;"><img src="/images/som/dreamcatcher_518967_7.jpg" alt="Dreamcatcher " title="Dreamcatcher "></span></span><span class="contentBlock "><span class="bodylinks"><strong>Tribal Government</strong></span></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/som/0,1607,7-192-29701_41909_42804---,00.html" title="Tribal Photo Gallery">Tribal Photo Gallery </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="http://tribalgov.golearnportal.org/ " target="_blank" title="Working Effectively with Tribal Governments">Working Effectively with Tribal Governments </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="http://www.michiganadvantage.org/tribal" target="_blank" title="Tribal Business Development">Tribal Business Development </a></span></span></li> 
+               </ul>
+               <span class="moreLink"><a title="MORE TRIBAL GOV " href="/som/0,4669,7-192-41909---,00.html">MORE TRIBAL GOV</a></span>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_90955 -->
+             </div>
+             <div class="row-eq-height col-sm-3 ">
+              <!-- ID COMPONENT_92201 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_92201" class="comp standard  list bg bg-gray-light first-featured first-featured-img-center first-featured-no-padding first-featured-eqh list-read-more-next list-no-bullets first-like-ctitle-small match-content-list-height"> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList  NONE ">
+                <li class="col_1" style=""><span class="inner"><span class="thumbnail CENTER"><span style="display: block; margin-left: auto; margin-right: auto;"><img src="/images/som/iStock_000052662936_525171_7.jpg" alt="Patriotic Flag" title="Patriotic Flag"></span></span><span class="contentBlock "><span class="bodylinks"><strong>eCitizens</strong></span></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/som/0,1607,7-192-29701_31713_31714---,00.html" title="Government Contacts">Government Contacts </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/som/0,1607,7-192-29701_31713_31716---,00.html" title=" Be an informed Michigan citizen. 
+">Know Michigan Laws </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/som/0,1607,7-192-29701_31713_46780---,00.html" title=" Find&nbsp;key services and get it done online! 
+">Find Citizen Services </a></span></span></li> 
+               </ul>
+               <span class="moreLink"><a title="MORE ECITIZENS " href="/som/0,4669,7-192-76020---,00.html">MORE ECITIZENS</a></span>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_92201 -->
+             </div>
+             <div class="row-eq-height col-sm-5 col-sm-offset-1">
+              <!-- ID COMPONENT_90956 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_90956" class="comp standard  list         list-image-overlay              first-featured   first-like-ctitle-small  first-like-ctitle-small padding-0" style=" background-image:url(/images/whitmer/Gov_Page_-_GovWhitmer_641584_7.jpg);"> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList   ">
+                <li class="col_1" style=""><span class="inner"><span class="thumbnail CENTER"><a href="/whitmer"><span style="display: block; margin-left: auto; margin-right: auto;"><img src="/images/whitmer/Gov_Page_-_GovWhitmer_641584_7.jpg" alt="Governor Whitmer Headshot" title="Governor Whitmer Headshot"></span></a></span><span class="contentBlock "> <a class="bodylinks" href="/whitmer" title="
+">Governor Gretchen Whitmer </a><span class="shortdesc"> </span></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_90956 -->
+             </div>
+            </div>
+            <!-- END MAIN CONTENT AREA ROW -->
+            <!-- END Panel BODY -->
+           </div>
+           <!-- END Panel block-5 -->
+          </div>
+          <!-- Panel -->
+          <div class="panel hide-panel-heading bg bg-gray-light" style="background-image:url();" id="block-6_90935"> 
+           <h2 class="panel-heading"><span class="panel-heading-inner">Local Government Forms</span></h2> 
+           <!-- Panel BODY -->
+           <div class="panel-body">
+            <!-- State Of Michigan - Fri Apr 26 13:40:58 2019 --> 
+            <!-- BEGIN MAIN CONTENT AREA ROW -->
+            <div class="row row-eq-height">
+             <div class="row-eq-height col-sm-6 col-sm-offset-3">
+              <!-- ID COMPONENT_98098 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_98098" class="comp list show-desc-mobile list-no-ctitle        list-read-more-primary-1 list-read-more-block              item-img-center img-icon          first-featured first-featured-centered   first-like-ctitle-small">
+               <h2 class="cTitle" style="">Local Government Forms block</h2> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList NONE ">
+                <li class="contentItem" style=""><span class="inner"><span class="thumbnail CENTER"><a href="/localgovforms"><span style="display: block; margin-left: auto; margin-right: auto;"><img src="/images/som/symbolicons-iconExecutive_509728_7.png" alt="executive icon" title="executive icon"></span></a></span><span class="contentBlock "> <a class="bodylinks" href="/localgovforms" title=" Stay up to date on the latest forms for local government. Search for forms by category and departments. 
+">Forms for Local Government </a><span class="shortdesc"><p>Stay up to date on the latest forms for local government. Search for forms by category and departments.</p> <span class="moreLink"><a title="Forms for Local Government" href="/localgovforms">&nbsp;View Forms</a></span></span></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_98098 -->
+             </div>
+            </div>
+            <!-- END MAIN CONTENT AREA ROW -->
+            <!-- END Panel BODY -->
+           </div>
+           <!-- END Panel block-6 -->
+          </div>
+          <!-- Panel -->
+          <div class="panel bg bg-primary-2 panel-body-padding-25 panel-heading-centered" style="background-image:url();" id="block-7_90935"> 
+           <h2 class="panel-heading"><span class="panel-heading-inner">Related Resources</span></h2> 
+           <!-- Panel BODY -->
+           <div class="panel-body">
+            <!-- State Of Michigan - Fri Apr 26 13:40:58 2019 --> 
+            <!-- BEGIN MAIN CONTENT AREA ROW -->
+            <div class="row row-eq-height">
+             <div class="row-eq-height col-sm-4 ">
+              <!-- ID COMPONENT_92205 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_92205" class="comp standard  list         list-image-overlay              first-featured   first-like-ctitle-small  first-like-ctitle-small padding-0" style=" background-image:url(https://www.michigan.gov/images/som/9975954_517890_7.jpg);"> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList   ">
+                <li class="col_1" style=""><span class="inner"><span class="thumbnail CENTER"><a href="/som/0,4669,7-192-29938_54272---,00.html"><span style="display: block; margin-left: auto; margin-right: auto;"><img src="/images/som/9975954_517890_7.jpg" alt="Charts and graphs on a desk with notepad." title="Charts and graphs on a desk with notepad."></span></a></span><span class="contentBlock "> <a class="bodylinks" href="/som/0,4669,7-192-29938_54272---,00.html" title=" Access to data and information from state of Michigan agencies. 
+">Michigan Data Store </a><span class="shortdesc"><p>Access to data and information from state of Michigan agencies.</p> </span></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_92205 -->
+             </div>
+             <div class="row-eq-height col-sm-4 ">
+              <!-- ID COMPONENT_92206 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_92206" class="comp standard  list                     list-read-more-primary-2 list-read-more-left">
+               <h2 class="cTitle" style="">DEPARTMENTS</h2> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList  DISC ">
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/mdard" title=" .link-spacing {
+ padding-bottom: 20px;
+ }
+ 
+ The Michigan Department of Agriculture &amp; Rural Development (MDARD) works to assure food safety, protect animal and plant health, sustain environmental stewardship, provide consumer protection, enable rural development and foster efficient administration operations through service, partnership and collaboration. 
+
+  MDARD Organization  
+
+  MDARD FOIA  
+
+   Contact MDARD   
+">Agriculture and Rural Development </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/ag" title=" .link-spacing {
+ padding-bottom: 20px;
+ }
+ 
+ The Michigan Attorney General is the top lawyer for the State of Michigan. When public legal matters arise, the Attorney General’s Office renders opinions on matters of law, and provides legal counsel for the legislature and for each officer, department, board, and commission of state government. The Attorney General’s Office provides legal representation in court actions and assists in the conduct of official hearings held by state agencies. 
+
+  AG Organization  
+
+  AG FOIA  
+
+   Contact AG   
+">Attorney General </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/mdcr/" title=" .link-spacing {
+ padding-bottom: 20px;
+ }
+ 
+ The Michigan Department of Civil Rights (MDCR), investigates and resolves discrimination complaints and works to prevent discrimination through educational programs that promote voluntary compliance with civil rights laws. 
+
+  MDCR Organization  
+
+  MDCR FOIA  
+
+   Contact MDCR   
+">Civil Rights </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/mdcs/" title=" .link-spacing {
+ padding-bottom: 20px;
+ }
+ 
+ The Michigan Civil Service Commission (MCSC) is a bipartisan commission that regulates conditions of employment for classified civil service workers in all of the departments of the executive branch of state government. 
+
+  MCSC Organization  
+
+  MCSC FOIA  
+
+   Contact MCSC   
+">Civil Service Commission </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/corrections/" title=" .link-spacing {
+ padding-bottom: 20px;
+ }
+ 
+ The Michigan Department of Corrections (MDOC) administers Michigan's adult prison, probation, and parole systems. The department has jurisdiction over all adults convicted of felonies who are sentenced to prison. Convicted felons who are not sentenced to prison terms are either sentenced to a county jail term or are supervised in the community through a system called probation. Probation services for felons are provided by the department for the various felony courts in Michigan. 
+
+  MDOC Organization  
+
+  MDOC FOIA  
+
+   Contact MDOC   
+">Corrections </a></span></span></li> 
+               </ul>
+               <span class="moreLink"><a title="All Departments DEPARTMENTS" href="/som/0,4669,7-192-30045---,00.html">All Departments</a></span>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_92206 -->
+             </div>
+             <div class="row-eq-height col-sm-4 ">
+              <!-- ID COMPONENT_92204 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_92204" class="comp standard  list list-read-more-next list-no-bullets">
+               <h2 class="cTitle" style="">SITES AND INFORMATION</h2> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList  NONE ">
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/som/0,4669,7-192-29701---A,00.html" title="State Directory List">State Directory List </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/som/0,4669,7-192-29938_68915---,00.html" title="Government Places">Government Places </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/flaghonors" title=" Lorem Ipsum...more 
+">Flag Honors </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/som/0,4669,7-192-29938_30245---,00.html" title="Facts &amp; Symbols">Facts &amp; Symbols </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/dtmb/0,1607,7-150-9141_13135---,00.html" title=" Lorem Ipsum...more 
+">Shop Surplus! </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/openmichigan" title=" Lorem Ipsum...more 
+">Open Michigan </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="https://transparency.michigan.gov" target="_blank" title="Transparency &amp; Accountability">Transparency &amp; Accountability </a></span></span></li>
+                <li class="col_1" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/midashboard" title=" Lorem Ipsum...more 
+">Michigan Dashboard </a></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_92204 -->
+             </div>
+            </div>
+            <!-- END MAIN CONTENT AREA ROW -->
+            <!-- END Panel BODY -->
+           </div>
+           <!-- END Panel block-7 -->
+          </div>
+          <!-- END Panel GROUP -->
+         </div>
+         <!-- END Panel COMPONENT -->
+        </div>
+        <!-- /ID COMPONENT_90935 -->
+       </div>
+      </div>
+      <!-- END MAIN CONTENT AREA ROW --> 
+      <!-- Body End --> 
+     </div> 
+     <!-- START RIGHT_NAV 26847__26847__29701 ~ 7-192-26847__26847__29701--- ~ 7-192-26847__26847__29701--- --> 
+     <!-- State Of Michigan - Fri May 31 17:53:14 2019 --> 
+     <!-- BEGIN RIGHTNAV HTML CODE  --> 
+     <!-- Agency category -->
+     <!-- Begin Global Nav section RD -->
+     <!-- End Global Nav section RD -->
+     <!-- End My Interests/RightNav Links/Related Content/Right Links --> 
+     <!-- Cache Debug Info
+
+--> 
+     <!-- END RIGHT_NAV --> 
+     <!-- /div --> 
+    </div>
+    <!-- /contentWrapper --> 
+   </div>
+   <!-- /bodyWrapper --> 
+   <!-- BOTTOMNAV --> 
+   <!-- BEGIN FOOTER RD --> 
+   <div id="footerArea" role="contentinfo" style="clear: both"> 
+    <!-- begin expanded footer -->
+    <div id="expandedFooter">
+     <div id="cat_72339" class="footer_1">
+      <h2>Michigan.gov logo</h2>
+      <ul>
+       <li><a href="/som"><img src="/images/som/somFooterLogoBOW2015_491229_7.png" alt="Michigan.gov"></a></li>
+      </ul>
+     </div>
+     <div id="agencylinks" class="footer_1">
+      <ul>
+       <li><a href="/som/0,4669,7-192-39925---,00.html">Foreign Languages</a></li>
+       <li><a href="/disabilityresources">Disability Resources</a></li>
+      </ul>
+     </div>
+     <div id="policylinks" class="footer_1">
+      <ul>
+       <li><a href="/">Michigan.gov Home</a></li>
+       <li><a href="/adaform">ADA</a></li>
+       <li><a href="/minewswire">Michigan News</a></li>
+       <li><a href="/som/0,4669,7-192--281460--,00.html">Policies</a></li>
+      </ul>
+     </div>
+    </div>
+    <br>
+    <span class="copyright"><br>Copyright 2019 State of Michigan</span>
+    <!-- end expanded footer -->
+    <script type="text/javascript">
+if (typeof jQuery == 'undefined') {
+    document.querySelector('body').classList.remove('matching-heights-processing');
+	document.getElementById("noAdBlock").style.display = "block";
+}
+</script> 
+   </div> 
+   <!--END DIV CONTAINER--> 
+  </div> 
+  <!-- Mega Menu Block --> 
+  <div id="megaMenuBlock"> 
+   <div id="megaMenuSubLinksBlock_container"> 
+    <div class="container"> 
+     <div class="col-xs-3"> 
+      <div id="megaMenuLogoBlock"> 
+       <a href="/som"> <img src="/images/som/final_logo_migov_white_526452_7.png" class="img-responsive logo" alt="State of Michigan "></a> 
+      </div> 
+     </div> 
+     <div class="col-xs-9"> 
+      <div id="megaMenuSubLinksBlockBreadCrumb"></div> 
+      <div id="megaMenuSubLinksBlock"></div> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="megaMenuSearchBlock"></div> 
+  </div> 
+  <style type="text/css">
+
+</style> 
+  <!-- stmiws101.prdcloud.fms.ibmcloud.com rjp NT -->  
+ </body>
+</html>

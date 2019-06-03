@@ -1,0 +1,2000 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<html lang="en" dir="ltr" version="HTML+RDFa 1.1" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+ <head profile="http://www.w3.org/1999/xhtml/vocab"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <link rel="shortcut icon" href="https://lib.ku.edu/misc/favicon.ico" type="image/vnd.microsoft.icon"> 
+  <script type="text/javascript" async src="//25livepub.collegenet.com/scripts/spuds.js"></script> 
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"> 
+  <meta name="description" content="[view:service_alert=page]"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="generator" content="Drupal 7 (http://drupal.org)"> 
+  <link rel="canonical" href="https://lib.ku.edu/"> 
+  <link rel="shortlink" href="https://lib.ku.edu/node/1436"> 
+  <meta name="twitter:site" content="@kulibraries"> 
+  <meta name="twitter:site:id" content="34367389"> 
+  <meta name="twitter:creator" content="@kulibraries"> 
+  <meta name="twitter:creator:id" content="34367389"> 
+  <meta name="twitter:url" content="https://lib.ku.edu/"> 
+  <meta name="twitter:title" content="Home"> 
+  <meta name="twitter:description" content="[view:service_alert=page]"> 
+  <title>Home | Libraries</title> 
+  <link type="text/css" rel="stylesheet" href="https://lib.ku.edu/sites/lib.ku.edu/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://lib.ku.edu/sites/lib.ku.edu/files/css/css_hny2x3DwQRvoN0L9_hF1pNXZ6R0sehPFzkD454JYslw.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://lib.ku.edu/sites/lib.ku.edu/files/css/css_U-IafczI0PxlyK8oDyptulZmh8c8pEIBZmYrBHr_YUw.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://lib.ku.edu/sites/lib.ku.edu/files/css/css_hGuXD-HVLS8YUg6afz2ovznhlnGwnefgZuWKhHogwwE.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://lib.ku.edu/sites/lib.ku.edu/files/css/css_RVSiCJZXgmag5-ezItK0yt-RMJI6FEBih-1fHm5_Rbc.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="//webmedia.ku.edu/js/jqueryplugins/fancybox/1.3.4/fancybox/jquery.fancybox-1.3.4.css" media="all"> 
+  <!--[if (lt IE 9)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="https://lib.ku.edu/sites/lib.ku.edu/files/css/css_KCNZ7YudgplVMn0e5YXrEptF8K7nkEFZt5Yrs5EjYM0.css" media="all" />
+<![endif]--> 
+  <!--[if gte IE 9]><!--> 
+  <link type="text/css" rel="stylesheet" href="https://lib.ku.edu/sites/lib.ku.edu/files/css/css_q1-cG5nWJ2H6cdY5qxki_uxMYdFice2J0E07_g6DwU8.css" media="all"> 
+  <!--<![endif]--> 
+  <!--[if IE 9]>
+<link type="text/css" rel="stylesheet" href="https://lib.ku.edu/sites/lib.ku.edu/files/css/css_zfOtCRQ8jFeDKfb0kFn-sntZxzW-lu9qh-pSa-WKuAg.css" media="all" />
+<![endif]--> 
+  <!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="https://lib.ku.edu/sites/lib.ku.edu/files/css/css_zeOf54dBRBUvGvXs80AgUs2bskM5zMTN-DgnX835F_I.css" media="all" />
+<![endif]--> 
+  <!--[if lt IE 8]>
+<link type="text/css" rel="stylesheet" href="https://lib.ku.edu/sites/lib.ku.edu/files/css/css_YNPdRbHkO68M6KPpZWM9ZSUgpQ4sKpUp-VrdaBc5P5w.css" media="all" />
+<![endif]--> 
+  <link type="text/css" rel="stylesheet" href="https://lib.ku.edu/sites/all/themes/ku_template_2012_3col/css/print.css?pqj7oy" media="print"> 
+  <link rel="stylesheet" href="//webmedia.ku.edu/templates/cms/2012/common/common.css" media="all"> 
+  <link rel="stylesheet" href="//webmedia.ku.edu/templates/cms/2012/3col/cms.css" media="all"> 
+  <link href="https://fonts.googleapis.com/css?family=Raleway:200,200i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet"> 
+  <script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script> 
+  <script type="text/javascript" src="https://lib.ku.edu/misc/jquery.js?v=1.4.4"></script> 
+  <script type="text/javascript" src="https://lib.ku.edu/misc/jquery-extend-3.4.0.js?v=1.4.4"></script> 
+  <script type="text/javascript" src="https://lib.ku.edu/misc/jquery.once.js?v=1.2"></script> 
+  <script type="text/javascript" src="https://lib.ku.edu/misc/drupal.js?pqj7oy"></script> 
+  <script type="text/javascript" defer src="//webmedia.ku.edu/templates/cms/2012/common/25live.cms.js"></script> 
+  <script type="text/javascript" src="//webmedia.ku.edu/js/jqueryplugins/cyclefull-2.9/jquery.cycle.29994.all.js"></script> 
+  <script type="text/javascript" src="//webmedia.ku.edu/js/matchMedia/matchMedia.js"></script> 
+  <script type="text/javascript" src="//webmedia.ku.edu/templates/cms/2012/common/ku_common.js"></script> 
+  <script type="text/javascript" src="//webmedia.ku.edu/templates/cms/2012/common/kujq.js"></script> 
+  <script type="text/javascript" src="https://lib.ku.edu/profiles/kudrupal/modules/ku/ku_brand2017/brand2017-preview.js?pqj7oy"></script> 
+  <script type="text/javascript" src="//webmedia.ku.edu/js/jqueryplugins/cookie/jquery.cookie.js"></script> 
+  <script type="text/javascript" src="//webmedia.ku.edu/templates/cms/2012/common/widgets.js"></script> 
+  <script type="text/javascript" src="https://lib.ku.edu/sites/all/themes/omega/omega/js/jquery.formalize.js?pqj7oy"></script> 
+  <script type="text/javascript" src="https://lib.ku.edu/sites/all/themes/omega/omega/js/omega-mediaqueries.js?pqj7oy"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ku_template_2012_3col","theme_token":"TNqEvxdXpnf057LrmxMYLjDSx6JqEb795WK_5fk1xw8","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/webmedia.ku.edu\/templates\/cms\/2012\/common\/25live.cms.js":1,"\/\/webmedia.ku.edu\/js\/jqueryplugins\/cyclefull-2.9\/jquery.cycle.29994.all.js":1,"\/\/webmedia.ku.edu\/js\/matchMedia\/matchMedia.js":1,"\/\/webmedia.ku.edu\/templates\/cms\/2012\/common\/ku_common.js":1,"\/\/webmedia.ku.edu\/templates\/cms\/2012\/common\/kujq.js":1,"profiles\/kudrupal\/modules\/ku\/ku_brand2017\/brand2017-preview.js":1,"\/\/webmedia.ku.edu\/js\/jqueryplugins\/cookie\/jquery.cookie.js":1,"\/\/webmedia.ku.edu\/templates\/cms\/2012\/common\/widgets.js":1,"sites\/all\/themes\/omega\/omega\/js\/jquery.formalize.js":1,"sites\/all\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/themes\/ku_template_2012_3col\/css\/base.css":1,"modules\/aggregator\/aggregator.css":1,"profiles\/kudrupal\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"modules\/comment\/comment.css":1,"profiles\/kudrupal\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/kudrupal\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/kudrupal\/modules\/contrib\/views\/css\/views.css":1,"profiles\/kudrupal\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/kudrupal\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/kudrupal\/modules\/ku\/ku_whyku\/theme\/ku-whyku-3col.css":1,"profiles\/kudrupal\/modules\/ku\/ku_static\/theme\/ku-static.css":1,"profiles\/kudrupal\/modules\/ku\/ku_today\/theme\/ku-today.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-reset.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-mobile.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-alpha.css":1,"sites\/all\/themes\/omega\/omega\/css\/formalize.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-text.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-branding.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-menu.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-forms.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-visuals.css":1,"\/\/webmedia.ku.edu\/js\/jqueryplugins\/fancybox\/1.3.4\/fancybox\/jquery.fancybox-1.3.4.css":1,"ie::normal::sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/narrow\/alpha-default-narrow-12.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/wide\/alpha-default-wide-12.css":1,"sites\/all\/themes\/ku_template_2012_3col\/css\/ie9.css":1,"sites\/all\/themes\/ku_template_2012_3col\/css\/ie8.css":1,"sites\/all\/themes\/ku_template_2012_3col\/css\/ielt8.css":1,"sites\/all\/themes\/ku_template_2012_3col\/css\/print.css":1}},"better_exposed_filters":{"views":{"service_alert":{"displays":{"page":{"filters":[]}}},"location_daily_hours":{"displays":{"page":{"filters":[]}}},"homepage_feature":{"displays":{"block_3":{"filters":[]},"block_1":{"filters":[]},"block_2":{"filters":[]},"page_1":{"filters":[]},"page_2":{"filters":[]}}},"feed_events":{"displays":{"block_5":{"filters":[]}}},"exhibits":{"displays":{"block_2":{"filters":[]}}},"news_articles_list":{"displays":{"block":{"filters":[]}}}}},"urlIsAjaxTrusted":{"\/":true},"omega":{"layouts":{"primary":"normal","order":["narrow","normal","wide"],"queries":{"narrow":"all and (min-width: 720px) and (min-device-width: 720px), (max-device-width: 800px) and (min-width: 720px) and (orientation:landscape)","normal":"all and (min-width: 960px) and (min-device-width: 960px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)","wide":"all and (min-width: 1200px)"}}}});
+//--><!]]>
+</script> 
+  <!--[if lt IE 9]>
+        <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <style type="text/css">
+                        body {background: transparent url('https://lib.ku.edu/sites/lib.ku.edu/files/images/template/lib-header-dark-edge.jpg') no-repeat center 30px;}
+                </style>
+        <![endif]--> 
+  <style type="text/css">
+@media all and (min-width: 720px) {
+                body {background: transparent url('https://lib.ku.edu/sites/lib.ku.edu/files/images/template/lib-header-dark-edge.jpg') no-repeat center 30px;}
+}
+@media all and (min-width: 480px) and (max-width: 719px) {
+                body {background: transparent url('https://lib.ku.edu/sites/lib.ku.edu/files/images/template/watson.image_.header-480.jpg') no-repeat center 30px;}
+}
+@media all and (min-width: 320px) and (max-width: 479px) {
+                body {background: transparent url('https://lib.ku.edu/sites/lib.ku.edu/files/images/template/watson.image_.header-320.jpg') no-repeat center 30px;}
+}
+                .site-name, .site-name a {color: #444444;}
+                .site-slogan, .site-slogan a {color: #;}
+</style> 
+  <style type="text/css">
+            /* split a list across 3 columns */
+@media all and (min-width: 720px) {
+  ul.columns-3 {
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-count: 3;
+    -webkit-column-gap: 100px;
+    -moz-column-gap: 10px;
+    column-gap: 10px;
+    padding-left: none;
+  }
+
+  ul.columns-3 li {
+    list-style: none;
+  }
+}
+
+#springer-journals_filter {
+  padding-bottom: 15px;
+}
+
+/* Proxy link styles for off-campus access page */
+.proxy-link { display: inline-block; padding: 5px; background-color: #eee; font-family: "Menlo","DejaVu Sans Mono","Liberation Mono","Consolas","Ubuntu Mono","Courier New","andale mono","lucida console",monospace;}
+.proxy-url { font-weight: bold; color: #ff3042; }
+.proxy-http { background-color: #666; color: #66ff66; }
+
+/* CSS for /about/pressroom views */
+
+.view-publication-links .views-row {
+    display: inline-block;
+    margin: 5px;
+}
+        </style> 
+  <!-- Custom HEAD HTML --> 
+  <meta name="google-site-verification" content="aLliRqQKwgmwhXOtfsWElxMftDjJXRhu13J7VCfOsd8"> 
+  <meta name="google-site-verification" content="nunRwndek4Zf3EBZMt0C471POpNKYklShH4hlGhGFWw"> 
+  <link type="text/css" rel="stylesheet" href="https://libapps.ku.edu/assets/css/libmainprod.css?20190211"> 
+  <link type="text/css" rel="stylesheet" href="https://webmedia.ku.edu/js/jqueryplugins/dataTables-1.8.1/media/css/demo_table_jui.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://webmedia.ku.edu/js/jqueryui/jquery-ui-themes-1.7.2/themes/smoothness/jquery-ui.css" media="all"> 
+  <script type="text/javascript" src="https://webmedia.ku.edu/js/jqueryplugins/dataTables-1.8.1/media/js/jquery.dataTables.min.js"></script> 
+  <script type="text/javascript" src="https://webmedia.ku.edu/js/jqueryplugins/cookie/jquery.cookie.js?mwuzvr"></script> 
+  <script type="text/javascript" src="https://lib.ku.edu/sites/lib.drupal.ku.edu/files/files/js/other.js"></script> 
+  <script type="text/javascript">
+             /* Custom site-specific Javascript */
+$kuj(function(){  $kuj('#edit-search-block-form--2').attr('placeholder', 'Search website'); });
+
+// Tracking
+$kuj(function(){
+/*
+    $kuj('#lib-search-home').submit(function(){
+        var query = $kuj('#lib-search-home #q').val();
+        ga('send', 'event', 'Primo Search', 'home', query);
+    });
+    $kuj('#lib-search-articles').submit(function(){
+        var query = $kuj('#lib-search-articles #q').val();
+        ga('send', 'event', 'Primo Search', 'articles', query);
+    });
+    $kuj('#lib-search-footer').submit(function(){
+        var query = $kuj('#lib-search-footer #q-footer').val();
+        ga('send', 'event', 'Primo Search', 'footer', query);
+    });
+*/
+    $kuj('#lib-search-home').submit(function(){
+        var query = $kuj('#lib-search-home #primoQueryTemp').val();
+        ga('send', 'event', 'Primo Search', 'home', query);
+    });
+    $kuj('#lib-search-articles').submit(function(){
+        var query = $kuj('#lib-search-articles #primoQueryTemp').val();
+        ga('send', 'event', 'Primo Search', 'articles', query);
+    });
+    $kuj('#lib-search-footer').submit(function(){
+        var query = $kuj('#lib-search-footer #primoQueryTemp-footer').val();
+        ga('send', 'event', 'Primo Search', 'footer', query);
+    });
+
+    $kuj('#search-block-form').submit(function(){
+        var query = $kuj('#search-block-form #edit-search-block-form--2').val();
+        ga('send', 'event', 'Site Search', query);
+    });
+    $kuj('#block-ku-static-ku-static-unitfooter-links a').click(function(){
+        var text = $kuj(this).text();
+        ga('send', 'event', 'Footer Click', text);
+    });
+
+    $kuj('.view-database-subjects .view-content a').click(function(){
+        var text = $kuj(this).text();
+        ga('send', 'event', 'DB Subject Click', text);
+    });
+
+    $kuj('#zone-content').delegate('a.lib-db', 'click', function(){
+      var title = $kuj(this).text();
+      var proxy = 'Not Proxied';
+      if ($kuj.contains($kuj(this).attr('href'), 'www2.lib.ku.edu')){
+        proxy = 'Proxied';
+      }
+      ga('send', 'event', 'DB Click', proxy, title);
+    });
+
+   $kuj('div.db-starting-points a.lib-db').click(function(){
+      var title = $kuj(this).text();
+      ga('send', 'event', 'DB Staring Point Click', title);
+    });
+
+    $kuj('.image-collection-list .image-collection-title a').click(function(){
+        var title = $kuj(this).text();
+        ga('send', 'event', 'Image Collection Click', title);
+    });
+
+    $kuj('#main-menu a').click(function(){
+        var text = $kuj(this).text();
+        ga('send', 'event', 'Menu Click', text);
+    });
+
+    $kuj('a.lib-reserve-room').click(function(){
+        var url = $kuj(this).attr('href');
+        ga('send', 'event', 'Room Reservation', url);
+    });
+
+    // Location pages clicks
+    $kuj('body.context-locations #block-system-main a').click(function(){
+        var text = $kuj(this).text();
+        ga('send', 'event', 'Locations', text);
+    });
+
+    // Sidebar link clicks
+    $kuj('#region-unit-sidebar a').click(function(){
+        var text = $kuj(this).text();
+        ga('send', 'event', 'Sidebar', text);
+    });
+
+
+    var sponsor = $kuj('li.active-trail div.active a.active:contains("Official Sponsor of")');
+    if (sponsor.length == 1){
+        var page = sponsor.text();
+        var page = page.replace(/Official Sponsor of (the )?/, "");
+        $kuj('#region-content a').click(function(){
+            var link = $kuj(this).text();
+            ga('send', 'event', 'Sponsor Page Click', page, link);
+        });
+    }
+
+});
+
+/* removed April 2019
+// Computer Availability
+ $kuj(function(){
+    if ($kuj('.computer-availability').length > 0){
+      $kuj.ajax({
+        url: "//dept.ku.edu/~appslibk/libcomputers/index.php",
+        success: function(data){
+          $kuj('.computer-availability').each(function(){
+            for (var loc in data){
+              var ca = $kuj('.computer-availability-' + loc);
+              if (ca.length > 0){
+                ca.append(' <div class="computer-availability-statement"><span class="computer-availability-total">' + data[loc].available + '</span> available now</div>');
+              }
+            }
+          });
+        },
+        dataType: "jsonp"
+      }); 
+    }
+  });
+*/
+
+// Subjects Toggle
+$kuj(function(){
+    $kuj('.more-db-toggle-link').click(function(event){
+        event.preventDefault();
+        $kuj(this).toggleClass('open');
+        $kuj('.db-subject-list').slideToggle('fast');
+    });
+});
+            </script> 
+  <!--[if lte IE 7]>
+        <script src="//webmedia.ku.edu/js/ie6/warning.js"></script><script>window.onload=function(){e("js/ie6/")}</script>
+        <![endif]--> 
+ </head> 
+ <body audience="a" class="html not-front not-logged-in no-sidebars page-node page-node- page-node-1436 node-type-page context-blue-harvest ku-template-2012-3col"> 
+  <div id="campusalertarea"></div> 
+  <div id="skip-link"> 
+   <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a> 
+  </div> 
+  <div class="region region-page-top" id="region-page-top"> 
+   <div class="region-inner region-page-top-inner"> 
+   </div> 
+  </div> 
+  <div class="page clearfix" id="page"> 
+   <header id="section-header" class="section section-header"> 
+    <div id="zone-ku-eyebrow-wrapper" class="zone-wrapper zone-ku-eyebrow-wrapper clearfix"> 
+     <div id="zone-ku-eyebrow" class="zone zone-ku-eyebrow clearfix container-12"> 
+      <div class="grid-4 region region-ku-eyebrow-first" id="region-ku-eyebrow-first"> 
+       <div class="region-inner region-ku-eyebrow-first-inner"> 
+        <div class="block block-ku-static block-ku-static-eyebrow-homelink block-ku-static-ku-static-eyebrow-homelink odd block-without-title" id="block-ku-static-ku-static-eyebrow-homelink"> 
+         <div class="block-inner clearfix"> 
+          <div class="content clearfix"> 
+           <a href="https://ku.edu/">The University of Kansas</a> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div>
+      <div class="grid-8 region region-ku-eyebrow-second" id="region-ku-eyebrow-second"> 
+       <div class="region-inner region-ku-eyebrow-second-inner"> 
+        <div class="block block-ku-static block-ku-static-eyebrow-nav block-ku-static-ku-static-eyebrow-nav odd block-without-title" id="block-ku-static-ku-static-eyebrow-nav"> 
+         <div class="block-inner clearfix"> 
+          <div class="content clearfix"> 
+           <ul class="inline-list" id="ku_main_nav"> 
+            <li id="eyebrow_portal_link"><a href="https://my.ku.edu/" title="Login to the myKU Portal">myKU</a></li> 
+            <li id="eyebrow_email_link"><a href="https://mail.ku.edu/" title="Check your email online">Email</a></li> 
+            <li id="eyebrow_blackboard_link"><a href="https://courseware.ku.edu/" title="Login to Blackboard">Blackboard</a></li> 
+            <li id="eyebrow_enp_link"><a href="https://sa.ku.edu/" title="Login to Enroll and Pay">Enroll &amp; Pay</a></li> 
+            <li id="ku_navigator_link"><a href="/navigator" title="Open the KU Directory">KU Directory</a></li> 
+           </ul> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div>
+    <div id="zone-ku-navigator-wrapper" class="zone-wrapper zone-ku-navigator-wrapper clearfix"> 
+     <div id="zone-ku-navigator" class="zone zone-ku-navigator clearfix container-12"> 
+      <div class="grid-12 region region-ku-navigator-top" id="region-ku-navigator-top"> 
+       <div class="region-inner region-ku-navigator-top-inner"> 
+        <div class="block block-ku-static block-ku-static-nvg-az-links block-ku-static-ku-static-nvg-az-links odd block-without-title" id="block-ku-static-ku-static-nvg-az-links"> 
+         <div class="block-inner clearfix"> 
+          <div class="content clearfix"> 
+           <ol class="inline-list az-list"> 
+            <li><a href="https://ku.edu/az/a">A</a></li> 
+            <li><a href="https://ku.edu/az/b">B</a></li> 
+            <li><a href="https://ku.edu/az/c">C</a></li> 
+            <li><a href="https://ku.edu/az/d">D</a></li> 
+            <li><a href="https://ku.edu/az/e">E</a></li> 
+            <li><a href="https://ku.edu/az/f">F</a></li> 
+            <li><a href="https://ku.edu/az/g">G</a></li> 
+            <li><a href="https://ku.edu/az/h">H</a></li> 
+            <li><a href="https://ku.edu/az/i">I</a></li> 
+            <li><a href="https://ku.edu/az/j">J</a></li> 
+            <li><a href="https://ku.edu/az/k">K</a></li> 
+            <li><a href="https://ku.edu/az/l">L</a></li> 
+            <li><a href="https://ku.edu/az/m">M</a></li> 
+            <li><a href="https://ku.edu/az/n">N</a></li> 
+            <li><a href="https://ku.edu/az/o">O</a></li> 
+            <li><a href="https://ku.edu/az/p">P</a></li> 
+            <li><a href="https://ku.edu/az/q">Q</a></li> 
+            <li><a href="https://ku.edu/az/r">R</a></li> 
+            <li><a href="https://ku.edu/az/s">S</a></li> 
+            <li><a href="https://ku.edu/az/t">T</a></li> 
+            <li><a href="https://ku.edu/az/u">U</a></li> 
+            <li><a href="https://ku.edu/az/v">V</a></li> 
+            <li><a href="https://ku.edu/az/w">W</a></li> 
+            <li><a href="https://ku.edu/az/x">X</a></li> 
+            <li><a href="https://ku.edu/az/y">Y</a></li> 
+            <li><a href="https://ku.edu/az/z">Z</a></li> 
+           </ol> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div>
+      <div class="grid-4 region region-ku-navigator-first" id="region-ku-navigator-first"> 
+       <div class="region-inner region-ku-navigator-first-inner"> 
+        <div class="block block-ku-calendar block-ku-calendar-navigator block-ku-calendar-ku-calendar-navigator odd block-without-title" id="block-ku-calendar-ku-calendar-navigator"> 
+         <div class="block-inner clearfix"> 
+          <div class="content clearfix"> 
+           <script type="text/javascript">
+    function allCalendar(containerId) {
+        var spudId = $Trumba.addSpud({
+            webName : "ku-calendar-calendarkuedu",
+            spudType : "upcoming",
+            url : {
+                events: 5,
+                filterview: "All"
+            },
+            teaserBase : "//calendar.ku.edu",
+            spudId: containerId
+        });
+    }
+
+    function academicsCalendar(containerId) {
+        var spudId = $Trumba.addSpud({
+            webName : "ku-calendar-calendarkuedu",
+            spudType : "upcoming",
+            url : {
+                events: 5,
+                filterview: "KU Directory - Academic and Ceremony"
+            },
+            teaserBase : "//calendar.ku.edu/type/academic_dates",
+            spudId: containerId
+        });
+    }
+
+    function athleticsCalendar(containerId) {
+        var spudId = $Trumba.addSpud({
+            webName : "ku-calendar-calendarkuedu",
+            spudType : "upcoming",
+            url : {
+                events: 5,
+                filterview: "Athletics"
+            },
+            teaserBase : "//calendar.ku.edu/type/athletics",
+            spudId: containerId
+        });
+    }
+</script> 
+           <div class="tabbox calendar-25live"> 
+            <ul class="nav nav-tabs"> 
+             <li class="active"><a href="#calendar-25live-all">All</a></li> 
+             <li><a href="#calendar-25live-academics">Academics</a></li> 
+             <li><a href="#calendar-25live-athletics">Athletics</a></li> 
+            </ul> 
+            <div class="content"> 
+             <div class="tab tab-pane active" id="calendar-25live-all"> 
+              <noscript>
+                Your browser must support JavaScript to view this content. Please enable JavaScript in your browser settings then try again. 
+              </noscript> 
+             </div> 
+             <div class="tab tab-pane" id="calendar-25live-academics"> 
+              <noscript>
+                Your browser must support JavaScript to view this content. Please enable JavaScript in your browser settings then try again. 
+              </noscript> 
+             </div> 
+             <div class="tab tab-pane" id="calendar-25live-athletics"> 
+              <noscript>
+                Your browser must support JavaScript to view this content. Please enable JavaScript in your browser settings then try again. 
+              </noscript> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div>
+      <div class="grid-4 region region-ku-navigator-second" id="region-ku-navigator-second"> 
+       <div class="region-inner region-ku-navigator-second-inner"> 
+        <div class="block block-ku-static block-ku-static-nvg-building-search block-ku-static-ku-static-nvg-building-search odd block-without-title" id="block-ku-static-ku-static-nvg-building-search"> 
+         <div class="block-inner clearfix"> 
+          <div class="content clearfix"> 
+           <!--
+<form class="search_box" action="http://www2.ku.edu/~build/cgi-bin/results" method="get">
+    <fieldset>
+        <legend id="building_search_label"><label for="building_search">Search Buildings</label></legend>
+        <input type="text" name="query" id="building_search" placeholder="Buildings" class="search_field"><input class="icon" type="submit" value="">
+    </fieldset>
+</form>
+--> 
+           <p> <a href="http://maps.ku.edu/" title="Campus Map">Campus Map</a> | <a href="http://admissions.ku.edu/visit/maps.shtml" title="Directions">Directions</a> | <a href="https://ku.edu/about/campuses/" title="KU Campuses">Campuses</a> | <a href="http://www.kuonwheels.ku.edu/" title="KU On Wheels">Buses</a> | <a href="http://www.parking.ku.edu/" title="KU Parking">Parking</a> </p> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="block block-ku-static block-ku-static-nvg-resources-links block-ku-static-ku-static-nvg-resources-links even block-without-title" id="block-ku-static-ku-static-nvg-resources-links"> 
+         <div class="block-inner clearfix"> 
+          <div class="content clearfix"> 
+           <p><a href="http://technology.ku.edu/" title="KU Information Technology">Information Technology</a> | <a href="http://employment.ku.edu/" title="Find employment at KU">Jobs at KU</a></p> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="block block-ku-static block-ku-static-nvg-finances block-ku-static-ku-static-nvg-finances odd block-without-title" id="block-ku-static-ku-static-nvg-finances"> 
+         <div class="block-inner clearfix"> 
+          <div class="content clearfix"> 
+           <div class="sectiontitle">
+            Finances
+           </div> 
+           <p> <a href="http://tuition.ku.edu/" title="Tuition">Tuition</a> | <a href="http://affordability.ku.edu/billing/" title="Bill Payments">Bill Payments</a> | <a href="http://affordability.ku.edu/cs/search.shtml" title="Scholarship Search">Scholarship Search</a><br> <a href="http://affordability.ku.edu/financialaid/" title="Financial Aid">Financial Aid</a> | <a href="http://affordability.ku.edu/financialaid/loans/" title="Loans">Loans</a> | <a href="http://kucard.ku.edu/beak-em-bucks-overview" title="Beak 'em Bucks">Beak 'em Bucks</a> </p> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="block block-ku-static block-ku-static-nvg-weather-module block-ku-static-ku-static-nvg-weather-module even block-without-title" id="block-ku-static-ku-static-nvg-weather-module"> 
+         <div class="block-inner clearfix"> 
+          <div class="content clearfix"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div>
+      <div class="grid-4 region region-ku-navigator-third" id="region-ku-navigator-third"> 
+       <div class="region-inner region-ku-navigator-third-inner"> 
+        <div class="block block-ku-static block-ku-static-nvg-degree-search block-ku-static-ku-static-nvg-degree-search odd block-without-title" id="block-ku-static-ku-static-nvg-degree-search"> 
+         <div class="block-inner clearfix"> 
+          <div class="content clearfix"> 
+           <form class="search_box" action="https://ku.edu/search/" method="get" style="margin-bottom:25px;"> 
+            <fieldset> 
+             <legend id="navigator_ku-search-label" style="display: none;"><label for="navigator_ku-search">Search all KU</label></legend> 
+             <input title="Enter the terms you wish to search for." type="text" id="navigator_ku-search" name="keys" value="" size="15" placeholder="Search all KU" maxlength="128">
+             <input type="submit" aria-label="Perform KU Search" value="" class="icon"> 
+            </fieldset> 
+           </form> 
+           <form class="search_box" action="https://directory.ku.edu/directory/search" method="get" style="margin-bottom:25px;"> 
+            <fieldset> 
+             <legend id="people_search_label"><label for="people_search">People Search</label></legend> 
+             <input type="text" name="searchfor_name" id="people_search" placeholder="People Search" class="search_field">
+             <input class="icon" type="submit" aria-label="Perform People Search" value=""> 
+            </fieldset> 
+           </form> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="block block-ku-static block-ku-static-nvg-course-search block-ku-static-ku-static-nvg-course-search even block-without-title" id="block-ku-static-ku-static-nvg-course-search"> 
+         <div class="block-inner clearfix"> 
+          <div class="content clearfix"> 
+           <form class="search_box" action="https://classes.ku.edu/Classes/CourseSearchAPI.action" method="post"> 
+            <fieldset> 
+             <legend id="courses_search_label"><label for="courses_search">Course Search</label></legend>
+             <input type="hidden" name="searchTerm" value="4132"> 
+             <input type="text" name="classesSearchText" id="courses_search" placeholder="Course Search" class="search_field">
+             <input class="icon" type="submit" aria-label="Perform Course Search" value=""> 
+            </fieldset> 
+           </form> 
+           <p><a href="https://classes.ku.edu/Classes/ExternalDisplay.action" title="Schedule of Classes">Search class sections</a> | <a href="http://online.ku.edu/" title="Online Courses">Online courses</a></p> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="block block-ku-static block-ku-static-nvg-library-search block-ku-static-ku-static-nvg-library-search odd block-without-title" id="block-ku-static-ku-static-nvg-library-search"> 
+         <div class="block-inner clearfix"> 
+          <div class="content clearfix"> 
+           <form class="search_box" method="get" action="https://kuprimo.hosted.exlibrisgroup.com/primo-explore/search" onsubmit="return kuLibSubmitPrimoSearch(this)"> 
+            <script>
+      function kuLibSubmitPrimoSearch(form) {
+        var query = $kuj(form).find('input[name="query"]');
+
+        query.val(
+          'any,contains,' + query.val()
+        );
+
+        return true;
+      }
+    </script> 
+            <fieldset> 
+             <legend id="libraries_search_label"><label for="libraries_search" id="libraries_search_label">Library Search</label></legend> 
+             <input type="text" name="query" id="libraries_search" placeholder="Library Search" class="search_field">
+             <input class="icon" type="submit" aria-label="Perform Libraries Search" value=""> 
+            </fieldset> 
+            <input name="institution" type="hidden" value="KU"> 
+            <input name="vid" type="hidden" value="KU"> 
+            <input name="tab" type="hidden" value="default_tab"> 
+            <input name="search_scope" type="hidden" value="QUICK"> 
+            <input name="highlight" type="hidden" value="true"> 
+            <input name="dum" type="hidden" value="true"> 
+           </form> 
+           <p><a href="https://lib.ku.edu/" title="KU Libraries Homepage">Libraries</a> | <a href="https://lib.ku.edu/hours/" title="Hours and Locations of the Libraries">Hours &amp; locations</a> | <a href="https://lib.ku.edu/askalibrarian/" title="Ask a Librarian a Question">Ask</a></p> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="block block-ku-static block-ku-static-nvg-acad-links block-ku-static-ku-static-nvg-acad-links even block-without-title" id="block-ku-static-ku-static-nvg-acad-links"> 
+         <div class="block-inner clearfix"> 
+          <div class="content clearfix"> 
+           <p> <a href="http://advising.ku.edu/" title="University Advising Center">Advising</a> | <a href="http://catalog.ku.edu/" title="KU Course Catalog">Catalog</a> | <a href="http://www.tutoring.ku.edu/" title="Tutoring Services">Tutors</a><br> <a href="http://www.writing.ku.edu/" title="KU Writing Center">Writing Center</a> | <a href="https://mathematics.ku.edu/help-room" title="Math help room">Math help room</a><br> <a href="http://www.registrar.ku.edu/exams/" title="Exams at the University of Kansas">Finals Schedule</a> | <a href="http://clas.ku.edu/undergrad/tools/gpa" title="GPA Calculator">GPA Calculator</a> </p> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="block block-ku-static block-ku-static-login-link block-ku-static-ku-static-login-link odd block-without-title" id="block-ku-static-ku-static-login-link"> 
+         <div class="block-inner clearfix"> 
+          <div class="content clearfix"> 
+           <a href="/login">CMS Login</a>: 
+           <a href="https://lib.ku.edu/cas">KU Users</a> | 
+           <a href="/user">Non-KU Users</a> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div>
+      <div class="grid-12 region region-ku-navigator-bottom" id="region-ku-navigator-bottom"> 
+       <div class="region-inner region-ku-navigator-bottom-inner"> 
+        <div class="block block-ku-static block-ku-static-nvg-bottom-links block-ku-static-ku-static-nvg-bottom-links odd block-without-title" id="block-ku-static-ku-static-nvg-bottom-links"> 
+         <div class="block-inner clearfix"> 
+          <div class="content clearfix"> 
+           <ul class="inline-list"> 
+            <li><a href="https://ku.edu/" title="KU homepage">KU Home</a></li> 
+            <li><a href="https://ku.edu/about/" title="Find out more about the University of Kansas">About KU</a></li> 
+            <li><a href="https://ku.edu/admissions/" title="Admission information for prosepective students">Admissions</a></li> 
+            <li><a href="http://www.kuathletics.com/" title="KU Athletics">Athletics</a></li> 
+            <li><a href="http://www.kualumni.org/" title="Alumni information">Alumni</a></li> 
+            <li><a href="https://ku.edu/about/campuses/" title="Campus information for KU">Campuses</a></li> 
+            <li><a href="http://connect.ku.edu/" title="Connect to KU through social media">Social Media</a></li> 
+            <li><a href="http://www.kuendowment.org/" title="Give back through KU Endowment">Endowment</a></li> 
+            <li><a href="http://today.ku.edu" title="KU Today">KU Today</a></li> 
+           </ul> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div>
+    <div id="zone-branding-wrapper" class="zone-wrapper zone-branding-wrapper clearfix"> 
+     <div id="zone-branding" class="zone zone-branding clearfix container-12"> 
+      <div class="grid-12 region region-branding" id="region-branding"> 
+       <div class="region-inner region-branding-inner"> 
+        <div class="branding-data clearfix"> 
+         <div class="logo-img"> 
+          <a href="https://ku.edu/" title="KU Homepage"><img src="https://lib.ku.edu/sites/all/themes/ku_template_2012_3col/logo.png" alt="Libraries" id="logo"></a> 
+         </div> 
+         <hgroup class="site-name-slogan"> 
+          <div class="site-name">
+           <a href="/" title="Home">Libraries</a>
+          </div> 
+         </hgroup> 
+        </div> 
+        <div class="block block-search block-form block-search-form odd block-without-title" id="block-search-form"> 
+         <div class="block-inner clearfix"> 
+          <div class="content clearfix"> 
+           <form action="/" method="post" id="search-block-form" accept-charset="UTF-8">
+            <div>
+             <div class="container-inline"> 
+              <h2 class="element-invisible">Search form</h2> 
+              <div class="form-item form-type-textfield form-item-search-block-form"> 
+               <label class="element-invisible" for="edit-search-block-form--2">Search </label> 
+               <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text"> 
+              </div> 
+              <div class="form-actions form-wrapper" id="edit-actions">
+               <input type="submit" id="edit-submit" name="op" value="Search" class="form-submit">
+              </div>
+              <input type="hidden" name="form_build_id" value="form-knKnNWDPTNdYVpFfin_cNGmb4TtAL4uPbPEgyq6Qetw"> 
+              <input type="hidden" name="form_id" value="search_block_form"> 
+             </div> 
+            </div>
+           </form> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div>
+    <div id="zone-menu-wrapper" class="zone-wrapper zone-menu-wrapper clearfix"> 
+     <div id="zone-menu" class="zone zone-menu clearfix container-12"> 
+      <div class="grid-12 region region-menu" id="region-menu"> 
+       <div class="region-inner region-menu-inner"> 
+        <nav class="navigation"> 
+         <ul class="ku_nav" id="main-menu">
+          <li class="menu-380 "><a href="/">Home</a></li> 
+          <li class="menu-529 "><a href="/find-resources" title="Get Articles, Books, Images, Maps &amp; more for your research">Find Resources</a>
+           <ul>
+            <li class="menu-694 "><a href="/find-resources">Find</a></li> 
+            <li class="menu-986 "><a href="/articles-and-databases">Articles &amp; Databases</a></li> 
+            <li class="menu-883 "><a href="http://catalog.lib.ku.edu/cgi-bin/Pwebrecon.cgi?DB=local&amp;PAGE=First" title="">Catalog »</a></li> 
+            <li class="menu-884 "><a href="http://vv6tt6sy5c.search.serialssolutions.com/ejp/?libHash=VV6TT6SY5C#/" title="">e-Journals</a></li> 
+            <li class="menu-898 "><a href="https://guides.lib.ku.edu/" title="">Subject &amp; Course Guides</a></li> 
+            <li class="menu-3489 "><a href="/ku-digital-collections">Digital Collections</a></li> 
+           </ul></li> 
+          <li class="menu-530 "><a href="/services" title="Borrowing, Interlibrary Loan, Library Instruction and more">Services</a>
+           <ul>
+            <li class="menu-3178 "><a href="/services" title="Borrowing, Interlibrary Loan, Library Instruction and more">Services</a></li> 
+            <li class="menu-3179 "><a href="/services/using-the-library">Using the Libraries</a></li> 
+            <li class="menu-3180 "><a href="/services/instruction">Instruction</a></li> 
+            <li class="menu-3181 "><a href="/services/research">Research</a></li> 
+            <li class="menu-3182 "><a href="/services/publish-and-share">Publish and Share</a></li> 
+            <li class="menu-3183 "><a href="/services/community-engagement">Community Engagement</a></li> 
+           </ul></li> 
+          <li class="menu-531 "><a href="/help" title="Research Guides, Tutorials, Writing &amp; Citing Help and more">Help</a>
+           <ul>
+            <li class="menu-3524 "><a href="/help">Start with Us</a></li> 
+            <li class="menu-3950 "><a href="/video-tutorials" title="">Video Tutorials</a></li> 
+            <li class="menu-3526 "><a href="http://guides.lib.ku.edu/research" title="">Subject &amp; Course Guides</a></li> 
+            <li class="menu-3523 "><a href="/ask-librarian">Ask a Librarian</a></li> 
+           </ul></li> 
+          <li class="menu-860 "><a href="/locations-hours" title="Information about Libraries Locations">Locations and Hours</a>
+           <ul>
+            <li class="menu-918 "><a href="/locations-hours">Visit</a></li> 
+            <li class="menu-900 "><a href="/locations/anschutz">Anschutz</a>
+             <ul>
+              <li class="menu-901 "><a href="/locations/anschutz/hours">Hours</a></li> 
+              <li class="menu-906 "><a href="/locations/anschutz/study-spaces">Study spaces</a></li> 
+              <li class="menu-902 "><a href="/locations/anschutz/floormap">Maps and call numbers</a></li> 
+              <li class="menu-956 "><a href="/locations/anschutz/collections">Collections</a></li> 
+              <li class="menu-907 "><a href="/learningstudio">The Learning Studio</a></li> 
+             </ul></li> 
+            <li class="menu-927 "><a href="/locations/art-and-architecture">Art &amp; Architecture</a>
+             <ul>
+              <li class="menu-932 "><a href="/locations/art-and-architecture/hours">Hours</a></li> 
+              <li class="menu-933 "><a href="/locations/art-and-architecture/circulation">Circulation policies</a></li> 
+              <li class="menu-934 "><a href="/locations/art-and-architecture/floormap">Floormap &amp; call numbers</a></li> 
+              <li class="menu-928 "><a href="/locations/art-and-architecture/resources">Resources</a>
+               <ul>
+                <li class="menu-931 "><a href="/locations/art-and-architecture/subject-guides">Subject guides</a></li> 
+                <li class="menu-930 "><a href="/locations/art-and-architecture/electronic-resources">Electronic resources</a>
+                 <ul>
+                  <li class="menu-959 "><a href="/locations/art-and-architecture/electronic-resources/architecture">Architecture Resources</a></li> 
+                  <li class="menu-973 "><a href="/locations/art-and-architecture/electronic-resources/art">Art &amp; Art History Resources</a></li> 
+                  <li class="menu-972 "><a href="/locations/art-and-architecture/electronic-resources/art-education">Art Education Resources</a></li> 
+                  <li class="menu-971 "><a href="/locations/art-and-architecture/electronic-resources/auctions">Auction Resources</a></li> 
+                  <li class="menu-970 "><a href="/locations/art-and-architecture/electronic-resources/design">Design Resources</a></li> 
+                  <li class="menu-969 "><a href="/locations/art-and-architecture/electronic-resources/exhibitions">Exhibitions</a></li> 
+                  <li class="menu-958 "><a href="/locations/art-and-architecture/electronic-resources/general">General Resources</a></li> 
+                  <li class="menu-968 "><a href="/locations/art-and-architecture/electronic-resources/images">Image Resources</a></li> 
+                  <li class="menu-967 "><a href="/locations/art-and-architecture/electronic-resources/indexes">Indexes</a></li> 
+                  <li class="menu-966 "><a href="/locations/art-and-architecture/electronic-resources/jobs">Jobs</a></li> 
+                  <li class="menu-965 "><a href="/locations/art-and-architecture/electronic-resources/library">Libraries and Library Resources</a></li> 
+                  <li class="menu-964 "><a href="/locations/art-and-architecture/electronic-resources/materials">Materials</a></li> 
+                  <li class="menu-963 "><a href="/locations/art-and-architecture/electronic-resources/museums">Museums</a></li> 
+                  <li class="menu-962 "><a href="/locations/art-and-architecture/electronic-resources/online-journals">Online Journals</a></li> 
+                  <li class="menu-961 "><a href="/locations/art-and-architecture/electronic-resources/professional-organizations">Professional Organizations</a></li> 
+                  <li class="menu-960 "><a href="/locations/art-and-architecture/electronic-resources/urban-planning">Urban Planning</a></li> 
+                 </ul></li> 
+               </ul></li> 
+             </ul></li> 
+            <li class="menu-2001 "><a href="/edwards-campus">Edwards</a></li> 
+            <li class="menu-903 "><a href="/locations/music-and-dance">Music &amp; Dance</a>
+             <ul>
+              <li class="menu-916 "><a href="/locations/music-and-dance/hours">Hours</a></li> 
+              <li class="menu-921 "><a href="/locations/music-and-dance/media-facilities">Media facilities</a></li> 
+              <li class="menu-922 "><a href="/locations/music-and-dance/floormap">Floormap &amp; call numbers</a></li> 
+              <li class="menu-917 "><a href="/locations/music-and-dance/collections">Collections</a></li> 
+             </ul></li> 
+            <li class="menu-2003 "><a href="/locations/spahr">Spahr</a>
+             <ul>
+              <li class="menu-3519 "><a href="/locations/spahr/hours">Hours</a></li> 
+              <li class="menu-3528 "><a href="/locations/spahr/study-spaces">Spahr Study Spaces</a></li> 
+              <li class="menu-3527 "><a href="/locations/spahr/floormap" title="">Spahr Floor Map</a></li> 
+              <li class="menu-814 "><a href="https://guides.lib.ku.edu/engineering" title="">Research resources</a></li> 
+             </ul></li> 
+            <li class="menu-862 "><a href="https://spencer.lib.ku.edu" title="">Spencer » </a></li> 
+            <li class="menu-803 "><a href="/locations/watson">Watson</a>
+             <ul>
+              <li class="menu-826 "><a href="/locations/watson/hours">Hours</a></li> 
+              <li class="menu-823 "><a href="/locations/watson/study-spaces">Study spaces</a></li> 
+              <li class="menu-3951 "><a href="/studio-k">Studio K</a></li> 
+              <li class="menu-824 "><a href="/locations/watson/stacks-map">Maps and call numbers</a></li> 
+              <li class="menu-822 "><a href="/locations/watson/collections">Collections</a></li> 
+             </ul></li> 
+           </ul></li> 
+          <li class="menu-721 "><a href="/about" title="News and Information about KU Libraries ">About</a>
+           <ul>
+            <li class="menu-812 "><a href="/about" title="">About the Libraries</a>
+             <ul>
+              <li class="menu-723 "><a href="/about">At a Glance</a></li> 
+              <li class="menu-686 "><a href="/focus-map">KU Libraries Focus Map: 2017-2019</a>
+               <ul>
+                <li class="menu-5353 "><a href="/updates-2017-q3">Updates: 2017, Quarter 3 | July - September</a></li> 
+                <li class="menu-8611 "><a href="/updates-2017-quarter-4-october-december">Updates: 2017, Quarter 4 | October - December</a></li> 
+                <li class="menu-9852 "><a href="/updates-2018-quarter-1-january-march">Updates: 2018, Quarter 1 | January - March</a></li> 
+               </ul></li> 
+              <li class="menu-10704 "><a href="/mission-vision">Mission &amp; Vision</a></li> 
+              <li class="menu-3492 "><a href="/our-organization">Our Organization</a></li> 
+              <li class="menu-685 "><a href="/about/pressroom">Pressroom</a></li> 
+              <li class="menu-763 "><a href="/awards">Awards</a>
+               <ul>
+                <li class="menu-769 "><a href="/awards/rubinstein-mason">Rubinstein/Mason Award</a></li> 
+                <li class="menu-770 "><a href="/awards/anschutz-budig">Anschutz-Budig Outstanding Librarian Award</a></li> 
+                <li class="menu-10705 "><a href="/awards/dasee">Dean's Award for Student Employee Excellence</a></li> 
+                <li class="menu-771 "><a href="/awards/budig">Gretchen and Gene A. Budig Distinguished Librarian Award</a></li> 
+                <li class="menu-772 "><a href="/awards/rosenbloom">Mary McCorison Rosenbloom Fund</a></li> 
+                <li class="menu-773 "><a href="/awards/sanders-scholars">Sanders Scholars Program</a></li> 
+                <li class="menu-1149 "><a href="/staff-awards">Staff Excellence Award</a></li> 
+               </ul></li> 
+              <li class="menu-835 "><a href="/jobs">Job Opportunities</a></li> 
+             </ul></li> 
+            <li class="menu-720 "><a href="/about/staff-directory">People and Departments</a>
+             <ul>
+              <li class="menu-3830 "><a href="/people/acquisitions-and-resource-sharing">Acquisitions &amp; Resource Sharing</a></li> 
+              <li class="menu-3827 "><a href="/people/administration">Administration</a></li> 
+              <li class="menu-3828 "><a href="/people/administrative-services">Administrative Services</a></li> 
+              <li class="menu-3838 "><a href="/people/cataloging-archival-processing">Cataloging &amp; Archival Processing</a></li> 
+              <li class="menu-3841 "><a href="/people/center-faculty-staff-initiatives-engagement">Center for Faculty/Staff Initiatives &amp; Engagement</a></li> 
+              <li class="menu-3842 "><a href="/people/center-graduate-initiatives-engagement">Center for Graduate Initiatives &amp; Engagement</a></li> 
+              <li class="menu-3843 "><a href="/people/center-undergraduate-initiatives-engagement">Center for Undergraduate Initiatives &amp; Engagement</a></li> 
+              <li class="menu-3829 "><a href="/people/communications-advancement-administration" title="">Communications &amp; Advancement</a></li> 
+              <li class="menu-3835 "><a href="/people/conservation">Conservation Services</a></li> 
+              <li class="menu-3832 "><a href="/people/content-development">Content Development</a></li> 
+              <li class="menu-3839 "><a href="/people/metadata-data-discovery-services">Digital Initiatives</a></li> 
+              <li class="menu-3836 "><a href="/people/international-collections">International Collections</a></li> 
+              <li class="menu-3844 "><a href="/people/office-scholarly-communication-copyright">Office of Scholarly Communication &amp; Copyright</a></li> 
+              <li class="menu-10107 "><a href="/reference-services">Reference Services</a></li> 
+              <li class="menu-3837 "><a href="/people/spencer-research-library">Spencer Research Library</a></li> 
+              <li class="menu-3833 "><a href="/people/user-services">User Services</a></li> 
+             </ul></li> 
+            <li class="menu-3698 "><a href="/policies">Policies</a>
+             <ul>
+              <li class="menu-3701 "><a href="/policies/asking-questions-about-ku-libraries-policies-and-procedures">Asking Questions about KU Libraries Policies and Procedures</a></li> 
+              <li class="menu-3703 "><a href="/policies/borrow-renew-return-policies-procedures">Borrow, Renew, Return Policies and Procedures</a></li> 
+              <li class="menu-3702 "><a href="/policies/fines-fees-lost-damage">Fines, Fees, Lost Library Material, and Damage Charges</a></li> 
+              <li class="menu-3706 "><a href="http://policy.ku.edu/libraries/gifts-books-library-materials" title="">Gift Policy</a></li> 
+              <li class="menu-3709 "><a href="https://lib.ku.edu/services/request" title="">Interlibrary Loan Policies »</a></li> 
+              <li class="menu-3700 "><a href="/policies/ku-med-students-faculty-staff">KU Med Students, Faculty, and Staff</a></li> 
+              <li class="menu-3699 "><a href="/policies/ku-students-faculty-staff-affiliates">KU Students, Faculty, Staff, and Affiliates</a></li> 
+              <li class="menu-3704 "><a href="/policies/access-circ-request-services">Library Access, Circulation, and Request Services</a></li> 
+              <li class="menu-3705 "><a href="/policies/other-library-users">Other Library Users</a></li> 
+             </ul></li> 
+            <li class="menu-813 "><a href="/news">News</a></li> 
+            <li class="menu-1125 "><a href="/events">Events</a>
+             <ul>
+              <li class="menu-1153 "><a href="/events" title="">Events</a></li> 
+              <li class="menu-3478 "><a href="http://lib.ku.edu/exhibits" title="">Exhibits</a></li> 
+              <li class="menu-1151 "><a href="/libraries-lecture-series">Gallery Lecture Series</a></li> 
+             </ul></li> 
+            <li class="menu-678 "><a href="/giving">Support the Libraries</a>
+             <ul>
+              <li class="menu-3952 "><a href="/giving/home">Giving</a></li> 
+              <li class="menu-925 "><a href="/giving/areas-of-support">Areas of support</a></li> 
+              <li class="menu-682 "><a href="/giving/board">Board of Advocates</a></li> 
+              <li class="menu-3689 "><a href="/documenting-diverse-experiences">Diversity Funding</a></li> 
+             </ul></li> 
+           </ul></li> 
+         </ul> 
+         <ul class="ku_nav mobile">
+          <li id="mobile_menu_toplink"><a href="#">Menu</a>
+           <ul id="mobile-menu">
+            <li class="menu-380 "><a href="/">Home</a></li> 
+            <li id="submenu-529" class="menu-529   parent-link"><a href="#submenu-529" title="Get Articles, Books, Images, Maps &amp; more for your research">Find Resources</a>
+             <ul>
+              <li class="menu-694 "><a href="/find-resources">Find</a></li> 
+              <li class="menu-986 "><a href="/articles-and-databases">Articles &amp; Databases</a></li> 
+              <li class="menu-883 "><a href="http://catalog.lib.ku.edu/cgi-bin/Pwebrecon.cgi?DB=local&amp;PAGE=First" title="">Catalog »</a></li> 
+              <li class="menu-884 "><a href="http://vv6tt6sy5c.search.serialssolutions.com/ejp/?libHash=VV6TT6SY5C#/" title="">e-Journals</a></li> 
+              <li class="menu-898 "><a href="https://guides.lib.ku.edu/" title="">Subject &amp; Course Guides</a></li> 
+              <li class="menu-3489 "><a href="/ku-digital-collections">Digital Collections</a></li> 
+             </ul></li> 
+            <li id="submenu-530" class="menu-530   parent-link"><a href="#submenu-530" title="Borrowing, Interlibrary Loan, Library Instruction and more">Services</a>
+             <ul>
+              <li class="menu-3178 "><a href="/services" title="Borrowing, Interlibrary Loan, Library Instruction and more">Services</a></li> 
+              <li class="menu-3179 "><a href="/services/using-the-library">Using the Libraries</a></li> 
+              <li class="menu-3180 "><a href="/services/instruction">Instruction</a></li> 
+              <li class="menu-3181 "><a href="/services/research">Research</a></li> 
+              <li class="menu-3182 "><a href="/services/publish-and-share">Publish and Share</a></li> 
+              <li class="menu-3183 "><a href="/services/community-engagement">Community Engagement</a></li> 
+             </ul></li> 
+            <li id="submenu-531" class="menu-531   parent-link"><a href="#submenu-531" title="Research Guides, Tutorials, Writing &amp; Citing Help and more">Help</a>
+             <ul>
+              <li class="menu-3524 "><a href="/help">Start with Us</a></li> 
+              <li class="menu-3950 "><a href="/video-tutorials" title="">Video Tutorials</a></li> 
+              <li class="menu-3526 "><a href="http://guides.lib.ku.edu/research" title="">Subject &amp; Course Guides</a></li> 
+              <li class="menu-3523 "><a href="/ask-librarian">Ask a Librarian</a></li> 
+             </ul></li> 
+            <li id="submenu-860" class="menu-860   parent-link"><a href="#submenu-860" title="Information about Libraries Locations">Locations and Hours</a>
+             <ul>
+              <li class="menu-918 "><a href="/locations-hours">Visit</a></li> 
+              <li class="menu-900 "><a href="/locations/anschutz">Anschutz</a>
+               <ul>
+                <li class="menu-901 "><a href="/locations/anschutz/hours">Hours</a></li> 
+                <li class="menu-906 "><a href="/locations/anschutz/study-spaces">Study spaces</a></li> 
+                <li class="menu-902 "><a href="/locations/anschutz/floormap">Maps and call numbers</a></li> 
+                <li class="menu-956 "><a href="/locations/anschutz/collections">Collections</a></li> 
+                <li class="menu-907 "><a href="/learningstudio">The Learning Studio</a></li> 
+               </ul></li> 
+              <li class="menu-927 "><a href="/locations/art-and-architecture">Art &amp; Architecture</a>
+               <ul>
+                <li class="menu-932 "><a href="/locations/art-and-architecture/hours">Hours</a></li> 
+                <li class="menu-933 "><a href="/locations/art-and-architecture/circulation">Circulation policies</a></li> 
+                <li class="menu-934 "><a href="/locations/art-and-architecture/floormap">Floormap &amp; call numbers</a></li> 
+                <li class="menu-928 "><a href="/locations/art-and-architecture/resources">Resources</a>
+                 <ul>
+                  <li class="menu-931 "><a href="/locations/art-and-architecture/subject-guides">Subject guides</a></li> 
+                  <li class="menu-930 "><a href="/locations/art-and-architecture/electronic-resources">Electronic resources</a>
+                   <ul>
+                    <li class="menu-959 "><a href="/locations/art-and-architecture/electronic-resources/architecture">Architecture Resources</a></li> 
+                    <li class="menu-973 "><a href="/locations/art-and-architecture/electronic-resources/art">Art &amp; Art History Resources</a></li> 
+                    <li class="menu-972 "><a href="/locations/art-and-architecture/electronic-resources/art-education">Art Education Resources</a></li> 
+                    <li class="menu-971 "><a href="/locations/art-and-architecture/electronic-resources/auctions">Auction Resources</a></li> 
+                    <li class="menu-970 "><a href="/locations/art-and-architecture/electronic-resources/design">Design Resources</a></li> 
+                    <li class="menu-969 "><a href="/locations/art-and-architecture/electronic-resources/exhibitions">Exhibitions</a></li> 
+                    <li class="menu-958 "><a href="/locations/art-and-architecture/electronic-resources/general">General Resources</a></li> 
+                    <li class="menu-968 "><a href="/locations/art-and-architecture/electronic-resources/images">Image Resources</a></li> 
+                    <li class="menu-967 "><a href="/locations/art-and-architecture/electronic-resources/indexes">Indexes</a></li> 
+                    <li class="menu-966 "><a href="/locations/art-and-architecture/electronic-resources/jobs">Jobs</a></li> 
+                    <li class="menu-965 "><a href="/locations/art-and-architecture/electronic-resources/library">Libraries and Library Resources</a></li> 
+                    <li class="menu-964 "><a href="/locations/art-and-architecture/electronic-resources/materials">Materials</a></li> 
+                    <li class="menu-963 "><a href="/locations/art-and-architecture/electronic-resources/museums">Museums</a></li> 
+                    <li class="menu-962 "><a href="/locations/art-and-architecture/electronic-resources/online-journals">Online Journals</a></li> 
+                    <li class="menu-961 "><a href="/locations/art-and-architecture/electronic-resources/professional-organizations">Professional Organizations</a></li> 
+                    <li class="menu-960 "><a href="/locations/art-and-architecture/electronic-resources/urban-planning">Urban Planning</a></li> 
+                   </ul></li> 
+                 </ul></li> 
+               </ul></li> 
+              <li class="menu-2001 "><a href="/edwards-campus">Edwards</a></li> 
+              <li class="menu-903 "><a href="/locations/music-and-dance">Music &amp; Dance</a>
+               <ul>
+                <li class="menu-916 "><a href="/locations/music-and-dance/hours">Hours</a></li> 
+                <li class="menu-921 "><a href="/locations/music-and-dance/media-facilities">Media facilities</a></li> 
+                <li class="menu-922 "><a href="/locations/music-and-dance/floormap">Floormap &amp; call numbers</a></li> 
+                <li class="menu-917 "><a href="/locations/music-and-dance/collections">Collections</a></li> 
+               </ul></li> 
+              <li class="menu-2003 "><a href="/locations/spahr">Spahr</a>
+               <ul>
+                <li class="menu-3519 "><a href="/locations/spahr/hours">Hours</a></li> 
+                <li class="menu-3528 "><a href="/locations/spahr/study-spaces">Spahr Study Spaces</a></li> 
+                <li class="menu-3527 "><a href="/locations/spahr/floormap" title="">Spahr Floor Map</a></li> 
+                <li class="menu-814 "><a href="https://guides.lib.ku.edu/engineering" title="">Research resources</a></li> 
+               </ul></li> 
+              <li class="menu-862 "><a href="https://spencer.lib.ku.edu" title="">Spencer » </a></li> 
+              <li class="menu-803 "><a href="/locations/watson">Watson</a>
+               <ul>
+                <li class="menu-826 "><a href="/locations/watson/hours">Hours</a></li> 
+                <li class="menu-823 "><a href="/locations/watson/study-spaces">Study spaces</a></li> 
+                <li class="menu-3951 "><a href="/studio-k">Studio K</a></li> 
+                <li class="menu-824 "><a href="/locations/watson/stacks-map">Maps and call numbers</a></li> 
+                <li class="menu-822 "><a href="/locations/watson/collections">Collections</a></li> 
+               </ul></li> 
+             </ul></li> 
+            <li id="submenu-721" class="menu-721   parent-link"><a href="#submenu-721" title="News and Information about KU Libraries ">About</a>
+             <ul>
+              <li class="menu-812 "><a href="/about" title="">About the Libraries</a>
+               <ul>
+                <li class="menu-723 "><a href="/about">At a Glance</a></li> 
+                <li class="menu-686 "><a href="/focus-map">KU Libraries Focus Map: 2017-2019</a>
+                 <ul>
+                  <li class="menu-5353 "><a href="/updates-2017-q3">Updates: 2017, Quarter 3 | July - September</a></li> 
+                  <li class="menu-8611 "><a href="/updates-2017-quarter-4-october-december">Updates: 2017, Quarter 4 | October - December</a></li> 
+                  <li class="menu-9852 "><a href="/updates-2018-quarter-1-january-march">Updates: 2018, Quarter 1 | January - March</a></li> 
+                 </ul></li> 
+                <li class="menu-10704 "><a href="/mission-vision">Mission &amp; Vision</a></li> 
+                <li class="menu-3492 "><a href="/our-organization">Our Organization</a></li> 
+                <li class="menu-685 "><a href="/about/pressroom">Pressroom</a></li> 
+                <li class="menu-763 "><a href="/awards">Awards</a>
+                 <ul>
+                  <li class="menu-769 "><a href="/awards/rubinstein-mason">Rubinstein/Mason Award</a></li> 
+                  <li class="menu-770 "><a href="/awards/anschutz-budig">Anschutz-Budig Outstanding Librarian Award</a></li> 
+                  <li class="menu-10705 "><a href="/awards/dasee">Dean's Award for Student Employee Excellence</a></li> 
+                  <li class="menu-771 "><a href="/awards/budig">Gretchen and Gene A. Budig Distinguished Librarian Award</a></li> 
+                  <li class="menu-772 "><a href="/awards/rosenbloom">Mary McCorison Rosenbloom Fund</a></li> 
+                  <li class="menu-773 "><a href="/awards/sanders-scholars">Sanders Scholars Program</a></li> 
+                  <li class="menu-1149 "><a href="/staff-awards">Staff Excellence Award</a></li> 
+                 </ul></li> 
+                <li class="menu-835 "><a href="/jobs">Job Opportunities</a></li> 
+               </ul></li> 
+              <li class="menu-720 "><a href="/about/staff-directory">People and Departments</a>
+               <ul>
+                <li class="menu-3830 "><a href="/people/acquisitions-and-resource-sharing">Acquisitions &amp; Resource Sharing</a></li> 
+                <li class="menu-3827 "><a href="/people/administration">Administration</a></li> 
+                <li class="menu-3828 "><a href="/people/administrative-services">Administrative Services</a></li> 
+                <li class="menu-3838 "><a href="/people/cataloging-archival-processing">Cataloging &amp; Archival Processing</a></li> 
+                <li class="menu-3841 "><a href="/people/center-faculty-staff-initiatives-engagement">Center for Faculty/Staff Initiatives &amp; Engagement</a></li> 
+                <li class="menu-3842 "><a href="/people/center-graduate-initiatives-engagement">Center for Graduate Initiatives &amp; Engagement</a></li> 
+                <li class="menu-3843 "><a href="/people/center-undergraduate-initiatives-engagement">Center for Undergraduate Initiatives &amp; Engagement</a></li> 
+                <li class="menu-3829 "><a href="/people/communications-advancement-administration" title="">Communications &amp; Advancement</a></li> 
+                <li class="menu-3835 "><a href="/people/conservation">Conservation Services</a></li> 
+                <li class="menu-3832 "><a href="/people/content-development">Content Development</a></li> 
+                <li class="menu-3839 "><a href="/people/metadata-data-discovery-services">Digital Initiatives</a></li> 
+                <li class="menu-3836 "><a href="/people/international-collections">International Collections</a></li> 
+                <li class="menu-3844 "><a href="/people/office-scholarly-communication-copyright">Office of Scholarly Communication &amp; Copyright</a></li> 
+                <li class="menu-10107 "><a href="/reference-services">Reference Services</a></li> 
+                <li class="menu-3837 "><a href="/people/spencer-research-library">Spencer Research Library</a></li> 
+                <li class="menu-3833 "><a href="/people/user-services">User Services</a></li> 
+               </ul></li> 
+              <li class="menu-3698 "><a href="/policies">Policies</a>
+               <ul>
+                <li class="menu-3701 "><a href="/policies/asking-questions-about-ku-libraries-policies-and-procedures">Asking Questions about KU Libraries Policies and Procedures</a></li> 
+                <li class="menu-3703 "><a href="/policies/borrow-renew-return-policies-procedures">Borrow, Renew, Return Policies and Procedures</a></li> 
+                <li class="menu-3702 "><a href="/policies/fines-fees-lost-damage">Fines, Fees, Lost Library Material, and Damage Charges</a></li> 
+                <li class="menu-3706 "><a href="http://policy.ku.edu/libraries/gifts-books-library-materials" title="">Gift Policy</a></li> 
+                <li class="menu-3709 "><a href="https://lib.ku.edu/services/request" title="">Interlibrary Loan Policies »</a></li> 
+                <li class="menu-3700 "><a href="/policies/ku-med-students-faculty-staff">KU Med Students, Faculty, and Staff</a></li> 
+                <li class="menu-3699 "><a href="/policies/ku-students-faculty-staff-affiliates">KU Students, Faculty, Staff, and Affiliates</a></li> 
+                <li class="menu-3704 "><a href="/policies/access-circ-request-services">Library Access, Circulation, and Request Services</a></li> 
+                <li class="menu-3705 "><a href="/policies/other-library-users">Other Library Users</a></li> 
+               </ul></li> 
+              <li class="menu-813 "><a href="/news">News</a></li> 
+              <li class="menu-1125 "><a href="/events">Events</a>
+               <ul>
+                <li class="menu-1153 "><a href="/events" title="">Events</a></li> 
+                <li class="menu-3478 "><a href="http://lib.ku.edu/exhibits" title="">Exhibits</a></li> 
+                <li class="menu-1151 "><a href="/libraries-lecture-series">Gallery Lecture Series</a></li> 
+               </ul></li> 
+              <li class="menu-678 "><a href="/giving">Support the Libraries</a>
+               <ul>
+                <li class="menu-3952 "><a href="/giving/home">Giving</a></li> 
+                <li class="menu-925 "><a href="/giving/areas-of-support">Areas of support</a></li> 
+                <li class="menu-682 "><a href="/giving/board">Board of Advocates</a></li> 
+                <li class="menu-3689 "><a href="/documenting-diverse-experiences">Diversity Funding</a></li> 
+               </ul></li> 
+             </ul></li> 
+           </ul></li>
+          <li id="mobile_search_toplink"><a href="/search">Search</a>
+           <ul id="mobile-search">
+            <li>
+             <form action="/" method="post" id="search-block-form--2" accept-charset="UTF-8">
+              <div>
+               <div class="container-inline"> 
+                <h2 class="element-invisible">Search form</h2> 
+                <div class="form-item form-type-textfield form-item-search-block-form"> 
+                 <label class="element-invisible" for="edit-search-block-form--4">Search </label> 
+                 <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--4" name="search_block_form" value="" size="15" maxlength="128" class="form-text"> 
+                </div> 
+                <div class="form-actions form-wrapper" id="edit-actions--2">
+                 <input type="submit" id="edit-submit--2" name="op" value="Search" class="form-submit">
+                </div>
+                <input type="hidden" name="form_build_id" value="form-bMSsT9DsXTOix-LcUoioNQeSPrbQpOFmyDk1dTPAks8"> 
+                <input type="hidden" name="form_id" value="search_block_form"> 
+               </div> 
+              </div>
+             </form></li>
+           </ul></li>
+         </ul> 
+        </nav> 
+       </div> 
+      </div> 
+     </div> 
+    </div>
+   </header> 
+   <section id="section-content" class="section section-content"> 
+    <div id="zone-unit-abovecontent-wrapper" class="zone-wrapper zone-unit-abovecontent-wrapper clearfix"> 
+     <div id="zone-unit-abovecontent" class="zone zone-unit-abovecontent clearfix container-12"> 
+     </div> 
+    </div>
+    <div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix"> 
+     <div id="zone-content" class="zone zone-content clearfix container-12"> 
+      <div class="grid-10" id="admintabarea"> 
+       <div class="tabs clearfix"></div> 
+      </div> 
+      <div class="grid-8 region region-content" id="region-content"> 
+       <div class="region-inner region-content-inner"> 
+        <a id="main-content"></a> 
+        <div class="block block-ku-content-types block-ku-degreemenu-block block-ku-content-types-ku-degreemenu-block odd block-without-title" id="block-ku-content-types-ku-degreemenu-block"> 
+         <div class="block-inner clearfix"> 
+          <div class="content clearfix"> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="block block-ku-leftnav block-ku-leftnav-block block-ku-leftnav-ku-leftnav-block even block-without-title" id="block-ku-leftnav-ku-leftnav-block"> 
+         <div class="block-inner clearfix"> 
+          <div class="content clearfix"> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main"> 
+         <div class="block-inner clearfix"> 
+          <div class="content clearfix"> 
+           <article about="/blue-harvest" typeof="sioc:Item foaf:Document" class="node node-page node-promoted node-published node-not-sticky author-shanrathkuedu odd clearfix" id="node-page-1436"> 
+            <span property="dc:title" content="Home" class="rdf-meta element-hidden"></span> 
+            <div class="content clearfix"> 
+             <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+              <div class="field-items">
+               <div class="field-item even" property="content:encoded">
+                <p></p>
+                <div class="view view-service-alert view-id-service_alert view-display-id-page view-dom-id-a7368c484469fa441d075992a5e483db"> 
+                </div> 
+                <div class="libcol4" id="home-search">
+                 <script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+    function searchPrimo() {
+      document.getElementById("primoQuery").value = "any,contains," + document.getElementById("primoQueryTemp").value.replace(/[,]/g, " ");
+      document.forms["searchForm"].submit();
+    }
+  
+//--><!]]>
+</script>
+                 <form action="https://kuprimo.hosted.exlibrisgroup.com/primo-explore/search" class="lib-search lib-search-big" enctype="application/x-www-form-urlencoded; charset=utf-8" id="lib-search-home" method="get" name="searchForm" onsubmit="searchPrimo()" target="_self">
+                  <label class="element-invisible" for="primoQueryTemp">Quick Search: articles, the catalog, more...</label> 
+                  <input name="institution" type="hidden" value="KU">
+                  <input name="vid" type="hidden" value="KU">
+                  <input name="tab" type="hidden" value="default_tab">
+                  <input name="search_scope" type="hidden" value="QUICK">
+                  <input name="highlight" type="hidden" value="true">
+                  <input name="dum" type="hidden" value="true">
+                  <input id="primoQuery" name="query" type="hidden">
+                  <div id="lib-search-wrapper"> 
+                   <div>
+                    <input id="primoQueryTemp" placeholder="Quick Search: articles, the catalog, more..." size="35" type="text" value="">
+                   </div> 
+                   <div>
+                    <input alt="Search" id="go" onclick="searchPrimo()" title="Search" type="button" value="Search">
+                   </div> 
+                  </div> 
+                 </form> 
+                 <div style="margin-top: 10px;">
+                  <a href="http://kuprimo.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?vid=KU" id="what-search">What am I searching?</a> 
+                  <div id="what-search-content" style="display:none"> 
+                   <ul>
+                    <li><strong>Full-text articles</strong> from scholarly journals. For more articles and subject databases, see <a href="/databases">Articles &amp; Databases</a>.</li> 
+                    <li>Everything from the KU <strong>Libraries Catalog</strong>: books, ebooks, videos, manuscripts, &amp; more. Prefer the <a href="https://catalog.lib.ku.edu/cgi-bin/Pwebrecon.cgi?DB=local&amp;PAGE=First">classic Catalog?</a></li> 
+                    <li>Unique KU <strong>digital collections</strong>, Open Access research from <a href="https://kuscholarworks.ku.edu">KU ScholarWorks</a>, and more</li> 
+                   </ul>
+                   <p>Questions, comments, or suggestions about Quick Search? Please <a href="https://ku.libwizard.com/primo-newui-feedback">send us your feedback</a>.</p> 
+                  </div> 
+                 </div> 
+                 <ul class="search-more">
+                  <li><a href="https://kuprimo.hosted.exlibrisgroup.com/primo-explore/search?vid=KU&amp;mode=advanced">Advanced Search</a></li> 
+                  <li><a href="https://kuprimo.hosted.exlibrisgroup.com/primo-explore/browse?vid=KU" title="Browse catalog by call number, title, subject, author">Browse By...</a></li> 
+                 </ul>
+                </div> 
+                <div class="librow clearfix"> 
+                 <div class="libcol2" id="home-find"> 
+                  <h2><a href="/find-resources">Find</a></h2> 
+                  <ul>
+                   <li><a href="/articles-and-databases" id="dbaz">Articles and Databases</a></li> 
+                   <li><a href="https://catalog.lib.ku.edu/cgi-bin/Pwebrecon.cgi?DB=local&amp;PAGE=First">Library Catalog</a></li> 
+                   <!--<li><a href="/voyager-services-august-2017">Library Catalog</a></li>--> 
+                   <li><a href="http://vv6tt6sy5c.search.serialssolutions.com/ejp/?libHash=VV6TT6SY5C#/">e-Journals</a></li> 
+                  </ul>
+                 </div> 
+                 <div class="libcol2" id="home-hours"> 
+                  <h2><a href="/locations-hours">Hours Today</a></h2> 
+                  <dl class="hours">
+                   <dt class="first">
+                    <a href="/locations/anschutz">Anschutz</a>
+                   </dt> 
+                   <dd class="first">
+                    <div class="view view-location-daily-hours view-id-location_daily_hours view-display-id-page view-dom-id-31a0669b0ff20d706f176ab22735937d"> 
+                     <div class="view-content"> 
+                      <div> 
+                       <div class="field-content">
+                        <p>Closed</p> 
+                       </div> 
+                      </div> 
+                     </div> 
+                    </div>
+                   </dd> 
+                   <dt class="hours-more-location">
+                    <span class="service-desk">Anschutz Service Desk</span>
+                   </dt> 
+                   <dd class="hours-more-location">
+                    <div class="view view-location-daily-hours view-id-location_daily_hours view-display-id-page view-dom-id-7e8d499aecad75ee308dddb647f40918"> 
+                     <div class="view-content"> 
+                      <div> 
+                       <div class="field-content">
+                        <p>Closed</p> 
+                       </div> 
+                      </div> 
+                     </div> 
+                    </div>
+                   </dd> 
+                   <dt class="hours-more-location">
+                    <a href="/locations/art-and-architecture">Art &amp; Architecture</a>
+                   </dt> 
+                   <dd class="hours-more-location">
+                    <div class="view view-location-daily-hours view-id-location_daily_hours view-display-id-page view-dom-id-997f369f087f70cf8f6cd6c0c964cd0b"> 
+                     <div class="view-content"> 
+                      <div> 
+                       <div class="field-content">
+                        <p>Closed</p> 
+                       </div> 
+                      </div> 
+                     </div> 
+                    </div>
+                   </dd> 
+                   <dt class="hours-more-location">
+                    <a href="/locations/music-and-dance">Music &amp; Dance</a>
+                   </dt> 
+                   <dd class="hours-more-location">
+                    <div class="view view-location-daily-hours view-id-location_daily_hours view-display-id-page view-dom-id-96b7e145497bff3e615843958cbda4db"> 
+                     <div class="view-content"> 
+                      <div> 
+                       <div class="field-content">
+                        <p>Closed</p> 
+                       </div> 
+                      </div> 
+                     </div> 
+                    </div>
+                   </dd> 
+                   <dt class="hours-more-location">
+                    <a href="http://edwardscampus.ku.edu/campus-hours">Edwards Welcome Center</a>
+                   </dt> 
+                   <dd class="hours-more-location">
+                    <div class="view view-location-daily-hours view-id-location_daily_hours view-display-id-page view-dom-id-049ad8a348240b96f6f4a436b47416f4"> 
+                     <div class="view-content"> 
+                      <div> 
+                       <div class="field-content">
+                        <p>8 am - 5 pm</p> 
+                       </div> 
+                      </div> 
+                     </div> 
+                    </div>
+                   </dd> 
+                   <dt class="hours-more-location">
+                    <a href="/locations/spahr">Spahr</a>
+                   </dt> 
+                   <dd class="hours-more-location">
+                    <div class="view view-location-daily-hours view-id-location_daily_hours view-display-id-page view-dom-id-5b66ffad688e14784da7f3d140730b3a"> 
+                     <div class="view-content"> 
+                      <div> 
+                       <div class="field-content">
+                        <p>Closed</p> 
+                       </div> 
+                      </div> 
+                     </div> 
+                    </div>
+                   </dd> 
+                   <dt class="hours-more-location">
+                    <a href="https://spencer.lib.ku.edu">Spencer Research Library</a>
+                   </dt> 
+                   <dd class="hours-more-location">
+                    <div class="view view-location-daily-hours view-id-location_daily_hours view-display-id-page view-dom-id-022754749b7a4941c7e6a938e3ca4b16"> 
+                     <div class="view-content"> 
+                      <div> 
+                       <div class="field-content">
+                        <p>Closed</p> 
+                       </div> 
+                      </div> 
+                     </div> 
+                    </div>
+                   </dd> 
+                   <dt>
+                    <a href="/locations/watson">Watson</a>
+                   </dt> 
+                   <dd class="first">
+                    <div class="view view-location-daily-hours view-id-location_daily_hours view-display-id-page view-dom-id-c864407981c2cff69ef0de8745e5944b"> 
+                     <div class="view-content"> 
+                      <div> 
+                       <div class="field-content">
+                        <p>Closed</p> 
+                       </div> 
+                      </div> 
+                     </div> 
+                    </div>
+                   </dd> 
+                   <dt class="hours-more-location">
+                    <span class="service-desk">Watson Service Desk</span>
+                   </dt> 
+                   <dd class="hours-more-location">
+                    <div class="view view-location-daily-hours view-id-location_daily_hours view-display-id-page view-dom-id-6b8f9ee799f8f8d599ef2942b27a14dd"> 
+                     <div class="view-content"> 
+                      <div> 
+                       <div class="field-content">
+                        <p>Closed</p> 
+                       </div> 
+                      </div> 
+                     </div> 
+                    </div>
+                   </dd> 
+                   <dt class="hours-more-location">
+                    <a href="http://www.law.ku.edu/wheat-law-library">Wheat Law Library</a>
+                   </dt> 
+                   <dd class="hours-more-location">
+                    <div class="view view-location-daily-hours view-id-location_daily_hours view-display-id-page view-dom-id-55cb205611a8df5178b11999d8654888"> 
+                     <div class="view-content"> 
+                      <div> 
+                       <div class="field-content">
+                        <p>12 pm - 5 pm</p> 
+                       </div> 
+                      </div> 
+                     </div> 
+                    </div>
+                   </dd> 
+                   <dt class="last" id="hours-more-container">
+                    <a href="/locations-hours" id="hours-more">All Locations</a>
+                   </dt> 
+                   <dd class="last">
+                    &nbsp;
+                   </dd> 
+                  </dl>
+                 </div> 
+                </div> 
+                <div class="librow clearfix"> 
+                 <div class="libcol2" id="home-help"> 
+                  <h2><a href="/help">Get Help</a></h2> 
+                  <ul>
+                   <li><a href="https://guides.lib.ku.edu">Subject &amp; Course Guides</a></li> 
+                   <li><a href="/video-tutorials">Video Tutorials</a></li> 
+                   <li><a href="/ask-librarian">Ask a Librarian</a></li> 
+                  </ul>
+                 </div> 
+                 <div class="libcol2" id="home-fullfillment"> 
+                  <h2><a href="/services/using-the-library">Borrow, Renew, Return</a></h2> 
+                  <ul>
+                   <li><a href="https://catalog.lib.ku.edu/cgi-bin/Pwebrecon.cgi?DB=local&amp;PAGE=pbLogon">My Account</a></li> 
+                   <li><a href="https://illiad.lib.ku.edu/KKU/">Request Articles, Books, More...</a></li> 
+                   <li><a href="/course-reserves">Course Reserves</a></li> 
+                  </ul>
+                 </div> 
+                </div> 
+                <div class="homepage-features" id="home-lib-feature"> 
+                 <div class="homepage-features-row clearfix">
+                  <div class="view view-homepage-feature view-id-homepage_feature view-display-id-block_3 homepage-slideshow view-dom-id-6dd643c3abc316512d9c2214d4a3531a"> 
+                   <div class="view-content"> 
+                    <div> 
+                     <div class="slide-block"> 
+                      <div class="slide">
+                       <a href="https://lib.ku.edu/people"><img typeof="foaf:Image" src="https://lib.ku.edu/sites/lib.ku.edu/files/styles/homepage_feature_slideshow/public/general/homepage/For_the_People_Web_feature.jpg?itok=JXc88b5x" width="520" height="375" alt="For the People, 2/19-8/29"></a>
+                      </div> 
+                     </div> 
+                    </div> 
+                    <div> 
+                     <div class="slide-block"> 
+                      <div class="slide">
+                       <a href="https://lib.ku.edu/phog"><img typeof="foaf:Image" src="https://lib.ku.edu/sites/lib.ku.edu/files/styles/homepage_feature_slideshow/public/general/homepage/PhogFeature.jpg?itok=siyxV2HB" width="520" height="375" alt="Browse the Phog Allen collection"></a>
+                      </div> 
+                     </div> 
+                    </div> 
+                    <div> 
+                     <div class="slide-block"> 
+                      <div class="slide">
+                       <a href="https://lib.ku.edu/KSRL-50-celebration"><img typeof="foaf:Image" src="https://lib.ku.edu/sites/lib.ku.edu/files/styles/homepage_feature_slideshow/public/general/homepage/Spencer50thFeature.jpg?itok=VN9n_vlE" width="520" height="375" alt="Spencer Research Library, 50th anniversary"></a>
+                      </div> 
+                     </div> 
+                    </div> 
+                    <div> 
+                     <div class="slide-block"> 
+                      <div class="slide">
+                       <a href="http://lib.ku.edu/services/instruction-form"><img typeof="foaf:Image" src="https://lib.ku.edu/sites/lib.ku.edu/files/styles/homepage_feature_slideshow/public/general/homepage/form%20web%20feature.new__0.jpg?itok=j6OG_lm0" width="520" height="375" alt="http://www.lawrence.lib.ks.us/news-events/ral2015/ral2015/"></a>
+                      </div> 
+                     </div> 
+                    </div> 
+                    <div> 
+                     <div class="slide-block"> 
+                      <div class="slide">
+                       <a href="http://video.lib.ku.edu/items/show/1467"><img typeof="foaf:Image" src="https://lib.ku.edu/sites/lib.ku.edu/files/styles/homepage_feature_slideshow/public/general/homepage/Video%20Archives.MAIN%20FEATURE.jpg?itok=nfpZpVAA" width="520" height="375" alt="Beyond the Towers - KU Libraries Video Archives"></a>
+                      </div> 
+                     </div> 
+                    </div> 
+                   </div> 
+                  </div> 
+                  <div class="mini-features">
+                   <div class="view view-homepage-feature view-id-homepage_feature view-display-id-block_1 view-dom-id-39398a4a3d2e2447587d6494560e7bbc"> 
+                    <div class="view-content"> 
+                     <div> 
+                      <div class="minifeature-block"> 
+                       <div class="minifeature-img">
+                        <a href="https://lib.ku.edu/collection-management/resources-affected-fy19"><img typeof="foaf:Image" src="https://lib.ku.edu/sites/lib.ku.edu/files/styles/homepage_mini_feature/public/general/homepage/Wiley%26Oxford.jpg?itok=pE9_rwdG" width="235" height="180" alt="Collections update: Wiley &amp; Oxford titles retained"></a>
+                       </div> 
+                      </div> 
+                     </div> 
+                    </div> 
+                   </div> 
+                   <div class="view view-homepage-feature view-id-homepage_feature view-display-id-block_2 view-dom-id-1263fd75ba91edbd769d9172a143182f"> 
+                    <div class="view-content"> 
+                     <div> 
+                      <div class="minifeature-block"> 
+                       <div class="minifeature-img">
+                        <a href="https://guides.lib.ku.edu/socialjustice"><img typeof="foaf:Image" src="https://lib.ku.edu/sites/lib.ku.edu/files/styles/homepage_mini_feature/public/general/homepage/SocialJusticeWebFeature17-01.jpg?itok=xAbRV6jW" width="235" height="180" alt="Social justice resources now available"></a>
+                       </div> 
+                      </div> 
+                     </div> 
+                    </div> 
+                   </div>
+                  </div> 
+                 </div> 
+                 <div class="homepage-features-row clearfix"> 
+                  <div class="left-feed"> 
+                   <h3><a href="/events">Events &amp; Workshops</a></h3> 
+                   <div class="view view-feed-events view-id-feed_events view-display-id-block_5 eventlist view-dom-id-b2458a9be143e8f0a26e4ffcd3691a69"> 
+                    <div class="view-empty">
+                      Check back soon for more happenings. 
+                    </div> 
+                   </div>
+                  </div> 
+                  <div class="right-feed"> 
+                   <h3><a href="/exhibits">Current Exhibitions</a></h3> 
+                   <div class="view view-exhibits view-id-exhibits view-display-id-block_2 view-dom-id-c6159624145bd341bbdca92cd2799d79"> 
+                    <div class="view-content"> 
+                     <div> 
+                      <div class="exhibits-feed"> 
+                       <p>Haricombe Gallery | Watson Library, 3 West <br><a href="https://lib.ku.edu/people">For the People: KU Libraries celebrate 150 years of publicly accessible government information</a></p> 
+                      </div> 
+                     </div> 
+                     <div> 
+                      <div class="exhibits-feed"> 
+                       <p>Kenneth Spencer Research Library <br><a href="https://spencer.lib.ku.edu/exhibits-and-tours/exhibit-space">Meet the Spencers: A marriage of arts &amp; sciences</a></p> 
+                      </div> 
+                     </div> 
+                     <div> 
+                      <div class="exhibits-feed"> 
+                       <p>International Collections | Watson Library, 5th Floor <br><a href="https://lib.ku.edu/exhibits">Unexpected Caribbean</a></p> 
+                      </div> 
+                     </div> 
+                    </div> 
+                   </div>
+                  </div> 
+                 </div> 
+                </div> 
+                <script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+    $kuj(function(){
+      // Cycle.
+      $kuj('.homepage-slideshow .view-content').cycle({ fx: 'fade', timeout: 5000, slideResize: true });
+
+      // Re-set the height of the slideshow on viewport resize.      
+      $kuj(window).bind('load', build_gallery).bind('resize', build_gallery);
+      
+      function build_gallery() {
+          $kuj('.homepage-slideshow .view-content').height($kuj('.homepage-slideshow .view-content .slide-block').first().height());
+          $kuj('.homepage-slideshow .view-content').width($kuj('.homepage-slideshow .view-content .slide-block').first().width());
+      }
+    });
+    
+//--><!]]>
+</script>
+                <!--<div class="librow clearfix" id="home-lib-feature">
+<div class="libcol2" id="home-lib-feature-1" style="padding: 0;"><div class="view view-homepage-feature view-id-homepage_feature view-display-id-page_1 view-dom-id-1a431796e585cddd4c28a6657930baf6">
+        
+  
+  
+      <div class="view-content">
+        <div >
+      
+          <a href="http://lib.ku.edu/services/instruction-form"><img typeof="foaf:Image" src="https://lib.ku.edu/sites/lib.ku.edu/files/general/homepage/form-web-feature2.jpg" width="410" height="100" alt="Schedule library instruction" /> </a>    </div>
+  <div >
+      
+          <a href="http://www.kualumni.org/libraries/"><img typeof="foaf:Image" src="https://lib.ku.edu/sites/lib.ku.edu/files/general/homepage/AAtoD.homepg.feature.jpg" width="410" height="100" alt="New online resources for KU alumni and friends" /> </a>    </div>
+  <div >
+      
+          <a href="http://lib.ku.edu/start"><img typeof="foaf:Image" src="https://lib.ku.edu/sites/lib.ku.edu/files/images/general/features/Start.with.us.410x100.jpg" width="410" height="100" alt="Start with Us" /> </a>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+
+<div class="libcol2" id="home-lib-feature-2" style="padding: 0;"><div class="view view-homepage-feature view-id-homepage_feature view-display-id-page_2 view-dom-id-747db98b84c10686e7cb6da3b5003924">
+        
+  
+  
+      <div class="view-content">
+        <div >
+      
+          <a href="https://guides.lib.ku.edu/apps/browzine"><img typeof="foaf:Image" src="https://lib.ku.edu/sites/lib.ku.edu/files/general/homepage/BrowZine.feature.jpg" width="410" height="100" alt="Introducing BrowZine" /> </a>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+</div>
+<script type="text/javascript">
+  $kuj(function(){
+    $kuj('#home-lib-feature .view-content').cycle({ timeout: 5000, slideResize: 0 });
+  });
+</script> -->
+                <script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+  $kuj(function(){
+    $kuj('#what-search').click(function(event){
+      event.preventDefault();
+      $kuj('#what-search-content').slideToggle('slow');
+    });
+    $kuj('#hours-more').click(function(event){
+      event.preventDefault();
+      $kuj('.hours-more-location').slideToggle('slow');
+    });
+
+  $kuj('#home-search a').click(function(){
+        var text = $kuj(this).text();
+        ga('send', 'event', 'Homepage Click', 'search', text);
+    });
+    $kuj('#home-find a').click(function(){
+        var text = $kuj(this).text();
+        if ($kuj(this).parent().parent().hasClass('databases-az-list')){
+            text = 'A-Z Link';
+        }
+        ga('send', 'event', 'Homepage Click', 'find', text);
+    });
+    $kuj('#home-hours a').click(function(){
+        var text = $kuj(this).text();
+        ga('send', 'event', 'Homepage Click', 'hours', text);
+    });
+    $kuj('#home-help a').click(function(){
+        var text = $kuj(this).text();
+        ga('send', 'event', 'Homepage Click', 'help', text);
+    });
+    $kuj('#home-fullfillment a').click(function(){
+        var text = $kuj(this).text();
+        ga('send', 'event', 'Homepage Click', 'fullfillment', text);
+    });
+    $kuj('#home-lib-feature a').click(function(){
+        var text = $kuj(this).text();
+        if ($kuj(this).children('img').length > 0){
+            text = $kuj(this).children('img').attr('alt');
+        }
+        ga('send', 'event', 'Homepage Click', 'feature', text);
+    });
+    $kuj('#block-block-95 a').click(function(){
+        var text = $kuj(this).text();
+        if ($kuj(this).children('img').length > 0){
+            text = $kuj(this).children('img').attr('alt');
+        }
+        ga('send', 'event', 'Homepage Click', 'ask', text);
+    });
+    $kuj('#block-block-12 a').click(function(){
+        var text = $kuj(this).text();
+        ga('send', 'event', 'Homepage Click', 'news', text);
+    });
+    $kuj('#main-menu a').click(function(){
+        var text = $kuj(this).text();
+        ga('send', 'event', 'Homepage Click', 'menu', text);
+    });
+});
+
+
+//--><!]]>
+</script>
+                <style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+#region-content h2 a, #region-content h3 a,#region-content h2 a:link, #region-content h3 a:link,#region-content h2 a:visited, #region-content h3 a:visited { color: #021e2f; }
+
+/*--><!]]>*/
+</style>
+               </div>
+              </div>
+             </div> 
+            </div> 
+            <div class="clearfix"> 
+             <nav class="links node-links clearfix"></nav> 
+            </div> 
+           </article> 
+          </div> 
+         </div> 
+        </div> 
+        <br clear="all"> 
+       </div> 
+      </div> 
+      <div class="grid-4 region region-unit-sidebar" id="region-unit-sidebar"> 
+       <div class="region-inner region-unit-sidebar-inner"> 
+        <div class="block block-block block-95 block-block-95 odd block-without-title" id="block-block-95"> 
+         <div class="block-inner clearfix"> 
+          <div class="content clearfix"> 
+           <div>
+            <a href="/ask-librarian"><img alt="Ask a Librarian" src="/sites/lib.drupal.ku.edu/files/images/general/ask.a%20librarian-short.png" style="width: 300px; height: 57px;"></a>
+           </div> 
+           <p style="margin-top: .5em">We can <a href="/ask-librarian">help with your research questions</a> -- contact us by chat, phone, email, text or at a Research Help desk.</p> 
+           <div id="libchat" style="display: none"> 
+            <style type="text/css">.lci_chat_load { border: none; max-width: 100%;}
+</style> 
+            <div id="chat-control">
+             <a href="/ask-librarian" id="chat-now">We're online! Chat with us now.</a>
+            </div> 
+            <div id="chat-container"> 
+             <div id="libchat_0dc76a33d09a25ad97683c798f29984f">
+              &nbsp;
+             </div> 
+            </div> 
+           </div> 
+           <script>
+      $kuj(function(){
+          $kuj.ajax({
+             dataType: "json",
+              url: 'https://api2.libanswers.com/1.0/chat/widgets/status/6241',
+              success: function(data){
+                  if (data["online"] == true){
+                      $kuj('<script>').attr('src', '//v2.libanswers.com/load_chat.php?hash=0dc76a33d09a25ad97683c798f29984f').appendTo('head');
+                      $kuj('#libchat').show();
+                  }
+              }
+          });
+
+          $kuj('#chat-now').click(function(event){
+              event.preventDefault();
+              $kuj(this).toggleClass('open');
+              $kuj('#chat-container').slideToggle('slow');
+           });
+      });
+</script> 
+          </div> 
+         </div> 
+        </div> 
+        <section class="block block-block block-2 block-block-2 even" id="block-block-2"> 
+         <div class="block-inner clearfix"> 
+          <div class="block-title">
+           News
+          </div> 
+          <div class="content clearfix"> 
+           <p></p>
+           <div class="view view-news-articles-list view-id-news_articles_list view-display-id-block news-list-sidebar view-dom-id-e08255cd37b9de9bb56b68fcd8113ee2"> 
+            <div class="view-content"> 
+             <div class="item-list"> 
+              <div id="newsviewcontent-5cf2a1cf5dc0f"> 
+               <ul id="newsitemlist-5cf2a1cf5dc0f">
+                <li class="views-row views-row-1 views-row-odd views-row-first">
+                 <div class="news-text-wrap"> 
+                  <div class="views-field-timestamp">
+                   April 30, 2019
+                  </div> 
+                  <a href="/news/ries-textbook-heroes">KU Libraries add student body president to spring Textbook Heroes cohort</a> 
+                 </div> </li> 
+                <li class="views-row views-row-2 views-row-even">
+                 <div class="news-text-wrap"> 
+                  <div class="views-field-timestamp">
+                   April 26, 2019
+                  </div> 
+                  <a href="/news/baker-aic">KU Libraries faculty member named American Institute for Conservation of Historic and Artistic Works Fellow</a> 
+                 </div> </li> 
+                <li class="views-row views-row-3 views-row-odd views-row-last">
+                 <div class="news-text-wrap"> 
+                  <div class="views-field-timestamp">
+                   April 23, 2019
+                  </div> 
+                  <a href="/%E2%80%9Cresolved-authority-president-united-states-should-be-substantially-curtailed%E2%80%9D-presentation-ku-0">“Resolved: The authority of the President of the United States should be substantially curtailed” presentation by KU Debate Team on April 26</a> 
+                 </div> </li> 
+               </ul>
+               <div id="newspager-5cf2a1cf5dc0f"></div> 
+              </div> 
+             </div> 
+            </div> 
+            <div class="view-footer"> 
+             <hr>
+             <span class="right"><a href="/news">See all news »</a></span> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </section> 
+        <div class="block block-block block-97 block-block-97 odd block-without-title" id="block-block-97"> 
+         <div class="block-inner clearfix"> 
+          <div class="content clearfix"> 
+           <p><a href="http://www.ku.edu/safety" style="display: block; color: #ffffff; background-color:#0051ba; padding: 1em; font-weight: bold; font-family: Georgia,Times,'Times New Roman',serif; font-size: 14px; text-align: center">Safety at KU</a></p> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="block block-ku-whyku block-ku-whyku-block block-ku-whyku-ku-whyku-block even block-without-title" id="block-ku-whyku-ku-whyku-block"> 
+         <div class="block-inner clearfix"> 
+          <div class="content clearfix"> 
+           <div id="why_ku"> 
+            <div class="navrow"> 
+             <div class="why_ku_title">
+              Why KU
+             </div> 
+             <div class="apply_title"> 
+              <a href="http://ku.edu/admissions/">Apply »</a> 
+             </div> 
+            </div> 
+            <div class="bragpoints"> 
+             <div class="whyku_random"> 
+              <div style="display: none">
+               1.5 million visits a year at 7 library locations
+              </div> 
+              <div style="display: none">
+               Top 50 nationwide for size of library collection
+               <br> —American Library Association
+              </div> 
+              <div style="display: none">
+               KU ScholarWorks offers access to more than 13,000 items created by KU faculty and students
+              </div> 
+              <div style="display: none">
+               An international leader in the open access movement
+              </div> 
+              <div style="display: none">
+               Users check out nearly 300,000 items every year
+              </div> 
+              <div style="display: none">
+               Users access more than 3.3 million articles online each year
+              </div> 
+              <div style="display: none">
+               More than 111,000 scores, books, sound recordings, and other volumes in Music &amp; Dance Library
+              </div> 
+              <div style="display: none">
+               Anschutz Library serves as KU’s 24-hour study facility for students
+              </div> 
+              <div style="display: none">
+               More than 700 Vosper Society members support the mission of KU Libraries
+              </div> 
+              <div style="display: none">
+               One of 34 U.S. public institutions in the prestigious Association of American Universities
+              </div> 
+             </div> 
+            </div> 
+            <div class="applyblock" style="display:none"> 
+            </div> 
+           </div> 
+           <script type="text/javascript">
+        $kuj(document).ready(function() {
+            $kuj('.why_ku_title').click(function() {
+                $kuj('.bragpoints').css('display', 'block');
+                $kuj('.applyblock').css('display', 'none');
+            });
+            $kuj('#applydropdown').click(function() {
+                if($kuj('.bragpoints').css('display') == 'none'){
+                $kuj('.bragpoints').css('display', 'block');
+                $kuj('.applyblock').css('display', 'none');
+                                $kuj('#applydropdown').removeClass('open');
+
+                }else{
+                                                    $kuj('#applydropdown').addClass('open');
+
+                $kuj('.bragpoints').css('display', 'none');
+                $kuj('.applyblock').css('display', 'block');
+            }
+            });
+            /* Show one item of ku today content at random */
+            childcount = $kuj('.whyku_random').children().length;
+            randomnum = Math.floor(Math.random() * childcount) + 1;
+            $kuj('div.whyku_random div:nth-child(' + randomnum + ')').css('display', 'block');
+            $kuj('div.whyku_random div').vAlign(5);
+        });
+
+    </script> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="block block-ku-static block-ku-sidebar-apply block-ku-static-ku-sidebar-apply odd block-without-title" id="block-ku-static-ku-sidebar-apply"> 
+         <div class="block-inner clearfix"> 
+          <div class="content clearfix"> 
+           <div class="sidebargive-3col"> 
+            <div class="farabove">
+             <a href="http://kuendowment.org"><img src="/sites/all/themes/ku_template_2012_3col/images/far_above.png" alt="Far Above"></a>
+            </div> 
+            <div class="givetext">
+             <p><a href="http://www.kuendowment.org/Your-Gift/Areas-of-Support/Lawrence-Edwards-Campuses/Libraries"><strong>Give</strong> <em>to KU Libraries</em> »</a></p>
+            </div> 
+           </div> 
+           <script type="text/javascript">
+        $kuj(document).ready(function() {
+            $kuj('div.givetext p').vAlign(0);
+        });
+
+    </script> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="block block-ku-today block-ku-today-news block-ku-today-ku-today-news even block-without-title" id="block-ku-today-ku-today-news"> 
+         <div class="block-inner clearfix"> 
+          <div class="content clearfix"> 
+           <div class="kutoday"> 
+            <div class="block-title">
+             KU Today
+            </div> 
+            <div class="content clearfix"> 
+             <div id="ku_today-content"> 
+             </div> 
+            </div> 
+           </div> 
+           <script type="text/javascript">
+    $kuj(document).ready(function() {
+        $kuj.ajax({
+            url: "//news.ku.edu/headlines.json",
+            dataType: 'jsonp',
+            cache: true,
+            jsonpCallback: 'callback',
+            success: function(data) {
+                var count = data.nodes.length;
+                var randomnum = Math.floor(Math.random() * count);
+                var node = data.nodes[randomnum].node;
+                $kuj('#ku_today-content').html('<p><a href="' + node.link + '">'+ node.title + '</a> &mdash; <a href="http://news.ku.edu"><em>All KU News &raquo;</em></a></p>');
+            }
+        });
+    });
+</script> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div>
+   </section> 
+   <footer id="section-footer" class="section section-footer"> 
+    <div id="zone-unit-footer-wrapper" class="zone-wrapper zone-unit-footer-wrapper clearfix"> 
+     <div id="zone-unit-footer" class="zone zone-unit-footer clearfix container-12"> 
+      <div class="grid-4 region region-unit-footer-first" id="region-unit-footer-first"> 
+       <div class="region-inner region-unit-footer-first-inner"> 
+        <div class="block block-ku-static block-ku-static-unitfooter-contact block-ku-static-ku-static-unitfooter-contact odd block-without-title" id="block-ku-static-ku-static-unitfooter-contact"> 
+         <div class="block-inner clearfix"> 
+          <div class="content clearfix"> 
+           <div class="title">
+            <a href="/ask-librarian">Contact Libraries</a>
+           </div> 
+           <div class="contactdetails"> 
+            <div class="emailphone"> 
+             <div class="ku_phone">
+              785-864-8983 
+             </div> 
+            </div> 
+            <address> 
+             <div itemscope itemtype="http://schema.org/Library">
+              <span itemprop="name"><a itemprop="url" href="http://lib.ku.edu/">University of Kansas Libraries</a></span> 
+              <br>
+              <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+               <span itemprop="streetAddress">1425 Jayhawk Blvd</span> 
+               <br>
+               <span itemprop="addressLocality">Lawrence</span>, 
+               <span itemprop="addressRegion">Kansas</span> 
+               <span itemprop="postalCode">66045</span>
+              </div>
+              <div itemprop="image" itemscope itemtype="http://schema.org/ImageObject" style="display: none;">
+               <img src="https://lib.ku.edu/sites/lib.ku.edu/files/images/general/branding/KULibrariesBlue120x120.gif" width="120" height="120" itemprop="url" alt="KU Libraries">
+              </div>
+             </div> </address> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="block block-block block-10 block-block-10 even block-without-title" id="block-block-10"> 
+         <div class="block-inner clearfix"> 
+          <div class="content clearfix"> 
+           <div id="social-footer">
+            <a href="http://facebook.com/kulibraries" target="_blank"><img alt="Like KU Libraries on Facebook" src="/sites/lib.drupal.ku.edu/files/images/general/socialmedia/facebook.png" style="width: 35px; height: 35px; "></a>&nbsp; 
+            <a href="http://twitter.com/kulibraries" target="_blank"><img alt="Follow KU Libraries on Twitter" src="/sites/lib.drupal.ku.edu/files/images/general/socialmedia/twitter.png" style="width: 35px; height: 35px; "></a>&nbsp; 
+            <a href="http://www.youtube.com/user/KULibraries/videos" target="_blank"><img alt="Watch KU Libraries on YouTube" src="/sites/lib.drupal.ku.edu/files/images/general/socialmedia/youtube-35px.png" style="width: 35px; height: 35px;"></a>&nbsp; 
+            <a href="http://www.flickr.com/photos/kulibraries/" target="_blank"><img alt="Follow KU Libraries' photo stream on Flickr" src="/sites/lib.drupal.ku.edu/files/images/general/socialmedia/flickr.png" style="width: 35px; height: 35px; "></a>&nbsp; 
+            <a href="http://instagram.com/kulibraries" target="_blank"><img alt="Follow KU Libraries on Instagram" src="/sites/lib.drupal.ku.edu/files/images/general/socialmedia/instagram.png" style="width: 35px; height: 35px; "></a>&nbsp; 
+            <a href="http://www.pinterest.com/kulibraries/pins/" target="_blank"><img alt="Follow KU Libraries on Pinterest" src="/sites/lib.drupal.ku.edu/files/images/general/socialmedia/pinterest.png" style="width: 35px; height: 35px; "></a>
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="block block-block block-56 block-block-56 odd block-without-title" id="block-block-56"> 
+         <div class="block-inner clearfix"> 
+          <div class="content clearfix"> 
+           <p>Send us your <a href="/website-feedback" id="site-feedback">comments or questions</a> about the Libraries website.</p> 
+           <script type="text/javascript">
+$kuj(function(){
+  $kuj('#site-feedback').attr('href', $kuj('#site-feedback').attr('href') + '?page=' + window.location);
+});
+</script> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="block block-block block-77 block-block-77 even block-without-title" id="block-block-77"> 
+         <div class="block-inner clearfix"> 
+          <div class="content clearfix"> 
+           <script type="application/ld+json">
+<!--//--><![CDATA[// ><!--
+
+{
+    "@context": "http://schema.org",
+    "@type": "Library",
+    "name": "University of Kansas Libraries",
+    "alternateName" : ["KU Libraries", "University of Kansas Library", "KU Library"],
+    "url" : "http://lib.ku.edu/",
+    "telephone" : "+17858648983",
+    "logo" : "http://lib.ku.edu/sites/lib.ku.edu/files/images/general/branding/KULibrariesBW120x120.gif",
+    "image" : "http://lib.ku.edu/sites/lib.ku.edu/files/images/general/branding/KULibrariesBW120x120.gif",
+    "alt" : "KU Libraries",
+    "location": {
+    "@type": "Place",
+    "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "38.956905952386",
+    "longitude": "-95.244930982590"
+    },
+"address": {
+    "@type": "PostalAddress",
+    "streetAddress" : "1425 Jayhawk Blvd",
+    "addressLocality": "Lawrence",
+    "addressRegion": "KS",
+    "postalCode" : "66045",
+    "addressCountry" : "US"
+    }
+},
+"contactPoint" : [
+    { "@type" : "ContactPoint",
+        "telephone" : "+17858643347",
+        "contactType" : "customer service"
+        }
+],
+"sameAs" : [
+"https://plus.google.com/u/0/102531137040735877843",
+"https://www.facebook.com/KULibraries",
+"https://twitter.com/kulibraries",
+"http://www.youtube.com/user/kulibraries"
+],
+"branchOf": {
+    "@type": "CollegeOrUniversity",
+    "name" : "University of Kansas",
+    "url" : "http://www.ku.edu/",
+    "sameAs" : [
+    "http://en.wikipedia.org/wiki/University_of_Kansas",
+    "http://www.wikidata.org/wiki/Q52413",
+    "http://dbpedia.org/page/University_of_Kansas",
+    "https://www.freebase.com/m/015q1n"
+    ]
+    }
+}
+
+//--><!]]>
+</script> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div>
+      <div class="grid-8 region region-unit-footer-second" id="region-unit-footer-second"> 
+       <div class="region-inner region-unit-footer-second-inner"> 
+        <div class="block block-ku-static block-ku-static-unitfooter-links block-ku-static-ku-static-unitfooter-links odd block-without-title" id="block-ku-static-ku-static-unitfooter-links"> 
+         <div class="block-inner clearfix"> 
+          <div class="content clearfix"> 
+           <!--//
+<form action="https://dept.ku.edu/~appslibk/primo/dlSearch.php" class="lib-search" id="lib-search-footer" method="get"><label class="element-invisible" for="q-footer">Search </label><input id="q-footer" name="q" placeholder="Search articles, the catalog, more..." type="text" /><input type="submit" value="Search" />&nbsp;</form>
+//-->
+           <script type="text/javascript">
+    function searchPrimoFooter() {
+      document.getElementById("primoQuery-footer").value = "any,contains," + document.getElementById("primoQueryTemp-footer").value.replace(/[,]/g, " ");
+      document.forms["searchForm-footer"].submit();
+    }
+  </script> 
+           <form action="https://kuprimo.hosted.exlibrisgroup.com/primo-explore/search" class="lib-search" enctype="application/x-www-form-urlencoded; charset=utf-8" id="lib-search-footer" method="get" name="searchForm-footer" onsubmit="searchPrimoFooter()" target="_self">
+            <label class="element-invisible" for="primoQueryTemp-footer">Quick Search: articles, the catalog, more...</label> 
+            <input name="institution" type="hidden" value="KU"> 
+            <input name="vid" type="hidden" value="KU"> 
+            <input name="tab" type="hidden" value="default_tab"> 
+            <input name="search_scope" type="hidden" value="QUICK"> 
+            <input name="highlight" type="hidden" value="true"> 
+            <input name="dum" type="hidden" value="true"> 
+            <input id="primoQuery-footer" name="query" type="hidden"> 
+            <input id="primoQueryTemp-footer" placeholder="Quick Search: articles, the catalog, more..." size="35" type="text" value=""> 
+            <input alt="Search" id="go-footer" onclick="searchPrimoFooter()" title="Search" type="button" value="Search">&nbsp;
+           </form> 
+           <ul> 
+            <li><a href="/articles-and-databases">Articles &amp; Databases</a></li> 
+            <li><a href="https://catalog.lib.ku.edu/cgi-bin/Pwebrecon.cgi?DB=local&amp;PAGE=First">Library Catalog</a></li> 
+            <li><a href="/e-journals">e-Journals</a></li> 
+            <li><a href="http://guides.lib.ku.edu">Subject &amp; Course Guides</a></li> 
+            <li><a href="https://kuscholarworks.ku.edu/">KU ScholarWorks</a></li> 
+           </ul> 
+           <ul> 
+            <li><a href="/locations-hours">Locations &amp; Hours</a></li> 
+            <li><a href="https://catalog.lib.ku.edu/cgi-bin/Pwebrecon.cgi?DB=local&amp;PAGE=pbLogon">My Account</a></li> 
+            <li><a href="/services/request">Interlibrary Loan (ILL)</a></li> 
+            <li><a href="/ask-librarian">Ask a Librarian</a></li> 
+            <li><a href="/node/167">People &amp; Departments</a></li> 
+           </ul> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="block block-block block-65 block-block-65 even block-without-title" id="block-block-65"> 
+         <div class="block-inner clearfix"> 
+          <div class="content clearfix"> 
+           <div style="text-align: right; font-size: 0.9em;">
+            <a href="https://kansas.sharepoint.com/teams/lib/SitePages/Home.aspx">Libraries Staff Intranet</a>
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div>
+    <div id="zone-ku-footer-wrapper" class="zone-wrapper zone-ku-footer-wrapper clearfix"> 
+     <div id="zone-ku-footer" class="zone zone-ku-footer clearfix container-12"> 
+      <div class="grid-3 region region-ku-footer-first" id="region-ku-footer-first"> 
+       <div class="region-inner region-ku-footer-first-inner"> 
+        <div class="block block-ku-static block-ku-static-kufooter-logo block-ku-static-ku-static-kufooter-logo odd block-without-title" id="block-ku-static-ku-static-kufooter-logo"> 
+         <div class="block-inner clearfix"> 
+          <div class="content clearfix"> 
+           <a href="https://ku.edu/"><img src="//webmedia.ku.edu/templates/2012/images/ku_sig_logo.png" width="167" height="40" alt="KU signature" title="The University of Kansas"></a> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div>
+      <div class="grid-6 region region-ku-footer-second" id="region-ku-footer-second"> 
+       <div class="region-inner region-ku-footer-second-inner"> 
+        <div class="block block-ku-static block-ku-static-kufooter-links block-ku-static-ku-static-kufooter-links odd block-without-title" id="block-ku-static-ku-static-kufooter-links"> 
+         <div class="block-inner clearfix"> 
+          <div class="content clearfix"> 
+           <p><img id="ku_footer_jayhawk" src="//webmedia.ku.edu/templates/2012/images/ku_jayhawk.png" width="56" height="50" alt="Jayhawk icon"></p> 
+           <ul class="inline-list" style="margin-bottom:10px"> 
+            <li><a href="http://ku.edu/academics/" title="KU Academics">Academics</a></li> 
+            <li><a href="http://accessibility.ku.edu/" title="Accessible KU">Accessible KU</a></li> 
+            <li><a href="http://admissions.ku.edu/" title="KU Admissions">Admissions</a></li> 
+            <li><a href="http://www.kualumni.org/" title="Alumni information">Alumni</a></li> 
+           </ul> 
+           <br> 
+           <ul class="inline-list"> 
+            <li><a href="http://www.kuathletics.com/" title="KU Athletics">Athletics</a></li> 
+            <li><a href="https://ku.edu/about/campuses/" title="Campus information for KU">Campuses</a></li> 
+            <li><a href="http://www.kuendowment.org/" title="Give back through KU Endowment">Giving</a></li> 
+            <li><a href="http://employment.ku.edu" title="Find employment at KU">Jobs</a></li> 
+            <li><a href="https://publicsafety.ku.edu" title="Public Safety Office">Safety</a></li> 
+           </ul> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div>
+      <div class="grid-3 region region-ku-footer-third" id="region-ku-footer-third"> 
+       <div class="region-inner region-ku-footer-third-inner"> 
+        <div class="block block-ku-static block-ku-static-kufooter-contact block-ku-static-ku-static-kufooter-contact odd block-without-title" id="block-ku-static-ku-static-kufooter-contact"> 
+         <div class="block-inner clearfix"> 
+          <div class="content clearfix"> 
+           <a href="https://ku.edu/contact/" title="Contact KU">Contact KU</a>
+           <br> Lawrence, KS | 
+           <a href="http://admissions.ku.edu/visit/maps.shtml" title="KU Maps">Maps</a> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div>
+      <div class="grid-12 region region-ku-footer-legal" id="region-ku-footer-legal"> 
+       <div class="region-inner region-ku-footer-legal-inner"> 
+        <div class="block block-ku-static block-ku-static-kufooter-legal block-ku-static-ku-static-kufooter-legal odd block-without-title" id="block-ku-static-ku-static-kufooter-legal"> 
+         <div class="block-inner clearfix"> 
+          <div class="content clearfix"> 
+           <p> The University of Kansas <a href="https://documents.ku.edu/policies/IOA/Nondiscrimination.htm">prohibits discrimination</a> on the basis of race, color, ethnicity, religion, sex, national origin, age, ancestry, disability, status as a veteran, sexual orientation, marital status, parental status, gender identity, gender expression, and genetic information in the university's programs and activities. Retaliation is also prohibited by university policy. The following persons have been designated to handle inquiries regarding the nondiscrimination policies and are the Title IX coordinators for their respective campuses: Director of the Office of Institutional Opportunity &amp; Access, <a href="mailto:IOA@ku.edu" style="color:#ccc">IOA@ku.edu</a>, Room 1082, Dole Human Development Center, 1000 Sunnyside Avenue, Lawrence, KS 66045, 785-864-6414, 711 TTY (for the Lawrence, Edwards, Parsons, Yoder, and Topeka campuses); Director, Equal Opportunity Office, Mail Stop 7004, 4330 Shawnee Mission Parkway, Fairway, KS 66205, 913-588-8011, 711 TTY (for the Wichita, Salina, and Kansas City, Kansas medical center campuses). </p> 
+           <p><a href="http://ksdegreestats.org/"><img src="https://ku.edu/assets/ku-template/images/KSDegreeStats_Logo_Std.png" style="margin-top:10px;" width="197" height="20" alt="Kansas Degree Statistics" title="Kansas Degree Statistics"></a></p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div>
+   </footer> 
+  </div> 
+  <div class="region region-page-bottom" id="region-page-bottom"> 
+   <div class="region-inner region-page-bottom-inner"> 
+   </div> 
+  </div>
+  <!-- Analytics Code --> 
+  <script type="text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        
+        ga('create', 'UA-56250057-1', 'auto', { 'name':'allaccountrollup', 'cookieDomain': 'none'});
+        ga('allaccountrollup.send', 'pageview');
+        
+                    ga('create', 'UA-56252571-1', 'auto', { 'name':'organization', 'cookieDomain': 'none'});
+            ga('organization.send', 'pageview');
+        
+                            ga('create', 'UA-9718539-16', 'auto', { 'name':'trackingid', 'cookieDomain': 'none', 'allowLinker': true});
+                ga('trackingid.send', 'pageview');
+                            
+        
+        
+                    ga('create', 'UA-9718539-16', 'auto', { 'cookieDomain': 'none'});
+            ga('send', 'pageview');
+        
+
+                      var role = $kuj.cookie('affiliation');
+if (role !== undefined){ 
+  ga('set', 'dimension1', role); 
+}         
+</script> 
+  <!-- End Analytics Code -->   
+ </body>
+</html>

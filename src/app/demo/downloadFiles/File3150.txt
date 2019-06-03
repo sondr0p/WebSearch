@@ -1,0 +1,253 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head id="Head1">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <link rel="stylesheet" type="text/css" href="Styles/ITS_styles.css"> 
+  <script type="text/javascript" src="Scripts/script.js"></script> 
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu:400,700|Shanti" rel="stylesheet" type="text/css">
+  <title>
+	Express Products List (EPL) Registration
+</title> 
+  <script type="text/javascript">
+            function validateValue(source, args) {
+                if (args.Value == "") {
+                    args.IsValid = false;
+                    document.getElementById(source.id.replace('cv', 'txt')).className = 'Invalid';
+                }
+                else {
+                    args.IsValid = true;
+                    document.getElementById(source.id.replace('cv', 'txt')).className = 'Valid';
+                }
+
+                function ValidateAmount(source, args) {
+                    if (valid)
+                        args.IsValid = true;
+                    else
+                        args.IsValid = false;
+                }
+            }  
+    </script> 
+  <script type="text/javascript">
+        function DisableButton(b) {
+            b.value = 'Submitting';
+        }
+</script> 
+  <style type="text/css">
+        .label
+        {
+            text-align: left;
+        }
+        .style1
+        {
+            /*background-color: #FEFEE9;  changed color */
+            /*width: 204px;*/
+            width:40%;
+            text-align: right;
+            background-color: #F6F6F6;
+            font-size:small;
+        }
+        </style> 
+ </head> 
+ <body> 
+  <form method="post" action="./" onsubmit="javascript:return WebForm_OnSubmit();" id="Form1"> 
+   <div class="aspNetHidden"> 
+    <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value=""> 
+    <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value=""> 
+    <input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value=""> 
+    <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="c/OtmhW42QpQLdHBOx7Vh3EY7L29W3QbeRmqZ0GAVmrDz9IKL1C/XckygrPuuyV3Tua7b2ku3BHH2YtkrbuDtt0468W30aXBqfMK1sFoK7Qib+6xWH7Z5ttKPiuM7jO+cCOe//9faEAhCh6IRb1JAIoqeT3l1tDyMi5JoZpOCbiixaJ82DsQeURhIhz1ufYnk9RCmmTevtJEezOKIhkHmD3AGH9HDP8gEvY7hgiLZ2x19Jp++dkEr/KriZHsCdK28AwqDR7Wfo2FaqrU8Ubfn4EfPaTG2N01ko66WCiCwidphCCZbj41jACcUb03h4NC1iEu58Aa7W6Tn5JgOoj7JgM8/XHXvWxs+7QKC1uwpqn9UnvBtN9Lr+l+1Ly1LISokjQt6qOY8C52tNuwwj2za8/bC7s6Bozs8WN4GuNJA9etzqb5C8nXF2FIg28vSonfzWpukUpnRNzJa+/i1wisrFaPHUMWw39S1BWMHdoaIbfUv2SEB2N+ZzROcpWw5Rgphd0zMNf8gNF6j4W7ZLoB8fg41BTyQWf+GxlmTJ/6bhDKbkZ3BVH52F1zQz97YXGSbuu3lpvykeyJCnL2kQHcjOiqGvfof1vz9yXJcx/dTW7oYEA5okNNzdxY6iiVOVELzAWX4InyZdT5Ejs1rWaHhtaHaafH9yVDXREm4fyDVL5XvuGnVJ3NEo5IoZt6gRdwuMI/kbC4+P8TWeAl6gbD6E76D2SJsLhQJPDC8GCP0jhE2QyyRBrJJGwj3mhsnlK9eE8Pw2vYEHVFeY0fztdh4C7qO5C2AYq2+nmM5kLlXfvoJWWQXwfy9t9ybDo7skv6uKn5hpKPSYjwi7Zi/V/DEy5zKycMRraBxUyp+PDVI6Sw8nQNY5Z7AzpOTKcXqjI/n2Z0QMlO8s9rCtrUcfiMErqdSbdMVDr19sqe6YsdUrIaVH+IQZNQPUXeYLob9KHVHbaz0RJz2umrbhDVHk9h6WxiAWZZl+YXFd3BJ7l2ozH7VhYw2kJs3CfDJnT9DOJPQ1QctUZUjmhhRz8980yNjQG0L3GUyn1GEBf2jeK1KPAa/7Nw879fjq3b2uOPW19uj1ZFESNaxk3Pw8rGVHUSnpeG7QO5mg0d5TXYFTMJZ98O3822Bc9osguCRZDlAQlZqo6V4wpdbLnv3UNvclKDZU9yrkZVfAiAGlnF5Dq9+p1+1slBkcH1qSZDvW6V1YONsjmIm3bGTeGqhHyQEJJIaO3kFwrp+mudXa+eXlQjTWyDetC/7OLGP3cb6b8qDllZkKVcv/0M6Jb0vGz5ynigdOyqP54kk3rXLc10+xA0oZmC1I/VMKLo5CCO1WbRKTsSJtAhV3bNUHElGjGj9Nt9np+HGfO/6wxf+1kH1SdWnorMacp09uKkRx1gE48ZkWYgrSiCruI8ISwgUJla5o6TP+L0J4YYl3HtUQEj9F05B3iahgeZsgmVas8Xv/4L/2wN68YIH6km6Dx6xKUw469hiACro9OOvgS5R8ahyzSSa0sR6s/B8sNEH8vPsZPoK6CUKHUEJJVEqVqunA0mPorB7Dmy7Qk="> 
+   </div> 
+   <script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['Form1'];
+if (!theForm) {
+    theForm = document.Form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script> 
+   <script src="/its/epl_registration/WebResource.axd?d=rDPClAzTRK8B7_hSQeH1lVYXpedois037SrOHbT4DZqTC_HxmR7AHWiGw2C8mC5H8OmaIQnHYWNELaQNaKIvnTC9CXU1&amp;t=636765211280000000" type="text/javascript"></script> 
+   <script src="/its/epl_registration/ScriptResource.axd?d=OPJIYz1_qYBnhO4D0r7Vm4DhNpD42x6Y1fMksggiyCIIh-VO-O4L69I01OgEqPLxAYKUMRDwCuDQFZNBs8458d9_Ll49FmJHfmLxYmR_6XI1-fACkgQBZYkSc7qHLY_R2zj6pIfxqE0StJVynD9T980rlVs1&amp;t=29665526" type="text/javascript"></script> 
+   <script src="/its/epl_registration/ScriptResource.axd?d=N8yu_mCSw7pVNHUVoudvaMGGIlmXcbGcEsxisGp4ai2M86PFhC3qL_Q-rAUWZR38k_FA1lj6PVNDwCL3EtzZAyPm_D5Yy2W5miiVW-RF9TMGFZydO_ttUZNFKVI9cNIa7v6OeA2&amp;t=734d43f5" type="text/javascript"></script> 
+   <script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script> 
+   <script src="/its/epl_registration/ScriptResource.axd?d=h2sh8WDIdssVKzcgpLvRtBnl7-MuzoWOBJEVU5kBuiTUkkrEAvMhiuxPrDX_Ewf_zvO73d2Cqyla6Q0vaz7mv_nZ9jyY-9Kc5GpmnEuQEbyqcndNCkkk3B3YfYXJnRTZRWYX-w2&amp;t=734d43f5" type="text/javascript"></script> 
+   <script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script> 
+   <div class="aspNetHidden"> 
+    <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="45FB4797"> 
+    <input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value=""> 
+   </div> 
+   <div id="divReportBug" style="position:fixed; top:30%; left:2%;"> 
+    <img src="images/reportIssue_bttn.png" id="Button_ReportBug" onclick="javascript: reportBug();" alt="Report Bug"> 
+    <script type="text/javascript">
+            hideBugTool();
+        </script> 
+   </div> 
+   <div id="container"> 
+    <div id="header"> 
+     <a href="http://www.its.ms.gov"><img src="images/header.png" width="958" height="274" alt="Go to the ITS website"></a> 
+     <div class="row"> 
+      <div class="cell"> 
+       <span class="section">Express Products Lists Registration</span> 
+      </div> 
+      <div class="cell contentRight"> 
+       <input type="submit" name="ctl00$btnlogout" value="ITS Home" id="btnlogout" class="logoutbtn"> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="app"> 
+     <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$MainContent$ScriptManager1', 'Form1', ['tctl00$MainContent$Wizard1$GeneralEPLPnl','MainContent_Wizard1_GeneralEPLPnl'], [], [], 90, 'ctl00');
+//]]>
+</script> 
+     <div id="MainContent_Progress" style="margin:0 auto; width:800px; clear:both; padding-top:20px; " class="wizard-steps"> 
+      <div id="MainContent_Step1" class="active-step"> 
+       <a href="#step-one"><span>1</span> General EPLs</a>
+      </div> 
+      <div id="MainContent_Step2"> 
+       <a href="#step-two"><span>2</span> Company Information</a>
+      </div> 
+      <div id="MainContent_Step3"> 
+       <a href="#step-three"><span>3</span>Review</a>
+      </div> 
+      <div id="MainContent_Step4"> 
+       <a href="#step-four"><span>4</span>Disclaimer</a>
+      </div> 
+     </div> 
+     <div style="margin:0 auto; width:800px; clear:both; padding-top:20px;"> 
+      <table cellspacing="0" cellpadding="0" id="MainContent_Wizard1" style="width:800px;border-collapse:collapse;"> 
+       <tbody>
+        <tr style="height:100%;"> 
+         <td> 
+          <div id="MainContent_Wizard1_GeneralEPLPnl"> 
+           <div style="text-align:center"> 
+            <div id="MainContent_Wizard1_ValidationSummary1" class="errorMessage" style="text-align:center;">
+              There are currently no active EPLs
+             <br> 
+            </div> 
+           </div> 
+           <table border="0" style="width:100%" cellpadding="5"> 
+            <tbody>
+             <tr style="width:800px"> 
+              <td class="style1"> General EPL: </td> 
+              <td style="text-align:left; padding-left:5px"> <select name="ctl00$MainContent$Wizard1$ddlGeneralEPL" onchange="javascript:setTimeout('__doPostBack(\'ctl00$MainContent$Wizard1$ddlGeneralEPL\',\'\')', 0)" id="MainContent_Wizard1_ddlGeneralEPL"> <option selected value="-">PLEASE SELECT EPL</option> </select> <span id="MainContent_Wizard1_RequiredFieldValidator17" style="color:Red;display:none;"></span> </td> 
+             </tr> 
+            </tbody>
+           </table>
+           <br>
+           <br> 
+          </div> </td> 
+        </tr>
+        <tr> 
+         <td align="center"> 
+          <table> 
+           <tbody>
+            <tr> 
+             <td width="40%" valign="top" align="right"> 
+              <div class="actions" style="display: inline-block; float: left;"> 
+               <input type="submit" name="ctl00$MainContent$Wizard1$StartNavigationTemplateContainerID$btnContinue" value="Continue ?" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$Wizard1$StartNavigationTemplateContainerID$btnContinue&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="MainContent_Wizard1_StartNavigationTemplateContainerID_btnContinue" class="button01 button"> &nbsp;&nbsp;
+              </div></td> 
+             <td valign="top">
+              <div class="actions" style="display: inline-block; float: left;"> 
+               <input type="submit" name="ctl00$MainContent$Wizard1$StartNavigationTemplateContainerID$btnCancel" value="x Cancel" id="MainContent_Wizard1_StartNavigationTemplateContainerID_btnCancel" class="button02 button"> 
+              </div></td> 
+            </tr> 
+           </tbody>
+          </table> </td> 
+        </tr> 
+       </tbody>
+      </table> 
+     </div> 
+    </div> 
+    <div id="footer"> 
+     <div class="footerTop">
+      <img src="images/footerTop.png" width="958" height="50">
+     </div> 
+     <div class="footerContent"> 
+      <div class="cellLeft"> 
+       <p> <a href="default.aspx">Home</a> | <a href="admin/default.aspx">Login</a> | FAQ | Contact Us | Disclaimer </p> 
+       <p>© Copyright 1970-2012 Mississippi Department of Information Technology Services. All Rights Reserved.</p> 
+       <br> 
+       <br>
+      </div> 
+      <div class="cellRight contentRight"> 
+       <div class="msGov">
+        <a href="http://www.new.ms.gov"><img src="images/msGov.png" width="250" height="110" alt="ms.gov"></a>
+       </div> 
+      </div> 
+     </div> 
+     <div class="footerBttm">
+      <img src="images/footerBttm.png" width="958" height="68">
+     </div> 
+    </div> 
+   </div> 
+   <script type="text/javascript">
+//<![CDATA[
+var Page_ValidationSummaries =  new Array(document.getElementById("MainContent_Wizard1_ValidationSummary1"));
+var Page_Validators =  new Array(document.getElementById("MainContent_Wizard1_RequiredFieldValidator17"));
+//]]>
+</script> 
+   <script type="text/javascript">
+//<![CDATA[
+var MainContent_Wizard1_ValidationSummary1 = document.all ? document.all["MainContent_Wizard1_ValidationSummary1"] : document.getElementById("MainContent_Wizard1_ValidationSummary1");
+MainContent_Wizard1_ValidationSummary1.displaymode = "List";
+var MainContent_Wizard1_RequiredFieldValidator17 = document.all ? document.all["MainContent_Wizard1_RequiredFieldValidator17"] : document.getElementById("MainContent_Wizard1_RequiredFieldValidator17");
+MainContent_Wizard1_RequiredFieldValidator17.controltovalidate = "MainContent_Wizard1_ddlGeneralEPL";
+MainContent_Wizard1_RequiredFieldValidator17.errormessage = "There are currently no active EPLs";
+MainContent_Wizard1_RequiredFieldValidator17.display = "None";
+MainContent_Wizard1_RequiredFieldValidator17.isvalid = "False";
+MainContent_Wizard1_RequiredFieldValidator17.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+MainContent_Wizard1_RequiredFieldValidator17.initialvalue = "-";
+//]]>
+</script> 
+   <script type="text/javascript">
+//<![CDATA[
+
+(function(id) {
+    var e = document.getElementById(id);
+    if (e) {
+        e.dispose = function() {
+            Array.remove(Page_ValidationSummaries, document.getElementById(id));
+        }
+        e = null;
+    }
+})('MainContent_Wizard1_ValidationSummary1');
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        
+document.getElementById('MainContent_Wizard1_RequiredFieldValidator17').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('MainContent_Wizard1_RequiredFieldValidator17'));
+}
+//]]>
+</script> 
+  </form>   
+ </body>
+</html>

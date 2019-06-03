@@ -1,0 +1,620 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+	Manage Stress - healthfinder.gov
+</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+  <meta name="keywords" content="heart health, mental health, how to manage stress, managing stress, relaxation, relaxation techniques">
+  <meta name="description" content="Preventing and managing chronic (ongoing) stress can help lower your risk for serious health problems like heart disease, obesity, high blood pressure, and depression. Share this resource to help people manage stress.">
+  <link rel="canonical" href="https://healthfinder.gov:443/HealthTopics/Dispatch.aspx?q1=doctor-visits/screening-tests/talk-with-your-doctor-about-depression/HealthTopics/Category/health-conditions-and-diseases&amp;q2=heart-health&amp;q3=manage-stress">
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+  <meta name="verify-v1" content="SGDyDYxOiYbFQAhohrwKuaxwOiCVv2eZij6NzZ678Cg=">
+  <meta name="y_key" content="e1fae57e8f96398e">
+  <link href="/css/reset.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/styles.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/styles-esp.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/font-awesome.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/flexslider.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/jquery.tweet.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/colorbox/colorbox.css" rel="stylesheet" media="all">
+  <link href="/css/redmond/jquery-ui-1.8.20.custom.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/jquery.dataTables.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/jquery.dataTables_themeroller.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/quickguide.css" rel="stylesheet" media="all">
+  <link href="/css/myhealthfinder.css" rel="stylesheet" media="all">
+  <link href="/css/ecards.css" rel="stylesheet" media="all">
+  <link href="/css/quiz.css" rel="stylesheet" media="all">
+  <link href="/css/surveys.css" rel="stylesheet" media="screen">
+  <link href="/css/odphp-global-nav.css" rel="stylesheet" media="all"> 
+  <!--[if (gte IE 6)&(lte IE 8)]>
+        <script type="text/javascript" src="/js/selectivizr-min.js"></script>
+    <![endif]--> 
+  <!--[if IE 7]>
+        <link rel="stylesheet" type="text/css" media="all" href="/css/ie7.css" /><link rel="stylesheet" type="text/css" media="all" href="/css/font-awesome-ie7.css" />
+        <![endif]--> 
+  <!--[if IE 8]><link rel="stylesheet" type="text/css" media="all" href="/css/ie8.css" /><![endif]--> 
+  <link type="text/css" rel="stylesheet" href="/css/search-suggest.css">
+  <link type="text/css" rel="stylesheet" href="/css/print.css" media="print"> 
+ </head> 
+ <body id="body" class="english"> 
+  <!-- Google Tag Manager --> 
+  <noscript>
+   <iframe src="//www.googletagmanager.com/ns.html?id=GTM-5TG7CH&amp;NoJavascriptType=web&amp;NoJavascriptCID=2240d800-d387-53ce-8f4e-f8fc868d2021&amp;NoJavascriptURL=https%3a%2f%2fhealthfinder.gov%2fHealthTopics%2fCategory%2fdoctor-visits%2fscreening-tests%2ftalk-with-your-doctor-about-depression%2fHealthTopics%2fCategory%2fhealth-conditions-and-diseases%2fheart-health%2fmanage-stress&amp;NoJavascriptLang=en-US&amp;NoJavascriptReferrer=&amp;NoJavascriptTitle=" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript> 
+  <script>(function (w, d, s, l, i) {
+w[l] = w[l] || []; w[l].push({
+'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'AnalyticsLogicLayer', 'GTM-5TG7CH');</script> 
+  <!-- End Google Tag Manager --> 
+  <div id="HideIfWidget1"> 
+   <div class="global-nav"> 
+    <div class="global-nav-odphp">
+     <span>Office of Disease Prevention and Health Promotion</span>
+    </div> 
+    <ul> 
+     <li><a href="https://health.gov/" class="global-nav-healthgov">health.gov</a></li> 
+     <li><a href="https://healthfinder.gov/" class="global-nav-healthfinder global-nav-current">healthfinder.gov</a></li> 
+     <li><a href="https://healthypeople.gov/" class="global-nav-healthypeople">healthypeople.gov</a></li> 
+    </ul> 
+   </div> 
+   <img class="print-logo" src="/images/footer-hf-logo.png" alt="Department of Health and Human Services"> 
+  </div> 
+  <div id="page"> 
+   <div id="HideIfWidget2"> 
+    <a href="https://www.hhs.gov/" class="parent-banner">U.S. Department of Health and Human Services</a> 
+    <div id="header" class="clearfix" role="banner"> 
+     <div id="skip"> 
+      <a class="skipnav" href="#skipnav" tabindex="1">Skip to Content</a> 
+     </div> 
+     <div id="espanol">
+      <a href="/espanol">En español</a>
+     </div> 
+     <div id="mobile-menu-trigger" class="mobile-hide"> 
+      <h2>Menu</h2> 
+     </div> 
+     <div id="logo"> 
+      <a href="/"> <img src="/images/logo.png" alt="healthfinder.gov"> </a> 
+     </div> 
+     <div id="search-box" role="search"> 
+      <form action="/search" method="get"> 
+       <label for="searchText">Search healthfinder.gov:</label> 
+       <input id="searchText" aria-autocomplete="both" aria-haspopup="true" autocomplete="off" class="search_text" type="search" name="q"> 
+       <span class="query-suggestions-wrap"> <span id="query_suggestions" class="query-suggestions" aria-live="off"></span> </span> 
+       <span id="query_status" class="query-status" aria-live="polite"></span> 
+       <input id="searchButton" class="search_button" value="Go" type="submit"> 
+      </form> 
+     </div> 
+     <!-- /#search-box --> 
+     <div class="clear"></div> 
+    </div> 
+   </div> 
+   <div id="content" class="clearfix"> 
+    <div id="HideIfWidget3"> 
+     <div class="main_menu"> 
+      <div id="engMenu1_mainMenu" role="navigation">
+       <ul class="menu menu-hide"> 
+        <li data-path="/healthtopics/topic.aspx"> <a href="/Default.aspx">Home</a> </li> 
+        <li data-path="/healthtopics/topic.aspx" class="active"> <a href="/HealthTopics/">Health Topics A to Z</a> </li> 
+        <li data-path="/healthtopics/topic.aspx"> <a href="/myhealthfinder/">myhealthfinder</a> </li> 
+        <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/">Free Web Content</a> 
+         <ul> 
+          <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/HealthTopics/">Health and Wellness Topics</a> </li> 
+          <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/PreventiveServices/">myhealthfinder: Preventive Services Recommendations</a> </li> 
+          <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/Videos/">Videos</a> </li> 
+          <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/HealthWidgets/">Health Widgets and Badges</a> </li> 
+          <li data-path="/healthtopics/topic.aspx"> <a href="/FreeContent/Developer/">APIs for Developers</a> </li> 
+         </ul> </li> 
+        <li data-path="/healthtopics/topic.aspx"> <a href="/FindServices/">Find Services Near&nbsp;You</a> </li> 
+        <li data-path="/healthtopics/topic.aspx"> <a href="/NHO/">National Health Observances</a> </li> 
+        <li class="mobile-hide espanol" data-path="/healthtopics/topic.aspx"> <a href="/espanol">En español</a> </li> 
+       </ul>
+      </div> 
+      <div class="connect clearfix"> 
+       <p class="connect-text">Find us on:</p> 
+       <a class="facebook connect-button" href="https://www.facebook.com/healthfinder" title="Facebook"> <img src="/images/icon-fb.png" alt="Facebook icon"></a> 
+       <a class="twitter connect-button" href="https://www.twitter.com/healthfinder" title="Twitter"> <img src="/images/icon-twitter.png" alt="Twitter icon"></a> 
+       <!-- <a class="rss connect-button" href="/News/rss.asp" title="RSS">
+        <img src="/images/icon-rss.png" alt="RSS icon" /></a> --> 
+       <div class="email-updates-container"> 
+        <a id="email-updates" href="https://public.govdelivery.com/accounts/USOPHSODPHPHF/subscriber/new?topic_id=USOPHSODPHPHF_1" target="_blank">Get Email Updates</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="main_content" role="main"> 
+     <div id="HideIfWidget4"> 
+      <div id="breadcrumb"> 
+       <span id="engBreadcrumbs1_SiteMapPath1"><span><a href="/Default.aspx">Home</a></span><span> &gt; </span><span><a href="/HealthTopics/Default.aspx">Health Topics A to Z</a></span><span> &gt; </span><span><a href="/HealthTopics/Category/health-conditions-and-diseases">Health Conditions and Diseases</a></span><span> &gt; </span><span><a href="/HealthTopics/Category/health-conditions-and-diseases/heart-health">Heart Health</a></span><span> &gt; </span><span>Manage Stress</span></span> 
+      </div> 
+      <div id="engBreadcrumbs1_addThisPanel"> 
+       <div id="addThisCode" class="clearfix"> 
+        <!-- AddToAny BEGIN --> 
+        <div class="a2a_kit a2a_kit_size_32 a2a_default_style"> 
+         <a class="a2a_dd" href="https://www.addtoany.com/share"></a> 
+         <a class="a2a_button_facebook"></a> 
+         <a class="a2a_button_twitter"></a> 
+        </div> 
+        <script>
+      var a2a_config = a2a_config || {};
+      a2a_config.onclick = 1;
+      </script> 
+        <script async src="https://static.addtoany.com/menu/page.js"></script> 
+        <!-- AddToAny END --> 
+       </div> 
+      </div> 
+      <span id="skipnav"></span> 
+     </div> 
+     <form method="post" action="../../../../../../../../Topic.aspx?id=45&amp;type=topic&amp;noredirect=1&amp;category=9" id="MainForm"> 
+      <div class="aspNetHidden"> 
+       <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzIwMTkxNzIzD2QWAmYPZBYEAgEPZBYGAgIPFgIeBFRleHQFiAE8bWV0YSBuYW1lPSJrZXl3b3JkcyIgY29udGVudD0iaGVhcnQgaGVhbHRoLCBtZW50YWwgaGVhbHRoLCBob3cgdG8gbWFuYWdlIHN0cmVzcywgbWFuYWdpbmcgc3RyZXNzLCByZWxheGF0aW9uLCByZWxheGF0aW9uIHRlY2huaXF1ZXMiIC8+ZAIDDxYCHwAF/wE8bWV0YSBuYW1lPSJkZXNjcmlwdGlvbiIgY29udGVudD0iUHJldmVudGluZyBhbmQgbWFuYWdpbmcgY2hyb25pYyAob25nb2luZykgc3RyZXNzIGNhbiBoZWxwIGxvd2VyIHlvdXIgcmlzayBmb3Igc2VyaW91cyBoZWFsdGggcHJvYmxlbXMgbGlrZSBoZWFydCBkaXNlYXNlLCBvYmVzaXR5LCBoaWdoIGJsb29kIHByZXNzdXJlLCBhbmQgZGVwcmVzc2lvbi4gU2hhcmUgdGhpcyByZXNvdXJjZSB0byBoZWxwIHBlb3BsZSBtYW5hZ2Ugc3RyZXNzLiIgLz5kAgYPFgIfAAX1ATxsaW5rIHJlbD0nY2Fub25pY2FsJyBocmVmPSdodHRwczovL2hlYWx0aGZpbmRlci5nb3Y6NDQzL0hlYWx0aFRvcGljcy9EaXNwYXRjaC5hc3B4P3ExPWRvY3Rvci12aXNpdHMvc2NyZWVuaW5nLXRlc3RzL3RhbGstd2l0aC15b3VyLWRvY3Rvci1hYm91dC1kZXByZXNzaW9uL0hlYWx0aFRvcGljcy9DYXRlZ29yeS9oZWFsdGgtY29uZGl0aW9ucy1hbmQtZGlzZWFzZXMmcTI9aGVhcnQtaGVhbHRoJnEzPW1hbmFnZS1zdHJlc3MnIC8+ZAIDDxYCHgVjbGFzcwUHZW5nbGlzaBYKAgEPZBYCAgUPDxYCHgdWaXNpYmxlaGRkAgIPZBYEAgEPZBYCZg8WAh4JaW5uZXJodG1sBecLPHVsIGNsYXNzPSJtZW51IG1lbnUtaGlkZSI+DQogIDxsaSBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgPGEgaHJlZj0iL0RlZmF1bHQuYXNweCI+SG9tZTwvYT4NCiAgPC9saT4NCiAgPGxpIGRhdGEtcGF0aD0iL2hlYWx0aHRvcGljcy90b3BpYy5hc3B4IiBjbGFzcz0iYWN0aXZlIj4NCiAgICA8YSBocmVmPSIvSGVhbHRoVG9waWNzLyI+SGVhbHRoIFRvcGljcyBBIHRvIFo8L2E+DQogIDwvbGk+DQogIDxsaSBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgPGEgaHJlZj0iL215aGVhbHRoZmluZGVyLyI+bXloZWFsdGhmaW5kZXI8L2E+DQogIDwvbGk+DQogIDxsaSBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgPGEgaHJlZj0iL0ZyZWVDb250ZW50LyI+RnJlZSBXZWIgQ29udGVudDwvYT4NCiAgICA8dWw+DQogICAgICA8bGkgZGF0YS1wYXRoPSIvaGVhbHRodG9waWNzL3RvcGljLmFzcHgiPg0KICAgICAgICA8YSBocmVmPSIvRnJlZUNvbnRlbnQvSGVhbHRoVG9waWNzLyI+SGVhbHRoIGFuZCBXZWxsbmVzcyBUb3BpY3M8L2E+DQogICAgICA8L2xpPg0KICAgICAgPGxpIGRhdGEtcGF0aD0iL2hlYWx0aHRvcGljcy90b3BpYy5hc3B4Ij4NCiAgICAgICAgPGEgaHJlZj0iL0ZyZWVDb250ZW50L1ByZXZlbnRpdmVTZXJ2aWNlcy8iPm15aGVhbHRoZmluZGVyOiBQcmV2ZW50aXZlIFNlcnZpY2VzIFJlY29tbWVuZGF0aW9uczwvYT4NCiAgICAgIDwvbGk+DQogICAgICA8bGkgZGF0YS1wYXRoPSIvaGVhbHRodG9waWNzL3RvcGljLmFzcHgiPg0KICAgICAgICA8YSBocmVmPSIvRnJlZUNvbnRlbnQvVmlkZW9zLyI+VmlkZW9zPC9hPg0KICAgICAgPC9saT4NCiAgICAgIDxsaSBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgICAgIDxhIGhyZWY9Ii9GcmVlQ29udGVudC9IZWFsdGhXaWRnZXRzLyI+SGVhbHRoIFdpZGdldHMgYW5kIEJhZGdlczwvYT4NCiAgICAgIDwvbGk+DQogICAgICA8bGkgZGF0YS1wYXRoPSIvaGVhbHRodG9waWNzL3RvcGljLmFzcHgiPg0KICAgICAgICA8YSBocmVmPSIvRnJlZUNvbnRlbnQvRGV2ZWxvcGVyLyI+QVBJcyBmb3IgRGV2ZWxvcGVyczwvYT4NCiAgICAgIDwvbGk+DQogICAgPC91bD4NCiAgPC9saT4NCiAgPGxpIGRhdGEtcGF0aD0iL2hlYWx0aHRvcGljcy90b3BpYy5hc3B4Ij4NCiAgICA8YSBocmVmPSIvRmluZFNlcnZpY2VzLyI+RmluZCBTZXJ2aWNlcyBOZWFywqBZb3U8L2E+DQogIDwvbGk+DQogIDxsaSBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgPGEgaHJlZj0iL05ITy8iPk5hdGlvbmFsIEhlYWx0aCBPYnNlcnZhbmNlczwvYT4NCiAgPC9saT4NCiAgPGxpIGNsYXNzPSJtb2JpbGUtaGlkZSBlc3Bhbm9sIiBkYXRhLXBhdGg9Ii9oZWFsdGh0b3BpY3MvdG9waWMuYXNweCI+DQogICAgPGEgaHJlZj0iL2VzcGFub2wiPkVuIGVzcGHDsW9sPC9hPg0KICA8L2xpPg0KPC91bD5kAgMPDxYCHwJoZGQCAw9kFgICAw8PFgIfAmhkZAIFD2QWAmYPZBYOAgEPZBYCAgEPDxYEHgtOYXZpZ2F0ZVVybAVsL2VzcGFub2wvdGVtYXMvQ2F0ZWdvcnkvZW5mZXJtZWRhZGVzLXktcHJvYmxlbWFzLWRlLXNhbHVkL2xhLXNhbHVkLWRlbC1jb3Jhem9uL2FwcmVuZGUtYS1jb250cm9sYXItZWwtZXN0cmVzHwJnZGQCAw8WAh8ABQ1NYW5hZ2UgU3RyZXNzZAIHDw8WAh4ISW1hZ2VVcmwFLC9IZWFsdGhUb3BpY3MvZ2xtZWRpYS9pY29ucy9tYW5hZ2VzdHJlc3MuanBnFgIeA2FsdGVkAgkPZBYCZg8WAh4LXyFJdGVtQ291bnQCAhYEZg9kFgRmDxUBClRoZSBCYXNpY3NkAgEPFgIfBwIEFghmD2QWAmYPFQMKdGhlLWJhc2ljcwExCE92ZXJ2aWV3ZAIBD2QWAmYPFQMKdGhlLWJhc2ljcwEyGFNpZ25zIGFuZCBIZWFsdGggRWZmZWN0c2QCAg9kFgJmDxUDCnRoZS1iYXNpY3MBMxBDYXVzZXMgb2YgU3RyZXNzZAIDD2QWAmYPFQMKdGhlLWJhc2ljcwE0GEJlbmVmaXRzIG9mIExvd2VyIFN0cmVzc2QCAQ9kFgRmDxUBDFRha2UgQWN0aW9uIWQCAQ8WAh8HAgUWCmYPZBYCZg8VAwt0YWtlLWFjdGlvbgExEFBsYW4gYW5kIFByZXBhcmVkAgEPZBYCZg8VAwt0YWtlLWFjdGlvbgEyBVJlbGF4ZAICD2QWAmYPFQMLdGFrZS1hY3Rpb24BMwpHZXQgQWN0aXZlZAIDD2QWAmYPFQMLdGFrZS1hY3Rpb24BNBBGb29kIGFuZCBBbGNvaG9sZAIED2QWAmYPFQMLdGFrZS1hY3Rpb24BNQtHZXQgU3VwcG9ydGQCCw8WAh8HAgIWBGYPZBYEZg8VAgp0aGUtYmFzaWNzClRoZSBCYXNpY3NkAgEPFgIfBwIEFghmD2QWBGYPFQQDMjA1ClRoZSBCYXNpY3MIT3ZlcnZpZXePBTxwPk5vdCBhbGwgc3RyZXNzIGlzIGJhZC4mbmJzcDtCdXQgY2hyb25pYyAob25nb2luZykgc3RyZXNzIGNhbiBsZWFkIHRvIGhlYWx0aCBwcm9ibGVtcy48L3A+PHA+UHJldmVudGluZyBhbmQgbWFuYWdpbmcgY2hyb25pYyBzdHJlc3MgY2FuJm5ic3A7bG93ZXIgeW91ciByaXNrIGZvciBzZXJpb3VzIGNvbmRpdGlvbnMgbGlrZSBoZWFydCBkaXNlYXNlLCBvYmVzaXR5LCBoaWdoIGJsb29kIHByZXNzdXJlLCBhbmQgZGVwcmVzc2lvbi48L3A+PHA+WW91IGNhbiBwcmV2ZW50IG9yIHJlZHVjZSBzdHJlc3MgYnk6PC9wPjx1bD48bGk+UGxhbm5pbmcgYWhlYWQmbmJzcDs8L2xpPjxsaT5EZWNpZGluZyB3aGljaCB0YXNrcyBuZWVkIHRvIGJlIGRvbmUgZmlyc3Q8L2xpPjxsaT5QcmVwYXJpbmcgZm9yIHN0cmVzc2Z1bCBldmVudHM8L2xpPjwvdWw+PHA+U29tZSBzdHJlc3MgaXMgaGFyZCB0byBhdm9pZC4gWW91IGNhbiBmaW5kIHdheXMgdG8gbWFuYWdlIHN0cmVzcyBieTo8L3A+PHVsPjxsaT5Ob3RpY2luZyB3aGVuIHlvdSBmZWVsIHN0cmVzc2VkPC9saT48bGk+VGFraW5nIHRpbWUgdG8gcmVsYXg8L2xpPjxsaT5HZXR0aW5nIGFjdGl2ZSBhbmQgZWF0aW5nIGhlYWx0aHk8L2xpPjxsaT5UYWxraW5nIHRvIGZyaWVuZHMgYW5kIGZhbWlseTwvbGk+PC91bD5kAgEPZBYGAgEPDxYCHwJnZGQCAw8PFgQfAAUYU2lnbnMgYW5kIEhlYWx0aCBFZmZlY3RzHwJnFgIeBGhyZWYFDSN0aGUtYmFzaWNzXzJkAgkPDxYCHwAFDzEgb2YgOSBzZWN0aW9uc2RkAgEPZBYEZg8VBAMyMDYKVGhlIEJhc2ljcxhTaWducyBhbmQgSGVhbHRoIEVmZmVjdHPoBDxoMz5XaGF0IGFyZSB0aGUgc2lnbnMgb2Ygc3RyZXNzPzwvaDM+PHA+V2hlbiBwZW9wbGUgYXJlIHVuZGVyIHN0cmVzcywgdGhleSBtYXkgZmVlbDo8L3A+PHVsPjxsaT5Xb3JyaWVkPC9saT48bGk+QW5ncnk8L2xpPjxsaT5JcnJpdGFibGU8L2xpPjxsaT5EZXByZXNzZWQ8L2xpPjxsaT5VbmFibGUgdG8gZm9jdXM8L2xpPjwvdWw+PHA+U3RyZXNzIGFsc28gYWZmZWN0cyB5b3VyIGJvZHkuIFBoeXNpY2FsIHNpZ25zIG9mIHN0cmVzcyBpbmNsdWRlOjwvcD48dWw+PGxpPkhlYWRhY2hlczwvbGk+PGxpPkJhY2sgcGFpbjwvbGk+PGxpPlByb2JsZW1zIHNsZWVwaW5nPC9saT48bGk+VXBzZXQgc3RvbWFjaDwvbGk+PGxpPldlaWdodCBnYWluIG9yIGxvc3M8L2xpPjxsaT5UZW5zZSBtdXNjbGVzPC9saT48bGk+RnJlcXVlbnQgb3IgbW9yZSBzZXJpb3VzIGNvbGRzPC9saT48L3VsPjxwPlN0cmVzcyBpcyBkaWZmZXJlbnQgZm9yIGV2ZXJ5b25lLiA8YSBocmVmPSJodHRwOi8vd3d3Lm1lbnRhbGhlYWx0aGFtZXJpY2EubmV0L3N0cmVzcy1zY3JlZW5lciIgdGFyZ2V0PSJfYmxhbmsiPlRha2UgdGhpcyBxdWl6Jm5ic3A7dG8gYmV0dGVyIHVuZGVyc3RhbmQgeW91ciBzdHJlc3M8L2E+LjwvcD5kAgEPZBYKAgEPDxYCHwJnZGQCAw8PFgQfAAUQQ2F1c2VzIG9mIFN0cmVzcx8CZxYCHwgFDSN0aGUtYmFzaWNzXzNkAgUPDxYCHwJnZGQCBw8PFgQfAAUIT3ZlcnZpZXcfAmcWAh8IBQ0jdGhlLWJhc2ljc18xZAIJDw8WAh8ABQ8yIG9mIDkgc2VjdGlvbnNkZAICD2QWBGYPFQQDMjA3ClRoZSBCYXNpY3MQQ2F1c2VzIG9mIFN0cmVzc6IFPGgzPldoYXQgY2F1c2VzIHN0cmVzcz88L2gzPjxwPkNoYW5nZSBpcyBvZnRlbiBhIGNhdXNlIG9mIHN0cmVzcy4gRXZlbiBwb3NpdGl2ZSBjaGFuZ2VzLCBsaWtlIGhhdmluZyBhIGJhYnkgb3IgZ2V0dGluZyBhIGpvYiBwcm9tb3Rpb24sIGNhbiBiZSBzdHJlc3NmdWwuPC9wPjxwPlN0cmVzcyBjYW4gYmUgc2hvcnQtdGVybSBvciBsb25nLXRlcm0uPC9wPjxoND5Db21tb24gY2F1c2VzIG9mIHNob3J0LXRlcm0gc3RyZXNzOjwvaDQ+PHVsPjxsaT5OZWVkaW5nIHRvIGRvIGEgbG90IGluIGEgc2hvcnQgYW1vdW50IG9mIHRpbWU8L2xpPjxsaT5FeHBlcmllbmNpbmcgbWFueSBzbWFsbCBwcm9ibGVtcyBpbiB0aGUgc2FtZSBkYXksIGxpa2UgYSB0cmFmZmljIGphbSBvciBydW5uaW5nIGxhdGU8L2xpPjxsaT5HZXR0aW5nIGxvc3Q8L2xpPjxsaT5IYXZpbmcgYW4gYXJndW1lbnQ8L2xpPjwvdWw+PGg0PkNvbW1vbiBjYXVzZXMgb2YgbG9uZy10ZXJtIHN0cmVzczo8L2g0Pjx1bD48bGk+UHJvYmxlbXMgYXQgd29yayBvciBhdCBob21lPC9saT48bGk+TW9uZXkgcHJvYmxlbXM8L2xpPjxsaT5DYXJpbmcgZm9yIHNvbWVvbmUgd2l0aCBhIHNlcmlvdXMgaWxsbmVzczwvbGk+PGxpPkNocm9uaWMgKG9uZ29pbmcpIGlsbG5lc3M8L2xpPjxsaT5EZWF0aCBvZiBhIGxvdmVkIG9uZTwvbGk+PC91bD5kAgEPZBYKAgEPDxYCHwJnZGQCAw8PFgQfAAUYQmVuZWZpdHMgb2YgTG93ZXIgU3RyZXNzHwJnFgIfCAUNI3RoZS1iYXNpY3NfNGQCBQ8PFgIfAmdkZAIHDw8WBB8ABRhTaWducyBhbmQgSGVhbHRoIEVmZmVjdHMfAmcWAh8IBQ0jdGhlLWJhc2ljc18yZAIJDw8WAh8ABQ8zIG9mIDkgc2VjdGlvbnNkZAIDD2QWBGYPFQQDNDE4ClRoZSBCYXNpY3MYQmVuZWZpdHMgb2YgTG93ZXIgU3RyZXNzigM8aDM+V2hhdCBhcmUgdGhlIGJlbmVmaXRzIG9mIG1hbmFnaW5nIHN0cmVzcz88L2gzPjxwPk92ZXIgdGltZSwgY2hyb25pYyBzdHJlc3MgY2FuIGxlYWQgdG8gaGVhbHRoIHByb2JsZW1zLiBNYW5hZ2luZyBzdHJlc3MgY2FuIGhlbHAgeW91OjwvcD48dWw+PGxpPlNsZWVwIGJldHRlcjwvbGk+PGxpPkNvbnRyb2wgeW91ciB3ZWlnaHQ8L2xpPjxsaT5HZXQgc2ljayBsZXNzIG9mdGVuPC9saT48bGk+RmVlbCBiZXR0ZXIgZmFzdGVyIHdoZW4geW91IGRvIGdldCZuYnNwO3NpY2s8L2xpPjxsaT5IYXZlIGxlc3MgbmVjayBhbmQgYmFjayBwYWluPC9saT48bGk+QmUgaW4gYSBiZXR0ZXIgbW9vZDwvbGk+PGxpPkdldCBhbG9uZyBiZXR0ZXIgd2l0aCBmYW1pbHkgYW5kIGZyaWVuZHM8L2xpPjwvdWw+ZAIBD2QWCgIBDw8WAh8CZ2RkAgMPDxYEHwAFEFBsYW4gYW5kIFByZXBhcmUfAmcWAh8IBQ4jdGFrZS1hY3Rpb25fMWQCBQ8PFgIfAmdkZAIHDw8WBB8ABRBDYXVzZXMgb2YgU3RyZXNzHwJnFgIfCAUNI3RoZS1iYXNpY3NfM2QCCQ8PFgIfAAUPNCBvZiA5IHNlY3Rpb25zZGQCAQ9kFgRmDxUCC3Rha2UtYWN0aW9uDFRha2UgQWN0aW9uIWQCAQ8WAh8HAgUWCmYPZBYEZg8VBAMyMDkLVGFrZSBBY3Rpb24QUGxhbiBhbmQgUHJlcGFyZfcFPHA+WW91IGNhbiZyc3F1bzt0IGFsd2F5cyBhdm9pZCBzdHJlc3MsIGJ1dCB5b3UgY2FuIHRha2Ugc3RlcHMgdG8gZGVhbCB3aXRoIHlvdXIgc3RyZXNzIGluIGEgcG9zaXRpdmUgd2F5LiBGb2xsb3cgdGhlc2UgOSB0aXBzIGZvciBwcmV2ZW50aW5nIGFuZCBtYW5hZ2luZyBzdHJlc3MuPC9wPjxwPkJlaW5nIHByZXBhcmVkIGFuZCBmZWVsaW5nIGluIGNvbnRyb2wgb2YgeW91ciBzaXR1YXRpb24gbWlnaHQgaGVscCBsb3dlciB5b3VyIHN0cmVzcy48L3A+PGgzPjEuIFBsYW4geW91ciB0aW1lLjwvaDM+PHA+VGhpbmsgYWhlYWQgYWJvdXQgaG93IHlvdSBhcmUgZ29pbmcgdG8gdXNlIHlvdXIgdGltZS4gV3JpdGUgYSB0by1kbyBsaXN0IGFuZCBmaWd1cmUgb3V0IHdoYXQmcnNxdW87cyBtb3N0IGltcG9ydGFudCAmbmRhc2g7IHRoZW4gZG8gdGhhdCB0aGluZyBmaXJzdC4gQmUgcmVhbGlzdGljIGFib3V0IGhvdyBsb25nIGVhY2ggdGFzayB3aWxsIHRha2UuPC9wPjxoMz4yLiBQcmVwYXJlIHlvdXJzZWxmLjwvaDM+PHA+UHJlcGFyZSBhaGVhZCBvZiB0aW1lIGZvciBzdHJlc3NmdWwgZXZlbnRzIGxpa2UgYSBqb2IgaW50ZXJ2aWV3IG9yIGEgaGFyZCBjb252ZXJzYXRpb24gd2l0aCBhIGxvdmVkIG9uZS48L3A+PHVsPjxsaT5TdGF5IHBvc2l0aXZlLjwvbGk+PGxpPlBpY3R1cmUgd2hhdCB0aGUgcm9vbSB3aWxsIGxvb2sgbGlrZSBhbmQgd2hhdCB5b3Ugd2lsbCBzYXkuPC9saT48bGk+SGF2ZSBhIGJhY2stdXAgcGxhbi48L2xpPjwvdWw+ZAIBD2QWCgIBDw8WAh8CZ2RkAgMPDxYEHwAFBVJlbGF4HwJnFgIfCAUOI3Rha2UtYWN0aW9uXzJkAgUPDxYCHwJnZGQCBw8PFgQfAAUYQmVuZWZpdHMgb2YgTG93ZXIgU3RyZXNzHwJnFgIfCAUNI3RoZS1iYXNpY3NfNGQCCQ8PFgIfAAUPNSBvZiA5IHNlY3Rpb25zZGQCAQ9kFgRmDxUEAzIxMAtUYWtlIEFjdGlvbgVSZWxheIEGPGgzPjMuIFJlbGF4IHdpdGggZGVlcCBicmVhdGhpbmcgb3IgbWVkaXRhdGlvbi48L2gzPjxwPkRlZXAgYnJlYXRoaW5nIGFuZCBtZWRpdGF0aW9uIGFyZSAyIHdheXMgdG8gcmVsYXggeW91ciBtdXNjbGVzIGFuZCBjbGVhciB5b3VyJm5ic3A7bWluZC48L3A+PHVsPjxsaT5GaW5kIG91dCBob3cgZWFzeSBpdCBpcyB0byA8YSBocmVmPSJodHRwOi8vd3d3LmhlbHBndWlkZS5vcmcvYXJ0aWNsZXMvc3RyZXNzL3JlbGF4YXRpb24tdGVjaG5pcXVlcy1mb3Itc3RyZXNzLXJlbGllZi5odG0jYnJlYXRoaW5nIj51c2UgZGVlcCBicmVhdGhpbmcgdG8gcmVsYXg8L2E+LjwvbGk+PGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3Lm1heW9jbGluaWMub3JnL3Rlc3RzLXByb2NlZHVyZXMvbWVkaXRhdGlvbi9pbi1kZXB0aC9tZWRpdGF0aW9uL2FydC0yMDA0NTg1OD9wPTEiPlRyeSBtZWRpdGF0aW5nIGZvciBhIGZldyBtaW51dGVzIHRvZGF5PC9hPi48L2xpPjwvdWw+PGgzPjQuIFJlbGF4IHlvdXIgbXVzY2xlcy48L2gzPjxwPlN0cmVzcyBjYXVzZXMgdGVuc2lvbiBpbiB5b3VyIG11c2NsZXMuIFRyeSBzdHJldGNoaW5nIG9yIHRha2luZyBhIGhvdCBzaG93ZXIgdG8gaGVscCB5b3UgcmVsYXguPGEgaHJlZj0iaHR0cHM6Ly93d3cub3JzLm9kLm5paC5nb3Yvc3IvZG9ocy9IZWFsdGhBbmRXZWxsbmVzcy9Fcmdvbm9taWNzL1BhZ2VzL2V4ZXJjaXNlcy5hc3B4I011c2N1bG9za2VsZXRhbCI+IENoZWNrIG91dCB0aGVzZSBzdHJldGNoZXMgeW91IGNhbiBkby48L2E+PC9wPmQCAQ9kFgoCAQ8PFgIfAmdkZAIDDw8WBB8ABQpHZXQgQWN0aXZlHwJnFgIfCAUOI3Rha2UtYWN0aW9uXzNkAgUPDxYCHwJnZGQCBw8PFgQfAAUQUGxhbiBhbmQgUHJlcGFyZR8CZxYCHwgFDiN0YWtlLWFjdGlvbl8xZAIJDw8WAh8ABQ82IG9mIDkgc2VjdGlvbnNkZAICD2QWBGYPFQQDOTE2C1Rha2UgQWN0aW9uCkdldCBBY3RpdmXRBTxoMz41LiBHZXQgYWN0aXZlLjwvaDM+PHA+PGEgaHJlZj0iaHR0cDovL3d3dy5tYXlvY2xpbmljLm9yZy9oZWFsdGh5LWxpdmluZy9zdHJlc3MtbWFuYWdlbWVudC9pbi1kZXB0aC9leGVyY2lzZS1hbmQtc3RyZXNzL2FydC0yMDA0NDQ2OT9wPTEiPlJlZ3VsYXIgcGh5c2ljYWwgYWN0aXZpdHkgY2FuIGhlbHAgcHJldmVudCBhbmQgbWFuYWdlIHN0cmVzczwvYT4uIEl0IGNhbiBhbHNvIGhlbHAgcmVsYXggeW91ciBtdXNjbGVzIGFuZCBpbXByb3ZlIHlvdXIgbW9vZC48L3A+PHVsPjxsaT5BaW0gZm9yIDIgaG91cnMgYW5kIDMwIG1pbnV0ZXMgYSB3ZWVrIG9mIHBoeXNpY2FsIGFjdGl2aXR5LiBUcnkgZ29pbmcgZm9yIGEgYmlrZSByaWRlIG9yIHRha2luZyBhIHdhbGsuPC9saT48bGk+QmUgc3VyZSB0byBleGVyY2lzZSBmb3IgYXQgbGVhc3QgMTAgbWludXRlcyBhdCBhIHRpbWUuPC9saT48bGk+RG8gc3RyZW5ndGhlbmluZyBhY3Rpdml0aWVzICZuZGFzaDsgbGlrZSBjcnVuY2hlcyBvciBsaWZ0aW5nIHdlaWdodHMgJm5kYXNoOyBhdCBsZWFzdCAyIGRheXMgYSZuYnNwO3dlZWsuPC9saT48L3VsPjxwPjxhIGhyZWY9Imh0dHBzOi8vaGVhbHRoZmluZGVyLmdvdi9IZWFsdGhUb3BpY3MvQ2F0ZWdvcnkvaGVhbHRoLWNvbmRpdGlvbnMtYW5kLWRpc2Vhc2VzL2RpYWJldGVzL2dldC1hY3RpdmUiPkZpbmQgb3V0IG1vcmUgYWJvdXQgZ2V0dGluZyBhY3RpdmUuPC9hPjwvcD5kAgEPZBYKAgEPDxYCHwJnZGQCAw8PFgQfAAUQRm9vZCBhbmQgQWxjb2hvbB8CZxYCHwgFDiN0YWtlLWFjdGlvbl80ZAIFDw8WAh8CZ2RkAgcPDxYEHwAFBVJlbGF4HwJnFgIfCAUOI3Rha2UtYWN0aW9uXzJkAgkPDxYCHwAFDzcgb2YgOSBzZWN0aW9uc2RkAgMPZBYEZg8VBAMyNDgLVGFrZSBBY3Rpb24QRm9vZCBhbmQgQWxjb2hvbOUDPGgzPjYuIEVhdCBoZWFsdGh5LjwvaDM+PHA+R2l2ZSB5b3VyIGJvZHkgcGxlbnR5IG9mIGVuZXJneSBieSA8YSBocmVmPSIvSGVhbHRoVG9waWNzL1RvcGljLmFzcHg/aWQ9MjEiPmVhdGluZyBoZWFsdGh5PC9hPiAmbmRhc2g7IGluY2x1ZGluZyB2ZWdldGFibGVzLCBmcnVpdHMsIGFuZCBsZWFuIHNvdXJjZXMgb2YgcHJvdGVpbi48L3A+PGgzPjcuIERyaW5rIGFsY29ob2wgb25seSBpbiBtb2RlcmF0aW9uLjwvaDM+PHA+QXZvaWQgdXNpbmcgYWxjb2hvbCBvciBvdGhlciBkcnVncyB0byBtYW5hZ2UmbmJzcDtzdHJlc3MuIElmIHlvdSBjaG9vc2UgdG8gZHJpbmssIDxhIGhyZWY9Ii9IZWFsdGhUb3BpY3MvVG9waWMuYXNweD9pZD0xNiI+ZHJpbmsgb25seSBpbiBtb2RlcmF0aW9uPC9hPi4gVGhpcyBtZWFucyBubyBtb3JlIHRoYW4gMSBkcmluayBhIGRheSBmb3Igd29tZW4gYW5kIG5vIG1vcmUgdGhhbiAyIGRyaW5rcyBhIGRheSBmb3IgbWVuLjwvcD5kAgEPZBYKAgEPDxYCHwJnZGQCAw8PFgQfAAULR2V0IFN1cHBvcnQfAmcWAh8IBQ4jdGFrZS1hY3Rpb25fNWQCBQ8PFgIfAmdkZAIHDw8WBB8ABQpHZXQgQWN0aXZlHwJnFgIfCAUOI3Rha2UtYWN0aW9uXzNkAgkPDxYCHwAFDzggb2YgOSBzZWN0aW9uc2RkAgQPZBYEZg8VBAM1NTkLVGFrZSBBY3Rpb24LR2V0IFN1cHBvcnTpCzxoMz44LiBUYWxrIHRvIGZyaWVuZHMgYW5kIGZhbWlseS48L2gzPjxwPlRlbGwgeW91ciBmcmllbmRzIGFuZCBmYW1pbHkgaWYgeW91IGFyZSBmZWVsaW5nIHN0cmVzc2VkLiBUaGV5IG1heSBiZSBhYmxlIHRvIGhlbHAuIDxhIGhyZWY9Imh0dHA6Ly93d3cubWF5b2NsaW5pYy5vcmcvaGVhbHRoeS1saXZpbmcvc3RyZXNzLW1hbmFnZW1lbnQvaW4tZGVwdGgvc29jaWFsLXN1cHBvcnQvYXJ0LTIwMDQ0NDQ1P3BnPTEmYW1wO3A9MSIgdGFyZ2V0PSJfYmxhbmsiPkxlYXJuIGhvdyZuYnNwO2ZyaWVuZHMgYW5kIGZhbWlseSBjYW4gaGVscCB5b3UgZmVlbCBsZXNzIHN0cmVzc2VkPC9hPi48L3A+PGgzPjkuIEdldCBoZWxwIGlmIHlvdSBuZWVkIGl0LjwvaDM+PHA+U3RyZXNzIGlzIGEgbm9ybWFsIHBhcnQgb2YgbGlmZS4gQnV0IGlmIHlvdXIgc3RyZXNzIGRvZXNuJnJzcXVvO3QgZ28gYXdheSBvciBrZWVwcyBnZXR0aW5nIHdvcnNlLCB5b3UgbWF5IG5lZWQgaGVscC4gT3ZlciB0aW1lLCBzdHJlc3MgY2FuIGxlYWQgdG8gc2VyaW91cyBwcm9ibGVtcyBsaWtlIGRlcHJlc3Npb24gb3ImbmJzcDthbnhpZXR5LjwvcD48dWw+PGxpPklmIHlvdSBhcmUgZmVlbGluZyBkb3duIG9yIGhvcGVsZXNzLCA8YSBocmVmPSIvSGVhbHRoVG9waWNzL1RvcGljLmFzcHg/aWQ9MzMiPnRhbGsgdG8gYSBkb2N0b3IgYWJvdXQgZGVwcmVzc2lvbjwvYT4uPC9saT48bGk+SWYgeW91IGFyZSBmZWVsaW5nIGFueGlvdXMsIDxhIGhyZWY9Imh0dHBzOi8vd3d3Lm5pbWgubmloLmdvdi9oZWFsdGgvdG9waWNzL2FueGlldHktZGlzb3JkZXJzL2luZGV4LnNodG1sI3BhcnRfMTQ1MzM4IiB0YXJnZXQ9Il9ibGFuayI+ZmluZCBvdXQgaG93IHRvIGdldCBoZWxwIGZvciBhbnhpZXR5PC9hPi48L2xpPjxsaT5JZiB5b3UgaGF2ZSBsaXZlZCB0aHJvdWdoIGFuIHVuc2FmZSBldmVudCwmbmJzcDs8YSBocmVmPSJodHRwczovL3d3dy5uaW1oLm5paC5nb3YvaGVhbHRoL3RvcGljcy9wb3N0LXRyYXVtYXRpYy1zdHJlc3MtZGlzb3JkZXItcHRzZC9pbmRleC5zaHRtbCNwYXJ0XzE0NTM3NSI+ZmluZCBvdXQgYWJvdXQgdHJlYXRtZW50IGZvciBQVFNEIChwb3N0LXRyYXVtYXRpYyBzdHJlc3MgZGlzb3JkZXIpPC9hPi48L2xpPjwvdWw+PHA+QSBtZW50YWwgaGVhbHRoIHByb2Zlc3Npb25hbCAobGlrZSBhIHBzeWNob2xvZ2lzdCBvciBzb2NpYWwgd29ya2VyKSBjYW4gaGVscCB0cmVhdCB0aGVzZSBjb25kaXRpb25zIHdpdGggdGFsayB0aGVyYXB5IChjYWxsZWQgcHN5Y2hvdGhlcmFweSkgb3IgbWVkaWNpbmUuIDxhIGhyZWY9Imh0dHA6Ly93d3cubmltaC5uaWguZ292L2hlYWx0aC90b3BpY3MvcHN5Y2hvdGhlcmFwaWVzL2luZGV4LnNodG1sIiB0YXJnZXQ9Il9ibGFuayI+TGVhcm4gbW9yZSBhYm91dCB0YWxrIHRoZXJhcHk8L2E+LjwvcD48cD5Mb3RzIG9mIHBlb3BsZSBuZWVkIGhlbHAgZGVhbGluZyB3aXRoIHN0cmVzcyAmbmRhc2g7IGl0JnJzcXVvO3Mgbm90aGluZyB0byBiZSBhc2hhbWVkIG9mITwvcD5kAgEPZBYGAgUPDxYCHwJnZGQCBw8PFgQfAAUQRm9vZCBhbmQgQWxjb2hvbB8CZxYCHwgFDiN0YWtlLWFjdGlvbl80ZAIJDw8WAh8ABQ85IG9mIDkgc2VjdGlvbnNkZAIPD2QWCGYPFgQfAAUSU2VwdGVtYmVyIDI2LCAyMDE4HwJnZAIBDw8WBB8EBR0vSGVhbHRoVG9waWNzL1NvdXJjZXMuYXNweCM0NR8CZ2RkAgIPDxYCHwJnZGQCAw8PFgQfBAUqL0ZpbmRTZXJ2aWNlcy9TZWFyY2hDb250ZXh0LmFzcHg/dG9waWM9ODI1HwJnZGQCEQ8PFgIfAmdkFgJmDxYCHwcCAxYGZg9kFgQCAQ8PFgIfBAVaL0hlYWx0aFRvcGljcy9DYXRlZ29yeS9oZWFsdGgtY29uZGl0aW9ucy1hbmQtZGlzZWFzZXMvaGVhcnQtaGVhbHRoL2tlZXAteW91ci1oZWFydC1oZWFsdGh5ZBYCZg8PFgIfBQU0L0hlYWx0aFRvcGljcy9nbG1lZGlhL2ljb25zL2tlZXB5b3VyaGVhcnRoZWFsdGh5LmpwZxYCHwYFF0tlZXAgWW91ciBIZWFydCBIZWFsdGh5ZAIDDw8WBB8ABRdLZWVwIFlvdXIgSGVhcnQgSGVhbHRoeR8EBVovSGVhbHRoVG9waWNzL0NhdGVnb3J5L2hlYWx0aC1jb25kaXRpb25zLWFuZC1kaXNlYXNlcy9oZWFydC1oZWFsdGgva2VlcC15b3VyLWhlYXJ0LWhlYWx0aHlkZAIBD2QWBAIBDw8WAh8EBVsvSGVhbHRoVG9waWNzL0NhdGVnb3J5L2RvY3Rvci12aXNpdHMvc2NyZWVuaW5nLXRlc3RzL3RhbGstd2l0aC15b3VyLWRvY3Rvci1hYm91dC1kZXByZXNzaW9uZBYCZg8PFgIfBQVBL0hlYWx0aFRvcGljcy9nbG1lZGlhL2ljb25zL3RhbGt3aXRoeW91cmRvY3RvcmFib3V0ZGVwcmVzc2lvbi5qcGcWAh8GBSZUYWxrIHdpdGggWW91ciBEb2N0b3IgYWJvdXQgRGVwcmVzc2lvbmQCAw8PFgQfAAUmVGFsayB3aXRoIFlvdXIgRG9jdG9yIGFib3V0IERlcHJlc3Npb24fBAVbL0hlYWx0aFRvcGljcy9DYXRlZ29yeS9kb2N0b3ItdmlzaXRzL3NjcmVlbmluZy10ZXN0cy90YWxrLXdpdGgteW91ci1kb2N0b3ItYWJvdXQtZGVwcmVzc2lvbmRkAgIPZBYEAgEPDxYCHwQFYy9IZWFsdGhUb3BpY3MvQ2F0ZWdvcnkvaGVhbHRoLWNvbmRpdGlvbnMtYW5kLWRpc2Vhc2VzL2NhbmNlci9xdWl0dGluZy1zbW9raW5nLWNvbnZlcnNhdGlvbi1zdGFydGVyc2QWAmYPDxYCHwUFSS9IZWFsdGhUb3BpY3MvZ2xtZWRpYS90b29sc19pY29ucy9xdWl0dGluZ3Ntb2tpbmdjb252ZXJzYXRpb25zdGFydGVycy5qcGcWAh8GBSdRdWl0dGluZyBTbW9raW5nOiBDb252ZXJzYXRpb24gc3RhcnRlcnNkAgMPDxYEHwAFJ1F1aXR0aW5nIFNtb2tpbmc6IENvbnZlcnNhdGlvbiBzdGFydGVycx8EBWMvSGVhbHRoVG9waWNzL0NhdGVnb3J5L2hlYWx0aC1jb25kaXRpb25zLWFuZC1kaXNlYXNlcy9jYW5jZXIvcXVpdHRpbmctc21va2luZy1jb252ZXJzYXRpb24tc3RhcnRlcnNkZAIGD2QWBAIBD2QWAgIBDxYCHwAFF1NhdHVyZGF5LCBKdW5lIDAxLCAyMDE5ZAIDDw8WAh8CaGRkZK+CbGJYFDpHkYqY1CLeNS12efpUmT3DY8tqRSniCn4K"> 
+      </div> 
+      <div class="aspNetHidden"> 
+       <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="942D1C1E"> 
+      </div> 
+      <div class="health_topic_content health-topic-topic"> 
+       <div id="content_utilities" class="utilities"> 
+        <div class="helpers"> 
+         <div class="print"> 
+          <a href="javascript:window.print()" class="button print-button"> Print This Topic </a> 
+         </div> 
+         <div class="espanol"> 
+          <a id="content_translationLink" class="button" href="/espanol/temas/Category/enfermedades-y-problemas-de-salud/la-salud-del-corazon/aprende-a-controlar-el-estres">En español</a> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="health_topic_content_inner_wrap clearfix"> 
+        <div class="pageTitle"> 
+         <h1 class="syndicate"> Manage Stress </h1> 
+         <img id="content_contentImage" class="icon-image" alt="" src="/HealthTopics/glmedia/icons/managestress.jpg"> 
+        </div> 
+        <div id="content_quickguide_select_wrap_bg" class="quickguide_select_wrap-bg"> 
+         <div id="quickguide_select_wrap" class="quickguide_select_wrap"> 
+          <p id="quickguide-menu-trigger" class="quickguide-menu-trigger menu-hide">Browse Sections</p> 
+          <ul id="quickguide_select" class="quickguide_select menu-hide"> 
+           <li><span>The Basics</span> 
+            <ul> 
+             <li> <a href="#the-basics_1">Overview</a> </li> 
+             <li> <a href="#the-basics_2">Signs and Health Effects</a> </li> 
+             <li> <a href="#the-basics_3">Causes of Stress</a> </li> 
+             <li> <a href="#the-basics_4">Benefits of Lower Stress</a> </li> 
+            </ul> </li> 
+           <li><span>Take Action!</span> 
+            <ul> 
+             <li> <a href="#take-action_1">Plan and Prepare</a> </li> 
+             <li> <a href="#take-action_2">Relax</a> </li> 
+             <li> <a href="#take-action_3">Get Active</a> </li> 
+             <li> <a href="#take-action_4">Food and Alcohol</a> </li> 
+             <li> <a href="#take-action_5">Get Support</a> </li> 
+            </ul> </li> 
+          </ul> 
+         </div> 
+        </div> 
+        <!-- /quickguide_select_wrap-bg --> 
+        <div class="content-page-box quickguide_tabbed_content"> 
+         <div class="quickguide_content"> 
+          <div class="quickguide_areas"> 
+           <div id="the-basics" class="topic_area"> 
+            <h2 class="topic_area_title syndicate">The Basics</h2> 
+            <div class="pages"> 
+             <div class="page" id="page_205"> 
+              <h2 class="topic_page_title">The Basics: <span>Overview</span></h2> 
+              <div class="syndicate"> 
+               <p>Not all stress is bad.&nbsp;But chronic (ongoing) stress can lead to health problems.</p>
+               <p>Preventing and managing chronic stress can&nbsp;lower your risk for serious conditions like heart disease, obesity, high blood pressure, and depression.</p>
+               <p>You can prevent or reduce stress by:</p>
+               <ul>
+                <li>Planning ahead&nbsp;</li>
+                <li>Deciding which tasks need to be done first</li>
+                <li>Preparing for stressful events</li>
+               </ul>
+               <p>Some stress is hard to avoid. You can find ways to manage stress by:</p>
+               <ul>
+                <li>Noticing when you feel stressed</li>
+                <li>Taking time to relax</li>
+                <li>Getting active and eating healthy</li>
+                <li>Talking to friends and family</li>
+               </ul> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_0_topic_navigation_0" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_0_pageNextLabel_0" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_0_pageNext_0" class="button next" href="#the-basics_2">Signs and Health Effects</a> </span> 
+                <span class="content_page_link left"> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_0_pageRange_0" class="content_page_range">1 of 9 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+             <div class="page" id="page_206"> 
+              <h2 class="topic_page_title">The Basics: <span>Signs and Health Effects</span></h2> 
+              <div class="syndicate"> 
+               <h3>What are the signs of stress?</h3>
+               <p>When people are under stress, they may feel:</p>
+               <ul>
+                <li>Worried</li>
+                <li>Angry</li>
+                <li>Irritable</li>
+                <li>Depressed</li>
+                <li>Unable to focus</li>
+               </ul>
+               <p>Stress also affects your body. Physical signs of stress include:</p>
+               <ul>
+                <li>Headaches</li>
+                <li>Back pain</li>
+                <li>Problems sleeping</li>
+                <li>Upset stomach</li>
+                <li>Weight gain or loss</li>
+                <li>Tense muscles</li>
+                <li>Frequent or more serious colds</li>
+               </ul>
+               <p>Stress is different for everyone. <a href="http://www.mentalhealthamerica.net/stress-screener" target="_blank">Take this quiz&nbsp;to better understand your stress</a>.</p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_0_topic_navigation_1" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_0_pageNextLabel_1" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_0_pageNext_1" class="button next" href="#the-basics_3">Causes of Stress</a> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_0_pagePrevLabel_1" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_0_pagePrev_1" class="button previous" href="#the-basics_1">Overview</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_0_pageRange_1" class="content_page_range">2 of 9 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+             <div class="page" id="page_207"> 
+              <h2 class="topic_page_title">The Basics: <span>Causes of Stress</span></h2> 
+              <div class="syndicate"> 
+               <h3>What causes stress?</h3>
+               <p>Change is often a cause of stress. Even positive changes, like having a baby or getting a job promotion, can be stressful.</p>
+               <p>Stress can be short-term or long-term.</p>
+               <h4>Common causes of short-term stress:</h4>
+               <ul>
+                <li>Needing to do a lot in a short amount of time</li>
+                <li>Experiencing many small problems in the same day, like a traffic jam or running late</li>
+                <li>Getting lost</li>
+                <li>Having an argument</li>
+               </ul>
+               <h4>Common causes of long-term stress:</h4>
+               <ul>
+                <li>Problems at work or at home</li>
+                <li>Money problems</li>
+                <li>Caring for someone with a serious illness</li>
+                <li>Chronic (ongoing) illness</li>
+                <li>Death of a loved one</li>
+               </ul> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_0_topic_navigation_2" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_0_pageNextLabel_2" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_0_pageNext_2" class="button next" href="#the-basics_4">Benefits of Lower Stress</a> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_0_pagePrevLabel_2" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_0_pagePrev_2" class="button previous" href="#the-basics_2">Signs and Health Effects</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_0_pageRange_2" class="content_page_range">3 of 9 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+             <div class="page" id="page_418"> 
+              <h2 class="topic_page_title">The Basics: <span>Benefits of Lower Stress</span></h2> 
+              <div class="syndicate"> 
+               <h3>What are the benefits of managing stress?</h3>
+               <p>Over time, chronic stress can lead to health problems. Managing stress can help you:</p>
+               <ul>
+                <li>Sleep better</li>
+                <li>Control your weight</li>
+                <li>Get sick less often</li>
+                <li>Feel better faster when you do get&nbsp;sick</li>
+                <li>Have less neck and back pain</li>
+                <li>Be in a better mood</li>
+                <li>Get along better with family and friends</li>
+               </ul> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_0_topic_navigation_3" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_0_pageNextLabel_3" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_0_pageNext_3" class="button next" href="#take-action_1">Plan and Prepare</a> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_0_pagePrevLabel_3" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_0_pagePrev_3" class="button previous" href="#the-basics_3">Causes of Stress</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_0_pageRange_3" class="content_page_range">4 of 9 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+            </div> 
+            <div class="clear"></div> 
+           </div> 
+           <div id="take-action" class="topic_area"> 
+            <h2 class="topic_area_title syndicate">Take Action!</h2> 
+            <div class="pages"> 
+             <div class="page" id="page_209"> 
+              <h2 class="topic_page_title">Take Action: <span>Plan and Prepare</span></h2> 
+              <div class="syndicate"> 
+               <p>You can’t always avoid stress, but you can take steps to deal with your stress in a positive way. Follow these 9 tips for preventing and managing stress.</p>
+               <p>Being prepared and feeling in control of your situation might help lower your stress.</p>
+               <h3>1. Plan your time.</h3>
+               <p>Think ahead about how you are going to use your time. Write a to-do list and figure out what’s most important – then do that thing first. Be realistic about how long each task will take.</p>
+               <h3>2. Prepare yourself.</h3>
+               <p>Prepare ahead of time for stressful events like a job interview or a hard conversation with a loved one.</p>
+               <ul>
+                <li>Stay positive.</li>
+                <li>Picture what the room will look like and what you will say.</li>
+                <li>Have a back-up plan.</li>
+               </ul> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_1_topic_navigation_0" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_1_pageNextLabel_0" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pageNext_0" class="button next" href="#take-action_2">Relax</a> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_1_pagePrevLabel_0" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pagePrev_0" class="button previous" href="#the-basics_4">Benefits of Lower Stress</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_1_pageRange_0" class="content_page_range">5 of 9 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+             <div class="page" id="page_210"> 
+              <h2 class="topic_page_title">Take Action: <span>Relax</span></h2> 
+              <div class="syndicate"> 
+               <h3>3. Relax with deep breathing or meditation.</h3>
+               <p>Deep breathing and meditation are 2 ways to relax your muscles and clear your&nbsp;mind.</p>
+               <ul>
+                <li>Find out how easy it is to <a href="http://www.helpguide.org/articles/stress/relaxation-techniques-for-stress-relief.htm#breathing">use deep breathing to relax</a>.</li>
+                <li><a href="https://www.mayoclinic.org/tests-procedures/meditation/in-depth/meditation/art-20045858?p=1">Try meditating for a few minutes today</a>.</li>
+               </ul>
+               <h3>4. Relax your muscles.</h3>
+               <p>Stress causes tension in your muscles. Try stretching or taking a hot shower to help you relax.<a href="https://www.ors.od.nih.gov/sr/dohs/HealthAndWellness/Ergonomics/Pages/exercises.aspx#Musculoskeletal"> Check out these stretches you can do.</a></p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_1_topic_navigation_1" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_1_pageNextLabel_1" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pageNext_1" class="button next" href="#take-action_3">Get Active</a> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_1_pagePrevLabel_1" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pagePrev_1" class="button previous" href="#take-action_1">Plan and Prepare</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_1_pageRange_1" class="content_page_range">6 of 9 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+             <div class="page" id="page_916"> 
+              <h2 class="topic_page_title">Take Action: <span>Get Active</span></h2> 
+              <div class="syndicate"> 
+               <h3>5. Get active.</h3>
+               <p><a href="http://www.mayoclinic.org/healthy-living/stress-management/in-depth/exercise-and-stress/art-20044469?p=1">Regular physical activity can help prevent and manage stress</a>. It can also help relax your muscles and improve your mood.</p>
+               <ul>
+                <li>Aim for 2 hours and 30 minutes a week of physical activity. Try going for a bike ride or taking a walk.</li>
+                <li>Be sure to exercise for at least 10 minutes at a time.</li>
+                <li>Do strengthening activities – like crunches or lifting weights – at least 2 days a&nbsp;week.</li>
+               </ul>
+               <p><a href="https://healthfinder.gov/HealthTopics/Category/health-conditions-and-diseases/diabetes/get-active">Find out more about getting active.</a></p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_1_topic_navigation_2" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_1_pageNextLabel_2" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pageNext_2" class="button next" href="#take-action_4">Food and Alcohol</a> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_1_pagePrevLabel_2" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pagePrev_2" class="button previous" href="#take-action_2">Relax</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_1_pageRange_2" class="content_page_range">7 of 9 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+             <div class="page" id="page_248"> 
+              <h2 class="topic_page_title">Take Action: <span>Food and Alcohol</span></h2> 
+              <div class="syndicate"> 
+               <h3>6. Eat healthy.</h3>
+               <p>Give your body plenty of energy by <a href="/HealthTopics/Topic.aspx?id=21">eating healthy</a> – including vegetables, fruits, and lean sources of protein.</p>
+               <h3>7. Drink alcohol only in moderation.</h3>
+               <p>Avoid using alcohol or other drugs to manage&nbsp;stress. If you choose to drink, <a href="/HealthTopics/Topic.aspx?id=16">drink only in moderation</a>. This means no more than 1 drink a day for women and no more than 2 drinks a day for men.</p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_1_topic_navigation_3" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> <span id="content_tabContentRepeater_areaContentRepeater_1_pageNextLabel_3" class="pageHeading">Next section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pageNext_3" class="button next" href="#take-action_5">Get Support</a> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_1_pagePrevLabel_3" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pagePrev_3" class="button previous" href="#take-action_3">Get Active</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_1_pageRange_3" class="content_page_range">8 of 9 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+             <div class="page" id="page_559"> 
+              <h2 class="topic_page_title">Take Action: <span>Get Support</span></h2> 
+              <div class="syndicate"> 
+               <h3>8. Talk to friends and family.</h3>
+               <p>Tell your friends and family if you are feeling stressed. They may be able to help. <a href="http://www.mayoclinic.org/healthy-living/stress-management/in-depth/social-support/art-20044445?pg=1&amp;p=1" target="_blank">Learn how&nbsp;friends and family can help you feel less stressed</a>.</p>
+               <h3>9. Get help if you need it.</h3>
+               <p>Stress is a normal part of life. But if your stress doesn’t go away or keeps getting worse, you may need help. Over time, stress can lead to serious problems like depression or&nbsp;anxiety.</p>
+               <ul>
+                <li>If you are feeling down or hopeless, <a href="/HealthTopics/Topic.aspx?id=33">talk to a doctor about depression</a>.</li>
+                <li>If you are feeling anxious, <a href="https://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml#part_145338" target="_blank">find out how to get help for anxiety</a>.</li>
+                <li>If you have lived through an unsafe event,&nbsp;<a href="https://www.nimh.nih.gov/health/topics/post-traumatic-stress-disorder-ptsd/index.shtml#part_145375">find out about treatment for PTSD (post-traumatic stress disorder)</a>.</li>
+               </ul>
+               <p>A mental health professional (like a psychologist or social worker) can help treat these conditions with talk therapy (called psychotherapy) or medicine. <a href="http://www.nimh.nih.gov/health/topics/psychotherapies/index.shtml" target="_blank">Learn more about talk therapy</a>.</p>
+               <p>Lots of people need help dealing with stress – it’s nothing to be ashamed of!</p> 
+              </div> 
+              <div id="content_tabContentRepeater_areaContentRepeater_1_topic_navigation_4" class="topic_navigation clearfix"> 
+               <div class="content_page_navigation clearfix"> 
+                <span class="content_page_link right"> </span> 
+                <span class="content_page_link left"> <span id="content_tabContentRepeater_areaContentRepeater_1_pagePrevLabel_4" class="pageHeading">Previous section</span> <a id="content_tabContentRepeater_areaContentRepeater_1_pagePrev_4" class="button previous" href="#take-action_4">Food and Alcohol</a> </span> 
+                <span id="content_tabContentRepeater_areaContentRepeater_1_pageRange_4" class="content_page_range">9 of 9 sections</span> 
+               </div> 
+              </div> 
+              <!-- /.topic_navigation --> 
+             </div> 
+            </div> 
+            <div class="clear"></div> 
+           </div> 
+           <div id="content_pageDisplayToggleWrap" class="pageDisplayToggleWrap"> 
+            <a href="#" id="pageDisplayToggle" class="pageDisplayToggle">View All</a> 
+           </div> 
+           <div id="content_resourceLinks"> 
+            <div class="resource-links clearfix"> 
+             <p class="last-updated"> <strong>Content last updated on:</strong> September 26, 2018 </p> 
+             <p class="source-links"> <a id="content_contentReviewLink" href="/HealthTopics/Sources.aspx#45">Reviewer Information</a> <span id="content_breakBetweenLinks">&nbsp;|&nbsp;</span> <a id="content_moreResourcesLink" href="/FindServices/SearchContext.aspx?topic=825">Find More Resources</a> </p> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="clear"></div> 
+         </div> 
+         <!-- /.quickguide_content --> 
+         <div class="clear"></div> 
+        </div> 
+        <!-- /.content-page-box --> 
+       </div> 
+       <!-- /.health_topic_content_inner_wrap --> 
+       <div class="shadow-wide"></div> 
+       <div class="content-page-box health-topics-also-interested clearfix"> 
+        <div id="content_interestsPanel" class="topic_interests"> 
+         <h2>You may also be interested in:</h2> 
+         <ul> 
+          <li> <a id="content_interestsRepeater_imageLink_0" class="image_link" href="/HealthTopics/Category/health-conditions-and-diseases/heart-health/keep-your-heart-healthy"><img id="content_interestsRepeater_image_0" alt="Keep Your Heart Healthy" src="/HealthTopics/glmedia/icons/keepyourhearthealthy.jpg"></a> <a id="content_interestsRepeater_titleLink_0" class="title_link" href="/HealthTopics/Category/health-conditions-and-diseases/heart-health/keep-your-heart-healthy">Keep Your Heart Healthy</a> </li> 
+          <li> <a id="content_interestsRepeater_imageLink_1" class="image_link" href="/HealthTopics/Category/doctor-visits/screening-tests/talk-with-your-doctor-about-depression"><img id="content_interestsRepeater_image_1" alt="Talk with Your Doctor about Depression" src="/HealthTopics/glmedia/icons/talkwithyourdoctoraboutdepression.jpg"></a> <a id="content_interestsRepeater_titleLink_1" class="title_link" href="/HealthTopics/Category/doctor-visits/screening-tests/talk-with-your-doctor-about-depression">Talk with Your Doctor about Depression</a> </li> 
+          <li> <a id="content_interestsRepeater_imageLink_2" class="image_link" href="/HealthTopics/Category/health-conditions-and-diseases/cancer/quitting-smoking-conversation-starters"><img id="content_interestsRepeater_image_2" alt="Quitting Smoking: Conversation starters" src="/HealthTopics/glmedia/tools_icons/quittingsmokingconversationstarters.jpg"></a> <a id="content_interestsRepeater_titleLink_2" class="title_link" href="/HealthTopics/Category/health-conditions-and-diseases/cancer/quitting-smoking-conversation-starters">Quitting Smoking: Conversation starters</a> </li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="shadow health-topics-also-interested"></div> 
+       <!-- ./box-left --> 
+      </div> 
+      <!-- /.health-topic-tool --> 
+      <div id="resizable_embedded_link"></div> 
+     </form> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+   </div> 
+   <div id="HideIfWidget5"> 
+    <div id="footer" role="complementary"> 
+     <ul class="footer-links-wide"> 
+      <li><a href="/aboutus/">About Us</a></li> 
+      <li><a href="/aboutus/accessibility.aspx">Accessibility</a></li> 
+      <li><a href="/aboutus/contactus.aspx">Contact Us</a></li> 
+      <li><a href="/Developer">Developers</a></li> 
+      <li><a href="/aboutus/disclaimer.aspx">Disclaimers</a></li> 
+      <li><a href="/aboutus/foia.aspx">Freedom of Information Act</a></li> 
+      <li><a href="https://www.hhs.gov/civil-rights/for-individuals/nondiscrimination/index.html" target="_blank">Nondiscrimination Notice</a></li> 
+      <li><a href="/aboutus/privacy.aspx">Privacy Policy</a></li> 
+      <li><a href="/sitemap.aspx">Site Map</a></li> 
+      <li class="last"><a href="/aboutus/plugins.aspx">Viewers &amp; Players</a></li> 
+      <li class="clear"></li> 
+     </ul> 
+     <div class="clear"></div> 
+     <div class="footer-language"> 
+      <p>Language Assistance Available</p> 
+      <ul class="footer-links-wide"> 
+       <li><a lang="es" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#spanish" target="_blank">Español</a></li> 
+       <li><a lang="zh" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#chinese" target="_blank">????</a></li> 
+       <li><a lang="vi" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#vietnamese" target="_blank">Ti?ng Vi?t</a></li> 
+       <li><a lang="ko" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#korean" target="_blank">???</a></li> 
+       <li><a lang="fr" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#french" target="_blank">Français</a></li> 
+       <li><a lang="pl" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#polish" target="_blank">Polski</a></li> 
+       <li><a lang="pt" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#portugese" target="_blank">Português</a></li> 
+       <li><a lang="it" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#italian" target="_blank">Italiano</a></li> 
+       <li><a lang="tl" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#tagalog" target="_blank">Tagalog</a></li> 
+       <li><a lang="ru" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#russian" target="_blank">???????</a></li> 
+       <li><a lang="ar" dir="rtl" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#arabic" target="_blank">???????</a></li> 
+       <li><a lang="sg" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#creole" target="_blank">Kreyòl Ayisyen</a></li> 
+       <li><a lang="de" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#german" target="_blank">Deutsch</a></li> 
+       <li><a lang="ja" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#japanese" target="_blank">???</a></li> 
+       <li><a lang="fa" dir="rtl" href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#farsi" target="_blank">?????</a></li> 
+       <li class="last"><a href="https://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html#english" target="_blank">English</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+     <div id="footer-bottom"> 
+      <div class="footer-text">
+        A Federal Government website managed by the 
+       <a class="hhs-text-link" href="https://www.hhs.gov/">U.S. Department of Health and Human Services</a> 
+       <br class="hidden-mobile-break"> healthfinder.gov is sponsored by the National Health Information Center 
+       <span class="address-block">200 Independence Avenue, S.W., Washington, DC 20201</span> 
+       <span class="page-updated">Page last updated: Saturday, June 01, 2019</span> 
+      </div> 
+      <div class="logo-box"> 
+       <a class="logo-hhs" href="https://www.hhs.gov/" title="Department of Health and Human Services"> <img src="/images/footer-hhs-logo.png" alt="Department of Health and Human Services"></a> 
+       <a class="logo-odphp" href="https://health.gov/" title="Office of Disease Prevention and Health Promotion"> <img src="/images/odphp-logo-black.png" class="odphp-logo" alt="Office of Disease Prevention and Health Promotion"></a> 
+       <a class="logo-healthfinder" href="https://healthfinder.gov" title="healthfinder.gov"> <img src="/images/footer-hf-logo.png" alt="healthfinder.gov logo"></a> 
+      </div> 
+      <div class="clear"></div> 
+     </div> 
+     <!-- /#footer-bottom --> 
+     <div class="clear"></div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="up_scrollable_indicator"></div> 
+  <div id="down_scrollable_indicator"></div> 
+  <script src="/js/jquery-1.8.3.min.js" type="text/javascript"></script> 
+  <script src="/js/jquery-ui-1.8.16.custom.min.js" type="text/javascript"></script> 
+  <script src="/js/jquery.cycle.all.js" type="text/javascript"></script> 
+  <script src="/js/jquery.colorbox-min.js" type="text/javascript"></script> 
+  <script src="/js/jquery.flexslider.modified.js" type="text/javascript"></script> 
+  <script src="/js/jquery.ba-hashchange.min.js" type="text/javascript"></script> 
+  <script src="/js/healthfinder.js" type="text/javascript"></script> 
+  <script src="/js/jquery.ddslick.min.js" type="text/javascript"></script> 
+  <script src="/js/myhealthfinder.js" type="text/javascript"></script> 
+  <script src="/js/global-nav.js" type="text/javascript"></script> 
+  <script src="/js/outlink.js" type="text/javascript"></script> 
+  <script src="/js/search-suggest.js" type="text/javascript"></script> 
+  <!--AddThis code--> 
+  <script type="text/javascript">
+        var addthis_config = {
+            ui_language: "en"
+      };
+    </script> 
+  <script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=xa-50c0b9a52a842762"></script> 
+  <!-- Document Download tracking --> 
+  <script src="/js/ga_download_tracker.js" type="text/javascript"></script> 
+  <!--CrazyEgg tracking code --> 
+  <script type="text/javascript">
+        setTimeout(function () {
+            var a = document.createElement("script");
+            var b = document.getElementsByTagName("script")[0];
+            a.src = document.location.protocol + "//dnn506yrbagrg.cloudfront.net/pages/scripts/0013/7844.js?" + Math.floor(new Date().getTime() / 3600000);
+            a.async = true; a.type = "text/javascript"; b.parentNode.insertBefore(a, b)
+        }, 1);
+    </script> 
+  <!--BEGIN QUALTRICS SITE INTERCEPT sitewide --> 
+  <script type="text/javascript">
+        (function () {
+            var g = function (e, h, f, g) {
+                this.get = function (a) { for (var a = a + "=", c = document.cookie.split(";"), b = 0, e = c.length; b < e; b++) { for (var d = c[b]; " " == d.charAt(0) ;) d = d.substring(1, d.length); if (0 == d.indexOf(a)) return d.substring(a.length, d.length) } return null };
+                this.set = function (a, c) { var b = "", b = new Date; b.setTime(b.getTime() + 6048E5); b = "; expires=" + b.toGMTString(); document.cookie = a + "=" + c + b + "; path=/; " };
+                this.check = function () { var a = this.get(f); if (a) a = a.split(":"); else if (100 != e) "v" == h && (e = Math.random() >= e / 100 ? 0 : 100), a = [h, e, 0], this.set(f, a.join(":")); else return !0; var c = a[1]; if (100 == c) return !0; switch (a[0]) { case "v": return !1; case "r": return c = a[2] % Math.floor(100 / c), a[2]++, this.set(f, a.join(":")), !c } return !0 };
+                this.xgo = function () { if (this.check()) { var a = document.createElement("script"); a.type = "text/javascript"; a.src = g + "&t=" + (new Date()).getTime(); document.body && document.body.appendChild(a) } };
+                this.go = function () { wait_for_session_delay(30, this.xgo, this); };
+                this.start = function () { var a = this; window.addEventListener ? window.addEventListener("load", function () { a.go() }, !1) : window.attachEvent && window.attachEvent("onload", function () { a.go() }) }
+            };
+            try { (new g(100, "r", "QSI_S_SI_eDVjXbuzcR5eE0B", "//znbqj3egyjwfzib9r-communicatehealth.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_eDVjXbuzcR5eE0B&Q_LOC=" + encodeURIComponent(window.location.href))).start() } catch (i) { }
+        })();
+    </script> 
+  <div id="SI_eDVjXbuzcR5eE0B"> 
+   <!--DO NOT REMOVE-CONTENTS PLACED HERE--> 
+  </div> 
+  <!--END SITE INTERCEPT--> 
+  <!--BEGIN QUALTRICS SITE INTERCEPT feedback link --> 
+  <script type="text/javascript">
+        (function () {
+            var g = function (e, h, f, g) {
+                this.get = function (a) { for (var a = a + "=", c = document.cookie.split(";"), b = 0, e = c.length; b < e; b++) { for (var d = c[b]; " " == d.charAt(0) ;) d = d.substring(1, d.length); if (0 == d.indexOf(a)) return d.substring(a.length, d.length) } return null };
+                this.set = function (a, c) { var b = "", b = new Date; b.setTime(b.getTime() + 6048E5); b = "; expires=" + b.toGMTString(); document.cookie = a + "=" + c + b + "; path=/; " };
+                this.check = function () { var a = this.get(f); if (a) a = a.split(":"); else if (100 != e) "v" == h && (e = Math.random() >= e / 100 ? 0 : 100), a = [h, e, 0], this.set(f, a.join(":")); else return !0; var c = a[1]; if (100 == c) return !0; switch (a[0]) { case "v": return !1; case "r": return c = a[2] % Math.floor(100 / c), a[2]++, this.set(f, a.join(":")), !c } return !0 };
+                this.go = function () { if (this.check()) { var a = document.createElement("script"); a.type = "text/javascript"; a.src = g + "&t=" + (new Date()).getTime(); document.body && document.body.appendChild(a) } };
+                this.start = function () { var a = this; window.addEventListener ? window.addEventListener("load", function () { a.go() }, !1) : window.attachEvent && window.attachEvent("onload", function () { a.go() }) }
+            };
+            try { (new g(100, "r", "QSI_S_SI_cXQyslZ7nyPxAbz", "//znbqj3egyjwfzib9r-communicatehealth.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_cXQyslZ7nyPxAbz&Q_LOC=" + encodeURIComponent(window.location.href))).start() } catch (i) { }
+        })();
+    </script> 
+  <div id="SI_cXQyslZ7nyPxAbz"> 
+   <!--DO NOT REMOVE-CONTENTS PLACED HERE--> 
+  </div> 
+  <!--END SITE INTERCEPT--> 
+  <!--BEGIN QUALTRICS SITE INTERCEPT - page level --> 
+  <script type="text/javascript">
+        (function () {
+            var g = function (e, h, f, g) {
+                this.get = function (a) { for (var a = a + "=", c = document.cookie.split(";"), b = 0, e = c.length; b < e; b++) { for (var d = c[b]; " " == d.charAt(0) ;) d = d.substring(1, d.length); if (0 == d.indexOf(a)) return d.substring(a.length, d.length) } return null };
+                this.set = function (a, c) { var b = "", b = new Date; b.setTime(b.getTime() + 6048E5); b = "; expires=" + b.toGMTString(); document.cookie = a + "=" + c + b + "; path=/; " };
+                this.check = function () { var a = this.get(f); if (a) a = a.split(":"); else if (100 != e) "v" == h && (e = Math.random() >= e / 100 ? 0 : 100), a = [h, e, 0], this.set(f, a.join(":")); else return !0; var c = a[1]; if (100 == c) return !0; switch (a[0]) { case "v": return !1; case "r": return c = a[2] % Math.floor(100 / c), a[2]++, this.set(f, a.join(":")), !c } return !0 };
+                this.go = function () { if (this.check()) { var a = document.createElement("script"); a.type = "text/javascript"; a.src = g + "&t=" + (new Date()).getTime(); document.body && document.body.appendChild(a) } };
+                this.start = function () { var a = this; window.addEventListener ? window.addEventListener("load", function () { a.go() }, !1) : window.attachEvent && window.attachEvent("onload", function () { a.go() }) }
+            };
+            try { (new g(100, "r", "QSI_S_SI_abZk2DnPlZAGHjL", "//znbqj3egyjwfzib9r-communicatehealth.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_abZk2DnPlZAGHjL&Q_LOC=" + encodeURIComponent(window.location.href))).start() } catch (i) { }
+        })();
+    </script> 
+  <div id="SI_abZk2DnPlZAGHjL"> 
+   <!--DO NOT REMOVE-CONTENTS PLACED HERE--> 
+  </div> 
+  <!--END SITE INTERCEPT--> 
+  <script src="https://health.gov/ui/js/lib/survey-wrapper.js"></script> 
+  <script src="/js/quickguide.js" type="text/javascript"></script>   
+ </body>
+</html>

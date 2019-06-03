@@ -1,0 +1,952 @@
+<!doctype html>
+<html lang="en" ng-app="mapp">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <!-- State Of Michigan - Wed May 29 10:24:08 2019 --> 
+  <!-- e-Michigan Portal - Process #1, Server www --> 
+  <link rel="canonical" href="https://www.michigan.gov/whitmer/"> 
+  <title>Whitmer - Whitmer</title> 
+  <meta name="DESCRIPTION" content="Gov. Gretchen Whitmer - Governor Gretchen Whitmer"> 
+  <meta name="KEYWORDS" content="No Keywords"> 
+  <base target="_top"> 
+  <!-- global scripts BOOTSTRAP --> 
+  <!-- bow-scripts include --> 
+  <!-- CSS --> 
+  <link type="text/css" rel="stylesheet" href="/css/fullcalendar.css"> 
+  <link type="text/css" rel="stylesheet" href="/font-som-icons/css/somicons.min.css?20170525100940"> 
+  <link type="text/css" rel="stylesheet" href="/font-awesome/css/font-awesome.min.css"> 
+  <link type="text/css" rel="stylesheet" href="/css/jquery.bxslider.css"> 
+  <!-- javascript --> 
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script> 
+  <script src="/bootstrap/js/bootstrap.min.js"></script> 
+  <script src="/js/fullcalendar.js" type="text/javascript"></script> 
+  <script src="/js/jquery.bxslider.js"></script> 
+  <script src="/js/jquery.rwdImageMaps.js"></script> 
+  <script src="/js/jquery.validate.js"></script> 
+  <script src="/js/additional-methods.js"></script> 
+  <script src="/js/responsiveComponents.js"></script> 
+  <script src="/js/jquery.matchHeight-min.js"></script> 
+  <!--[if (lt IE 9)]>
+<script>
+document.createElement('header');
+document.createElement('nav');
+document.createElement('section');
+document.createElement('article');
+document.createElement('aside');
+document.createElement('footer');
+document.createElement('time');
+</script>
+<script src="/js/respond.js"></script>
+<link href="/css/migov_ie8_OLD.css" rel="stylesheet" media="all" />
+<![endif]--> 
+  <script type="text/javascript" src="/js/bow-general.js?v=1526047680"></script> 
+  <link href="/css/body-theme-whitmer.css?v=1546366342" type="text/css" rel="stylesheet"> 
+  <!-- Agency Header do not include the globalcss file -->
+  <style type="text/css">#nav li a.lvl1 {min-width:100px}</style>
+  <!--/ Agency Header-->
+  <script src="/js/underscorejslib.js?v=1493914450"></script> 
+  <script src="/js/angular_1_6.js?v=1493914427"></script> 
+  <script src="/js/angular_1_6_sanitize.js?v=1493914426"></script> 
+  <script src="/js/angular_1_6_animate.js?v=1493914426"></script> 
+  <script src="/js/angular_1_6_aria.js?v=1493914426"></script> 
+  <script src="/js/angular_1_6_touch.js?v=1493914427"></script> 
+  <script src="/js/angucomplete-alt.js?v=1545075608"></script> 
+  <script src="/js/bootstrapUIangular.js?v=1493914448"></script> 
+  <script type="text/javascript">
+window.navPath = '/agency/leftFullNav/0,,387,00.html';
+window.loadedData = [];
+$('body').addClass('matching-heights-processing');
+var mapp = angular.module('mapp',['ngSanitize','ngAnimate','ui.bootstrap','ngAria','angucomplete-alt','ngTouch']);
+mapp.run(['$location', function($location) {
+			var pathCurrent = $location.path();
+			var searchCurrent = $location.search();
+			$('body').on('click','a[href^="#"]',function(e){
+				e.preventDefault();
+			    var hrefDest = $(this).attr('href');
+				//asses if ID or Anchor
+				hrefDest_clean = hrefDest.replace('#','');
+				var anchorCount = $('a[name="'+hrefDest_clean+'"]').length;
+				var idCount = $(''+hrefDest).length;
+				var destObj;
+				if(anchorCount > 0)
+			    {
+					destObj = $('a[name="'+hrefDest_clean+'"]').filter(':first');
+			    }
+				else if(idCount > 0)
+			    {
+					destObj = $(''+hrefDest);
+			    }
+				var offsetVal = $(destObj).offset().top - 150;
+				// change the path
+				$location.path('/'+hrefDest_clean);
+				//Moving focus and page:
+				$('a[href^="#"]').removeAttr('tabindex');
+				$('html,body').animate({scrollTop:offsetVal}, 500);
+				$(destObj).attr('tabindex',-1).focus();
+			});
+		}]);
+</script> 
+  <script src="/js/angular_custom_factories.js?v=1502904335"></script> 
+  <script src="/js/angular_custom_filters.js?v=1506702035"></script> 
+  <script src="/js/SearchComponentAngular.js?v=1545075601"></script> 
+  <script src="/js/angularSelectList.js?v=1544218134"></script> 
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js"></script> 
+  <script src="/js/gtm.js?v=1501512057"></script> 
+ </head> 
+ <body class="agy-whitmer has-offcanvas-menu off-canvas-center  home-page bow-theme-1 horz-menu full-horz-menu body-theme-whitmer matching-heights-processing"> 
+  <div role="navigation" aria-label="skip nav"> 
+   <noscript> 
+    <div class="alert bg bg-accent-1 text-center"> 
+     <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> Browsers that can not handle javascript will not be able to access some features of this site. 
+     <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> 
+    </div> 
+    <style type="text/css">
+body.matching-heights-processing:before,body.matching-heights-processing:after {
+content:'';
+height:0px;
+width:0px;
+}
+</style> 
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WTW7M9" height="0" width="0" style="display:none;visibility:hidden"></iframe> 
+   </noscript> 
+   <div id="noAdBlock" style="display:none;" class="alert bg bg-accent-1 text-center"> 
+    <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> Some functions of this site are disabled for browsers blocking jQuery. 
+    <span class="fa fa-3x fa-exclamation-triangle" aria-hidden="true"></span> 
+   </div> 
+   <div id="_TopOfPage"></div> 
+   <script>
+			function doAnalyticsGo(sndx) {
+				var dest = sndx.options[sndx.selectedIndex].value;
+				if (dest == 0) {
+					alert('Please make a selection.');
+					return false;
+				} else {
+					document.location.href=dest;
+					return false;
+				}
+			}
+		</script>
+   <a href="#main" data-target-id="main" class="sr-only sr-only-focusable jump-to-id">Skip to main content</a> 
+  </div> 
+  <!--START DIV CONTAINER--> 
+  <div id="main-mobile-canvas-container" class=""> 
+   <div id="temp-toggler-mobile-menu" class="text-center toggle-mobile-menu-controls"> 
+    <a href="#mobile-canvas-menu-container" data-toggle-class="show-mobile-nav" class="toggle-mobile-menu outer-link text-center toggle-mobile-menu-controls"> <span class="fa fa-3x fa-bars mobile-menu-closed-icon toggle-mobile-menu-controls"></span><span class="fa fa-3x fa-times mobile-menu-showing-icon toggle-mobile-menu-controls"></span>MENU </a> 
+   </div> 
+   <div class="offcanvas-left toggle-mobile-menu-controls" id="mobile-canvas-menu-container"> 
+    <div class="mobile-canvas-nav-header"> 
+     <div class="mobile-canvas-menu-logo-block"> 
+      <div id="mobileLogoBlock"> 
+       <a href="/whitmer"> <img class="img-responsive" src="/images/som/final_logo_migov_white_526452_7.png" alt="Gov. Gretchen Whitmer "> </a> 
+      </div> 
+      <div id="mobileSiteTitle"> 
+       <a href="/whitmer"> 
+        <div class="page-site-header">
+         <div class="bannerSmTxt">
+          THE OFFICE OF
+         </div>
+         <div class="bannerLgTxt">
+          GOVERNOR GRETCHEN WHITMER
+         </div>
+        </div> </a> 
+      </div> 
+     </div> 
+     <div class="inner-mobile-menu-toggle"> 
+      <a href="#mobile-canvas-menu-container" data-toggle-class="show-mobile-nav" class="toggle-mobile-menu outer-link btn btn-accent-black"><span class="fa fa-2x fa-bars mobile-menu-closed-icon"></span><span class="fa fa-2x fa-times mobile-menu-showing-icon"></span></a> 
+     </div> 
+    </div> 
+    <div class="site-extra-text bg bg-primary-1">
+     Gov. Gretchen Whitmer 
+    </div> 
+    <div class="mobile-search-block bg bg-primary-1 padding-bottom-10"> 
+     <div class="searchComponentDiv" id="searchComponentDiv_9910101010101" ng-controller="searchComponentController" ng-init="init(9910101010101)"> 
+      <div ng-if="loadedData"> 
+       <form ng-submit="submitFormLocal()" class="submit-override"> 
+        <div class="clearfix"> 
+         <div class="" angucomplete-alt id="searchInput_9910101010101" placeholder="" pause="10" selected-object="optionChanged" local-data="people" local-search="localSearch" title-field="name" description-field="twitter" minlength="1" input-class="form-control form-control" input-changed="inputChanged" match-class="highlight"> 
+         </div> 
+        </div> 
+       </form> 
+      </div> 
+     </div> 
+     <script>		
+				window.loadedData[9910101010101] = [];
+				window.loadedData[9910101010101]["GSA_COLLECTION"] = "whitmer";
+				
+				window.loadedData[9910101010101]["gsaAgencyText"] = "Gov.~Gretchen~Whitmer";
+				window.loadedData[9910101010101]["subcategories"] = [];			
+			</script> 
+    </div> 
+    <div id="containerMainMobileLinks"></div> 
+    <div class="branding-bar-links-block"> 
+     <nav class="mobile-branding-links" aria-label="mobile global menu"> 
+      <ul id="m_bannerLinks">
+       <li><a href="/whitmer" title="Home">Home</a></li>
+       <li><a href="/whitmer/0,9309,7-387-90498_90663---,00.html" title="Contact">Contact</a></li>
+       <li class="migovlink"><a href="http://www.michigan.gov/" title="MI Gov Home">MI.gov</a></li>
+      </ul> 
+     </nav> 
+    </div> 
+   </div> 
+   <script type="text/javascript">
+	window.agencySitePathCSS = 'whitmer';
+	//window.agencySitePathCSS = window.location.pathname;
+	window.agencyText = 'Gov.~Gretchen~Whitmer';
+	//window.agencyText = document.getElementsByTagName("title")[0].innerHTML;
+	window.siteClient = window.agencySitePathCSS;
+	// Task 44300 - WEX
+	 
+	window.default_collection = 'som';
+	 window.gsasearch = true;
+	window.usagovCollection = 'mi-'+window.agencySitePathCSS;
+
+	$('document').ready(function(){
+		$('.site-search-form').submit(function(e){
+			e.preventDefault();
+			siteSearchForm($(this));
+		});
+		$('#noAdBlock').hide();
+	});
+	</script> 
+  </div> 
+  <div id="container" class="container-fluid"> 
+   <div id="topMenuSearchContainer bg bg-accent-black" class="search-extended"> 
+    <div class="searchComponentDiv padding-top-20 padding-bottom-20" id="searchComponentDiv_10101010101" ng-controller="searchComponentController" ng-init="init(10101010101)"> 
+     <div ng-if="loadedData"> 
+      <form ng-submit="submitFormLocal()" class="submit-override"> 
+       <div class="container"> 
+        <div class="col-xs-11" angucomplete-alt id="searchInput_10101010101" placeholder="" pause="10" selected-object="optionChanged" local-data="people" local-search="localSearch" title-field="name" description-field="twitter" minlength="1" input-class="form-control form-control" input-changed="inputChanged" match-class="highlight"> 
+        </div> 
+        <div class="col-xs-1 bg bg-accent-black"> 
+         <a href="#" onclick="$('body').removeClass('show-search-form');$('#top-right-search-bar').focus();" title="Close Search Panel" class="fa-2x"> <span class="fa fa-remove"></span> <span class="sr-only">Close Search Box</span> </a> 
+        </div> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+    <script>		
+		window.loadedData[10101010101] = [];
+		window.loadedData[10101010101]["GSA_COLLECTION"] = "whitmer";
+		window.loadedData[10101010101]["gsaAgencyText"] = "Gov.~Gretchen~Whitmer";
+		window.loadedData[10101010101]["subcategories"] = [];
+	</script> 
+   </div> 
+   <!-- agencyHeaderNavPath agencyCreateHeaderNavP3 --> 
+   <!--div id="bannerArea" role='banner'-->
+   <!-- HEADER 1.1 Live -->
+   <div id="bannerArea" role="banner">
+    <div id="superTop">
+     <!-- agency banner text --> 
+     <div class="col-sm-3 col-xs-12 sub-agency-mi-global-logo">
+      <a href="/"><img src="/bootstrap/images/migov_brandingbar_2017.png" alt="Michigan.gov Home" class="img-responsive"></a>
+     </div> 
+     <div class="col-sm-9 col-xs-12">
+      <ul id="bannerLinks">
+       <li><a href="/whitmer" title="Home">Home</a></li>
+       <li><a href="/whitmer/0,9309,7-387-90498_90663---,00.html" title="Contact">Contact</a></li>
+       <li class="migovlink"><a href="http://www.michigan.gov/" title="MI Gov Home">MI.gov</a></li>
+       <li id="top-right-search-bar" style="display:none;"> <a href="#topMenuSearchContainer" aria-haspopup="true" title="Search Mi.gov" class="top-header-search-link" data-search-field-id=""> <span>Search</span> </a> </li>
+      </ul>
+     </div>
+    </div>
+    <div id="siteBanner">
+     <!-- agency banner text --> 
+     <div class="col-xs-12 visible-xs-block sub-agency-global-tag">
+      Official Website of 
+      <a href="/" title="return to Michigan.gov">Michigan.gov</a>
+     </div> 
+     <div id="headerRow"> 
+      <div class="header-site-title-text"> 
+       <a class="site-title-link" accesskey="1" href="/whitmer/" title="Whitmer - Gov. Gretchen Whitmer "> 
+        <div class="page-site-header">
+         <div class="bannerSmTxt">
+          THE OFFICE OF
+         </div>
+         <div class="bannerLgTxt">
+          GOVERNOR GRETCHEN WHITMER
+         </div>
+        </div> </a> 
+      </div> 
+      <div class="header-nav-block">
+       <nav class="main-navigation" role="navigation" aria-label="main navigation">
+        <ul id="nav" class="nav-main"> 
+         <!-- State Of Michigan - Wed May 29 10:24:10 2019 --> 
+         <!-- e-Michigan Portal - Process #8 --> 
+         <!-- Begin Global Nav section -->
+         <!-- End Global Nav section --> 
+         <!-- Begin Responsive Navigation --> 
+         <li id="90498" class="id-90498 has-subs"> <a class="lvl1" title="About" href="/whitmer/0,9309,7-387-90498---,00.html">About</a> <a title="show sub link for About" href="#ul_90498" data-target-list="ul_90480" class="toggle-sub-list" style="display:none;"></a> 
+          <ul id="ul_90498" class="sub-list"> 
+           <li id="90646" class="id-90646 "> <a class="lvl2" title="About, About the Governor" href="/whitmer/0,9309,7-387-90498_90646---,00.html">About the Governor</a> </li> 
+           <li id="90707" class="id-90707 "> <a class="lvl2" title="About, Lt. Governor" href="/whitmer/0,9309,7-387-90498_90707---,00.html">Lt. Governor</a> </li> 
+           <li id="90663" class="id-90663 has-subs"> <a class="lvl2" title="About, Contact the Governor" href="/whitmer/0,9309,7-387-90498_90663---,00.html">Contact the Governor</a> <a title="show sub link for Contact the Governor" href="#ul_90663" data-target-list="ul_90498" class="toggle-sub-list" style="display:none;"></a> 
+            <ul id="ul_90663" class="sub-list"> 
+             <li id="90698" class="id-90698 "> <a class="lvl3" title="About, Contact the Governor, Request Recognition" href="/whitmer/0,9309,7-387-90498_90663_90698---,00.html">Request Recognition</a> </li> 
+             <li id="90699" class="id-90699 has-subs"> <a class="lvl3" title="About, Contact the Governor, Services" href="/whitmer/0,9309,7-387-90498_90663_90699---,00.html">Services</a> <a title="show sub link for Services" href="#ul_90699" data-target-list="ul_90663" class="toggle-sub-list" style="display:none;"></a> </li> 
+            </ul> </li> 
+          </ul> </li> 
+         <li id="90499" class="id-90499 has-subs"> <a class="lvl1" title="News" href="/whitmer/0,9309,7-387-90499---,00.html">News</a> <a title="show sub link for News" href="#ul_90499" data-target-list="ul_90480" class="toggle-sub-list" style="display:none;"></a> 
+          <ul id="ul_90499" class="sub-list"> 
+           <li id="90640" class="id-90640 "> <a class="lvl2" title="News, Press Releases" href="/whitmer/0,9309,7-387-90499_90640---,00.html">Press Releases</a> </li> 
+           <li id="91677" class="id-91677 "> <a class="lvl2" title="News, Budget" href="/whitmer/0,9309,7-387-90499_91677---,00.html">Budget</a> </li> 
+           <li id="91277" class="id-91277 "> <a class="lvl2" title="News, State Of The State" href="/whitmer/0,9309,7-387-90499_91277---,00.html">State Of The State</a> </li> 
+           <li id="90706" class="id-90706 "> <a class="lvl2" title="News, Appointments" href="/whitmer/0,9309,7-387-90501_90625---,00.html">Appointments</a> </li> 
+           <li id="90705" class="id-90705 "> <a class="lvl2" title="News, Executive Orders" href="/whitmer/0,9309,7-387-90499_90705---,00.html">Executive Orders</a> </li> 
+           <li id="90704" class="id-90704 "> <a class="lvl2" title="News, Executive Directives" href="/whitmer/0,9309,7-387-90499_90704---,00.html">Executive Directives</a> </li> 
+           <li id="90639" class="id-90639 "> <a class="lvl2" title="News, Proclamations" href="/whitmer/0,9309,7-387-90499_90639---,00.html">Proclamations</a> </li> 
+           <li id="90636" class="id-90636 "> <a class="lvl2" title="News, Flag Honors" href="/whitmer/0,9309,7-387-90499_90636---,00.html">Flag Honors</a> </li> 
+          </ul> </li> 
+         <li id="90500" class="id-90500 has-subs"> <a class="lvl1" title="Issues" href="/whitmer/0,9309,7-387-90500---,00.html">Issues</a> <a title="show sub link for Issues" href="#ul_90500" data-target-list="ul_90480" class="toggle-sub-list" style="display:none;"></a> 
+          <ul id="ul_90500" class="sub-list"> 
+           <li id="90628" class="id-90628 "> <a class="lvl2" title="Issues, Health Care" href="/whitmer/0,9309,7-387-90500_90628---,00.html">Health Care</a> </li> 
+           <li id="90630" class="id-90630 "> <a class="lvl2" title="Issues, Infrastructure" href="/whitmer/0,9309,7-387-90500_90630---,00.html">Infrastructure</a> </li> 
+           <li id="90660" class="id-90660 "> <a class="lvl2" title="Issues, Jobs &amp; Economy" href="/whitmer/0,9309,7-387-90500_90660---,00.html">Jobs &amp; Economy</a> </li> 
+           <li id="90661" class="id-90661 "> <a class="lvl2" title="Issues, Water &amp; Environment" href="/whitmer/0,9309,7-387-90500_90661---,00.html">Water &amp; Environment</a> </li> 
+           <li id="90629" class="id-90629 "> <a class="lvl2" title="Issues, Education" href="/whitmer/0,9309,7-387-90500_90629---,00.html">Education</a> </li> 
+           <li id="90662" class="id-90662 "> <a class="lvl2" title="Issues, Safety, Security &amp; Justice" href="/whitmer/0,9309,7-387-90500_90662---,00.html">Safety, Security &amp; Justice</a> </li> 
+           <li id="91814" class="id-91814 "> <a class="lvl2" title="Issues, Sunshine" href="/whitmer/0,9309,7-387-90500_91814---,00.html">Sunshine</a> </li> 
+          </ul> </li> 
+         <li id="90501" class="id-90501 has-subs"> <a class="lvl1" title="Appointments" href="/whitmer/0,9309,7-387-90501---,00.html">Appointments</a> <a title="show sub link for Appointments" href="#ul_90501" data-target-list="ul_90480" class="toggle-sub-list" style="display:none;"></a> 
+          <ul id="ul_90501" class="sub-list"> 
+           <li id="90625" class="id-90625 "> <a class="lvl2" title="Appointments, Press Releases" href="/whitmer/0,9309,7-387-90501_90625---,00.html">Press Releases</a> </li> 
+          </ul> </li> 
+         <li id="90502" class="id-90502 "> <a class="lvl1" title="Lt Governor" href="/whitmer/0,9309,7-387-90502---,00.html">Lt Governor</a> </li> 
+        </ul> 
+        <ul id="desktopMobileButton" style="display:none;"> 
+         <li><a aria-haspopup="true" href="#mobile-canvas-menu-container" data-toggle-class="show-mobile-nav" class="toggle-mobile-menu outer-link text-center toggle-mobile-menu-controls"> <span class="fa fa-bars mobile-menu-closed-icon toggle-mobile-menu-controls"></span><span class="fa fa-times mobile-menu-showing-icon toggle-mobile-menu-controls"></span> 
+           <div class="clearfix">
+            MENU
+           </div> </a></li> 
+        </ul> 
+       </nav> 
+      </div> 
+      <!-- End Flyout Navigation -->
+      <!-- Left Links -->
+      <!-- End Left Links -->
+     </div>
+    </div>
+    <div class="siteBannerTxt">
+     Gov. Gretchen Whitmer 
+    </div> 
+    <div id="horzMenuSubLinksBlock_container" class="container">
+     <div id="horzMenuSubLinksRow">
+      <div id="horzMenuSubLinksBlockBreadCrumb"></div>
+     </div>
+     <div id="horzMenuSubLinksBlock"></div>
+    </div>
+   </div> 
+   <div id="topNavSearch"> 
+    <!-- SEARCH -->
+    <form id="searchform" onsubmit="location.href='https://search.michigan.gov/AppBuilder/search?ctx=WHITMER&amp;q=' + document.getElementById('query').value;return false;"> 
+     <input accesskey="s" type="TEXT" autocomplete="off" id="query" name="q" placeholder="Search" title="Search"> 
+     <input id="go" type="submit" value="search" name="button" onClick="location.href='https://search.michigan.gov/AppBuilder/search?ctx=WHITMER&amp;q=' + document.getElementById('query').value;return false;"> 
+    </form>
+    <!-- /SEARCH -->
+   </div>
+   <!-- LEFTNAV agencyCreateLeftNavRD --> 
+   <!-- bodyWrapper --> 
+   <div id="bodyWrapper"> 
+    <!-- contentWrapper --> 
+    <div id="contentWrapper"> 
+     <!-- main -->
+     <div id="main" class="DW page" role="main"> 
+      <div id="breadcrumbContainer">
+       <span class="sr-only">WHITMER</span>
+      </div> 
+      <div class="page-header sr-only">
+       <h1>Gov. Gretchen Whitmer</h1>
+      </div> 
+      <!-- Body Begin --> 
+      <!-- State Of Michigan - Thu May 30 14:13:52 2019 --> 
+      <!-- BEGIN MAIN CONTENT AREA ROW -->
+      <div class="row row-eq-height">
+       <div class="row-eq-height col-sm-12 ">
+        <!-- ID COMPONENT_106099 -->
+        <!-- BS PANEL COMPONENT -->
+        <div id="panels_106099" style="width:100%">
+         <!-- Panel GROUP -->
+         <div class="panel-group">
+          <!-- Panel -->
+          <div class="panel background-image-cover hide-panel-heading backgroundPos-center-bottom" style="background-image:url(/images/whitmer/LT_Gov_Page_-_Hero_641564_7.jpg);" id="block-1_106099"> 
+           <h2 class="panel-heading"><span class="panel-heading-inner">quick links and search area</span></h2> 
+           <!-- Panel BODY -->
+           <div class="panel-body">
+            <!-- State Of Michigan - Tue Apr 23 16:59:06 2019 --> 
+            <!-- BEGIN MAIN CONTENT AREA ROW -->
+            <div class="row row-eq-height">
+             <div class="row-eq-height col-sm-12 ">
+              <!-- ID COMPONENT_106974 -->
+              <!-- /ID COMPONENT_106974 -->
+             </div>
+            </div>
+            <div class="row row-eq-height">
+             <div class="row-eq-height col-sm-12 ">
+              <!-- ID COMPONENT_106110 --> 
+              <!-- BEGIN ANGULAR HTML --> 
+              <div class="searchComponentDiv padding-top-90 padding-top-30" id="searchComponentDiv_106110" ng-controller="searchComponentController" ng-init="init(106110)"> 
+               <div ng-if="loadedData"> 
+                <form ng-submit="submitFormLocal()" class="submit-override"> 
+                 <div class="form-group row-modified"> 
+                  <div class="col-xs-12 row-modified" angucomplete-alt id="searchInput_106110" placeholder="Search" pause="10" selected-object="optionChanged" local-data="people" local-search="localSearch" title-field="name" description-field="twitter" minlength="1" input-class="form-control form-control" input-changed="inputChanged" match-class="highlight"> 
+                  </div> 
+                 </div> 
+                </form> 
+                <div class="presetSearchTerms col-md-offset-2 col-md-8" ng-cloak ng-if="subcategories"> 
+                 <div class="search-sub-cat col-xs-12 col-sm-{{searchCompDivLength}}" ng-repeat="s in subcategories"> 
+                  <div class="search-sub-cat-title"> 
+                   <a ng-if="s.editLink" title="Edit Category: {{s.name}}" href="s.editLink"> <span class="fa fa-pencil editLink"></span> <span class="sr-only">Edit Category: {{s.name}}</span> </a> {{s.name}} 
+                  </div> 
+                  <ul ng-if="s.contentItems"> 
+                   <li ng-repeat="i in s.contentItems"> <a ng-if="i.editLink" title="Edit Category: {{i.title}}" href="{{i.editLink}}" target="editwindow"> <span class="fa fa-pencil editLink"></span> <span class="sr-only">Edit Content item: {{i.title}}</span> </a> <a href="{{i.url}}">{{i.title}}</a> </li> 
+                  </ul> 
+                 </div> 
+                </div> 
+               </div> 
+              </div> 
+              <!-- END ANGULAR HTML --> 
+              <script>
+				window.loadedData[106110] = [];
+				window.loadedData[106110]["GSA_COLLECTION"] = "whitmer";
+				window.loadedData[106110]["gsaAgencyText"] = "Gov.~Gretchen~Whitmer";
+				window.loadedData[106110]["GSA_var3"] = "some string";
+				window.loadedData[106110]["subcategories"] = [];
+				window.loadedData[106110]["subcategories"] = [
+				]</script>
+              <!-- /ID COMPONENT_106110 -->
+             </div>
+            </div>
+            <div class="row row-eq-height">
+             <div class="row-eq-height col-sm-12 ">
+              <!-- ID COMPONENT_106111 --> 
+              <!-- BEGIN Generic Json Component --> 
+              <script>
+			
+				window.compID = 106111;
+				window.loadedData[106111] = [];
+				window.loadedData[106111]["controller_params"] = {'listLimit':10, 'custom':{'showSearch':true,'buttonClass':'btn-block','buttonText':'Take Me There!','showSearchText':'new text'}};
+				window.loadedData[106111]["title_text"] = "Featured Links";
+				window.loadedData[106111]["title_image"] = "";
+				
+			
+				window.loadedData[106111]["categories"] = [
+					{
+					"id": 90485,
+					"moreTxt": " More",
+					"moreUrl": "/whitmer/0,9309,7-387-90485,00.html",
+					"name": "quick links and search area",
+					"catdescription": "quick links and search area"
+					}
+				];
+				window.loadedData[106111]["data"] = [
+				{
+					"id": 485536,
+					"categories": [ 90485 ],
+					"title": "Share Your Opinion",
+					"description": "",
+					"thumbnail": "/images/whitmer/Share-opinion_641623_7.png",
+					"type": "LINK",
+					"url": "https://somgovweb.state.mi.us/GovRelations/ShareOpinion.aspx",
+					"eventInfo": "",
+					"location": "",
+					"mapUrl": "",
+					"lat": "",
+					"lon": "",
+					"contact_agency": "",
+					"contact_name": "",
+					"contact_number": "",
+					"relatedDocuments": [],
+					"extra_info": [  ]
+				},
+				{
+					"id": 485537,
+					"categories": [ 90485 ],
+					"title": "Schedule Requests",
+					"description": "",
+					"thumbnail": "/images/whitmer/schedule-requests_641624_7.png",
+					"type": "LINK",
+					"url": "https://somgovweb.state.mi.us/GovRelations/SchedulingEventRequest.aspx",
+					"eventInfo": "",
+					"location": "",
+					"mapUrl": "",
+					"lat": "",
+					"lon": "",
+					"contact_agency": "",
+					"contact_name": "",
+					"contact_number": "",
+					"relatedDocuments": [],
+					"extra_info": [  ]
+				},
+				{
+					"id": 495564,
+					"categories": [ 90485 ],
+					"title": "Apply for Internships",
+					"description": "",
+					"thumbnail": "/images/whitmer/Laptop_653087_7.png",
+					"type": "LINK",
+					"url": "https://somgovweb.state.mi.us/InternshipWeb",
+					"eventInfo": "",
+					"location": "",
+					"mapUrl": "",
+					"lat": "",
+					"lon": "",
+					"contact_agency": "",
+					"contact_name": "",
+					"contact_number": "",
+					"relatedDocuments": [],
+					"extra_info": [  ]
+				},
+				{
+					"id": 485538,
+					"categories": [ 90485 ],
+					"title": "Sign up for Email Updates",
+					"description": "",
+					"thumbnail": "/images/som/icon-white-email_622048_7.png",
+					"type": "LINK",
+					"url": "https://public.govdelivery.com/accounts/MIEOG/subscriber/new?topic_id=MIEOG_2",
+					"eventInfo": "",
+					"location": "",
+					"mapUrl": "",
+					"lat": "",
+					"lon": "",
+					"contact_agency": "",
+					"contact_name": "",
+					"contact_number": "",
+					"relatedDocuments": [],
+					"extra_info": [  ]
+				}
+				];
+				
+			</script> 
+              <div ng-cloak class="comp comp list-no-ctitle col-md-6 col-md-offset-3 col-lg-6 col-lg-offset-3 list-group-transparent-links-splash list-group-links-no-outline padding-top-100 padding-mobile-top-15 padding-0 list" id="comp_106111" ng-controller="selectList" ng-init="init(106111)"> 
+               <h2 class="cTitle">Featured Links</h2> 
+               <ul class="list-unstyled list-inline clearfix margin-bottom-0"> 
+                <li class="contentItem col-xs-6 col-sm-3 eqH" ng-if="c.url" ng-repeat="c in contentPieces"> 
+                 <div class="row-modified" ng-if="c.editLink">
+                  <a href="{{c.editLink}}" title="Edit {{c.title}} - content item"><span class="fa fa-pencil">{{blank}}</span> <span class="sr-only">Edit {{c.title}} - content item</span> </a> 
+                  <a href="{{c.url}}" title="{{c.title}}"> </a>
+                 </div> 
+                 <div class="row-modified">
+                  <a class="bodylinks" href="{{c.url}}" title="{{c.title}}"><span class="clearfix" ng-if="c.thumbnail"><img alt="Click to goto {{c.title}}" class="col-xs-8 col-xs-offset-2 col-sm-10 col-sm-offset-1" ng-src="{{c.thumbnail}}"> </span> <span class="col-xs-12">{{nada}}</span> <span class="text-center margin-top-10" ng-if="c.title">{{c.title}}</span> <span class="margin-top-10" ng-if="!c.thumbnail">{{c.title}}</span> </a>
+                 </div> </li> 
+               </ul> 
+              </div> 
+              <!-- /ID COMPONENT_106111 -->
+             </div>
+            </div>
+            <!-- END MAIN CONTENT AREA ROW -->
+            <!-- END Panel BODY -->
+           </div>
+           <!-- END Panel block-1 -->
+          </div>
+          <!-- Panel -->
+          <div class="panel hide-panel-heading bg bg-primary-2" style="background-image:url();" id="block-2_106099"> 
+           <h2 class="panel-heading"><span class="panel-heading-inner">News and Announcements</span></h2> 
+           <!-- Panel BODY -->
+           <div class="panel-body">
+            <!-- State Of Michigan - Thu May 30 15:08:37 2019 --> 
+            <!-- BEGIN MAIN CONTENT AREA ROW -->
+            <div class="row row-eq-height">
+             <div class="row-eq-height col-sm-6 ">
+              <!-- ID COMPONENT_106100 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_106100" class="comp list  list-no-ctitle title-align-center">
+               <h2 class="cTitle" style="">image placeholder</h2> 
+               <img src="/images/whitmer/Home-News-and-Announcements2x_641563_7.jpg" alt="Whitmer Speaks to Press" class="componentHeaderImg pull- img-responsive">
+               <br> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList NONE ">
+                <li class="contentItem" style=""><span class="inner"><span class="contentBlock "><span class="bodylinks"><span class="sr-only">Governor Whitmer Speaks to Press</span></span></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_106100 -->
+             </div>
+             <div class="row-eq-height col-sm-6 ">
+              <!-- ID COMPONENT_106101 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_106101" class="comp list    comp-top-short-title-line     list-read-more-primary-1 list-read-more-left                       margin-top-10">
+               <h2 class="cTitle" style="">News and Announcements</h2> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList NONE ">
+                <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/whitmer/0,9309,7-387-90487-498498--,00.html" title="Lt. Governor Garlin Gilchrist Joins DTE and Consumers Energy as Companies Announce $15 Billion Commitment to Grow Michigan Businesses">Lt. Governor Garlin Gilchrist Joins DTE and Consumers Energy as Companies Announce $15 Billion Commitment to Grow Michigan Businesses </a></span></span></li>
+                <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/whitmer/0,9309,7-387-90487-498459--,00.html" title="Gov. Whitmer Signs Historic Bipartisan Auto No-Fault Legislation">Gov. Whitmer Signs Historic Bipartisan Auto No-Fault Legislation </a></span></span></li>
+                <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/whitmer/0,9309,7-387-90487-498358--,00.html" title="New mobility challenge calls on industry innovators to propose dynamic technology deployments">New mobility challenge calls on industry innovators to propose dynamic technology deployments </a></span></span></li> 
+               </ul>
+               <span class="moreLink"><a title="All News News and Announcements" href="/whitmer/0,9309,7-387-90640---,00.html">All News</a></span>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_106101 -->
+             </div>
+            </div>
+            <!-- END MAIN CONTENT AREA ROW -->
+            <!-- END Panel BODY -->
+           </div>
+           <!-- END Panel block-2 -->
+          </div>
+          <!-- Panel -->
+          <div class="panel background-image-cover bg bg-default-2 transparent-80 panel-heading-centered" style="background-image:url(/images/whitmer/Home-Vision-background2x_641562_7.jpg);" id="block-3_106099"> 
+           <h2 class="panel-heading"><span class="panel-heading-inner">Our Vision</span></h2> 
+           <!-- Panel BODY -->
+           <div class="panel-body">
+            <!-- State Of Michigan - Fri Jan 04 15:30:13 2019 --> 
+            <!-- BEGIN MAIN CONTENT AREA ROW -->
+            <div class="row row-eq-height">
+             <div class="row-eq-height col-sm-12 ">
+              <!-- ID COMPONENT_106102 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_106102" class="comp list  list-no-ctitle         list-read-more-center  list-group-inline-links item-col-bs-6 item-img-center  img-icon    item-align-center list-group-align-center">
+               <h2 class="cTitle" style="">vision</h2> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList NONE ">
+                <li class="contentItem" style=""><span class="inner"><span class="thumbnail CENTER"><a href="/whitmer/0,9309,7-387-90500_90628---,00.html"><span style="display: block; margin-left: auto; margin-right: auto;"><img src="/images/whitmer/healthcare_641595_7.png" alt="Healthcare Icon" title="Healthcare Icon"></span></a></span><span class="contentBlock "> <a class="bodylinks" href="/whitmer/0,9309,7-387-90500_90628---,00.html" title="Health Care">Health Care </a></span></span></li>
+                <li class="contentItem" style=""><span class="inner"><span class="thumbnail CENTER"><a href="/whitmer/0,9309,7-387-90500_90630---,00.html"><span style="display: block; margin-left: auto; margin-right: auto;"><img src="/images/whitmer/infrastructure_641593_7.png" alt="infrastructure icon" title="infrastructure icon"></span></a></span><span class="contentBlock "> <a class="bodylinks" href="/whitmer/0,9309,7-387-90500_90630---,00.html" title="Infrastructure">Infrastructure </a></span></span></li>
+                <li class="contentItem" style=""><span class="inner"><span class="thumbnail CENTER"><a href="/whitmer/0,9309,7-387-90633-486128--,00.html"><span style="display: block; margin-left: auto; margin-right: auto;"><img src="/images/whitmer/jobs_641596_7.png" alt="Jobs Icon" title="Jobs Icon"></span></a></span><span class="contentBlock "> <a class="bodylinks" href="/whitmer/0,9309,7-387-90633-486128--,00.html" title="Jobs &amp; Economy">Jobs &amp; Economy </a></span></span></li>
+                <li class="contentItem" style=""><span class="inner"><span class="thumbnail CENTER"><a href="/whitmer/0,9309,7-387-90633-486130--,00.html"><span style="display: block; margin-left: auto; margin-right: auto;"><img src="/images/whitmer/water_641597_7.png" alt="Water Icon" title="Water Icon"></span></a></span><span class="contentBlock "> <a class="bodylinks" href="/whitmer/0,9309,7-387-90633-486130--,00.html" title="Water &amp; Environment">Water &amp; Environment </a></span></span></li>
+                <li class="contentItem" style=""><span class="inner"><span class="thumbnail CENTER"><a href="/whitmer/0,9309,7-387-90500_90629---,00.html"><span style="display: block; margin-left: auto; margin-right: auto;"><img src="/images/whitmer/literacy_641598_7.png" alt="Literacy Icon" title="Literacy Icon"></span></a></span><span class="contentBlock "> <a class="bodylinks" href="/whitmer/0,9309,7-387-90500_90629---,00.html" title="Education">Education </a></span></span></li>
+                <li class="contentItem" style=""><span class="inner"><span class="thumbnail CENTER"><a href="/whitmer/0,9309,7-387-90633-486129--,00.html"><span style="display: block; margin-left: auto; margin-right: auto;"><img src="/images/whitmer/SecurityJustice2x_641760_7.png" alt="Scales of Justice" title="Scales of Justice"></span></a></span><span class="contentBlock "> <a class="bodylinks" href="/whitmer/0,9309,7-387-90633-486129--,00.html" title="Safety, Security &amp; Justice">Safety, Security &amp; Justice </a></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_106102 -->
+             </div>
+            </div>
+            <!-- END MAIN CONTENT AREA ROW -->
+            <!-- END Panel BODY -->
+           </div>
+           <!-- END Panel block-3 -->
+          </div>
+          <!-- Panel -->
+          <div class="panel hide-panel-heading bg bg-primary-1" style="background-image:url();" id="block-4_106099"> 
+           <h2 class="panel-heading"><span class="panel-heading-inner">Governor Gretchen Whitmer</span></h2> 
+           <!-- Panel BODY -->
+           <div class="panel-body">
+            <!-- State Of Michigan - Fri May 17 12:36:41 2019 --> 
+            <!-- BEGIN MAIN CONTENT AREA ROW -->
+            <div class="row row-eq-height">
+             <div class="row-eq-height col-sm-6 ">
+              <!-- ID COMPONENT_106103 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_106103" class="comp list  list-no-ctitle title-align-center">
+               <h2 class="cTitle" style="">image placholder</h2> 
+               <img src="/images/whitmer/Gov_Page_-_GovWhitmer_641584_7.jpg" alt="Governor Whitmer Headshot" class="componentHeaderImg pull- img-responsive">
+               <br> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList NONE ">
+                <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/images/whitmer/GovWhitmerPort-Master_8x10_643959_7.jpg" title="Download Official High-Resolution Headshot of Governor Whitmer">Download Official High-Resolution Headshot of Governor Whitmer </a></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_106103 -->
+             </div>
+             <div class="row-eq-height col-sm-6 ">
+              <!-- ID COMPONENT_106104 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_106104" class="comp list    comp-top-short-title-line     list-read-more-primary-2 list-read-more-left">
+               <h2 class="cTitle" style="">Governor Gretchen Whitmer</h2> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList NONE ">
+                <li class="contentItem" style=""><span class="inner"><span class="contentBlock "><span class="bodylinks"><span class="sr-only"></span></span><span class="shortdesc">
+                    <div> 
+                     <p><span style="font-size:16px;">Governor Gretchen Whitmer is a lifelong Michigander. &nbsp;She is a lawyer, an educator, former prosecutor, State Representative and Senator. &nbsp;She was the first woman to lead a Senate caucus. But the most important title she boasts is MOM. Inspired by her family, she’s devoted her life to building a stronger Michigan for everyone. &nbsp;</span></p> 
+                     <p><span style="font-size:16px;">Governor Whitmer was elected to the House of Representatives in 2000 and elected to the Michigan State Senate in 2006 where she served...</span></p> 
+                     <p style="margin: 0px 0px 0px 48px; vertical-align: baseline;">&nbsp;</p> 
+                    </div> 
+                    <div>
+                     &nbsp;
+                    </div> <p><span class="moreLink"><a href="/whitmer/0,9309,7-387-90498_90646---,00.html">FULL BIO</a></span></p> </span></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_106104 -->
+             </div>
+            </div>
+            <!-- END MAIN CONTENT AREA ROW -->
+            <!-- END Panel BODY -->
+           </div>
+           <!-- END Panel block-4 -->
+          </div>
+          <!-- Panel -->
+          <div class="panel hide-panel-heading bg bg-primary-2" style="background-image:url();" id="block-5_106099"> 
+           <h2 class="panel-heading"><span class="panel-heading-inner">Lieutenant Governor Garlin Gilchrist II</span></h2> 
+           <!-- Panel BODY -->
+           <div class="panel-body">
+            <!-- State Of Michigan - Fri Jan 04 15:31:22 2019 --> 
+            <!-- BEGIN MAIN CONTENT AREA ROW -->
+            <div class="row row-eq-height">
+             <div class="row-eq-height col-sm-6 ">
+              <!-- ID COMPONENT_106105 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_106105" class="comp list    comp-top-short-title-line bg bg-primary-2    list-read-more-primary-1">
+               <h2 class="cTitle" style="">Lt Governor Garlin Gilchrist II</h2> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList NONE ">
+                <li class="contentItem" style=""><span class="inner"><span class="contentBlock "><span class="bodylinks"><span class="sr-only"></span></span><span class="shortdesc">
+                    <div>
+                     Lt. Governor&nbsp;Garlin Gilchrist has dedicated his career to fixing problems for hardworking families. From spearheading campaigns for equality and justice to harnessing technology to solve everyday problems for Detroiters, his focus has consistently remained on serving the public by getting things done.
+                    </div> 
+                    <div>
+                     &nbsp;
+                    </div> 
+                    <div>
+                     Bringing Michigan’s state government fully into the 21st century is a top priority for Lt. Governor&nbsp;Gilchrist. He brings a lifetime of experience to the task, receiving his first computer at age five…
+                    </div> 
+                    <div>
+                     &nbsp;
+                    </div> <p><span class="moreLink"><a href="/whitmer/0,9309,7-387-90502---,00.html">FULL BIO</a></span></p> </span></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_106105 -->
+             </div>
+             <div class="row-eq-height col-sm-5 col-sm-offset-1">
+              <!-- ID COMPONENT_106106 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_106106" class="comp list  list-no-ctitle title-align-center">
+               <h2 class="cTitle" style="">image placeholder</h2> 
+               <img src="/images/whitmer/LT_Gov_Page_-_LtGovGilchrist_641585_7.jpg" alt="Lt. Governor Gilchrist Headshot" class="componentHeaderImg pull- img-responsive">
+               <br> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList NONE ">
+                <li class="contentItem" style=""><span class="inner"><span class="contentBlock "><span class="bodylinks"><span class="sr-only">Lt Governor Gilchrist</span></span></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_106106 -->
+             </div>
+            </div>
+            <!-- END MAIN CONTENT AREA ROW -->
+            <!-- END Panel BODY -->
+           </div>
+           <!-- END Panel block-5 -->
+          </div>
+          <!-- Panel -->
+          <div class="panel bg bg-default-2 panel-heading-centered" style="background-image:url();" id="block-6_106099"> 
+           <h2 class="panel-heading"><span class="panel-heading-inner">Social Media</span></h2> 
+           <!-- Panel BODY -->
+           <div class="panel-body">
+            <!-- State Of Michigan - Tue Apr 02 16:19:41 2019 --> 
+            <!-- BEGIN MAIN CONTENT AREA ROW -->
+            <div class="row row-eq-height">
+             <div class="row-eq-height col-sm-4 ">
+              <!-- ID COMPONENT_106107 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_106107" class="comp list  list-no-ctitle title-align-center                 list-group-align-center list-group-first list-group-first-link-primary-1              margin-bottom-40">
+               <h2 class="cTitle" style="">Instagram</h2> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList NONE ">
+                <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="https://www.instagram.com/gewhitmer" target="_blank" title="Instagram">Instagram </a></span></span></li>
+                <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="/whitmer/0,9309,7-387-90490-485551--,00.html" title=" #comp_106107 {min-height:750px}
+ 
+ 
+ 
+ 
+ &nbsp; 
+ 
+ 
+ 
+  "><span class="sr-only">Recent Instagram Post</span> </a><span class="shortdesc"><style type="text/css">#comp_106107 {min-height:750px}
+</style> 
+                    <blockquote class="instagram-media" data-instgrm-captioned="" data-instgrm-permalink="https://www.instagram.com/p/Bvj-TqVg-JN/?utm_source=ig_embed&amp;utm_medium=loading" data-instgrm-version="12" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"> 
+                     <div style="padding:16px;"> 
+                      <div style=" display: flex; flex-direction: row; align-items: center;"> 
+                       <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;">
+                        &nbsp;
+                       </div> 
+                      </div> 
+                     </div> 
+                    </blockquote> <script async src="//www.instagram.com/embed.js"></script></span></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_106107 -->
+             </div>
+             <div class="row-eq-height col-sm-4 ">
+              <!-- ID COMPONENT_106109 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_106109" class="comp list  list-no-ctitle title-align-center                 list-group-align-center list-group-first list-group-first-link-primary-2">
+               <h2 class="cTitle" style="">Twitter</h2> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList NONE ">
+                <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="https://twitter.com/GovWhitmer" target="_blank" title="Twitter">Twitter </a></span></span></li>
+                <li class="contentItem" style=""><span class="inner"><span class="contentBlock "><span class="bodylinks"><span class="sr-only">Twitter Feed</span></span><span class="shortdesc"><style type="text/css">#twitter-widget-0 { 
+ width: 100% !important; 
+ }
+</style> <p><a class="twitter-timeline" data-widget-id="490915836232613889" href="https://twitter.com/govwhitmer">Tweets by @GovWhitmer</a> <script src="/documents/som/twitter_widget_427983_7.js"></script> <style type="text/css">#twitter-widget-0 { 
+ width: 100% !important;
+ }
+</style> </p> </span></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_106109 -->
+             </div>
+             <div class="row-eq-height col-sm-4 ">
+              <!-- ID COMPONENT_106108 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_106108" class="comp list  list-no-ctitle title-align-center                 list-group-align-center list-group-first list-group-first-link-primary-1">
+               <h2 class="cTitle" style="">Facebook</h2> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList NONE ">
+                <li class="contentItem" style=""><span class="inner"><span class="contentBlock "> <a class="bodylinks" href="https://www.facebook.com/GretchenWhitmer" target="_blank" title="Facebook">Facebook </a></span></span></li>
+                <li class="contentItem" style=""><span class="inner"><span class="contentBlock "><span class="bodylinks"><span class="sr-only">FB Feed</span></span><span class="shortdesc"><script src="//www.michigan.gov/documents/mdcr/facebook_embed_469110_7.js"></script> 
+                    <div class="fb-page" data-adapt-container-width="true" data-hide-cover="true" data-href="https://www.facebook.com/GovGretchenWhitmer/" data-show-facepile="false" data-small-header="true" data-tabs="timeline" style="min-height:500px;"> 
+                     <blockquote cite="https://www.facebook.com/GovGretchenWhitmer/" class="fb-xfbml-parse-ignore">
+                      <a href="https://www.facebook.com/GovGretchenWhitmer/">Governor Gretchen Whitmer</a>
+                     </blockquote> 
+                    </div> </span></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_106108 -->
+             </div>
+            </div>
+            <div class="row row-eq-height">
+             <div class="row-eq-height col-sm-12 ">
+              <!-- ID COMPONENT_106335 --> 
+              <!-- BEGIN CDA Generic Content Display -->
+              <div id="comp_106335" class="comp list  list-no-ctitle">
+               <h2 class="cTitle" style="">placeholder row</h2> 
+               <!-- displayContent RD 001 -->
+               <!--PAGEWATCH-->
+               <!-- open table RD --> 
+               <ul class="contentList NONE ">
+                <li class="contentItem" style=""><span class="inner"><span class="contentBlock "><span class="bodylinks"><span class="sr-only">Panel Hero</span></span></span></span></li> 
+               </ul>
+               <!--/PAGEWATCH-->
+               <!-- /displayContent RD 001 -->
+              </div> 
+              <!-- END CDA Generic Content Display -->
+              <!-- /ID COMPONENT_106335 -->
+             </div>
+            </div>
+            <!-- END MAIN CONTENT AREA ROW -->
+            <!-- END Panel BODY -->
+           </div>
+           <!-- END Panel block-6 -->
+          </div>
+          <!-- END Panel GROUP -->
+         </div>
+         <!-- END Panel COMPONENT -->
+        </div>
+        <!-- /ID COMPONENT_106099 -->
+       </div>
+      </div>
+      <!-- END MAIN CONTENT AREA ROW --> 
+      <!-- Body End --> 
+     </div> 
+     <!-- START RIGHT_NAV 90480__90480__90480 ~ 7-387-90480__90480__90480--- ~ 7-387-90480__90480__90480--- --> 
+     <!-- State Of Michigan - Thu Feb 21 15:58:33 2019 --> 
+     <!-- BEGIN RIGHTNAV HTML CODE  --> 
+     <!-- Agency category -->
+     <!-- Begin Global Nav section RD -->
+     <!-- End Global Nav section RD -->
+     <!-- End My Interests/RightNav Links/Related Content/Right Links --> 
+     <!-- Cache Debug Info
+
+--> 
+     <!-- END RIGHT_NAV --> 
+     <!-- /div --> 
+    </div>
+    <!-- /contentWrapper --> 
+   </div>
+   <!-- /bodyWrapper --> 
+   <!-- BOTTOMNAV --> 
+   <!-- BEGIN FOOTER RD --> 
+   <div id="footerArea" role="contentinfo" style="clear: both"> 
+    <!-- begin expanded footer -->
+    <div id="expandedFooter">
+     <div id="cat_90484" class="footer_1">
+      <h2>brandarea</h2>
+      <ul>
+       <li><a href="/som"><img src="/images/som/somFooterLogoBOW2015_491229_7.png" alt="Michigan.gov"></a></li>
+      </ul>
+     </div>
+     <div id="agencylinks" class="footer_1">
+      <ul></ul>
+     </div>
+     <div id="policylinks" class="footer_1">
+      <ul>
+       <li><a href="/">Michigan.gov Home</a></li>
+       <li><a href="/adaform">ADA</a></li>
+       <li><a href="/minewswire">Michigan News</a></li>
+       <li><a href="/whitmer/0,9309,7-387--281460--,00.html">Policies</a></li>
+      </ul>
+     </div>
+    </div>
+    <br>
+    <span class="copyright"><br>Copyright 2019 State of Michigan</span>
+    <!-- end expanded footer -->
+    <script type="text/javascript">
+if (typeof jQuery == 'undefined') {
+    document.querySelector('body').classList.remove('matching-heights-processing');
+	document.getElementById("noAdBlock").style.display = "block";
+}
+</script> 
+   </div> 
+   <!--END DIV CONTAINER--> 
+  </div> 
+  <!-- Mega Menu Block --> 
+  <div id="megaMenuBlock"> 
+   <div id="megaMenuSubLinksBlock_container"> 
+    <div class="container"> 
+     <div class="col-xs-3"> 
+      <div id="megaMenuLogoBlock"> 
+       <a href="/whitmer"> <img src="/images/som/final_logo_migov_white_526452_7.png" class="img-responsive logo" alt="Gov. Gretchen Whitmer "></a> 
+      </div> 
+     </div> 
+     <div class="col-xs-9"> 
+      <div id="megaMenuSubLinksBlockBreadCrumb"></div> 
+      <div id="megaMenuSubLinksBlock"></div> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="megaMenuSearchBlock"></div> 
+  </div> 
+  <style type="text/css">
+
+</style> 
+  <!-- stmiws102.prdcloud.fms.ibmcloud.com rjp NT -->  
+ </body>
+</html>

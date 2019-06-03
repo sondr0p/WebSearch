@@ -1,0 +1,419 @@
+<!doctype html>
+<html class="no-js tn-html" lang="en">
+ <head> 
+  <title>Transparent Tennessee - TN.gov</title> 
+  <meta charset="utf-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="keywords"> 
+  <meta name="description"> 
+  <meta name="url" content="https://www.tn.gov/transparenttn.html"> 
+  <meta name="lastModified" content="8 Mar 2019 10:04:07 CST"> 
+  <meta name="pageType"> 
+  <meta name="pageDepartment"> 
+  <meta name="pageDivision"> 
+  <meta name="newsDateTimeString"> 
+  <meta name="eventDateTimeString"> 
+  <meta name="searchType"> 
+  <meta name="pagePath" content="/content/tn/transparenttn"> 
+  <meta name="category"> 
+  <meta property="og:title" content="Transparent Tennessee - TN.gov"> 
+  <meta property="og:description"> 
+  <meta property="og:url" content="https://www.tn.gov/transparenttn.html"> 
+  <meta property="og:image"> 
+  <meta name="twitter:card" content="summary"> 
+  <meta name="twitter:title" content="Transparent Tennessee - TN.gov"> 
+  <meta name="twitter:description"> 
+  <meta name="twitter:url" content="https://www.tn.gov/transparenttn.html"> 
+  <meta name="twitter:image"> 
+  <link rel="shortcut icon" href="/etc/clientlibs/tncore/main/img/favicon.ico"> 
+  <link rel="canonical" href="https://www.tn.gov/transparenttn.html"> 
+  <link rel="stylesheet" href="/etc/clientlibs/tncore/main.min.7b7f24489495d82cdd3b7a88107b9f76.css" type="text/css"> 
+  <link rel="stylesheet" href="/etc/clientlibs/tn-sites/tngov.min.de4d4402ec2138999b5540dbe08724b4.css" type="text/css"> 
+  <script src="//assets.adobedtm.com/046dcefde06052c1522b33b00453f0592c8031e1/satelliteLib-0eaceea9a3f6b60d158884d8c7daf5435071c1e5.js"></script> 
+ </head> 
+ <body class="tngov" data-selectors="[]" data-template="contentPage"> 
+  <div class="sr-only sr-only-focusable"> 
+   <p><a href="#main">Skip to Main Content</a></p> 
+  </div> 
+  <noindex> 
+   <div> 
+   </div> 
+   <div> 
+    <div> 
+     <div class="tn-header">
+      <header id="header"> 
+       <div class="row center-block top-nav"> 
+        <a class="logo" href="https://www.tn.gov/" data-logo="state-government" style="background-image: url('/etc/clientlibs/tncore/main/img/logos/tn-logo.png')"> 
+         <div>
+          Home
+         </div> </a> 
+        <a class="search-all icon-home-1" href="https://www.tn.gov/">Go to TN.gov</a> 
+       </div> 
+       <div class="row center-block agency"> 
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 columns title"> 
+         <a href="/content/tn/transparenttn.html"> <img src="/content/dam/headers/transparenttn.png" alt="  State of Tennessee" id="entity-name" data-pin-nopin="true"> </a> 
+        </div> 
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 columns text-right"> 
+         <div class="tn-headersearch">
+          <div class="search"> 
+           <form method="get" action="/transparenttn/search-results.html"> 
+            <input type="text" class="search-box" name="q" placeholder="Search Transparent Tennessee" aria-label="Search Transparent Tennessee"> 
+            <input type="submit" value="Search" class="search-button"> 
+            <i class="icon-search"></i> 
+           </form> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="backdrop" style="background-image:url(/content/dam/headers/test.jpg)"></div> 
+       <div class="backdrop-color" style="background-color: rgba(110,112,115,0.20)"></div> 
+      </header> 
+     </div> 
+     <div class="par iparys_inherited"> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="tn-topnav">
+    <nav id="nav"> 
+     <div class="row center-block"> 
+      <div class="col-lg-12"> 
+       <div class="logo-small tn-logo"> 
+        <a href="/content/tn.html"><span class="sr-only">Go to TN.gov</span></a> 
+       </div> 
+       <div class="mobile-show icon-menu mobile-menu">
+        Section
+       </div> 
+       <ul class="inline-list nav-items"> 
+        <li> <a href="/transparenttn.html" class="icon-home"><span class="sr-only">Go to Transparent Tennessee</span></a> </li> 
+        <li> <a href="/transparenttn/education-workforce-development.html">Education</a> </li> 
+        <li> <a href="/transparenttn/fiscal-strength-efficient-government.html">Fiscal Strength</a> </li> 
+        <li> <a href="/transparenttn/health-welfare.html">Health &amp; Welfare</a> </li> 
+        <li class="dropdown"> <a href="/transparenttn/jobs-economic-development.html">Jobs &amp; Economic Development<i class="icon-down-dir"></i></a> 
+         <ul> 
+          <li><a href="/transparenttn/jobs-economic-development/open-ecd.html">Open ECD</a></li> 
+          <li><a href="/transparenttn/jobs-economic-development/performance-metrics_rd-main-nav.html">Performance Metrics</a></li> 
+         </ul> </li> 
+        <li> <a href="/transparenttn/public-safety.html">Public Safety</a> </li> 
+        <li> <a href="/transparenttn/state-financial-overview.html">Financial Overview </a> </li> 
+        <li> <a href="/transparenttn/01-openmaps.html">OpenMaps</a> </li> 
+        <li> <a href="/transparenttn/about-transparent-tennessee.html">About</a> </li> 
+       </ul> 
+       <div class="right primary-print"> 
+        <a href="javascript:window.print();" class="icon-print"><span class="sr-only">Print This Page</span></a> 
+       </div> 
+       <div class="right secondary-print"> 
+        <a href="javascript:window.print();" class="icon-print"><span class="sr-only">Print This Page</span></a> 
+       </div> 
+       <div class="right secondary-search"> 
+        <a class="icon-search"><span class="sr-only">Go to Search</span></a> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="config hidden" data-config="{&quot;closeMenuText&quot;:&quot;Close Menu&quot;,&quot;menuText&quot;:&quot;Section&quot;}"></div> 
+    </nav> 
+   </div> 
+   <div class="tn-alerts"> 
+   </div> 
+  </noindex> 
+  <div id="main" class="basic" tabindex="-1"> 
+   <div class="tn-pagetitle hidden" aria-hidden="false"> 
+    <h1>Transparent Tennessee</h1> 
+   </div> 
+   <div> 
+    <div class="tn-previewslider parbase"> 
+     <div class="swiper-container no-padding"> 
+      <ul class="swiper-wrapper inline-list"> 
+       <li class="swiper-slide"> 
+        <div class="photo" style="background-image: url(\2f content\2f dam\2ftn\2ftransparenttn\2fimages\2fTransparentTNDataSlider.png)"></div> 
+        <div class="description"> 
+         <div class="text"> 
+          <h2>Leading the Way</h2> 
+          <small> <p>Results for America recognized Transparent TN as the national performance management leader in its 2018 “Invest In What Works: State Standard of Excellence” report</p> <p> <a class="text-button icon-right-1" href="https://2018state.results4america.org/state-standard-of-excellence/performance-management--continuous-improvement.html#leading-example" target="_blank">Read More</a> </p> </small> 
+         </div> 
+        </div> </li> 
+       <li class="swiper-slide"> 
+        <div class="photo" style="background-image: url(\2f content\2f dam\2ftn\2ftransparenttn\2fimages\2fopenmapsgenericblank.jpg)"></div> 
+        <div class="description"> 
+         <div class="text"> 
+          <h2>Introducing OpenMaps</h2> 
+          <small> <p>Explore, interact, and download data visualizations for in-demand metrics across state government.</p> <p> <a class="text-button icon-right-1" href="https://openmaps.tn.gov/" target="_blank">Read More</a> </p> </small> 
+         </div> 
+        </div> </li> 
+       <li class="swiper-slide"> 
+        <div class="photo" style="background-image: url(\2f content\2f dam\2ftn\2ftransparenttn\2fimages\2f AcademicStandards.jpg)"></div> 
+        <div class="description"> 
+         <div class="text"> 
+          <h2>Tennessee's Top Marks in Academic Standards</h2> 
+          <small> <p>State ranks as most improved in rigor of academic standards</p> <p> <a class="text-button icon-right-1" href="https://www.tn.gov/governor/priorities/tennessee-education-transformation.html" target="_blank">Read More</a> </p> </small> 
+         </div> 
+        </div> </li> 
+       <li class="swiper-slide"> 
+        <div class="photo" style="background-image: url(\2f content\2f dam\2ftn\2ftransparenttn\2fimages\2f Business_friendly.png)"></div> 
+        <div class="description"> 
+         <div class="text"> 
+          <small> <p> <a class="text-button icon-right-1" href="https://www.cnbc.com/2017/07/11/top-states-for-business-9-tennessee.html">Read More</a> </p> </small> 
+         </div> 
+        </div> </li> 
+       <li class="swiper-slide"> 
+        <div class="photo" style="background-image: url(\2f content\2f dam\2ftn\2ftransparenttn\2fimages\2ftransparent_budget.jpg)"></div> 
+        <div class="description"> 
+         <div class="text"> 
+          <h2>The Budget, Fiscal Year 2019-2020</h2> 
+          <small> <p>Explore the complete recommended budget for fiscal year 2019-2020.</p> <p> <a class="text-button icon-right-1" href="/finance/fa-financial/budget-information.html" target="_blank">Read More</a> </p> </small> 
+         </div> 
+        </div> </li> 
+      </ul> 
+      <ul class="pagination"></ul> 
+     </div> 
+     <div class="config hidden" data-config="{&quot;interval&quot;:&quot;3100&quot;}"></div> 
+    </div> 
+    <div class="columnctrl tn-columnctrl colctrl">
+     <div class="tn-col-ctrl"> 
+      <div class="row parsys_column tn-3cols"> 
+       <div class="parsys_column column-1"> 
+        <div> 
+         <div class="tn-contenttile"> 
+          <a href="/transparenttn/education-workforce-development.html"> 
+           <div class="imagecube" style="background-image: url('/content/dam/tn/transparenttn/images/transparent_education.jpg');"> 
+            <h2 class="title border-orange">Education</h2> 
+           </div> </a> 
+          <p><em>To be the fastest improving state in the country.</em> The administration is focused on ensuring that Tennessee's K-12 education system is led by great principals and highly effective teachers.<br> </p> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="parsys_column column-2"> 
+        <div> 
+         <div class="tn-contenttile"> 
+          <a href="/transparenttn/jobs-economic-development.html"> 
+           <div class="imagecube" style="background-image: url('/content/dam/tn/transparenttn/images/mainpgct-business-development.jpg');"> 
+            <h2 class="title border-blue">Jobs &amp; Economic Development</h2> 
+           </div> </a> 
+          <p><em>To be the #1 state in the Southeast for high quality jobs.&nbsp;</em><br> The administration is working hard to foster a business-friendly environment that will make it easier for Tennessee companies to grow and make our state a more attractive place for businesses to call home.<br> </p> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="parsys_column column-3"> 
+        <div> 
+         <div class="tn-contenttile"> 
+          <a href="/transparenttn/fiscal-strength-efficient-government.html"> 
+           <div class="imagecube" style="background-image: url('/content/dam/tn/transparenttn/images/mainpgct-fiscal-strength.jpg');"> 
+            <h2 class="title border-green">Fiscal Strength</h2> 
+           </div> </a> 
+          <p><em>To be the best managed state, providing high-quality services at the lowest possible price to taxpayers. </em>Tennessee has a proud tradition of being a fiscally conservative state, and the administration is working hard to ensure state government continues to be well managed with the lowest possible tax burden to residents.<br> </p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div>
+    </div> 
+    <div class="columnctrl tn-columnctrl colctrl">
+     <div class="tn-col-ctrl"> 
+      <div class="row parsys_column tn-3cols"> 
+       <div class="parsys_column column-1"> 
+        <div> 
+         <div class="tn-contenttile"> 
+          <a href="/transparenttn/health-welfare.html"> 
+           <div class="imagecube" style="background-image: url('/content/dam/tn/transparenttn/images/mainpgct-health-family.jpg');"> 
+            <h2 class="title border-orange">Health &amp; Welfare</h2> 
+           </div> </a> 
+          <p><i>To promote healthy behavior and provide high quality services to our most vulnerable populations.</i> Working to provide high quality and cost effective services to each and every Tennessean.<br> </p> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="parsys_column column-2"> 
+        <div> 
+         <div class="tn-contenttile"> 
+          <a href="/transparenttn/public-safety.html"> 
+           <div class="imagecube" style="background-image: url('/content/dam/tn/transparenttn/images/mainpgct-police.jpg');"> 
+            <h2 class="title border-green">Public Safety</h2> 
+           </div> </a> 
+          <p><em>To promote the safety and security of Tennesseans.</em> A public safety subcabinet was established to work across state agencies in and effort to reduce drug abuse and trafficking, to curb violent crime, and to cut the rate of repeat offenders.<br> </p> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="parsys_column column-3"> 
+        <div> 
+        </div> 
+       </div> 
+      </div> 
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div class="tn-backtotop">
+   <a href="#header" class="page-top icon-up"></a> 
+  </div> 
+  <noindex> 
+   <div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+     </div> 
+    </div> 
+    <div> 
+     <div class="secondaryfooter tn-secondaryfooter">
+      <footer id="agency-footer"> 
+       <div class="row"> 
+        <div class="col-md-15 col-sm-15 columns"> 
+         <h2 class="border-darkblue"><a href="/transparenttn/open-records-counsel.html">Open Records Counsel</a></h2> 
+         <ul class="block-list"> 
+          <li><a href="/transparenttn/open-records-counsel/open-records-counsel-faqs_rd.html">Frequently Asked Questions</a></li> 
+          <li><a href="/transparenttn/open-records-counsel/open-records-counsel-resources_rd.html">Open Records Counsel Home</a></li> 
+         </ul> 
+        </div> 
+        <div class="col-md-15 col-sm-15 columns"> 
+         <h2 class="border-darkblue"><a href="/transparenttn/public-opportunities-mp/public-opportunities_rd/public-meetings.html">Public Opportunities</a></h2> 
+         <ul class="block-list"> 
+          <li><a href="/transparenttn/public-opportunities-mp/public-opportunities_rd/public-opportunities-feedback.html">Feedback Form</a></li> 
+          <li><a href="/transparenttn/public-opportunities-mp/public-opportunities_rd/public-meetings.html">Public Meetings</a></li> 
+         </ul> 
+        </div> 
+        <div class="col-md-15 col-sm-15 columns"> 
+         <h2 class="border-darkblue"><a href="/transparenttn/state-financial-overview.html">Financial Overview</a></h2> 
+         <ul class="block-list"> 
+          <li><a href="/transparenttn/state-financial-overview/search-states-salary.html">Search State's Salary</a></li> 
+          <li><a href="/transparenttn/state-financial-overview/reimbursements.html">Travel Reimbursements</a></li> 
+          <li><a href="/transparenttn/state-financial-overview/search-states-checkbook.html">Search State's Checkbook</a></li> 
+          <li><a href="/transparenttn/state-financial-overview/audits.html">Audits</a></li> 
+         </ul> 
+        </div> 
+        <div class="col-md-15 col-sm-15 columns"> 
+         <h2 class="border-darkblue">Additional Information</h2> 
+         <ul class="block-list"> 
+          <li><a href="/transparenttn/all-transparent-tennessee-departments.html">Departments</a></li> 
+          <li><a href="/transparenttn/transparenttn-governors-office_rd.html">Governor's Office</a></li> 
+         </ul> 
+        </div> 
+        <div class="col-md-15 col-sm-15 columns last"> 
+         <div class="contact"> 
+          <strong>Transparent Tennessee<br></strong> 
+          <br> 
+         </div> 
+         <div> 
+          <img src="/etc/clientlibs/tncore/main/img/tn-seal.png" alt="Tennessee State Seal"> 
+         </div> 
+        </div> 
+       </div> 
+      </footer> 
+     </div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+     </div> 
+    </div> 
+    <div> 
+     <div class="newpar new section"> 
+     </div> 
+     <div class="par iparys_inherited"> 
+      <div class="tn_footer tn-footer parbase"> 
+       <footer id="footer"> 
+        <div id="footer-top"> 
+         <div class="row"> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns"> 
+           <ul class="inline-list"> 
+            <li> <a href="/about-tn/flag-status.html" class="icon-flag" data-resource-path="/_jcr_content/footer/tn_footer"> </a> </li> 
+            <li id="footer-livechat" class="offline"> <a href="#" class="icon-chat" onclick="openFooterChat()" target="_blank"> Live Chat </a> 
+             <div class="livechat"> 
+              <script type="text/javascript">
+                                function openFooterChat() {
+                                    window.open ("https://help.tn.gov/sn_customerservice_tn_chat_selector.do", "popup", "width=900, height=600"); 
+                                 };
+                            </script> 
+             </div> </li> 
+           </ul> 
+          </div> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns text-right"> 
+           <ul class="inline-list"> 
+            <li> <a href="/help.html" class="icon-help-circled">Help</a> </li> 
+            <li id="footer-share"><a href="#" class="icon-export">Share</a> 
+             <div class="drop right"> 
+              <div class="box"> 
+               <span class="st_sharethis_large" displaytext="ShareThis"></span> 
+               <span class="st_facebook_large" displaytext="Facebook"></span> 
+               <span class="st_twitter_large" displaytext="Tweet"></span> 
+               <span class="st_googleplus_large" displaytext="Google +"></span> 
+               <span class="st_linkedin_large" displaytext="LinkedIn"></span> 
+               <script type="text/javascript">
+                                    var switchTo5x = true;
+                                </script> 
+               <script type="text/javascript" src="//ws.sharethis.com/button/buttons.js"></script> 
+               <script type="text/javascript">
+                                    if (typeof stLight !== 'undefined') {
+                                        stLight.options({
+                                            publisher : "5dc356bf-5442-455c-b483-ab8ca7d8cd15",
+                                            doNotHash : false,
+                                            doNotCopy : false,
+                                            hashAddressBar : false
+                                        });
+                                    }
+                                </script> 
+              </div> 
+             </div></li> 
+            <li id="footer-translate"><a href="#" class="icon-book">Translate</a> 
+             <div class="drop right"> 
+              <div class="box"> 
+               <div id="google_translate_element"></div> 
+              </div> 
+             </div></li> 
+            <li id="footer-fontsize"><a href="#" class="icon-font">Font Size</a> 
+             <div class="drop right"> 
+              <div class="box"> 
+               <ul class="inline-list"> 
+                <li><a class="button" data-font-size="small">a-</a></li> 
+                <li><a class="button active" data-font-size="normal">Normal</a></li> 
+                <li><a class="button" data-font-size="large">A+</a></li> 
+               </ul> 
+              </div> 
+             </div></li> 
+           </ul> 
+          </div> 
+         </div> 
+         <a class="starball"> <img src="/etc/clientlibs/tncore/main/img/footer-starball.png" alt="Tristar" width="100%"> </a> 
+        </div> 
+        <div id="footer-bottom"> 
+         <div class="row"> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns"> 
+           <ul class="inline-list"> 
+            <li> <a href="/state-services.html" class="first">TN.gov Services</a> <a href="/directory.html">TN.gov Directory</a> <a href="/transparenttn.html">Transparent TN</a> <a href="/web-policies/privacy-statement.html">Web Policies</a> </li> 
+           </ul> 
+          </div> 
+          <div class="col-lg-6 col-md-6 col-sm-6 columns text-right"> 
+           <ul class="inline-list"> 
+            <li> <a href="/about-tn/state-symbols.html">About Tennessee</a> <a href="/humanrights/file-a-discrimination-complaint/title-vi1/title-vi-disclaimer.html">Title VI</a> <a href="/web-policies/accessibility.html">Accessibility</a> <a href="/help.html">Help &amp; Contact</a> <a href="/survey.html">Survey</a> </li> 
+           </ul> 
+          </div> 
+         </div> 
+        </div> 
+       </footer> 
+       <div id="modal-footer"></div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <script type="text/javascript" src="/etc/clientlibs/tncore/main.min.73d9ee3d42191396dd2a3447bf54bab7.js"></script> 
+   <script type="text/javascript">_satellite.pageBottom();</script> 
+  </noindex> 
+  <div id="overlay"></div> 
+  <!-- Begin Dynamic Modal for Videos --> 
+  <div class="tn-videoModal modal fade" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="videoModal" aria-hidden="true"> 
+   <div class="modal-dialog"> 
+    <div class="modal-content"> 
+     <div class="modal-body"> 
+      <a href="#" data-dismiss="modal" class="close-video icon-cancel text-button">Close</a> 
+      <div class="videoWrapper"> 
+       <iframe src=""></iframe> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- End Dynamic Modal for Videos --> 
+  <!-- DTM Analytics Datalayer --> 
+  <script>
+            var digitalData = { pageInfo: {} };
+            digitalData.pageInfo.pageName = "transparenttn";
+        </script>   
+ </body>
+</html>

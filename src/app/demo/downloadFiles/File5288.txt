@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:media="http://search.yahoo.com/mrss/"> 
+ <channel> 
+  <title>List of Classes - FDLP</title> 
+  <description><![CDATA[<p>The official listing of publications available for selection by depository libraries.</p>]]>
+  </description> 
+  <link>
+   https://www.fdlp.gov/file-repository/collection-management/list-of-classes?format=html
+  </link> 
+  <lastBuildDate>
+   Fri, 31 May 2019 21:20:01 -0400
+  </lastBuildDate> 
+  <atom:link href="https://www.fdlp.gov/file-repository/collection-management/list-of-classes?format=rss" rel="self" type="application/rss+xml" /> 
+  <language>
+   en-GB
+  </language> 
+  <sy:updatePeriod>
+   hourly
+  </sy:updatePeriod> 
+  <sy:updateFrequency>
+   1
+  </sy:updateFrequency> 
+  <item> 
+   <title>Alphabetic Listing of Government Authors</title> 
+   <link>
+    https://www.fdlp.gov/file-repository/collection-management/list-of-classes/list-of-classes-data-files/2125-alphabetic-listing-of-government-authors?format=html
+   </link> 
+   <enclosure url="https://www.fdlp.gov/file-repository/collection-management/list-of-classes/list-of-classes-data-files/2125-alphabetic-listing-of-government-authors/file" length="25581" type="text/plain" /> 
+   <media:content url="https://www.fdlp.gov/file-repository/collection-management/list-of-classes/list-of-classes-data-files/2125-alphabetic-listing-of-government-authors/file" fileSize="25581" type="text/plain" medium="document" /> 
+   <media:title type="plain">
+    Alphabetic Listing of Government Authors
+   </media:title> 
+   <media:description type="html"><![CDATA[<p>Alphabetic listing of Government authors with corresponding SuDoc prefix. </p>]]>
+   </media:description> 
+   <guid isPermaLink="true">
+    https://www.fdlp.gov/file-repository/collection-management/list-of-classes/list-of-classes-data-files/2125-alphabetic-listing-of-government-authors?format=html
+   </guid> 
+   <description><![CDATA[<p>Alphabetic listing of Government authors with corresponding SuDoc prefix. </p>]]>
+   </description> 
+   <author>
+    jbraddock@gpo.gov (John Braddock)
+   </author> 
+   <category>
+    List of Classes Data Files
+   </category> 
+   <pubDate>
+    Fri, 31 May 2019 21:20:01 -0400
+   </pubDate> 
+  </item> 
+  <item> 
+   <title>List of Active Items and Class Stems </title> 
+   <link>
+    https://www.fdlp.gov/file-repository/collection-management/list-of-classes/list-of-classes-data-files/2126-list-of-active-items-and-class-stems?format=html
+   </link> 
+   <enclosure url="https://www.fdlp.gov/file-repository/collection-management/list-of-classes/list-of-classes-data-files/2126-list-of-active-items-and-class-stems/file" length="260760" type="text/plain" /> 
+   <media:content url="https://www.fdlp.gov/file-repository/collection-management/list-of-classes/list-of-classes-data-files/2126-list-of-active-items-and-class-stems/file" fileSize="260760" type="text/plain" medium="document" /> 
+   <media:title type="plain">
+    List of Active Items and Class Stems 
+   </media:title> 
+   <media:description type="html"><![CDATA[<p>List of active item numbers and SuDoc class stems.</p>]]>
+   </media:description> 
+   <guid isPermaLink="true">
+    https://www.fdlp.gov/file-repository/collection-management/list-of-classes/list-of-classes-data-files/2126-list-of-active-items-and-class-stems?format=html
+   </guid> 
+   <description><![CDATA[<p>List of active item numbers and SuDoc class stems.</p>]]>
+   </description> 
+   <author>
+    jbraddock@gpo.gov (John Braddock)
+   </author> 
+   <category>
+    List of Classes Data Files
+   </category> 
+   <pubDate>
+    Fri, 31 May 2019 21:20:01 -0400
+   </pubDate> 
+  </item> 
+  <item> 
+   <title>Inactive Item Numbers</title> 
+   <link>
+    https://www.fdlp.gov/file-repository/collection-management/list-of-classes/list-of-classes-data-files/2127-inactive-item-numbers?format=html
+   </link> 
+   <enclosure url="https://www.fdlp.gov/file-repository/collection-management/list-of-classes/list-of-classes-data-files/2127-inactive-item-numbers/file" length="254915" type="text/plain" /> 
+   <media:content url="https://www.fdlp.gov/file-repository/collection-management/list-of-classes/list-of-classes-data-files/2127-inactive-item-numbers/file" fileSize="254915" type="text/plain" medium="document" /> 
+   <media:title type="plain">
+    Inactive Item Numbers
+   </media:title> 
+   <media:description type="html"><![CDATA[<p>Cumulative list of inactive item numbers that are no longer available for selection.</p>]]>
+   </media:description> 
+   <guid isPermaLink="true">
+    https://www.fdlp.gov/file-repository/collection-management/list-of-classes/list-of-classes-data-files/2127-inactive-item-numbers?format=html
+   </guid> 
+   <description><![CDATA[<p>Cumulative list of inactive item numbers that are no longer available for selection.</p>]]>
+   </description> 
+   <author>
+    jbraddock@gpo.gov (John Braddock)
+   </author> 
+   <category>
+    List of Classes Data Files
+   </category> 
+   <pubDate>
+    Fri, 31 May 2019 21:20:01 -0400
+   </pubDate> 
+  </item> 
+  <item> 
+   <title>Inactive SuDoc Class Stems </title> 
+   <link>
+    https://www.fdlp.gov/file-repository/collection-management/list-of-classes/list-of-classes-data-files/2128-inactive-sudoc-class-stems?format=html
+   </link> 
+   <enclosure url="https://www.fdlp.gov/file-repository/collection-management/list-of-classes/list-of-classes-data-files/2128-inactive-sudoc-class-stems/file" length="286176" type="text/plain" /> 
+   <media:content url="https://www.fdlp.gov/file-repository/collection-management/list-of-classes/list-of-classes-data-files/2128-inactive-sudoc-class-stems/file" fileSize="286176" type="text/plain" medium="document" /> 
+   <media:title type="plain">
+    Inactive SuDoc Class Stems 
+   </media:title> 
+   <media:description type="html"><![CDATA[<p>Cumulative list of inactive SuDoc class stems.</p>]]>
+   </media:description> 
+   <guid isPermaLink="true">
+    https://www.fdlp.gov/file-repository/collection-management/list-of-classes/list-of-classes-data-files/2128-inactive-sudoc-class-stems?format=html
+   </guid> 
+   <description><![CDATA[<p>Cumulative list of inactive SuDoc class stems.</p>]]>
+   </description> 
+   <author>
+    jbraddock@gpo.gov (John Braddock)
+   </author> 
+   <category>
+    List of Classes Data Files
+   </category> 
+   <pubDate>
+    Fri, 31 May 2019 21:20:01 -0400
+   </pubDate> 
+  </item> 
+  <item> 
+   <title>List of Classes </title> 
+   <link>
+    https://www.fdlp.gov/file-repository/collection-management/list-of-classes/list-of-classes-data-files/2129-list-of-classes?format=html
+   </link> 
+   <enclosure url="https://www.fdlp.gov/file-repository/collection-management/list-of-classes/list-of-classes-data-files/2129-list-of-classes/file" length="892861" type="text/plain" /> 
+   <media:content url="https://www.fdlp.gov/file-repository/collection-management/list-of-classes/list-of-classes-data-files/2129-list-of-classes/file" fileSize="892861" type="text/plain" medium="document" /> 
+   <media:title type="plain">
+    List of Classes 
+   </media:title> 
+   <media:description type="html"><![CDATA[<p>ASCII text version of the listing of publications available for selection by depository libraries.</p>]]>
+   </media:description> 
+   <guid isPermaLink="true">
+    https://www.fdlp.gov/file-repository/collection-management/list-of-classes/list-of-classes-data-files/2129-list-of-classes?format=html
+   </guid> 
+   <description><![CDATA[<p>ASCII text version of the listing of publications available for selection by depository libraries.</p>]]>
+   </description> 
+   <author>
+    jbraddock@gpo.gov (John Braddock)
+   </author> 
+   <category>
+    List of Classes Data Files
+   </category> 
+   <pubDate>
+    Fri, 31 May 2019 21:20:01 -0400
+   </pubDate> 
+  </item> 
+  <item> 
+   <title>List of Classes Online Only Items</title> 
+   <link>
+    https://www.fdlp.gov/file-repository/collection-management/list-of-classes/list-of-classes-data-files/2562-list-of-classes-online-only-items?format=html
+   </link> 
+   <enclosure url="https://www.fdlp.gov/file-repository/collection-management/list-of-classes/list-of-classes-data-files/2562-list-of-classes-online-only-items/file" length="608328" type="text/plain" /> 
+   <media:content url="https://www.fdlp.gov/file-repository/collection-management/list-of-classes/list-of-classes-data-files/2562-list-of-classes-online-only-items/file" fileSize="608328" type="text/plain" medium="document" /> 
+   <media:title type="plain">
+    List of Classes Online Only Items
+   </media:title> 
+   <media:description type="html"><![CDATA[<p>List of Classes Online Only Items</p>]]>
+   </media:description> 
+   <guid isPermaLink="true">
+    https://www.fdlp.gov/file-repository/collection-management/list-of-classes/list-of-classes-data-files/2562-list-of-classes-online-only-items?format=html
+   </guid> 
+   <description><![CDATA[<p>List of Classes Online Only Items</p>]]>
+   </description> 
+   <author>
+    jbraddock@gpo.gov (John Braddock)
+   </author> 
+   <category>
+    List of Classes Data Files
+   </category> 
+   <pubDate>
+    Fri, 31 May 2019 21:20:01 -0400
+   </pubDate> 
+  </item> 
+  <item> 
+   <title>Modified List of Classes</title> 
+   <link>
+    https://www.fdlp.gov/file-repository/collection-management/list-of-classes/list-of-classes-data-files/3013-modified-list-of-classes?format=html
+   </link> 
+   <enclosure url="https://www.fdlp.gov/file-repository/collection-management/list-of-classes/list-of-classes-data-files/3013-modified-list-of-classes/file" length="705890" type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" /> 
+   <media:content url="https://www.fdlp.gov/file-repository/collection-management/list-of-classes/list-of-classes-data-files/3013-modified-list-of-classes/file" fileSize="705890" type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" medium="document" /> 
+   <media:title type="plain">
+    Modified List of Classes
+   </media:title> 
+   <media:description type="html"><![CDATA[<p>List of publications available for selection by depository libraries. Has additional fields including Sort by SuDoc, Agency, and Sub-Agency. File updated 5/15/2019.</p>]]>
+   </media:description> 
+   <guid isPermaLink="true">
+    https://www.fdlp.gov/file-repository/collection-management/list-of-classes/list-of-classes-data-files/3013-modified-list-of-classes?format=html
+   </guid> 
+   <description><![CDATA[<p>List of publications available for selection by depository libraries. Has additional fields including Sort by SuDoc, Agency, and Sub-Agency. File updated 5/15/2019.</p>]]>
+   </description> 
+   <author>
+    adahlen@gpo.gov (Ashley Dahlen)
+   </author> 
+   <category>
+    List of Classes Data Files
+   </category> 
+   <pubDate>
+    Wed, 17 Jan 2018 00:04:08 -0500
+   </pubDate> 
+  </item> 
+  <item> 
+   <title>List of Classes (Print Version) Revised 11-2015</title> 
+   <link>
+    https://www.fdlp.gov/file-repository/collection-management/list-of-classes/2682-list-of-classes-print-version-revised-11-2015?format=html
+   </link> 
+   <enclosure url="https://www.fdlp.gov/file-repository/collection-management/list-of-classes/2682-list-of-classes-print-version-revised-11-2015/file" length="5164971" type="application/pdf" /> 
+   <media:content url="https://www.fdlp.gov/file-repository/collection-management/list-of-classes/2682-list-of-classes-print-version-revised-11-2015/file" fileSize="5164971" type="application/pdf" medium="document" /> 
+   <media:title type="plain">
+    List of Classes (Print Version) Revised 11-2015
+   </media:title> 
+   <media:description type="html"><![CDATA[Official paper version of the listing of publications available for selection by depository libraries. Updated semi-annually. (November 2015)]]>
+   </media:description> 
+   <guid isPermaLink="true">
+    https://www.fdlp.gov/file-repository/collection-management/list-of-classes/2682-list-of-classes-print-version-revised-11-2015?format=html
+   </guid> 
+   <description><![CDATA[Official paper version of the listing of publications available for selection by depository libraries. Updated semi-annually. (November 2015)]]>
+   </description> 
+   <author>
+    kdavis@gpo.gov (Katy Davis)
+   </author> 
+   <category>
+    List of Classes
+   </category> 
+   <pubDate>
+    Fri, 20 Nov 2015 13:49:26 -0500
+   </pubDate> 
+  </item> 
+  <item> 
+   <title>List of Classes (Print Version) Revised 6-2014</title> 
+   <link>
+    https://www.fdlp.gov/file-repository/collection-management/list-of-classes/2505-list-of-classes-print-version-revised-6-2014?format=html
+   </link> 
+   <enclosure url="https://www.fdlp.gov/file-repository/collection-management/list-of-classes/2505-list-of-classes-print-version-revised-6-2014/file" length="4932374" type="application/pdf" /> 
+   <media:content url="https://www.fdlp.gov/file-repository/collection-management/list-of-classes/2505-list-of-classes-print-version-revised-6-2014/file" fileSize="4932374" type="application/pdf" medium="document" /> 
+   <media:title type="plain">
+    List of Classes (Print Version) Revised 6-2014
+   </media:title> 
+   <media:description type="html"><![CDATA[Official paper version of the listing of publications available for selection by depository libraries. Updated semi-annually. (June 2014)]]>
+   </media:description> 
+   <guid isPermaLink="true">
+    https://www.fdlp.gov/file-repository/collection-management/list-of-classes/2505-list-of-classes-print-version-revised-6-2014?format=html
+   </guid> 
+   <description><![CDATA[Official paper version of the listing of publications available for selection by depository libraries. Updated semi-annually. (June 2014)]]>
+   </description> 
+   <author>
+    kdavis@gpo.gov (Katy Davis)
+   </author> 
+   <category>
+    List of Classes
+   </category> 
+   <pubDate>
+    Mon, 18 Aug 2014 08:20:10 -0400
+   </pubDate> 
+  </item> 
+  <item> 
+   <title>List of Classes (Print Version) Revised 4-13</title> 
+   <link>
+    https://www.fdlp.gov/file-repository/collection-management/list-of-classes/2344-list-of-classes-print-version-revised-4-13?format=html
+   </link> 
+   <enclosure url="https://www.fdlp.gov/file-repository/collection-management/list-of-classes/2344-list-of-classes-print-version-revised-4-13/file" length="4441893" type="application/pdf" /> 
+   <media:content url="https://www.fdlp.gov/file-repository/collection-management/list-of-classes/2344-list-of-classes-print-version-revised-4-13/file" fileSize="4441893" type="application/pdf" medium="document" /> 
+   <media:title type="plain">
+    List of Classes (Print Version) Revised 4-13
+   </media:title> 
+   <media:description type="html"><![CDATA[<p>Official paper version of the listing of publications available for selection by depository libraries. Updated semi-annually. (April 2013)</p>]]>
+   </media:description> 
+   <guid isPermaLink="true">
+    https://www.fdlp.gov/file-repository/collection-management/list-of-classes/2344-list-of-classes-print-version-revised-4-13?format=html
+   </guid> 
+   <description><![CDATA[<p>Official paper version of the listing of publications available for selection by depository libraries. Updated semi-annually. (April 2013)</p>]]>
+   </description> 
+   <author>
+    jbraddock@gpo.gov (John Braddock)
+   </author> 
+   <category>
+    List of Classes
+   </category> 
+   <pubDate>
+    Mon, 09 Sep 2013 11:04:56 -0400
+   </pubDate> 
+  </item> 
+  <item> 
+   <title>List of Classes (Print Version)</title> 
+   <link>
+    https://www.fdlp.gov/file-repository/collection-management/list-of-classes/666-list-of-classes-print-version?format=html
+   </link> 
+   <enclosure url="https://www.fdlp.gov/file-repository/collection-management/list-of-classes/666-list-of-classes-print-version/file" length="4866678" type="application/pdf" /> 
+   <media:content url="https://www.fdlp.gov/file-repository/collection-management/list-of-classes/666-list-of-classes-print-version/file" fileSize="4866678" type="application/pdf" medium="document" /> 
+   <media:title type="plain">
+    List of Classes (Print Version)
+   </media:title> 
+   <media:description type="html"><![CDATA[<p>Official paper version of the listing of publications available for selection by depository libraries. Updated semi-annually. (October 2011)</p>]]>
+   </media:description> 
+   <guid isPermaLink="true">
+    https://www.fdlp.gov/file-repository/collection-management/list-of-classes/666-list-of-classes-print-version?format=html
+   </guid> 
+   <description><![CDATA[<p>Official paper version of the listing of publications available for selection by depository libraries. Updated semi-annually. (October 2011)</p>]]>
+   </description> 
+   <author>
+    jbraddock@gpo.gov (John Braddock)
+   </author> 
+   <category>
+    List of Classes
+   </category> 
+   <pubDate>
+    Wed, 01 Aug 2012 12:00:00 -0400
+   </pubDate> 
+  </item> 
+  <item> 
+   <title>Newly-Added Congressional Document Item Numbers</title> 
+   <link>
+    https://www.fdlp.gov/file-repository/collection-management/list-of-classes/1995-newly-added-congressional-document-item-numbers?format=html
+   </link> 
+   <enclosure url="https://www.fdlp.gov/file-repository/collection-management/list-of-classes/1995-newly-added-congressional-document-item-numbers/file" length="15314" type="text/csv" /> 
+   <media:content url="https://www.fdlp.gov/file-repository/collection-management/list-of-classes/1995-newly-added-congressional-document-item-numbers/file" fileSize="15314" type="text/csv" medium="document" /> 
+   <media:title type="plain">
+    Newly-Added Congressional Document Item Numbers
+   </media:title> 
+   <media:description type="html"><![CDATA[<p>Temporary .csv file provided as an additional option to assist libraries in the evaluation and selection of the new item numbers before the extended annual update selection cycle deadline of August 12, 2011.</p>]]>
+   </media:description> 
+   <guid isPermaLink="true">
+    https://www.fdlp.gov/file-repository/collection-management/list-of-classes/1995-newly-added-congressional-document-item-numbers?format=html
+   </guid> 
+   <description><![CDATA[<p>Temporary .csv file provided as an additional option to assist libraries in the evaluation and selection of the new item numbers before the extended annual update selection cycle deadline of August 12, 2011.</p>]]>
+   </description> 
+   <author>
+    jbraddock@gpo.gov (John Braddock)
+   </author> 
+   <category>
+    List of Classes
+   </category> 
+   <pubDate>
+    Thu, 04 Aug 2011 12:36:03 -0400
+   </pubDate> 
+  </item> 
+ </channel> 
+</rss>
