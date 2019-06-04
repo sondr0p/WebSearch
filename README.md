@@ -19,3 +19,10 @@ cd ~/WebSearch/testing/search
 ng serve --open
 ```
 
+## Screenshots
+Home Page
+![alt text](https://github.com/sondr0p/WebSearch/blob/master/home.PNG)
+Search Results
+![alt text](https://github.com/sondr0p/WebSearch/blob/master/cia.PNG)
+Backend
+![alt text](https://github.com/sondr0p/WebSearch/blob/master/backend.PNG)
