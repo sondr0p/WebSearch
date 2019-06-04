@@ -2,7 +2,7 @@
 
 This is a project for my CS 172 class at UCR (Information Retrieval). This project is a simple search engine that searches through previously scraped .gov web pages and allows the user to search through them. 
 - Each web page is scored and indexed through Lucene
-- The backend is created Spring Boot and is located at http://localhost:8080/api/articles
+- The backend is created through Spring Boot and is located at http://localhost:8080/api/articles
 - The front end is created through Angular and then reads from http://localhost:8080/api/articles
 - The front end is located at http://localhost:4200/
 
